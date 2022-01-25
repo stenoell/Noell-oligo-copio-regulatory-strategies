@@ -1,0 +1,168 @@
+---
+title: "Figure 2"
+author: "Stephen Noell"
+date: "27 October 2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE,
+                      message = FALSE, 
+                      warning=FALSE,
+                      fig.align = "left")
+
+```
+
+```{r}
+library("here")            # set the path to the folder 
+library("GGally")
+library("ggplot2")
+library("ggpubr")
+library("svglite") #for saving SVGs
+
+set.seed(57)
+
+```
+
+```{r}
+#input data
+rawdata_7211 <- read.csv("Uptake_Rdata_7211_alanine_BaCl2_all.csv", header=TRUE)
+rawdata_7211
+
+model_7211 <- read.csv("Uptake_Rdata_7211_alanine_BaCl2_all_model.csv", header=TRUE)
+model_7211
+
+rawdata_hot <- read.csv("Uptake_Rdata_HOT1A3_alanine_BaCl2_all.csv", header=TRUE)
+rawdata_hot
+
+model_hot <- read.csv("Uptake_Rdata_HOT1A3_alanine_BaCl2_all_model.csv", header=TRUE)
+model_hot
+
+```
+
+```{r}
+
+rawdata_7211$Concentration <- factor(rawdata_7211$Concentration, 
+                                     levels = (unique(rawdata_7211$Concentration)),
+                                     ordered=TRUE)
+
+model_7211$Concentration <- factor(model_7211$Concentration, 
+                                   levels = (unique(model_7211$Concentration)), 
+                                   ordered=TRUE)
+
+rawdata_hot$Concentration <- factor(rawdata_hot$Concentration, 
+                                    levels = (unique(rawdata_hot$Concentration)), 
+                                    ordered=TRUE)
+
+model_hot$Concentration <- factor(model_hot$Concentration, 
+                                  levels = (unique(model_hot$Concentration)), 
+                                  ordered=TRUE)
+
+xmax1 <- max(rawdata_7211$Time, na.rm = TRUE)
+xmax2 <- max(rawdata_hot$Time, na.rm = TRUE)
+xmax2
+```
+
+```{r}
+#plots
+
+plot_7211 <- ggplot(rawdata_7211) +
+  geom_point(data = rawdata_7211, aes(x=Time, y=Uptake, 
+                                             color=Type, shape=Type),
+             size = 3) +
+  geom_line(data = model_7211, aes(x=Time, y=Uptake,
+                                          color=Type),
+            size = 0.4) +
+  geom_errorbar(data = rawdata_7211, aes(x=Time, y=Uptake,
+                                                ymin=Uptake-StDev, 
+                                                ymax=Uptake+StDev,
+                                                color=Type), 
+                width=(xmax1/6), size = 0.7,
+                position=position_dodge(.001)) +
+  theme_bw() + 
+  scale_colour_manual(values=c("#003f5c","#bc5090", "#ffa600")) +
+  labs(x = "Time (min)", y = "Alanine taken up (nmoles C/gDW)") +
+  theme(text = element_text(size=15), 
+        panel.spacing = unit(0.5, "lines"), 
+        legend.position = "none",
+        axis.title.y = element_text(size=13),
+        axis.title.x = element_text(size=13)) +
+  scale_y_continuous(breaks = scales::pretty_breaks(n=3)) +
+  scale_x_continuous(breaks = scales::pretty_breaks(n=3))
+
+plot_7211_final <- plot_7211 + facet_wrap(vars(Concentration), scales = "free",
+                                          nrow = 2, ncol = 4)
+plot_7211_final
+
+plot_hot <- ggplot(rawdata_hot) +
+  geom_point(data = rawdata_hot, aes(x=Time, y=Uptake, 
+                                      color=Type, shape=Type),
+             size = 3) +
+  geom_line(data = model_hot, aes(x=Time, y=Uptake,
+                                   color=Type),
+            size = 0.4) +
+  geom_errorbar(data = rawdata_hot, aes(x=Time, y=Uptake,
+                                         ymin=Uptake-StDev, 
+                                         ymax=Uptake+StDev,
+                                         color=Type), 
+                width=(xmax1/6), size = 0.7,
+                position=position_dodge(.001)) +
+  theme_bw() + 
+  scale_colour_manual(values=c("#003f5c","#bc5090", "#ffa600")) +
+  labs(x = "Time (min)", y = "Alanine taken up (nmoles C/gDW)") +
+  theme(text = element_text(size=15), 
+        panel.spacing = unit(0.5, "lines"), 
+        legend.position = "none",
+        axis.title.y = element_text(size=13),
+        axis.title.x = element_text(size=13)) +
+  scale_y_continuous(breaks = scales::pretty_breaks(n=3)) +
+  scale_x_continuous(breaks = scales::pretty_breaks(n=3))
+
+plot_hot_final <- plot_hot + facet_wrap(vars(Concentration), scales = "free",
+                                        nrow = 2, ncol = 4)
+plot_hot_final
+
+dot_line_plots <- ggarrange(plot_7211_final,plot_hot_final,
+          labels = c("A", "B"),
+          ncol = 1, nrow = 2,
+          common.legend = TRUE)
+
+```
+
+```{r}
+#oxidation initiation data
+rawdata <- read.csv("Uptake_oxidation_initiation_Rdata.csv", header=TRUE)
+
+ox_init <- ggplot(rawdata, aes(x=Concentration, y=Initiation, group=Strain)) + 
+  geom_point(size = 8, show.legend = TRUE,
+                   aes(shape=Strain, color=Strain)) +
+  theme_bw() + 
+  theme(text = element_text(size=15), 
+        legend.position = "bottom", 
+        legend.direction="horizontal",
+        axis.title.y = element_text(size=13),
+        axis.title.x = element_text(size=13),
+        legend.title = element_text(size=15),
+        legend.text = element_text(size=12))+
+  labs(x = "L-alanine Concentration (nM)", y = "Oxidation Initiation Time (min)") +
+  coord_cartesian(ylim = c(0,4)) +
+  scale_x_log10() +
+  scale_color_manual(values=c("#4dac26","#d01c8b")) +
+  scale_shape_manual(values=c(16, 17))
+
+ox_init
+
+```
+
+```{r}
+#final plot
+fig2 <- ggarrange(dot_line_plots, ox_init,
+          labels = c("", "C"),
+          ncol = 1, nrow = 2,
+          heights = c(1, 0.5))
+fig2
+
+ggsave("Figure 2.png", fig2, width = 240, height = 300, units = "mm", dpi = 300)
+
+ggsave("Figure 2.svg", fig2, width = 240, height = 300, units = "mm", dpi = 300)
+```
