@@ -1,0 +1,110 @@
+---
+title: "qPCR analysis"
+author: "Stephen Noell"
+date: "23/05/2022"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE,
+                      message = FALSE, 
+                      warning = FALSE,
+                      fig.align = "center",
+                      fig.width = 10,
+                      fig.height = 6)
+```
+
+
+```{r}
+
+# Libraries
+library("tidyverse")       # data wrangling and visualisation
+library("here")            # set the path to the folder
+library("ggplot2")
+library("ggpubr") #for putting figs together
+library("RColorBrewer") #for color palettes
+library("svglite") #for saving SVGs
+library("reshape2")
+library("formattable")
+library("stringr")
+
+
+set.seed(57)
+```
+
+```{r}
+#data loading
+sar11_raw <- read.csv("qPCR_sar11_final.csv")
+
+alt_raw <- read.csv("qPCR_HOT_ald_final.csv")
+
+xmax1 <- max(alt_raw$Time, na.rm = TRUE)
+xmax2 <- max(sar11_raw$Time, na.rm = TRUE)
+
+```
+
+```{r}
+#plot
+
+plot_qpcr_alt <- ggplot(alt_raw) +
+  geom_point(data = alt_raw, aes(x=Time, y=Expression, color=Treatment),
+             size = 4) +
+  geom_line(data = alt_raw, aes(x=Time, y=Expression, color=Treatment),
+             size = 0.8) +
+  geom_errorbar(data = alt_raw, aes(x=Time, y=Expression, ymin=Expression-StDev, ymax=Expression+StDev,
+                                                color=Treatment), 
+                width=(xmax1/20), size = 0.5,
+                position=position_dodge(.01)) +
+  theme_bw() + 
+  scale_colour_manual(values=c("#ca0020","#0571b0")) +
+  labs(x = "Time (min)", y = "log 2 Relative expression") +
+  theme(text = element_text(size=16), legend.position = "none")
+
+plot_qpcr_alt
+
+plot_qpcr_sar11 <- ggplot(sar11_raw) +
+  geom_point(data = sar11_raw, aes(x=Time, y=Expression, color=Treatment),
+             size = 4) +
+  geom_line(data = sar11_raw, aes(x=Time, y=Expression, color=Treatment),
+             size = 0.8) +
+  geom_errorbar(data = sar11_raw, aes(x=Time, y=Expression, ymin=Expression-StDev, ymax=Expression+StDev,
+                                                color=Treatment), 
+                width=(xmax1/20), size = 0.5,
+                position=position_dodge(.01)) +
+  theme_bw() + 
+  scale_colour_manual(values=c("#ca0020","#0571b0")) +
+  labs(x = "Time (min)", y = "log 2 Relative expression") +
+  theme(text = element_text(size=16), legend.position = "none")
+
+plot_qpcr_sar11
+
+
+plot_qpcr_final <- ggarrange(plot_qpcr_alt, plot_qpcr_sar11,
+          nrow = 1,
+          ncol = 2,
+          labels = c("A","B"),
+          common.legend = TRUE
+)
+
+plot_qpcr_final
+
+ggsave("Figure 3.png", plot_qpcr_final, width = 200, height = 100, units = "mm",dpi = 300)
+ggsave("Figure 3.svg", plot_qpcr_final, width = 200, height = 100, units = "mm",dpi = 300)
+```
+
+```{r}
+plot_qpcr_sar11_bar <- ggplot(sar11_raw, aes(x=Time, y=Expression, fill=Treatment)) +
+  geom_col(stat = "identity", position = position_dodge()) +
+  geom_errorbar(aes(ymin=Expression-StDev, ymax=Expression+StDev), 
+                width=(xmax2/40), size = 0.5,
+                position=position_dodge(0.9)) +
+  theme_bw() + 
+  scale_fill_manual(values=c("#ca0020","#0571b0")) +
+  scale_color_manual(values=c("#ca0020","#0571b0")) +
+  labs(x = "Time (min)", y = "log 2 Relative expression") +
+  theme(text = element_text(size=16), legend.position = "none")
+
+plot_qpcr_sar11_bar
+
+```
+
