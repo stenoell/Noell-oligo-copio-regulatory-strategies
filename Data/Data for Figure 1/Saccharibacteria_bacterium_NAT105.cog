@@ -1,0 +1,461 @@
+#prefix	assemid	query	COG	category	name	Gene	pathway	pmid	pdb_id
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_00005	COG4396	X	Mu-like prophage host-nuclease inhibitor protein Gam	Gam			
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_00020	COG2255	L	Holliday junction resolvasome RuvABC, ATP-dependent DNA helicase subunit RuvB	RuvB			1HQC
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_00025	COG0305	L	Replicative DNA helicase	DnaB			1B79
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_00030	COG1807	M	PMT family glycosyltransferase ArnT/Agl22, involved in glycosylation of proteins and lipid IVA	ArnT		16226890;31233657;32706435	5EZM
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_00050	COG1227	C	Inorganic pyrophosphatase/exopolyphosphatase	PPX1			1I74
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_00055	COG0143	J	Methionyl-tRNA synthetase	MetG	Aminoacyl-tRNA synthetases		1A8H
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_00070	COG1733	K	DNA-binding transcriptional regulator, HxlR family	HxlR			1YYV
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_00075	COG2204	T	DNA-binding transcriptional response regulator, NtrC family, contains REC, AAA-type ATPase, and a Fis-type DNA-binding domains	AtoC			1ZY2
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_00080	COG3290	T	Sensor histidine kinase DipB regulating citrate/malate metabolism	CitA			
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_00090	COG0474	P	Magnesium-transporting ATPase (P-type)	MgtA			1IWO
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_00120	COG1185	J	Polyribonucleotide nucleotidyltransferase (polynucleotide phosphorylase)	Pnp			1E3P
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_00125	COG3276	J	Selenocysteine-specific translation elongation factor SelB	SelB	Translation factors		4ZU9
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_00145	COG0299	F	Folate-dependent phosphoribosylglycinamide formyltransferase PurN	PurN	Purine biosynthesis	25013077	1C2T
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_00150	COG0242	J	Peptide deformylase	Def			1BS4
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_00155	COG1198	L	Primosomal protein N' (replication factor Y) - superfamily II helicase	PriA			6DCR
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_00160	COG1926	R	Predicted phosphoribosyltransferase				
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_00165	COG4190	K	Predicted transcriptional regulator, contains HTH domain				
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_00170	COG0608	L	ssDNA-specific exonuclease RecJ, DHH superfamily, may be involved in archaeal DNA replication intiation	RecJ			1IR6
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_00175	COG2165	NUW	Type II secretory pathway, pseudopilin PulG	PulG			1AY2
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_00180	COG2165	NUW	Type II secretory pathway, pseudopilin PulG	PulG			1AY2
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_00185	COG2165	NUW	Type II secretory pathway, pseudopilin PulG	PulG			1AY2
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_00200	COG2165	NUW	Type II secretory pathway, pseudopilin PulG	PulG			1AY2
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_00205	COG0563	F	Adenylate kinase or related kinase	Adk	Pyrimidine biosynthesis		1AK2
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_00210	COG0024	J	Methionine aminopeptidase	Map			3J2I
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_00215	COG4972	NW	Type IV pilus assembly protein, ATPase PilM	PilM			2YCH
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_00220	COG0206	D	Cell division GTPase FtsZ	FtsZ			1FSZ
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_00240	COG2165	NUW	Type II secretory pathway, pseudopilin PulG	PulG			1AY2
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_00245	COG0143	J	Methionyl-tRNA synthetase	MetG	Aminoacyl-tRNA synthetases		1A8H
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_00260	COG3824	O	Predicted Zn-dependent protease, minimal metalloprotease (MMP)-like domain				3E11
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_00285	COG1451	R	UTP pyrophosphatase, metal-dependent hydrolase family	YgjP		27941785	4JIU
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_00290	COG1061	KL	Superfamily II DNA or RNA helicase	SSL2			6JDE
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_00295	COG0732	V	Restriction endonuclease S subunit	HsdS			1YDX
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_00315	COG1432	R	NYN domain, predicted PIN-related RNAse, tRNA/rRNA maturation	LabA			2QIP
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_00320	COG0286	V	Type I restriction-modification system, DNA methylase subunit	HsdM		26872910	2AR0
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_00330	COG2003	L	DNA repair protein RadC, contains a helix-hairpin-helix DNA-binding motif	RadC		9695921	2QLC
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_00360	COG1974	KT	SOS-response transcriptional repressor LexA (RecA-mediated autopeptidase)	LexA			1AY9
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_00370	COG1086	MO	NDP-sugar epimerase, includes UDP-GlcNAc-inverting 4,6-dehydratase FlaA1 and capsular polysaccharide biosynthesis protein EpsC	FlaA1			2GN4
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_00375	COG0297	G	Glycogen synthase	GlgA			1RZU
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_00390	COG1209	M	dTDP-glucose pyrophosphorylase	RmlA1			1FXO
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_00395	COG1287	O	Asparagine N-glycosylation enzyme, membrane subunit Stt3	Stt3			2LGZ
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_00410	COG1216	G	Glycosyltransferase, GT2 family	WcaE			2Z86
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_00415	COG0297	G	Glycogen synthase	GlgA			1RZU
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_00430	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_00435	COG1215	N	Glycosyltransferase, catalytic subunit of cellulose synthase and poly-beta-1,6-N-acetylglucosamine synthase	BcsA			4HG6
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_00440	COG1118	P	ABC-type sulfate/molybdate transport systems, ATPase component	CysA			
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_00445	COG1682	G	ABC-type polysaccharide/teichoic acid/polyol phosphate export permease	TagG			6JBH
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_00460	COG1042	C	Acyl-CoA synthetase (NDP forming)	PatZN		26251518	4YAK
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_00465	COG1215	N	Glycosyltransferase, catalytic subunit of cellulose synthase and poly-beta-1,6-N-acetylglucosamine synthase	BcsA			4HG6
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_00470	COG2246	I	Putative flippase GtrA (transmembrane translocase of bactoprenol-linked glucose)	GtrA		24710389	5MLZ
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_00475	COG0297	G	Glycogen synthase	GlgA			1RZU
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_00480	COG1847	R	Predicted RNA-binding protein Jag (SpoIIIJ-associated), conains KH and R3H domains	Jag			3GKU
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_00485	COG0706	M	Membrane protein insertase Oxa1/YidC/SpoIIIJ	YidC			3WO6
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_00495	COG1484	L	DNA replication protein DnaC	DnaC			2QGZ
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_00505	COG0592	L	DNA polymerase III sliding clamp (beta) subunit, PCNA homolog	DnaN			1JQJ
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_00510	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_00525	COG4942	D	Septal ring factor EnvC, activator of murein hydrolases AmiA and AmiB	EnvC			
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_00585	COG0071	O	Small heat shock protein IbpA, HSP20 family	IbpA			1GME
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_00610	COG0494	V	8-oxo-dGTP pyrophosphatase MutT and related house-cleaning NTP pyrophosphohydrolases, NUDIX family	MutT			4V14
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_00620	COG1994	O	Zn-dependent protease (includes sporulation protein SpoIVFB)	SpoIVFB			3B4R
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_00625	COG0227	J	Ribosomal protein L28	RpmB	Ribosome 50S subunit		2JZ6
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_00640	COG0572	F	Uridine kinase	Udk	Pyrimidine salvage		5B3F
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_00645	COG3695	K	Alkylated DNA nucleotide flippase Atl1, participates in nucleotide excision repair, Ada-like DNA-binding domain	Atl1		19516334	2KIF
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_00650	COG0442	J	Prolyl-tRNA synthetase	ProS	Aminoacyl-tRNA synthetases		5XIF
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_00660	COG2165	NUW	Type II secretory pathway, pseudopilin PulG	PulG			1AY2
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_00675	COG1182	C	FMN-dependent NADH-azoreductase	AzoR			1TIK
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_00700	COG0056	C	FoF1-type ATP synthase, alpha subunit	AtpA	FoF1-type ATP synthase		3OAA
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_00705	COG0224	C	FoF1-type ATP synthase, gamma subunit	AtpG	FoF1-type ATP synthase	15326535	3OAA
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_00710	COG0055	C	FoF1-type ATP synthase, beta subunit	AtpD	FoF1-type ATP synthase		3OAA
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_00715	COG0712	C	FoF1-type ATP synthase, delta subunit	AtpH	FoF1-type ATP synthase		1ABV
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_00740	COG1099	R	Predicted metal-dependent hydrolase, TIM-barrel fold				3GUW
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_00750	COG0436	E	Aspartate/methionine/tyrosine aminotransferase	AspB	Isoleucine, leucine, valine biosynthesis		2O0R
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_00755	COG1434	M	Lipid carrier protein ElyC involved in cell wall biogenesis, DUF218 family	ElyC		24391520	3CA8
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_00760	COG1606	R	ATP-utilizing enzyme, PP-loop superfamily				6B2O
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_00765	COG2165	NUW	Type II secretory pathway, pseudopilin PulG	PulG			1AY2
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_00770	COG2872	J	Ser-tRNA(Ala) deacylase AlaX (editing enzyme)	AlaX			2E1B
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_00780	COG4972	NW	Type IV pilus assembly protein, ATPase PilM	PilM			2YCH
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_00795	COG1473	R	Metal-dependent amidase/aminoacylase/carboxypeptidase	AbgB	Lysine biosynthesis	17307853	3RAM
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_00800	COG3858	D	Spore cortex hydrolase SleL/YaaH, N-acetylglucosaminidase of GH18 family	SleL			4S3J
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_00805	COG1163	J	Ribosome-interacting GTPase RBG1	Rbg1			4A9A
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_00810	COG2176	L	DNA polymerase III, alpha subunit (gram-positive type)	PolC			
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_00820	COG1123	O	ABC-type glutathione transport system ATPase component, contains duplicated ATPase domain	GsiA			
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_00825	COG0366	G	Glycosidase/amylase (phosphorylase)	AmyA		29684280	2P67
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_00835	COG1825	J	Ribosomal protein L25 (general stress protein Ctc)	RplY	Ribosome 50S subunit		1B75
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_00840	COG4148	P	ABC-type molybdate transport system, ATPase component ModC	ModC	Molybdopterin biosynthesis		
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_00845	COG0607	P	Rhodanese-related sulfurtransferase	PspE	Urea cycle		1TQ1
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_00850	COG0556	L	Excinuclease UvrABC helicase subunit UvrB	UvrB			1C4O
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_00855	COG0024	J	Methionine aminopeptidase	Map			3J2I
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_00870	COG4533	K	DNA-binding transcriptional regulator SgrR of sgrS sRNA, contains a MarR-type HTH domain and a periplasmic-type solute-binding domain	SgrR			
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_00890	COG2255	L	Holliday junction resolvasome RuvABC, ATP-dependent DNA helicase subunit RuvB	RuvB			1HQC
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_00895	COG0439	I	Biotin carboxylase	AccC	Fatty acid biosynthesis		1BNC
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_00900	COG2268	S	Uncharacterized membrane protein YqiK, contains Band7/PHB/SPFH domain	YqiK			1WIN
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_00915	COG5646	OP	Iron-binding protein Fra/YdhG, frataxin family (Fe-S cluster biosynthesis)	Fra			2OC6
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_00920	COG5507	S	Uncharacterized conserved protein YbaA, DUF1428 family	YbaA			
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_00925	COG0122	L	3-methyladenine DNA glycosylase/8-oxoguanine DNA glycosylase	AlkA			1DIZ
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_00930	COG0640	K	DNA-binding transcriptional regulator, ArsR family	ArsR			3F6V
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_00935	COG1033	R	Predicted exporter protein, RND superfamily	MMPL			5KHN
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_00950	COG2165	NUW	Type II secretory pathway, pseudopilin PulG	PulG			1AY2
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_00965	COG1704	M	Magnetosome formation protein MamQ, lipoprotein antigen LemA family	LemA		14638756;20212111;26884433	2ETD
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_00970	COG4783	MO	Outer membrane protein chaperone/metalloprotease BepA/YfgC, contains M48 and TPR domains	BepA		24003122	6AIT
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_00980	COG0272	L	NAD-dependent DNA ligase	Lig			5TT5
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_00990	COG0724	J	RNA recognition motif (RRM) domain	RRM			1HL6
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_01000	COG2165	NUW	Type II secretory pathway, pseudopilin PulG	PulG			1AY2
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_01010	COG0771	M	UDP-N-acetylmuramoylalanine-D-glutamate ligase	MurD	Mureine biosynthesis		1E0D
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_01015	COG0215	J	Cysteinyl-tRNA synthetase	CysS	Aminoacyl-tRNA synthetases		1LI5
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_01035	COG0494	V	8-oxo-dGTP pyrophosphatase MutT and related house-cleaning NTP pyrophosphohydrolases, NUDIX family	MutT			4V14
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_01040	COG0571	K	dsRNA-specific ribonuclease	Rnc			1DI2
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_01055	COG1837	R	Predicted RNA-binding protein YlqC, contains KH domain, UPF0109 family	YlqC			
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_01065	COG0336	J	tRNA G37 N-methylase TrmD	TrmD	tRNA modification		1P9P
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_01080	COG2165	NUW	Type II secretory pathway, pseudopilin PulG	PulG			1AY2
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_01085	COG4795	U	Type II secretory pathway, PulJ/GspJ component	PulJ			
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_01090	COG5184	DZ	Alpha-tubulin suppressor ATS1 and related RCC1 domain-containing proteins	ATS1			1A12
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_01105	COG2165	NUW	Type II secretory pathway, pseudopilin PulG	PulG			1AY2
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_01110	COG1459	NUW	Type II secretory pathway, component PulF	PulF			2VMA
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_01115	COG0630	NU	Type IV secretory pathway ATPase VirB11/Archaellum biosynthesis ATPase ArlI/FlaI	VirB11		32416640	1G6O
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_01120	COG0630	NU	Type IV secretory pathway ATPase VirB11/Archaellum biosynthesis ATPase ArlI/FlaI	VirB11		32416640	1G6O
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_01140	COG0849	D	Cell division ATPase FtsA	FtsA			3WT0
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_01155	COG1163	J	Ribosome-interacting GTPase RBG1	Rbg1			4A9A
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_01160	COG0522	J	Ribosomal protein S4 or related protein	RpsD	Ribosome 30S subunit		4V4H
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_01165	COG0231	J	Translation elongation factor P (EF-P)/translation initiation factor 5A (eIF-5A)	Efp	Translation factors		1UEB
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_01170	COG0238	J	Ribosomal protein S18	RpsR	Ribosome 30S subunit		4V4H
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_01180	COG0360	J	Ribosomal protein S6	RpsF	Ribosome 30S subunit		4V4H
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_01185	COG2165	NUW	Type II secretory pathway, pseudopilin PulG	PulG			1AY2
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_01190	COG2165	NUW	Type II secretory pathway, pseudopilin PulG	PulG			1AY2
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_01195	COG2165	NUW	Type II secretory pathway, pseudopilin PulG	PulG			1AY2
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_01200	COG1674	D	DNA segregation ATPase FtsK/SpoIIIE or related protein	FtsK			2IUT
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_01205	COG0595	J	mRNA degradation ribonuclease J1/J2	RnjA			3T3N
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_01220	COG2948	U	Type IV secretory pathway, VirB10 component	VirB10			2BHV
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_01225	COG0539	J	Ribosomal protein S1	RpsA	Ribosome 30S subunit		4NNH
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_01230	COG2165	NUW	Type II secretory pathway, pseudopilin PulG	PulG			1AY2
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_01240	COG0184	J	Ribosomal protein S15P/S13E	RpsO	Ribosome 30S subunit		4V4H
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_01245	COG3704	U	Type IV secretory pathway, VirB6 component	VirB6			
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_01250	COG0130	J	tRNA U55 pseudouridine synthase TruB, may also work on U342 of tmRNA	TruB	tRNA modification		1K8W
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_01255	COG0618	FT	nanoRNase/pAp phosphatase, hydrolyzes c-di-AMP and oligoRNAs	NrnA			5O4Z
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_01265	COG2165	NUW	Type II secretory pathway, pseudopilin PulG	PulG			1AY2
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_01270	COG1466	L	DNA polymerase III, delta subunit	HolA			3ZH9
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_01275	COG0266	L	Formamidopyrimidine-DNA glycosylase	Nei			1EE8
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_01285	COG0717	F	dCTP deaminase	Dcd	Thymidylate biosynthesis		1XS1
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_01290	COG1011	H	FMN and 5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YigB, HAD superfamily (riboflavin biosynthesis)	YigB		24123841	4JB3
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_01310	COG2019	F	Archaeal adenylate kinase	AdkA			1KI9
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_01315	COG2165	NUW	Type II secretory pathway, pseudopilin PulG	PulG			1AY2
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_01320	COG0568	K	DNA-directed RNA polymerase, sigma subunit (sigma70/sigma32)	RpoD	RNA polymerase		1SIG
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_01325	COG0358	L	DNA primase (bacterial type)	DnaG		28128549	3B39
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_01335	COG2315	K	Predicted DNA-binding protein with double-wing structural motif, MmcQ/YjbR family	MmcQ		17266124	2A1V
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_01375	COG0526	O	Thiol-disulfide isomerase or thioredoxin	TrxA			1XFL
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_01380	COG0504	F	CTP synthase (UTP-ammonia lyase)	PyrG	Pyrimidine biosynthesis		1S1M
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_01385	COG2165	NUW	Type II secretory pathway, pseudopilin PulG	PulG			1AY2
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_01395	COG0208	F	Ribonucleotide reductase beta subunit, ferritin-like domain	NrdB	Pyrimidine salvage		1AV8
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_01410	COG0209	F	Ribonucleotide reductase alpha subunit	NrdA	Pyrimidine salvage		1R1R
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_01420	COG2165	NUW	Type II secretory pathway, pseudopilin PulG	PulG			1AY2
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_01430	COG1101	R	ABC-type uncharacterized transport system, ATPase component	PhnK			
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_01435	COG4591	M	ABC-type transport system involved in lipoprotein release, permease component LolC	LolE			6F49
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_01455	COG0467	T	RecA-superfamily ATPase, KaiC/GvpD/RAD55 family	RAD55			1TF7
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_01465	COG0744	M	Penicillin-binding protein 1B/1F, peptidoglycan  transglycosylase/transpeptidase	MrcB			3FWL
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_01470	COG0162	J	Tyrosyl-tRNA synthetase	TyrS	Aminoacyl-tRNA synthetases		4OUD
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_01475	COG0513	L	Superfamily II DNA and RNA helicase	SrmB			3RRM
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_01485	COG1092	J	23S rRNA G2069 N7-methylase RlmK or C1962 C5-methylase RlmI	RlmK	23S rRNA modification		2B78
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_01515	COG2217	P	Cation-transporting P-type ATPase	ZntA			4BBJ
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_01520	COG4097	P	Predicted ferric reductase				
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_01530	COG3652	S	Predicted outer membrane protein, contains DUF4142 domain				
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_01540	COG3544	S	Uncharacterized conserved protein, DUF305 family				5FEJ
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_01545	COG3544	S	Uncharacterized conserved protein, DUF305 family				5FEJ
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_01555	COG5274	CI	Cytochrome b involved in lipid metabolism	CYB5			1AQA
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_01575	COG0566	J	tRNA G18 (ribose-2'-O)-methylase SpoU	SpoU	tRNA modification		1GZ0
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_01585	COG0441	J	Threonyl-tRNA synthetase	ThrS	Aminoacyl-tRNA synthetases		1NYQ
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_01590	COG1047	O	Peptidyl-prolyl cis-trans isomerase, FKBP type	SlpA			2M2A
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_01595	COG0616	O	Periplasmic serine protease, ClpP class	SppA			3BEZ
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_01605	COG2165	NUW	Type II secretory pathway, pseudopilin PulG	PulG			1AY2
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_01615	COG0086	K	DNA-directed RNA polymerase, beta' subunit/160 kD subunit	RpoC	RNA polymerase		1NT9
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_01620	COG2165	NUW	Type II secretory pathway, pseudopilin PulG	PulG			1AY2
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_01635	COG2165	NUW	Type II secretory pathway, pseudopilin PulG	PulG			1AY2
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_01640	COG0048	J	Ribosomal protein S12	RpsL	Ribosome 30S subunit		4V4H
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_01645	COG0049	J	Ribosomal protein S7	RpsG	Ribosome 30S subunit		4V4H
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_01655	COG0480	J	Translation elongation factor EF-G, a GTPase	FusA	Translation factors		1DAR
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_01660	COG2003	L	DNA repair protein RadC, contains a helix-hairpin-helix DNA-binding motif	RadC		9695921	2QLC
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_01670	COG0480	J	Translation elongation factor EF-G, a GTPase	FusA	Translation factors		1DAR
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_01680	COG0051	J	Ribosomal protein S10	RpsJ	Ribosome 30S subunit		4V4H
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_01695	COG0087	J	Ribosomal protein L3	RplC	Ribosome 50S subunit		1VS6
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_01700	COG0088	J	Ribosomal protein L4	RplD	Ribosome 50S subunit		1VS6
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_01705	COG0089	J	Ribosomal protein L23	RplW	Ribosome 50S subunit		1VS6
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_01710	COG0090	J	Ribosomal protein L2	RplB	Ribosome 50S subunit		1VS6
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_01715	COG0185	J	Ribosomal protein S19	RpsS	Ribosome 30S subunit		4V4H
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_01725	COG0092	J	Ribosomal protein S3	RpsC	Ribosome 30S subunit		1VS6
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_01730	COG0197	J	Ribosomal protein L16/L10AE	RplP	Ribosome 50S subunit		1WKI
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_01740	COG0186	J	Ribosomal protein S17	RpsQ	Ribosome 30S subunit		4V4H
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_01745	COG0093	J	Ribosomal protein L14	RplN	Ribosome 50S subunit		4V4H
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_01750	COG0198	J	Ribosomal protein L24	RplX	Ribosome 50S subunit		1VS6
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_01755	COG0094	J	Ribosomal protein L5	RplE	Ribosome 50S subunit		1VS6
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_01760	COG0199	J	Ribosomal protein S14	RpsN	Ribosome 30S subunit		4V4H
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_01765	COG0096	J	Ribosomal protein S8	RpsH	Ribosome 30S subunit		4V4H
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_01775	COG0097	J	Ribosomal protein L6P/L9E	RplF	Ribosome 50S subunit		1VS6
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_01795	COG0201	U	Preprotein translocase subunit SecY	SecY			1RH5
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_01800	COG2165	NUW	Type II secretory pathway, pseudopilin PulG	PulG			1AY2
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_01805	COG0361	J	Translation initiation factor IF-1	InfA	Translation factors		5FIM
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_01810	COG0257	J	Ribosomal protein L36	RpmJ	Ribosome 50S subunit	21627333	1DFE
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_01820	COG0100	J	Ribosomal protein S11	RpsK	Ribosome 30S subunit		4V4H
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_01825	COG1189	J	Predicted rRNA methylase YqxC, contains S4 and FtsJ domains	YqxC			3OPN
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_01830	COG0202	K	DNA-directed RNA polymerase, alpha subunit/40 kD subunit	RpoA	RNA polymerase		4KN7
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_01840	COG0102	J	Ribosomal protein L13	RplM	Ribosome 50S subunit		1VS6
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_01845	COG0103	J	Ribosomal protein S9	RpsI	Ribosome 30S subunit		4V4H
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_01855	COG0180	J	Tryptophanyl-tRNA synthetase	TrpS	Aminoacyl-tRNA synthetases		3N9I
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_01860	COG1187	J	Pseudouridylate synthase RsuA, specific for 16S rRNA U516  and 23S rRNA U2605	RsuA	16S rRNA modification		1KSK
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_01865	COG2812	L	DNA polymerase III, gamma/tau subunits	DnaX			1A5T
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_01870	COG0457	R	Tetratricopeptide (TPR) repeat	TPR			3AS4
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_01890	COG0267	J	Ribosomal protein L33	RpmG	Ribosome 50S subunit		1VS6
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_01910	COG0297	G	Glycogen synthase	GlgA			1RZU
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_01915	COG1249	C	Dihydrolipoamide dehydrogenase (E3) component of pyruvate/2-oxoglutarate dehydrogenase complex or glutathione oxidoreductase	Lpd	Glycine cleavagePyruvate oxidation		6QKG
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_01920	COG0668	M	Small-conductance mechanosensitive channel	MscS			2OAU
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_01930	COG2217	P	Cation-transporting P-type ATPase	ZntA			4BBJ
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_01935	COG0640	K	DNA-binding transcriptional regulator, ArsR family	ArsR			3F6V
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_01945	COG3544	S	Uncharacterized conserved protein, DUF305 family				5FEJ
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_01950	COG1651	O	Protein thiol-disulfide isomerase DsbC	DsbG			2HI7
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_01955	COG4243	R	Vitamin K epoxide reductase (VKOR) family protein, predicted involvement in disulfide bond formation			24576574	3KP9
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_01980	COG0142	H	Geranylgeranyl pyrophosphate synthase	IspA	Isoprenoid biosynthesis		2AZJ
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_01985	COG1562	I	Phytoene/squalene synthetase	ERG9			3WEK
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_01990	COG3380	R	Predicted NAD/FAD-dependent oxidoreductase				4ZCC
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_02005	COG0382	H	4-hydroxybenzoate polyprenyltransferase	UbiA	Ubiquinone biosynthesis	28830929	4OD4
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_02025	COG0596	HR	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold	MenH	Menaquinone biosynthesis		4MYS
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_02040	COG0111	H	Phosphoglycerate dehydrogenase or related dehydrogenase	SerA	Serine biosynthesis		3OET
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_02045	COG1201	L	Lhr-like helicase	Lhr			5V9X
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_02055	COG2814	G	Predicted arabinose efflux permease AraJ, MFS family	AraJ			4LDS
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_02065	COG1418	JR	HD superfamily phosphodieaserase, includes HD domain of RNase Y	RnaY		19779461	3DTO
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_02070	COG0637	G	Beta-phosphoglucomutase, HAD superfamily	YcjU		29684280	3E58
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_02075	COG1907	H	Beta-ribofuranosylaminobenzene 5'-phosphate synthase (methanopterin biosynthesis)	bRFAP		16817932	6YQQ
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_02080	COG1028	I	NAD(P)-dependent dehydrogenase, short-chain alcohol dehydrogenase family	FabG	Fatty acid biosynthesis		6L1H
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_02085	COG0673	R	Predicted dehydrogenase	MviM			3UUW
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_02090	COG0494	V	8-oxo-dGTP pyrophosphatase MutT and related house-cleaning NTP pyrophosphohydrolases, NUDIX family	MutT			4V14
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_02095	COG1102	F	Cytidylate kinase	CmkB			
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_02120	COG0270	L	DNA-cytosine methylase	Dcm			3LX6
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_02130	COG1961	L	Site-specific DNA recombinase SpoIVCA/DNA invertase PinE	SpoIVCA			1GDT
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_02145	COG0464	MDT	AAA+-type ATPase, SpoVK/Ycf46/Vps4 family	SpoVK			3SYL
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_02165	COG4889	R	Predicted helicase				5FFJ
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_02180	COG2265	J	tRNA/tmRNA/rRNA uracil-C5-methylase, TrmA/RlmC/RlmD family	TrmA	tRNA modification		1UWV
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_02190	COG0210	L	Superfamily I DNA or RNA helicase	UvrD			6PPR
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_02195	COG0042	J	tRNA-dihydrouridine synthase	DusA	tRNA modification		1VHN
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_02210	COG0355	C	FoF1-type ATP synthase, epsilon subunit	AtpC	FoF1-type ATP synthase	29149348;30304218	3OAA
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_02215	COG0055	C	FoF1-type ATP synthase, beta subunit	AtpD	FoF1-type ATP synthase		3OAA
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_02220	COG0224	C	FoF1-type ATP synthase, gamma subunit	AtpG	FoF1-type ATP synthase	15326535	3OAA
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_02225	COG1155	C	Archaeal/vacuolar-type H+-ATPase catalytic subunit A/Vma1	NtpA	A/V-type ATP synthase		3J9T
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_02230	COG0712	C	FoF1-type ATP synthase, delta subunit	AtpH	FoF1-type ATP synthase		1ABV
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_02240	COG0636	C	FoF1-type ATP synthase, membrane subunit c/Archaeal/vacuolar-type H+-ATPase, subunit K	AtpE	FoF1-type ATP synthase		1C17
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_02255	COG0695	O	Glutaredoxin	GrxC			1AAZ
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_02265	COG1475	D	Chromosome segregation protein Spo0J, contains ParB-like nuclease domain	Spo0J			1R71
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_02270	COG1506	E	Dipeptidyl aminopeptidase/acylaminoacyl peptidase	DAP2			2JBW
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_02275	COG0297	G	Glycogen synthase	GlgA			1RZU
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_02290	COG3568	R	Metal-dependent hydrolase, endonuclease/exonuclease/phosphatase family	ElsH		15178340	
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_02295	COG0194	F	Guanylate kinase	Gmk			1EX6
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_02300	COG0063	F	NAD(P)H-hydrate repair enzyme Nnr, NAD(P)H-hydrate dehydratase domain	Nnr2			1KYH
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_02325	COG2165	NUW	Type II secretory pathway, pseudopilin PulG	PulG			1AY2
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_02330	COG0008	J	Glutamyl- or glutaminyl-tRNA synthetase	GlnS	Heme biosynthesis		1EUQ
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_02340	COG5000	T	Signal transduction histidine kinase NtrY involved in nitrogen fixation and metabolism regulation	NtrY			
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_02345	COG0784	T	CheY-like REC (receiver) domain, includes chemotaxis protein CheY  and sporulation regulator Spo0F	CheY			6QRJ
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_02370	COG4191	T	Signal transduction histidine kinase regulating C4-dicarboxylate transport system				4GCZ
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_02375	COG2204	T	DNA-binding transcriptional response regulator, NtrC family, contains REC, AAA-type ATPase, and a Fis-type DNA-binding domains	AtoC			1ZY2
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_02380	COG0564	J	Pseudouridine synthase RluA, 23S rRNA- or tRNA-specific	RluA	23S rRNA modification		2I82
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_02385	COG0370	P	Fe2+ transporter FeoB	FeoB		32095817	3TAH
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_02395	COG0193	J	Peptidyl-tRNA hydrolase	Pth	Translation factors	11835511	1RYB
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_02405	COG0758	L	Predicted Rossmann fold nucleotide-binding protein DprA/Smf involved in DNA uptake	Smf			3MAJ
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_02415	COG0550	L	DNA topoisomerase IA	TopA			1CY0
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_02425	COG0568	K	DNA-directed RNA polymerase, sigma subunit (sigma70/sigma32)	RpoD	RNA polymerase		1SIG
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_02435	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_02450	COG3852	T	Signal transduction histidine kinase NtrB, nitrogen specific	NtrB		23893111	
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_02460	COG0784	T	CheY-like REC (receiver) domain, includes chemotaxis protein CheY  and sporulation regulator Spo0F	CheY			6QRJ
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_02465	COG2084	I	3-hydroxyisobutyrate dehydrogenase or related beta-hydroxyacid dehydrogenase	MmsB			1I36
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_02480	COG1396	K	Transcriptional regulator, contains XRE-family HTH domain	HipB			1ADR
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_02495	COG2801	X	Transposase InsO and inactivated derivatives	Tra5			
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_02505	COG2826	X	Transposase and inactivated derivatives, IS30 family	Tra8			
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_02525	COG2165	NUW	Type II secretory pathway, pseudopilin PulG	PulG			1AY2
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_02535	COG2165	NUW	Type II secretory pathway, pseudopilin PulG	PulG			1AY2
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_02540	COG2165	NUW	Type II secretory pathway, pseudopilin PulG	PulG			1AY2
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_02545	COG4537	X	Competence protein ComGC	ComGC			
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_02550	COG0112	E	Glycine/serine hydroxymethyltransferase	GlyA	Serine biosynthesis		1BJ4
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_02555	COG0128	E	5-enolpyruvylshikimate-3-phosphate synthase	AroA	Aromatic amino acid biosynthesis		4N3P
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_02575	COG4728	S	Uncharacterized conserved protein, DUF1653 family				3BE3
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_02580	COG2165	NUW	Type II secretory pathway, pseudopilin PulG	PulG			1AY2
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_02585	COG2165	NUW	Type II secretory pathway, pseudopilin PulG	PulG			1AY2
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_02600	COG0588	G	Phosphoglycerate mutase (BPG-dependent)	GpmA	Glycolysis		1E58
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_02605	COG1437	TR	Adenylate cyclase class IV, CYTH domain (includes archaeal enzymes of unknown function)	CyaB			1YEM
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_02655	COG0714	R	MoxR-like ATPase	MoxR	Cobalamine/B12 biosynthesis		2R44
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_02665	COG1099	R	Predicted metal-dependent hydrolase, TIM-barrel fold				3GUW
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_02670	COG0060	J	Isoleucyl-tRNA synthetase	IleS	Aminoacyl-tRNA synthetases		1FFY
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_02675	COG2165	NUW	Type II secretory pathway, pseudopilin PulG	PulG			1AY2
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_02680	COG2518	O	Protein-L-isoaspartate O-methyltransferase	Pcm		24909784	3LBF
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_02690	COG0210	L	Superfamily I DNA or RNA helicase	UvrD			6PPR
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_02700	COG0149	G	Triosephosphate isomerase	TpiA	Glycolysis		1HG3
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_02705	COG0126	G	3-phosphoglycerate kinase	Pgk	Glycolysis		13PK
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_02710	COG0469	G	Pyruvate kinase	PykF	Glycolysis		6QXL
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_02760	COG0768	DM	Cell division protein FtsI, peptidoglycan transpeptidase (Penicillin-binding protein 2)	FtsI			6HZQ
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_02765	COG0472	M	UDP-N-acetylmuramyl pentapeptide phosphotransferase/UDP-N-acetylglucosamine-1-phosphate transferase	Rfe	Mureine biosynthesis		4J72
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_02770	COG0772	D	Peptodoglycan polymerase FtsW/RodA/SpoVE	FtsW		30692671	6BAR
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_02775	COG1819	G	UDP:flavonoid glycosyltransferase YjiC, YdhE family	YjiC		23974133	2ACV
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_02785	COG2165	NUW	Type II secretory pathway, pseudopilin PulG	PulG			1AY2
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_02790	COG2165	NUW	Type II secretory pathway, pseudopilin PulG	PulG			1AY2
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_02795	COG2165	NUW	Type II secretory pathway, pseudopilin PulG	PulG			1AY2
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_02800	COG1215	N	Glycosyltransferase, catalytic subunit of cellulose synthase and poly-beta-1,6-N-acetylglucosamine synthase	BcsA			4HG6
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_02810	COG0254	J	Ribosomal protein L31	RpmE	Ribosome 50S subunit		1VS6
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_02825	COG2165	NUW	Type II secretory pathway, pseudopilin PulG	PulG			1AY2
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_02830	COG2165	NUW	Type II secretory pathway, pseudopilin PulG	PulG			1AY2
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_02835	COG0052	J	Ribosomal protein S2	RpsB	Ribosome 30S subunit		4V4H
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_02850	COG0233	J	Ribosome recycling factor	Frr			1DD5
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_02855	COG0020	I	Undecaprenyl pyrophosphate synthase	UppS			1X07
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_02860	COG0265	O	Periplasmic serine protease, S1-C subfamily, contain C-terminal PDZ domain	DegQ		29686141	2HGA
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_02865	COG1266	O	Membrane protease YdiL, CAAX protease family	YdiL			
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_02870	COG0172	J	Seryl-tRNA synthetase	SerS	Aminoacyl-tRNA synthetases		1SER
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_02880	COG2165	NUW	Type II secretory pathway, pseudopilin PulG	PulG			1AY2
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_02890	COG1182	C	FMN-dependent NADH-azoreductase	AzoR			1TIK
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_02895	COG5265	O	ABC-type transport system involved in Fe-S cluster assembly, permease and ATPase components	ATM1			4MRN
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_02900	COG2177	D	Cell division protein FtsX	FtsX			
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_02905	COG0172	J	Seryl-tRNA synthetase	SerS	Aminoacyl-tRNA synthetases		1SER
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_02910	COG0187	L	DNA gyrase/topoisomerase IV, subunit B	GyrB			1EI1
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_02940	COG2165	NUW	Type II secretory pathway, pseudopilin PulG	PulG			1AY2
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_02945	COG1239	H	Mg-chelatase subunit ChlI	ChlI			1G8P
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_02960	COG0292	J	Ribosomal protein L20	RplT	Ribosome 50S subunit	30270044	1VS6
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_02970	COG0494	V	8-oxo-dGTP pyrophosphatase MutT and related house-cleaning NTP pyrophosphohydrolases, NUDIX family	MutT			4V14
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_02980	COG1994	O	Zn-dependent protease (includes sporulation protein SpoIVFB)	SpoIVFB			3B4R
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_02985	COG0227	J	Ribosomal protein L28	RpmB	Ribosome 50S subunit		2JZ6
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_03010	COG0714	R	MoxR-like ATPase	MoxR	Cobalamine/B12 biosynthesis		2R44
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_03020	COG0771	M	UDP-N-acetylmuramoylalanine-D-glutamate ligase	MurD	Mureine biosynthesis		1E0D
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_03025	COG1492	H	Cobyric acid synthase	CobQ	Cobalamine/B12 biosynthesis		
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_03030	COG0658	U	DNA uptake channel protein ComEC, N-terminal domain	ComEC			
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_03045	COG1430	S	Uncharacterized conserved membrane protein, UPF0127 family				3M7A
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_03050	COG0439	I	Biotin carboxylase	AccC	Fatty acid biosynthesis		1BNC
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_03055	COG4067	S	Uncharacterized conserved protein				
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_03060	COG0439	I	Biotin carboxylase	AccC	Fatty acid biosynthesis		1BNC
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_03065	COG0297	G	Glycogen synthase	GlgA			1RZU
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_03075	COG2214	K	Curved DNA-binding protein CbpA, contains a DnaJ-like domain	CbpA			
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_03080	COG2261	R	Uncharacterized membrane protein YeaQ/YmgE, transglycosylase-associated protein family	YeaQ			
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_03100	COG0443	O	Molecular chaperone DnaK (HSP70)	DnaK			3I33
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_03110	COG0476	H	Molybdopterin or thiamine biosynthesis adenylyltransferase	ThiF	Molybdopterin biosynthesis	32239579	1ZUD
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_03125	COG0576	O	Molecular chaperone GrpE (heat shock protein HSP-70)	GrpE			1DKG
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_03130	COG1349	KG	DNA-binding transcriptional regulator of sugar metabolism, DeoR/GlpR family	GlpR			
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_03140	COG2165	NUW	Type II secretory pathway, pseudopilin PulG	PulG			1AY2
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_03145	COG5256	J	Translation elongation factor EF-1alpha (GTPase)	TEF1	Translation factors		1F60
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_03150	COG0534	V	Na+-driven multidrug efflux pump, DinF/NorM/MATE family	NorM		29915058	3VVN
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_03155	COG0465	O	ATP-dependent Zn proteases	HflB			1LV7
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_03160	COG0175	EH	3'-phosphoadenosine 5'-phosphosulfate sulfotransferase (PAPS reductase)/FAD synthetase or related enzyme	CysD	Cysteine biosynthesis		1ZUN
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_03165	COG0450	V	Alkyl hydroperoxide reductase subunit AhpC (peroxiredoxin)	AhpC			2RII
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_03170	COG4645	R	Predicted acyltransferase	OpgC			
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_03175	COG1807	M	PMT family glycosyltransferase ArnT/Agl22, involved in glycosylation of proteins and lipid IVA	ArnT		16226890;31233657;32706435	5EZM
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_03185	COG2165	NUW	Type II secretory pathway, pseudopilin PulG	PulG			1AY2
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_03190	COG4982	I	3-oxoacyl-ACP reductase domain of yeast-type fatty acid synthase FAS1	FabG2			2UV8
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_03195	COG3568	R	Metal-dependent hydrolase, endonuclease/exonuclease/phosphatase family	ElsH		15178340	
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_03200	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_03205	COG0533	J	tRNA A37 threonylcarbamoyltransferase TsaD	TsaD	tRNA modification	23072323;21285948;32385138	3ENO
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_03215	COG0630	NU	Type IV secretory pathway ATPase VirB11/Archaellum biosynthesis ATPase ArlI/FlaI	VirB11		32416640	1G6O
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_03220	COG1459	NUW	Type II secretory pathway, component PulF	PulF			2VMA
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_03225	COG0849	D	Cell division ATPase FtsA	FtsA			3WT0
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_03235	COG3167	NW	Type IV pilus assembly protein PilO	PilO			2RJZ
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_03245	COG3881	S	Uncharacterized conserved protein YrrD, contains PRC-barrel domain	YrrD			
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_03250	COG2137	O	SOS response regulatory protein OraA/RecX, interacts with RecA	RecX			3C1D
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_03255	COG2874	N	Archaellum biogenesis ATPase ArlH/FlaH	FlaH		32416640	4WIA
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_03270	COG2256	L	Replication-associated recombination protein RarA (DNA-dependent ATPase)	RarA			3PVS
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_03275	COG0632	L	Holliday junction resolvasome RuvABC DNA-binding subunit	RuvA			1BDX
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_03290	COG0217	KJ	Transcriptional and/or translational regulatory protein YebC/TACO1	TACO1			1KON
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_03295	COG2165	NUW	Type II secretory pathway, pseudopilin PulG	PulG			1AY2
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_03300	COG2165	NUW	Type II secretory pathway, pseudopilin PulG	PulG			1AY2
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_03315	COG1061	KL	Superfamily II DNA or RNA helicase	SSL2			6JDE
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_03320	COG1451	R	UTP pyrophosphatase, metal-dependent hydrolase family	YgjP		27941785	4JIU
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_03330	COG0071	O	Small heat shock protein IbpA, HSP20 family	IbpA			1GME
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_03340	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_03350	COG4043	R	ASC-1 homology (ASCH) domain, predicted RNA-binding domain	ASCH			1S04
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_03360	COG0655	C	Multimeric flavodoxin WrbA, includes NAD(P)H:quinone oxidoreductase	WrbA			4DY4
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_03370	COG0451	M	Nucleoside-diphosphate-sugar epimerase	WcaG			2X4G
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_03375	COG4252	T	Extracytoplasmic sensor domain CHASE2 (specificity unknown)	CHASE2			
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_03380	COG0322	L	Excinuclease UvrABC, nuclease subunit	UvrC		24513124	2NRT
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_03390	COG0744	M	Penicillin-binding protein 1B/1F, peptidoglycan  transglycosylase/transpeptidase	MrcB			3FWL
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_03395	COG0671	I	Membrane-associated phospholipid phosphatase	PgpB	Phospholipid biosynthesis		1D2T
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_03400	COG2814	G	Predicted arabinose efflux permease AraJ, MFS family	AraJ			4LDS
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_03410	COG0664	T	cAMP-binding domain of CRP or a regulatory subunit of cAMP-dependent protein kinases	Crp			1FT9
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_03430	COG1251	C	NAD(P)H-nitrite reductase, large subunit	NirB			
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_03440	COG2165	NUW	Type II secretory pathway, pseudopilin PulG	PulG			1AY2
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_03445	COG0662	G	Mannose-6-phosphate isomerase, cupin superfamily	ManC			1IPJ
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_03485	COG1668	CP	ABC-type Na+ efflux pump, permease component NatB	NatB			
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_03490	COG0396	O	Fe-S cluster assembly ATPase SufC	SufC			2D3W
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_03495	COG2165	NUW	Type II secretory pathway, pseudopilin PulG	PulG			1AY2
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_03510	COG0477	GEPR	MFS family permease, includes anhydromuropeptide permease AmpG	ProP		12426329	
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_03515	COG0771	M	UDP-N-acetylmuramoylalanine-D-glutamate ligase	MurD	Mureine biosynthesis		1E0D
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_03520	COG0494	V	8-oxo-dGTP pyrophosphatase MutT and related house-cleaning NTP pyrophosphohydrolases, NUDIX family	MutT			4V14
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_03540	COG0177	L	Endonuclease III	Nth			4UOB
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_03545	COG0225	O	Peptide methionine sulfoxide reductase MsrA	MsrA			1FF3
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_03550	COG0595	J	mRNA degradation ribonuclease J1/J2	RnjA			3T3N
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_03555	COG0177	L	Endonuclease III	Nth			4UOB
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_03565	COG2269	J	Elongation factor P--beta-lysine ligase (EF-P beta-lysylation pathway)	EpmA		20729861	3A5Z
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_03570	COG4535	P	Mg2+ and Co2+ transporter CorC, contains CBS pair and CorC-HlyC domains	CorC		1779764	4HG0
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_03575	COG1651	O	Protein thiol-disulfide isomerase DsbC	DsbG			2HI7
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_03585	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_03595	COG1087	M	UDP-glucose 4-epimerase	GalE			1A9Y
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_03600	COG0494	V	8-oxo-dGTP pyrophosphatase MutT and related house-cleaning NTP pyrophosphohydrolases, NUDIX family	MutT			4V14
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_03610	COG3263	CP	NhaP-type Na+/H+ and K+/H+ antiporter with C-terminal TrkAC and CorC domains	NhaP2			
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_03625	COG1092	J	23S rRNA G2069 N7-methylase RlmK or C1962 C5-methylase RlmI	RlmK	23S rRNA modification		2B78
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_03635	COG0508	C	Pyruvate/2-oxoglutarate dehydrogenase complex, dihydrolipoamide acyltransferase (E2) component	AceF	Pyruvate oxidation		1B5S
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_03640	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_03650	COG4639	R	Predicted kinase				4GP6
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_03655	COG1451	R	UTP pyrophosphatase, metal-dependent hydrolase family	YgjP		27941785	4JIU
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_03660	COG3290	T	Sensor histidine kinase DipB regulating citrate/malate metabolism	CitA			
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_03665	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_03670	COG0690	U	Preprotein translocase subunit SecE	SecE		29684280	5MG3
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_03685	COG0080	J	Ribosomal protein L11	RplK	Ribosome 50S subunit		2E34
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_03690	COG2165	NUW	Type II secretory pathway, pseudopilin PulG	PulG			1AY2
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_03695	COG2165	NUW	Type II secretory pathway, pseudopilin PulG	PulG			1AY2
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_03700	COG2165	NUW	Type II secretory pathway, pseudopilin PulG	PulG			1AY2
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_03705	COG0081	J	Ribosomal protein L1	RplA	Ribosome 50S subunit		3J65
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_03715	COG1351	F	Thymidylate synthase ThyX, FAD-dependent family	ThyX	Thymidylate biosynthesis		1KQ4
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_03720	COG0717	F	dCTP deaminase	Dcd	Thymidylate biosynthesis		1XS1
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_03725	COG2019	F	Archaeal adenylate kinase	AdkA			1KI9
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_03745	COG0222	J	Ribosomal protein L7/L12	RplL	Ribosome 50S subunit		1CTF
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_03750	COG4396	X	Mu-like prophage host-nuclease inhibitor protein Gam	Gam			
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_03755	COG0052	J	Ribosomal protein S2	RpsB	Ribosome 30S subunit		4V4H
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_03760	COG2165	NUW	Type II secretory pathway, pseudopilin PulG	PulG			1AY2
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_03765	COG2165	NUW	Type II secretory pathway, pseudopilin PulG	PulG			1AY2
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_03780	COG0254	J	Ribosomal protein L31	RpmE	Ribosome 50S subunit		1VS6
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_03785	COG0216	J	Protein chain release factor RF1	PrfA	Translation factors		1RQ0
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_03790	COG2813	J	16S rRNA G1207 methylase RsmC	RsmC	16S rRNA modification		1DUS
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_03805	COG0681	U	Signal peptidase I	LepB		1925027	1B12
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_03825	COG2348	M	Lipid II:glycine glycyltransferase (Peptidoglycan interpeptide bridge formation enzyme)	FmhB			1LRZ
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_03830	COG2235	E	Arginine deiminase	ArcA			2A9G
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_03835	COG0285	H	Folylpolyglutamate synthase/Dihydropteroate synthase	FolC	Folate biosynthesis		1W78
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_03845	COG0533	J	tRNA A37 threonylcarbamoyltransferase TsaD	TsaD	tRNA modification	23072323;21285948;32385138	3ENO
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_03855	COG0525	J	Valyl-tRNA synthetase	ValS	Aminoacyl-tRNA synthetases		1GAX
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_03880	COG2165	NUW	Type II secretory pathway, pseudopilin PulG	PulG			1AY2
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_03885	COG0507	L	ATPase/5-3 helicase helicase subunit RecD of the DNA repair enzyme RecBCD (exonuclease V)	RecD		29901759;30601118	1W36
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_03905	COG2343	S	Uncharacterized conserved protein, DUF427 family				3DJM
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_03910	COG0423	J	Glycyl-tRNA synthetase, class II	GRS1	Aminoacyl-tRNA synthetases		2PME
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_03915	COG1381	L	Recombinational DNA repair protein RecO (RecF pathway)	RecO			1U5K
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_03920	COG2204	T	DNA-binding transcriptional response regulator, NtrC family, contains REC, AAA-type ATPase, and a Fis-type DNA-binding domains	AtoC			1ZY2
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_03925	COG0642	T	Signal transduction histidine kinase	BaeS			1JOY
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_03950	COG0392	M	Predicted membrane flippase AglD2/YbhN, UPF0104 family	AglD2		25583072	
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_03955	COG1041	J	tRNA G10 N-methylase Trm11	Trm11	tRNA modification		5E71
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_03975	COG3706	TK	Two-component response regulator, PleD family, consists of two REC domains and a diguanylate cyclase (GGDEF) domain	PleD			1W25
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_03980	COG0265	O	Periplasmic serine protease, S1-C subfamily, contain C-terminal PDZ domain	DegQ		29686141	2HGA
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_03985	COG3942	M	Surface antigen				1QWY
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_03990	COG0577	V	ABC-type antimicrobial peptide transport system, permease component	SalY			
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_03995	COG4618	U	ABC-type protease/lipase transport system, ATPase and permease components	ArpD			5L22
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_04005	COG1186	J	Protein chain release factor PrfB	PrfB	Translation factors		1GQE
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_04015	COG0769	M	UDP-N-acetylmuramyl tripeptide synthase	MurE	Mureine biosynthesis		1E8C
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_04020	COG0612	R	Predicted Zn-dependent peptidase, M16 family	PqqL			6OFS
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_04025	COG0653	U	Preprotein translocase subunit SecA (ATPase, RNA helicase)	SecA			2FSF
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_04045	COG4098	L	Superfamily II DNA/RNA helicase required for DNA uptake (late competence protein)	ComFA			
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_04050	COG0721	J	Asp-tRNAAsn/Glu-tRNAGln amidotransferase C subunit	GatC	Aminoacyl-tRNA synthetases		3H0L
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_04055	COG0154	J	Asp-tRNAAsn/Glu-tRNAGln amidotransferase A subunit or related amidase	GatA	Aminoacyl-tRNA synthetases		3H0L
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_04065	COG2511	J	Archaeal Glu-tRNAGln amidotransferase subunit E, contains GAD domain	GatE			2D6F
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_04085	COG1387	ER	Histidinol phosphatase or related hydrolase of the PHP family	HIS2	Histidine biosynthesis		1M65
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_04090	COG2176	L	DNA polymerase III, alpha subunit (gram-positive type)	PolC			
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_04095	COG0565	J	tRNA C32,U32 (ribose-2'-O)-methylase TrmJ or a related methyltransferase	TrmJ	tRNA modification		3ONP
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_04100	COG0630	NU	Type IV secretory pathway ATPase VirB11/Archaellum biosynthesis ATPase ArlI/FlaI	VirB11		32416640	1G6O
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_04110	COG0792	L	Predicted endonuclease distantly related to archaeal Holliday junction resolvase, YraN/UPF0102 family	YraN			3FOV
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_04115	COG0308	E	Aminopeptidase N, contains DUF3458 domain	PepN		24123841	6ATK
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_04130	COG0542	O	ATP-dependent Clp protease, ATP-binding subunit ClpA	ClpA			1KSF
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_04135	COG2072	P	Predicted flavoprotein CzcO associated with the cation diffusion facilitator CzcD	CzcO			4USQ
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_04140	COG1047	O	Peptidyl-prolyl cis-trans isomerase, FKBP type	SlpA			2M2A
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_04145	COG0072	J	Phenylalanyl-tRNA synthetase beta subunit	PheT	Aminoacyl-tRNA synthetases		3L4G
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_04150	COG0016	J	Phenylalanyl-tRNA synthetase alpha subunit	PheS	Aminoacyl-tRNA synthetases		3L4G
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_04160	COG0580	G	Glycerol uptake facilitator or related aquaporin (Major Intrinsic protein Family)	GlpF			1FQY
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_04175	COG0671	I	Membrane-associated phospholipid phosphatase	PgpB	Phospholipid biosynthesis		1D2T
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_04180	COG2204	T	DNA-binding transcriptional response regulator, NtrC family, contains REC, AAA-type ATPase, and a Fis-type DNA-binding domains	AtoC			1ZY2
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_04185	COG0642	T	Signal transduction histidine kinase	BaeS			1JOY
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_04190	COG4076	R	Predicted RNA methylase				
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_04200	COG0265	O	Periplasmic serine protease, S1-C subfamily, contain C-terminal PDZ domain	DegQ		29686141	2HGA
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_04205	COG3145	L	Alkylated DNA repair dioxygenase AlkB	AlkB			3KHC
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_04220	COG2165	NUW	Type II secretory pathway, pseudopilin PulG	PulG			1AY2
+Saccharibacteria_bacterium_NAT105	GCA_002699225.1	LMMHEF_04230	COG2165	NUW	Type II secretory pathway, pseudopilin PulG	PulG			1AY2

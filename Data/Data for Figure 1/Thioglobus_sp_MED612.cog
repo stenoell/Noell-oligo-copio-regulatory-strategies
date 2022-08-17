@@ -1,0 +1,807 @@
+#prefix	assemid	query	COG	category	name	Gene	pathway	pmid	pdb_id
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_00005	COG2857	C	Cytochrome c1	CYT1			
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_00010	COG1290	C	Cytochrome b subunit of the bc complex	QcrB/PetB			1VF5
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_00020	COG4701	S	Uncharacterized conserved protein				
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_00025	COG3318	S	Uncharacterized conserved protein YecA, UPF0149 family, contains C-terminal Zn-binding SEC-C motif	YecA			
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_00030	COG0044	F	Dihydroorotase or related cyclic amidohydrolase	AllB	Pyrimidine biosynthesis		1J79
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_00035	COG0196	H	FAD synthase	RibF	Riboflavin/FAD biosynthesis		1MRZ
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_00040	COG1194	L	Adenine-specific DNA glycosylase, acts on AG and A-oxoG pairs	MutY			1KG2
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_00055	COG1448	E	Aspartate/aromatic aminotransferase	TyrB	Isoleucine, leucine, valine biosynthesis		1AAM
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_00065	COG0152	F	Phosphoribosylaminoimidazole-succinocarboxamide synthase	PurC	Purine biosynthesis		1A48
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_00070	COG4942	D	Septal ring factor EnvC, activator of murein hydrolases AmiA and AmiB	EnvC			
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_00075	COG0743	I	1-deoxy-D-xylulose 5-phosphate reductoisomerase	Dxr	Isoprenoid biosynthesis		1JVS
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_00085	COG0020	I	Undecaprenyl pyrophosphate synthase	UppS			1X07
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_00090	COG0106	E	Phosphoribosylformimino-5-aminoimidazole carboxamide ribonucleotide (ProFAR) isomerase	HisA	Histidine biosynthesis		4U28
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_00105	COG0174	E	Glutamine synthetase	GlnA	Glutamine biosynthesis		1F1H
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_00110	COG1796	L	DNA polymerase/3'-5' exonuclease PolX	PolX			1BPB
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_00115	COG2218	C	Formylmethanofuran dehydrogenase subunit C	FwdC			5T5I
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_00120	COG0034	F	Glutamine phosphoribosylpyrophosphate amidotransferase	PurF	Purine biosynthesis		1ECB
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_00125	COG3968	E	Glutamine synthetase type III	GlnA3			
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_00130	COG1522	K	DNA-binding transcriptional regulator, Lrp family	Lrp			1I1G
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_00135	COG4766	E	Ethanolamine utilization protein EutQ, cupin superfamily (function unknown)	EutQ			2PYT
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_00140	COG0346	Q	Catechol 2,3-dioxygenase or related enzyme, vicinal oxygen chelate (VOC) family	GloA		11830595	3R4Q
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_00145	COG4638	PR	Phenylpropionate dioxygenase or related ring-hydroxylating dioxygenase, large terminal subunit	HcaE			4QDC
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_00150	COG4638	PR	Phenylpropionate dioxygenase or related ring-hydroxylating dioxygenase, large terminal subunit	HcaE			4QDC
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_00155	COG0287	E	Prephenate dehydrogenase	TyrA	Aromatic amino acid biosynthesis		2F1K
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_00160	COG1929	G	Glycerate kinase	GlxK	Non-phosphorylated Entner-Doudoroff pathway		1TO6
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_00165	COG1022	I	Long-chain acyl-CoA synthetase (AMP-forming)	FAA1			
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_00170	COG0110	R	Acetyltransferase, isoleucine patch superfamily	WbbJ			
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_00175	COG2721	G	Altronate dehydratase	UxaA			6U7L
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_00180	COG1748	E	Saccharopine dehydrogenase, NADP-dependent	Lys9	Lysine biosynthesis		1E5L
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_00185	COG3246	S	Uncharacterized conserved protein, DUF849 family				3C6C
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_00190	COG0623	I	Enoyl-[acyl-carrier-protein] reductase FabI	FabI	Fatty acid biosynthesis		1C14
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_00195	COG4666	R	TRAP-type uncharacterized transport system, fused permease components				
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_00200	COG4665	Q	TRAP-type mannitol/chloroaromatic compound transport system, small permease component	FcbT2			
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_00205	COG2355	OE	Zn-dependent dipeptidase, microsomal dipeptidase homolog			14499931	1ITQ
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_00220	COG1760	E	L-serine deaminase	SdaA			4RQO
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_00225	COG3265	G	Gluconate kinase	GntK	Non-phosphorylated Entner-Doudoroff pathway		1KO4
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_00230	COG2085	R	Predicted dinucleotide-binding enzyme				2VNS
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_00235	COG0404	E	Glycine cleavage system protein T (aminomethyltransferase)	GcvT	Glycine cleavage	25433025;25505271	2GAH
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_00240	COG0509	E	Glycine cleavage system protein H (lipoate-binding)	GcvH	Glycine cleavage		1DXM
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_00245	COG1003	E	Glycine cleavage system protein P (pyridoxal-binding), C-terminal domain	GcvP2	Glycine cleavage		4LGL
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_00255	COG0483	G	Archaeal fructose-1,6-bisphosphatase or related enzyme, inositol monophosphatase family	SuhB	Gluconeogenesis		1AWB
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_00260	COG3161	H	4-hydroxybenzoate synthetase (chorismate-pyruvate lyase)	UbiC	Ubiquinone biosynthesis		1FW9
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_00265	COG4123	J	tRNA1(Val) A37 N6-methylase TrmN6	TrmN6	tRNA modification		
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_00270	COG0518	F	GMP synthase, glutamine amidotransferase domain	GuaA1	Purine biosynthesis		4WIM
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_00275	COG0607	P	Rhodanese-related sulfurtransferase	PspE	Urea cycle		1TQ1
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_00280	COG0240	C	Glycerol-3-phosphate dehydrogenase	GpsA	Isoprenoid biosynthesis		1EVY
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_00285	COG4525	P	ABC-type taurine transport system, ATPase component	TauB			
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_00290	COG1705	MN	Flagellum-specific peptidoglycan hydrolase FlgJ	FlgJ			2ZYC
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_00295	COG0103	J	Ribosomal protein S9	RpsI	Ribosome 30S subunit		4V4H
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_00300	COG0102	J	Ribosomal protein L13	RplM	Ribosome 50S subunit		1VS6
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_00305	COG3119	P	Arylsulfatase A or related enzyme, AlkP superfamily	AslA			1E1Z
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_00310	COG1099	R	Predicted metal-dependent hydrolase, TIM-barrel fold				3GUW
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_00315	COG1179	J	tRNA A37 threonylcarbamoyladenosine dehydratase	TcdA	tRNA modification	27913733	4D7A
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_00325	COG0098	J	Ribosomal protein S5	RpsE	Ribosome 30S subunit		4V4H
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_00335	COG0097	J	Ribosomal protein L6P/L9E	RplF	Ribosome 50S subunit		1VS6
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_00340	COG0096	J	Ribosomal protein S8	RpsH	Ribosome 30S subunit		4V4H
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_00345	COG0199	J	Ribosomal protein S14	RpsN	Ribosome 30S subunit		4V4H
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_00350	COG0094	J	Ribosomal protein L5	RplE	Ribosome 50S subunit		1VS6
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_00355	COG0198	J	Ribosomal protein L24	RplX	Ribosome 50S subunit		1VS6
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_00360	COG0093	J	Ribosomal protein L14	RplN	Ribosome 50S subunit		4V4H
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_00365	COG0186	J	Ribosomal protein S17	RpsQ	Ribosome 30S subunit		4V4H
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_00370	COG0255	J	Ribosomal protein L29	RpmC	Ribosome 50S subunit		1VS6
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_00375	COG0197	J	Ribosomal protein L16/L10AE	RplP	Ribosome 50S subunit		1WKI
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_00380	COG0092	J	Ribosomal protein S3	RpsC	Ribosome 30S subunit		1VS6
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_00390	COG0185	J	Ribosomal protein S19	RpsS	Ribosome 30S subunit		4V4H
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_00395	COG0090	J	Ribosomal protein L2	RplB	Ribosome 50S subunit		1VS6
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_00400	COG0089	J	Ribosomal protein L23	RplW	Ribosome 50S subunit		1VS6
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_00405	COG0088	J	Ribosomal protein L4	RplD	Ribosome 50S subunit		1VS6
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_00410	COG0087	J	Ribosomal protein L3	RplC	Ribosome 50S subunit		1VS6
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_00415	COG0051	J	Ribosomal protein S10	RpsJ	Ribosome 30S subunit		4V4H
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_00420	COG0480	J	Translation elongation factor EF-G, a GTPase	FusA	Translation factors		1DAR
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_00425	COG5256	J	Translation elongation factor EF-1alpha (GTPase)	TEF1	Translation factors		1F60
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_00430	COG0049	J	Ribosomal protein S7	RpsG	Ribosome 30S subunit		4V4H
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_00435	COG0048	J	Ribosomal protein S12	RpsL	Ribosome 30S subunit		4V4H
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_00445	COG0517	T	CBS domain	CBS			1B3O
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_00450	COG0773	M	UDP-N-acetylmuramate-alanine ligase MurC and related ligases, MurC/Mpl family	MurC	Mureine biosynthesis		
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_00455	COG0773	M	UDP-N-acetylmuramate-alanine ligase MurC and related ligases, MurC/Mpl family	MurC	Mureine biosynthesis		
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_00465	COG1183	I	Phosphatidylserine synthase	PssA			
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_00480	COG2252	F	Xanthine/guanine/uracil/vitamin C permease GhxP/GhxQ, nucleobase:cation symporter 2 ( NCS2) family	NCS2		24169576;24214977	
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_00490	COG1296	E	Predicted branched-chain amino acid permease (azaleucine resistance)	AzlC			
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_00505	COG1146	F	NAD-dependent dihydropyrimidine dehydrogenase, PreA subunit	PreA			
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_00515	COG0714	R	MoxR-like ATPase	MoxR	Cobalamine/B12 biosynthesis		2R44
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_00520	COG0536	DL	GTPase involved in cell partioning and DNA repair	Obg			1LNZ
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_00525	COG1219	O	ATP-dependent protease Clp, ATPase subunit ClpX	ClpX			3HTE
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_00530	COG0616	O	Periplasmic serine protease, ClpP class	SppA			3BEZ
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_00535	COG0544	O	FKBP-type peptidyl-prolyl cis-trans isomerase (trigger factor)	Tig			5OWI
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_00550	COG2303	IR	Choline dehydrogenase or related flavoprotein	BetA	Non-phosphorylated Entner-Doudoroff pathway		1B4V
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_00555	COG1012	I	Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase	AdhE	Proline degradation		1A4S
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_00560	COG1414	K	DNA-binding transcriptional regulator, IclR family	IclR			1MKM
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_00565	COG2224	C	Isocitrate lyase	AceA	TCA cycle, glyoxylate bypass		1DQU
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_00575	COG0684	J	RNA degradosome component RraA (regulator of RNase E activity)	RraA		20471400	1J3L
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_00585	COG3193	T	Heme-binding protein HbpS, GlcG/HbpS family	GlcG		19244623;25342754	2A2L
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_00595	COG3961	GHR	TPP-dependent 2-oxoacid decarboxylase, includes indolepyruvate decarboxylase	PDC1	Pyruvate oxidation		1PYD
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_00600	COG0686	E	Alanine dehydrogenase (includes sporulation protein SpoVN)	Ald	Urea cycle		2EEZ
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_00615	COG1183	I	Phosphatidylserine synthase	PssA			
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_00620	COG0119	E	Isopropylmalate/homocitrate/citramalate synthases	LeuA	Isoleucine, leucine, valine biosynthesis		4JN6
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_00630	COG1636	J	Epoxyqueuosine reductase QueH (tRNA modification)	QueH		28128549	
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_00635	COG0078	E	Ornithine carbamoyltransferase	ArgF	Arginine biosynthesis		1A1S
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_00640	COG4992	E	Acetylornithine/succinyldiaminopimelate/putrescine aminotransferase	ArgD	Arginine biosynthesis		2E54
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_00645	COG1544	J	Ribosome-associated translation inhibitor RaiA	RaiA			1IMU
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_00650	COG2239	P	Mg/Co/Ni transporter MgtE (contains CBS domain)	MgtE			2YVX
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_00665	COG0346	Q	Catechol 2,3-dioxygenase or related enzyme, vicinal oxygen chelate (VOC) family	GloA		11830595	3R4Q
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_00670	COG1279	E	Arginine exporter protein ArgO	ArgO			
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_00675	COG2153	R	Predicted N-acyltransferase, GNAT family	ElaA			1XEB
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_00680	COG1670	JO	Protein N-acetyltransferase, RimJ/RimL family	RimL			1S7F
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_00685	COG4638	PR	Phenylpropionate dioxygenase or related ring-hydroxylating dioxygenase, large terminal subunit	HcaE			4QDC
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_00700	COG0665	E	Glycine/D-amino acid oxidase (deaminating)	DadA			3AWI
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_00705	COG0579	G	L-2-hydroxyglutarate oxidase LhgO	LhgO			3DME
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_00710	COG1053	C	Succinate dehydrogenase/fumarate reductase, flavoprotein subunit	SdhA	TCA cycle		1KF6
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_00720	COG0341	U	Preprotein translocase subunit SecF	SecF		28830929	2FYH
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_00725	COG1862	U	Protein translocase subunit YajC	YajC			
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_00730	COG0172	J	Seryl-tRNA synthetase	SerS	Aminoacyl-tRNA synthetases		1SER
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_00745	COG2409	R	Predicted lipid transporter YdfJ, MMPL/SSD domain, RND superfamily	YdfJ		10694977;15941986	
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_00750	COG0491	R	Glyoxylase or a related metal-dependent hydrolase, beta-lactamase superfamily II	GloB		25670698	1QH3
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_00765	COG1104	E	Cysteine desulfurase/Cysteine sulfinate desulfinase IscS or related enzyme, NifS family	NifS		22773787;25825430	4IXO
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_00770	COG0314	H	Molybdopterin synthase catalytic subunit MoaE	MoaE	Molybdopterin biosynthesis	32239579	1FM0
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_00775	COG2266	H	GTP:adenosylcobinamide-phosphate guanylyltransferase		Cobalamine/B12 biosynthesis	16895922	2MZB
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_00780	COG0303	H	Molybdopterin Mo-transferase (molybdopterin biosynthesis)	MoeA	Molybdopterin biosynthesis	18801996;32239579	2NQU
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_00785	COG0315	H	Molybdenum cofactor biosynthesis enzyme MoaC	MoaC	Molybdopterin biosynthesis	32239579	1EKR
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_00790	COG2100	R	Uncharacterized Fe-S cluster-containing enzyme, radical SAM superfamily				
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_00795	COG1977	H	Molybdopterin synthase sulfur carrier subunit MoaD	MoaD	Molybdopterin biosynthesis	32239579	1FM0
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_00800	COG0303	H	Molybdopterin Mo-transferase (molybdopterin biosynthesis)	MoeA	Molybdopterin biosynthesis	18801996;32239579	2NQU
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_00825	COG5271	J	Midasin, AAA ATPase with  vWA domain, involved in ribosome maturation	MDN1			6HYP
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_00835	COG1850	G	Ribulose 1,5-bisphosphate carboxylase, large subunit, or a RuBisCO-like protein	RbcL			2YBV
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_00865	COG2252	F	Xanthine/guanine/uracil/vitamin C permease GhxP/GhxQ, nucleobase:cation symporter 2 ( NCS2) family	NCS2		24169576;24214977	
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_00870	COG0101	J	tRNA U38,U39,U40 pseudouridine synthase TruA	TruA	tRNA modification		1DJ0
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_00880	COG0340	H	Biotin-(acetyl-CoA carboxylase) ligase	BirA2	Biotin biosynthesis	32188788	1BIA
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_00885	COG0488	R	ATPase components of ABC transporters with duplicated ATPase domains	Uup			5ZXD
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_00890	COG0533	J	tRNA A37 threonylcarbamoyltransferase TsaD	TsaD	tRNA modification	23072323;21285948;32385138	3ENO
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_00895	COG1411	R	Uncharacterized conserved protein related to proFAR isomerase (HisA)				
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_00900	COG2914	V	Putative antitoxin component PasI (RatB) of the RatAB toxin-antitoxin module, ubiquitin-RnfH superfamily	PasI		23055930	2HJ1
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_00905	COG0517	T	CBS domain	CBS			1B3O
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_00910	COG0312	R	Zn-dependent protease PmbA/TldA or its inactivated homolog	TldD		12029038	3TV9
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_00935	COG0548	E	N-acetylglutamate kinase	ArgB	Arginine biosynthesis		3S6G
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_00945	COG0579	G	L-2-hydroxyglutarate oxidase LhgO	LhgO			3DME
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_00950	COG0624	E	Acetylornithine deacetylase/Succinyl-diaminopimelate desuccinylase or related deacylase	ArgE	Arginine biosynthesis		1CG2
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_00965	COG0607	P	Rhodanese-related sulfurtransferase	PspE	Urea cycle		1TQ1
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_00970	COG0138	F	AICAR transformylase/IMP cyclohydrolase PurH	PurH	Purine biosynthesis		1G8M
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_00975	COG2901	K	DNA-binding protein Fis (factor for inversion stimulation)	Fis			1ETK
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_00980	COG1902	C	2,4-dienoyl-CoA reductase or related NADH-dependent reductase, Old Yellow Enzyme (OYE) family	FadH			1BWK
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_00985	COG0242	J	Peptide deformylase	Def			1BS4
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_00990	COG0029	H	Aspartate oxidase	NadB	NAD biosynthesis		1KNP
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_00995	COG1033	R	Predicted exporter protein, RND superfamily	MMPL			5KHN
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01000	COG2519	J	tRNA A58 N-methylase Trm61	Gcd14	tRNA modification		1I9G
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01010	COG4166	E	ABC-type oligopeptide transport system, periplasmic component	OppA			1B05
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01015	COG1173	EP	ABC-type dipeptide/oligopeptide/nickel transport system, permease component	DppC			
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01020	COG3639	P	ABC-type phosphate/phosphonate transport system, permease component	PhnE			
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01025	COG4525	P	ABC-type taurine transport system, ATPase component	TauB			
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01030	COG4136	R	ABC-type uncharacterized transport system YnjBCD, ATPase component	YnjD			
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01035	COG2236	H	Hypoxanthine phosphoribosyltransferase	Hpt1	Purine salvage		2JKZ
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01045	COG1015	G	Phosphopentomutase	DeoB			3UN2
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01050	COG0213	F	Thymidine phosphorylase	DeoA	Pyrimidine salvage		1AZY
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01055	COG1012	I	Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase	AdhE	Proline degradation		1A4S
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01060	COG1012	I	Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase	AdhE	Proline degradation		1A4S
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01065	COG0274	F	Deoxyribose-phosphate aldolase	DeoC			1J2W
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01070	COG0005	F	Purine nucleoside phosphorylase	XapA	Purine salvage		1YQQ
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01075	COG0295	F	Cytidine deaminase	Cdd	Pyrimidine salvage		1AF2
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01080	COG4603	F	ABC-type guanosine uptake system NupNOPQ, permease component NupP	NupP		21926227	
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01085	COG1079	F	ABC-type guanosine uptake system NupNOPQ, permease subunit NupQ	NupQ		21926227	
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01090	COG4674	R	ABC-type uncharacterized transport system, ATPase component			10686096	
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01095	COG1744	T	Lipoprotein Med, regulator of KinD/Spo0A, PBP1-ABC superfamily, includes NupN	Med		21622736	2FQW
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01100	COG2186	K	DNA-binding transcriptional regulator, FadR family	FadR			1E2X
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01130	COG1228	Q	Imidazolonepropionase or related amidohydrolase	HutI			3OOQ
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01145	COG1529	C	Aldehyde, CO or xanthine dehydrogenase, Mo-binding subunit	CoxL	Non-phosphorylated Entner-Doudoroff pathway	10095793	1DGJ
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01150	COG1975	O	Molybdoenzyme maturation factor PaoD (Mo cofactor insertion), XdhC/CoxF family	XdhC		24498065	2WE7
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01155	COG3638	P	ABC-type phosphate/phosphonate transport system, ATPase component	PhnC			
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01160	COG1079	F	ABC-type guanosine uptake system NupNOPQ, permease subunit NupQ	NupQ		21926227	
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01165	COG4603	F	ABC-type guanosine uptake system NupNOPQ, permease component NupP	NupP		21926227	
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01170	COG1744	T	Lipoprotein Med, regulator of KinD/Spo0A, PBP1-ABC superfamily, includes NupN	Med		21622736	2FQW
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01175	COG4158	R	Predicted ABC-type sugar transport system, permease component				
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01180	COG2274	V	ABC-type bacteriocin/lantibiotic exporters, contain an N-terminal double-glycine peptidase domain	SunT			3K8U
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01185	COG4158	R	Predicted ABC-type sugar transport system, permease component				
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01190	COG4214	G	ABC-type xylose transport system, permease component	XylH			
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01195	COG4147	C	Na+(or H+)/acetate symporter ActP	ActP			
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01205	COG1526	C	Formate dehydrogenase assembly factor FdhD, a sulfurtransferase	FdhD			2PW9
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01210	COG1905	C	NADH:ubiquinone oxidoreductase 24 kD subunit (chain E)	NuoE	NADH dehydrogenase		5XF9
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01215	COG3383	R	Predicted molibdopterin-dependent oxidoreductase YjgC	YjgC			1AA6
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01225	COG3605	T	Signal transduction protein containing GAF and PtsI domains	PtsP			
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01230	COG2609	C	Pyruvate dehydrogenase complex, dehydrogenase (E1) component	AceE	Pyruvate oxidation		1L8A
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01235	COG0139	E	Phosphoribosyl-AMP cyclohydrolase	HisI1	Histidine biosynthesis		1ZPS
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01240	COG0140	E	Phosphoribosyl-ATP pyrophosphohydrolase	HisI2	Histidine biosynthesis		6J22
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01245	COG3706	TK	Two-component response regulator, PleD family, consists of two REC domains and a diguanylate cyclase (GGDEF) domain	PleD			1W25
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01250	COG0004	P	Ammonia channel protein AmtB	AmtB			1U77
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01260	COG5275	R	BRCT domain type II				
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01265	COG3317	M	Outer membrane beta-barrel protein assembly factor BamC	BamC		21823654;28760846	2LAE
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01270	COG0329	EM	4-hydroxy-tetrahydrodipicolinate synthase/N-acetylneuraminate lyase	DapA	Lysine biosynthesis	27574185	2R91
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01275	COG0336	J	tRNA G37 N-methylase TrmD	TrmD	tRNA modification		1P9P
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01280	COG0624	E	Acetylornithine deacetylase/Succinyl-diaminopimelate desuccinylase or related deacylase	ArgE	Arginine biosynthesis		1CG2
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01290	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01295	COG0113	H	Delta-aminolevulinic acid dehydratase, porphobilinogen synthase	HemB	Heme biosynthesis		1I8J
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01300	COG0422	H	4-amino-2-methyl-5-hydroxymethylpyrimidine (HMP) synthase ThiC	ThiC	Thiamine biosynthesis	15326535	3EPN
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01310	COG1084	R	GTP-binding protein, GTP1/Obg family	Nog1			2E87
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01315	COG1608	I	Isopentenyl phosphate kinase			16621811	3LKK
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01320	COG5140
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01325	COG0413	H	Ketopantoate hydroxymethyltransferase	PanB	Pantothenate/CoA biosynthesis		3VAV
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01330	COG0414	H	Panthothenate synthetase	PanC	Pantothenate/CoA biosynthesis	17968677	1DIN
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01335	COG0694	O	Fe-S cluster biogenesis protein NfuA, 4Fe-4S-binding domain	NifU			2Z51
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01340	COG0123	Q	Acetoin utilization deacetylase AcuC or a related deacetylase	AcuC			1C3P
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01345	COG0309	O	Carbamoyl dehydratase HypE (hydrogenase maturation factor)	HypE		28618091	2I6R
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01355	COG0498	E	Threonine synthase	ThrC	Threonine biosynthesis		1VB3
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01360	COG0456	J	Ribosomal protein S18 acetylase RimI and related acetyltransferases	RimI			1GHE
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01370	COG1230	P	Co/Zn/Cd efflux system component	CzcD			
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01380	COG2077	O	Peroxiredoxin	Tpx			4AF2
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01385	COG1199	L	Rad3-related DNA helicase DinG	DinG			5H8W
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01390	COG0142	H	Geranylgeranyl pyrophosphate synthase	IspA	Isoprenoid biosynthesis		2AZJ
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01395	COG1189	J	Predicted rRNA methylase YqxC, contains S4 and FtsJ domains	YqxC			3OPN
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01400	COG3276	J	Selenocysteine-specific translation elongation factor SelB	SelB	Translation factors		4ZU9
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01405	COG2409	R	Predicted lipid transporter YdfJ, MMPL/SSD domain, RND superfamily	YdfJ		10694977;15941986	
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01410	COG0632	L	Holliday junction resolvasome RuvABC DNA-binding subunit	RuvA			1BDX
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01415	COG0066	E	3-isopropylmalate dehydratase small subunit	LeuD	Isoleucine, leucine, valine biosynthesis		3Q3W
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01420	COG1049	C	Aconitase B	AcnB	TCA cycle		1L5J
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01425	COG0034	F	Glutamine phosphoribosylpyrophosphate amidotransferase	PurF	Purine biosynthesis		1ECB
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01440	COG0459	O	Chaperonin GroEL (HSP60 family)	GroEL			1AON
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01445	COG0187	L	DNA gyrase/topoisomerase IV, subunit B	GyrB			1EI1
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01450	COG0482	J	tRNA U34 2-thiouridine synthase MnmA/TrmU, contains the PP-loop ATPase domain	MnmA	tRNA modification	25825430	2HMA
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01455	COG0236	I	Acyl carrier protein	AcpP	Fatty acid biosynthesis		1ACP
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01460	COG0304	IQ	3-oxoacyl-(acyl-carrier-protein) synthase	FabB	Fatty acid biosynthesis	21652641	2UV8
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01470	COG1164	E	Oligoendopeptidase F	PepF			3CE2
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01480	COG1249	C	Dihydrolipoamide dehydrogenase (E3) component of pyruvate/2-oxoglutarate dehydrogenase complex or glutathione oxidoreductase	Lpd	Glycine cleavagePyruvate oxidation		6QKG
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01495	COG3079	S	Uncharacterized conserved protein YgfB, UPF0149 family	YgfB			1IZM
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01500	COG0540	F	Aspartate carbamoyltransferase, catalytic subunit	PyrB	Pyrimidine biosynthesis		1NBE
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01510	COG3409	M	Peptidoglycan-binding (PGRP) domain of peptidoglycan hydrolases	PGRP			4FET
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01515	COG2255	L	Holliday junction resolvasome RuvABC, ATP-dependent DNA helicase subunit RuvB	RuvB			1HQC
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01520	COG0239	DP	Fluoride ion exporter CrcB/FEX, affects chromosome condensation	CrcB			5A40
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01530	COG0779	J	Ribosome maturation factor RimP	RimP			1IB8
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01540	COG0480	J	Translation elongation factor EF-G, a GTPase	FusA	Translation factors		1DAR
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01550	COG0163	H	Flavin prenyltransferase UbiX	UbiX	Ubiquinone biosynthesis	28754323;26083743	1SBZ
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01555	COG2131	F	Deoxycytidylate deaminase	ComEB		25746996;31954084	2HVV
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01560	COG0468	L	RecA/RadA recombinase	RecA			1B22
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01565	COG2137	O	SOS response regulatory protein OraA/RecX, interacts with RecA	RecX			3C1D
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01570	COG0343	J	Queuine/archaeosine tRNA-ribosyltransferase	Tgt	tRNA modification	15805528	1XW8
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01575	COG0744	M	Penicillin-binding protein 1B/1F, peptidoglycan  transglycosylase/transpeptidase	MrcB			3FWL
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01580	COG0480	J	Translation elongation factor EF-G, a GTPase	FusA	Translation factors		1DAR
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01585	COG0717	F	dCTP deaminase	Dcd	Thymidylate biosynthesis		1XS1
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01590	COG0472	M	UDP-N-acetylmuramyl pentapeptide phosphotransferase/UDP-N-acetylglucosamine-1-phosphate transferase	Rfe	Mureine biosynthesis		4J72
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01595	COG0652	O	Peptidyl-prolyl cis-trans isomerase (rotamase) - cyclophilin family	PpiB			4DGD
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01600	COG1143	C	Formate hydrogenlyase subunit 6/NADH:ubiquinone oxidoreductase 23 kD subunit (chain I)	NuoI	NADH dehydrogenase		1B0P
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01605	COG0075	EF	Archaeal aspartate aminotransferase or a related aminotransferase, includes purine catabolism protein PucG	PucG	Serine biosynthesis		3NNK
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01615	COG0277	C	FAD/FMN-containing lactate dehydrogenase/glycolate oxidase	GlcD			1AHU
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01620	COG1150	C	Heterodisulfide reductase, subunit C	HdrC			5ODC
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01625	COG0030	J	16S rRNA A1518 and A1519 N6-dimethyltransferase RsmA/KsgA/DIM1 (may also have DNA glycosylase/AP lyase activity)	RsmA	16S rRNA modification		1QYR
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01630	COG0607	P	Rhodanese-related sulfurtransferase	PspE	Urea cycle		1TQ1
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01635	COG0210	L	Superfamily I DNA or RNA helicase	UvrD			6PPR
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01640	COG0526	O	Thiol-disulfide isomerase or thioredoxin	TrxA			1XFL
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01650	COG1576	J	23S rRNA pseudoU1915 N3-methylase RlmH	RlmH	23S rRNA modification		1NS5
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01660	COG0669	H	Phosphopantetheine adenylyltransferase	CoaD	Pantothenate/CoA biosynthesis		3F3M
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01665	COG0491	R	Glyoxylase or a related metal-dependent hydrolase, beta-lactamase superfamily II	GloB		25670698	1QH3
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01685	COG2301	G	Citrate lyase beta subunit	CitE			4ROQ
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01690	COG0045	C	Succinyl-CoA synthetase, beta subunit	SucC	TCA cycle		1SCU
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01695	COG1042	C	Acyl-CoA synthetase (NDP forming)	PatZN		26251518	4YAK
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01700	COG0657	I	Acetyl esterase/lipase	Aes			1EVQ
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01705	COG4319	R	Ketosteroid isomerase homolog YybH	YybH			2GXF
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01730	COG1047	O	Peptidyl-prolyl cis-trans isomerase, FKBP type	SlpA			2M2A
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01735	COG0622	R	Predicted phosphodiesterase, calcineurin family	YfcE		17586769	1SU1
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01740	COG0137	E	Argininosuccinate synthase	ArgG	Arginine biosynthesis		1J1Z
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01745	COG2983	R	Uncharacterized cysteine cluster protein YcgN, CxxCxxCC family	YcgN			
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01750	COG0017	J	Aspartyl/asparaginyl-tRNA synthetase	AsnS	Aminoacyl-tRNA synthetases		3KFU
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01755	COG0231	J	Translation elongation factor P (EF-P)/translation initiation factor 5A (eIF-5A)	Efp	Translation factors		1UEB
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01760	COG0045	C	Succinyl-CoA synthetase, beta subunit	SucC	TCA cycle		1SCU
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01765	COG1042	C	Acyl-CoA synthetase (NDP forming)	PatZN		26251518	4YAK
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01775	COG0809	J	S-adenosylmethionine:tRNA-ribosyltransferase-isomerase (queuine synthetase)	QueA	tRNA modification		1VKY
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01780	COG1146	F	NAD-dependent dihydropyrimidine dehydrogenase, PreA subunit	PreA			
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01785	COG0024	J	Methionine aminopeptidase	Map			3J2I
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01790	COG0369	FP	Flavoprotein (flavin reductase) subunit CysJ of sulfite and N-hydroxylaminopurine reductases	CysJ	Cysteine biosynthesis	20118259	1YKG
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01800	COG2010	C	Cytochrome c, mono- and diheme variants	CccA			1A2S
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01805	COG2010	C	Cytochrome c, mono- and diheme variants	CccA			1A2S
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01810	COG0616	O	Periplasmic serine protease, ClpP class	SppA			3BEZ
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01815	COG1042	C	Acyl-CoA synthetase (NDP forming)	PatZN		26251518	4YAK
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01825	COG0824	I	Acyl-CoA thioesterase FadM	FadM	Menaquinone biosynthesis		2FUJ
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01830	COG1161	J	Ribosome biogenesis GTPase RbgA	RbgA			6G14
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01835	COG2887	L	RecB family exonuclease	Slr0479			
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01840	COG0617	J	tRNA nucleotidyltransferase/poly(A) polymerase	PcnB	tRNA modification		3WFR
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01845	COG0229	O	Peptide methionine sulfoxide reductase MsrB	MsrB			1L1D
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01850	COG0730	P	Sulfite exporter TauE/SafE/YfcA and related permeases, UPF0721 family	TauE		21183667;22797525	
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01855	COG1435	F	Thymidine kinase	Tdk	Pyrimidine salvage		1W4R
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01860	COG0031	E	Cysteine synthase	CysK	Cysteine biosynthesis		1FCJ
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01870	COG4597	E	ABC-type amino acid transport system, permease component	BatB			
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01875	COG0488	R	ATPase components of ABC transporters with duplicated ATPase domains	Uup			5ZXD
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01880	COG0156	H	7-keto-8-aminopelargonate synthetase or related enzyme	BioF	Biotin biosynthesis		1BS0
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01890	COG1419	N	Flagellar biosynthesis GTPase FlhF	FlhF			3SYN
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01895	COG2154	H	Pterin-4a-carbinolamine dehydratase	PhhB			1DCH
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01900	COG0181	H	Porphobilinogen deaminase	HemC	Heme biosynthesis		1AH5
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01905	COG0114	C	Fumarate hydratase class II	FumC	TCA cycle		1KQ7
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01910	COG0299	F	Folate-dependent phosphoribosylglycinamide formyltransferase PurN	PurN	Purine biosynthesis	25013077	1C2T
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01920	COG2175	Q	Taurine dioxygenase, alpha-ketoglutarate-dependent	TauD			1DRT
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01925	COG0520	E	Selenocysteine lyase/Cysteine desulfurase	CsdA			4LW2
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01930	COG0210	L	Superfamily I DNA or RNA helicase	UvrD			6PPR
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01935	COG0018	J	Arginyl-tRNA synthetase	ArgS	Aminoacyl-tRNA synthetases		1BS2
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01940	COG0749	L	DNA polymerase I, 3'-5' exonuclease and polymerase domains	PolA			1D8Y
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01945	COG4555	CP	ABC-type Na+ transport system, ATPase component NatA	NatA			
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01950	COG1044	M	UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase	LpxD	Lipid A biosynthesis		6P83
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01970	COG3845	F	ABC-type guanosine uptake system NupNOPQ, ATPase component NupO	NupO		21926227	
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01975	COG1178	P	ABC-type Fe3+ transport system, permease component	FbpB			
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01980	COG4149	P	ABC-type molybdate transport system, permease component ModB	ModB	Molybdopterin biosynthesis		
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01985	COG1012	I	Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase	AdhE	Proline degradation		1A4S
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01990	COG0460	E	Homoserine dehydrogenase	ThrA	Methionine biosynthesis	29124164	5AVO
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_01995	COG0031	E	Cysteine synthase	CysK	Cysteine biosynthesis		1FCJ
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_02000	COG1171	E	Threonine deaminase	IlvA	Isoleucine, leucine, valine biosynthesis		3IAU
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_02010	COG0372	C	Citrate synthase	GltA	TCA cycle	25211225	3TQG
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_02015	COG2224	C	Isocitrate lyase	AceA	TCA cycle, glyoxylate bypass		1DQU
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_02020	COG3226	K	DNA-binding transcriptional regulator YbjK	YbjK			5X5I
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_02025	COG1146	F	NAD-dependent dihydropyrimidine dehydrogenase, PreA subunit	PreA			
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_02030	COG0492	O	Thioredoxin reductase	TrxB			3FBS
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_02035	COG0402	FR	Cytosine/adenosine deaminase or related metal-dependent hydrolase	SsnA	Pyrimidine salvage		3O7U
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_02045	COG1174	E	ABC-type proline/glycine betaine transport system, permease component	OpuBB			
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_02050	COG1174	E	ABC-type proline/glycine betaine transport system, permease component	OpuBB			
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_02055	COG4604	P	ABC-type enterochelin transport system, ATPase component	CeuD			
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_02060	COG0815	M	Apolipoprotein N-acyltransferase	Lnt			6NWR
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_02065	COG2084	I	3-hydroxyisobutyrate dehydrogenase or related beta-hydroxyacid dehydrogenase	MmsB			1I36
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_02070	COG0579	G	L-2-hydroxyglutarate oxidase LhgO	LhgO			3DME
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_02075	COG0579	G	L-2-hydroxyglutarate oxidase LhgO	LhgO			3DME
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_02105	COG5285	Q	Ectoine hydroxylase-related dioxygenase, phytanoyl-CoA dioxygenase (PhyH) family	PhyH			2A1X
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_02110	COG0596	HR	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold	MenH	Menaquinone biosynthesis		4MYS
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_02125	COG0697	GER	Permease of the drug/metabolite transporter (DMT) superfamily	RhaT			5I20
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_02155	COG4638	PR	Phenylpropionate dioxygenase or related ring-hydroxylating dioxygenase, large terminal subunit	HcaE			4QDC
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_02165	COG1357	S	Uncharacterized conserved protein YjbI, contains pentapeptide repeats	YjbI			2BM4
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_02170	COG0815	M	Apolipoprotein N-acyltransferase	Lnt			6NWR
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_02185	COG0623	I	Enoyl-[acyl-carrier-protein] reductase FabI	FabI	Fatty acid biosynthesis		1C14
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_02195	COG0010	E	Arginase/agmatinase family enzyme	SpeB	Urea cycle		1CEV
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_02205	COG0426	C	Flavorubredoxin	NorV			4JHC
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_02210	COG0363	G	6-phosphogluconolactonase/Glucosamine-6-phosphate isomerase/deaminase	NagB	Pentose phosphate pathway	24163345	2RI0
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_02215	COG1228	Q	Imidazolonepropionase or related amidohydrolase	HutI			3OOQ
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_02220	COG1167	KE	DNA-binding transcriptional regulator, MocR family, contains an aminotransferase domain	ARO8	Lysine biosynthesis		2R2N
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_02225	COG0665	E	Glycine/D-amino acid oxidase (deaminating)	DadA			3AWI
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_02230	COG0486	J	tRNA U34 5-carboxymethylaminomethyl modifying GTPase MnmE/TrmE	MnmE	tRNA modification		
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_02235	COG4649	S	TPR-like repeat domain	TPR1			
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_02240	COG0124	J	Histidyl-tRNA synthetase	HisS	Aminoacyl-tRNA synthetases		1KMM
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_02250	COG3151	S	Uncharacterized conserved protein YqiB, DUF1249 family	yqiB			
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_02255	COG0305	L	Replicative DNA helicase	DnaB			1B79
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_02260	COG0359	J	Ribosomal protein L9	RplI	Ribosome 50S subunit	27112601	1VS6
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_02265	COG0238	J	Ribosomal protein S18	RpsR	Ribosome 30S subunit		4V4H
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_02290	COG0136	E	Aspartate-semialdehyde dehydrogenase	Asd	Lysine biosynthesis		1BRM
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_02295	COG0131	E	Imidazoleglycerol phosphate dehydratase HisB	HisB2	Histidine biosynthesis		1RHY
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_02300	COG0518	F	GMP synthase, glutamine amidotransferase domain	GuaA1	Purine biosynthesis		4WIM
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_02310	COG1194	L	Adenine-specific DNA glycosylase, acts on AG and A-oxoG pairs	MutY			1KG2
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_02315	COG2176	L	DNA polymerase III, alpha subunit (gram-positive type)	PolC			
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_02325	COG0514	L	Superfamily II DNA helicase RecQ	RecQ			1OYW
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_02330	COG1225	O	Peroxiredoxin	Bcp			5IPH
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_02335	COG0476	H	Molybdopterin or thiamine biosynthesis adenylyltransferase	ThiF	Molybdopterin biosynthesis	32239579	1ZUD
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_02345	COG0673	R	Predicted dehydrogenase	MviM			3UUW
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_02350	COG2022	H	Thiazole synthase ThiGH, ThiG subunit (thiamin biosynthesis)	ThiG	Thiamine biosynthesis		1TYG
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_02355	COG0156	H	7-keto-8-aminopelargonate synthetase or related enzyme	BioF	Biotin biosynthesis		1BS0
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_02360	COG0596	HR	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold	MenH	Menaquinone biosynthesis		4MYS
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_02365	COG1691	F	NCAIR mutase (PurE)-related protein				
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_02370	COG0439	I	Biotin carboxylase	AccC	Fatty acid biosynthesis		1BNC
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_02380	COG0695	O	Glutaredoxin	GrxC			1AAZ
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_02385	COG0190	H	5,10-methylene-tetrahydrofolate dehydrogenase/Methenyl tetrahydrofolate cyclohydrolase	FolD			1A4I
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_02390	COG1083	M	CMP-N-acetylneuraminic acid synthetase, NeuA/PseF family	NeuA			1EYR
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_02395	COG2835	J	RNA methyltransferase activator Trm112/YbaR	Trm112		27986851;30010922	2KPI
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_02400	COG1663	M	Tetraacyldisaccharide-1-P 4'-kinase (Lipid A 4'-kinase)	LpxK	Lipid A biosynthesis		4EHW
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_02405	COG0577	V	ABC-type antimicrobial peptide transport system, permease component	SalY			
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_02410	COG4555	CP	ABC-type Na+ transport system, ATPase component NatA	NatA			
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_02420	COG0511	I	Biotin carboxyl carrier protein	AccB	Fatty acid biosynthesis		1A6X
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_02440	COG1038	C	Pyruvate carboxylase	PycA	Urea cycle		5VYW
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_02445	COG0458	EF	Carbamoylphosphate synthase large subunit	CarB	Arginine biosynthesis		1C30
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_02450	COG0136	E	Aspartate-semialdehyde dehydrogenase	Asd	Lysine biosynthesis		1BRM
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_02460	COG0372	C	Citrate synthase	GltA	TCA cycle	25211225	3TQG
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_02465	COG0500	QR	SAM-dependent methyltransferase	SmtA			5DNK
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_02470	COG3165	H	Ubiquinone biosynthesis protein UbiJ, contains SCP2 domain	UbiJ		24142253;28559279	
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_02475	COG0661	HT	Predicted protein kinase regulating ubiquinone biosynthesis, AarF/ABC1/UbiB family	AarF	Ubiquinone biosynthesis		4PED
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_02485	COG0193	J	Peptidyl-tRNA hydrolase	Pth	Translation factors	11835511	1RYB
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_02490	COG0536	DL	GTPase involved in cell partioning and DNA repair	Obg			1LNZ
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_02495	COG0696	G	Phosphoglycerate mutase (BPG-independent), AlkP superfamily	GpmI	Glycolysis		1EJJ
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_02500	COG0269	G	3-keto-L-gulonate-6-phosphate decarboxylase	UlaD			3F4W
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_02505	COG0156	H	7-keto-8-aminopelargonate synthetase or related enzyme	BioF	Biotin biosynthesis		1BS0
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_02510	COG1506	E	Dipeptidyl aminopeptidase/acylaminoacyl peptidase	DAP2			2JBW
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_02515	COG2084	I	3-hydroxyisobutyrate dehydrogenase or related beta-hydroxyacid dehydrogenase	MmsB			1I36
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_02520	COG1541	H	Phenylacetate-coenzyme A ligase PaaK, adenylate-forming domain family	PaaK			2Y4O
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_02545	COG2303	IR	Choline dehydrogenase or related flavoprotein	BetA	Non-phosphorylated Entner-Doudoroff pathway		1B4V
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_02550	COG1178	P	ABC-type Fe3+ transport system, permease component	FbpB			
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_02555	COG1177	E	ABC-type spermidine/putrescine transport system, permease component II	PotC			
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_02560	COG1653	G	ABC-type glycerol-3-phosphate transport system, periplasmic component	UgpB			2Z8D
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_02570	COG0684	J	RNA degradosome component RraA (regulator of RNase E activity)	RraA		20471400	1J3L
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_02575	COG0596	HR	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold	MenH	Menaquinone biosynthesis		4MYS
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_02585	COG2140	G	Oxalate decarboxylase/archaeal phosphoglucose isomerase, cupin superfamily	OxdD	Glycolysis		2VQA
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_02595	COG1879	G	ABC-type sugar transport system, periplasmic component, contains N-terminal xre family HTH domain	RbsB			1BA2
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_02600	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_02605	COG0141	E	Histidinol dehydrogenase	HisD	Histidine biosynthesis		1K75
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_02610	COG5485	R	Predicted ester cyclase				3EHC
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_02615	COG0488	R	ATPase components of ABC transporters with duplicated ATPase domains	Uup			5ZXD
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_02620	COG3246	S	Uncharacterized conserved protein, DUF849 family				3C6C
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_02625	COG0824	I	Acyl-CoA thioesterase FadM	FadM	Menaquinone biosynthesis		2FUJ
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_02630	COG5598	H	Trimethylamine:corrinoid methyltransferase	MttB2			
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_02635	COG1012	I	Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase	AdhE	Proline degradation		1A4S
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_02640	COG1178	P	ABC-type Fe3+ transport system, permease component	FbpB			
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_02645	COG1177	E	ABC-type spermidine/putrescine transport system, permease component II	PotC			
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_02650	COG4107	P	ABC-type phosphonate transport system, ATPase component PhnK	PhnK		19516334	
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_02655	COG2182	G	Maltose-binding periplasmic protein MalE	MalE			1T0K
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_02660	COG1028	I	NAD(P)-dependent dehydrogenase, short-chain alcohol dehydrogenase family	FabG	Fatty acid biosynthesis		6L1H
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_02675	COG0498	E	Threonine synthase	ThrC	Threonine biosynthesis		1VB3
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_02680	COG0135	E	Phosphoribosylanthranilate isomerase	TrpF	Aromatic amino acid biosynthesis		1DL3
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_02685	COG0550	L	DNA topoisomerase IA	TopA			1CY0
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_02695	COG0594	J	RNase P protein component	RnpA			1A6F
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_02700	COG0759	M	Membrane-anchored protein YidD, putatitve component of membrane protein insertase Oxa1/YidC/SpoIIIJ	YidD			
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_02705	COG0706	M	Membrane protein insertase Oxa1/YidC/SpoIIIJ	YidC			3WO6
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_02710	COG0560	E	Phosphoserine phosphatase	SerB	Serine biosynthesis		3N28
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_02720	COG0055	C	FoF1-type ATP synthase, beta subunit	AtpD	FoF1-type ATP synthase		3OAA
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_02725	COG0224	C	FoF1-type ATP synthase, gamma subunit	AtpG	FoF1-type ATP synthase	15326535	3OAA
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_02735	COG1042	C	Acyl-CoA synthetase (NDP forming)	PatZN		26251518	4YAK
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_02740	COG0616	O	Periplasmic serine protease, ClpP class	SppA			3BEZ
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_02745	COG2010	C	Cytochrome c, mono- and diheme variants	CccA			1A2S
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_02750	COG2010	C	Cytochrome c, mono- and diheme variants	CccA			1A2S
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_02755	COG0623	I	Enoyl-[acyl-carrier-protein] reductase FabI	FabI	Fatty acid biosynthesis		1C14
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_02760	COG4778	P	Alpha-D-ribose 1-methylphosphonate 5-triphosphate synthase subunit PhnL	PhnL			
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_02765	COG0600	P	ABC-type nitrate/sulfonate/bicarbonate transport system, permease component	TauC			
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_02775	COG0730	P	Sulfite exporter TauE/SafE/YfcA and related permeases, UPF0721 family	TauE		21183667;22797525	
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_02790	COG1129	G	ABC-type sugar transport system, ATPase component	MglA			
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_02795	COG1178	P	ABC-type Fe3+ transport system, permease component	FbpB			
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_02800	COG1178	P	ABC-type Fe3+ transport system, permease component	FbpB			
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_02810	COG2407	G	L-fucose isomerase or related protein	FucI		22865846	1FUI
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_02815	COG1071	C	TPP-dependent pyruvate or acetoin dehydrogenase subunit alpha	AcoA	Pyruvate oxidation		1DTW
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_02820	COG0022	C	Pyruvate/2-oxoglutarate/acetoin dehydrogenase complex, dehydrogenase (E1) component, beta subunit	AcoB	Pyruvate oxidation		2OZL
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_02825	COG2186	K	DNA-binding transcriptional regulator, FadR family	FadR			1E2X
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_02830	COG0209	F	Ribonucleotide reductase alpha subunit	NrdA	Pyrimidine salvage		1R1R
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_02835	COG0208	F	Ribonucleotide reductase beta subunit, ferritin-like domain	NrdB	Pyrimidine salvage		1AV8
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_02840	COG0633	C	Ferredoxin	Fdx			1KRH
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_02850	COG0611	H	Thiamine monophosphate kinase	ThiL	Thiamine biosynthesis		5CC8
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_02855	COG4508	F	Dimeric dUTPase, all-alpha-NTP-PPase (MazG) superfamily	Dut2	Thymidylate biosynthesis		
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_02860	COG0607	P	Rhodanese-related sulfurtransferase	PspE	Urea cycle		1TQ1
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_02865	COG2921	T	Putative lipoate-binding regulatory protein, UPF0250 family	YbeD		15547281	1RWU
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_02870	COG0321	H	Lipoate-protein ligase B	LipB	Lipoate biosynthesis	19798051	2QHT
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_02875	COG0502	H	Biotin synthase or related enzyme	BioB	Biotin biosynthesis		1R30
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_02880	COG4852	S	Uncharacterized membrane protein				
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_02885	COG1995	H	4-hydroxy-L-threonine phosphate dehydrogenase PdxA	PdxA	Pyridoxal phosphate biosynthesis		1PS6
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_02890	COG4123	J	tRNA1(Val) A37 N6-methylase TrmN6	TrmN6	tRNA modification		
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_02905	COG3665	S	Uncharacterized conserved protein YcgI, DUF1989 family	YcgI			3DI4
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_02910	COG0146	EQ	N-methylhydantoinase B/oxoprolinase/acetone carboxylase, alpha subunit	HyuB			5L9W
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_02915	COG0697	GER	Permease of the drug/metabolite transporter (DMT) superfamily	RhaT			5I20
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_02920	COG0543	HC	NAD(P)H-flavin reductase	Mcr1			3A1F
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_02925	COG0579	G	L-2-hydroxyglutarate oxidase LhgO	LhgO			3DME
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_02935	COG0446	I	NADPH-dependent 2,4-dienoyl-CoA reductase, sulfur reductase, or a related oxidoreductase	FadH2			1VRQ
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_02945	COG4341	R	Predicted HD phosphohydrolase				4MLN
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_02950	COG1495	O	Disulfide bond formation protein DsbB	DsbB			2LTQ
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_02955	COG2227	H	2-polyprenyl-3-methyl-5-hydroxy-6-metoxy-1,4-benzoquinol methylase	UbiG	Ubiquinone biosynthesis		1BHJ
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_02960	COG1902	C	2,4-dienoyl-CoA reductase or related NADH-dependent reductase, Old Yellow Enzyme (OYE) family	FadH			1BWK
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_02970	COG1934	M	Lipopolysaccharide export system protein LptA	LptA			2R19
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_02975	COG0283	F	Cytidylate kinase	Cmk		19111750;25691594;28928205	3R20
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_02985	COG1011	H	FMN and 5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YigB, HAD superfamily (riboflavin biosynthesis)	YigB		24123841	4JB3
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_02990	COG0215	J	Cysteinyl-tRNA synthetase	CysS	Aminoacyl-tRNA synthetases		1LI5
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_02995	COG1773	P	Flavorubredoxin	NorV			4D02
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_03000	COG0473	CE	Isocitrate/isopropylmalate dehydrogenase	LeuB	TCA cycle		1GC9
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_03005	COG2231	L	3-Methyladenine DNA glycosylase, HhH-GPD/Endo3 superfamily	HP0602		14517230;20410075	1PU6
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_03010	COG0362	G	6-phosphogluconate dehydrogenase	Gnd	Pentose phosphate pathway	25329577	2ZYA
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_03015	COG5285	Q	Ectoine hydroxylase-related dioxygenase, phytanoyl-CoA dioxygenase (PhyH) family	PhyH			2A1X
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_03020	COG0494	V	8-oxo-dGTP pyrophosphatase MutT and related house-cleaning NTP pyrophosphohydrolases, NUDIX family	MutT			4V14
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_03025	COG2360	O	Leu/Phe-tRNA-protein transferase	Aat			2CXA
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_03035	COG0019	E	Diaminopimelate decarboxylase	LysA	Lysine biosynthesis		1D7K
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_03040	COG1534	J	RNA-binding protein YhbY	YhbY			1JO0
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_03050	COG0157	H	Nicotinate-nucleotide pyrophosphorylase	NadC	NAD biosynthesis		1O4U
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_03055	COG0483	G	Archaeal fructose-1,6-bisphosphatase or related enzyme, inositol monophosphatase family	SuhB	Gluconeogenesis		1AWB
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_03070	COG0568	K	DNA-directed RNA polymerase, sigma subunit (sigma70/sigma32)	RpoD	RNA polymerase		1SIG
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_03075	COG1750	R	Predicted archaeal serine protease, S18 family				
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_03080	COG2242	H	Precorrin-6B methylase 2	CobL	Cobalamine/B12 biosynthesis		1F38
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_03085	COG1651	O	Protein thiol-disulfide isomerase DsbC	DsbG			2HI7
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_03090	COG0260	E	Leucyl aminopeptidase	PepB		19553197;23825549	3H8E
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_03095	COG3123	F	Pyrimidine/purine nucleoside phosphorylase YaiE/PpnP, UPF0345/DUF1255 family	PpnP		27941785	2OYZ
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_03110	COG0125	F	Thymidylate kinase	Tmk	Thymidylate biosynthesis		3LV8
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_03115	COG2812	L	DNA polymerase III, gamma/tau subunits	DnaX			1A5T
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_03120	COG0001	H	Glutamate-1-semialdehyde aminotransferase	HemL	Heme biosynthesis		2CFB
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_03130	COG0560	E	Phosphoserine phosphatase	SerB	Serine biosynthesis		3N28
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_03135	COG2210	C	Peroxiredoxin family protein	YrkE			2QS7
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_03140	COG0425	JHO	Sulfur carrier protein TusA (tRNA thiolation, molybdenum cofactor biosynthesis)	TusA		23894086	1DCJ
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_03155	COG1349	KG	DNA-binding transcriptional regulator of sugar metabolism, DeoR/GlpR family	GlpR			
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_03160	COG0127	F	Inosine/xanthosine triphosphate pyrophosphatase, all-alpha NTP-PPase family	RdgB			1B78
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_03165	COG1032	R	Radical SAM superfamily enzyme YgiQ, UPF0313 family	YgiQ			6FD2
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_03175	COG0548	E	N-acetylglutamate kinase	ArgB	Arginine biosynthesis		3S6G
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_03180	COG1018	C	Flavodoxin/ferredoxin--NADP reductase	Fpr			3OZU
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_03185	COG0325	H	Pyridoxal 5'-phosphate homeostasis protein YggS, UPF0001 family	YggS		26872910	3SY1
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_03190	COG0252	JE	L-asparaginase/archaeal Glu-tRNAGln amidotransferase subunit D	AnsA			1ZQ1
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_03195	COG3245	C	Cytochrome c5	CytC5			1CC5
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_03200	COG3164	S	Uncharacterized conserved protein YhdP, contains DUF3971 and AsmA2 domains	YhdR			
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_03205	COG1063	ER	Threonine dehydrogenase or related Zn-dependent dehydrogenase	Tdh	Non-phosphorylated Entner-Doudoroff pathway		4A2C
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_03210	COG1725	K	DNA-binding transcriptional regulator YhcF, GntR family	YhcF			4R1H
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_03230	COG2303	IR	Choline dehydrogenase or related flavoprotein	BetA	Non-phosphorylated Entner-Doudoroff pathway		1B4V
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_03235	COG1511	S	Uncharacterized membrane protein YhgE, phage infection protein (PIP) family	YhgE			
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_03245	COG0722	E	3-deoxy-D-arabino-heptulosonate 7-phosphate (DAHP) synthase	AroG1	Aromatic amino acid biosynthesis		6U8J
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_03265	COG0673	R	Predicted dehydrogenase	MviM			3UUW
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_03280	COG3960	Q	Glyoxylate carboligase	Gcl			
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_03285	COG2025	C	Electron transfer flavoprotein, alpha subunit FixB	FixB			1EFP
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_03290	COG2072	P	Predicted flavoprotein CzcO associated with the cation diffusion facilitator CzcD	CzcO			4USQ
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_03295	COG0280	C	Phosphotransacetylase (includes Pta, EutD and phosphobutyryltransferase)	Pta		28754323	1QZT
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_03300	COG0014	E	Gamma-glutamyl phosphate reductase	ProA	Proline biosynthesis		4GHK
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_03315	COG1784	R	TctA family transporter			14499931	
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_03320	COG2186	K	DNA-binding transcriptional regulator, FadR family	FadR			1E2X
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_03330	COG1104	E	Cysteine desulfurase/Cysteine sulfinate desulfinase IscS or related enzyme, NifS family	NifS		22773787;25825430	4IXO
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_03345	COG1044	M	UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase	LpxD	Lipid A biosynthesis		6P83
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_03350	COG0580	G	Glycerol uptake facilitator or related aquaporin (Major Intrinsic protein Family)	GlpF			1FQY
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_03355	COG0394	T	Protein-tyrosine-phosphatase	Wzb		26641313	4D74
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_03360	COG1392	P	Phosphate transport regulator YkaA, distantly related to PhoU, UPF0111/DUF47 family	YkaA			2IIU
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_03365	COG0306	P	Phosphate/sulfate permease	PitA		31358606	
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_03380	COG0407	H	Uroporphyrinogen-III decarboxylase HemE	HemE	Heme biosynthesis		2DG5
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_03385	COG0159	E	Tryptophan synthase alpha chain	TrpA	Aromatic amino acid biosynthesis		6HUL
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_03390	COG4799	I	Acetyl-CoA carboxylase, carboxyltransferase component	MmdA			1OD2
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_03395	COG0761	I	4-Hydroxy-3-methylbut-2-enyl diphosphate reductase IspH	IspH	Isoprenoid biosynthesis		3DNF
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_03415	COG1846	K	DNA-binding transcriptional regulator, MarR family	MarR			1JGS
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_03420	COG0578	C	Glycerol-3-phosphate dehydrogenase	GlpA	Isoprenoid biosynthesis		2RGH
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_03450	COG2175	Q	Taurine dioxygenase, alpha-ketoglutarate-dependent	TauD			1DRT
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_03455	COG5285	Q	Ectoine hydroxylase-related dioxygenase, phytanoyl-CoA dioxygenase (PhyH) family	PhyH			2A1X
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_03460	COG1585	O	Membrane protein implicated in regulation of membrane protease activity	YbbJ			2EXD
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_03480	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_03485	COG5524	CT	Bacteriorhodopsin				
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_03490	COG4213	G	ABC-type xylose transport system, periplasmic component	XylF			4YWH
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_03495	COG4566	TK	DNA-binding response regulator, FixJ family, consists of REC and HTH domains	FixJ			1YIO
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_03505	COG4559	P	ABC-type hemin transport system, ATPase component				4G1U
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_03510	COG2205	T	K+-sensing histidine kinase KdpD	KdpD			2KSF
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_03515	COG4177	E	ABC-type branched-chain amino acid transport system, permease component	LivM			
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_03520	COG3845	F	ABC-type guanosine uptake system NupNOPQ, ATPase component NupO	NupO		21926227	
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_03525	COG1974	KT	SOS-response transcriptional repressor LexA (RecA-mediated autopeptidase)	LexA			1AY9
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_03530	COG1228	Q	Imidazolonepropionase or related amidohydrolase	HutI			3OOQ
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_03535	COG0488	R	ATPase components of ABC transporters with duplicated ATPase domains	Uup			5ZXD
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_03540	COG1177	E	ABC-type spermidine/putrescine transport system, permease component II	PotC			
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_03545	COG1178	P	ABC-type Fe3+ transport system, permease component	FbpB			
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_03550	COG2182	G	Maltose-binding periplasmic protein MalE	MalE			1T0K
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_03560	COG0415	L	Deoxyribodipyrimidine photolyase	PhrB			1TEZ
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_03565	COG0737	FV	2',3'-cyclic-nucleotide 2'-phosphodiesterase/5'- or 3'-nucleotidase, 5'-nucleotidase family	UshA			1HO5
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_03570	COG1033	R	Predicted exporter protein, RND superfamily	MMPL			5KHN
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_03575	COG1647	Q	Esterase/lipase	YvaK			4DIU
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_03580	COG2141	HR	Flavin-dependent oxidoreductase, luciferase family (includes alkanesulfonate monooxygenase SsuD and methylene tetrahydromethanopterin reductase)	SsuD	Pyrimidine degradation		1BRL
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_03590	COG0813	F	Purine-nucleoside phosphorylase	DeoD	Purine salvage		1A69
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_03595	COG1018	C	Flavodoxin/ferredoxin--NADP reductase	Fpr			3OZU
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_03605	COG3749	S	Uncharacterized conserved protein, DUF934 family				
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_03610	COG2221	P	Dissimilatory sulfite reductase (desulfoviridin), alpha and beta subunits	DsrA			
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_03625	COG1109	G	Phosphomannomutase	ManB			6MNV
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_03635	COG0465	O	ATP-dependent Zn proteases	HflB			1LV7
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_03640	COG1466	L	DNA polymerase III, delta subunit	HolA			3ZH9
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_03645	COG0014	E	Gamma-glutamyl phosphate reductase	ProA	Proline biosynthesis		4GHK
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_03650	COG0050	J	Translation elongation factor EF-Tu, a GTPase	TufA	Translation factors		1EFU
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_03670	COG0281	C	Malic enzyme	SfcA	Urea cycle		1DO8
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_03675	COG0039	C	Malate/lactate dehydrogenase	Mdh	TCA cycle		4WLO
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_03680	COG1035	C	Coenzyme F420-reducing hydrogenase, beta subunit	FrhB			3ZFS
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_03695	COG1232	H	Protoporphyrinogen oxidase HemY/PPOX	HemY	Heme biosynthesis		3LOV
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_03705	COG0275	J	16S rRNA C1402 N4-methylase RsmH	RmsH	16S rRNA modification		1M6Y
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_03715	COG0768	DM	Cell division protein FtsI, peptidoglycan transpeptidase (Penicillin-binding protein 2)	FtsI			6HZQ
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_03720	COG0358	L	DNA primase (bacterial type)	DnaG		28128549	3B39
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_03765	COG1225	O	Peroxiredoxin	Bcp			5IPH
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_03770	COG4638	PR	Phenylpropionate dioxygenase or related ring-hydroxylating dioxygenase, large terminal subunit	HcaE			4QDC
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_03795	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_03800	COG3199	F	NAD kinase				
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_03805	COG0576	O	Molecular chaperone GrpE (heat shock protein HSP-70)	GrpE			1DKG
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_03815	COG2021	E	Homoserine O-acetyltransferase	MET2	Methionine biosynthesis		2VAT
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_03840	COG1012	I	Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase	AdhE	Proline degradation		1A4S
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_03845	COG0050	J	Translation elongation factor EF-Tu, a GTPase	TufA	Translation factors		1EFU
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_03855	COG0690	U	Preprotein translocase subunit SecE	SecE		29684280	5MG3
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_03865	COG0080	J	Ribosomal protein L11	RplK	Ribosome 50S subunit		2E34
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_03870	COG0081	J	Ribosomal protein L1	RplA	Ribosome 50S subunit		3J65
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_03890	COG0086	K	DNA-directed RNA polymerase, beta' subunit/160 kD subunit	RpoC	RNA polymerase		1NT9
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_03895	COG0147	EH	Anthranilate/para-aminobenzoate synthases component I	TrpE	Aromatic amino acid biosynthesis		1I1Q
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_03900	COG2176	L	DNA polymerase III, alpha subunit (gram-positive type)	PolC			
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_03905	COG2524	K	Predicted transcriptional regulator, contains C-terminal CBS domains				
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_03910	COG3103	R	Uncharacterized conserved protein YgiM, contains N-terminal SH3 domain, DUF1202 family	YgiM			2KQ8
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_03915	COG0143	J	Methionyl-tRNA synthetase	MetG	Aminoacyl-tRNA synthetases		1A8H
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_03920	COG0353	L	Recombinational DNA repair protein RecR	RecR		26337406	2JGR
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_03925	COG0718	K	DNA-binding nucleoid-associated protein YbaB/EfbC	YbaB		19594923;22544270	1J8B
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_03930	COG2256	L	Replication-associated recombination protein RarA (DNA-dependent ATPase)	RarA			3PVS
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_03945	COG2367	V	Beta-lactamase class A	PenP			6W34
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_03950	COG0772	D	Peptodoglycan polymerase FtsW/RodA/SpoVE	FtsW		30692671	6BAR
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_03955	COG3737	S	Uncharacterized protein, contains Mth938-like domain				
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_03960	COG4221	C	NADP-dependent 3-hydroxy acid dehydrogenase YdfG	YdfG	Pyrimidine degradation		3P19
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_03965	COG2099	H	Precorrin-6x reductase	CobK	Cobalamine/B12 biosynthesis		4X7G
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_03970	COG0461	F	Orotate phosphoribosyltransferase	PyrE	Pyrimidine biosynthesis		4WML
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_03980	COG0520	E	Selenocysteine lyase/Cysteine desulfurase	CsdA			4LW2
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_03990	COG1670	JO	Protein N-acetyltransferase, RimJ/RimL family	RimL			1S7F
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_03995	COG0582	LX	Integrase/recombinase, includes phage integrase	FimB			
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_04005	COG0492	O	Thioredoxin reductase	TrxB			3FBS
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_04015	COG2181	CP	Nitrate reductase gamma subunit	NarI			1Y5L
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_04020	COG1150	C	Heterodisulfide reductase, subunit C	HdrC			5ODC
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_04025	COG0860	M	N-acetylmuramoyl-L-alanine amidase	AmiC			1JWQ
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_04035	COG3968	E	Glutamine synthetase type III	GlnA3			
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_04040	COG0161	H	Adenosylmethionine-8-amino-7-oxononanoate aminotransferase	BioA	Biotin biosynthesis		1MLY
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_04045	COG0578	C	Glycerol-3-phosphate dehydrogenase	GlpA	Isoprenoid biosynthesis		2RGH
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_04050	COG0010	E	Arginase/agmatinase family enzyme	SpeB	Urea cycle		1CEV
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_04055	COG0505	EF	Carbamoylphosphate synthase small subunit	CarA	Arginine biosynthesis		1C30
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_04060	COG0579	G	L-2-hydroxyglutarate oxidase LhgO	LhgO			3DME
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_04070	COG0494	V	8-oxo-dGTP pyrophosphatase MutT and related house-cleaning NTP pyrophosphohydrolases, NUDIX family	MutT			4V14
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_04075	COG0670	P	Integral membrane protein YbhL, putative Ca2+ regulator, Bax inhibitor (BI-1)/TMBIM family	YbhL		28064000	4PGR
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_04080	COG0769	M	UDP-N-acetylmuramyl tripeptide synthase	MurE	Mureine biosynthesis		1E8C
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_04085	COG0324	J	tRNA A37 N6-isopentenylltransferase MiaA	MiaA	tRNA modification		2ZM5
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_04090	COG4097	P	Predicted ferric reductase				
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_04095	COG0271	KT	DNA-binding global transcriptional regulator BolA, affects cell shape, cell division and biofilm formation	BolA		19111750;2569159	2DHM
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_04100	COG0741	M	Soluble lytic murein transglycosylase or regulatory protein s ( may contain LysM/invasin domain)	MltE			153L
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_04110	COG1589	D	Cell division septal protein FtsQ	FtsQ			1YR1
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_04115	COG0439	I	Biotin carboxylase	AccC	Fatty acid biosynthesis		1BNC
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_04120	COG0812	M	UDP-N-acetylenolpyruvoylglucosamine reductase	MurB	Mureine biosynthesis		2MBR
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_04125	COG0769	M	UDP-N-acetylmuramyl tripeptide synthase	MurE	Mureine biosynthesis		1E8C
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_04135	COG1213	I	Choline kinase				4MND
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_04145	COG1714	S	Uncharacterized membrane protein YckC, RDD family	YckC			
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_04150	COG1570	L	Exonuclease VII, large subunit	XseA			
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_04155	COG1193	L	dsDNA-specific endonuclease/ATPase MutS2	MutS2			
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_04160	COG0268	J	Ribosomal protein S20	RpsT	Ribosome 30S subunit		4V4H
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_04170	COG0037	J	tRNA(Ile)-lysidine synthase TilS/MesJ	TilS	tRNA modification	21435031	1NI5
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_04175	COG1702	T	Phosphate starvation-inducible protein PhoH, predicted ATPase	PhoH		8444794;12762842	3B85
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_04180	COG0726	GM	Peptidoglycan/xylan/chitin deacetylase, PgdA/NodB/CDA1 family	CDA1			1NY1
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_04185	COG1032	R	Radical SAM superfamily enzyme YgiQ, UPF0313 family	YgiQ			6FD2
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_04195	COG0739	M	Murein DD-endopeptidase MepM and murein hydrolase activator NlpD, contains LysM domain	NlpD			2GU1
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_04200	COG1238	S	Uncharacterized membrane protein YqaA, VTT domain	YgaA			
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_04205	COG0752	J	Glycyl-tRNA synthetase, alpha subunit	GlyQ	Aminoacyl-tRNA synthetases		1J5W
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_04210	COG0499	H	S-adenosylhomocysteine hydrolase	SAM1			1A7A
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_04215	COG0192	H	S-adenosylmethionine synthetase	MetK	Methionine biosynthesis		1FUG
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_04225	COG1118	P	ABC-type sulfate/molybdate transport systems, ATPase component	CysA			
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_04230	COG2913	M	Outer membrane protein assembly factor BamE, lipoprotein component of the BamABCDE complex	BamE			2KM7
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_04245	COG0216	J	Protein chain release factor RF1	PrfA	Translation factors		1RQ0
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_04250	COG0169	E	Shikimate 5-dehydrogenase	AroE	Aromatic amino acid biosynthesis		1NPD
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_04255	COG2256	L	Replication-associated recombination protein RarA (DNA-dependent ATPase)	RarA			3PVS
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_04265	COG1291	N	Flagellar motor component MotA	MotA			
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_04275	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_04285	COG1490	J	D-aminoacyl-tRNA deacylase	Dtd		10918062;16902403;24302572	1J7G
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_04290	COG1393	P	Arsenate reductase or related protein, glutaredoxin family	ArsC			1I9D
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_04295	COG3118	O	Chaperedoxin CnoX, contains thioredoxin-like and TPR-like domains, YbbN/TrxSC family	CnoX		21498507;29754824	3QDN
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_04305	COG3965	P	Predicted Co/Zn/Cd cation transporter, cation efflux family				
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_04320	COG0623	I	Enoyl-[acyl-carrier-protein] reductase FabI	FabI	Fatty acid biosynthesis		1C14
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_04325	COG4977	K	Transcriptional regulator GlxA, contains an amidase domain and an AraC-type DNA-binding HTH domain	GlxA			
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_04330	COG0246	G	Mannitol-1-phosphate/altronate dehydrogenases	MtlD			1LJ8
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_04335	COG1119	P	ABC-type molybdenum transport system, ATPase component ModF/photorepair protein PhrA	ModF			2IHY
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_04340	COG0572	F	Uridine kinase	Udk	Pyrimidine salvage		5B3F
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_04345	COG1105	G	1-phosphofructokinase or 6-phosphofructokinase II	FruK			2ABQ
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_04350	COG4175	E	ABC-type proline/glycine betaine transport system, ATPase component	ProV			
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_04355	COG0842	V	ABC-type multidrug transport system, permease component	YadH			
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_04365	COG2226	H	Ubiquinone/menaquinone biosynthesis C-methylase UbiE/MenG	UbiE	Biotin biosynthesis		4OBW
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_04375	COG2263	R	Predicted RNA methylase				6H2U
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_04385	COG0411	E	ABC-type branched-chain amino acid transport system, ATPase component LivG	LivG		29514851	1G9X
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_04390	COG0577	V	ABC-type antimicrobial peptide transport system, permease component	SalY			
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_04395	COG3495	S	Uncharacterized conserved protein, DUF3299 family			21378183	4HSP
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_04400	COG0735	P	Fe2+ or Zn2+ uptake regulation protein Fur/Zur	Fur			1MZB
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_04415	COG2242	H	Precorrin-6B methylase 2	CobL	Cobalamine/B12 biosynthesis		1F38
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_04420	COG4122	J	tRNA 5-hydroxyU34 O-methylase TrmR/YrrM	TrmR	tRNA modification	29982645	1H1D
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_04430	COG1232	H	Protoporphyrinogen oxidase HemY/PPOX	HemY	Heme biosynthesis		3LOV
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_04435	COG0052	J	Ribosomal protein S2	RpsB	Ribosome 30S subunit		4V4H
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_04440	COG0264	J	Translation elongation factor EF-Ts	Tsf	Translation factors		1EFU
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_04445	COG2084	I	3-hydroxyisobutyrate dehydrogenase or related beta-hydroxyacid dehydrogenase	MmsB			1I36
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_04450	COG2723	G	Beta-glucosidase/6-phospho-beta-glucosidase/beta-galactosidase	BglB			4HZ6
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_04455	COG4152	R	ABC-type uncharacterized transport system, ATPase component	YhaQ			
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_04460	COG1177	E	ABC-type spermidine/putrescine transport system, permease component II	PotC			
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_04465	COG4209	G	ABC-type polysaccharide transport system, permease component	LplB			4TQU
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_04470	COG2182	G	Maltose-binding periplasmic protein MalE	MalE			1T0K
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_04480	COG1178	P	ABC-type Fe3+ transport system, permease component	FbpB			
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_04485	COG2182	G	Maltose-binding periplasmic protein MalE	MalE			1T0K
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_04490	COG1846	K	DNA-binding transcriptional regulator, MarR family	MarR			1JGS
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_04505	COG0673	R	Predicted dehydrogenase	MviM			3UUW
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_04510	COG2870	M	ADP-heptose synthase, bifunctional sugar kinase/adenylyltransferase	RfaE			5X9Q
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_04515	COG0111	H	Phosphoglycerate dehydrogenase or related dehydrogenase	SerA	Serine biosynthesis		3OET
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_04520	COG0554	C	Glycerol kinase	GlpK			2ZF5
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_04525	COG1414	K	DNA-binding transcriptional regulator, IclR family	IclR			1MKM
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_04530	COG0488	R	ATPase components of ABC transporters with duplicated ATPase domains	Uup			5ZXD
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_04535	COG1874	G	Beta-galactosidase GanA	GanA			1KWG
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_04540	COG3386	G	Sugar lactone lactonase YvrE	YvrE	Non-phosphorylated Entner-Doudoroff pathway		1E1A
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_04555	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_04560	COG0129	EG	Dihydroxyacid dehydratase/phosphogluconate dehydratase	IlvD	Isoleucine, leucine, valine biosynthesis		2GP4
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_04565	COG1649	S	Uncharacterized lipoprotein YddW, UPF0748 family	YddW			5OQ2
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_04570	COG1177	E	ABC-type spermidine/putrescine transport system, permease component II	PotC			
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_04575	COG1178	P	ABC-type Fe3+ transport system, permease component	FbpB			
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_04580	COG0687	E	Spermidine/putrescine-binding periplasmic protein	PotD			1POT
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_04585	COG1826	U	Twin-arginine protein secretion pathway components TatA and TatB	TatA			2L16
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_04590	COG1826	U	Twin-arginine protein secretion pathway components TatA and TatB	TatA			2L16
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_04595	COG0805	U	Twin-arginine protein secretion pathway component TatC	TatC			4B4A
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_04600	COG0067	E	Glutamate synthase domain 1	GltB1	Glutamine biosynthesis		1EA0
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_04605	COG3968	E	Glutamine synthetase type III	GlnA3			
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_04610	COG1396	K	Transcriptional regulator, contains XRE-family HTH domain	HipB			1ADR
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_04620	COG0674	C	Pyruvate:ferredoxin oxidoreductase or related 2-oxoacid:ferredoxin oxidoreductase, alpha subunit	PorA	Pyruvate oxidation		5C4I
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_04625	COG0508	C	Pyruvate/2-oxoglutarate dehydrogenase complex, dihydrolipoamide acyltransferase (E2) component	AceF	Pyruvate oxidation		1B5S
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_04660	COG3605	T	Signal transduction protein containing GAF and PtsI domains	PtsP			
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_04665	COG3958	G	Transketolase, C-terminal subunit	TktA2			
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_04670	COG0057	G	Glyceraldehyde-3-phosphate dehydrogenase/erythrose-4-phosphate dehydrogenase	GapA	Glycolysis		3ZDF
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_04675	COG0126	G	3-phosphoglycerate kinase	Pgk	Glycolysis		13PK
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_04680	COG0469	G	Pyruvate kinase	PykF	Glycolysis		6QXL
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_04690	COG1206	J	Folate-dependent tRNA-U54 methylase TrmFO/GidA	TrmFO	tRNA modification	16027442	
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_04695	COG0357	J	16S rRNA G527 N7-methylase RsmG (former glucose-inhibited division protein B)	RsmG	16S rRNA modification	15375115;22031445	1XDZ
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_04700	COG1099	R	Predicted metal-dependent hydrolase, TIM-barrel fold				3GUW
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_04705	COG0564	J	Pseudouridine synthase RluA, 23S rRNA- or tRNA-specific	RluA	23S rRNA modification		2I82
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_04710	COG0109	HI	Polyprenyltransferase (heme O synthase)	CyoE			
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_04725	COG1044	M	UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase	LpxD	Lipid A biosynthesis		6P83
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_04730	COG4618	U	ABC-type protease/lipase transport system, ATPase and permease components	ArpD			5L22
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_04735	COG0749	L	DNA polymerase I, 3'-5' exonuclease and polymerase domains	PolA			1D8Y
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_04745	COG4123	J	tRNA1(Val) A37 N6-methylase TrmN6	TrmN6	tRNA modification		
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_04750	COG0697	GER	Permease of the drug/metabolite transporter (DMT) superfamily	RhaT			5I20
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_04755	COG0626	E	Cystathionine beta-lyase/cystathionine gamma-synthase	MetC	Methionine biosynthesis		1CL1
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_04760	COG0024	J	Methionine aminopeptidase	Map			3J2I
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_04765	COG2512	R	Predicted transcriptional regulator, contains CW (cell wall-binding) repeats and an HTH domain				
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_04770	COG4126	E	Asp/Glu/hydantoin racemase	Dcg1			
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_04775	COG2076	V	Multidrug transporter EmrE and related cation transporters	EmrE			2I68
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_04785	COG1951	C	Tartrate dehydratase alpha subunit/Fumarate hydratase class I, N-terminal domain	TtdA	TCA cycle	15613473	5L2R
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_04790	COG0849	D	Cell division ATPase FtsA	FtsA			3WT0
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_04800	COG1033	R	Predicted exporter protein, RND superfamily	MMPL			5KHN
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_04805	COG2519	J	tRNA A58 N-methylase Trm61	Gcd14	tRNA modification		1I9G
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_04810	COG0492	O	Thioredoxin reductase	TrxB			3FBS
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_04815	COG1038	C	Pyruvate carboxylase	PycA	Urea cycle		5VYW
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_04820	COG1132	V	ABC-type multidrug transport system, ATPase and permease component	MdlB			2HYD
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_04825	COG0842	V	ABC-type multidrug transport system, permease component	YadH			
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_04830	COG0344	I	Phospholipid biosynthesis protein PlsY, probable glycerol-3-phosphate acyltransferase	PlsY		29684280	5XJ5
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_04845	COG2761	O	Predicted dithiol-disulfide isomerase, DsbA/YjbH family (virulence, stress resistance)	FrnE			6GHB
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_04850	COG0351	H	Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase	ThiD	Thiamine biosynthesis	17351295	1Y9X
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_04855	COG1167	KE	DNA-binding transcriptional regulator, MocR family, contains an aminotransferase domain	ARO8	Lysine biosynthesis		2R2N
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_04860	COG0327	H	Putative GTP cyclohydrolase 1 type 2, NIF3 family	NIF3	Folate biosynthesis	24435797;26385509	3SY1
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_04865	COG1453	R	Predicted oxidoreductase of the aldo/keto reductase family				
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_04870	COG0002	E	N-acetyl-gamma-glutamylphosphate reductase	ArgC	Arginine biosynthesis		3DR3
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_04875	COG0131	E	Imidazoleglycerol phosphate dehydratase HisB	HisB2	Histidine biosynthesis		1RHY
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_04880	COG0518	F	GMP synthase, glutamine amidotransferase domain	GuaA1	Purine biosynthesis		4WIM
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_04885	COG0557	K	Exoribonuclease R	VacB			6H25
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_04890	COG0129	EG	Dihydroxyacid dehydratase/phosphogluconate dehydratase	IlvD	Isoleucine, leucine, valine biosynthesis		2GP4
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_04895	COG1246	E	N-acetylglutamate synthase or related acetyltransferase, GNAT family	ArgA	Arginine biosynthesis		2R98
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_04900	COG0847	L	DNA polymerase III, epsilon subunit or related 3'-5' exonuclease	DnaQ			1J53
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_04910	COG2121	S	Uncharacterized conserved protein, lysophospholipid acyltransferase (LPLAT) superfamily				
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_04920	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_04925	COG0483	G	Archaeal fructose-1,6-bisphosphatase or related enzyme, inositol monophosphatase family	SuhB	Gluconeogenesis		1AWB
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_04930	COG0566	J	tRNA G18 (ribose-2'-O)-methylase SpoU	SpoU	tRNA modification		1GZ0
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_04935	COG0326	O	Molecular chaperone, HSP90 family	HtpG		30150682	1Y4S
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_04940	COG0582	LX	Integrase/recombinase, includes phage integrase	FimB			
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_04950	COG0408	H	Coproporphyrinogen-III oxidase HemH, oxygen-dependent	HemF	Heme biosynthesis		3E8J
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_04955	COG0174	E	Glutamine synthetase	GlnA	Glutamine biosynthesis		1F1H
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_04970	COG0441	J	Threonyl-tRNA synthetase	ThrS	Aminoacyl-tRNA synthetases		1NYQ
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_04975	COG0290	J	Translation initiation factor IF-3	InfC	Translation factors		2IFE
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_04985	COG0016	J	Phenylalanyl-tRNA synthetase alpha subunit	PheS	Aminoacyl-tRNA synthetases		3L4G
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_04990	COG0072	J	Phenylalanyl-tRNA synthetase beta subunit	PheT	Aminoacyl-tRNA synthetases		3L4G
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_05010	COG0657	I	Acetyl esterase/lipase	Aes			1EVQ
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_05020	COG1179	J	tRNA A37 threonylcarbamoyladenosine dehydratase	TcdA	tRNA modification	27913733	4D7A
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_05035	COG3261	C	Ni,Fe-hydrogenase III large subunit	HycE2			6CFW
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_05045	COG1894	C	NADH:ubiquinone oxidoreductase, NADH-binding 51 kD subunit (chain F)	NuoF	NADH dehydrogenase		2FUG
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_05050	COG0243	C	Anaerobic selenocysteine-containing dehydrogenase	BisC			1EU1
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_05055	COG1005	C	NADH:ubiquinone oxidoreductase subunit 1 (chain H)	NuoH	NADH dehydrogenase		6HUM
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_05060	COG1145	C	Ferredoxin	NapF			6FAH
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_05070	COG0713	C	NADH:ubiquinone oxidoreductase subunit 11 or 4L (chain K)	NuoK	NADH dehydrogenase		4HE8
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_05075	COG1009	C	Membrane H+-translocase/NADH:ubiquinone oxidoreductase subunit 5 (chain L)/Multisubunit Na+/H+ antiporter, MnhA subunit	NuoL	NADH dehydrogenase		3RKO
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_05080	COG1008	C	NADH:ubiquinone oxidoreductase subunit 4 (chain M)	NuoM	NADH dehydrogenase		6HUM
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_05085	COG1007	C	NADH:ubiquinone oxidoreductase subunit 2 (chain N)	NuoN	NADH dehydrogenase		4HE8
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_05095	COG0697	GER	Permease of the drug/metabolite transporter (DMT) superfamily	RhaT			5I20
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_05100	COG1020	Q	EntF, seryl-AMP synthase component  of non-ribosomal peptide synthetase	EntF			5ES5
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_05105	COG1012	I	Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase	AdhE	Proline degradation		1A4S
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_05110	COG0156	H	7-keto-8-aminopelargonate synthetase or related enzyme	BioF	Biotin biosynthesis		1BS0
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_05115	COG1228	Q	Imidazolonepropionase or related amidohydrolase	HutI			3OOQ
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_05120	COG4603	F	ABC-type guanosine uptake system NupNOPQ, permease component NupP	NupP		21926227	
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_05125	COG1079	F	ABC-type guanosine uptake system NupNOPQ, permease subunit NupQ	NupQ		21926227	
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_05130	COG4598	E	ABC-type histidine transport system, ATPase component	HisP			1B0U
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_05135	COG1744	T	Lipoprotein Med, regulator of KinD/Spo0A, PBP1-ABC superfamily, includes NupN	Med		21622736	2FQW
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_05140	COG3321	Q	Acyl transferase domain in polyketide synthase (PKS) enzymes	PksD			6IYO
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_05155	COG3193	T	Heme-binding protein HbpS, GlcG/HbpS family	GlcG		19244623;25342754	2A2L
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_05165	COG3961	GHR	TPP-dependent 2-oxoacid decarboxylase, includes indolepyruvate decarboxylase	PDC1	Pyruvate oxidation		1PYD
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_05170	COG0686	E	Alanine dehydrogenase (includes sporulation protein SpoVN)	Ald	Urea cycle		2EEZ
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_05175	COG0001	H	Glutamate-1-semialdehyde aminotransferase	HemL	Heme biosynthesis		2CFB
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_05180	COG0079	E	Histidinol-phosphate/aromatic aminotransferase or cobyric acid decarboxylase	HisC	Cobalamine/B12 biosynthesis		4R2N
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_05185	COG0730	P	Sulfite exporter TauE/SafE/YfcA and related permeases, UPF0721 family	TauE		21183667;22797525	
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_05190	COG0578	C	Glycerol-3-phosphate dehydrogenase	GlpA	Isoprenoid biosynthesis		2RGH
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_05195	COG4986	P	ABC-type anion transport system, duplicated permease component				
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_05200	COG0488	R	ATPase components of ABC transporters with duplicated ATPase domains	Uup			5ZXD
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_05215	COG0054	H	6,7-dimethyl-8-ribityllumazine synthase (Riboflavin synthase beta chain)	RibE	Riboflavin/FAD biosynthesis		1C2Y
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_05220	COG0108	H	3,4-dihydroxy-2-butanone 4-phosphate synthase	RibB	Riboflavin/FAD biosynthesis		1G57
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_05230	COG3845	F	ABC-type guanosine uptake system NupNOPQ, ATPase component NupO	NupO		21926227	
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_05240	COG0772	D	Peptodoglycan polymerase FtsW/RodA/SpoVE	FtsW		30692671	6BAR
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_05245	COG1819	G	UDP:flavonoid glycosyltransferase YjiC, YdhE family	YjiC		23974133	2ACV
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_05250	COG1060	H	2-iminoacetate synthase ThiH/Menaquinone biosynthesis enzymes MqnC and MqnE	ThiH	Thiamine biosynthesis	18801996	4WCX
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_05255	COG0174	E	Glutamine synthetase	GlnA	Glutamine biosynthesis		1F1H
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_05260	COG1451	R	UTP pyrophosphatase, metal-dependent hydrolase family	YgjP		27941785	4JIU
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_05265	COG0278	O	Glutaredoxin-related protein	GrxD			1YKA
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_05270	COG4123	J	tRNA1(Val) A37 N6-methylase TrmN6	TrmN6	tRNA modification		
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_05275	COG0607	P	Rhodanese-related sulfurtransferase	PspE	Urea cycle		1TQ1
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_05280	COG0022	C	Pyruvate/2-oxoglutarate/acetoin dehydrogenase complex, dehydrogenase (E1) component, beta subunit	AcoB	Pyruvate oxidation		2OZL
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_05285	COG3216	S	Uncharacterized conserved protein, DUF2062 family				
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_05290	COG0821	I	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase IspG/GcpE	IspG	Isoprenoid biosynthesis		2Y0F
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_05300	COG1032	R	Radical SAM superfamily enzyme YgiQ, UPF0313 family	YgiQ			6FD2
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_05305	COG0105	F	Nucleoside diphosphate kinase	Ndk	Pyrimidine biosynthesis		1B4S
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_05310	COG1233	Q	Phytoene dehydrogenase-related protein				4REP
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_05320	COG2084	I	3-hydroxyisobutyrate dehydrogenase or related beta-hydroxyacid dehydrogenase	MmsB			1I36
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_05325	COG0637	G	Beta-phosphoglucomutase, HAD superfamily	YcjU		29684280	3E58
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_05330	COG0161	H	Adenosylmethionine-8-amino-7-oxononanoate aminotransferase	BioA	Biotin biosynthesis		1MLY
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_05335	COG1198	L	Primosomal protein N' (replication factor Y) - superfamily II helicase	PriA			6DCR
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_05340	COG0319	J	ssRNA-specific RNase YbeY, 16S rRNA maturation enzyme	YbeY	16S rRNA modification	17407324;23543739	1XM5
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_05350	COG1592	C	Rubrerythrin	YotD			1B71
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_05370	COG4799	I	Acetyl-CoA carboxylase, carboxyltransferase component	MmdA			1OD2
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_05375	COG1280	E	Threonine/homoserine/homoserine lactone efflux protein	RhtB			
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_05380	COG0697	GER	Permease of the drug/metabolite transporter (DMT) superfamily	RhaT			5I20
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_05385	COG1279	E	Arginine exporter protein ArgO	ArgO			
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_05395	COG0579	G	L-2-hydroxyglutarate oxidase LhgO	LhgO			3DME
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_05410	COG4211	G	ABC-type glucose/galactose transport system, permease component	MglC			
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_05415	COG3840	H	ABC-type thiamine transport system, ATPase component ThiQ	ThiQ			
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_05420	COG0673	R	Predicted dehydrogenase	MviM			3UUW
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_05425	COG2222	M	Fructoselysine-6-P-deglycase FrlB or related protein, duplicated sugar isomerase (SIS) domain	AgaS		16153181	3C3J
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_05430	COG3718	G	5-deoxy-D-glucuronate isomerase	IolB			2QJV
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_05435	COG1846	K	DNA-binding transcriptional regulator, MarR family	MarR			1JGS
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_05440	COG0578	C	Glycerol-3-phosphate dehydrogenase	GlpA	Isoprenoid biosynthesis		2RGH
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_05470	COG2186	K	DNA-binding transcriptional regulator, FadR family	FadR			1E2X
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_05475	COG0673	R	Predicted dehydrogenase	MviM			3UUW
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_05485	COG3090	G	TRAP-type C4-dicarboxylate transport system, small permease component YiaM	DctM			
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_05490	COG4664	Q	TRAP-type mannitol/chloroaromatic compound transport system, large permease component	FcbT3			
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_05500	COG1082	G	Sugar phosphate isomerase/epimerase	YcjR		30742415	3KTC
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_05505	COG0014	E	Gamma-glutamyl phosphate reductase	ProA	Proline biosynthesis		4GHK
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_05510	COG0028	EH	Acetolactate synthase large subunit or other thiamine pyrophosphate-requiring enzyme	IlvB	Isoleucine, leucine, valine biosynthesis		1BFD
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_05520	COG2175	Q	Taurine dioxygenase, alpha-ketoglutarate-dependent	TauD			1DRT
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_05525	COG2175	Q	Taurine dioxygenase, alpha-ketoglutarate-dependent	TauD			1DRT
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_05530	COG5285	Q	Ectoine hydroxylase-related dioxygenase, phytanoyl-CoA dioxygenase (PhyH) family	PhyH			2A1X
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_05535	COG1585	O	Membrane protein implicated in regulation of membrane protease activity	YbbJ			2EXD
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_05540	COG0856	F	Orotate phosphoribosyltransferase homolog	PyrE2			
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_05545	COG3568	R	Metal-dependent hydrolase, endonuclease/exonuclease/phosphatase family	ElsH		15178340	
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_05550	COG0220	J	tRNA G46 N7-methylase TrmB	TrmB	tRNA modification	19373903;16600901	1YZH
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_05560	COG0769	M	UDP-N-acetylmuramyl tripeptide synthase	MurE	Mureine biosynthesis		1E8C
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_05570	COG0449	M	Glucosamine 6-phosphate synthetase, contains amidotransferase and phosphosugar isomerase domains	GlmS			2J6H
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_05575	COG0520	E	Selenocysteine lyase/Cysteine desulfurase	CsdA			4LW2
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_05580	COG4706	I	Predicted 3-hydroxylacyl-ACP dehydratase, HotDog domain				
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_05585	COG0304	IQ	3-oxoacyl-(acyl-carrier-protein) synthase	FabB	Fatty acid biosynthesis	21652641	2UV8
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_05595	COG0665	E	Glycine/D-amino acid oxidase (deaminating)	DadA			3AWI
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_05605	COG1062	C	Zn-dependent alcohol/formaldehyde dehydrogenase	FrmA			1A71
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_05620	COG0579	G	L-2-hydroxyglutarate oxidase LhgO	LhgO			3DME
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_05630	COG0226	P	ABC-type phosphate transport system, periplasmic component	PstS			2Q9T
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_05640	COG0555	P	ABC-type sulfate transport system, permease component	CysU			3D31
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_05645	COG4149	P	ABC-type molybdate transport system, permease component ModB	ModB	Molybdopterin biosynthesis		
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_05650	COG4167	V	ABC-type antimicrobial peptide export system, ATPase component SapF	SapF			
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_05655	COG1283	P	Na+/phosphate symporter	NptA			
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_05660	COG2197	TK	DNA-binding response regulator, NarL/FixJ family, contains REC and HTH domains	CitB			1A04
+Thioglobus_sp_MED612	GCA_002689885.1	NLKPLG_05665	COG3852	T	Signal transduction histidine kinase NtrB, nitrogen specific	NtrB		23893111	

@@ -1,0 +1,657 @@
+#prefix	assemid	query	COG	category	name	Gene	pathway	pmid	pdb_id
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_00005	COG0534	V	Na+-driven multidrug efflux pump, DinF/NorM/MATE family	NorM		29915058	3VVN
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_00030	COG0112	E	Glycine/serine hydroxymethyltransferase	GlyA	Serine biosynthesis		1BJ4
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_00035	COG0472	M	UDP-N-acetylmuramyl pentapeptide phosphotransferase/UDP-N-acetylglucosamine-1-phosphate transferase	Rfe	Mureine biosynthesis		4J72
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_00040	COG0521	H	Molybdopterin biosynthesis enzyme MoaB/MogA	MoaB	Molybdopterin biosynthesis	32239579	1DI6
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_00045	COG1049	C	Aconitase B	AcnB	TCA cycle		1L5J
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_00050	COG0066	E	3-isopropylmalate dehydratase small subunit	LeuD	Isoleucine, leucine, valine biosynthesis		3Q3W
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_00055	COG1357	S	Uncharacterized conserved protein YjbI, contains pentapeptide repeats	YjbI			2BM4
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_00060	COG1452	M	LPS assembly outer membrane protein LptD (organic solvent tolerance protein OstA)	LptD			4N4R
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_00085	COG1826	U	Twin-arginine protein secretion pathway components TatA and TatB	TatA			2L16
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_00090	COG0193	J	Peptidyl-tRNA hydrolase	Pth	Translation factors	11835511	1RYB
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_00105	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_00115	COG2123	U	Exosome complex RNA-binding protein Rrp42, RNase PH superfamily	Rrp42		23319881	4IFD
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_00125	COG0717	F	dCTP deaminase	Dcd	Thymidylate biosynthesis		1XS1
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_00130	COG1351	F	Thymidylate synthase ThyX, FAD-dependent family	ThyX	Thymidylate biosynthesis		1KQ4
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_00135	COG0526	O	Thiol-disulfide isomerase or thioredoxin	TrxA			1XFL
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_00155	COG0033	G	Phosphoglucomutase/phosphomannomutase	Pgm		30938049	1C47
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_00160	COG2971	G	BadF-type ATPase, related to human N-acetylglucosamine kinase	BadF		17954692;12761179;12761179	
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_00175	COG3287	T	FIST domain protein MJ1623, contains FIST_N and FIST_C domains	FIST		17855421	
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_00200	COG0143	J	Methionyl-tRNA synthetase	MetG	Aminoacyl-tRNA synthetases		1A8H
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_00265	COG4559	P	ABC-type hemin transport system, ATPase component				4G1U
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_00270	COG4531	P	ABC-type Zn2+ transport system, periplasmic component/surface adhesin ZnuA	ZnuA			2OGW
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_00275	COG0523	R	Zinc metallochaperone YeiR/ZagA and related GTPases, G3E family	YejR		19822009;31132310	1NIJ
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_00280	COG2319	R	WD40 repeat	WD40			3UVN
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_00285	COG2720	V	Vancomycin resistance protein YoaR (function unknown), contains peptidoglycan-binding and VanW domains	YoaR			
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_00295	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_00300	COG2203	T	GAF domain	GAF			
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_00320	COG2259	S	Uncharacterized membrane protein YphA, DoxX/SURF4 family	DoxX			
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_00330	COG3204	R	Uncharacterized Ca-binding beta-propeller protein YjiK	YjiK			3QQZ
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_00335	COG1028	I	NAD(P)-dependent dehydrogenase, short-chain alcohol dehydrogenase family	FabG	Fatty acid biosynthesis		6L1H
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_00340	COG1232	H	Protoporphyrinogen oxidase HemY/PPOX	HemY	Heme biosynthesis		3LOV
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_00345	COG5361	X	Uncharacterized conserved protein				2P3Y
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_00375	COG2771	K	DNA-binding transcriptional regulator, CsgD family	CsgD			
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_00380	COG0624	E	Acetylornithine deacetylase/Succinyl-diaminopimelate desuccinylase or related deacylase	ArgE	Arginine biosynthesis		1CG2
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_00405	COG3981	R	Predicted acetyltransferase				
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_00425	COG0349	J	Ribonuclease D	Rnd		18821773	5C0Y
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_00455	COG1528	P	Ferritin	FtnA		24380371	1AEW
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_00465	COG1295	S	Uncharacterized membrane protein, BrkB/YihY/UPF0761 family (not an RNase)	BrkB			
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_00500	COG1643	J	HrpA-like RNA helicase	HrpA			5N8R
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_00520	COG0793	O	C-terminal processing protease CtpA/Prc, contains a PDZ domain	CtpA			6IQU
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_00530	COG1120	PH	ABC-type cobalamin/Fe3+-siderophores transport system, ATPase component	FepC			2NQ2
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_00550	COG2377	M	1,6-Anhydro-N-acetylmuramate kinase	AnmK		15901686	3CQY
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_00555	COG1226	P	Voltage-gated potassium channel Kch	Kch			3FWZ
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_00575	COG1063	ER	Threonine dehydrogenase or related Zn-dependent dehydrogenase	Tdh	Non-phosphorylated Entner-Doudoroff pathway		4A2C
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_00580	COG3288	C	NAD/NADP transhydrogenase alpha subunit	PntA			1F8G
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_00590	COG0596	HR	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold	MenH	Menaquinone biosynthesis		4MYS
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_00595	COG1905	C	NADH:ubiquinone oxidoreductase 24 kD subunit (chain E)	NuoE	NADH dehydrogenase		5XF9
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_00600	COG0743	I	1-deoxy-D-xylulose 5-phosphate reductoisomerase	Dxr	Isoprenoid biosynthesis		1JVS
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_00605	COG2239	P	Mg/Co/Ni transporter MgtE (contains CBS domain)	MgtE			2YVX
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_00620	COG0215	J	Cysteinyl-tRNA synthetase	CysS	Aminoacyl-tRNA synthetases		1LI5
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_00635	COG0749	L	DNA polymerase I, 3'-5' exonuclease and polymerase domains	PolA			1D8Y
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_00645	COG0536	DL	GTPase involved in cell partioning and DNA repair	Obg			1LNZ
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_00650	COG0450	V	Alkyl hydroperoxide reductase subunit AhpC (peroxiredoxin)	AhpC			2RII
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_00660	COG4095	G	Sugar transporter, SemiSWEET family, contains PQ motif	SWEET		24027245	
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_00675	COG4188	R	Predicted dienelactone hydrolase				
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_00680	COG4174	Q	ABC-type microcin C transport system, permease component YejB	YejB		17873039	
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_00685	COG4533	K	DNA-binding transcriptional regulator SgrR of sgrS sRNA, contains a MarR-type HTH domain and a periplasmic-type solute-binding domain	SgrR			
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_00695	COG0460	E	Homoserine dehydrogenase	ThrA	Methionine biosynthesis	29124164	5AVO
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_00715	COG0500	QR	SAM-dependent methyltransferase	SmtA			5DNK
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_00760	COG1067	O	Predicted ATP-dependent protease	LonB			3K1J
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_00770	COG1686	M	D-alanyl-D-alanine carboxypeptidase	DacC			1HD8
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_00775	COG0219	J	tRNA(Leu) C34 or U34 (ribose-2'-O)-methylase TrmL, contains SPOUT domain	TrmL	tRNA modification		4JAK
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_00780	COG2010	C	Cytochrome c, mono- and diheme variants	CccA			1A2S
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_00790	COG1523	G	Pullulanase/glycogen debranching enzyme	PulA			2WSK
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_00795	COG0407	H	Uroporphyrinogen-III decarboxylase HemE	HemE	Heme biosynthesis		2DG5
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_00800	COG0451	M	Nucleoside-diphosphate-sugar epimerase	WcaG			2X4G
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_00805	COG4454	R	Uncharacterized copper-binding protein, cupredoxin-like subfamily				
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_00810	COG2010	C	Cytochrome c, mono- and diheme variants	CccA			1A2S
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_00815	COG3855	G	Fructose-1,6-bisphosphatase	Fbp2	Gluconeogenesis		
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_00845	COG1484	L	DNA replication protein DnaC	DnaC			2QGZ
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_00855	COG0139	E	Phosphoribosyl-AMP cyclohydrolase	HisI1	Histidine biosynthesis		1ZPS
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_00865	COG5549	O	Predicted Zn-dependent protease				
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_00875	COG0568	K	DNA-directed RNA polymerase, sigma subunit (sigma70/sigma32)	RpoD	RNA polymerase		1SIG
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_00920	COG1008	C	NADH:ubiquinone oxidoreductase subunit 4 (chain M)	NuoM	NADH dehydrogenase		6HUM
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_00930	COG1207	M	Bifunctional protein GlmU, N-acetylglucosamine-1-phosphate-uridyltransferase/glucosamine-1-phosphate-acetyltransferase	GlmU			3FWW
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_00935	COG0685	E	5,10-methylenetetrahydrofolate reductase	MetF			1B5T
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_00940	COG2197	TK	DNA-binding response regulator, NarL/FixJ family, contains REC and HTH domains	CitB			1A04
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_00950	COG0061	H	NAD kinase	NadK			1SUW
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_00955	COG0713	C	NADH:ubiquinone oxidoreductase subunit 11 or 4L (chain K)	NuoK	NADH dehydrogenase		4HE8
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_00965	COG1145	C	Ferredoxin	NapF			6FAH
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_00970	COG1005	C	NADH:ubiquinone oxidoreductase subunit 1 (chain H)	NuoH	NADH dehydrogenase		6HUM
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_00975	COG0372	C	Citrate synthase	GltA	TCA cycle	25211225	3TQG
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_00980	COG2062	T	Phosphohistidine phosphatase SixA	SixA			1UJB
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_00990	COG0607	P	Rhodanese-related sulfurtransferase	PspE	Urea cycle		1TQ1
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_01000	COG0133	E	Tryptophan synthase beta chain	TrpB	Aromatic amino acid biosynthesis		2DH5
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_01005	COG2226	H	Ubiquinone/menaquinone biosynthesis C-methylase UbiE/MenG	UbiE	Biotin biosynthesis		4OBW
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_01015	COG3265	G	Gluconate kinase	GntK	Non-phosphorylated Entner-Doudoroff pathway		1KO4
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_01025	COG1691	F	NCAIR mutase (PurE)-related protein				
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_01035	COG2226	H	Ubiquinone/menaquinone biosynthesis C-methylase UbiE/MenG	UbiE	Biotin biosynthesis		4OBW
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_01045	COG0564	J	Pseudouridine synthase RluA, 23S rRNA- or tRNA-specific	RluA	23S rRNA modification		2I82
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_01050	COG0784	T	CheY-like REC (receiver) domain, includes chemotaxis protein CheY  and sporulation regulator Spo0F	CheY			6QRJ
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_01060	COG0076	E	Glutamate or tyrosine decarboxylase or a related PLP-dependent protein	GadA	Pantothenate/CoA biosynthesis		1XEY
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_01075	COG0649	C	NADH:ubiquinone oxidoreductase 49 kD subunit (chain D)	NuoD	NADH dehydrogenase		2FUG
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_01095	COG1141	C	Ferredoxin	Fer			1IQZ
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_01105	COG1022	I	Long-chain acyl-CoA synthetase (AMP-forming)	FAA1			
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_01110	COG4948	MR	L-alanine-DL-glutamate epimerase or related enzyme of enolase superfamily	RspA	Non-phosphorylated Entner-Doudoroff pathway		1BKH
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_01120	COG0147	EH	Anthranilate/para-aminobenzoate synthases component I	TrpE	Aromatic amino acid biosynthesis		1I1Q
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_01125	COG0412	Q	Dienelactone hydrolase	DLH			4ZV9
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_01130	COG0189	EHJQ	Glutathione synthase, LysX or RimK-type ligase, ATP-grasp superfamily	LysX	Lysine biosynthesis		1GLV
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_01140	COG1186	J	Protein chain release factor PrfB	PrfB	Translation factors		1GQE
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_01155	COG4143	H	ABC-type thiamine transport system, periplasmic component TbpA	TbpA			2QRY
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_01160	COG0043	H	3-polyprenyl-4-hydroxybenzoate decarboxylase	UbiD	Ubiquinone biosynthesis	28057757	2IDB
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_01170	COG0815	M	Apolipoprotein N-acyltransferase	Lnt			6NWR
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_01175	COG0860	M	N-acetylmuramoyl-L-alanine amidase	AmiC			1JWQ
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_01180	COG1794	M	Amino acid racemase YgeA	RacX			5ELL
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_01185	COG0142	H	Geranylgeranyl pyrophosphate synthase	IspA	Isoprenoid biosynthesis		2AZJ
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_01195	COG0365	I	Acyl-coenzyme A synthetase/AMP-(fatty) acid ligase	Acs		14638756	4B2O
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_01210	COG0450	V	Alkyl hydroperoxide reductase subunit AhpC (peroxiredoxin)	AhpC			2RII
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_01215	COG0847	L	DNA polymerase III, epsilon subunit or related 3'-5' exonuclease	DnaQ			1J53
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_01225	COG0226	P	ABC-type phosphate transport system, periplasmic component	PstS			2Q9T
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_01230	COG0664	T	cAMP-binding domain of CRP or a regulatory subunit of cAMP-dependent protein kinases	Crp			1FT9
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_01250	COG0225	O	Peptide methionine sulfoxide reductase MsrA	MsrA			1FF3
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_01260	COG1125	E	ABC-type proline/glycine betaine transport system, ATPase component	OpuBA			
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_01265	COG0547	E	Anthranilate phosphoribosyltransferase, glycosyltransferase domain	TrpD	Aromatic amino acid biosynthesis		1KGZ
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_01270	COG0512	EH	Anthranilate/para-aminobenzoate synthase component II (glutamine amidotransferase)	PabA	Aromatic amino acid biosynthesis		1I1Q
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_01275	COG1366	T	Anti-anti-sigma regulatory factor (antagonist of anti-sigma factor)	SpoIIAA			1AUZ
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_01280	COG1939	J	23S rRNA maturation mini-RNase III	MrnC	23S rRNA modification		1U61
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_01285	COG0219	J	tRNA(Leu) C34 or U34 (ribose-2'-O)-methylase TrmL, contains SPOUT domain	TrmL	tRNA modification		4JAK
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_01290	COG0568	K	DNA-directed RNA polymerase, sigma subunit (sigma70/sigma32)	RpoD	RNA polymerase		1SIG
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_01295	COG2862	S	Uncharacterized membrane protein YqhA	YqhA			
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_01310	COG0556	L	Excinuclease UvrABC helicase subunit UvrB	UvrB			1C4O
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_01330	COG0265	O	Periplasmic serine protease, S1-C subfamily, contain C-terminal PDZ domain	DegQ		29686141	2HGA
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_01335	COG0821	I	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase IspG/GcpE	IspG	Isoprenoid biosynthesis		2Y0F
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_01350	COG3977	E	Alanine-alpha-ketoisovalerate (or valine-pyruvate) aminotransferase	AvtA			3G7Q
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_01360	COG0488	R	ATPase components of ABC transporters with duplicated ATPase domains	Uup			5ZXD
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_01365	COG3639	P	ABC-type phosphate/phosphonate transport system, permease component	PhnE			
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_01370	COG2755	DI	Lysophospholipase L1 or related esterase. Includes spore coat protein LipC/YcsK	TesA			1BWP
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_01395	COG0174	E	Glutamine synthetase	GlnA	Glutamine biosynthesis		1F1H
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_01425	COG0679	R	Predicted permease, AEC (auxin efflux carrier) family	YfdV			
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_01440	COG0410	E	ABC-type branched-chain amino acid transport system, ATPase component LivF	LivF		26527648;32250026	1JI0
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_01445	COG4160	E	ABC-type arginine/histidine transport system, permease component	ArtM			
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_01455	COG4215	E	ABC-type arginine transport system, permease component	ArtQ			
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_01460	COG2358	R	TRAP-type uncharacterized transport system, periplasmic component	Imp			1US4
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_01470	COG0659	P	Sulfate permease or related transporter, MFS superfamily	SUL1			3NY7
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_01485	COG4822	H	Cobalamin biosynthesis protein CbiK, Co2+ chelatase	CbiK	Cobalamine/B12 biosynthesis		1QGO
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_01490	COG1233	Q	Phytoene dehydrogenase-related protein				4REP
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_01495	COG3264	M	Small-conductance mechanosensitive channel MscK	MscK			
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_01515	COG0799	J	Ribosomal silencing factor RsfS, regulates association of 30S and 50S subunits	RsfS			6SJ6
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_01525	COG0458	EF	Carbamoylphosphate synthase large subunit	CarB	Arginine biosynthesis		1C30
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_01530	COG0842	V	ABC-type multidrug transport system, permease component	YadH			
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_01535	COG0396	O	Fe-S cluster assembly ATPase SufC	SufC			2D3W
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_01545	COG1612	H	Heme A synthase	CtaA			6A2J
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_01550	COG1622	C	Heme/copper-type cytochrome/quinol oxidase, subunit 2	CyoA			1CYW
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_01555	COG0843	C	Heme/copper-type cytochrome/quinol oxidase, subunit 1	CyoB			1AR1
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_01560	COG1845	C	Heme/copper-type cytochrome/quinol oxidase, subunit 3	CyoC			1QLE
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_01565	COG4977	K	Transcriptional regulator GlxA, contains an amidase domain and an AraC-type DNA-binding HTH domain	GlxA			
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_01570	COG3336	CO	Cytochrome c oxidase assembly protein CtaG	CtaG		14766920	
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_01575	COG0307	H	Riboflavin synthase alpha chain	RibC	Riboflavin/FAD biosynthesis		1I8D
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_01585	COG0656	Q	Aldo/keto reductase, related to diketogulonate reductase	ARA1			1Q13
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_01600	COG4241	S	Uncharacterized conserved protein YybS, DUF2232 family	YybS			
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_01610	COG0550	L	DNA topoisomerase IA	TopA			1CY0
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_01615	COG1007	C	NADH:ubiquinone oxidoreductase subunit 2 (chain N)	NuoN	NADH dehydrogenase		4HE8
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_01620	COG0488	R	ATPase components of ABC transporters with duplicated ATPase domains	Uup			5ZXD
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_01625	COG2204	T	DNA-binding transcriptional response regulator, NtrC family, contains REC, AAA-type ATPase, and a Fis-type DNA-binding domains	AtoC			1ZY2
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_01630	COG4942	D	Septal ring factor EnvC, activator of murein hydrolases AmiA and AmiB	EnvC			
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_01640	COG1168	ER	Bifunctional PLP-dependent enzyme with beta-cystathionase and maltose regulon repressor activities	MalY			4DGT
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_01645	COG1842	KT	Phage shock protein A	PspA			4WHE
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_01655	COG1928	O	Dolichyl-phosphate-mannose--protein O-mannosyl transferase	PMT1			1N4K
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_01665	COG0697	GER	Permease of the drug/metabolite transporter (DMT) superfamily	RhaT			5I20
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_01670	COG1030	O	Membrane-bound serine protease NfeD, ClpP class	NfeD			2DEO
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_01710	COG0001	H	Glutamate-1-semialdehyde aminotransferase	HemL	Heme biosynthesis		2CFB
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_01720	COG3568	R	Metal-dependent hydrolase, endonuclease/exonuclease/phosphatase family	ElsH		15178340	
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_01745	COG1641	H	CTP-dependent cyclometallase, nickel-pincer nucleotide (NPN) cofactor biosynthesis	LarC		29887527	3C19
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_01755	COG1230	P	Co/Zn/Cd efflux system component	CzcD			
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_01760	COG4222	S	Uncharacterized conserved protein, contains a phytase-like domain				
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_01765	COG0555	P	ABC-type sulfate transport system, permease component	CysU			3D31
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_01775	COG0523	R	Zinc metallochaperone YeiR/ZagA and related GTPases, G3E family	YejR		19822009;31132310	1NIJ
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_01780	COG2154	H	Pterin-4a-carbinolamine dehydratase	PhhB			1DCH
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_01815	COG1376	M	Lipoprotein-anchoring transpeptidase ErfK/SrfK	ErfK			4LZH
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_01820	COG2095	E	Small neutral amino acid transporter SnatA, MarC family	MarC		17954692;12761179	
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_01825	COG0181	H	Porphobilinogen deaminase	HemC	Heme biosynthesis		1AH5
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_01835	COG0568	K	DNA-directed RNA polymerase, sigma subunit (sigma70/sigma32)	RpoD	RNA polymerase		1SIG
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_01840	COG1198	L	Primosomal protein N' (replication factor Y) - superfamily II helicase	PriA			6DCR
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_01850	COG1608	I	Isopentenyl phosphate kinase			16621811	3LKK
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_01865	COG0629	L	Single-stranded DNA-binding protein	Ssb			1EQQ
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_01870	COG2099	H	Precorrin-6x reductase	CobK	Cobalamine/B12 biosynthesis		4X7G
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_01875	COG1324	P	Divalent cation tolerance protein CutA	CutA1			1NAQ
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_01880	COG1105	G	1-phosphofructokinase or 6-phosphofructokinase II	FruK			2ABQ
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_01885	COG0104	F	Adenylosuccinate synthase	PurA	Purine biosynthesis		1ADE
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_01895	COG0441	J	Threonyl-tRNA synthetase	ThrS	Aminoacyl-tRNA synthetases		1NYQ
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_01915	COG0633	C	Ferredoxin	Fdx			1KRH
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_01930	COG0681	U	Signal peptidase I	LepB		1925027	1B12
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_01935	COG0044	F	Dihydroorotase or related cyclic amidohydrolase	AllB	Pyrimidine biosynthesis		1J79
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_01940	COG0588	G	Phosphoglycerate mutase (BPG-dependent)	GpmA	Glycolysis		1E58
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_01945	COG1266	O	Membrane protease YdiL, CAAX protease family	YdiL			
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_01955	COG0768	DM	Cell division protein FtsI, peptidoglycan transpeptidase (Penicillin-binding protein 2)	FtsI			6HZQ
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_01960	COG0176	G	Transaldolase/fructose-6-phosphate aldolase	TalA	Pentose phosphate pathway		1F05
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_01965	COG0664	T	cAMP-binding domain of CRP or a regulatory subunit of cAMP-dependent protein kinases	Crp			1FT9
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_01980	COG0233	J	Ribosome recycling factor	Frr			1DD5
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_01985	COG0527	E	Aspartate kinase	MetL1	Lysine biosynthesis		2CDQ
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_01995	COG2109	H	ATP:corrinoid adenosyltransferase	BtuR	Cobalamine/B12 biosynthesis		4HUT
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_02000	COG2226	H	Ubiquinone/menaquinone biosynthesis C-methylase UbiE/MenG	UbiE	Biotin biosynthesis		4OBW
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_02010	COG0582	LX	Integrase/recombinase, includes phage integrase	FimB			
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_02015	COG0276	H	Protoheme ferro-lyase (ferrochelatase)	HemH	Heme biosynthesis		1AK1
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_02020	COG0028	EH	Acetolactate synthase large subunit or other thiamine pyrophosphate-requiring enzyme	IlvB	Isoleucine, leucine, valine biosynthesis		1BFD
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_02035	COG1249	C	Dihydrolipoamide dehydrogenase (E3) component of pyruvate/2-oxoglutarate dehydrogenase complex or glutathione oxidoreductase	Lpd	Glycine cleavagePyruvate oxidation		6QKG
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_02055	COG3239	I	Fatty acid desaturase	DesA			
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_02060	COG0721	J	Asp-tRNAAsn/Glu-tRNAGln amidotransferase C subunit	GatC	Aminoacyl-tRNA synthetases		3H0L
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_02065	COG1402	H	Creatinine amidohydrolase/Fe(II)-dependent FAPy formamide hydrolase (riboflavin and F420 biosynthesis)	ArfB	Riboflavin/FAD biosynthesis		1J2T
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_02085	COG0078	E	Ornithine carbamoyltransferase	ArgF	Arginine biosynthesis		1A1S
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_02090	COG1251	C	NAD(P)H-nitrite reductase, large subunit	NirB			
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_02120	COG0452	H	Phosphopantothenoylcysteine synthetase/decarboxylase CoaBC	CoaBC	Pantothenate/CoA biosynthesis		3QJG
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_02140	COG0465	O	ATP-dependent Zn proteases	HflB			1LV7
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_02160	COG2070	R	NAD(P)H-dependent flavin oxidoreductase YrpB, nitropropane dioxygenase family	YrpB			
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_02175	COG0596	HR	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold	MenH	Menaquinone biosynthesis		4MYS
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_02185	COG4651	P	Predicted Kef-type K+ transport protein, K+/H+ antiporter domain	RosB			
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_02190	COG0058	G	Glucan phosphorylase	GlgP			1A8I
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_02205	COG1171	E	Threonine deaminase	IlvA	Isoleucine, leucine, valine biosynthesis		3IAU
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_02210	COG0484	O	DnaJ-class molecular chaperone with C-terminal Zn finger domain	DnaJ			1BQ0
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_02230	COG0451	M	Nucleoside-diphosphate-sugar epimerase	WcaG			2X4G
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_02240	COG0763	M	Lipid A disaccharide synthetase	LpxB	Lipid A biosynthesis		5W8N
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_02255	COG1233	Q	Phytoene dehydrogenase-related protein				4REP
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_02270	COG1587	H	Uroporphyrinogen-III synthase	HemD	Heme biosynthesis		1JR2
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_02275	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_02305	COG0625	O	Glutathione S-transferase	GstA			1A0F
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_02320	COG0645	R	Predicted kinase, contains AAA domain				2RHM
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_02330	COG1167	KE	DNA-binding transcriptional regulator, MocR family, contains an aminotransferase domain	ARO8	Lysine biosynthesis		2R2N
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_02335	COG0110	R	Acetyltransferase, isoleucine patch superfamily	WbbJ			
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_02340	COG2192	R	Predicted carbamoyl transferase, NodU family				3VEN
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_02360	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_02365	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_02375	COG1008	C	NADH:ubiquinone oxidoreductase subunit 4 (chain M)	NuoM	NADH dehydrogenase		6HUM
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_02385	COG2154	H	Pterin-4a-carbinolamine dehydratase	PhhB			1DCH
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_02390	COG0466	O	ATP-dependent Lon protease, bacterial type	Lon			6ON2
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_02405	COG4148	P	ABC-type molybdate transport system, ATPase component ModC	ModC	Molybdopterin biosynthesis		
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_02410	COG0491	R	Glyoxylase or a related metal-dependent hydrolase, beta-lactamase superfamily II	GloB		25670698	1QH3
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_02415	COG0040	E	ATP phosphoribosyltransferase	HisG	Histidine biosynthesis		1H3D
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_02420	COG4987	CO	ABC-type transport system involved in cytochrome bd biosynthesis, fused ATPase and permease components	CydC			
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_02425	COG1243	J	tRNA U34 5-carboxymethylaminomethylation enzyme Elp3 (RNA elongator complex protein 3), contains radical SAM and acetyltransferase domains	ELP3		25151136;27455459	6IA8
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_02435	COG2127	O	ATP-dependent Clp protease adapter protein ClpS	ClpS			1LZW
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_02440	COG0079	E	Histidinol-phosphate/aromatic aminotransferase or cobyric acid decarboxylase	HisC	Cobalamine/B12 biosynthesis		4R2N
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_02445	COG1032	R	Radical SAM superfamily enzyme YgiQ, UPF0313 family	YgiQ			6FD2
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_02450	COG0539	J	Ribosomal protein S1	RpsA	Ribosome 30S subunit		4NNH
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_02455	COG1039	L	Ribonuclease HIII	RnhC			2D0A
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_02475	COG1409	T	3',5'-cyclic AMP phosphodiesterase CpdA	CpdA			2ZO9
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_02505	COG0480	J	Translation elongation factor EF-G, a GTPase	FusA	Translation factors		1DAR
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_02520	COG0779	J	Ribosome maturation factor RimP	RimP			1IB8
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_02525	COG0535	DH	Radical SAM superfamily maturase, SkfB/NifB/PqqE family	SkfB		23282011	6Q2P
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_02535	COG0834	ET	ABC-type amino acid transport/signal transduction system, periplasmic component/domain	HisJ			1GGG
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_02545	COG0525	J	Valyl-tRNA synthetase	ValS	Aminoacyl-tRNA synthetases		1GAX
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_02550	COG1653	G	ABC-type glycerol-3-phosphate transport system, periplasmic component	UgpB			2Z8D
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_02575	COG4221	C	NADP-dependent 3-hydroxy acid dehydrogenase YdfG	YdfG	Pyrimidine degradation		3P19
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_02580	COG1349	KG	DNA-binding transcriptional regulator of sugar metabolism, DeoR/GlpR family	GlpR			
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_02625	COG3706	TK	Two-component response regulator, PleD family, consists of two REC domains and a diguanylate cyclase (GGDEF) domain	PleD			1W25
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_02630	COG3221	P	ABC-type phosphate/phosphonate transport system, periplasmic component	PhnD			3S4U
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_02635	COG3842	E	ABC-type Fe3+/spermidine/putrescine transport systems, ATPase component	PotA			1Z47
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_02645	COG0803	P	ABC-type Zn uptake system ZnuABC, Zn-binding component ZnuA	ZnuA			1K0F
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_02675	COG1528	P	Ferritin	FtnA		24380371	1AEW
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_02725	COG2059	P	Chromate transport protein ChrA	ChrA			
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_02750	COG0596	HR	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold	MenH	Menaquinone biosynthesis		4MYS
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_02755	COG0671	I	Membrane-associated phospholipid phosphatase	PgpB	Phospholipid biosynthesis		1D2T
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_02775	COG3696	P	Cu/Ag efflux pump CusA	CusA			3K07
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_02780	COG1748	E	Saccharopine dehydrogenase, NADP-dependent	Lys9	Lysine biosynthesis		1E5L
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_02790	COG3119	P	Arylsulfatase A or related enzyme, AlkP superfamily	AslA			1E1Z
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_02795	COG3119	P	Arylsulfatase A or related enzyme, AlkP superfamily	AslA			1E1Z
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_02800	COG2226	H	Ubiquinone/menaquinone biosynthesis C-methylase UbiE/MenG	UbiE	Biotin biosynthesis		4OBW
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_02810	COG0332	I	3-oxoacyl-[acyl-carrier-protein] synthase III	FabH	Fatty acid biosynthesis		1UB7
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_02830	COG1038	C	Pyruvate carboxylase	PycA	Urea cycle		5VYW
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_02840	COG1115	E	Na+/alanine symporter	AlsT			6CSE
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_02850	COG4615	P	ABC-type siderophore export system, fused ATPase and permease components	PvdE			
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_02855	COG1189	J	Predicted rRNA methylase YqxC, contains S4 and FtsJ domains	YqxC			3OPN
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_02860	COG0149	G	Triosephosphate isomerase	TpiA	Glycolysis		1HG3
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_02870	COG3011	R	Predicted thiol-disulfide oxidoreductase YuxK, DCC family	YuxK		15236740	
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_02895	COG2303	IR	Choline dehydrogenase or related flavoprotein	BetA	Non-phosphorylated Entner-Doudoroff pathway		1B4V
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_02905	COG0461	F	Orotate phosphoribosyltransferase	PyrE	Pyrimidine biosynthesis		4WML
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_02930	COG3852	T	Signal transduction histidine kinase NtrB, nitrogen specific	NtrB		23893111	
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_02940	COG2867	J	Ribosome association toxin PasT (RatA) of the RatAB toxin-antitoxin module	PasT		21323758	1T17
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_02945	COG1018	C	Flavodoxin/ferredoxin--NADP reductase	Fpr			3OZU
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_02950	COG0364	G	Glucose-6-phosphate 1-dehydrogenase	Zwf	Pentose phosphate pathway	18950999	5B7W
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_02955	COG0857	R	BioD-like N-terminal domain of phosphotransacetylase	PtaN			2IOJ
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_02960	COG1254	C	Acylphosphatase	AcyP			1APS
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_02965	COG0588	G	Phosphoglycerate mutase (BPG-dependent)	GpmA	Glycolysis		1E58
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_02975	COG0210	L	Superfamily I DNA or RNA helicase	UvrD			6PPR
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_02985	COG0142	H	Geranylgeranyl pyrophosphate synthase	IspA	Isoprenoid biosynthesis		2AZJ
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_02990	COG0190	H	5,10-methylene-tetrahydrofolate dehydrogenase/Methenyl tetrahydrofolate cyclohydrolase	FolD			1A4I
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_02995	COG2206	T	HD-GYP domain, c-di-GMP phosphodiesterase class II (or its inactivated variant)	HDGYP		23475961	5Z7C
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_03000	COG1187	J	Pseudouridylate synthase RsuA, specific for 16S rRNA U516  and 23S rRNA U2605	RsuA	16S rRNA modification		1KSK
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_03045	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_03050	COG1177	E	ABC-type spermidine/putrescine transport system, permease component II	PotC			
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_03055	COG0119	E	Isopropylmalate/homocitrate/citramalate synthases	LeuA	Isoleucine, leucine, valine biosynthesis		4JN6
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_03060	COG1543	G	Predicted glycosyl hydrolase, contains GH57 and DUF1957 domains				1UFA
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_03070	COG0389	L	Nucleotidyltransferase/DNA polymerase DinP involved in DNA repair	DinP		16544291	4R8U
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_03075	COG1974	KT	SOS-response transcriptional repressor LexA (RecA-mediated autopeptidase)	LexA			1AY9
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_03080	COG2755	DI	Lysophospholipase L1 or related esterase. Includes spore coat protein LipC/YcsK	TesA			1BWP
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_03100	COG1357	S	Uncharacterized conserved protein YjbI, contains pentapeptide repeats	YjbI			2BM4
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_03105	COG0792	L	Predicted endonuclease distantly related to archaeal Holliday junction resolvase, YraN/UPF0102 family	YraN			3FOV
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_03110	COG0572	F	Uridine kinase	Udk	Pyrimidine salvage		5B3F
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_03115	COG3963	I	Phosphatidylethanolamine N-methyltransferase				
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_03120	COG0083	E	Homoserine kinase	ThrB	Threonine biosynthesis		1FWK
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_03135	COG1154	HI	Deoxyxylulose-5-phosphate synthase	Dxs	Pyridoxal phosphate biosynthesis		2O1S
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_03140	COG0341	U	Preprotein translocase subunit SecF	SecF		28830929	2FYH
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_03145	COG0342	U	Preprotein translocase subunit SecD	SecD		26100040	3AQP
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_03180	COG2897	P	3-mercaptopyruvate sulfurtransferase SseA, contains two rhodanese domains	SseA			1BOH
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_03200	COG2226	H	Ubiquinone/menaquinone biosynthesis C-methylase UbiE/MenG	UbiE	Biotin biosynthesis		4OBW
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_03215	COG3968	E	Glutamine synthetase type III	GlnA3			
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_03225	COG0520	E	Selenocysteine lyase/Cysteine desulfurase	CsdA			4LW2
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_03230	COG0117	H	Riboflavin biosynthesis protein RibD, pyrimidine deaminase domain	RibD1	Riboflavin/FAD biosynthesis		2O7P
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_03235	COG1104	E	Cysteine desulfurase/Cysteine sulfinate desulfinase IscS or related enzyme, NifS family	NifS		22773787;25825430	4IXO
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_03240	COG1100	R	GTPase SAR1 family domain	Gem1			4C0J
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_03245	COG1716	T	Forkhead associated (FHA) domain, binds pSer, pThr, pTyr	FHA			2FEZ
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_03250	COG0597	MU	Lipoprotein signal peptidase	LspA			5DIR
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_03255	COG1268	H	Biotin transporter BioY	BioY			4DVE
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_03265	COG0612	R	Predicted Zn-dependent peptidase, M16 family	PqqL			6OFS
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_03270	COG0612	R	Predicted Zn-dependent peptidase, M16 family	PqqL			6OFS
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_03280	COG0845	MV	Multidrug efflux pump subunit AcrA (membrane-fusion protein)	AcrA			1T5E
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_03285	COG0577	V	ABC-type antimicrobial peptide transport system, permease component	SalY			
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_03290	COG1119	P	ABC-type molybdenum transport system, ATPase component ModF/photorepair protein PhrA	ModF			2IHY
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_03300	COG1215	N	Glycosyltransferase, catalytic subunit of cellulose synthase and poly-beta-1,6-N-acetylglucosamine synthase	BcsA			4HG6
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_03305	COG0052	J	Ribosomal protein S2	RpsB	Ribosome 30S subunit		4V4H
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_03310	COG0264	J	Translation elongation factor EF-Ts	Tsf	Translation factors		1EFU
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_03320	COG1200	L	RecG-like helicase	RecG			1GM5
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_03330	COG2221	P	Dissimilatory sulfite reductase (desulfoviridin), alpha and beta subunits	DsrA			
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_03340	COG0493	ER	NADPH-dependent glutamate synthase beta chain or related oxidoreductase	GltD	Glutamine biosynthesis		1H7X
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_03350	COG2895	P	Sulfate adenylyltransferase subunit 1, EFTu-like GTPase family	CysN	Cysteine biosynthesis		1ZUN
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_03360	COG1934	M	Lipopolysaccharide export system protein LptA	LptA			2R19
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_03365	COG0488	R	ATPase components of ABC transporters with duplicated ATPase domains	Uup			5ZXD
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_03370	COG0795	MN	Lipopolysaccharide export LptBFGC system, permease protein LptF	LptF			6S8H
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_03375	COG1138	CO	Cytochrome c biogenesis protein CcmF	CcmF			
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_03390	COG5010	UW	Flp pilus assembly protein TadD, contains TPR repeats	TadD			3WXX
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_03410	COG2873	E	O-acetylhomoserine/O-acetylserine sulfhydrylase, pyridoxal phosphate-dependent	MET17	Methionine biosynthesis		2CTZ
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_03480	COG0494	V	8-oxo-dGTP pyrophosphatase MutT and related house-cleaning NTP pyrophosphohydrolases, NUDIX family	MutT			4V14
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_03490	COG0488	R	ATPase components of ABC transporters with duplicated ATPase domains	Uup			5ZXD
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_03510	COG1661	R	Predicted DNA-binding protein with PD1-like DNA-binding motif, PPC/DUF296 domain	AF0104			2DT4
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_03520	COG0834	ET	ABC-type amino acid transport/signal transduction system, periplasmic component/domain	HisJ			1GGG
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_03525	COG4186	R	Uncharacterized conserved protein MJ1445, calcineurin-like phosphoesterase superfamily				1XM7
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_03540	COG1376	M	Lipoprotein-anchoring transpeptidase ErfK/SrfK	ErfK			4LZH
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_03550	COG3448	T	CBS-domain-containing membrane protein				
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_03555	COG0558	I	Phosphatidylglycerophosphate synthase	PgsA	Phospholipid biosynthesis		4MND
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_03560	COG0702	R	Uncharacterized conserved protein YbjT, contains NAD(P)-binding and DUF2867 domains	YbjT			5L3Z
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_03565	COG1411	R	Uncharacterized conserved protein related to proFAR isomerase (HisA)				
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_03585	COG4071	R	Gamma-glutamyl ligase family protein MJ1361			17669425;12911320	2PHN
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_03605	COG0647	F	Ribonucleotide monophosphatase NagD, HAD superfamily	NagD			1PW5
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_03610	COG1608	I	Isopentenyl phosphate kinase			16621811	3LKK
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_03625	COG1043	M	Acyl-[acyl carrier protein]--UDP-N-acetylglucosamine O-acyltransferase	LpxA	Lipid A biosynthesis		1J2Z
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_03630	COG0473	CE	Isocitrate/isopropylmalate dehydrogenase	LeuB	TCA cycle		1GC9
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_03635	COG0572	F	Uridine kinase	Udk	Pyrimidine salvage		5B3F
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_03655	COG4799	I	Acetyl-CoA carboxylase, carboxyltransferase component	MmdA			1OD2
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_03665	COG0673	R	Predicted dehydrogenase	MviM			3UUW
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_03670	COG2062	T	Phosphohistidine phosphatase SixA	SixA			1UJB
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_03680	COG1022	I	Long-chain acyl-CoA synthetase (AMP-forming)	FAA1			
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_03695	COG0274	F	Deoxyribose-phosphate aldolase	DeoC			1J2W
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_03700	COG1381	L	Recombinational DNA repair protein RecO (RecF pathway)	RecO			1U5K
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_03720	COG0345	E	Pyrroline-5-carboxylate reductase	ProC	Proline biosynthesis	22125496;26507882	3GT0
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_03730	COG0325	H	Pyridoxal 5'-phosphate homeostasis protein YggS, UPF0001 family	YggS		26872910	3SY1
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_03740	COG0619	H	ECF-type transporter transmembrane protein EcfT	EcfT			4HZU
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_03745	COG0486	J	tRNA U34 5-carboxymethylaminomethyl modifying GTPase MnmE/TrmE	MnmE	tRNA modification		
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_03750	COG1376	M	Lipoprotein-anchoring transpeptidase ErfK/SrfK	ErfK			4LZH
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_03765	COG1902	C	2,4-dienoyl-CoA reductase or related NADH-dependent reductase, Old Yellow Enzyme (OYE) family	FadH			1BWK
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_03770	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_03780	COG0007	H	Uroporphyrinogen-III methylase (siroheme synthase)	CysG	Cobalamine/B12 biosynthesis		1PJQ
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_03810	COG2113	E	ABC-type proline/glycine betaine transport system, periplasmic component	ProX			1R9L
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_03815	COG1174	E	ABC-type proline/glycine betaine transport system, permease component	OpuBB			
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_03820	COG1101	R	ABC-type uncharacterized transport system, ATPase component	PhnK			
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_03825	COG0500	QR	SAM-dependent methyltransferase	SmtA			5DNK
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_03830	COG0500	QR	SAM-dependent methyltransferase	SmtA			5DNK
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_03840	COG0082	E	Chorismate synthase	AroC	Aromatic amino acid biosynthesis		1Q1L
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_03860	COG0465	O	ATP-dependent Zn proteases	HflB			1LV7
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_03870	COG1009	C	Membrane H+-translocase/NADH:ubiquinone oxidoreductase subunit 5 (chain L)/Multisubunit Na+/H+ antiporter, MnhA subunit	NuoL	NADH dehydrogenase		3RKO
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_03880	COG2005	K	DNA-binding transcriptional regulator ModE (molybdenum-dependent)	ModE		19779461	1B9M
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_03895	COG1232	H	Protoporphyrinogen oxidase HemY/PPOX	HemY	Heme biosynthesis		3LOV
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_03900	COG1562	I	Phytoene/squalene synthetase	ERG9			3WEK
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_03905	COG0724	J	RNA recognition motif (RRM) domain	RRM			1HL6
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_03910	COG0040	E	ATP phosphoribosyltransferase	HisG	Histidine biosynthesis		1H3D
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_03915	COG4559	P	ABC-type hemin transport system, ATPase component				4G1U
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_03920	COG0596	HR	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold	MenH	Menaquinone biosynthesis		4MYS
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_03925	COG1246	E	N-acetylglutamate synthase or related acetyltransferase, GNAT family	ArgA	Arginine biosynthesis		2R98
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_03930	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_03935	COG1920	H	2-phospho-L-lactate guanylyltransferase, coenzyme F420 biosynthesis enzyme, CobY/MobA/RfbA family				6BWH
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_03940	COG0793	O	C-terminal processing protease CtpA/Prc, contains a PDZ domain	CtpA			6IQU
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_03945	COG1484	L	DNA replication protein DnaC	DnaC			2QGZ
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_03960	COG0446	I	NADPH-dependent 2,4-dienoyl-CoA reductase, sulfur reductase, or a related oxidoreductase	FadH2			1VRQ
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_03965	COG2303	IR	Choline dehydrogenase or related flavoprotein	BetA	Non-phosphorylated Entner-Doudoroff pathway		1B4V
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_03970	COG1845	C	Heme/copper-type cytochrome/quinol oxidase, subunit 3	CyoC			1QLE
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_03975	COG0843	C	Heme/copper-type cytochrome/quinol oxidase, subunit 1	CyoB			1AR1
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_03980	COG1622	C	Heme/copper-type cytochrome/quinol oxidase, subunit 2	CyoA			1CYW
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_03995	COG0387	P	Cation (Ca2+/Na+/K+)/H+ antiporter ChaA	ChaA		18801996	4KJS
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_04000	COG2233	F	Xanthine/uracil permease	UraA	Pyrimidine degradation		3QE7
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_04005	COG0044	F	Dihydroorotase or related cyclic amidohydrolase	AllB	Pyrimidine biosynthesis		1J79
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_04015	COG3408	G	Glycogen debranching enzyme (alpha-1,6-glucosidase)	GDB1			5D06
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_04025	COG0141	E	Histidinol dehydrogenase	HisD	Histidine biosynthesis		1K75
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_04030	COG0268	J	Ribosomal protein S20	RpsT	Ribosome 30S subunit		4V4H
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_04035	COG1099	R	Predicted metal-dependent hydrolase, TIM-barrel fold				3GUW
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_04045	COG0086	K	DNA-directed RNA polymerase, beta' subunit/160 kD subunit	RpoC	RNA polymerase		1NT9
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_04060	COG1032	R	Radical SAM superfamily enzyme YgiQ, UPF0313 family	YgiQ			6FD2
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_04065	COG4147	C	Na+(or H+)/acetate symporter ActP	ActP			
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_04085	COG1141	C	Ferredoxin	Fer			1IQZ
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_04090	COG0667	HR	Pyridoxal reductase PdxI or related oxidoreductase, aldo/keto reductase family	PdxI		32253339	1LQA
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_04095	COG2227	H	2-polyprenyl-3-methyl-5-hydroxy-6-metoxy-1,4-benzoquinol methylase	UbiG	Ubiquinone biosynthesis		1BHJ
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_04100	COG0484	O	DnaJ-class molecular chaperone with C-terminal Zn finger domain	DnaJ			1BQ0
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_04110	COG0161	H	Adenosylmethionine-8-amino-7-oxononanoate aminotransferase	BioA	Biotin biosynthesis		1MLY
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_04130	COG4106	C	Trans-aconitate methyltransferase	Tam			2P35
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_04140	COG2008	E	Threonine aldolase	GLY1			4LNJ
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_04145	COG1205	L	ATP-dependent helicase YprA,  contains C-terminal metal-binding DUF1998 domain	YprA			
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_04150	COG0114	C	Fumarate hydratase class II	FumC	TCA cycle		1KQ7
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_04160	COG0165	E	Argininosuccinate lyase	ArgH	Arginine biosynthesis		1AOS
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_04165	COG0100	J	Ribosomal protein S11	RpsK	Ribosome 30S subunit		4V4H
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_04175	COG0257	J	Ribosomal protein L36	RpmJ	Ribosome 50S subunit	21627333	1DFE
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_04180	COG1102	F	Cytidylate kinase	CmkB			
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_04185	COG0201	U	Preprotein translocase subunit SecY	SecY			1RH5
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_04190	COG1727	J	Ribosomal protein L18E	RPL18A	Archaeal ribosomal proteins		
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_04195	COG0098	J	Ribosomal protein S5	RpsE	Ribosome 30S subunit		4V4H
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_04205	COG0097	J	Ribosomal protein L6P/L9E	RplF	Ribosome 50S subunit		1VS6
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_04210	COG0096	J	Ribosomal protein S8	RpsH	Ribosome 30S subunit		4V4H
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_04215	COG0094	J	Ribosomal protein L5	RplE	Ribosome 50S subunit		1VS6
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_04225	COG0508	C	Pyruvate/2-oxoglutarate dehydrogenase complex, dihydrolipoamide acyltransferase (E2) component	AceF	Pyruvate oxidation		1B5S
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_04235	COG0809	J	S-adenosylmethionine:tRNA-ribosyltransferase-isomerase (queuine synthetase)	QueA	tRNA modification		1VKY
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_04240	COG1171	E	Threonine deaminase	IlvA	Isoleucine, leucine, valine biosynthesis		3IAU
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_04245	COG1921	J	Seryl-tRNA(Sec) selenium transferase	SelA			3W1J
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_04250	COG0626	E	Cystathionine beta-lyase/cystathionine gamma-synthase	MetC	Methionine biosynthesis		1CL1
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_04280	COG2302	R	RNA-binding protein YlmH, contains S4-like domain	YlmH			
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_04295	COG0770	M	UDP-N-acetylmuramyl pentapeptide synthase	MurF	Mureine biosynthesis		4CVK
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_04300	COG0596	HR	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold	MenH	Menaquinone biosynthesis		4MYS
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_04305	COG1104	E	Cysteine desulfurase/Cysteine sulfinate desulfinase IscS or related enzyme, NifS family	NifS		22773787;25825430	4IXO
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_04315	COG0683	E	ABC-type branched-chain amino acid transport system, periplasmic component	LivK			1USG
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_04325	COG0694	O	Fe-S cluster biogenesis protein NfuA, 4Fe-4S-binding domain	NifU			2Z51
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_04330	COG0579	G	L-2-hydroxyglutarate oxidase LhgO	LhgO			3DME
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_04340	COG2076	V	Multidrug transporter EmrE and related cation transporters	EmrE			2I68
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_04345	COG2194	M	Phosphoethanolamine transferase for periplasmic glucans OpgE, AlkP superfamily	OpgE			5ZZU
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_04355	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_04360	COG1121	P	ABC-type Mn2+/Zn2+ transport system, ATPase component	ZnuC			
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_04365	COG4188	R	Predicted dienelactone hydrolase				
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_04370	COG0297	G	Glycogen synthase	GlgA			1RZU
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_04375	COG1181	MR	D-alanine-D-alanine ligase or related ATP-grasp enzyme	DdlA	Mureine biosynthesis		1E4E
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_04390	COG0472	M	UDP-N-acetylmuramyl pentapeptide phosphotransferase/UDP-N-acetylglucosamine-1-phosphate transferase	Rfe	Mureine biosynthesis		4J72
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_04400	COG1606	R	ATP-utilizing enzyme, PP-loop superfamily				6B2O
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_04420	COG1186	J	Protein chain release factor PrfB	PrfB	Translation factors		1GQE
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_04425	COG2521	R	Predicted archaeal methyltransferase				
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_04430	COG0010	E	Arginase/agmatinase family enzyme	SpeB	Urea cycle		1CEV
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_04440	COG0354	O	Folate-binding protein YgfZ, synthesis and repair of Fe-S clusters	YgfZ		27941785;22081392	1NRK
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_04445	COG0173	J	Aspartyl-tRNA synthetase	AspS	Aminoacyl-tRNA synthetases		1C0A
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_04455	COG0556	L	Excinuclease UvrABC helicase subunit UvrB	UvrB			1C4O
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_04465	COG0037	J	tRNA(Ile)-lysidine synthase TilS/MesJ	TilS	tRNA modification	21435031	1NI5
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_04475	COG0595	J	mRNA degradation ribonuclease J1/J2	RnjA			3T3N
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_04480	COG0329	EM	4-hydroxy-tetrahydrodipicolinate synthase/N-acetylneuraminate lyase	DapA	Lysine biosynthesis	27574185	2R91
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_04485	COG0002	E	N-acetyl-gamma-glutamylphosphate reductase	ArgC	Arginine biosynthesis		3DR3
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_04490	COG0072	J	Phenylalanyl-tRNA synthetase beta subunit	PheT	Aminoacyl-tRNA synthetases		3L4G
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_04495	COG0238	J	Ribosomal protein S18	RpsR	Ribosome 30S subunit		4V4H
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_04500	COG4776	K	Exoribonuclease II	Rnb			2ID0
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_04510	COG0525	J	Valyl-tRNA synthetase	ValS	Aminoacyl-tRNA synthetases		1GAX
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_04530	COG1512	S	Uncharacterized membrane protein YgcG, contains a TPM-fold domain	YgcG			2KW7
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_04545	COG0566	J	tRNA G18 (ribose-2'-O)-methylase SpoU	SpoU	tRNA modification		1GZ0
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_04565	COG2077	O	Peroxiredoxin	Tpx			4AF2
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_04575	COG0465	O	ATP-dependent Zn proteases	HflB			1LV7
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_04585	COG1072	H	Panthothenate kinase	CoaA	Pantothenate/CoA biosynthesis		2GA8
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_04595	COG1011	H	FMN and 5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YigB, HAD superfamily (riboflavin biosynthesis)	YigB		24123841	4JB3
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_04600	COG0608	L	ssDNA-specific exonuclease RecJ, DHH superfamily, may be involved in archaeal DNA replication intiation	RecJ			1IR6
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_04620	COG0727	R	Uncharacterized protein YkgJ, contains CxxCxxCC motif	YkgJ			
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_04625	COG2119	R	Putative Ca2+/H+ antiporter, TMEM165/GDT1 family	Gdt1		23569283	
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_04630	COG2119	R	Putative Ca2+/H+ antiporter, TMEM165/GDT1 family	Gdt1		23569283	
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_04635	COG1095	K	DNA-directed RNA polymerase, subunit E'/Rpb7	RPB7	RNA polymerase		1NT9
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_04640	COG0452	H	Phosphopantothenoylcysteine synthetase/decarboxylase CoaBC	CoaBC	Pantothenate/CoA biosynthesis		3QJG
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_04660	COG0312	R	Zn-dependent protease PmbA/TldA or its inactivated homolog	TldD		12029038	3TV9
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_04665	COG0312	R	Zn-dependent protease PmbA/TldA or its inactivated homolog	TldD		12029038	3TV9
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_04670	COG0299	F	Folate-dependent phosphoribosylglycinamide formyltransferase PurN	PurN	Purine biosynthesis	25013077	1C2T
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_04675	COG0514	L	Superfamily II DNA helicase RecQ	RecQ			1OYW
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_04705	COG0854	H	Pyridoxine 5'-phosphate synthase PdxJ	PdxJ	Pyridoxal phosphate biosynthesis		1HO1
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_04710	COG0204	I	1-acyl-sn-glycerol-3-phosphate acyltransferase	PlsC	Phospholipid biosynthesis		1IUQ
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_04715	COG3111	S	Predicted periplasmic protein YdeI with OB-fold, BOF family	YdeI		15178340	1NNX
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_04725	COG0278	O	Glutaredoxin-related protein	GrxD			1YKA
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_04730	COG1506	E	Dipeptidyl aminopeptidase/acylaminoacyl peptidase	DAP2			2JBW
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_04740	COG3706	TK	Two-component response regulator, PleD family, consists of two REC domains and a diguanylate cyclase (GGDEF) domain	PleD			1W25
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_04755	COG2008	E	Threonine aldolase	GLY1			4LNJ
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_04760	COG0815	M	Apolipoprotein N-acyltransferase	Lnt			6NWR
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_04765	COG1249	C	Dihydrolipoamide dehydrogenase (E3) component of pyruvate/2-oxoglutarate dehydrogenase complex or glutathione oxidoreductase	Lpd	Glycine cleavagePyruvate oxidation		6QKG
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_04770	COG3965	P	Predicted Co/Zn/Cd cation transporter, cation efflux family				
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_04775	COG2303	IR	Choline dehydrogenase or related flavoprotein	BetA	Non-phosphorylated Entner-Doudoroff pathway		1B4V
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_04785	COG0110	R	Acetyltransferase, isoleucine patch superfamily	WbbJ			
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_04795	COG0784	T	CheY-like REC (receiver) domain, includes chemotaxis protein CheY  and sporulation regulator Spo0F	CheY			6QRJ
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_04810	COG0373	H	Glutamyl-tRNA reductase	HemA	Heme biosynthesis		2XOE
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_04815	COG0825	I	Acetyl-CoA carboxylase alpha subunit	AccA	Fatty acid biosynthesis		2F9I
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_04820	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_04835	COG0135	E	Phosphoribosylanthranilate isomerase	TrpF	Aromatic amino acid biosynthesis		1DL3
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_04845	COG0095	H	Lipoate-protein ligase A	LplA	Lipoate biosynthesis		4TVW
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_04875	COG1028	I	NAD(P)-dependent dehydrogenase, short-chain alcohol dehydrogenase family	FabG	Fatty acid biosynthesis		6L1H
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_04880	COG1192	DN	ParA-like ATPase involved in chromosome/plasmid partitioning or cellulose biosynthesis protein BcsQ	ParA			6NOO
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_04890	COG2710	HP	Nitrogenase Mo-Fe protein NifD/coenzyme F430 biosynthesis subunit CfbD	NifD/CfbD		28225763	1FP4
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_04910	COG0127	F	Inosine/xanthosine triphosphate pyrophosphatase, all-alpha NTP-PPase family	RdgB			1B78
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_04930	COG0185	J	Ribosomal protein S19	RpsS	Ribosome 30S subunit		4V4H
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_04935	COG0090	J	Ribosomal protein L2	RplB	Ribosome 50S subunit		1VS6
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_04945	COG0088	J	Ribosomal protein L4	RplD	Ribosome 50S subunit		1VS6
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_04950	COG0087	J	Ribosomal protein L3	RplC	Ribosome 50S subunit		1VS6
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_04960	COG1142	C	Fe-S-cluster-containing hydrogenase component 2	HycB			
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_04965	COG1618	F	Nucleoside-triphosphatase THEP1	THEP1			1YE8
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_04980	COG2874	N	Archaellum biogenesis ATPase ArlH/FlaH	FlaH		32416640	4WIA
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_04995	COG1199	L	Rad3-related DNA helicase DinG	DinG			5H8W
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_05000	COG0287	E	Prephenate dehydrogenase	TyrA	Aromatic amino acid biosynthesis		2F1K
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_05005	COG1233	Q	Phytoene dehydrogenase-related protein				4REP
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_05010	COG3173	R	Predicted  kinase, aminoglycoside phosphotransferase (APT) family	YcbJ			
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_05025	COG1179	J	tRNA A37 threonylcarbamoyladenosine dehydratase	TcdA	tRNA modification	27913733	4D7A
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_05030	COG2109	H	ATP:corrinoid adenosyltransferase	BtuR	Cobalamine/B12 biosynthesis		4HUT
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_05035	COG0171	H	NH3-dependent NAD+ synthetase	NadE	NAD biosynthesis		3HMQ
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_05040	COG1586	E	S-adenosylmethionine decarboxylase	SpeD			1TLU
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_05045	COG1106	R	ATPase/GTPase, AAA15 family				
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_05060	COG0008	J	Glutamyl- or glutaminyl-tRNA synthetase	GlnS	Heme biosynthesis		1EUQ
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_05065	COG3263	CP	NhaP-type Na+/H+ and K+/H+ antiporter with C-terminal TrkAC and CorC domains	NhaP2			
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_05080	COG0381	M	UDP-N-acetylglucosamine 2-epimerase	WecB		26641313;30389844	1F6D
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_05085	COG4962	UW	Pilus assembly protein, ATPase of CpaF family	CpaF			
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_05095	COG0533	J	tRNA A37 threonylcarbamoyltransferase TsaD	TsaD	tRNA modification	23072323;21285948;32385138	3ENO
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_05105	COG3709	G	Ribose 1,5-bisphosphate kinase PhnN	PhnN			
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_05115	COG0805	U	Twin-arginine protein secretion pathway component TatC	TatC			4B4A
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_05125	COG4638	PR	Phenylpropionate dioxygenase or related ring-hydroxylating dioxygenase, large terminal subunit	HcaE			4QDC
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_05135	COG0682	M	Prolipoprotein diacylglyceryltransferase	Lgt			5AZB
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_05140	COG1010	H	Precorrin-3B methylase	CobJ	Cobalamine/B12 biosynthesis		2ZVB
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_05150	COG2332	CO	Cytochrome c biogenesis protein CcmE	CcmE			1J6Q
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_05155	COG5470	S	Uncharacterized conserved protein, DUF1330 family				
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_05175	COG1426	D	Cytoskeletal protein RodZ, contains Xre-like HTH and DUF4115 domains	RodZ			3FYM
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_05180	COG0248	FT	Exopolyphosphatase/pppGpp-phosphohydrolase	GppA			1T6C
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_05185	COG0109	HI	Polyprenyltransferase (heme O synthase)	CyoE			
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_05195	COG2068	H	CTP:molybdopterin cytidylyltransferase MocA	MocA			2WAW
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_05200	COG0224	C	FoF1-type ATP synthase, gamma subunit	AtpG	FoF1-type ATP synthase	15326535	3OAA
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_05205	COG0633	C	Ferredoxin	Fdx			1KRH
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_05220	COG3012	S	Uncharacterized conserved protein YchJ, contains N- and C-terminal SEC-C domains	YchJ			2I9W
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_05225	COG0686	E	Alanine dehydrogenase (includes sporulation protein SpoVN)	Ald	Urea cycle		2EEZ
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_05230	COG1606	R	ATP-utilizing enzyme, PP-loop superfamily				6B2O
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_05235	COG1057	H	Nicotinate-nucleotide adenylyltransferase NadD	NadD	NAD biosynthesis		1YUM
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_05240	COG1160	J	Double Era-like domain GTPase Der	Der			1MKY
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_05245	COG4536	P	Mg2+ and Co2+ transporter CorB, contains DUF21, CBS pair, and CorC-HlyC domains	CorB		1779764	
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_05250	COG0024	J	Methionine aminopeptidase	Map			3J2I
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_05265	COG4942	D	Septal ring factor EnvC, activator of murein hydrolases AmiA and AmiB	EnvC			
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_05275	COG0056	C	FoF1-type ATP synthase, alpha subunit	AtpA	FoF1-type ATP synthase		3OAA
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_05285	COG0459	O	Chaperonin GroEL (HSP60 family)	GroEL			1AON
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_05295	COG0004	P	Ammonia channel protein AmtB	AmtB			1U77
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_05305	COG0696	G	Phosphoglycerate mutase (BPG-independent), AlkP superfamily	GpmI	Glycolysis		1EJJ
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_05310	COG0634	F	Hypoxanthine-guanine phosphoribosyltransferase	HptA	Purine salvage		1G9S
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_05320	COG1077	DZ	Cell shape-determining ATPase MreB, actin-like superfamily	MreB			1JCE
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_05360	COG0771	M	UDP-N-acetylmuramoylalanine-D-glutamate ligase	MurD	Mureine biosynthesis		1E0D
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_05370	COG0564	J	Pseudouridine synthase RluA, 23S rRNA- or tRNA-specific	RluA	23S rRNA modification		2I82
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_05380	COG1064	G	D-arabinose 1-dehydrogenase, Zn-dependent alcohol dehydrogenase family	AdhP			5O8Q
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_05385	COG2813	J	16S rRNA G1207 methylase RsmC	RsmC	16S rRNA modification		1DUS
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_05390	COG0633	C	Ferredoxin	Fdx			1KRH
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_05400	COG3245	C	Cytochrome c5	CytC5			1CC5
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_05420	COG0145	EQ	N-methylhydantoinase A/oxoprolinase/acetone carboxylase, beta subunit	HyuA			
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_05425	COG0217	KJ	Transcriptional and/or translational regulatory protein YebC/TACO1	TACO1			1KON
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_05430	COG0130	J	tRNA U55 pseudouridine synthase TruB, may also work on U342 of tmRNA	TruB	tRNA modification		1K8W
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_05435	COG2227	H	2-polyprenyl-3-methyl-5-hydroxy-6-metoxy-1,4-benzoquinol methylase	UbiG	Ubiquinone biosynthesis		1BHJ
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_05440	COG3305	S	Uncharacterized membrane protein, DUF2068 family				
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_05445	COG0211	J	Ribosomal protein L27	RpmA	Ribosome 50S subunit		1VS6
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_05450	COG0261	J	Ribosomal protein L21	RplU	Ribosome 50S subunit		1VS6
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_05465	COG2874	N	Archaellum biogenesis ATPase ArlH/FlaH	FlaH		32416640	4WIA
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_05470	COG3290	T	Sensor histidine kinase DipB regulating citrate/malate metabolism	CitA			
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_05475	COG0439	I	Biotin carboxylase	AccC	Fatty acid biosynthesis		1BNC
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_05485	COG0152	F	Phosphoribosylaminoimidazole-succinocarboxamide synthase	PurC	Purine biosynthesis		1A48
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_05490	COG0729	M	Outer membrane translocation and assembly module TamA	TamA			4BZA
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_05505	COG0663	R	Carbonic anhydrase or acetyltransferase, isoleucine patch superfamily	PaaY			6IVE
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_05530	COG0260	E	Leucyl aminopeptidase	PepB		19553197;23825549	3H8E
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_05540	COG1491	R	Predicted nucleic acid-binding OB-fold protein				2I5H
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_05545	COG2771	K	DNA-binding transcriptional regulator, CsgD family	CsgD			
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_05555	COG0180	J	Tryptophanyl-tRNA synthetase	TrpS	Aminoacyl-tRNA synthetases		3N9I
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_05560	COG0356	C	FoF1-type ATP synthase, membrane subunit a	AtpB	FoF1-type ATP synthase	22931285	
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_05570	COG2227	H	2-polyprenyl-3-methyl-5-hydroxy-6-metoxy-1,4-benzoquinol methylase	UbiG	Ubiquinone biosynthesis		1BHJ
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_05590	COG0266	L	Formamidopyrimidine-DNA glycosylase	Nei			1EE8
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_05605	COG1205	L	ATP-dependent helicase YprA,  contains C-terminal metal-binding DUF1998 domain	YprA			
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_05610	COG1388	M	LysM repeat	LysM			1E0G
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_05615	COG1012	I	Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase	AdhE	Proline degradation		1A4S
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_05620	COG0296	G	1,4-alpha-glucan branching enzyme	GlgB		25871919	4LPC
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_05625	COG0665	E	Glycine/D-amino acid oxidase (deaminating)	DadA			3AWI
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_05645	COG5000	T	Signal transduction histidine kinase NtrY involved in nitrogen fixation and metabolism regulation	NtrY			
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_05650	COG4566	TK	DNA-binding response regulator, FixJ family, consists of REC and HTH domains	FixJ			1YIO
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_05675	COG0024	J	Methionine aminopeptidase	Map			3J2I
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_05680	COG1028	I	NAD(P)-dependent dehydrogenase, short-chain alcohol dehydrogenase family	FabG	Fatty acid biosynthesis		6L1H
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_05690	COG1797	H	Cobyrinic acid a,c-diamide synthase	CobB	Cobalamine/B12 biosynthesis		
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_05695	COG0758	L	Predicted Rossmann fold nucleotide-binding protein DprA/Smf involved in DNA uptake	Smf			3MAJ
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_05700	COG1030	O	Membrane-bound serine protease NfeD, ClpP class	NfeD			2DEO
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_05705	COG2268	S	Uncharacterized membrane protein YqiK, contains Band7/PHB/SPFH domain	YqiK			1WIN
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_05710	COG3686	S	Uncharacterized conserved protein, MAPEG superfamily				
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_05730	COG0016	J	Phenylalanyl-tRNA synthetase alpha subunit	PheS	Aminoacyl-tRNA synthetases		3L4G
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_05735	COG0496	L	Broad specificity polyphosphatase and 5'/3'-nucleotidase SurE	SurE			2V4N
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_05745	COG1057	H	Nicotinate-nucleotide adenylyltransferase NadD	NadD	NAD biosynthesis		1YUM
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_05750	COG0134	E	Indole-3-glycerol phosphate synthase	TrpC	Aromatic amino acid biosynthesis		6BMA
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_05755	COG2104	H	Sulfur carrier protein ThiS (thiamine biosynthesis)	ThiS	Thiamine biosynthesis		1F0Z
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_05760	COG4371	S	Uncharacterized membrane protein				
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_05765	COG0041	F	Phosphoribosylcarboxyaminoimidazole (NCAIR) mutase	PurE	Purine biosynthesis		1D7A
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_05775	COG0245	I	2C-methyl-D-erythritol 2,4-cyclodiphosphate synthase	IspF	Isoprenoid biosynthesis		1GX1
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_05780	COG0336	J	tRNA G37 N-methylase TrmD	TrmD	tRNA modification		1P9P
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_05790	COG0486	J	tRNA U34 5-carboxymethylaminomethyl modifying GTPase MnmE/TrmE	MnmE	tRNA modification		
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_05805	COG0670	P	Integral membrane protein YbhL, putative Ca2+ regulator, Bax inhibitor (BI-1)/TMBIM family	YbhL		28064000	4PGR
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_05810	COG1702	T	Phosphate starvation-inducible protein PhoH, predicted ATPase	PhoH		8444794;12762842	3B85
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_05820	COG1419	N	Flagellar biosynthesis GTPase FlhF	FlhF			3SYN
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_05830	COG0028	EH	Acetolactate synthase large subunit or other thiamine pyrophosphate-requiring enzyme	IlvB	Isoleucine, leucine, valine biosynthesis		1BFD
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_05835	COG0123	Q	Acetoin utilization deacetylase AcuC or a related deacetylase	AcuC			1C3P
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_05840	COG0568	K	DNA-directed RNA polymerase, sigma subunit (sigma70/sigma32)	RpoD	RNA polymerase		1SIG
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_05845	COG0062	F	NAD(P)H-hydrate repair enzyme Nnr, NAD(P)H-hydrate epimerase domain	Nnr1			3RRB
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_05850	COG1606	R	ATP-utilizing enzyme, PP-loop superfamily				6B2O
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_05865	COG1047	O	Peptidyl-prolyl cis-trans isomerase, FKBP type	SlpA			2M2A
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_05875	COG0681	U	Signal peptidase I	LepB		1925027	1B12
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_05880	COG0134	E	Indole-3-glycerol phosphate synthase	TrpC	Aromatic amino acid biosynthesis		6BMA
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_05885	COG0446	I	NADPH-dependent 2,4-dienoyl-CoA reductase, sulfur reductase, or a related oxidoreductase	FadH2			1VRQ
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_05890	COG0566	J	tRNA G18 (ribose-2'-O)-methylase SpoU	SpoU	tRNA modification		1GZ0
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_05900	COG0412	Q	Dienelactone hydrolase	DLH			4ZV9
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_05905	COG0189	EHJQ	Glutathione synthase, LysX or RimK-type ligase, ATP-grasp superfamily	LysX	Lysine biosynthesis		1GLV
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_05910	COG4545	O	Glutaredoxin-related protein				
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_05915	COG1186	J	Protein chain release factor PrfB	PrfB	Translation factors		1GQE
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_05920	COG0319	J	ssRNA-specific RNase YbeY, 16S rRNA maturation enzyme	YbeY	16S rRNA modification	17407324;23543739	1XM5
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_05925	COG0818	I	Diacylglycerol kinase	DgkA			2KDC
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_05930	COG0505	EF	Carbamoylphosphate synthase small subunit	CarA	Arginine biosynthesis		1C30
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_05940	COG1168	ER	Bifunctional PLP-dependent enzyme with beta-cystathionase and maltose regulon repressor activities	MalY			4DGT
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_05955	COG0412	Q	Dienelactone hydrolase	DLH			4ZV9
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_05975	COG3164	S	Uncharacterized conserved protein YhdP, contains DUF3971 and AsmA2 domains	YhdR			
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_05980	COG1070	G	Sugar (pentulose or hexulose) kinase	XylB	Non-phosphorylated Entner-Doudoroff pathway		4C23
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_05985	COG1012	I	Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase	AdhE	Proline degradation		1A4S
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_05995	COG1075	I	Triacylglycerol esterase/lipase EstA, alpha/beta hydrolase fold	EstA			1I6W
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_06020	COG1164	E	Oligoendopeptidase F	PepF			3CE2
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_06025	COG1008	C	NADH:ubiquinone oxidoreductase subunit 4 (chain M)	NuoM	NADH dehydrogenase		6HUM
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_06030	COG1685	E	Archaeal shikimate kinase	AroK2	Aromatic amino acid biosynthesis		
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_06045	COG0442	J	Prolyl-tRNA synthetase	ProS	Aminoacyl-tRNA synthetases		5XIF
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_06055	COG0162	J	Tyrosyl-tRNA synthetase	TyrS	Aminoacyl-tRNA synthetases		4OUD
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_06075	COG0617	J	tRNA nucleotidyltransferase/poly(A) polymerase	PcnB	tRNA modification		3WFR
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_06085	COG1214	J	tRNA A37 threonylcarbamoyladenosine modification protein TsaB	TsaB	tRNA modification		1OKJ
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_06095	COG2121	S	Uncharacterized conserved protein, lysophospholipid acyltransferase (LPLAT) superfamily				
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_06100	COG0331	I	Malonyl CoA-acyl carrier protein transacylase	FabD	Fatty acid biosynthesis		1YXC
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_06105	COG3424	Q	Predicted naringenin-chalcone synthase	BH0617			1BI5
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_06115	COG2197	TK	DNA-binding response regulator, NarL/FixJ family, contains REC and HTH domains	CitB			1A04
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_06120	COG0525	J	Valyl-tRNA synthetase	ValS	Aminoacyl-tRNA synthetases		1GAX
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_06125	COG0166	G	Glucose-6-phosphate isomerase	Pgi	Glycolysis		1B0Z
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_06135	COG3023	M	N-acetyl-anhydromuramyl-L-alanine amidase AmpD	AmpD			2Y28
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_06150	COG0788	F	Formyltetrahydrofolate hydrolase	PurU	Purine biosynthesis		3O1L
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_06155	COG0136	E	Aspartate-semialdehyde dehydrogenase	Asd	Lysine biosynthesis		1BRM
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_06160	COG0108	H	3,4-dihydroxy-2-butanone 4-phosphate synthase	RibB	Riboflavin/FAD biosynthesis		1G57
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_06165	COG0652	O	Peptidyl-prolyl cis-trans isomerase (rotamase) - cyclophilin family	PpiB			4DGD
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_06170	COG2099	H	Precorrin-6x reductase	CobK	Cobalamine/B12 biosynthesis		4X7G
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_06175	COG0449	M	Glucosamine 6-phosphate synthetase, contains amidotransferase and phosphosugar isomerase domains	GlmS			2J6H
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_06185	COG2214	K	Curved DNA-binding protein CbpA, contains a DnaJ-like domain	CbpA			
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_06190	COG0443	O	Molecular chaperone DnaK (HSP70)	DnaK			3I33
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_06195	COG4590	R	ABC-type uncharacterized transport system, permease component				
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_06200	COG1178	P	ABC-type Fe3+ transport system, permease component	FbpB			
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_06205	COG4674	R	ABC-type uncharacterized transport system, ATPase component			10686096	
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_06220	COG0772	D	Peptodoglycan polymerase FtsW/RodA/SpoVE	FtsW		30692671	6BAR
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_06225	COG4232	O	Thiol:disulfide interchange protein DsbD	DsbD			1JPE
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_06235	COG2904	J	NADPH-dependent 7-cyano-7-deazaguanine reductase QueF, N-terminal domain	QueFN			3BP1
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_06250	COG3323	S	PII-like insert in the uncharacterized protein YqfO, YbgI/NIF3 family	YqfO		17187687;29625546;31118925	2GX8
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_06255	COG1189	J	Predicted rRNA methylase YqxC, contains S4 and FtsJ domains	YqxC			3OPN
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_06265	COG0165	E	Argininosuccinate lyase	ArgH	Arginine biosynthesis		1AOS
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_06275	COG0114	C	Fumarate hydratase class II	FumC	TCA cycle		1KQ7
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_06280	COG1205	L	ATP-dependent helicase YprA,  contains C-terminal metal-binding DUF1998 domain	YprA			
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_06285	COG2008	E	Threonine aldolase	GLY1			4LNJ
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_06295	COG0539	J	Ribosomal protein S1	RpsA	Ribosome 30S subunit		4NNH
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_06300	COG1039	L	Ribonuclease HIII	RnhC			2D0A
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_06315	COG2226	H	Ubiquinone/menaquinone biosynthesis C-methylase UbiE/MenG	UbiE	Biotin biosynthesis		4OBW
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_06320	COG0466	O	ATP-dependent Lon protease, bacterial type	Lon			6ON2
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_06325	COG0051	J	Ribosomal protein S10	RpsJ	Ribosome 30S subunit		4V4H
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_06350	COG0640	K	DNA-binding transcriptional regulator, ArsR family	ArsR			3F6V
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_06355	COG0719	O	Fe-S cluster assembly scaffold protein SufB	SufB			1VH4
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_06360	COG1122	PR	Energy-coupling factor transporter ATP-binding protein EcfA2	EcfA2			4HUQ
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_06370	COG0075	EF	Archaeal aspartate aminotransferase or a related aminotransferase, includes purine catabolism protein PucG	PucG	Serine biosynthesis		3NNK
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_06390	COG1413	R	HEAT repeat	HEAT			1OYZ
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_06400	COG4551	R	Predicted protein tyrosine phosphatase				
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_06405	COG1102	F	Cytidylate kinase	CmkB			
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_06415	COG2144	R	Selenophosphate synthetase-related protein				
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_06425	COG4989	R	Predicted oxidoreductase YdhF	YdhF			1UR3
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_06455	COG2084	I	3-hydroxyisobutyrate dehydrogenase or related beta-hydroxyacid dehydrogenase	MmsB			1I36
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_06465	COG2898	I	Lysylphosphatidylglycerol synthetase MprF, lysyl-tRNA-binding C-terminal domain	MprF2		14702396;30563904	5VRV
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_06475	COG0343	J	Queuine/archaeosine tRNA-ribosyltransferase	Tgt	tRNA modification	15805528	1XW8
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_06480	COG0368	H	Cobalamin synthase CobS (adenosylcobinamide-GDP ribazoletransferase)	CobS	Cobalamine/B12 biosynthesis	31481610	
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_06485	COG3852	T	Signal transduction histidine kinase NtrB, nitrogen specific	NtrB		23893111	
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_06495	COG0412	Q	Dienelactone hydrolase	DLH			4ZV9
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_06500	COG0138	F	AICAR transformylase/IMP cyclohydrolase PurH	PurH	Purine biosynthesis		1G8M
+Synechococcus_sp_CPC100	GCA_002685515.1	PJMMNP_06515	COG0716	C	Flavodoxin	FldA	Heme biosynthesis		1AG9

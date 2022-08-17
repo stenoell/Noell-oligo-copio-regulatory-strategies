@@ -1,0 +1,822 @@
+#prefix	assemid	query	COG	category	name	Gene	pathway	pmid	pdb_id
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_00005	COG3642	J	tRNA A-37 threonylcarbamoyl transferase component Bud32	Bud32	tRNA modification		2VWB
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_00010	COG2203	T	GAF domain	GAF			
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_00020	COG3840	H	ABC-type thiamine transport system, ATPase component ThiQ	ThiQ			
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_00025	COG4778	P	Alpha-D-ribose 1-methylphosphonate 5-triphosphate synthase subunit PhnL	PhnL			
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_00030	COG3639	P	ABC-type phosphate/phosphonate transport system, permease component	PhnE			
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_00035	COG1173	EP	ABC-type dipeptide/oligopeptide/nickel transport system, permease component	DppC			
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_00045	COG2988	E	Succinylglutamate desuccinylase	AstE			1YW4
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_00055	COG4533	K	DNA-binding transcriptional regulator SgrR of sgrS sRNA, contains a MarR-type HTH domain and a periplasmic-type solute-binding domain	SgrR			
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_00065	COG4989	R	Predicted oxidoreductase YdhF	YdhF			1UR3
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_00070	COG0039	C	Malate/lactate dehydrogenase	Mdh	TCA cycle		4WLO
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_00085	COG3254	M	L-rhamnose mutarotase	RhaM			1X8D
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_00090	COG3386	G	Sugar lactone lactonase YvrE	YvrE	Non-phosphorylated Entner-Doudoroff pathway		1E1A
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_00105	COG3445	H	Autonomous glycyl radical cofactor GrcA	GrcA			6OWR
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_00145	COG0784	T	CheY-like REC (receiver) domain, includes chemotaxis protein CheY  and sporulation regulator Spo0F	CheY			6QRJ
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_00150	COG2202	T	PAS domain	PAS			2MWG
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_00170	COG0622	R	Predicted phosphodiesterase, calcineurin family	YfcE		17586769	1SU1
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_00185	COG0593	L	Chromosomal replication initiation ATPase DnaA	DnaA			1L8Q
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_00195	COG1062	C	Zn-dependent alcohol/formaldehyde dehydrogenase	FrmA			1A71
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_00205	COG0842	V	ABC-type multidrug transport system, permease component	YadH			
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_00210	COG4172	Q	ABC-type microcin C transport system, duplicated ATPase component YejF	YejF		17873039	
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_00215	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_00220	COG0640	K	DNA-binding transcriptional regulator, ArsR family	ArsR			3F6V
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_00225	COG0151	F	Phosphoribosylamine-glycine ligase	PurD	Purine biosynthesis		1GSO
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_00230	COG0488	R	ATPase components of ABC transporters with duplicated ATPase domains	Uup			5ZXD
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_00235	COG2820	F	Uridine phosphorylase	Udp	Pyrimidine salvage		1K3F
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_00240	COG0425	JHO	Sulfur carrier protein TusA (tRNA thiolation, molybdenum cofactor biosynthesis)	TusA		23894086	1DCJ
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_00245	COG0175	EH	3'-phosphoadenosine 5'-phosphosulfate sulfotransferase (PAPS reductase)/FAD synthetase or related enzyme	CysD	Cysteine biosynthesis		1ZUN
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_00250	COG0457	R	Tetratricopeptide (TPR) repeat	TPR			3AS4
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_00255	COG4252	T	Extracytoplasmic sensor domain CHASE2 (specificity unknown)	CHASE2			
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_00265	COG2342	G	Endo alpha-1,4 polygalactosaminidase, GH114 family (was erroneously annotated as Cys-tRNA synthetase)				2AAM
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_00270	COG2331	R	Predicted nucleic acid-binding protein, contains Zn-ribbon domain				
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_00275	COG1240	H	vWFA (von Willebrand factor type A) domain of Mg and Co chelatases	ChlD			
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_00280	COG4191	T	Signal transduction histidine kinase regulating C4-dicarboxylate transport system				4GCZ
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_00285	COG2197	TK	DNA-binding response regulator, NarL/FixJ family, contains REC and HTH domains	CitB			1A04
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_00290	COG0701	S	Uncharacterized membrane protein YraQ, UPF0718 family	YraQ			
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_00295	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_00300	COG1145	C	Ferredoxin	NapF			6FAH
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_00305	COG4231	C	TPP-dependent indolepyruvate ferredoxin oxidoreductase, alpha subunit	IorA			
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_00310	COG4231	C	TPP-dependent indolepyruvate ferredoxin oxidoreductase, alpha subunit	IorA			
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_00315	COG0494	V	8-oxo-dGTP pyrophosphatase MutT and related house-cleaning NTP pyrophosphohydrolases, NUDIX family	MutT			4V14
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_00325	COG2896	H	GTP 3',8-cyclase (molybdenum cofactor biosynthesis protein MoaA)	MoaA	Molybdopterin biosynthesis		1TV7
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_00330	COG3001	G	Fructosamine-3-kinase	FN3K			3F7W
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_00340	COG0446	I	NADPH-dependent 2,4-dienoyl-CoA reductase, sulfur reductase, or a related oxidoreductase	FadH2			1VRQ
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_00345	COG3087	D	Cell division protein FtsN	FtsN			1UTA
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_00365	COG0726	GM	Peptidoglycan/xylan/chitin deacetylase, PgdA/NodB/CDA1 family	CDA1			1NY1
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_00370	COG1702	T	Phosphate starvation-inducible protein PhoH, predicted ATPase	PhoH		8444794;12762842	3B85
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_00385	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_00390	COG0737	FV	2',3'-cyclic-nucleotide 2'-phosphodiesterase/5'- or 3'-nucleotidase, 5'-nucleotidase family	UshA			1HO5
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_00400	COG0742	J	16S rRNA G966 N2-methylase RsmD	RsmD	16S rRNA modification		2IFT
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_00405	COG2120	G	N-acetylglucosaminyl deacetylase, LmbE family	LmbE			1Q74
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_00410	COG1472	G	Periplasmic beta-glucosidase and related glycosidases	BglX			2X40
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_00425	COG4221	C	NADP-dependent 3-hydroxy acid dehydrogenase YdfG	YdfG	Pyrimidine degradation		3P19
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_00435	COG0302	H	GTP cyclohydrolase I	FolE	Folate biosynthesis	19767425;30692671	1A8R
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_00445	COG5652	S	VanZ-like family protein (function unknown)	VanZ			
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_00450	COG0079	E	Histidinol-phosphate/aromatic aminotransferase or cobyric acid decarboxylase	HisC	Cobalamine/B12 biosynthesis		4R2N
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_00455	COG1243	J	tRNA U34 5-carboxymethylaminomethylation enzyme Elp3 (RNA elongator complex protein 3), contains radical SAM and acetyltransferase domains	ELP3		25151136;27455459	6IA8
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_00465	COG4133	O	ABC-type transport system involved in cytochrome c biogenesis, ATPase component	CcmA			
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_00480	COG1032	R	Radical SAM superfamily enzyme YgiQ, UPF0313 family	YgiQ			6FD2
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_00485	COG1748	E	Saccharopine dehydrogenase, NADP-dependent	Lys9	Lysine biosynthesis		1E5L
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_00510	COG0698	G	Ribose 5-phosphate isomerase RpiB	RpiB	Pentose phosphate pathway		1NN4
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_00520	COG0449	M	Glucosamine 6-phosphate synthetase, contains amidotransferase and phosphosugar isomerase domains	GlmS			2J6H
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_00525	COG0664	T	cAMP-binding domain of CRP or a regulatory subunit of cAMP-dependent protein kinases	Crp			1FT9
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_00535	COG0526	O	Thiol-disulfide isomerase or thioredoxin	TrxA			1XFL
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_00560	COG3434	T	c-di-GMP phosphodiesterase YuxH/PdeH, contains EAL and HDOD domains	YuxH		23893111	
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_00570	COG0082	E	Chorismate synthase	AroC	Aromatic amino acid biosynthesis		1Q1L
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_00575	COG0703	E	Shikimate kinase	AroK	Aromatic amino acid biosynthesis		1E6C
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_00580	COG0823	U	Periplasmic component TolB of the Tol biopolymer transport system	TolB			1C5K
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_00590	COG0815	M	Apolipoprotein N-acyltransferase	Lnt			6NWR
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_00595	COG1121	P	ABC-type Mn2+/Zn2+ transport system, ATPase component	ZnuC			
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_00600	COG2084	I	3-hydroxyisobutyrate dehydrogenase or related beta-hydroxyacid dehydrogenase	MmsB			1I36
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_00605	COG3875	M	Nickel-dependent lactate racemase	LarA		24710389	2YJG
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_00615	COG0673	R	Predicted dehydrogenase	MviM			3UUW
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_00625	COG0300	R	Short-chain dehydrogenase	YqjQ			
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_00630	COG1904	G	Glucuronate isomerase	UxaC			1J5S
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_00645	COG1592	C	Rubrerythrin	YotD			1B71
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_00650	COG2207	K	AraC-type DNA-binding domain and AraC-containing proteins	AraC			1BL0
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_00655	COG4284	G	UDP-N-acetylglucosamine pyrophosphorylase	QRI1			1JV1
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_00680	COG2965	L	Primosomal replication protein N	PriB			2PNH
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_00695	COG0359	J	Ribosomal protein L9	RplI	Ribosome 50S subunit	27112601	1VS6
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_00700	COG0305	L	Replicative DNA helicase	DnaB			1B79
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_00710	COG2319	R	WD40 repeat	WD40			3UVN
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_00720	COG0265	O	Periplasmic serine protease, S1-C subfamily, contain C-terminal PDZ domain	DegQ		29686141	2HGA
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_00725	COG0460	E	Homoserine dehydrogenase	ThrA	Methionine biosynthesis	29124164	5AVO
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_00730	COG0575	I	CDP-diglyceride synthetase	CdsA	Phospholipid biosynthesis		4Q2E
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_00735	COG0020	I	Undecaprenyl pyrophosphate synthase	UppS			1X07
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_00740	COG0233	J	Ribosome recycling factor	Frr			1DD5
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_00745	COG0264	J	Translation elongation factor EF-Ts	Tsf	Translation factors		1EFU
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_00750	COG0052	J	Ribosomal protein S2	RpsB	Ribosome 30S subunit		4V4H
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_00755	COG0424	Q	7-methyl-GTP pyrophosphatase and related NTP pyrophosphatases, Maf/HAM1 superfamily	Maf		24210219	2P5X
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_00770	COG0582	LX	Integrase/recombinase, includes phage integrase	FimB			
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_00775	COG1525	L	Endonuclease YncB, thermonuclease family	YncB			
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_00790	COG1961	L	Site-specific DNA recombinase SpoIVCA/DNA invertase PinE	SpoIVCA			1GDT
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_00800	COG1637	L	Endonuclease NucS, RecB family	NucS			2VLD
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_00805	COG3408	G	Glycogen debranching enzyme (alpha-1,6-glucosidase)	GDB1			5D06
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_00815	COG0353	L	Recombinational DNA repair protein RecR	RecR		26337406	2JGR
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_00820	COG0718	K	DNA-binding nucleoid-associated protein YbaB/EfbC	YbaB		19594923;22544270	1J8B
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_00825	COG2256	L	Replication-associated recombination protein RarA (DNA-dependent ATPase)	RarA			3PVS
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_00870	COG0455	DN	MinD-like ATPase FlhG/YlxH, activator of the FlhF-type GTPase	FlhG			1G3Q
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_00910	COG1484	L	DNA replication protein DnaC	DnaC			2QGZ
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_00915	COG0664	T	cAMP-binding domain of CRP or a regulatory subunit of cAMP-dependent protein kinases	Crp			1FT9
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_00920	COG5000	T	Signal transduction histidine kinase NtrY involved in nitrogen fixation and metabolism regulation	NtrY			
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_00925	COG2202	T	PAS domain	PAS			2MWG
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_00930	COG4191	T	Signal transduction histidine kinase regulating C4-dicarboxylate transport system				4GCZ
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_00935	COG2197	TK	DNA-binding response regulator, NarL/FixJ family, contains REC and HTH domains	CitB			1A04
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_00940	COG0498	E	Threonine synthase	ThrC	Threonine biosynthesis		1VB3
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_00945	COG2873	E	O-acetylhomoserine/O-acetylserine sulfhydrylase, pyridoxal phosphate-dependent	MET17	Methionine biosynthesis		2CTZ
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_00950	COG1070	G	Sugar (pentulose or hexulose) kinase	XylB	Non-phosphorylated Entner-Doudoroff pathway		4C23
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_00960	COG0577	V	ABC-type antimicrobial peptide transport system, permease component	SalY			
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_00965	COG0845	MV	Multidrug efflux pump subunit AcrA (membrane-fusion protein)	AcrA			1T5E
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_01010	COG0102	J	Ribosomal protein L13	RplM	Ribosome 50S subunit		1VS6
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_01015	COG0103	J	Ribosomal protein S9	RpsI	Ribosome 30S subunit		4V4H
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_01020	COG2137	O	SOS response regulatory protein OraA/RecX, interacts with RecA	RecX			3C1D
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_01025	COG0784	T	CheY-like REC (receiver) domain, includes chemotaxis protein CheY  and sporulation regulator Spo0F	CheY			6QRJ
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_01030	COG2204	T	DNA-binding transcriptional response regulator, NtrC family, contains REC, AAA-type ATPase, and a Fis-type DNA-binding domains	AtoC			1ZY2
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_01035	COG0068	O	Hydrogenase maturation factor HypF (carbamoyltransferase)	HypF			3TSP
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_01040	COG0148	G	Enolase	Eno	Glycolysis		1E9I
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_01045	COG0441	J	Threonyl-tRNA synthetase	ThrS	Aminoacyl-tRNA synthetases		1NYQ
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_01050	COG1246	E	N-acetylglutamate synthase or related acetyltransferase, GNAT family	ArgA	Arginine biosynthesis		2R98
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_01060	COG4166	E	ABC-type oligopeptide transport system, periplasmic component	OppA			1B05
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_01075	COG3666	X	Transposase, IS1182 family				
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_01080	COG0300	R	Short-chain dehydrogenase	YqjQ			
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_01090	COG1373	R	Predicted ATPase, AAA+ superfamily				
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_01105	COG1313	R	Radical SAM superfamily enzyme PflX	PflX			
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_01125	COG0556	L	Excinuclease UvrABC helicase subunit UvrB	UvrB			1C4O
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_01130	COG0220	J	tRNA G46 N7-methylase TrmB	TrmB	tRNA modification	19373903;16600901	1YZH
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_01135	COG0372	C	Citrate synthase	GltA	TCA cycle	25211225	3TQG
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_01140	COG0480	J	Translation elongation factor EF-G, a GTPase	FusA	Translation factors		1DAR
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_01145	COG0480	J	Translation elongation factor EF-G, a GTPase	FusA	Translation factors		1DAR
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_01160	COG0643	T	Chemotaxis protein histidine kinase CheA	CheA			1B3Q
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_01165	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_01170	COG1011	H	FMN and 5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YigB, HAD superfamily (riboflavin biosynthesis)	YigB		24123841	4JB3
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_01175	COG3340	E	Peptidase E	PepE			1FY2
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_01180	COG0214	H	Pyridoxal 5'-phosphate synthase subunit PdxS	PdxS	Pyridoxal phosphate biosynthesis		2NV2
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_01190	COG0325	H	Pyridoxal 5'-phosphate homeostasis protein YggS, UPF0001 family	YggS		26872910	3SY1
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_01200	COG1187	J	Pseudouridylate synthase RsuA, specific for 16S rRNA U516  and 23S rRNA U2605	RsuA	16S rRNA modification		1KSK
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_01205	COG0491	R	Glyoxylase or a related metal-dependent hydrolase, beta-lactamase superfamily II	GloB		25670698	1QH3
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_01210	COG1357	S	Uncharacterized conserved protein YjbI, contains pentapeptide repeats	YjbI			2BM4
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_01220	COG1159	J	GTPase Era, involved in 16S rRNA processing	Era			1EGA
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_01225	COG1193	L	dsDNA-specific endonuclease/ATPase MutS2	MutS2			
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_01245	COG1390	C	Archaeal/vacuolar-type H+-ATPase subunit E/Vma4	NtpE	A/V-type ATP synthase		2DM9
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_01255	COG0055	C	FoF1-type ATP synthase, beta subunit	AtpD	FoF1-type ATP synthase		3OAA
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_01260	COG1155	C	Archaeal/vacuolar-type H+-ATPase catalytic subunit A/Vma1	NtpA	A/V-type ATP synthase		3J9T
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_01270	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_01290	COG1123	O	ABC-type glutathione transport system ATPase component, contains duplicated ATPase domain	GsiA			
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_01295	COG1452	M	LPS assembly outer membrane protein LptD (organic solvent tolerance protein OstA)	LptD			4N4R
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_01300	COG1702	T	Phosphate starvation-inducible protein PhoH, predicted ATPase	PhoH		8444794;12762842	3B85
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_01305	COG2206	T	HD-GYP domain, c-di-GMP phosphodiesterase class II (or its inactivated variant)	HDGYP		23475961	5Z7C
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_01315	COG0517	T	CBS domain	CBS			1B3O
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_01320	COG0457	R	Tetratricopeptide (TPR) repeat	TPR			3AS4
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_01325	COG0057	G	Glyceraldehyde-3-phosphate dehydrogenase/erythrose-4-phosphate dehydrogenase	GapA	Glycolysis		3ZDF
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_01330	COG0126	G	3-phosphoglycerate kinase	Pgk	Glycolysis		13PK
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_01335	COG0149	G	Triosephosphate isomerase	TpiA	Glycolysis		1HG3
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_01340	COG1314	U	Protein translocase subunit SecG	SecG			2AKH
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_01345	COG4635	H	Protoporphyrinogen IX oxidase, menaquinone-dependent (flavodoxin domain)	HemG		17873039	
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_01350	COG0760	O	Peptidyl-prolyl isomerase, parvulin family	SurA			2ZR5
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_01365	COG0024	J	Methionine aminopeptidase	Map			3J2I
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_01370	COG0793	O	C-terminal processing protease CtpA/Prc, contains a PDZ domain	CtpA			6IQU
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_01375	COG1040	R	DNA utilization protein ComFC/GntX, contains phosphoribosyltransferase domain	ComFC		28618091	
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_01430	COG3887	T	Cyclic di-AMP phosphodiesterase GdpP, contains GGDEF-like and DHH domains	GdpP			
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_01435	COG1240	H	vWFA (von Willebrand factor type A) domain of Mg and Co chelatases	ChlD			
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_01450	COG3605	T	Signal transduction protein containing GAF and PtsI domains	PtsP			
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_01460	COG5010	UW	Flp pilus assembly protein TadD, contains TPR repeats	TadD			3WXX
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_01465	COG0165	E	Argininosuccinate lyase	ArgH	Arginine biosynthesis		1AOS
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_01470	COG0517	T	CBS domain	CBS			1B3O
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_01475	COG0104	F	Adenylosuccinate synthase	PurA	Purine biosynthesis		1ADE
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_01480	COG0512	EH	Anthranilate/para-aminobenzoate synthase component II (glutamine amidotransferase)	PabA	Aromatic amino acid biosynthesis		1I1Q
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_01485	COG1026	O	Zn-dependent peptidase, M16 (insulinase) family	Cym1			2FGE
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_01490	COG0407	H	Uroporphyrinogen-III decarboxylase HemE	HemE	Heme biosynthesis		2DG5
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_01495	COG3833	G	ABC-type maltose transport system, permease component MalG	MalG			2R6G
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_01500	COG1178	P	ABC-type Fe3+ transport system, permease component	FbpB			
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_01505	COG1653	G	ABC-type glycerol-3-phosphate transport system, periplasmic component	UgpB			2Z8D
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_01520	COG0724	J	RNA recognition motif (RRM) domain	RRM			1HL6
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_01525	COG3568	R	Metal-dependent hydrolase, endonuclease/exonuclease/phosphatase family	ElsH		15178340	
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_01530	COG3276	J	Selenocysteine-specific translation elongation factor SelB	SelB	Translation factors		4ZU9
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_01535	COG2006	S	Uncharacterized conserved protein, DUF362 family				
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_01540	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_01550	COG2021	E	Homoserine O-acetyltransferase	MET2	Methionine biosynthesis		2VAT
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_01555	COG4941	K	Predicted RNA polymerase sigma factor, contains C-terminal TPR domain				
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_01565	COG0407	H	Uroporphyrinogen-III decarboxylase HemE	HemE	Heme biosynthesis		2DG5
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_01575	COG0588	G	Phosphoglycerate mutase (BPG-dependent)	GpmA	Glycolysis		1E58
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_01580	COG1529	C	Aldehyde, CO or xanthine dehydrogenase, Mo-binding subunit	CoxL	Non-phosphorylated Entner-Doudoroff pathway	10095793	1DGJ
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_01585	COG1319	C	Aldehyde, CO, or xanthine dehydrogenase, FAD-binding subunit	CutB	Non-phosphorylated Entner-Doudoroff pathway		5Y6Q
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_01590	COG0479	C	Succinate dehydrogenase/fumarate reductase, Fe-S protein subunit	SdhB/FrdB	TCA cycle		6LUM
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_01595	COG3623	G	L-ribulose-5-phosphate 3-epimerase UlaE	SgaU			3CQH
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_01620	COG2268	S	Uncharacterized membrane protein YqiK, contains Band7/PHB/SPFH domain	YqiK			1WIN
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_01625	COG2268	S	Uncharacterized membrane protein YqiK, contains Band7/PHB/SPFH domain	YqiK			1WIN
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_01630	COG3903	R	Predicted ATPase				
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_01635	COG5421	X	Transposase				
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_01640	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_01645	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_01655	COG1649	S	Uncharacterized lipoprotein YddW, UPF0748 family	YddW			5OQ2
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_01665	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_01675	COG0596	HR	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold	MenH	Menaquinone biosynthesis		4MYS
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_01685	COG3899	R	Predicted ATPase				
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_01705	COG0009	J	tRNA A37 threonylcarbamoyladenosine synthetase subunit TsaC/SUA5/YrdC	TsaC	tRNA modification		1HRU
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_01725	COG2604	S	Uncharacterized conserved protein				5MU5
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_01730	COG2604	S	Uncharacterized conserved protein				5MU5
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_01735	COG1355	R	Predicted class III extradiol dioxygenase, MEMO1 family	Mho1			3BCZ
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_01745	COG0595	J	mRNA degradation ribonuclease J1/J2	RnjA			3T3N
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_01750	COG1484	L	DNA replication protein DnaC	DnaC			2QGZ
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_01765	COG0577	V	ABC-type antimicrobial peptide transport system, permease component	SalY			
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_01770	COG1119	P	ABC-type molybdenum transport system, ATPase component ModF/photorepair protein PhrA	ModF			2IHY
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_01775	COG0577	V	ABC-type antimicrobial peptide transport system, permease component	SalY			
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_01785	COG1419	N	Flagellar biosynthesis GTPase FlhF	FlhF			3SYN
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_01795	COG0784	T	CheY-like REC (receiver) domain, includes chemotaxis protein CheY  and sporulation regulator Spo0F	CheY			6QRJ
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_01800	COG1186	J	Protein chain release factor PrfB	PrfB	Translation factors		1GQE
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_01810	COG4232	O	Thiol:disulfide interchange protein DsbD	DsbD			1JPE
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_01815	COG1543	G	Predicted glycosyl hydrolase, contains GH57 and DUF1957 domains				1UFA
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_01820	COG1142	C	Fe-S-cluster-containing hydrogenase component 2	HycB			
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_01825	COG4660	C	Na+-translocating ferredoxin:NAD+ oxidoreductase  RNF, RnfE subunit	RnfE	Na+-translocating Fd:NADH oxidoreductase		
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_01830	COG4657	C	Na+-translocating ferredoxin:NAD+ oxidoreductase RNF, RnfA subunit	RnfA	Na+-translocating Fd:NADH oxidoreductase		
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_01835	COG4659	C	Na+-translocating ferredoxin:NAD+ oxidoreductase RNF, RnfG subunit	RnfG	Na+-translocating Fd:NADH oxidoreductase		
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_01845	COG4656	C	Na+-translocating ferredoxin:NAD+ oxidoreductase  RNF, RnfC subunit	RnfC	Na+-translocating Fd:NADH oxidoreductase		
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_01860	COG1729	D	Cell division protein CpoB, coordinates peptidoglycan biosynthesis and outer membrane constriction	CpoB		25951518	2WZ7
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_01875	COG1430	S	Uncharacterized conserved membrane protein, UPF0127 family				3M7A
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_01880	COG1722	L	Exonuclease VII small subunit	XseB			1VP7
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_01885	COG1570	L	Exonuclease VII, large subunit	XseA			
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_01895	COG1861	M	Spore coat polysaccharide biosynthesis protein SpsF, cytidylyltransferase family	SpsF			
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_01905	COG1212	M	CMP-2-keto-3-deoxyoctulosonic acid synthetase	KdsB	Lipid A biosynthesis		1VH1
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_01910	COG2227	H	2-polyprenyl-3-methyl-5-hydroxy-6-metoxy-1,4-benzoquinol methylase	UbiG	Ubiquinone biosynthesis		1BHJ
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_01915	COG0026	F	Phosphoribosylaminoimidazole carboxylase (NCAIR synthetase)	PurK	Purine biosynthesis		1B6R
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_01920	COG0860	M	N-acetylmuramoyl-L-alanine amidase	AmiC			1JWQ
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_01940	COG0760	O	Peptidyl-prolyl isomerase, parvulin family	SurA			2ZR5
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_01945	COG0596	HR	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold	MenH	Menaquinone biosynthesis		4MYS
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_01950	COG1052	CHR	Lactate dehydrogenase or related 2-hydroxyacid dehydrogenase	LdhA	Pyridoxal phosphate biosynthesis		1DXY
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_01955	COG1082	G	Sugar phosphate isomerase/epimerase	YcjR		30742415	3KTC
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_01960	COG0407	H	Uroporphyrinogen-III decarboxylase HemE	HemE	Heme biosynthesis		2DG5
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_01965	COG2159	G	5-carboxyvanillate decarboxylase LigW (lignin degradation), amidohydro domain	LigW		26714575	2DVT
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_01970	COG0001	H	Glutamate-1-semialdehyde aminotransferase	HemL	Heme biosynthesis		2CFB
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_01975	COG1522	K	DNA-binding transcriptional regulator, Lrp family	Lrp			1I1G
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_01980	COG0641	O	Sulfatase maturation enzyme AslB, radical SAM superfamily	AslB			4K37
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_01985	COG0113	H	Delta-aminolevulinic acid dehydratase, porphobilinogen synthase	HemB	Heme biosynthesis		1I8J
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_01990	COG2896	H	GTP 3',8-cyclase (molybdenum cofactor biosynthesis protein MoaA)	MoaA	Molybdopterin biosynthesis		1TV7
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_01995	COG1010	H	Precorrin-3B methylase	CobJ	Cobalamine/B12 biosynthesis		2ZVB
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_02000	COG1309	K	DNA-binding protein, AcrR family, includes nucleoid occlusion protein SlmA	AcrR			2QOP
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_02005	COG0181	H	Porphobilinogen deaminase	HemC	Heme biosynthesis		1AH5
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_02010	COG0169	E	Shikimate 5-dehydrogenase	AroE	Aromatic amino acid biosynthesis		1NPD
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_02015	COG1648	H	Siroheme synthase (precorrin-2 oxidase/ferrochelatase domain)	CysG2	Heme biosynthesis		1PJQ
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_02020	COG4137	R	ABC-type uncharacterized transport system, permease component	YpjD			
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_02025	COG0451	M	Nucleoside-diphosphate-sugar epimerase	WcaG			2X4G
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_02045	COG3852	T	Signal transduction histidine kinase NtrB, nitrogen specific	NtrB		23893111	
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_02070	COG1239	H	Mg-chelatase subunit ChlI	ChlI			1G8P
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_02075	COG1721	S	Uncharacterized conserved protein, DUF58 family, contains vWF domain	YeaD2			
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_02085	COG1414	K	DNA-binding transcriptional regulator, IclR family	IclR			1MKM
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_02090	COG1160	J	Double Era-like domain GTPase Der	Der			1MKY
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_02105	COG1321	K	Mn-dependent transcriptional regulator MntR, DtxR family	MntR			1B1B
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_02110	COG2204	T	DNA-binding transcriptional response regulator, NtrC family, contains REC, AAA-type ATPase, and a Fis-type DNA-binding domains	AtoC			1ZY2
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_02115	COG3852	T	Signal transduction histidine kinase NtrB, nitrogen specific	NtrB		23893111	
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_02120	COG4753	TK	Two-component response regulator, YesN/AraC family, consists of REC and AraC-type DNA-binding domains	YesN			
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_02140	COG1063	ER	Threonine dehydrogenase or related Zn-dependent dehydrogenase	Tdh	Non-phosphorylated Entner-Doudoroff pathway		4A2C
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_02155	COG1012	I	Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase	AdhE	Proline degradation		1A4S
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_02160	COG4122	J	tRNA 5-hydroxyU34 O-methylase TrmR/YrrM	TrmR	tRNA modification	29982645	1H1D
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_02165	COG1402	H	Creatinine amidohydrolase/Fe(II)-dependent FAPy formamide hydrolase (riboflavin and F420 biosynthesis)	ArfB	Riboflavin/FAD biosynthesis		1J2T
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_02170	COG0265	O	Periplasmic serine protease, S1-C subfamily, contain C-terminal PDZ domain	DegQ		29686141	2HGA
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_02185	COG0747	E	ABC-type transport system, periplasmic component	DdpA			3RQT
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_02190	COG1173	EP	ABC-type dipeptide/oligopeptide/nickel transport system, permease component	DppC			
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_02195	COG4171	V	ABC-type antimicrobial peptide export system, permease component SapC	SapC			
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_02200	COG1132	V	ABC-type multidrug transport system, ATPase and permease component	MdlB			2HYD
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_02205	COG1173	EP	ABC-type dipeptide/oligopeptide/nickel transport system, permease component	DppC			
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_02210	COG1173	EP	ABC-type dipeptide/oligopeptide/nickel transport system, permease component	DppC			
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_02215	COG0747	E	ABC-type transport system, periplasmic component	DdpA			3RQT
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_02230	COG0265	O	Periplasmic serine protease, S1-C subfamily, contain C-terminal PDZ domain	DegQ		29686141	2HGA
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_02235	COG1402	H	Creatinine amidohydrolase/Fe(II)-dependent FAPy formamide hydrolase (riboflavin and F420 biosynthesis)	ArfB	Riboflavin/FAD biosynthesis		1J2T
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_02240	COG4122	J	tRNA 5-hydroxyU34 O-methylase TrmR/YrrM	TrmR	tRNA modification	29982645	1H1D
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_02245	COG1012	I	Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase	AdhE	Proline degradation		1A4S
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_02260	COG1063	ER	Threonine dehydrogenase or related Zn-dependent dehydrogenase	Tdh	Non-phosphorylated Entner-Doudoroff pathway		4A2C
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_02265	COG0656	Q	Aldo/keto reductase, related to diketogulonate reductase	ARA1			1Q13
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_02270	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_02275	COG1250	I	3-hydroxyacyl-CoA dehydrogenase	FadB	Fatty acid biosynthesis		5ZQZ
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_02280	COG1167	KE	DNA-binding transcriptional regulator, MocR family, contains an aminotransferase domain	ARO8	Lysine biosynthesis		2R2N
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_02285	COG2268	S	Uncharacterized membrane protein YqiK, contains Band7/PHB/SPFH domain	YqiK			1WIN
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_02290	COG2274	V	ABC-type bacteriocin/lantibiotic exporters, contain an N-terminal double-glycine peptidase domain	SunT			3K8U
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_02295	COG0842	V	ABC-type multidrug transport system, permease component	YadH			
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_02300	COG1299	G	Phosphotransferase system, fructose-specific IIC component	FrwC			
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_02305	COG1118	P	ABC-type sulfate/molybdate transport systems, ATPase component	CysA			
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_02320	COG1145	C	Ferredoxin	NapF			6FAH
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_02330	COG1868	N	Flagellar motor switch protein FliM	FliM			2HP7
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_02335	COG0664	T	cAMP-binding domain of CRP or a regulatory subunit of cAMP-dependent protein kinases	Crp			1FT9
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_02340	COG0597	MU	Lipoprotein signal peptidase	LspA			5DIR
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_02360	COG0407	H	Uroporphyrinogen-III decarboxylase HemE	HemE	Heme biosynthesis		2DG5
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_02365	COG0520	E	Selenocysteine lyase/Cysteine desulfurase	CsdA			4LW2
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_02370	COG0044	F	Dihydroorotase or related cyclic amidohydrolase	AllB	Pyrimidine biosynthesis		1J79
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_02395	COG1506	E	Dipeptidyl aminopeptidase/acylaminoacyl peptidase	DAP2			2JBW
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_02400	COG1653	G	ABC-type glycerol-3-phosphate transport system, periplasmic component	UgpB			2Z8D
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_02410	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_02415	COG3386	G	Sugar lactone lactonase YvrE	YvrE	Non-phosphorylated Entner-Doudoroff pathway		1E1A
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_02420	COG2013	C	AIM24 protein, required for mitochondrial respiration	AIM24		24928273;24714493	1YOX
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_02425	COG3828	R	Type 1 glutamine amidotransferase (GATase1)-like domain				
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_02430	COG1230	P	Co/Zn/Cd efflux system component	CzcD			
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_02435	COG0450	V	Alkyl hydroperoxide reductase subunit AhpC (peroxiredoxin)	AhpC			2RII
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_02440	COG1225	O	Peroxiredoxin	Bcp			5IPH
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_02450	COG1225	O	Peroxiredoxin	Bcp			5IPH
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_02460	COG3557	S	Uncharacterized conserved protein associated with RNAses G and E,  UPF0374/DUF402 family	YgaC			
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_02475	COG0673	R	Predicted dehydrogenase	MviM			3UUW
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_02505	COG1511	S	Uncharacterized membrane protein YhgE, phage infection protein (PIP) family	YhgE			
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_02510	COG0623	I	Enoyl-[acyl-carrier-protein] reductase FabI	FabI	Fatty acid biosynthesis		1C14
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_02515	COG3119	P	Arylsulfatase A or related enzyme, AlkP superfamily	AslA			1E1Z
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_02520	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_02535	COG0215	J	Cysteinyl-tRNA synthetase	CysS	Aminoacyl-tRNA synthetases		1LI5
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_02540	COG1063	ER	Threonine dehydrogenase or related Zn-dependent dehydrogenase	Tdh	Non-phosphorylated Entner-Doudoroff pathway		4A2C
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_02550	COG1082	G	Sugar phosphate isomerase/epimerase	YcjR		30742415	3KTC
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_02555	COG1883	C	Na+-transporting oxaloacetate/methylmalonyl-CoA decarboxylase, beta subunit	OadB			
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_02560	COG0511	I	Biotin carboxyl carrier protein	AccB	Fatty acid biosynthesis		1A6X
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_02570	COG0457	R	Tetratricopeptide (TPR) repeat	TPR			3AS4
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_02575	COG1538	M	Outer membrane protein TolC	TolC			1EK9
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_02585	COG4178	R	ABC-type uncharacterized transport system, permease and ATPase components	YddA			6JBJ
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_02590	COG4148	P	ABC-type molybdate transport system, ATPase component ModC	ModC	Molybdopterin biosynthesis		
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_02595	COG1846	K	DNA-binding transcriptional regulator, MarR family	MarR			1JGS
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_02610	COG2211	G	Na+/melibiose symporter or related transporter	MelB			4M64
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_02615	COG5001	T	Cyclic di-GMP metabolism protein, combines GGDEF and EAL domains with a 6TM membrane domain				
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_02625	COG0251	V	Enamine deaminase RidA, house cleaning of reactive enamine intermediates, YjgF/YER057c/UK114 family	RidA	Pyrimidine degradation	22094463;32205462	1J7H
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_02630	COG3622	G	Hydroxypyruvate/dehydroerythronate isomerase, Hyi/OtnI family	Hyi		27402745	1K77
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_02635	COG4977	K	Transcriptional regulator GlxA, contains an amidase domain and an AraC-type DNA-binding HTH domain	GlxA			
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_02640	COG2804	NUW	Type II secretory pathway ATPase GspE/PulE or T4P pilus assembly pathway ATPase PilB	PulE			4KSR
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_02650	COG2197	TK	DNA-binding response regulator, NarL/FixJ family, contains REC and HTH domains	CitB			1A04
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_02655	COG3631	R	Ketosteroid isomerase-related protein	YesE			1Z1S
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_02660	COG1708	R	Predicted nucleotidyltransferase, MJ0604 family	MJ0604			5YEP
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_02665	COG3642	J	tRNA A-37 threonylcarbamoyl transferase component Bud32	Bud32	tRNA modification		2VWB
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_02675	COG1695	K	DNA-binding transcriptional regulator, PadR family	PadR		19096365	1XMA
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_02685	COG1797	H	Cobyrinic acid a,c-diamide synthase	CobB	Cobalamine/B12 biosynthesis		
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_02690	COG3391	R	DNA-binding beta-propeller fold protein YncE	YncE		22120742;28628661	3VGZ
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_02695	COG0664	T	cAMP-binding domain of CRP or a regulatory subunit of cAMP-dependent protein kinases	Crp			1FT9
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_02705	COG4544	S	Uncharacterized conserved protein				
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_02715	COG2176	L	DNA polymerase III, alpha subunit (gram-positive type)	PolC			
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_02725	COG1187	J	Pseudouridylate synthase RsuA, specific for 16S rRNA U516  and 23S rRNA U2605	RsuA	16S rRNA modification		1KSK
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_02730	COG0006	E	Xaa-Pro aminopeptidase	PepP			1A16
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_02735	COG1082	G	Sugar phosphate isomerase/epimerase	YcjR		30742415	3KTC
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_02745	COG0520	E	Selenocysteine lyase/Cysteine desulfurase	CsdA			4LW2
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_02785	COG3710	K	DNA-binding winged helix-turn-helix (wHTH) domain	CadC1			
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_02790	COG1842	KT	Phage shock protein A	PspA			4WHE
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_02800	COG1366	T	Anti-anti-sigma regulatory factor (antagonist of anti-sigma factor)	SpoIIAA			1AUZ
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_02810	COG0784	T	CheY-like REC (receiver) domain, includes chemotaxis protein CheY  and sporulation regulator Spo0F	CheY			6QRJ
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_02820	COG3030	R	FxsA protein affecting phage T7 exclusion by the F plasmid, UPF0716 family	FxsA			
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_02830	COG1385	J	16S rRNA U1498 N3-methylase RsmE	RsmE	16S rRNA modification		1NXZ
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_02835	COG0432	H	Thiamin phosphate synthase YjbQ, UPF0047 family	YjbQ			1VE0
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_02840	COG0265	O	Periplasmic serine protease, S1-C subfamily, contain C-terminal PDZ domain	DegQ		29686141	2HGA
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_02855	COG1192	DN	ParA-like ATPase involved in chromosome/plasmid partitioning or cellulose biosynthesis protein BcsQ	ParA			6NOO
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_02860	COG1315	N	Flagellar assembly protein FapA, interacts with EIIAGlc	FapA		27218601	
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_02865	COG0682	M	Prolipoprotein diacylglyceryltransferase	Lgt			5AZB
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_02880	COG5271	J	Midasin, AAA ATPase with  vWA domain, involved in ribosome maturation	MDN1			6HYP
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_02895	COG1120	PH	ABC-type cobalamin/Fe3+-siderophores transport system, ATPase component	FepC			2NQ2
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_02905	COG3445	H	Autonomous glycyl radical cofactor GrcA	GrcA			6OWR
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_02915	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_02925	COG0784	T	CheY-like REC (receiver) domain, includes chemotaxis protein CheY  and sporulation regulator Spo0F	CheY			6QRJ
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_02930	COG1139	C	L-lactate utilization protein LutB, contains a ferredoxin-type domain	LutB			
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_02940	COG1396	K	Transcriptional regulator, contains XRE-family HTH domain	HipB			1ADR
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_02945	COG1121	P	ABC-type Mn2+/Zn2+ transport system, ATPase component	ZnuC			
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_02950	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_02960	COG0143	J	Methionyl-tRNA synthetase	MetG	Aminoacyl-tRNA synthetases		1A8H
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_02965	COG4191	T	Signal transduction histidine kinase regulating C4-dicarboxylate transport system				4GCZ
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_02975	COG2814	G	Predicted arabinose efflux permease AraJ, MFS family	AraJ			4LDS
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_02985	COG0665	E	Glycine/D-amino acid oxidase (deaminating)	DadA			3AWI
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_02990	COG0502	H	Biotin synthase or related enzyme	BioB	Biotin biosynthesis		1R30
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_03010	COG0407	H	Uroporphyrinogen-III decarboxylase HemE	HemE	Heme biosynthesis		2DG5
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_03015	COG1770	E	Protease II	PtrB			4BP9
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_03020	COG2873	E	O-acetylhomoserine/O-acetylserine sulfhydrylase, pyridoxal phosphate-dependent	MET17	Methionine biosynthesis		2CTZ
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_03025	COG0191	G	Fructose/tagatose bisphosphate aldolase	Fba	Glycolysis		1B57
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_03040	COG5340	V	Abortive phage infection protein AbiEi, antitoxin conponent of an AbiEi-AbiEii TA system	AbiEi		24465005;29518409	
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_03055	COG0534	V	Na+-driven multidrug efflux pump, DinF/NorM/MATE family	NorM		29915058	3VVN
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_03075	COG0656	Q	Aldo/keto reductase, related to diketogulonate reductase	ARA1			1Q13
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_03080	COG0329	EM	4-hydroxy-tetrahydrodipicolinate synthase/N-acetylneuraminate lyase	DapA	Lysine biosynthesis	27574185	2R91
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_03090	COG1203	V	CRISPR-Cas type I system-associated endonuclease/helicase Cas3	Cas3	CRISPR-Cas system		
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_03095	COG1149	R	MinD superfamily P-loop ATPase, contains an inserted ferredoxin domain				
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_03110	COG4166	E	ABC-type oligopeptide transport system, periplasmic component	OppA			1B05
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_03115	COG1173	EP	ABC-type dipeptide/oligopeptide/nickel transport system, permease component	DppC			
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_03120	COG4171	V	ABC-type antimicrobial peptide export system, permease component SapC	SapC			
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_03125	COG4597	E	ABC-type amino acid transport system, permease component	BatB			
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_03135	COG0286	V	Type I restriction-modification system, DNA methylase subunit	HsdM		26872910	2AR0
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_03140	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_03145	COG1193	L	dsDNA-specific endonuclease/ATPase MutS2	MutS2			
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_03165	COG1239	H	Mg-chelatase subunit ChlI	ChlI			1G8P
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_03170	COG1721	S	Uncharacterized conserved protein, DUF58 family, contains vWF domain	YeaD2			
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_03175	COG1305	O	Transglutaminase-like enzyme, putative cysteine protease	YebA			3ISR
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_03180	COG1520	M	Outer membrane protein assembly factor BamB, contains PQQ-like beta-propeller repeat	PQQ			6TJG
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_03195	COG1191	K	DNA-directed RNA polymerase specialized sigma subunit	FliA	RNA polymerase		1RP3
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_03200	COG2203	T	GAF domain	GAF			
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_03205	COG0749	L	DNA polymerase I, 3'-5' exonuclease and polymerase domains	PolA			1D8Y
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_03210	COG0001	H	Glutamate-1-semialdehyde aminotransferase	HemL	Heme biosynthesis		2CFB
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_03215	COG1086	MO	NDP-sugar epimerase, includes UDP-GlcNAc-inverting 4,6-dehydratase FlaA1 and capsular polysaccharide biosynthesis protein EpsC	FlaA1			2GN4
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_03220	COG1396	K	Transcriptional regulator, contains XRE-family HTH domain	HipB			1ADR
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_03225	COG0204	I	1-acyl-sn-glycerol-3-phosphate acyltransferase	PlsC	Phospholipid biosynthesis		1IUQ
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_03230	COG3118	O	Chaperedoxin CnoX, contains thioredoxin-like and TPR-like domains, YbbN/TrxSC family	CnoX		21498507;29754824	3QDN
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_03235	COG2771	K	DNA-binding transcriptional regulator, CsgD family	CsgD			
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_03240	COG0592	L	DNA polymerase III sliding clamp (beta) subunit, PCNA homolog	DnaN			1JQJ
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_03245	COG1106	R	ATPase/GTPase, AAA15 family				
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_03255	COG2706	G	6-phosphogluconolactonase, cycloisomerase 2 family	Pgl			1JOF
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_03260	COG0230	J	Ribosomal protein L34	RpmH	Ribosome 50S subunit		6SPB
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_03270	COG0706	M	Membrane protein insertase Oxa1/YidC/SpoIIIJ	YidC			3WO6
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_03275	COG1847	R	Predicted RNA-binding protein Jag (SpoIIIJ-associated), conains KH and R3H domains	Jag			3GKU
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_03280	COG0673	R	Predicted dehydrogenase	MviM			3UUW
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_03305	COG2270	R	MFS-type transporter involved in bile tolerance, Atg22 family	BtlA		12583894	
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_03310	COG4555	CP	ABC-type Na+ transport system, ATPase component NatA	NatA			
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_03315	COG0845	MV	Multidrug efflux pump subunit AcrA (membrane-fusion protein)	AcrA			1T5E
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_03320	COG0577	V	ABC-type antimicrobial peptide transport system, permease component	SalY			
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_03325	COG4559	P	ABC-type hemin transport system, ATPase component				4G1U
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_03335	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_03345	COG4257	V	Streptogramin lyase	Vgb			
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_03355	COG0494	V	8-oxo-dGTP pyrophosphatase MutT and related house-cleaning NTP pyrophosphohydrolases, NUDIX family	MutT			4V14
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_03360	COG0346	Q	Catechol 2,3-dioxygenase or related enzyme, vicinal oxygen chelate (VOC) family	GloA		11830595	3R4Q
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_03365	COG1239	H	Mg-chelatase subunit ChlI	ChlI			1G8P
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_03370	COG1721	S	Uncharacterized conserved protein, DUF58 family, contains vWF domain	YeaD2			
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_03375	COG1305	O	Transglutaminase-like enzyme, putative cysteine protease	YebA			3ISR
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_03380	COG4105	M	Outer membrane protein assembly factor BamD, BamD/ComL family	BamD			2YHC
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_03435	COG1396	K	Transcriptional regulator, contains XRE-family HTH domain	HipB			1ADR
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_03450	COG1145	C	Ferredoxin	NapF			6FAH
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_03455	COG1032	R	Radical SAM superfamily enzyme YgiQ, UPF0313 family	YgiQ			6FD2
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_03475	COG1868	N	Flagellar motor switch protein FliM	FliM			2HP7
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_03485	COG0559	E	Branched-chain amino acid ABC-type transport system, permease component	LivH			
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_03490	COG4177	E	ABC-type branched-chain amino acid transport system, permease component	LivM			
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_03495	COG4598	E	ABC-type histidine transport system, ATPase component	HisP			1B0U
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_03500	COG1134	G	ABC-type polysaccharide/polyol phosphate transport system, ATPase component	TagH			6JBH
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_03505	COG0223	J	Methionyl-tRNA formyltransferase	Fmt			1FMT
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_03515	COG3284	K	Transcriptional regulator DhaR of acetoin/glycerol metabolism	AcoR			4LRX
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_03520	COG0745	TK	DNA-binding response regulator, OmpR family, contains REC and winged-helix (wHTH) domain	OmpR			1XHF
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_03525	COG4191	T	Signal transduction histidine kinase regulating C4-dicarboxylate transport system				4GCZ
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_03535	COG4398	T	Small ligand-binding sensory domain FIST	FIST		17855421	
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_03540	COG4398	T	Small ligand-binding sensory domain FIST	FIST		17855421	
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_03550	COG1123	O	ABC-type glutathione transport system ATPase component, contains duplicated ATPase domain	GsiA			
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_03555	COG2204	T	DNA-binding transcriptional response regulator, NtrC family, contains REC, AAA-type ATPase, and a Fis-type DNA-binding domains	AtoC			1ZY2
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_03560	COG4191	T	Signal transduction histidine kinase regulating C4-dicarboxylate transport system				4GCZ
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_03565	COG1957	F	Inosine-uridine nucleoside N-ribohydrolase	URH1	Pyrimidine salvage		1EZR
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_03575	COG3115	D	Cell division protein ZipA, interacts with FtsZ	ZipA			1F46
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_03585	COG1595	K	DNA-directed RNA polymerase specialized sigma subunit, sigma24 family	RpoE	RNA polymerase		2Q1Z
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_03595	COG0025	P	NhaP-type Na+/H+ or K+/H+ antiporter	NhaP			4CZB
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_03600	COG4668	G	Mannitol/fructose-specific phosphotransferase system, IIA domain	MtlA2			1A3A
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_03605	COG4552	R	Predicted acetyltransferase	Eis			2HV2
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_03610	COG1129	G	ABC-type sugar transport system, ATPase component	MglA			
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_03615	COG0842	V	ABC-type multidrug transport system, permease component	YadH			
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_03620	COG0842	V	ABC-type multidrug transport system, permease component	YadH			
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_03625	COG4989	R	Predicted oxidoreductase YdhF	YdhF			1UR3
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_03630	COG0667	HR	Pyridoxal reductase PdxI or related oxidoreductase, aldo/keto reductase family	PdxI		32253339	1LQA
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_03635	COG0707	M	UDP-N-acetylglucosamine:LPS N-acetylglucosamine transferase	MurG	Mureine biosynthesis		1F0K
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_03655	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_03660	COG1087	M	UDP-glucose 4-epimerase	GalE			1A9Y
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_03670	COG1226	P	Voltage-gated potassium channel Kch	Kch			3FWZ
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_03675	COG5215
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_03685	COG1246	E	N-acetylglutamate synthase or related acetyltransferase, GNAT family	ArgA	Arginine biosynthesis		2R98
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_03690	COG1893	H	Ketopantoate reductase	PanE	Pantothenate/CoA biosynthesis		1BG6
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_03695	COG1070	G	Sugar (pentulose or hexulose) kinase	XylB	Non-phosphorylated Entner-Doudoroff pathway		4C23
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_03700	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_03705	COG1192	DN	ParA-like ATPase involved in chromosome/plasmid partitioning or cellulose biosynthesis protein BcsQ	ParA			6NOO
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_03715	COG4231	C	TPP-dependent indolepyruvate ferredoxin oxidoreductase, alpha subunit	IorA			
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_03735	COG2878	C	Na+-translocating ferredoxin:NAD+ oxidoreductase RNF, RnfB subunit	RnfB	Na+-translocating Fd:NADH oxidoreductase	24045950	
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_03740	COG1143	C	Formate hydrogenlyase subunit 6/NADH:ubiquinone oxidoreductase 23 kD subunit (chain I)	NuoI	NADH dehydrogenase		1B0P
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_03750	COG4871	K	Metal-binding trascriptional regulator, contains Fe-S cluster and ArsR family DNA binding domain				
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_03755	COG0633	C	Ferredoxin	Fdx			1KRH
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_03760	COG1192	DN	ParA-like ATPase involved in chromosome/plasmid partitioning or cellulose biosynthesis protein BcsQ	ParA			6NOO
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_03780	COG1233	Q	Phytoene dehydrogenase-related protein				4REP
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_03785	COG1061	KL	Superfamily II DNA or RNA helicase	SSL2			6JDE
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_03795	COG0667	HR	Pyridoxal reductase PdxI or related oxidoreductase, aldo/keto reductase family	PdxI		32253339	1LQA
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_03800	COG5269
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_03810	COG3850	T	Signal transduction histidine kinase NarQ, nitrate/nitrite-specific	NarQ			
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_03815	COG4566	TK	DNA-binding response regulator, FixJ family, consists of REC and HTH domains	FixJ			1YIO
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_03820	COG2319	R	WD40 repeat	WD40			3UVN
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_03825	COG1087	M	UDP-glucose 4-epimerase	GalE			1A9Y
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_03830	COG0456	J	Ribosomal protein S18 acetylase RimI and related acetyltransferases	RimI			1GHE
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_03835	COG2080	C	Aldehyde, CO, or xanthine dehydrogenase, Fe-S subunit, CoxS/CutS family	CutS	Non-phosphorylated Entner-Doudoroff pathway	21175741	1FFU
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_03840	COG1529	C	Aldehyde, CO or xanthine dehydrogenase, Mo-binding subunit	CoxL	Non-phosphorylated Entner-Doudoroff pathway	10095793	1DGJ
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_03845	COG1319	C	Aldehyde, CO, or xanthine dehydrogenase, FAD-binding subunit	CutB	Non-phosphorylated Entner-Doudoroff pathway		5Y6Q
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_03855	COG1089	M	GDP-D-mannose dehydratase	Gmd			1DB3
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_03860	COG2130	QR	NADPH-dependent curcumin reductase CurA	CurA		21467222	1V3T
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_03865	COG0116	J	23S rRNA G2445 N2-methylase RlmL	RlmL	23S rRNA modification	22362734	3V97
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_03870	COG0724	J	RNA recognition motif (RRM) domain	RRM			1HL6
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_03880	COG0044	F	Dihydroorotase or related cyclic amidohydrolase	AllB	Pyrimidine biosynthesis		1J79
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_03885	COG0740	O	ATP-dependent protease ClpP, protease subunit	ClpP			1TG6
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_03890	COG1462	M	Curli biogenesis system outer membrane secretion channel CsgG	CsgG		24417346	3X2R
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_03895	COG1177	E	ABC-type spermidine/putrescine transport system, permease component II	PotC			
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_03910	COG0523	R	Zinc metallochaperone YeiR/ZagA and related GTPases, G3E family	YejR		19822009;31132310	1NIJ
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_03920	COG2334	T	Ser/Thr protein kinase RdoA involved in Cpx stress response, MazF antagonist	SrkA	Threonine biosynthesis		1ZYL
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_03925	COG3642	J	tRNA A-37 threonylcarbamoyl transferase component Bud32	Bud32	tRNA modification		2VWB
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_03930	COG4776	K	Exoribonuclease II	Rnb			2ID0
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_03935	COG3290	T	Sensor histidine kinase DipB regulating citrate/malate metabolism	CitA			
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_03950	COG0673	R	Predicted dehydrogenase	MviM			3UUW
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_03960	COG1249	C	Dihydrolipoamide dehydrogenase (E3) component of pyruvate/2-oxoglutarate dehydrogenase complex or glutathione oxidoreductase	Lpd	Glycine cleavagePyruvate oxidation		6QKG
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_03970	COG0331	I	Malonyl CoA-acyl carrier protein transacylase	FabD	Fatty acid biosynthesis		1YXC
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_03975	COG0304	IQ	3-oxoacyl-(acyl-carrier-protein) synthase	FabB	Fatty acid biosynthesis	21652641	2UV8
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_03980	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_03985	COG0332	I	3-oxoacyl-[acyl-carrier-protein] synthase III	FabH	Fatty acid biosynthesis		1UB7
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_03990	COG0447	H	1,4-Dihydroxy-2-naphthoyl-CoA synthase	MenB	Menaquinone biosynthesis		4ELS
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_03995	COG0447	H	1,4-Dihydroxy-2-naphthoyl-CoA synthase	MenB	Menaquinone biosynthesis		4ELS
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_04000	COG0300	R	Short-chain dehydrogenase	YqjQ			
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_04005	COG0236	I	Acyl carrier protein	AcpP	Fatty acid biosynthesis		1ACP
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_04010	COG0079	E	Histidinol-phosphate/aromatic aminotransferase or cobyric acid decarboxylase	HisC	Cobalamine/B12 biosynthesis		4R2N
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_04015	COG0764	I	3-hydroxymyristoyl/3-hydroxydecanoyl-(acyl carrier protein) dehydratase	FabA	Fatty acid biosynthesis		1MKA
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_04020	COG0304	IQ	3-oxoacyl-(acyl-carrier-protein) synthase	FabB	Fatty acid biosynthesis	21652641	2UV8
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_04040	COG0623	I	Enoyl-[acyl-carrier-protein] reductase FabI	FabI	Fatty acid biosynthesis		1C14
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_04045	COG2524	K	Predicted transcriptional regulator, contains C-terminal CBS domains				
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_04050	COG2334	T	Ser/Thr protein kinase RdoA involved in Cpx stress response, MazF antagonist	SrkA	Threonine biosynthesis		1ZYL
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_04055	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_04060	COG1920	H	2-phospho-L-lactate guanylyltransferase, coenzyme F420 biosynthesis enzyme, CobY/MobA/RfbA family				6BWH
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_04065	COG0568	K	DNA-directed RNA polymerase, sigma subunit (sigma70/sigma32)	RpoD	RNA polymerase		1SIG
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_04070	COG0739	M	Murein DD-endopeptidase MepM and murein hydrolase activator NlpD, contains LysM domain	NlpD			2GU1
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_04085	COG0760	O	Peptidyl-prolyl isomerase, parvulin family	SurA			2ZR5
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_04090	COG2604	S	Uncharacterized conserved protein				5MU5
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_04095	COG0050	J	Translation elongation factor EF-Tu, a GTPase	TufA	Translation factors		1EFU
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_04100	COG0793	O	C-terminal processing protease CtpA/Prc, contains a PDZ domain	CtpA			6IQU
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_04105	COG0465	O	ATP-dependent Zn proteases	HflB			1LV7
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_04115	COG0193	J	Peptidyl-tRNA hydrolase	Pth	Translation factors	11835511	1RYB
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_04135	COG0083	E	Homoserine kinase	ThrB	Threonine biosynthesis		1FWK
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_04145	COG0799	J	Ribosomal silencing factor RsfS, regulates association of 30S and 50S subunits	RsfS			6SJ6
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_04150	COG1316	M	Anionic cell wall polymer biosynthesis enzyme TagV/TagU,  LytR-Cps2A-Psr (LCP) family (peptidoglycan teichoic acid transferase)	Cps2a		29107701	2XXP
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_04155	COG0669	H	Phosphopantetheine adenylyltransferase	CoaD	Pantothenate/CoA biosynthesis		3F3M
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_04160	COG1163	J	Ribosome-interacting GTPase RBG1	Rbg1			4A9A
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_04165	COG0211	J	Ribosomal protein L27	RpmA	Ribosome 50S subunit		1VS6
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_04180	COG0492	O	Thioredoxin reductase	TrxB			3FBS
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_04185	COG0069	E	Glutamate synthase domain 2	GltB2	Glutamine biosynthesis		1EA0
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_04200	COG0119	E	Isopropylmalate/homocitrate/citramalate synthases	LeuA	Isoleucine, leucine, valine biosynthesis		4JN6
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_04205	COG1038	C	Pyruvate carboxylase	PycA	Urea cycle		5VYW
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_04210	COG0512	EH	Anthranilate/para-aminobenzoate synthase component II (glutamine amidotransferase)	PabA	Aromatic amino acid biosynthesis		1I1Q
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_04230	COG0533	J	tRNA A37 threonylcarbamoyltransferase TsaD	TsaD	tRNA modification	23072323;21285948;32385138	3ENO
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_04240	COG3413	R	Predicted transcriptional regulator, contains HTH domain	DmsR		15716436	
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_04245	COG3951	N	Rod binding protein domain	FlgJ1			
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_04250	COG1706	N	Flagellar basal body P-ring protein FlgI	FlgI			
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_04255	COG1261	N	Flagellar basal body P-ring formation protein FlgA	FlgA			3VJP
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_04260	COG1558	N	Flagellar basal body rod protein FlgC	FlgC			
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_04265	COG1749	N	Flagellar hook protein FlgE	FlgE			3A69
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_04280	COG0515	T	Serine/threonine protein kinase	SPS1			6G4J
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_04315	COG4870	O	Cysteine protease, C1A family				1AEC
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_04335	COG1091	M	dTDP-4-dehydrorhamnose reductase	RfbD			1KBZ
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_04340	COG1506	E	Dipeptidyl aminopeptidase/acylaminoacyl peptidase	DAP2			2JBW
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_04345	COG0535	DH	Radical SAM superfamily maturase, SkfB/NifB/PqqE family	SkfB		23282011	6Q2P
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_04355	COG0784	T	CheY-like REC (receiver) domain, includes chemotaxis protein CheY  and sporulation regulator Spo0F	CheY			6QRJ
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_04360	COG0784	T	CheY-like REC (receiver) domain, includes chemotaxis protein CheY  and sporulation regulator Spo0F	CheY			6QRJ
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_04365	COG3852	T	Signal transduction histidine kinase NtrB, nitrogen specific	NtrB		23893111	
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_04370	COG0845	MV	Multidrug efflux pump subunit AcrA (membrane-fusion protein)	AcrA			1T5E
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_04375	COG4170	V	ABC-type antimicrobial peptide export system, ATPase component SapD	SapD			
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_04380	COG4591	M	ABC-type transport system involved in lipoprotein release, permease component LolC	LolE			6F49
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_04385	COG0577	V	ABC-type antimicrobial peptide transport system, permease component	SalY			
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_04390	COG1538	M	Outer membrane protein TolC	TolC			1EK9
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_04395	COG1070	G	Sugar (pentulose or hexulose) kinase	XylB	Non-phosphorylated Entner-Doudoroff pathway		4C23
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_04400	COG1149	R	MinD superfamily P-loop ATPase, contains an inserted ferredoxin domain				
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_04405	COG1203	V	CRISPR-Cas type I system-associated endonuclease/helicase Cas3	Cas3	CRISPR-Cas system		
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_04415	COG0329	EM	4-hydroxy-tetrahydrodipicolinate synthase/N-acetylneuraminate lyase	DapA	Lysine biosynthesis	27574185	2R91
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_04420	COG1453	R	Predicted oxidoreductase of the aldo/keto reductase family				
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_04430	COG1940	GK	Sugar kinase of the NBD/HSP70 family, may contain an N-terminal HTH domain	NagC			1WOQ
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_04440	COG0210	L	Superfamily I DNA or RNA helicase	UvrD			6PPR
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_04445	COG2887	L	RecB family exonuclease	Slr0479			
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_04460	COG0597	MU	Lipoprotein signal peptidase	LspA			5DIR
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_04465	COG0327	H	Putative GTP cyclohydrolase 1 type 2, NIF3 family	NIF3	Folate biosynthesis	24435797;26385509	3SY1
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_04470	COG1186	J	Protein chain release factor PrfB	PrfB	Translation factors		1GQE
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_04475	COG0607	P	Rhodanese-related sulfurtransferase	PspE	Urea cycle		1TQ1
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_04480	COG1023	G	6-phosphogluconate dehydrogenase (decarboxylating)	YqeC			4E21
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_04495	COG0534	V	Na+-driven multidrug efflux pump, DinF/NorM/MATE family	NorM		29915058	3VVN
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_04510	COG4989	R	Predicted oxidoreductase YdhF	YdhF			1UR3
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_04515	COG4181	Q	Predicted ABC-type transport system involved in lysophospholipase L1 biosynthesis, ATPase component	YbbA			
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_04520	COG1575	H	1,4-dihydroxy-2-naphthoate polyprenyltransferase	MenA	Menaquinone biosynthesis		
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_04530	COG1595	K	DNA-directed RNA polymerase specialized sigma subunit, sigma24 family	RpoE	RNA polymerase		2Q1Z
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_04540	COG0372	C	Citrate synthase	GltA	TCA cycle	25211225	3TQG
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_04545	COG0492	O	Thioredoxin reductase	TrxB			3FBS
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_04550	COG0508	C	Pyruvate/2-oxoglutarate dehydrogenase complex, dihydrolipoamide acyltransferase (E2) component	AceF	Pyruvate oxidation		1B5S
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_04555	COG0022	C	Pyruvate/2-oxoglutarate/acetoin dehydrogenase complex, dehydrogenase (E1) component, beta subunit	AcoB	Pyruvate oxidation		2OZL
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_04560	COG1042	C	Acyl-CoA synthetase (NDP forming)	PatZN		26251518	4YAK
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_04565	COG0151	F	Phosphoribosylamine-glycine ligase	PurD	Purine biosynthesis		1GSO
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_04570	COG1150	C	Heterodisulfide reductase, subunit C	HdrC			5ODC
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_04575	COG1053	C	Succinate dehydrogenase/fumarate reductase, flavoprotein subunit	SdhA	TCA cycle		1KF6
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_04590	COG1032	R	Radical SAM superfamily enzyme YgiQ, UPF0313 family	YgiQ			6FD2
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_04620	COG1373	R	Predicted ATPase, AAA+ superfamily				
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_04625	COG2114	T	Adenylate cyclase, class 3	AcyC			1AB8
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_04630	COG2227	H	2-polyprenyl-3-methyl-5-hydroxy-6-metoxy-1,4-benzoquinol methylase	UbiG	Ubiquinone biosynthesis		1BHJ
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_04635	COG1344	N	Flagellin and related hook-associated protein FlgL	FlgL			1IO1
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_04640	COG1334	R	Uncharacterized conserved protein, FlaG/YvyC family	FlaG			2HC5
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_04660	COG0802	J	tRNA A37 threonylcarbamoyladenosine biosynthesis protein TsaE	TsaE	tRNA modification		1FL9
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_04665	COG0533	J	tRNA A37 threonylcarbamoyltransferase TsaD	TsaD	tRNA modification	23072323;21285948;32385138	3ENO
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_04675	COG1943	X	REP element-mobilizing transposase RayT	RAYT			4ER8
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_04685	COG1551	T	sRNA-binding carbon storage regulator CsrA	CsrA			1T3O
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_04700	COG1256	N	Flagellar hook-associated protein FlgK	FlgK			2D4Y
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_04715	COG0095	H	Lipoate-protein ligase A	LplA	Lipoate biosynthesis		4TVW
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_04720	COG1472	G	Periplasmic beta-glucosidase and related glycosidases	BglX			2X40
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_04725	COG3393	R	Predicted acetyltransferase, GNAT family				
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_04735	COG0513	L	Superfamily II DNA and RNA helicase	SrmB			3RRM
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_04750	COG0062	F	NAD(P)H-hydrate repair enzyme Nnr, NAD(P)H-hydrate epimerase domain	Nnr1			3RRB
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_04760	COG3318	S	Uncharacterized conserved protein YecA, UPF0149 family, contains C-terminal Zn-binding SEC-C motif	YecA			
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_04770	COG4942	D	Septal ring factor EnvC, activator of murein hydrolases AmiA and AmiB	EnvC			
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_04775	COG0681	U	Signal peptidase I	LepB		1925027	1B12
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_04780	COG0744	M	Penicillin-binding protein 1B/1F, peptidoglycan  transglycosylase/transpeptidase	MrcB			3FWL
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_04790	COG1022	I	Long-chain acyl-CoA synthetase (AMP-forming)	FAA1			
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_04795	COG1541	H	Phenylacetate-coenzyme A ligase PaaK, adenylate-forming domain family	PaaK			2Y4O
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_04800	COG4145	H	Na+/panthothenate symporter	PanF			
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_04810	COG3424	Q	Predicted naringenin-chalcone synthase	BH0617			1BI5
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_04820	COG2972	T	Sensor histidine kinase YesM	YesM			
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_04840	COG0568	K	DNA-directed RNA polymerase, sigma subunit (sigma70/sigma32)	RpoD	RNA polymerase		1SIG
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_04850	COG2894	D	Septum site-determining ATPase MinD	MinD			4V02
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_04855	COG0552	U	Signal recognition particle GTPase FtsY	FtsY			4AK9
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_04860	COG1298	N	Flagellar biosynthesis protein FlhA	FlhA			6AI0
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_04865	COG2257	U	Type III secretion system substrate exporter, FlhB-like	YlqH			
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_04870	COG4791	U	Type III secretory pathway, EscT/YscT component	EscT			6R6B
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_04875	COG1987	N	Flagellar biosynthesis protein FliQ	FliQ			6F2D
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_04880	COG1338	N	Flagellar biosynthesis protein FliP	FliP			5H72
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_04890	COG1776	T	Phosphoaspartate phosphatase CheC, specific for CheY-P	CheC			2F9Z
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_04895	COG1868	N	Flagellar motor switch protein FliM	FliM			2HP7
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_04905	COG2885	M	Outer membrane protein OmpA and related peptidoglycan-associated (lipo)proteins	OmpA			1OAP
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_04910	COG1291	N	Flagellar motor component MotA	MotA			
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_04920	COG4787	N	Flagellar basal body rod protein FlgF	FlgF			
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_04930	COG3144	N	Flagellar hook-length control protein FliK	FliK			2RRL
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_04945	COG1158	K	Transcription termination factor Rho	Rho			1PVO
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_04955	COG1536	N	Flagellar motor switch protein FliG	FliG			4FHR
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_04960	COG4669	U	Type III secretory pathway, lipoprotein EscJ	EscJ			1YJ7
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_04970	COG4786	N	Flagellar basal body rod protein FlgG	FlgG			6JZR
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_04975	COG1749	N	Flagellar hook protein FlgE	FlgE			3A69
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_04980	COG1220	O	ATP-dependent protease HslVU (ClpYQ), ATPase subunit HslU	HslU			1DO0
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_04985	COG0638	O	20S proteasome, alpha and beta subunits	PRE1			1FNT
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_04990	COG0582	LX	Integrase/recombinase, includes phage integrase	FimB			
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_04995	COG0550	L	DNA topoisomerase IA	TopA			1CY0
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_05000	COG0758	L	Predicted Rossmann fold nucleotide-binding protein DprA/Smf involved in DNA uptake	Smf			3MAJ
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_05005	COG3063	NW	Type IV pilus assembly protein PilF/PilW	PilF		16403447	2VQ2
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_05010	COG0582	LX	Integrase/recombinase, includes phage integrase	FimB			
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_05015	COG0206	D	Cell division GTPase FtsZ	FtsZ			1FSZ
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_05020	COG4972	NW	Type IV pilus assembly protein, ATPase PilM	PilM			2YCH
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_05025	COG1589	D	Cell division septal protein FtsQ	FtsQ			1YR1
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_05030	COG0772	D	Peptodoglycan polymerase FtsW/RodA/SpoVE	FtsW		30692671	6BAR
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_05035	COG0472	M	UDP-N-acetylmuramyl pentapeptide phosphotransferase/UDP-N-acetylglucosamine-1-phosphate transferase	Rfe	Mureine biosynthesis		4J72
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_05040	COG0771	M	UDP-N-acetylmuramoylalanine-D-glutamate ligase	MurD	Mureine biosynthesis		1E0D
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_05055	COG5317	S	Uncharacterized conserved protein, DUF1465 domain				3CTW
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_05070	COG3000	I	Sterol desaturase/sphingolipid hydroxylase, fatty acid hydroxylase superfamily	ERG3			4ZR0
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_05075	COG5000	T	Signal transduction histidine kinase NtrY involved in nitrogen fixation and metabolism regulation	NtrY			
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_05080	COG2204	T	DNA-binding transcriptional response regulator, NtrC family, contains REC, AAA-type ATPase, and a Fis-type DNA-binding domains	AtoC			1ZY2
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_05085	COG0225	O	Peptide methionine sulfoxide reductase MsrA	MsrA			1FF3
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_05100	COG0457	R	Tetratricopeptide (TPR) repeat	TPR			3AS4
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_05110	COG0793	O	C-terminal processing protease CtpA/Prc, contains a PDZ domain	CtpA			6IQU
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_05125	COG1062	C	Zn-dependent alcohol/formaldehyde dehydrogenase	FrmA			1A71
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_05135	COG4801	R	Predicted acyltransferase, contains DUF342 domain				
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_05140	COG0407	H	Uroporphyrinogen-III decarboxylase HemE	HemE	Heme biosynthesis		2DG5
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_05145	COG2407	G	L-fucose isomerase or related protein	FucI		22865846	1FUI
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_05165	COG1733	K	DNA-binding transcriptional regulator, HxlR family	HxlR			1YYV
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_05170	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_05175	COG2159	G	5-carboxyvanillate decarboxylase LigW (lignin degradation), amidohydro domain	LigW		26714575	2DVT
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_05180	COG0623	I	Enoyl-[acyl-carrier-protein] reductase FabI	FabI	Fatty acid biosynthesis		1C14
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_05185	COG5001	T	Cyclic di-GMP metabolism protein, combines GGDEF and EAL domains with a 6TM membrane domain				
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_05200	COG1087	M	UDP-glucose 4-epimerase	GalE			1A9Y
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_05205	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_05215	COG0656	Q	Aldo/keto reductase, related to diketogulonate reductase	ARA1			1Q13
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_05225	COG0368	H	Cobalamin synthase CobS (adenosylcobinamide-GDP ribazoletransferase)	CobS	Cobalamine/B12 biosynthesis	31481610	
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_05235	COG0620	E	Methionine synthase II (cobalamin-independent)	MetE	Methionine biosynthesis		1T7L
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_05240	COG0685	E	5,10-methylenetetrahydrofolate reductase	MetF			1B5T
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_05245	COG0685	E	5,10-methylenetetrahydrofolate reductase	MetF			1B5T
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_05250	COG0042	J	tRNA-dihydrouridine synthase	DusA	tRNA modification		1VHN
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_05255	COG1018	C	Flavodoxin/ferredoxin--NADP reductase	Fpr			3OZU
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_05275	COG1534	J	RNA-binding protein YhbY	YhbY			1JO0
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_05280	COG0117	H	Riboflavin biosynthesis protein RibD, pyrimidine deaminase domain	RibD1	Riboflavin/FAD biosynthesis		2O7P
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_05290	COG0524	G	Sugar or nucleoside kinase, ribokinase family	RbsK	Glycolysis		2QCV
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_05295	COG0205	G	6-phosphofructokinase	PfkA	Glycolysis		1KZH
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_05305	COG1085	G	Galactose-1-phosphate uridylyltransferase	GalT			1GUP
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_05310	COG0484	O	DnaJ-class molecular chaperone with C-terminal Zn finger domain	DnaJ			1BQ0
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_05325	COG5660	T	Anti-sigma-YlaC factor YlaD, contains Zn-finger domain	YlaD		16501307	
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_05335	COG1593	G	TRAP-type C4-dicarboxylate transport system, large permease component	DctQ			
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_05340	COG0800	G	2-keto-3-deoxy-6-phosphogluconate aldolase	Eda	Entner-Doudoroff pathway		2V81
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_05345	COG0673	R	Predicted dehydrogenase	MviM			3UUW
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_05350	COG0439	I	Biotin carboxylase	AccC	Fatty acid biosynthesis		1BNC
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_05365	COG0673	R	Predicted dehydrogenase	MviM			3UUW
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_05370	COG0173	J	Aspartyl-tRNA synthetase	AspS	Aminoacyl-tRNA synthetases		1C0A
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_05375	COG3001	G	Fructosamine-3-kinase	FN3K			3F7W
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_05380	COG1472	G	Periplasmic beta-glucosidase and related glycosidases	BglX			2X40
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_05390	COG3426	C	Butyrate kinase	Buk			1SAZ
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_05400	COG0812	M	UDP-N-acetylenolpyruvoylglucosamine reductase	MurB	Mureine biosynthesis		2MBR
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_05405	COG0215	J	Cysteinyl-tRNA synthetase	CysS	Aminoacyl-tRNA synthetases		1LI5
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_05410	COG4941	K	Predicted RNA polymerase sigma factor, contains C-terminal TPR domain				
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_05425	COG1305	O	Transglutaminase-like enzyme, putative cysteine protease	YebA			3ISR
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_05435	COG0664	T	cAMP-binding domain of CRP or a regulatory subunit of cAMP-dependent protein kinases	Crp			1FT9
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_05445	COG0457	R	Tetratricopeptide (TPR) repeat	TPR			3AS4
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_05450	COG5022
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_05460	COG2208	TK	Phosphoserine phosphatase RsbU, regulator of sigma subunit	RsbU			5UCG
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_05490	COG0526	O	Thiol-disulfide isomerase or thioredoxin	TrxA			1XFL
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_05495	COG1266	O	Membrane protease YdiL, CAAX protease family	YdiL			
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_05500	COG5581	N	Cyclic di-GMP-binding flagellar brake protein FlgZ/YcgR, contains PilZNR(YcgR) and PilZ domains	YcgR			5Y6F
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_05510	COG0658	U	DNA uptake channel protein ComEC, N-terminal domain	ComEC			
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_05515	COG3963	I	Phosphatidylethanolamine N-methyltransferase				
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_05530	COG0329	EM	4-hydroxy-tetrahydrodipicolinate synthase/N-acetylneuraminate lyase	DapA	Lysine biosynthesis	27574185	2R91
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_05540	COG2084	I	3-hydroxyisobutyrate dehydrogenase or related beta-hydroxyacid dehydrogenase	MmsB			1I36
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_05550	COG0457	R	Tetratricopeptide (TPR) repeat	TPR			3AS4
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_05570	COG0582	LX	Integrase/recombinase, includes phage integrase	FimB			
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_05605	COG3747	X	Phage terminase, small subunit				
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_05630	COG0784	T	CheY-like REC (receiver) domain, includes chemotaxis protein CheY  and sporulation regulator Spo0F	CheY			6QRJ
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_05640	COG1511	S	Uncharacterized membrane protein YhgE, phage infection protein (PIP) family	YhgE			
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_05645	COG0643	T	Chemotaxis protein histidine kinase CheA	CheA			1B3Q
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_05650	COG3290	T	Sensor histidine kinase DipB regulating citrate/malate metabolism	CitA			
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_05655	COG0784	T	CheY-like REC (receiver) domain, includes chemotaxis protein CheY  and sporulation regulator Spo0F	CheY			6QRJ
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_05660	COG3413	R	Predicted transcriptional regulator, contains HTH domain	DmsR		15716436	
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_05665	COG2358	R	TRAP-type uncharacterized transport system, periplasmic component	Imp			1US4
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_05675	COG1177	E	ABC-type spermidine/putrescine transport system, permease component II	PotC			
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_05680	COG1178	P	ABC-type Fe3+ transport system, permease component	FbpB			
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_05695	COG4221	C	NADP-dependent 3-hydroxy acid dehydrogenase YdfG	YdfG	Pyrimidine degradation		3P19
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_05700	COG2334	T	Ser/Thr protein kinase RdoA involved in Cpx stress response, MazF antagonist	SrkA	Threonine biosynthesis		1ZYL
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_05705	COG1670	JO	Protein N-acetyltransferase, RimJ/RimL family	RimL			1S7F
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_05710	COG3288	C	NAD/NADP transhydrogenase alpha subunit	PntA			1F8G
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_05715	COG2608	P	Copper chaperone CopZ	CopZ			1AFI
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_05725	COG2227	H	2-polyprenyl-3-methyl-5-hydroxy-6-metoxy-1,4-benzoquinol methylase	UbiG	Ubiquinone biosynthesis		1BHJ
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_05735	COG4115	V	Toxin component of the Txe-Axe toxin-antitoxin module, Txe/YoeB family				2A6Q
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_05740	COG2814	G	Predicted arabinose efflux permease AraJ, MFS family	AraJ			4LDS
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_05750	COG1360	N	Flagellar motor protein MotB	MotB			
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_05765	COG1239	H	Mg-chelatase subunit ChlI	ChlI			1G8P
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_05770	COG1721	S	Uncharacterized conserved protein, DUF58 family, contains vWF domain	YeaD2			
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_05775	COG1305	O	Transglutaminase-like enzyme, putative cysteine protease	YebA			3ISR
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_05785	COG0177	L	Endonuclease III	Nth			4UOB
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_05790	COG0123	Q	Acetoin utilization deacetylase AcuC or a related deacetylase	AcuC			1C3P
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_05795	COG0162	J	Tyrosyl-tRNA synthetase	TyrS	Aminoacyl-tRNA synthetases		4OUD
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_05805	COG2407	G	L-fucose isomerase or related protein	FucI		22865846	1FUI
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_05810	COG1869	G	D-ribose pyranose/furanose isomerase RbsD	RbsD			1OGC
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_05815	COG1045	E	Serine acetyltransferase	CysE	Cysteine biosynthesis		1T3D
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_05820	COG2204	T	DNA-binding transcriptional response regulator, NtrC family, contains REC, AAA-type ATPase, and a Fis-type DNA-binding domains	AtoC			1ZY2
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_05825	COG0554	C	Glycerol kinase	GlpK			2ZF5
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_05840	COG1064	G	D-arabinose 1-dehydrogenase, Zn-dependent alcohol dehydrogenase family	AdhP			5O8Q
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_05845	COG0300	R	Short-chain dehydrogenase	YqjQ			
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_05850	COG0613	F	5'-3' exoribonuclease TrpH/YciV (RNase AM), contains PHP domain	YciV		25871919	3E0F
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_05855	COG1154	HI	Deoxyxylulose-5-phosphate synthase	Dxs	Pyridoxal phosphate biosynthesis		2O1S
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_05860	COG0446	I	NADPH-dependent 2,4-dienoyl-CoA reductase, sulfur reductase, or a related oxidoreductase	FadH2			1VRQ
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_05865	COG0508	C	Pyruvate/2-oxoglutarate dehydrogenase complex, dihydrolipoamide acyltransferase (E2) component	AceF	Pyruvate oxidation		1B5S
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_05870	COG2345	K	Predicted transcriptional regulator, ArsR family				
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_05880	COG1268	H	Biotin transporter BioY	BioY			4DVE
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_05885	COG0488	R	ATPase components of ABC transporters with duplicated ATPase domains	Uup			5ZXD
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_05890	COG0619	H	ECF-type transporter transmembrane protein EcfT	EcfT			4HZU
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_05895	COG4615	P	ABC-type siderophore export system, fused ATPase and permease components	PvdE			
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_05900	COG1177	E	ABC-type spermidine/putrescine transport system, permease component II	PotC			
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_05905	COG1840	P	ABC-type Fe3+ transport system, periplasmic component	AfuA			6IVY
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_05910	COG0320	H	Lipoate synthase	LipA	Lipoate biosynthesis	27941785	4U0O
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_05915	COG1149	R	MinD superfamily P-loop ATPase, contains an inserted ferredoxin domain				
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_05920	COG0367	E	Asparagine synthetase B (glutamine-hydrolyzing)	AsnB	Asparagine biosynthesis	25951518	2ETD
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_05925	COG2204	T	DNA-binding transcriptional response regulator, NtrC family, contains REC, AAA-type ATPase, and a Fis-type DNA-binding domains	AtoC			1ZY2
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_05930	COG4191	T	Signal transduction histidine kinase regulating C4-dicarboxylate transport system				4GCZ
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_05940	COG1243	J	tRNA U34 5-carboxymethylaminomethylation enzyme Elp3 (RNA elongator complex protein 3), contains radical SAM and acetyltransferase domains	ELP3		25151136;27455459	6IA8
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_05945	COG0673	R	Predicted dehydrogenase	MviM			3UUW
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_05955	COG0460	E	Homoserine dehydrogenase	ThrA	Methionine biosynthesis	29124164	5AVO
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_05960	COG3622	G	Hydroxypyruvate/dehydroerythronate isomerase, Hyi/OtnI family	Hyi		27402745	1K77
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_05965	COG0656	Q	Aldo/keto reductase, related to diketogulonate reductase	ARA1			1Q13
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_05975	COG2008	E	Threonine aldolase	GLY1			4LNJ
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_05980	COG1874	G	Beta-galactosidase GanA	GanA			1KWG
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_05990	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_06000	COG0407	H	Uroporphyrinogen-III decarboxylase HemE	HemE	Heme biosynthesis		2DG5
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_06005	COG0388	C	Omega-amidase YafV/Nit2, hydrolyzes alpha-ketoglutaramate	Nit2		28373563	
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_06010	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_06035	COG0457	R	Tetratricopeptide (TPR) repeat	TPR			3AS4
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_06045	COG0322	L	Excinuclease UvrABC, nuclease subunit	UvrC		24513124	2NRT
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_06050	COG3568	R	Metal-dependent hydrolase, endonuclease/exonuclease/phosphatase family	ElsH		15178340	
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_06055	COG1169	HQ	Isochorismate synthase EntC	MenF	Menaquinone biosynthesis		5JXZ
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_06065	COG1221	KT	Transcriptional regulators containing an AAA-type ATPase domain and a DNA-binding domain	PspF			
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_06070	COG1974	KT	SOS-response transcriptional repressor LexA (RecA-mediated autopeptidase)	LexA			1AY9
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_06075	COG0784	T	CheY-like REC (receiver) domain, includes chemotaxis protein CheY  and sporulation regulator Spo0F	CheY			6QRJ
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_06080	COG2205	T	K+-sensing histidine kinase KdpD	KdpD			2KSF
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_06105	COG1508	K	DNA-directed RNA polymerase specialized sigma subunit, sigma54 homolog	RpoN	RNA polymerase		5BYH
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_06110	COG4172	Q	ABC-type microcin C transport system, duplicated ATPase component YejF	YejF		17873039	
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_06125	COG1259	R	Bifunctional DNase/RNase			20018603	1SJ5
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_06150	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_06155	COG0691	O	tmRNA-binding protein	SmpB		26251518	1J1H
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_06165	COG0681	U	Signal peptidase I	LepB		1925027	1B12
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_06170	COG4959	OU	Type IV secretory pathway, protease TraF	TraF			1B12
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_06175	COG1032	R	Radical SAM superfamily enzyme YgiQ, UPF0313 family	YgiQ			6FD2
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_06185	COG0217	KJ	Transcriptional and/or translational regulatory protein YebC/TACO1	TACO1			1KON
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_06195	COG0632	L	Holliday junction resolvasome RuvABC DNA-binding subunit	RuvA			1BDX
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_06200	COG2256	L	Replication-associated recombination protein RarA (DNA-dependent ATPase)	RarA			3PVS
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_06205	COG0809	J	S-adenosylmethionine:tRNA-ribosyltransferase-isomerase (queuine synthetase)	QueA	tRNA modification		1VKY
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_06215	COG1428	F	Deoxyadenosine/deoxycytidine kinase	Dck			1J90
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_06220	COG2911	U	Autotransporter translocation and assembly protein TamB	TamB			5VTG
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_06225	COG0729	M	Outer membrane translocation and assembly module TamA	TamA			4BZA
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_06235	COG0249	L	DNA mismatch repair ATPase MutS	MutS			1E3M
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_06245	COG0779	J	Ribosome maturation factor RimP	RimP			1IB8
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_06250	COG0539	J	Ribosomal protein S1	RpsA	Ribosome 30S subunit		4NNH
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_06255	COG0480	J	Translation elongation factor EF-G, a GTPase	FusA	Translation factors		1DAR
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_06260	COG0858	J	Ribosome-binding factor RbfA	RbfA			1JOS
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_06275	COG1185	J	Polyribonucleotide nucleotidyltransferase (polynucleotide phosphorylase)	Pnp			1E3P
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_06280	COG0717	F	dCTP deaminase	Dcd	Thymidylate biosynthesis		1XS1
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_06285	COG0795	MN	Lipopolysaccharide export LptBFGC system, permease protein LptF	LptF			6S8H
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_06295	COG0343	J	Queuine/archaeosine tRNA-ribosyltransferase	Tgt	tRNA modification	15805528	1XW8
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_06300	COG0534	V	Na+-driven multidrug efflux pump, DinF/NorM/MATE family	NorM		29915058	3VVN
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_06305	COG1413	R	HEAT repeat	HEAT			1OYZ
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_06310	COG2425	S	Uncharacterized conserved protein, contains a von Willebrand factor type A (vWA) domain	ViaA			
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_06320	COG0457	R	Tetratricopeptide (TPR) repeat	TPR			3AS4
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_06325	COG0269	G	3-keto-L-gulonate-6-phosphate decarboxylase	UlaD			3F4W
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_06330	COG1729	D	Cell division protein CpoB, coordinates peptidoglycan biosynthesis and outer membrane constriction	CpoB		25951518	2WZ7
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_06340	COG3071	S	Uncharacterized protein HemY, contains HemY_N domain and TPR repeats (unrelated to protoporphyrinogen oxidase HemY)	HemYx			
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_06350	COG1484	L	DNA replication protein DnaC	DnaC			2QGZ
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_06355	COG0801	H	7,8-dihydro-6-hydroxymethylpterin pyrophosphokinase (folate biosynthesis)	FolK	Folate biosynthesis		1CBK
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_06365	COG1386	K	Chromosome segregation and condensation protein ScpB	ScpB			1T6S
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_06370	COG0564	J	Pseudouridine synthase RluA, 23S rRNA- or tRNA-specific	RluA	23S rRNA modification		2I82
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_06375	COG1102	F	Cytidylate kinase	CmkB			
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_06380	COG1185	J	Polyribonucleotide nucleotidyltransferase (polynucleotide phosphorylase)	Pnp			1E3P
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_06385	COG2203	T	GAF domain	GAF			
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_06390	COG1729	D	Cell division protein CpoB, coordinates peptidoglycan biosynthesis and outer membrane constriction	CpoB		25951518	2WZ7
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_06395	COG4252	T	Extracytoplasmic sensor domain CHASE2 (specificity unknown)	CHASE2			
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_06410	COG1694	V	NTP pyrophosphatase, house-cleaning of non-canonical NTPs	MazG			1VMG
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_06415	COG5011	S	Uncharacterized conserved protein, DUF2344 family				
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_06420	COG0772	D	Peptodoglycan polymerase FtsW/RodA/SpoVE	FtsW		30692671	6BAR
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_06425	COG0768	DM	Cell division protein FtsI, peptidoglycan transpeptidase (Penicillin-binding protein 2)	FtsI			6HZQ
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_06435	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_06440	COG0443	O	Molecular chaperone DnaK (HSP70)	DnaK			3I33
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_06445	COG0457	R	Tetratricopeptide (TPR) repeat	TPR			3AS4
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_06455	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_06460	COG0568	K	DNA-directed RNA polymerase, sigma subunit (sigma70/sigma32)	RpoD	RNA polymerase		1SIG
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_06465	COG0358	L	DNA primase (bacterial type)	DnaG		28128549	3B39
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_06475	COG2885	M	Outer membrane protein OmpA and related peptidoglycan-associated (lipo)proteins	OmpA			1OAP
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_06480	COG1235	P	Phosphoribosyl 1,2-cyclic phosphate phosphodiesterase	PhnP			6B9V
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_06495	COG2814	G	Predicted arabinose efflux permease AraJ, MFS family	AraJ			4LDS
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_06515	COG3852	T	Signal transduction histidine kinase NtrB, nitrogen specific	NtrB		23893111	
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_06520	COG3706	TK	Two-component response regulator, PleD family, consists of two REC domains and a diguanylate cyclase (GGDEF) domain	PleD			1W25
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_06525	COG0488	R	ATPase components of ABC transporters with duplicated ATPase domains	Uup			5ZXD
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_06545	COG3005	C	Tetraheme cytochrome c subunit NapC of nitrate or TMAO reductase	NapC			
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_06550	COG4263	P	Nitrous oxide reductase	NosZ			1FWX
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_06555	COG0348	C	Polyferredoxin NapH	NapH		27322068	
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_06560	COG1622	C	Heme/copper-type cytochrome/quinol oxidase, subunit 2	CyoA			1CYW
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_06570	COG2180	CPO	Nitrate reductase assembly protein NarJ, required for insertion of molybdenum cofactor	NarJ			
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_06575	COG1142	C	Fe-S-cluster-containing hydrogenase component 2	HycB			
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_06580	COG5013	CP	Nitrate reductase alpha subunit	NarG			1Q16
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_06585	COG1703	O	GTPase of the G3E family (not a periplasmic protein kinase)	ArgK		18950999	2QM7
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_06595	COG1225	O	Peroxiredoxin	Bcp			5IPH
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_06610	COG1305	O	Transglutaminase-like enzyme, putative cysteine protease	YebA			3ISR
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_06615	COG1622	C	Heme/copper-type cytochrome/quinol oxidase, subunit 2	CyoA			1CYW
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_06620	COG2896	H	GTP 3',8-cyclase (molybdenum cofactor biosynthesis protein MoaA)	MoaA	Molybdopterin biosynthesis		1TV7
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_06645	COG5426	R	Uncharacterized protein STM3548, contains class I glutamine amidotransferase domain			17968677	2GK3
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_06650	COG3899	R	Predicted ATPase				
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_06665	COG1880	C	CO dehydrogenase/acetyl-CoA synthase epsilon subunit	CdhB			1YTL
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_06670	COG0460	E	Homoserine dehydrogenase	ThrA	Methionine biosynthesis	29124164	5AVO
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_06675	COG0008	J	Glutamyl- or glutaminyl-tRNA synthetase	GlnS	Heme biosynthesis		1EUQ
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_06680	COG0423	J	Glycyl-tRNA synthetase, class II	GRS1	Aminoacyl-tRNA synthetases		2PME
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_06685	COG0162	J	Tyrosyl-tRNA synthetase	TyrS	Aminoacyl-tRNA synthetases		4OUD
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_06690	COG0008	J	Glutamyl- or glutaminyl-tRNA synthetase	GlnS	Heme biosynthesis		1EUQ
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_06695	COG3199	F	NAD kinase				
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_06705	COG3899	R	Predicted ATPase				
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_06720	COG0031	E	Cysteine synthase	CysK	Cysteine biosynthesis		1FCJ
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_06725	COG3884	I	Acyl-ACP thioesterase	FatA			2ESS
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_06735	COG2843	M	Poly-gamma-glutamate biosynthesis protein CapA/YwtB (capsule formation), metallophosphatase superfamily	CapA			
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_06740	COG3706	TK	Two-component response regulator, PleD family, consists of two REC domains and a diguanylate cyclase (GGDEF) domain	PleD			1W25
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_06750	COG0595	J	mRNA degradation ribonuclease J1/J2	RnjA			3T3N
+Spirochaetales_bacterium_ARS1246	GCA_002688185.1	HFBBOL_06755	COG3434	T	c-di-GMP phosphodiesterase YuxH/PdeH, contains EAL and HDOD domains	YuxH		23893111	

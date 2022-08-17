@@ -1,0 +1,995 @@
+#prefix	assemid	query	COG	category	name	Gene	pathway	pmid	pdb_id
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_00010	COG1095	K	DNA-directed RNA polymerase, subunit E'/Rpb7	RPB7	RNA polymerase		1NT9
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_00015	COG5349	S	Uncharacterized conserved protein, DUF983 family				
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_00020	COG0267	J	Ribosomal protein L33	RpmG	Ribosome 50S subunit		1VS6
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_00030	COG1190	J	Lysyl-tRNA synthetase (class II)	LysU	Aminoacyl-tRNA synthetases		1BBU
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_00040	COG0593	L	Chromosomal replication initiation ATPase DnaA	DnaA			1L8Q
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_00050	COG0309	O	Carbamoyl dehydratase HypE (hydrogenase maturation factor)	HypE		28618091	2I6R
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_00055	COG0788	F	Formyltetrahydrofolate hydrolase	PurU	Purine biosynthesis		3O1L
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_00065	COG0105	F	Nucleoside diphosphate kinase	Ndk	Pyrimidine biosynthesis		1B4S
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_00070	COG2927	L	DNA polymerase III, chi subunit	HolC			1EM8
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_00075	COG0260	E	Leucyl aminopeptidase	PepB		19553197;23825549	3H8E
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_00085	COG0795	MN	Lipopolysaccharide export LptBFGC system, permease protein LptF	LptF			6S8H
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_00090	COG1934	M	Lipopolysaccharide export system protein LptA	LptA			2R19
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_00095	COG0760	O	Peptidyl-prolyl isomerase, parvulin family	SurA			2ZR5
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_00105	COG3963	I	Phosphatidylethanolamine N-methyltransferase				
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_00110	COG0030	J	16S rRNA A1518 and A1519 N6-dimethyltransferase RsmA/KsgA/DIM1 (may also have DNA glycosylase/AP lyase activity)	RsmA	16S rRNA modification		1QYR
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_00115	COG0802	J	tRNA A37 threonylcarbamoyladenosine biosynthesis protein TsaE	TsaE	tRNA modification		1FL9
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_00125	COG0304	IQ	3-oxoacyl-(acyl-carrier-protein) synthase	FabB	Fatty acid biosynthesis	21652641	2UV8
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_00130	COG0236	I	Acyl carrier protein	AcpP	Fatty acid biosynthesis		1ACP
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_00135	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_00140	COG0331	I	Malonyl CoA-acyl carrier protein transacylase	FabD	Fatty acid biosynthesis		1YXC
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_00145	COG0360	J	Ribosomal protein S6	RpsF	Ribosome 30S subunit		4V4H
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_00150	COG0238	J	Ribosomal protein S18	RpsR	Ribosome 30S subunit		4V4H
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_00160	COG0359	J	Ribosomal protein L9	RplI	Ribosome 50S subunit	27112601	1VS6
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_00165	COG0530	P	Ca2+/Na+ antiporter	ECM27			3V5S
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_00170	COG0305	L	Replicative DNA helicase	DnaB			1B79
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_00175	COG0767	M	Permease subunit MlaE of the ABC-type intermembrane phospholipid transporter Mla	MlaE			6IC4
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_00180	COG4619	P	ABC-type iron transporter FetAB, ATPase component	FetA			
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_00190	COG0367	E	Asparagine synthetase B (glutamine-hydrolyzing)	AsnB	Asparagine biosynthesis	25951518	2ETD
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_00195	COG3383	R	Predicted molibdopterin-dependent oxidoreductase YjgC	YjgC			1AA6
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_00200	COG1005	C	NADH:ubiquinone oxidoreductase subunit 1 (chain H)	NuoH	NADH dehydrogenase		6HUM
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_00205	COG1149	R	MinD superfamily P-loop ATPase, contains an inserted ferredoxin domain				
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_00215	COG0713	C	NADH:ubiquinone oxidoreductase subunit 11 or 4L (chain K)	NuoK	NADH dehydrogenase		4HE8
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_00220	COG1009	C	Membrane H+-translocase/NADH:ubiquinone oxidoreductase subunit 5 (chain L)/Multisubunit Na+/H+ antiporter, MnhA subunit	NuoL	NADH dehydrogenase		3RKO
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_00225	COG1008	C	NADH:ubiquinone oxidoreductase subunit 4 (chain M)	NuoM	NADH dehydrogenase		6HUM
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_00230	COG1008	C	NADH:ubiquinone oxidoreductase subunit 4 (chain M)	NuoM	NADH dehydrogenase		6HUM
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_00235	COG0340	H	Biotin-(acetyl-CoA carboxylase) ligase	BirA2	Biotin biosynthesis	32188788	1BIA
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_00240	COG1521	H	Pantothenate kinase type III	CoaX			2F9T
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_00245	COG1236	J	RNA processing exonuclease, beta-lactamase fold, Cft2 family	YSH1			2DKF
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_00250	COG0346	Q	Catechol 2,3-dioxygenase or related enzyme, vicinal oxygen chelate (VOC) family	GloA		11830595	3R4Q
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_00255	COG0441	J	Threonyl-tRNA synthetase	ThrS	Aminoacyl-tRNA synthetases		1NYQ
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_00260	COG0577	V	ABC-type antimicrobial peptide transport system, permease component	SalY			
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_00265	COG4987	CO	ABC-type transport system involved in cytochrome bd biosynthesis, fused ATPase and permease components	CydC			
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_00270	COG2176	L	DNA polymerase III, alpha subunit (gram-positive type)	PolC			
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_00275	COG2984	R	ABC-type uncharacterized transport system, periplasmic component				3LFT
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_00280	COG0264	J	Translation elongation factor EF-Ts	Tsf	Translation factors		1EFU
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_00285	COG0528	F	Uridylate kinase	PyrH	Pyrimidine biosynthesis		2BND
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_00290	COG0233	J	Ribosome recycling factor	Frr			1DD5
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_00295	COG0020	I	Undecaprenyl pyrophosphate synthase	UppS			1X07
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_00300	COG4589	R	Predicted CDP-diglyceride synthetase/phosphatidate cytidylyltransferase	YnbB			
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_00310	COG0265	O	Periplasmic serine protease, S1-C subfamily, contain C-terminal PDZ domain	DegQ		29686141	2HGA
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_00315	COG4775	M	Outer membrane protein assembly factor BamA	BamA			5EKQ
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_00325	COG1043	M	Acyl-[acyl carrier protein]--UDP-N-acetylglucosamine O-acyltransferase	LpxA	Lipid A biosynthesis		1J2Z
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_00335	COG1044	M	UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase	LpxD	Lipid A biosynthesis		6P83
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_00350	COG0372	C	Citrate synthase	GltA	TCA cycle	25211225	3TQG
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_00355	COG0008	J	Glutamyl- or glutaminyl-tRNA synthetase	GlnS	Heme biosynthesis		1EUQ
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_00360	COG1974	KT	SOS-response transcriptional repressor LexA (RecA-mediated autopeptidase)	LexA			1AY9
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_00365	COG0303	H	Molybdopterin Mo-transferase (molybdopterin biosynthesis)	MoeA	Molybdopterin biosynthesis	18801996;32239579	2NQU
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_00370	COG0315	H	Molybdenum cofactor biosynthesis enzyme MoaC	MoaC	Molybdopterin biosynthesis	32239579	1EKR
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_00375	COG0134	E	Indole-3-glycerol phosphate synthase	TrpC	Aromatic amino acid biosynthesis		6BMA
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_00380	COG1118	P	ABC-type sulfate/molybdate transport systems, ATPase component	CysA			
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_00385	COG2259	S	Uncharacterized membrane protein YphA, DoxX/SURF4 family	DoxX			
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_00430	COG0213	F	Thymidine phosphorylase	DeoA	Pyrimidine salvage		1AZY
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_00435	COG0505	EF	Carbamoylphosphate synthase small subunit	CarA	Arginine biosynthesis		1C30
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_00440	COG0147	EH	Anthranilate/para-aminobenzoate synthases component I	TrpE	Aromatic amino acid biosynthesis		1I1Q
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_00445	COG0760	O	Peptidyl-prolyl isomerase, parvulin family	SurA			2ZR5
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_00450	COG0149	G	Triosephosphate isomerase	TpiA	Glycolysis		1HG3
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_00455	COG0067	E	Glutamate synthase domain 1	GltB1	Glutamine biosynthesis		1EA0
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_00460	COG0492	O	Thioredoxin reductase	TrxB			3FBS
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_00470	COG1495	O	Disulfide bond formation protein DsbB	DsbB			2LTQ
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_00500	COG2814	G	Predicted arabinose efflux permease AraJ, MFS family	AraJ			4LDS
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_00515	COG3576	R	Predicted flavin-nucleotide-binding protein, pyridoxine 5'-phosphate oxidase superfamily				5ESC
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_00520	COG1846	K	DNA-binding transcriptional regulator, MarR family	MarR			1JGS
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_00525	COG0596	HR	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold	MenH	Menaquinone biosynthesis		4MYS
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_00530	COG0623	I	Enoyl-[acyl-carrier-protein] reductase FabI	FabI	Fatty acid biosynthesis		1C14
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_00535	COG2010	C	Cytochrome c, mono- and diheme variants	CccA			1A2S
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_00545	COG3011	R	Predicted thiol-disulfide oxidoreductase YuxK, DCC family	YuxK		15236740	
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_00570	COG4099	R	Predicted peptidase				3DOH
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_00580	COG1884	I	Methylmalonyl-CoA mutase, N-terminal domain/subunit	Sbm			6OXC
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_00585	COG1063	ER	Threonine dehydrogenase or related Zn-dependent dehydrogenase	Tdh	Non-phosphorylated Entner-Doudoroff pathway		4A2C
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_00600	COG2096	H	Cob(II)alamin adenosyltransferase	PduO	Cobalamine/B12 biosynthesis		1NOG
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_00605	COG2025	C	Electron transfer flavoprotein, alpha subunit FixB	FixB			1EFP
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_00610	COG2025	C	Electron transfer flavoprotein, alpha subunit FixB	FixB			1EFP
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_00615	COG0526	O	Thiol-disulfide isomerase or thioredoxin	TrxA			1XFL
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_00620	COG0015	F	Adenylosuccinate lyase	PurB	Purine biosynthesis		2HVG
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_00630	COG0019	E	Diaminopimelate decarboxylase	LysA	Lysine biosynthesis		1D7K
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_00635	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_00640	COG4525	P	ABC-type taurine transport system, ATPase component	TauB			
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_00655	COG2121	S	Uncharacterized conserved protein, lysophospholipid acyltransferase (LPLAT) superfamily				
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_00660	COG0240	C	Glycerol-3-phosphate dehydrogenase	GpsA	Isoprenoid biosynthesis		1EVY
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_00665	COG1167	KE	DNA-binding transcriptional regulator, MocR family, contains an aminotransferase domain	ARO8	Lysine biosynthesis		2R2N
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_00670	COG2021	E	Homoserine O-acetyltransferase	MET2	Methionine biosynthesis		2VAT
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_00675	COG2226	H	Ubiquinone/menaquinone biosynthesis C-methylase UbiE/MenG	UbiE	Biotin biosynthesis		4OBW
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_00680	COG2333	U	DNA uptake channel protein ComEC C-terminal domain, metallo-beta-lactamase superfamily	ComEC			
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_00685	COG0623	I	Enoyl-[acyl-carrier-protein] reductase FabI	FabI	Fatty acid biosynthesis		1C14
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_00700	COG0261	J	Ribosomal protein L21	RplU	Ribosome 50S subunit		1VS6
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_00705	COG0211	J	Ribosomal protein L27	RpmA	Ribosome 50S subunit		1VS6
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_00710	COG1163	J	Ribosome-interacting GTPase RBG1	Rbg1			4A9A
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_00715	COG1608	I	Isopentenyl phosphate kinase			16621811	3LKK
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_00720	COG0014	E	Gamma-glutamyl phosphate reductase	ProA	Proline biosynthesis		4GHK
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_00725	COG0669	H	Phosphopantetheine adenylyltransferase	CoaD	Pantothenate/CoA biosynthesis		3F3M
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_00730	COG0799	J	Ribosomal silencing factor RsfS, regulates association of 30S and 50S subunits	RsfS			6SJ6
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_00740	COG0696	G	Phosphoglycerate mutase (BPG-independent), AlkP superfamily	GpmI	Glycolysis		1EJJ
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_00760	COG2407	G	L-fucose isomerase or related protein	FucI		22865846	1FUI
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_00765	COG0289	E	4-hydroxy-tetrahydrodipicolinate reductase	DapB	Lysine biosynthesis	29684280	1ARZ
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_00775	COG1729	D	Cell division protein CpoB, coordinates peptidoglycan biosynthesis and outer membrane constriction	CpoB		25951518	2WZ7
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_00780	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_00785	COG0024	J	Methionine aminopeptidase	Map			3J2I
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_00790	COG0210	L	Superfamily I DNA or RNA helicase	UvrD			6PPR
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_00795	COG2185	I	Methylmalonyl-CoA mutase, C-terminal domain/subunit (cobalamin-binding)	Sbm			1B1A
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_00800	COG0646	E	Methionine synthase I (cobalamin-dependent), methyltransferase domain	MetH1	Methionine biosynthesis		1LT7
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_00805	COG0685	E	5,10-methylenetetrahydrofolate reductase	MetF			1B5T
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_00815	COG2854	M	Periplasmic subunit MlaC of the ABC-type intermembrane phospholipid transporter Mla	MlaC		19383799	2QGU
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_00835	COG0849	D	Cell division ATPase FtsA	FtsA			3WT0
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_00840	COG1589	D	Cell division septal protein FtsQ	FtsQ			1YR1
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_00845	COG0458	EF	Carbamoylphosphate synthase large subunit	CarB	Arginine biosynthesis		1C30
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_00850	COG0812	M	UDP-N-acetylenolpyruvoylglucosamine reductase	MurB	Mureine biosynthesis		2MBR
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_00855	COG0771	M	UDP-N-acetylmuramoylalanine-D-glutamate ligase	MurD	Mureine biosynthesis		1E0D
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_00860	COG0707	M	UDP-N-acetylglucosamine:LPS N-acetylglucosamine transferase	MurG	Mureine biosynthesis		1F0K
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_00870	COG0770	M	UDP-N-acetylmuramyl pentapeptide synthase	MurF	Mureine biosynthesis		4CVK
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_00875	COG0472	M	UDP-N-acetylmuramyl pentapeptide phosphotransferase/UDP-N-acetylglucosamine-1-phosphate transferase	Rfe	Mureine biosynthesis		4J72
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_00880	COG0769	M	UDP-N-acetylmuramyl tripeptide synthase	MurE	Mureine biosynthesis		1E8C
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_00885	COG0773	M	UDP-N-acetylmuramate-alanine ligase MurC and related ligases, MurC/Mpl family	MurC	Mureine biosynthesis		
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_00890	COG0744	M	Penicillin-binding protein 1B/1F, peptidoglycan  transglycosylase/transpeptidase	MrcB			3FWL
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_00905	COG5391
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_00920	COG5632	M	N-acetylmuramoyl-L-alanine amidase CwlA	CwlA			
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_00930	COG2982	M	Uncharacterized conserved protein AsmA involved in outer membrane biogenesis	AsmA			
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_00935	COG0114	C	Fumarate hydratase class II	FumC	TCA cycle		1KQ7
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_00940	COG4774	P	Outer membrane receptor for monomeric catechols	Fiu			
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_00955	COG4604	P	ABC-type enterochelin transport system, ATPase component	CeuD			
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_00960	COG4171	V	ABC-type antimicrobial peptide export system, permease component SapC	SapC			
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_00965	COG4168	V	ABC-type antimicrobial peptide export system, permease component SapB	SapB			
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_00970	COG4166	E	ABC-type oligopeptide transport system, periplasmic component	OppA			1B05
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_00975	COG1218	P	3'-Phosphoadenosine 5'-phosphosulfate (PAPS) 3'-phosphatase	CysQ			
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_00985	COG1083	M	CMP-N-acetylneuraminic acid synthetase, NeuA/PseF family	NeuA			1EYR
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_01000	COG2255	L	Holliday junction resolvasome RuvABC, ATP-dependent DNA helicase subunit RuvB	RuvB			1HQC
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_01020	COG0242	J	Peptide deformylase	Def			1BS4
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_01025	COG0223	J	Methionyl-tRNA formyltransferase	Fmt			1FMT
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_01030	COG0299	F	Folate-dependent phosphoribosylglycinamide formyltransferase PurN	PurN	Purine biosynthesis	25013077	1C2T
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_01035	COG0101	J	tRNA U38,U39,U40 pseudouridine synthase TruA	TruA	tRNA modification		1DJ0
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_01040	COG1473	R	Metal-dependent amidase/aminoacylase/carboxypeptidase	AbgB	Lysine biosynthesis	17307853	3RAM
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_01045	COG1044	M	UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase	LpxD	Lipid A biosynthesis		6P83
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_01050	COG0443	O	Molecular chaperone DnaK (HSP70)	DnaK			3I33
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_01055	COG2214	K	Curved DNA-binding protein CbpA, contains a DnaJ-like domain	CbpA			
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_01060	COG0289	E	4-hydroxy-tetrahydrodipicolinate reductase	DapB	Lysine biosynthesis	29684280	1ARZ
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_01075	COG1105	G	1-phosphofructokinase or 6-phosphofructokinase II	FruK			2ABQ
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_01080	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_01085	COG2204	T	DNA-binding transcriptional response regulator, NtrC family, contains REC, AAA-type ATPase, and a Fis-type DNA-binding domains	AtoC			1ZY2
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_01090	COG2971	G	BadF-type ATPase, related to human N-acetylglucosamine kinase	BadF		17954692;12761179;12761179	
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_01095	COG4152	R	ABC-type uncharacterized transport system, ATPase component	YhaQ			
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_01100	COG1177	E	ABC-type spermidine/putrescine transport system, permease component II	PotC			
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_01105	COG0555	P	ABC-type sulfate transport system, permease component	CysU			3D31
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_01110	COG0226	P	ABC-type phosphate transport system, periplasmic component	PstS			2Q9T
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_01120	COG0726	GM	Peptidoglycan/xylan/chitin deacetylase, PgdA/NodB/CDA1 family	CDA1			1NY1
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_01125	COG1705	MN	Flagellum-specific peptidoglycan hydrolase FlgJ	FlgJ			2ZYC
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_01150	COG0162	J	Tyrosyl-tRNA synthetase	TyrS	Aminoacyl-tRNA synthetases		4OUD
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_01155	COG0534	V	Na+-driven multidrug efflux pump, DinF/NorM/MATE family	NorM		29915058	3VVN
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_01160	COG2206	T	HD-GYP domain, c-di-GMP phosphodiesterase class II (or its inactivated variant)	HDGYP		23475961	5Z7C
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_01165	COG0249	L	DNA mismatch repair ATPase MutS	MutS			1E3M
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_01170	COG3852	T	Signal transduction histidine kinase NtrB, nitrogen specific	NtrB		23893111	
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_01175	COG3746	P	Phosphate-selective porin	OprP			2O4V
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_01190	COG0456	J	Ribosomal protein S18 acetylase RimI and related acetyltransferases	RimI			1GHE
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_01215	COG1032	R	Radical SAM superfamily enzyme YgiQ, UPF0313 family	YgiQ			6FD2
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_01220	COG0003	P	Anion-transporting ATPase, ArsA/GET3 family	ArsA			1F48
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_01225	COG0319	J	ssRNA-specific RNase YbeY, 16S rRNA maturation enzyme	YbeY	16S rRNA modification	17407324;23543739	1XM5
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_01230	COG1253	R	Hemolysin-related protein, contains CBS domains, UPF0053 family	TlyC			2NQW
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_01255	COG3276	J	Selenocysteine-specific translation elongation factor SelB	SelB	Translation factors		4ZU9
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_01265	COG0130	J	tRNA U55 pseudouridine synthase TruB, may also work on U342 of tmRNA	TruB	tRNA modification		1K8W
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_01275	COG0689	J	Ribonuclease PH	Rph			1UDO
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_01280	COG2070	R	NAD(P)H-dependent flavin oxidoreductase YrpB, nitropropane dioxygenase family	YrpB			
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_01285	COG0735	P	Fe2+ or Zn2+ uptake regulation protein Fur/Zur	Fur			1MZB
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_01290	COG1592	C	Rubrerythrin	YotD			1B71
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_01315	COG5398	H	Heme oxygenase				1DVE
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_01330	COG1304	CIR	FMN-dependent dehydrogenase, includes L-lactate dehydrogenase and type II isopentenyl diphosphate isomerase	LldD	Isoprenoid biosynthesis		6AI7
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_01335	COG0828	J	Ribosomal protein S21	RpsU	Ribosome 30S subunit		4V4H
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_01345	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_01350	COG4520	M	Surface antigen	LipA17			
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_01370	COG3773	DM	Cell wall hydrolase CwlJ, involved in spore germination	CwlJ			4F55
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_01395	COG1586	E	S-adenosylmethionine decarboxylase	SpeD			1TLU
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_01405	COG4638	PR	Phenylpropionate dioxygenase or related ring-hydroxylating dioxygenase, large terminal subunit	HcaE			4QDC
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_01435	COG0695	O	Glutaredoxin	GrxC			1AAZ
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_01440	COG0208	F	Ribonucleotide reductase beta subunit, ferritin-like domain	NrdB	Pyrimidine salvage		1AV8
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_01445	COG0209	F	Ribonucleotide reductase alpha subunit	NrdA	Pyrimidine salvage		1R1R
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_01465	COG0694	O	Fe-S cluster biogenesis protein NfuA, 4Fe-4S-binding domain	NifU			2Z51
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_01550	COG0749	L	DNA polymerase I, 3'-5' exonuclease and polymerase domains	PolA			1D8Y
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_01555	COG0748	P	Putative heme iron utilization protein, contains PNPOx domain	HugZ			1VL7
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_01560	COG2847	P	Copper(I)-binding protein				1X9L
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_01565	COG1493	T	Serine kinase of the HPr protein, regulates carbohydrate metabolism	HprK			1JB1
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_01580	COG2893	G	Phosphotransferase system, mannose/fructose-specific component IIA	ManX			1PDO
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_01585	COG3848	T	Phosphohistidine swiveling domain of PEP-utilizing enzymes	PykA2			2E28
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_01590	COG0499	H	S-adenosylhomocysteine hydrolase	SAM1			1A7A
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_01595	COG1249	C	Dihydrolipoamide dehydrogenase (E3) component of pyruvate/2-oxoglutarate dehydrogenase complex or glutathione oxidoreductase	Lpd	Glycine cleavagePyruvate oxidation		6QKG
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_01600	COG1341	J	Polynucleotide 5'-kinase, involved in rRNA processing	Grc3			
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_01610	COG1210	M	UTP-glucose-1-phosphate uridylyltransferase	GalU			2E3D
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_01620	COG0526	O	Thiol-disulfide isomerase or thioredoxin	TrxA			1XFL
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_01625	COG0769	M	UDP-N-acetylmuramyl tripeptide synthase	MurE	Mureine biosynthesis		1E8C
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_01630	COG4799	I	Acetyl-CoA carboxylase, carboxyltransferase component	MmdA			1OD2
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_01635	COG0434	M	Membrane biogenesis protein, BtpA/SgcQ family	BtpA			
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_01640	COG0133	E	Tryptophan synthase beta chain	TrpB	Aromatic amino acid biosynthesis		2DH5
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_01645	COG0135	E	Phosphoribosylanthranilate isomerase	TrpF	Aromatic amino acid biosynthesis		1DL3
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_01650	COG0269	G	3-keto-L-gulonate-6-phosphate decarboxylase	UlaD			3F4W
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_01660	COG4954	S	Uncharacterized conserved protein, DUF2000 domain				2GAX
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_01665	COG2913	M	Outer membrane protein assembly factor BamE, lipoprotein component of the BamABCDE complex	BamE			2KM7
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_01670	COG5077
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_01675	COG0333	J	Ribosomal protein L32	RpmF	Ribosome 50S subunit	17114934	1VS6
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_01680	COG0416	I	Acyl-ACP:phosphate acyltransferase (fatty acid/phospholipid biosynthesis)	PlsX		18992246	2GK3
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_01685	COG3425	I	3-hydroxy-3-methylglutaryl CoA synthase	PksG	Isoprenoid biosynthesis		1TVZ
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_01690	COG1032	R	Radical SAM superfamily enzyme YgiQ, UPF0313 family	YgiQ			6FD2
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_01705	COG0102	J	Ribosomal protein L13	RplM	Ribosome 50S subunit		1VS6
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_01710	COG0103	J	Ribosomal protein S9	RpsI	Ribosome 30S subunit		4V4H
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_01715	COG0136	E	Aspartate-semialdehyde dehydrogenase	Asd	Lysine biosynthesis		1BRM
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_01720	COG0110	R	Acetyltransferase, isoleucine patch superfamily	WbbJ			
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_01725	COG1360	N	Flagellar motor protein MotB	MotB			
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_01730	COG0460	E	Homoserine dehydrogenase	ThrA	Methionine biosynthesis	29124164	5AVO
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_01740	COG0618	FT	nanoRNase/pAp phosphatase, hydrolyzes c-di-AMP and oligoRNAs	NrnA			5O4Z
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_01745	COG0354	O	Folate-binding protein YgfZ, synthesis and repair of Fe-S clusters	YgfZ		27941785;22081392	1NRK
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_01750	COG3806	T	Anti-sigma factor ChrR, cupin superfamily	ChrR			2Q1Z
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_01755	COG1174	E	ABC-type proline/glycine betaine transport system, permease component	OpuBB			
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_01760	COG4778	P	Alpha-D-ribose 1-methylphosphonate 5-triphosphate synthase subunit PhnL	PhnL			
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_01765	COG1732	M	Periplasmic glycine betaine/choline-binding (lipo)protein of an ABC-type transport system (osmoprotectant binding protein)	OsmF			4WEP
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_01770	COG4529	R	Uncharacterized NAD(P)/FAD-binding protein YdhS	YdhS			
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_01780	COG0815	M	Apolipoprotein N-acyltransferase	Lnt			6NWR
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_01790	COG1304	CIR	FMN-dependent dehydrogenase, includes L-lactate dehydrogenase and type II isopentenyl diphosphate isomerase	LldD	Isoprenoid biosynthesis		6AI7
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_01795	COG2218	C	Formylmethanofuran dehydrogenase subunit C	FwdC			5T5I
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_01800	COG0449	M	Glucosamine 6-phosphate synthetase, contains amidotransferase and phosphosugar isomerase domains	GlmS			2J6H
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_01805	COG3968	E	Glutamine synthetase type III	GlnA3			
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_01810	COG0579	G	L-2-hydroxyglutarate oxidase LhgO	LhgO			3DME
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_01815	COG2188	K	DNA-binding transcriptional regulator, GntR family	MngR			2WV0
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_01820	COG0512	EH	Anthranilate/para-aminobenzoate synthase component II (glutamine amidotransferase)	PabA	Aromatic amino acid biosynthesis		1I1Q
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_01825	COG2207	K	AraC-type DNA-binding domain and AraC-containing proteins	AraC			1BL0
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_01830	COG0345	E	Pyrroline-5-carboxylate reductase	ProC	Proline biosynthesis	22125496;26507882	3GT0
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_01835	COG5000	T	Signal transduction histidine kinase NtrY involved in nitrogen fixation and metabolism regulation	NtrY			
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_01840	COG0784	T	CheY-like REC (receiver) domain, includes chemotaxis protein CheY  and sporulation regulator Spo0F	CheY			6QRJ
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_01850	COG0314	H	Molybdopterin synthase catalytic subunit MoaE	MoaE	Molybdopterin biosynthesis	32239579	1FM0
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_01855	COG1977	H	Molybdopterin synthase sulfur carrier subunit MoaD	MoaD	Molybdopterin biosynthesis	32239579	1FM0
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_01860	COG0521	H	Molybdopterin biosynthesis enzyme MoaB/MogA	MoaB	Molybdopterin biosynthesis	32239579	1DI6
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_01865	COG0572	F	Uridine kinase	Udk	Pyrimidine salvage		5B3F
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_01870	COG1183	I	Phosphatidylserine synthase	PssA			
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_01875	COG0322	L	Excinuclease UvrABC, nuclease subunit	UvrC		24513124	2NRT
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_01880	COG4221	C	NADP-dependent 3-hydroxy acid dehydrogenase YdfG	YdfG	Pyrimidine degradation		3P19
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_01885	COG0513	L	Superfamily II DNA and RNA helicase	SrmB			3RRM
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_01890	COG0436	E	Aspartate/methionine/tyrosine aminotransferase	AspB	Isoleucine, leucine, valine biosynthesis		2O0R
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_01900	COG1249	C	Dihydrolipoamide dehydrogenase (E3) component of pyruvate/2-oxoglutarate dehydrogenase complex or glutathione oxidoreductase	Lpd	Glycine cleavagePyruvate oxidation		6QKG
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_01910	COG0439	I	Biotin carboxylase	AccC	Fatty acid biosynthesis		1BNC
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_01920	COG0483	G	Archaeal fructose-1,6-bisphosphatase or related enzyme, inositol monophosphatase family	SuhB	Gluconeogenesis		1AWB
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_01925	COG0312	R	Zn-dependent protease PmbA/TldA or its inactivated homolog	TldD		12029038	3TV9
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_01935	COG0109	HI	Polyprenyltransferase (heme O synthase)	CyoE			
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_01955	COG0312	R	Zn-dependent protease PmbA/TldA or its inactivated homolog	TldD		12029038	3TV9
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_01960	COG1622	C	Heme/copper-type cytochrome/quinol oxidase, subunit 2	CyoA			1CYW
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_01965	COG0843	C	Heme/copper-type cytochrome/quinol oxidase, subunit 1	CyoB			1AR1
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_01970	COG0382	H	4-hydroxybenzoate polyprenyltransferase	UbiA	Ubiquinone biosynthesis	28830929	4OD4
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_01975	COG0109	HI	Polyprenyltransferase (heme O synthase)	CyoE			
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_01990	COG1845	C	Heme/copper-type cytochrome/quinol oxidase, subunit 3	CyoC			1QLE
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_02000	COG0498	E	Threonine synthase	ThrC	Threonine biosynthesis		1VB3
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_02015	COG0450	V	Alkyl hydroperoxide reductase subunit AhpC (peroxiredoxin)	AhpC			2RII
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_02020	COG0328	L	Ribonuclease HI	RnhA			1LAW
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_02025	COG3173	R	Predicted  kinase, aminoglycoside phosphotransferase (APT) family	YcbJ			
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_02035	COG1283	P	Na+/phosphate symporter	NptA			
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_02055	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_02060	COG1070	G	Sugar (pentulose or hexulose) kinase	XylB	Non-phosphorylated Entner-Doudoroff pathway		4C23
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_02065	COG4172	Q	ABC-type microcin C transport system, duplicated ATPase component YejF	YejF		17873039	
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_02070	COG0246	G	Mannitol-1-phosphate/altronate dehydrogenases	MtlD			1LJ8
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_02075	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_02080	COG1177	E	ABC-type spermidine/putrescine transport system, permease component II	PotC			
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_02085	COG1176	E	ABC-type spermidine/putrescine transport system, permease component I	PotB			
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_02090	COG2182	G	Maltose-binding periplasmic protein MalE	MalE			1T0K
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_02095	COG0624	E	Acetylornithine deacetylase/Succinyl-diaminopimelate desuccinylase or related deacylase	ArgE	Arginine biosynthesis		1CG2
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_02110	COG0697	GER	Permease of the drug/metabolite transporter (DMT) superfamily	RhaT			5I20
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_02115	COG0579	G	L-2-hydroxyglutarate oxidase LhgO	LhgO			3DME
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_02120	COG0079	E	Histidinol-phosphate/aromatic aminotransferase or cobyric acid decarboxylase	HisC	Cobalamine/B12 biosynthesis		4R2N
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_02125	COG3262	C	Ni,Fe-hydrogenase III component G	HycE1			
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_02130	COG1941	C	Coenzyme F420-reducing hydrogenase, gamma subunit	FrhG			5ODC
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_02165	COG0714	R	MoxR-like ATPase	MoxR	Cobalamine/B12 biosynthesis		2R44
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_02170	COG1219	O	ATP-dependent protease Clp, ATPase subunit ClpX	ClpX			3HTE
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_02175	COG0616	O	Periplasmic serine protease, ClpP class	SppA			3BEZ
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_02180	COG0544	O	FKBP-type peptidyl-prolyl cis-trans isomerase (trigger factor)	Tig			5OWI
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_02190	COG0063	F	NAD(P)H-hydrate repair enzyme Nnr, NAD(P)H-hydrate dehydratase domain	Nnr2			1KYH
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_02200	COG1060	H	2-iminoacetate synthase ThiH/Menaquinone biosynthesis enzymes MqnC and MqnE	ThiH	Thiamine biosynthesis	18801996	4WCX
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_02210	COG0566	J	tRNA G18 (ribose-2'-O)-methylase SpoU	SpoU	tRNA modification		1GZ0
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_02235	COG0514	L	Superfamily II DNA helicase RecQ	RecQ			1OYW
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_02245	COG4206	H	Outer membrane cobalamin receptor protein BtuB	BtuB			1NQE
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_02250	COG1846	K	DNA-binding transcriptional regulator, MarR family	MarR			1JGS
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_02265	COG5013	CP	Nitrate reductase alpha subunit	NarG			1Q16
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_02270	COG1055	P	Na+/H+ antiporter NhaD or related arsenite permease	ArsB			
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_02275	COG2231	L	3-Methyladenine DNA glycosylase, HhH-GPD/Endo3 superfamily	HP0602		14517230;20410075	1PU6
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_02280	COG2905	T	Signal-transduction protein containing cAMP-binding, CBS, and nucleotidyltransferase domains				
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_02325	COG0399	M	dTDP-4-amino-4,6-dideoxygalactose transaminase	WecE		15271350	4PIW
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_02330	COG3323	S	PII-like insert in the uncharacterized protein YqfO, YbgI/NIF3 family	YqfO		17187687;29625546;31118925	2GX8
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_02335	COG0174	E	Glutamine synthetase	GlnA	Glutamine biosynthesis		1F1H
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_02345	COG1225	O	Peroxiredoxin	Bcp			5IPH
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_02355	COG1824	P	Permease, similar to cation transporters	MgtE2			
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_02365	COG0458	EF	Carbamoylphosphate synthase large subunit	CarB	Arginine biosynthesis		1C30
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_02370	COG0777	I	Acetyl-CoA carboxylase beta subunit	AccD	Fatty acid biosynthesis		2F9I
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_02380	COG0564	J	Pseudouridine synthase RluA, 23S rRNA- or tRNA-specific	RluA	23S rRNA modification		2I82
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_02385	COG5116
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_02390	COG0202	K	DNA-directed RNA polymerase, alpha subunit/40 kD subunit	RpoA	RNA polymerase		4KN7
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_02395	COG0100	J	Ribosomal protein S11	RpsK	Ribosome 30S subunit		4V4H
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_02405	COG1102	F	Cytidylate kinase	CmkB			
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_02410	COG0201	U	Preprotein translocase subunit SecY	SecY			1RH5
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_02415	COG0200	J	Ribosomal protein L15	RplO	Ribosome 50S subunit		1VS6
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_02420	COG1841	J	Ribosomal protein L30/L7E	RpmD	Ribosome 50S subunit		1VS6
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_02425	COG0098	J	Ribosomal protein S5	RpsE	Ribosome 30S subunit		4V4H
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_02435	COG0097	J	Ribosomal protein L6P/L9E	RplF	Ribosome 50S subunit		1VS6
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_02440	COG0096	J	Ribosomal protein S8	RpsH	Ribosome 30S subunit		4V4H
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_02445	COG0199	J	Ribosomal protein S14	RpsN	Ribosome 30S subunit		4V4H
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_02450	COG0094	J	Ribosomal protein L5	RplE	Ribosome 50S subunit		1VS6
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_02455	COG0198	J	Ribosomal protein L24	RplX	Ribosome 50S subunit		1VS6
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_02460	COG0093	J	Ribosomal protein L14	RplN	Ribosome 50S subunit		4V4H
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_02470	COG0255	J	Ribosomal protein L29	RpmC	Ribosome 50S subunit		1VS6
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_02475	COG0197	J	Ribosomal protein L16/L10AE	RplP	Ribosome 50S subunit		1WKI
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_02480	COG0092	J	Ribosomal protein S3	RpsC	Ribosome 30S subunit		1VS6
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_02490	COG0185	J	Ribosomal protein S19	RpsS	Ribosome 30S subunit		4V4H
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_02495	COG0090	J	Ribosomal protein L2	RplB	Ribosome 50S subunit		1VS6
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_02500	COG0089	J	Ribosomal protein L23	RplW	Ribosome 50S subunit		1VS6
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_02505	COG0088	J	Ribosomal protein L4	RplD	Ribosome 50S subunit		1VS6
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_02510	COG0087	J	Ribosomal protein L3	RplC	Ribosome 50S subunit		1VS6
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_02515	COG0051	J	Ribosomal protein S10	RpsJ	Ribosome 30S subunit		4V4H
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_02520	COG0480	J	Translation elongation factor EF-G, a GTPase	FusA	Translation factors		1DAR
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_02525	COG5256	J	Translation elongation factor EF-1alpha (GTPase)	TEF1	Translation factors		1F60
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_02530	COG0049	J	Ribosomal protein S7	RpsG	Ribosome 30S subunit		4V4H
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_02535	COG0048	J	Ribosomal protein S12	RpsL	Ribosome 30S subunit		4V4H
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_02540	COG0086	K	DNA-directed RNA polymerase, beta' subunit/160 kD subunit	RpoC	RNA polymerase		1NT9
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_02610	COG1467	L	Eukaryotic-type DNA primase, catalytic (small) subunit	PRI1			1G71
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_02735	COG1405	K	Transcription initiation factor TFIIIB, Brf1 subunit/Transcription initiation factor TFIIB	SUA7			1DL6
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_02760	COG0671	I	Membrane-associated phospholipid phosphatase	PgpB	Phospholipid biosynthesis		1D2T
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_02785	COG1819	G	UDP:flavonoid glycosyltransferase YjiC, YdhE family	YjiC		23974133	2ACV
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_02835	COG0631	T	Serine/threonine protein phosphatase PrpC	PTC1			6IHL
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_02845	COG3640	O	CO dehydrogenase nickel-insertion accessory protein CooC1	CooC		15466042	
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_02850	COG2816	F	NADH pyrophosphatase NudC, Nudix superfamily	NPY1			
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_02865	COG4372	S	Uncharacterized protein, contains DUF3084 domain				
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_02910	COG0534	V	Na+-driven multidrug efflux pump, DinF/NorM/MATE family	NorM		29915058	3VVN
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_02935	COG0484	O	DnaJ-class molecular chaperone with C-terminal Zn finger domain	DnaJ			1BQ0
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_03085	COG0465	O	ATP-dependent Zn proteases	HflB			1LV7
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_03090	COG1215	N	Glycosyltransferase, catalytic subunit of cellulose synthase and poly-beta-1,6-N-acetylglucosamine synthase	BcsA			4HG6
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_03145	COG1800	R	Predicted transglutaminase-like protease, UPF0252 family				
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_03175	COG0484	O	DnaJ-class molecular chaperone with C-terminal Zn finger domain	DnaJ			1BQ0
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_03240	COG2425	S	Uncharacterized conserved protein, contains a von Willebrand factor type A (vWA) domain	ViaA			
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_03280	COG4120	R	ABC-type uncharacterized transport system, permease component				
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_03320	COG2894	D	Septum site-determining ATPase MinD	MinD			4V02
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_03390	COG1146	F	NAD-dependent dihydropyrimidine dehydrogenase, PreA subunit	PreA			
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_03400	COG2453	T	Protein-tyrosine phosphatase	CDC14			1D5R
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_03405	COG2059	P	Chromate transport protein ChrA	ChrA			
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_03410	COG0613	F	5'-3' exoribonuclease TrpH/YciV (RNase AM), contains PHP domain	YciV		25871919	3E0F
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_03415	COG3706	TK	Two-component response regulator, PleD family, consists of two REC domains and a diguanylate cyclase (GGDEF) domain	PleD			1W25
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_03420	COG1283	P	Na+/phosphate symporter	NptA			
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_03425	COG4604	P	ABC-type enterochelin transport system, ATPase component	CeuD			
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_03430	COG1177	E	ABC-type spermidine/putrescine transport system, permease component II	PotC			
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_03435	COG0555	P	ABC-type sulfate transport system, permease component	CysU			3D31
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_03440	COG0226	P	ABC-type phosphate transport system, periplasmic component	PstS			2Q9T
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_03445	COG4191	T	Signal transduction histidine kinase regulating C4-dicarboxylate transport system				4GCZ
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_03455	COG1159	J	GTPase Era, involved in 16S rRNA processing	Era			1EGA
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_03460	COG1381	L	Recombinational DNA repair protein RecO (RecF pathway)	RecO			1U5K
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_03475	COG0520	E	Selenocysteine lyase/Cysteine desulfurase	CsdA			4LW2
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_03485	COG2873	E	O-acetylhomoserine/O-acetylserine sulfhydrylase, pyridoxal phosphate-dependent	MET17	Methionine biosynthesis		2CTZ
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_03490	COG0156	H	7-keto-8-aminopelargonate synthetase or related enzyme	BioF	Biotin biosynthesis		1BS0
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_03500	COG2226	H	Ubiquinone/menaquinone biosynthesis C-methylase UbiE/MenG	UbiE	Biotin biosynthesis		4OBW
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_03510	COG0161	H	Adenosylmethionine-8-amino-7-oxononanoate aminotransferase	BioA	Biotin biosynthesis		1MLY
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_03520	COG0698	G	Ribose 5-phosphate isomerase RpiB	RpiB	Pentose phosphate pathway		1NN4
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_03525	COG0112	E	Glycine/serine hydroxymethyltransferase	GlyA	Serine biosynthesis		1BJ4
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_03530	COG1327	K	Transcriptional regulator NrdR, contains Zn-ribbon and ATP-cone domains	NrdR			
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_03535	COG2131	F	Deoxycytidylate deaminase	ComEB		25746996;31954084	2HVV
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_03545	COG0108	H	3,4-dihydroxy-2-butanone 4-phosphate synthase	RibB	Riboflavin/FAD biosynthesis		1G57
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_03560	COG0309	O	Carbamoyl dehydratase HypE (hydrogenase maturation factor)	HypE		28618091	2I6R
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_03570	COG1351	F	Thymidylate synthase ThyX, FAD-dependent family	ThyX	Thymidylate biosynthesis		1KQ4
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_03575	COG1149	R	MinD superfamily P-loop ATPase, contains an inserted ferredoxin domain				
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_03585	COG2268	S	Uncharacterized membrane protein YqiK, contains Band7/PHB/SPFH domain	YqiK			1WIN
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_03590	COG0793	O	C-terminal processing protease CtpA/Prc, contains a PDZ domain	CtpA			6IQU
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_03595	COG1061	KL	Superfamily II DNA or RNA helicase	SSL2			6JDE
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_03600	COG0028	EH	Acetolactate synthase large subunit or other thiamine pyrophosphate-requiring enzyme	IlvB	Isoleucine, leucine, valine biosynthesis		1BFD
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_03610	COG0059	EH	Ketol-acid reductoisomerase	IlvC	Isoleucine, leucine, valine biosynthesis		1NP3
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_03615	COG5016	C	Pyruvate/oxaloacetate carboxyltransferase	OadA1	Urea cycle	18681940	2NX9
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_03620	COG0443	O	Molecular chaperone DnaK (HSP70)	DnaK			3I33
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_03635	COG0744	M	Penicillin-binding protein 1B/1F, peptidoglycan  transglycosylase/transpeptidase	MrcB			3FWL
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_03640	COG0772	D	Peptodoglycan polymerase FtsW/RodA/SpoVE	FtsW		30692671	6BAR
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_03665	COG1291	N	Flagellar motor component MotA	MotA			
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_03670	COG0461	F	Orotate phosphoribosyltransferase	PyrE	Pyrimidine biosynthesis		4WML
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_03685	COG2823	M	Osmotically-inducible protein OsmY, contains BON domain	OsmY		12878000	
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_03690	COG0189	EHJQ	Glutathione synthase, LysX or RimK-type ligase, ATP-grasp superfamily	LysX	Lysine biosynthesis		1GLV
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_03700	COG0140	E	Phosphoribosyl-ATP pyrophosphohydrolase	HisI2	Histidine biosynthesis		6J22
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_03705	COG1411	R	Uncharacterized conserved protein related to proFAR isomerase (HisA)				
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_03710	COG0107	E	Imidazole glycerol phosphate synthase subunit HisF	HisF	Histidine biosynthesis		1OX4
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_03715	COG0518	F	GMP synthase, glutamine amidotransferase domain	GuaA1	Purine biosynthesis		4WIM
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_03725	COG0131	E	Imidazoleglycerol phosphate dehydratase HisB	HisB2	Histidine biosynthesis		1RHY
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_03730	COG0638	O	20S proteasome, alpha and beta subunits	PRE1			1FNT
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_03735	COG1220	O	ATP-dependent protease HslVU (ClpYQ), ATPase subunit HslU	HslU			1DO0
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_03745	COG3584	S	3D (Asp-Asp-Asp) domain, usually in lytic transglycosylases		3D	16139297	4WLK
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_03765	COG2176	L	DNA polymerase III, alpha subunit (gram-positive type)	PolC			
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_03770	COG1936	F	Broad-specificity NMP kinase	Fap7			1RKB
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_03775	COG0373	H	Glutamyl-tRNA reductase	HemA	Heme biosynthesis		2XOE
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_03785	COG0407	H	Uroporphyrinogen-III decarboxylase HemE	HemE	Heme biosynthesis		2DG5
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_03790	COG0276	H	Protoheme ferro-lyase (ferrochelatase)	HemH	Heme biosynthesis		1AK1
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_03800	COG1158	K	Transcription termination factor Rho	Rho			1PVO
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_03805	COG1331	R	Uncharacterized conserved protein YyaL, SSP411 family, contains thoiredoxin and six-hairpin glycosidase-like domains	YyaL			3IRA
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_03810	COG1160	J	Double Era-like domain GTPase Der	Der			1MKY
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_03815	COG1206	J	Folate-dependent tRNA-U54 methylase TrmFO/GidA	TrmFO	tRNA modification	16027442	
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_03820	COG2813	J	16S rRNA G1207 methylase RsmC	RsmC	16S rRNA modification		1DUS
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_03825	COG2894	D	Septum site-determining ATPase MinD	MinD			4V02
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_03835	COG1466	L	DNA polymerase III, delta subunit	HolA			3ZH9
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_03845	COG0143	J	Methionyl-tRNA synthetase	MetG	Aminoacyl-tRNA synthetases		1A8H
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_03850	COG0352	H	Thiamine monophosphate synthase	ThiE	Thiamine biosynthesis	19060138	1G4T
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_03860	COG3034	M	Murein L,D-transpeptidase YafK	YafK			4XZZ
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_03870	COG3568	R	Metal-dependent hydrolase, endonuclease/exonuclease/phosphatase family	ElsH		15178340	
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_03880	COG1674	D	DNA segregation ATPase FtsK/SpoIIIE or related protein	FtsK			2IUT
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_03885	COG1233	Q	Phytoene dehydrogenase-related protein				4REP
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_03890	COG3536	S	Uncharacterized conserved protein, DUF971 family				2L6N
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_03900	COG0466	O	ATP-dependent Lon protease, bacterial type	Lon			6ON2
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_03925	COG0138	F	AICAR transformylase/IMP cyclohydrolase PurH	PurH	Purine biosynthesis		1G8M
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_03930	COG1087	M	UDP-glucose 4-epimerase	GalE			1A9Y
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_03935	COG0472	M	UDP-N-acetylmuramyl pentapeptide phosphotransferase/UDP-N-acetylglucosamine-1-phosphate transferase	Rfe	Mureine biosynthesis		4J72
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_03940	COG1250	I	3-hydroxyacyl-CoA dehydrogenase	FadB	Fatty acid biosynthesis		5ZQZ
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_03950	COG4122	J	tRNA 5-hydroxyU34 O-methylase TrmR/YrrM	TrmR	tRNA modification	29982645	1H1D
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_03960	COG0365	I	Acyl-coenzyme A synthetase/AMP-(fatty) acid ligase	Acs		14638756	4B2O
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_03970	COG0240	C	Glycerol-3-phosphate dehydrogenase	GpsA	Isoprenoid biosynthesis		1EVY
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_03975	COG0533	J	tRNA A37 threonylcarbamoyltransferase TsaD	TsaD	tRNA modification	23072323;21285948;32385138	3ENO
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_03980	COG0181	H	Porphobilinogen deaminase	HemC	Heme biosynthesis		1AH5
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_03995	COG3071	S	Uncharacterized protein HemY, contains HemY_N domain and TPR repeats (unrelated to protoporphyrinogen oxidase HemY)	HemYx			
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_04000	COG0122	L	3-methyladenine DNA glycosylase/8-oxoguanine DNA glycosylase	AlkA			1DIZ
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_04005	COG3952	R	Uncharacterized N-terminal domain of lipid-A-disaccharide synthase	LABN			
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_04010	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_04020	COG0671	I	Membrane-associated phospholipid phosphatase	PgpB	Phospholipid biosynthesis		1D2T
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_04035	COG1232	H	Protoporphyrinogen oxidase HemY/PPOX	HemY	Heme biosynthesis		3LOV
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_04045	COG2227	H	2-polyprenyl-3-methyl-5-hydroxy-6-metoxy-1,4-benzoquinol methylase	UbiG	Ubiquinone biosynthesis		1BHJ
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_04065	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_04075	COG1289	S	Uncharacterized membrane protein YccC	YccC			
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_04080	COG1453	R	Predicted oxidoreductase of the aldo/keto reductase family				
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_04085	COG0697	GER	Permease of the drug/metabolite transporter (DMT) superfamily	RhaT			5I20
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_04090	COG0697	GER	Permease of the drug/metabolite transporter (DMT) superfamily	RhaT			5I20
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_04100	COG0137	E	Argininosuccinate synthase	ArgG	Arginine biosynthesis		1J1Z
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_04105	COG0190	H	5,10-methylene-tetrahydrofolate dehydrogenase/Methenyl tetrahydrofolate cyclohydrolase	FolD			1A4I
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_04115	COG0664	T	cAMP-binding domain of CRP or a regulatory subunit of cAMP-dependent protein kinases	Crp			1FT9
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_04120	COG0579	G	L-2-hydroxyglutarate oxidase LhgO	LhgO			3DME
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_04125	COG0147	EH	Anthranilate/para-aminobenzoate synthases component I	TrpE	Aromatic amino acid biosynthesis		1I1Q
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_04160	COG4520	M	Surface antigen	LipA17			
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_04170	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_04180	COG4147	C	Na+(or H+)/acetate symporter ActP	ActP			
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_04185	COG1012	I	Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase	AdhE	Proline degradation		1A4S
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_04190	COG0491	R	Glyoxylase or a related metal-dependent hydrolase, beta-lactamase superfamily II	GloB		25670698	1QH3
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_04195	COG0139	E	Phosphoribosyl-AMP cyclohydrolase	HisI1	Histidine biosynthesis		1ZPS
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_04200	COG0302	H	GTP cyclohydrolase I	FolE	Folate biosynthesis	19767425;30692671	1A8R
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_04205	COG0044	F	Dihydroorotase or related cyclic amidohydrolase	AllB	Pyrimidine biosynthesis		1J79
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_04210	COG3696	P	Cu/Ag efflux pump CusA	CusA			3K07
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_04230	COG3761	C	NADH:ubiquinone oxidoreductase NDUFA12 subunit (Leigh syndrome)	NDUFA12	NADH dehydrogenase		
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_04235	COG1463	M	Periplasmic subunit MlaD of the ABC-type intermembrane phospholipid transporter Mla	MlaD			5UW8
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_04240	COG1463	M	Periplasmic subunit MlaD of the ABC-type intermembrane phospholipid transporter Mla	MlaD			5UW8
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_04250	COG4765	S	Uncharacterized conserved protein, DUF2155 domain				
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_04255	COG2360	O	Leu/Phe-tRNA-protein transferase	Aat			2CXA
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_04260	COG0458	EF	Carbamoylphosphate synthase large subunit	CarB	Arginine biosynthesis		1C30
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_04265	COG0511	I	Biotin carboxyl carrier protein	AccB	Fatty acid biosynthesis		1A6X
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_04275	COG0501	O	Zn-dependent protease with chaperone function	HtpX			2YPT
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_04280	COG1168	ER	Bifunctional PLP-dependent enzyme with beta-cystathionase and maltose regulon repressor activities	MalY			4DGT
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_04285	COG1530	J	Ribonuclease G or E	CafA			1SLJ
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_04290	COG0860	M	N-acetylmuramoyl-L-alanine amidase	AmiC			1JWQ
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_04295	COG0744	M	Penicillin-binding protein 1B/1F, peptidoglycan  transglycosylase/transpeptidase	MrcB			3FWL
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_04300	COG1186	J	Protein chain release factor PrfB	PrfB	Translation factors		1GQE
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_04305	COG0450	V	Alkyl hydroperoxide reductase subunit AhpC (peroxiredoxin)	AhpC			2RII
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_04315	COG0162	J	Tyrosyl-tRNA synthetase	TyrS	Aminoacyl-tRNA synthetases		4OUD
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_04320	COG2377	M	1,6-Anhydro-N-acetylmuramate kinase	AnmK		15901686	3CQY
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_04325	COG0596	HR	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold	MenH	Menaquinone biosynthesis		4MYS
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_04330	COG0110	R	Acetyltransferase, isoleucine patch superfamily	WbbJ			
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_04340	COG0076	E	Glutamate or tyrosine decarboxylase or a related PLP-dependent protein	GadA	Pantothenate/CoA biosynthesis		1XEY
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_04360	COG1077	DZ	Cell shape-determining ATPase MreB, actin-like superfamily	MreB			1JCE
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_04370	COG0542	O	ATP-dependent Clp protease, ATP-binding subunit ClpA	ClpA			1KSF
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_04375	COG2127	O	ATP-dependent Clp protease adapter protein ClpS	ClpS			1LZW
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_04380	COG0033	G	Phosphoglucomutase/phosphomannomutase	Pgm		30938049	1C47
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_04385	COG1004	M	UDP-glucose 6-dehydrogenase	Ugd			1DLI
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_04390	COG1207	M	Bifunctional protein GlmU, N-acetylglucosamine-1-phosphate-uridyltransferase/glucosamine-1-phosphate-acetyltransferase	GlmU			3FWW
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_04395	COG0484	O	DnaJ-class molecular chaperone with C-terminal Zn finger domain	DnaJ			1BQ0
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_04405	COG2759	F	Formyltetrahydrofolate synthetase	MIS1			1EG7
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_04425	COG2104	H	Sulfur carrier protein ThiS (thiamine biosynthesis)	ThiS	Thiamine biosynthesis		1F0Z
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_04430	COG0579	G	L-2-hydroxyglutarate oxidase LhgO	LhgO			3DME
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_04440	COG0156	H	7-keto-8-aminopelargonate synthetase or related enzyme	BioF	Biotin biosynthesis		1BS0
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_04445	COG5135	S	Uncharacterized conserved protein				2I51
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_04450	COG1028	I	NAD(P)-dependent dehydrogenase, short-chain alcohol dehydrogenase family	FabG	Fatty acid biosynthesis		6L1H
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_04455	COG0082	E	Chorismate synthase	AroC	Aromatic amino acid biosynthesis		1Q1L
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_04460	COG0293	J	23S rRNA U2552 (ribose-2'-O)-methylase RlmE/FtsJ	RlmE	23S rRNA modification	10769117	1EIZ
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_04465	COG0142	H	Geranylgeranyl pyrophosphate synthase	IspA	Isoprenoid biosynthesis		2AZJ
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_04470	COG1722	L	Exonuclease VII small subunit	XseB			1VP7
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_04485	COG1173	EP	ABC-type dipeptide/oligopeptide/nickel transport system, permease component	DppC			
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_04490	COG4555	CP	ABC-type Na+ transport system, ATPase component NatA	NatA			
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_04495	COG1291	N	Flagellar motor component MotA	MotA			
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_04520	COG3104	E	Dipeptide/tripeptide permease	PTR2			2XUT
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_04530	COG1451	R	UTP pyrophosphatase, metal-dependent hydrolase family	YgjP		27941785	4JIU
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_04535	COG0664	T	cAMP-binding domain of CRP or a regulatory subunit of cAMP-dependent protein kinases	Crp			1FT9
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_04540	COG0406	G	Broad specificity phosphatase PhoE	PhoE			1EBB
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_04545	COG1254	C	Acylphosphatase	AcyP			1APS
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_04550	COG3030	R	FxsA protein affecting phage T7 exclusion by the F plasmid, UPF0716 family	FxsA			
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_04560	COG0546	C	Phosphoglycolate phosphatase, HAD superfamily	Gph			2NYV
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_04565	COG0524	G	Sugar or nucleoside kinase, ribokinase family	RbsK	Glycolysis		2QCV
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_04570	COG1087	M	UDP-glucose 4-epimerase	GalE			1A9Y
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_04575	COG4704	S	Uncharacterized conserved protein, DUF2141 family				
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_04580	COG2930	I	Lipid-binding SYLF domain, Ysc84/FYVE family	SYLF		21624956	
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_04590	COG0666	T	Ankyrin repeat	ANKYR			6AUN
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_04595	COG0007	H	Uroporphyrinogen-III methylase (siroheme synthase)	CysG	Cobalamine/B12 biosynthesis		1PJQ
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_04605	COG0744	M	Penicillin-binding protein 1B/1F, peptidoglycan  transglycosylase/transpeptidase	MrcB			3FWL
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_04610	COG0373	H	Glutamyl-tRNA reductase	HemA	Heme biosynthesis		2XOE
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_04615	COG2232	E	Pyrrolysine biosynthesis ligase PylC and related enzymes, ATP-grasp superfamily	PylC		22985965	
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_04625	COG0189	EHJQ	Glutathione synthase, LysX or RimK-type ligase, ATP-grasp superfamily	LysX	Lysine biosynthesis		1GLV
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_04630	COG1767	H	Triphosphoribosyl-dephospho-CoA synthetase	CitG			3H9P
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_04640	COG1411	R	Uncharacterized conserved protein related to proFAR isomerase (HisA)				
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_04645	COG2232	E	Pyrrolysine biosynthesis ligase PylC and related enzymes, ATP-grasp superfamily	PylC		22985965	
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_04655	COG1891	H	4-(hydroxymethyl)-2-furancarboxaldehyde phosphate synthase MfnB	MfnB		25905665	4RC1
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_04660	COG2457	S	Uncharacterized conserved protein, DUF447 domain				2IML
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_04670	COG0163	H	Flavin prenyltransferase UbiX	UbiX	Ubiquinone biosynthesis	28754323;26083743	1SBZ
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_04675	COG2054	H	5-(aminomethyl)-3-furanmethanol-phosphate kinase MfnE (methanofuran biosynthesis)	MfnE		26100040	
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_04720	COG1146	F	NAD-dependent dihydropyrimidine dehydrogenase, PreA subunit	PreA			
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_04740	COG0209	F	Ribonucleotide reductase alpha subunit	NrdA	Pyrimidine salvage		1R1R
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_04775	COG0863	L	DNA modification methylase	YhdJ			1BOO
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_04790	COG1948	L	ERCC4-type crossover junction endonuclease	MUS81			1J22
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_04800	COG4122	J	tRNA 5-hydroxyU34 O-methylase TrmR/YrrM	TrmR	tRNA modification	29982645	1H1D
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_04810	COG0258	L	5'-3' exonuclease Xni/ExoIX (flap endonuclease)	ExoIX		19000038;23821668	3ZDA
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_04870	COG0648	L	Endonuclease IV	Nfo			2NQH
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_04895	COG4067	S	Uncharacterized conserved protein				
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_04920	COG1409	T	3',5'-cyclic AMP phosphodiesterase CpdA	CpdA			2ZO9
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_04925	COG2101	K	TATA-box binding protein (TBP), component of TFIID and TFIIIB	SPT15			1NGM
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_04955	COG1088	M	dTDP-D-glucose 4,6-dehydratase	RfbB			1G1A
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_04960	COG0438	M	Glycosyltransferase involved in cell wall bisynthesis	RfaB			2IV7
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_04980	COG0417	L	DNA polymerase B elongation subunit	PolB			6P1H
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_05030	COG2077	O	Peroxiredoxin	Tpx			4AF2
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_05040	COG0596	HR	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold	MenH	Menaquinone biosynthesis		4MYS
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_05045	COG1145	C	Ferredoxin	NapF			6FAH
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_05050	COG1606	R	ATP-utilizing enzyme, PP-loop superfamily				6B2O
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_05055	COG1180	O	Pyruvate-formate lyase-activating enzyme	PflA			3CAN
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_05065	COG2904	J	NADPH-dependent 7-cyano-7-deazaguanine reductase QueF, N-terminal domain	QueFN			3BP1
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_05070	COG0343	J	Queuine/archaeosine tRNA-ribosyltransferase	Tgt	tRNA modification	15805528	1XW8
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_05075	COG0809	J	S-adenosylmethionine:tRNA-ribosyltransferase-isomerase (queuine synthetase)	QueA	tRNA modification		1VKY
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_05080	COG2195	E	Di- or tripeptidase	PepD2			2QYV
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_05085	COG0061	H	NAD kinase	NadK			1SUW
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_05090	COG0535	DH	Radical SAM superfamily maturase, SkfB/NifB/PqqE family	SkfB		23282011	6Q2P
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_05100	COG2266	H	GTP:adenosylcobinamide-phosphate guanylyltransferase		Cobalamine/B12 biosynthesis	16895922	2MZB
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_05110	COG3383	R	Predicted molibdopterin-dependent oxidoreductase YjgC	YjgC			1AA6
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_05115	COG1905	C	NADH:ubiquinone oxidoreductase 24 kD subunit (chain E)	NuoE	NADH dehydrogenase		5XF9
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_05120	COG0647	F	Ribonucleotide monophosphatase NagD, HAD superfamily	NagD			1PW5
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_05130	COG4544	S	Uncharacterized conserved protein				
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_05135	COG0013	J	Alanyl-tRNA synthetase	AlaS	Aminoacyl-tRNA synthetases		2ZZE
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_05140	COG0473	CE	Isocitrate/isopropylmalate dehydrogenase	LeuB	TCA cycle		1GC9
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_05150	COG0688	I	Phosphatidylserine decarboxylase	Psd	Phospholipid biosynthesis		6L06
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_05160	COG0841	V	Multidrug efflux pump subunit AcrB	AcrB			1IWG
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_05165	COG0845	MV	Multidrug efflux pump subunit AcrA (membrane-fusion protein)	AcrA			1T5E
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_05175	COG1189	J	Predicted rRNA methylase YqxC, contains S4 and FtsJ domains	YqxC			3OPN
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_05180	COG0517	T	CBS domain	CBS			1B3O
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_05185	COG0512	EH	Anthranilate/para-aminobenzoate synthase component II (glutamine amidotransferase)	PabA	Aromatic amino acid biosynthesis		1I1Q
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_05200	COG0500	QR	SAM-dependent methyltransferase	SmtA			5DNK
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_05210	COG0777	I	Acetyl-CoA carboxylase beta subunit	AccD	Fatty acid biosynthesis		2F9I
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_05230	COG1011	H	FMN and 5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YigB, HAD superfamily (riboflavin biosynthesis)	YigB		24123841	4JB3
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_05235	COG0457	R	Tetratricopeptide (TPR) repeat	TPR			3AS4
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_05250	COG0028	EH	Acetolactate synthase large subunit or other thiamine pyrophosphate-requiring enzyme	IlvB	Isoleucine, leucine, valine biosynthesis		1BFD
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_05255	COG0535	DH	Radical SAM superfamily maturase, SkfB/NifB/PqqE family	SkfB		23282011	6Q2P
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_05260	COG0451	M	Nucleoside-diphosphate-sugar epimerase	WcaG			2X4G
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_05265	COG0535	DH	Radical SAM superfamily maturase, SkfB/NifB/PqqE family	SkfB		23282011	6Q2P
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_05270	COG2227	H	2-polyprenyl-3-methyl-5-hydroxy-6-metoxy-1,4-benzoquinol methylase	UbiG	Ubiquinone biosynthesis		1BHJ
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_05275	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_05280	COG2896	H	GTP 3',8-cyclase (molybdenum cofactor biosynthesis protein MoaA)	MoaA	Molybdopterin biosynthesis		1TV7
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_05285	COG0436	E	Aspartate/methionine/tyrosine aminotransferase	AspB	Isoleucine, leucine, valine biosynthesis		2O0R
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_05290	COG1216	G	Glycosyltransferase, GT2 family	WcaE			2Z86
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_05295	COG1209	M	dTDP-glucose pyrophosphorylase	RmlA1			1FXO
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_05300	COG1088	M	dTDP-D-glucose 4,6-dehydratase	RfbB			1G1A
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_05305	COG2227	H	2-polyprenyl-3-methyl-5-hydroxy-6-metoxy-1,4-benzoquinol methylase	UbiG	Ubiquinone biosynthesis		1BHJ
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_05310	COG1087	M	UDP-glucose 4-epimerase	GalE			1A9Y
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_05315	COG2609	C	Pyruvate dehydrogenase complex, dehydrogenase (E1) component	AceE	Pyruvate oxidation		1L8A
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_05320	COG0022	C	Pyruvate/2-oxoglutarate/acetoin dehydrogenase complex, dehydrogenase (E1) component, beta subunit	AcoB	Pyruvate oxidation		2OZL
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_05325	COG3063	NW	Type IV pilus assembly protein PilF/PilW	PilF		16403447	2VQ2
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_05335	COG2227	H	2-polyprenyl-3-methyl-5-hydroxy-6-metoxy-1,4-benzoquinol methylase	UbiG	Ubiquinone biosynthesis		1BHJ
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_05350	COG1516	NU	Flagellin-specific chaperone FliS	FliS			1ORJ
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_05360	COG2524	K	Predicted transcriptional regulator, contains C-terminal CBS domains				
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_05365	COG1516	NU	Flagellin-specific chaperone FliS	FliS			1ORJ
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_05375	COG1516	NU	Flagellin-specific chaperone FliS	FliS			1ORJ
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_05410	COG1256	N	Flagellar hook-associated protein FlgK	FlgK			2D4Y
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_05415	COG3951	N	Rod binding protein domain	FlgJ1			
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_05420	COG1706	N	Flagellar basal body P-ring protein FlgI	FlgI			
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_05430	COG1558	N	Flagellar basal body rod protein FlgC	FlgC			
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_05440	COG0798	P	Arsenite efflux pump ArsB, ACR3 family	ACR3			
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_05450	COG0555	P	ABC-type sulfate transport system, permease component	CysU			3D31
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_05455	COG4161	E	ABC-type arginine transport system, ATPase component	ArtP			
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_05460	COG0725	P	ABC-type molybdate transport system, periplasmic Mo-binding protein ModA	ModA	Molybdopterin biosynthesis		1AMF
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_05475	COG4161	E	ABC-type arginine transport system, ATPase component	ArtP			
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_05480	COG0555	P	ABC-type sulfate transport system, permease component	CysU			3D31
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_05485	COG4143	H	ABC-type thiamine transport system, periplasmic component TbpA	TbpA			2QRY
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_05490	COG0071	O	Small heat shock protein IbpA, HSP20 family	IbpA			1GME
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_05495	COG4623	MT	Membrane-bound lytic murein transglycosylase MltF	MltF			4OWD
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_05510	COG0471	G	Di- and tricarboxylate antiporter	CitT			4F35
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_05515	COG0075	EF	Archaeal aspartate aminotransferase or a related aminotransferase, includes purine catabolism protein PucG	PucG	Serine biosynthesis		3NNK
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_05520	COG0124	J	Histidyl-tRNA synthetase	HisS	Aminoacyl-tRNA synthetases		1KMM
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_05530	COG0104	F	Adenylosuccinate synthase	PurA	Purine biosynthesis		1ADE
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_05535	COG1191	K	DNA-directed RNA polymerase specialized sigma subunit	FliA	RNA polymerase		1RP3
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_05540	COG1187	J	Pseudouridylate synthase RsuA, specific for 16S rRNA U516  and 23S rRNA U2605	RsuA	16S rRNA modification		1KSK
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_05580	COG5246
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_05585	COG1233	Q	Phytoene dehydrogenase-related protein				4REP
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_05590	COG0142	H	Geranylgeranyl pyrophosphate synthase	IspA	Isoprenoid biosynthesis		2AZJ
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_05595	COG5524	CT	Bacteriorhodopsin				
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_05635	COG1541	H	Phenylacetate-coenzyme A ligase PaaK, adenylate-forming domain family	PaaK			2Y4O
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_05640	COG0447	H	1,4-Dihydroxy-2-naphthoyl-CoA synthase	MenB	Menaquinone biosynthesis		4ELS
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_05645	COG1506	E	Dipeptidyl aminopeptidase/acylaminoacyl peptidase	DAP2			2JBW
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_05650	COG0010	E	Arginase/agmatinase family enzyme	SpeB	Urea cycle		1CEV
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_05655	COG0673	R	Predicted dehydrogenase	MviM			3UUW
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_05665	COG0447	H	1,4-Dihydroxy-2-naphthoyl-CoA synthase	MenB	Menaquinone biosynthesis		4ELS
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_05670	COG0045	C	Succinyl-CoA synthetase, beta subunit	SucC	TCA cycle		1SCU
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_05680	COG1250	I	3-hydroxyacyl-CoA dehydrogenase	FadB	Fatty acid biosynthesis		5ZQZ
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_05685	COG3246	S	Uncharacterized conserved protein, DUF849 family				3C6C
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_05690	COG1013	C	Pyruvate:ferredoxin oxidoreductase or related 2-oxoacid:ferredoxin oxidoreductase, beta subunit	PorB	Pyruvate oxidation		1B0P
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_05695	COG1060	H	2-iminoacetate synthase ThiH/Menaquinone biosynthesis enzymes MqnC and MqnE	ThiH	Thiamine biosynthesis	18801996	4WCX
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_05705	COG4158	R	Predicted ABC-type sugar transport system, permease component				
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_05710	COG3840	H	ABC-type thiamine transport system, ATPase component ThiQ	ThiQ			
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_05720	COG3960	Q	Glyoxylate carboligase	Gcl			
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_05725	COG1712	E	L-aspartate dehydrogenase, NAD(P)-dependent	AspD		12496312	1H2H
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_05730	COG2301	G	Citrate lyase beta subunit	CitE			4ROQ
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_05735	COG0111	H	Phosphoglycerate dehydrogenase or related dehydrogenase	SerA	Serine biosynthesis		3OET
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_05740	COG1712	E	L-aspartate dehydrogenase, NAD(P)-dependent	AspD		12496312	1H2H
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_05745	COG1453	R	Predicted oxidoreductase of the aldo/keto reductase family				
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_05750	COG1105	G	1-phosphofructokinase or 6-phosphofructokinase II	FruK			2ABQ
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_05755	COG3718	G	5-deoxy-D-glucuronate isomerase	IolB			2QJV
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_05765	COG1453	R	Predicted oxidoreductase of the aldo/keto reductase family				
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_05770	COG0190	H	5,10-methylene-tetrahydrofolate dehydrogenase/Methenyl tetrahydrofolate cyclohydrolase	FolD			1A4I
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_05775	COG2759	F	Formyltetrahydrofolate synthetase	MIS1			1EG7
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_05780	COG4583	E	Sarcosine oxidase gamma subunit	SoxG			
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_05785	COG0404	E	Glycine cleavage system protein T (aminomethyltransferase)	GcvT	Glycine cleavage	25433025;25505271	2GAH
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_05790	COG5256	J	Translation elongation factor EF-1alpha (GTPase)	TEF1	Translation factors		1F60
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_05795	COG0073	J	tRNA-binding EMAP/Myf domain	EMAP			1MKH
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_05800	COG0016	J	Phenylalanyl-tRNA synthetase alpha subunit	PheS	Aminoacyl-tRNA synthetases		3L4G
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_05805	COG0292	J	Ribosomal protein L20	RplT	Ribosome 50S subunit	30270044	1VS6
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_05815	COG0290	J	Translation initiation factor IF-3	InfC	Translation factors		2IFE
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_05820	COG0124	J	Histidyl-tRNA synthetase	HisS	Aminoacyl-tRNA synthetases		1KMM
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_05825	COG0859	M	ADP-heptose:LPS heptosyltransferase	RfaF			1PSW
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_05830	COG0297	G	Glycogen synthase	GlgA			1RZU
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_05835	COG0451	M	Nucleoside-diphosphate-sugar epimerase	WcaG			2X4G
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_05850	COG1090	R	NAD dependent epimerase/dehydratase family enzyme	YfcH			4B4O
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_05855	COG0749	L	DNA polymerase I, 3'-5' exonuclease and polymerase domains	PolA			1D8Y
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_05860	COG0517	T	CBS domain	CBS			1B3O
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_05865	COG5375	S	Uncharacterized conserved protein				
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_05870	COG1934	M	Lipopolysaccharide export system protein LptA	LptA			2R19
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_05875	COG4161	E	ABC-type arginine transport system, ATPase component	ArtP			
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_05885	COG4668	G	Mannitol/fructose-specific phosphotransferase system, IIA domain	MtlA2			1A3A
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_05915	COG0128	E	5-enolpyruvylshikimate-3-phosphate synthase	AroA	Aromatic amino acid biosynthesis		4N3P
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_05925	COG2183	K	Transcriptional accessory protein Tex/SPT6	Tex			2OCE
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_05930	COG0616	O	Periplasmic serine protease, ClpP class	SppA			3BEZ
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_05935	COG0776	L	Bacterial nucleoid DNA-binding protein IHF-alpha	HimA			1B8Z
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_05940	COG1007	C	NADH:ubiquinone oxidoreductase subunit 2 (chain N)	NuoN	NADH dehydrogenase		4HE8
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_05960	COG0759	M	Membrane-anchored protein YidD, putatitve component of membrane protein insertase Oxa1/YidC/SpoIIIJ	YidD			
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_05970	COG0706	M	Membrane protein insertase Oxa1/YidC/SpoIIIJ	YidC			3WO6
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_05975	COG1161	J	Ribosome biogenesis GTPase RbgA	RbgA			6G14
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_05980	COG1608	I	Isopentenyl phosphate kinase			16621811	3LKK
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_05985	COG0488	R	ATPase components of ABC transporters with duplicated ATPase domains	Uup			5ZXD
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_05990	COG4215	E	ABC-type arginine transport system, permease component	ArtQ			
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_05995	COG4215	E	ABC-type arginine transport system, permease component	ArtQ			
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_06010	COG0564	J	Pseudouridine synthase RluA, 23S rRNA- or tRNA-specific	RluA	23S rRNA modification		2I82
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_06015	COG1253	R	Hemolysin-related protein, contains CBS domains, UPF0053 family	TlyC			2NQW
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_06020	COG0517	T	CBS domain	CBS			1B3O
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_06030	COG0484	O	DnaJ-class molecular chaperone with C-terminal Zn finger domain	DnaJ			1BQ0
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_06035	COG5271	J	Midasin, AAA ATPase with  vWA domain, involved in ribosome maturation	MDN1			6HYP
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_06045	COG0227	J	Ribosomal protein L28	RpmB	Ribosome 50S subunit		2JZ6
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_06055	COG1884	I	Methylmalonyl-CoA mutase, N-terminal domain/subunit	Sbm			6OXC
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_06065	COG1304	CIR	FMN-dependent dehydrogenase, includes L-lactate dehydrogenase and type II isopentenyl diphosphate isomerase	LldD	Isoprenoid biosynthesis		6AI7
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_06070	COG0060	J	Isoleucyl-tRNA synthetase	IleS	Aminoacyl-tRNA synthetases		1FFY
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_06080	COG2221	P	Dissimilatory sulfite reductase (desulfoviridin), alpha and beta subunits	DsrA			
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_06085	COG3749	S	Uncharacterized conserved protein, DUF934 family				
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_06090	COG0459	O	Chaperonin GroEL (HSP60 family)	GroEL			1AON
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_06100	COG5258	R	GTPase	GTPBP1			
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_06105	COG2102	J	Diphthamide synthase (EF-2-diphthine--ammonia ligase)	Dph6			2D13
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_06110	COG0175	EH	3'-phosphoadenosine 5'-phosphosulfate sulfotransferase (PAPS reductase)/FAD synthetase or related enzyme	CysD	Cysteine biosynthesis		1ZUN
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_06115	COG1612	H	Heme A synthase	CtaA			6A2J
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_06125	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_06135	COG3958	G	Transketolase, C-terminal subunit	TktA2			
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_06140	COG0309	O	Carbamoyl dehydratase HypE (hydrogenase maturation factor)	HypE		28618091	2I6R
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_06145	COG0512	EH	Anthranilate/para-aminobenzoate synthase component II (glutamine amidotransferase)	PabA	Aromatic amino acid biosynthesis		1I1Q
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_06155	COG0152	F	Phosphoribosylaminoimidazole-succinocarboxamide synthase	PurC	Purine biosynthesis		1A48
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_06160	COG0165	E	Argininosuccinate lyase	ArgH	Arginine biosynthesis		1AOS
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_06165	COG5406
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_06170	COG0521	H	Molybdopterin biosynthesis enzyme MoaB/MogA	MoaB	Molybdopterin biosynthesis	32239579	1DI6
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_06195	COG1249	C	Dihydrolipoamide dehydrogenase (E3) component of pyruvate/2-oxoglutarate dehydrogenase complex or glutathione oxidoreductase	Lpd	Glycine cleavagePyruvate oxidation		6QKG
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_06200	COG0123	Q	Acetoin utilization deacetylase AcuC or a related deacetylase	AcuC			1C3P
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_06205	COG2335	R	Uncaracterized surface protein containing fasciclin (FAS1) repeats	FAS1			
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_06225	COG1651	O	Protein thiol-disulfide isomerase DsbC	DsbG			2HI7
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_06235	COG1089	M	GDP-D-mannose dehydratase	Gmd			1DB3
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_06240	COG1088	M	dTDP-D-glucose 4,6-dehydratase	RfbB			1G1A
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_06250	COG0500	QR	SAM-dependent methyltransferase	SmtA			5DNK
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_06255	COG0673	R	Predicted dehydrogenase	MviM			3UUW
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_06265	COG1088	M	dTDP-D-glucose 4,6-dehydratase	RfbB			1G1A
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_06275	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_06300	COG1087	M	UDP-glucose 4-epimerase	GalE			1A9Y
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_06305	COG2148	M	Sugar transferase involved in LPS biosynthesis (colanic, teichoic acid)	WcaJ			5W7L
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_06310	COG0472	M	UDP-N-acetylmuramyl pentapeptide phosphotransferase/UDP-N-acetylglucosamine-1-phosphate transferase	Rfe	Mureine biosynthesis		4J72
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_06320	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_06330	COG0438	M	Glycosyltransferase involved in cell wall bisynthesis	RfaB			2IV7
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_06345	COG0438	M	Glycosyltransferase involved in cell wall bisynthesis	RfaB			2IV7
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_06350	COG0438	M	Glycosyltransferase involved in cell wall bisynthesis	RfaB			2IV7
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_06365	COG4641	D	Spore maturation protein CgeB				
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_06375	COG0535	DH	Radical SAM superfamily maturase, SkfB/NifB/PqqE family	SkfB		23282011	6Q2P
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_06385	COG1209	M	dTDP-glucose pyrophosphorylase	RmlA1			1FXO
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_06390	COG4608	E	ABC-type oligopeptide transport system, ATPase component	AppF			
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_06395	COG1088	M	dTDP-D-glucose 4,6-dehydratase	RfbB			1G1A
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_06415	COG1089	M	GDP-D-mannose dehydratase	Gmd			1DB3
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_06420	COG1208	JM	NDP-sugar pyrophosphorylase, includes eIF-2Bgamma, eIF-2Bepsilon, and LPS biosynthesis protein s	GCD1			6JQ8
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_06425	COG0500	QR	SAM-dependent methyltransferase	SmtA			5DNK
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_06435	COG0436	E	Aspartate/methionine/tyrosine aminotransferase	AspB	Isoleucine, leucine, valine biosynthesis		2O0R
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_06440	COG0451	M	Nucleoside-diphosphate-sugar epimerase	WcaG			2X4G
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_06445	COG0436	E	Aspartate/methionine/tyrosine aminotransferase	AspB	Isoleucine, leucine, valine biosynthesis		2O0R
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_06450	COG1898	M	dTDP-4-dehydrorhamnose 3,5-epimerase or related enzyme	RfbC			1DZR
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_06455	COG1091	M	dTDP-4-dehydrorhamnose reductase	RfbD			1KBZ
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_06490	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_06495	COG2896	H	GTP 3',8-cyclase (molybdenum cofactor biosynthesis protein MoaA)	MoaA	Molybdopterin biosynthesis		1TV7
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_06500	COG1089	M	GDP-D-mannose dehydratase	Gmd			1DB3
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_06515	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_06525	COG3822	G	D-lyxose ketol-isomerase	YdaE			3MPB
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_06535	COG0535	DH	Radical SAM superfamily maturase, SkfB/NifB/PqqE family	SkfB		23282011	6Q2P
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_06540	COG0673	R	Predicted dehydrogenase	MviM			3UUW
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_06545	COG0161	H	Adenosylmethionine-8-amino-7-oxononanoate aminotransferase	BioA	Biotin biosynthesis		1MLY
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_06550	COG1861	M	Spore coat polysaccharide biosynthesis protein SpsF, cytidylyltransferase family	SpsF			
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_06595	COG1462	M	Curli biogenesis system outer membrane secretion channel CsgG	CsgG		24417346	3X2R
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_06635	COG2308	R	Circularly permuted ATP-grasp protein			20023723	3N6X
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_06660	COG2931	Q	Ca2+-binding protein, RTX toxin-related			15135544	1AF0
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_06665	COG4988	CO	ABC-type transport system involved in cytochrome bd biosynthesis, ATPase and permease components	CydD			
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_06670	COG1566	V	Multidrug resistance efflux pump EmrA	EmrA			4TKO
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_06690	COG0664	T	cAMP-binding domain of CRP or a regulatory subunit of cAMP-dependent protein kinases	Crp			1FT9
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_06700	COG0664	T	cAMP-binding domain of CRP or a regulatory subunit of cAMP-dependent protein kinases	Crp			1FT9
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_06705	COG4555	CP	ABC-type Na+ transport system, ATPase component NatA	NatA			
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_06710	COG1538	M	Outer membrane protein TolC	TolC			1EK9
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_06715	COG0115	EH	Branched-chain amino acid aminotransferase/4-amino-4-deoxychorismate lyase	IlvE	Isoleucine, leucine, valine biosynthesis		1A3G
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_06720	COG4235	CO	Cytochrome c-type biogenesis protein CcmH/NrfG	NrfG			
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_06730	COG0526	O	Thiol-disulfide isomerase or thioredoxin	TrxA			1XFL
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_06735	COG1138	CO	Cytochrome c biogenesis protein CcmF	CcmF			
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_06755	COG2386	O	ABC-type transport system involved in cytochrome c biogenesis, permease component	CcmB			
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_06760	COG1120	PH	ABC-type cobalamin/Fe3+-siderophores transport system, ATPase component	FepC			2NQ2
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_06765	COG1049	C	Aconitase B	AcnB	TCA cycle		1L5J
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_06770	COG1146	F	NAD-dependent dihydropyrimidine dehydrogenase, PreA subunit	PreA			
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_06775	COG1197	LK	Transcription-repair coupling factor (superfamily II helicase)	Mfd			2EYQ
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_06780	COG0501	O	Zn-dependent protease with chaperone function	HtpX			2YPT
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_06800	COG2222	M	Fructoselysine-6-P-deglycase FrlB or related protein, duplicated sugar isomerase (SIS) domain	AgaS		16153181	3C3J
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_06810	COG0067	E	Glutamate synthase domain 1	GltB1	Glutamine biosynthesis		1EA0
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_06835	COG3587	V	Restriction endonuclease, type III RM system	PM0699			
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_06860	COG1304	CIR	FMN-dependent dehydrogenase, includes L-lactate dehydrogenase and type II isopentenyl diphosphate isomerase	LldD	Isoprenoid biosynthesis		6AI7
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_06875	COG3147	D	Cell division protein DedD (periplasmic protein involved in septation)	DedD			
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_06880	COG2367	V	Beta-lactamase class A	PenP			6W34
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_06885	COG0125	F	Thymidylate kinase	Tmk	Thymidylate biosynthesis		3LV8
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_06890	COG2812	L	DNA polymerase III, gamma/tau subunits	DnaX			1A5T
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_06895	COG0060	J	Isoleucyl-tRNA synthetase	IleS	Aminoacyl-tRNA synthetases		1FFY
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_06900	COG0060	J	Isoleucyl-tRNA synthetase	IleS	Aminoacyl-tRNA synthetases		1FFY
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_06905	COG1099	R	Predicted metal-dependent hydrolase, TIM-barrel fold				3GUW
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_06910	COG2333	U	DNA uptake channel protein ComEC C-terminal domain, metallo-beta-lactamase superfamily	ComEC			
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_06930	COG2192	R	Predicted carbamoyl transferase, NodU family				3VEN
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_06945	COG4586	R	ABC-type uncharacterized transport system, ATPase component				
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_06950	COG1682	G	ABC-type polysaccharide/teichoic acid/polyol phosphate export permease	TagG			6JBH
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_06955	COG0279	G	Phosphoheptose isomerase	GmhA			1G76
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_06960	COG0647	F	Ribonucleotide monophosphatase NagD, HAD superfamily	NagD			1PW5
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_06970	COG1088	M	dTDP-D-glucose 4,6-dehydratase	RfbB			1G1A
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_06975	COG1089	M	GDP-D-mannose dehydratase	Gmd			1DB3
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_06980	COG2870	M	ADP-heptose synthase, bifunctional sugar kinase/adenylyltransferase	RfaE			5X9Q
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_06985	COG0673	R	Predicted dehydrogenase	MviM			3UUW
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_06990	COG4359	E	2-hydroxy-3-keto-5-methylthiopentenyl-1-phosphate phosphatase (methionine salvage)	MtnX			2FEA
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_06995	COG0451	M	Nucleoside-diphosphate-sugar epimerase	WcaG			2X4G
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_07000	COG2226	H	Ubiquinone/menaquinone biosynthesis C-methylase UbiE/MenG	UbiE	Biotin biosynthesis		4OBW
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_07005	COG1089	M	GDP-D-mannose dehydratase	Gmd			1DB3
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_07010	COG2609	C	Pyruvate dehydrogenase complex, dehydrogenase (E1) component	AceE	Pyruvate oxidation		1L8A
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_07015	COG0021	G	Transketolase	TktA	Pentose phosphate pathway		1AY0
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_07020	COG0436	E	Aspartate/methionine/tyrosine aminotransferase	AspB	Isoleucine, leucine, valine biosynthesis		2O0R
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_07025	COG0399	M	dTDP-4-amino-4,6-dideoxygalactose transaminase	WecE		15271350	4PIW
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_07040	COG2746	V	Aminoglycoside N3'-acetyltransferase	YokD			2NYG
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_07045	COG0494	V	8-oxo-dGTP pyrophosphatase MutT and related house-cleaning NTP pyrophosphohydrolases, NUDIX family	MutT			4V14
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_07050	COG2344	K	NADH/NAD ratio-sensing transcriptional regulator Rex	Rex		23490197	3KEO
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_07055	COG0535	DH	Radical SAM superfamily maturase, SkfB/NifB/PqqE family	SkfB		23282011	6Q2P
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_07070	COG0707	M	UDP-N-acetylglucosamine:LPS N-acetylglucosamine transferase	MurG	Mureine biosynthesis		1F0K
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_07075	COG0034	F	Glutamine phosphoribosylpyrophosphate amidotransferase	PurF	Purine biosynthesis		1ECB
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_07090	COG1012	I	Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase	AdhE	Proline degradation		1A4S
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_07105	COG0354	O	Folate-binding protein YgfZ, synthesis and repair of Fe-S clusters	YgfZ		27941785;22081392	1NRK
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_07110	COG1902	C	2,4-dienoyl-CoA reductase or related NADH-dependent reductase, Old Yellow Enzyme (OYE) family	FadH			1BWK
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_07115	COG0679	R	Predicted permease, AEC (auxin efflux carrier) family	YfdV			
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_07120	COG0287	E	Prephenate dehydrogenase	TyrA	Aromatic amino acid biosynthesis		2F1K
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_07125	COG0697	GER	Permease of the drug/metabolite transporter (DMT) superfamily	RhaT			5I20
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_07130	COG0697	GER	Permease of the drug/metabolite transporter (DMT) superfamily	RhaT			5I20
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_07135	COG0031	E	Cysteine synthase	CysK	Cysteine biosynthesis		1FCJ
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_07140	COG0449	M	Glucosamine 6-phosphate synthetase, contains amidotransferase and phosphosugar isomerase domains	GlmS			2J6H
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_07145	COG2218	C	Formylmethanofuran dehydrogenase subunit C	FwdC			5T5I
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_07150	COG1304	CIR	FMN-dependent dehydrogenase, includes L-lactate dehydrogenase and type II isopentenyl diphosphate isomerase	LldD	Isoprenoid biosynthesis		6AI7
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_07160	COG0415	L	Deoxyribodipyrimidine photolyase	PhrB			1TEZ
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_07165	COG1826	U	Twin-arginine protein secretion pathway components TatA and TatB	TatA			2L16
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_07170	COG1386	K	Chromosome segregation and condensation protein ScpB	ScpB			1T6S
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_07190	COG0060	J	Isoleucyl-tRNA synthetase	IleS	Aminoacyl-tRNA synthetases		1FFY
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_07195	COG1078	R	HD superfamily phosphohydrolase	YdhJ			2HEK
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_07205	COG0708	L	Exonuclease III	XthA			1AKO
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_07210	COG0129	EG	Dihydroxyacid dehydratase/phosphogluconate dehydratase	IlvD	Isoleucine, leucine, valine biosynthesis		2GP4
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_07220	COG0143	J	Methionyl-tRNA synthetase	MetG	Aminoacyl-tRNA synthetases		1A8H
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_07225	COG1538	M	Outer membrane protein TolC	TolC			1EK9
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_07230	COG2242	H	Precorrin-6B methylase 2	CobL	Cobalamine/B12 biosynthesis		1F38
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_07245	COG1087	M	UDP-glucose 4-epimerase	GalE			1A9Y
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_07250	COG1121	P	ABC-type Mn2+/Zn2+ transport system, ATPase component	ZnuC			
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_07255	COG0673	R	Predicted dehydrogenase	MviM			3UUW
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_07265	COG0500	QR	SAM-dependent methyltransferase	SmtA			5DNK
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_07270	COG1861	M	Spore coat polysaccharide biosynthesis protein SpsF, cytidylyltransferase family	SpsF			
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_07275	COG1086	MO	NDP-sugar epimerase, includes UDP-GlcNAc-inverting 4,6-dehydratase FlaA1 and capsular polysaccharide biosynthesis protein EpsC	FlaA1			2GN4
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_07290	COG3822	G	D-lyxose ketol-isomerase	YdaE			3MPB
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_07295	COG1212	M	CMP-2-keto-3-deoxyoctulosonic acid synthetase	KdsB	Lipid A biosynthesis		1VH1
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_07310	COG0635	H	Coproporphyrinogen-III oxidase HemN  (oxygen-independent) or related Fe-S oxidoreductase	HemN	Heme biosynthesis		1OLT
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_07325	COG0451	M	Nucleoside-diphosphate-sugar epimerase	WcaG			2X4G
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_07335	COG0623	I	Enoyl-[acyl-carrier-protein] reductase FabI	FabI	Fatty acid biosynthesis		1C14
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_07340	COG0731	J	Wyosine [tRNA(Phe)-imidazoG37] synthetase, radical SAM superfamily	Tyw1	tRNA modification		2YX0
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_07345	COG4032	H	Sulfopyruvate decarboxylase, TPP-binding subunit (coenzyme M biosynthesis)				
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_07350	COG0371	C	Glycerol dehydrogenase or related enzyme, iron-containing ADH family	GldA	Isoprenoid biosynthesis	20688982	3S99
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_07355	COG2870	M	ADP-heptose synthase, bifunctional sugar kinase/adenylyltransferase	RfaE			5X9Q
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_07360	COG5285	Q	Ectoine hydroxylase-related dioxygenase, phytanoyl-CoA dioxygenase (PhyH) family	PhyH			2A1X
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_07375	COG1887	MI	CDP-glycerol glycerophosphotransferase, TagB/SpsB family	TagB			
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_07395	COG2230	I	Cyclopropane fatty-acyl-phospholipid synthase and related methyltransferases	Cfa			5Z9O
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_07405	COG4627	R	Predicted SAM-depedendent methyltransferase				
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_07415	COG1235	P	Phosphoribosyl 1,2-cyclic phosphate phosphodiesterase	PhnP			6B9V
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_07435	COG0842	V	ABC-type multidrug transport system, permease component	YadH			
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_07440	COG4987	CO	ABC-type transport system involved in cytochrome bd biosynthesis, fused ATPase and permease components	CydC			
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_07445	COG3391	R	DNA-binding beta-propeller fold protein YncE	YncE		22120742;28628661	3VGZ
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_07450	COG0683	E	ABC-type branched-chain amino acid transport system, periplasmic component	LivK			1USG
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_07455	COG0520	E	Selenocysteine lyase/Cysteine desulfurase	CsdA			4LW2
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_07475	COG0078	E	Ornithine carbamoyltransferase	ArgF	Arginine biosynthesis		1A1S
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_07480	COG4992	E	Acetylornithine/succinyldiaminopimelate/putrescine aminotransferase	ArgD	Arginine biosynthesis		2E54
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_07485	COG1682	G	ABC-type polysaccharide/teichoic acid/polyol phosphate export permease	TagG			6JBH
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_07495	COG3264	M	Small-conductance mechanosensitive channel MscK	MscK			
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_07500	COG0208	F	Ribonucleotide reductase beta subunit, ferritin-like domain	NrdB	Pyrimidine salvage		1AV8
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_07505	COG0209	F	Ribonucleotide reductase alpha subunit	NrdA	Pyrimidine salvage		1R1R
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_07535	COG0230	J	Ribosomal protein L34	RpmH	Ribosome 50S subunit		6SPB
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_07540	COG0594	J	RNase P protein component	RnpA			1A6F
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_07545	COG5638
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_07555	COG0444	EP	ABC-type dipeptide/oligopeptide/nickel transport system, ATPase component	DppD			4FWI
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_07560	COG0600	P	ABC-type nitrate/sulfonate/bicarbonate transport system, permease component	TauC			
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_07565	COG1173	EP	ABC-type dipeptide/oligopeptide/nickel transport system, permease component	DppC			
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_07570	COG4533	K	DNA-binding transcriptional regulator SgrR of sgrS sRNA, contains a MarR-type HTH domain and a periplasmic-type solute-binding domain	SgrR			
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_07580	COG4133	O	ABC-type transport system involved in cytochrome c biogenesis, ATPase component	CcmA			
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_07585	COG1653	G	ABC-type glycerol-3-phosphate transport system, periplasmic component	UgpB			2Z8D
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_07590	COG1178	P	ABC-type Fe3+ transport system, permease component	FbpB			
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_07595	COG1177	E	ABC-type spermidine/putrescine transport system, permease component II	PotC			
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_07605	COG0141	E	Histidinol dehydrogenase	HisD	Histidine biosynthesis		1K75
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_07610	COG5485	R	Predicted ester cyclase				3EHC
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_07615	COG0623	I	Enoyl-[acyl-carrier-protein] reductase FabI	FabI	Fatty acid biosynthesis		1C14
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_07620	COG1879	G	ABC-type sugar transport system, periplasmic component, contains N-terminal xre family HTH domain	RbsB			1BA2
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_07635	COG0596	HR	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold	MenH	Menaquinone biosynthesis		4MYS
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_07645	COG1063	ER	Threonine dehydrogenase or related Zn-dependent dehydrogenase	Tdh	Non-phosphorylated Entner-Doudoroff pathway		4A2C
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_07655	COG0831	E	Urease gamma subunit	UreA			1A5K
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_07660	COG0832	E	Urease beta subunit	UreB			
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_07665	COG1228	Q	Imidazolonepropionase or related amidohydrolase	HutI			3OOQ
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_07680	COG0830	O	Urease accessory protein UreF	UreF			3SF5
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_07685	COG1428	F	Deoxyadenosine/deoxycytidine kinase	Dck			1J90
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_07690	COG0697	GER	Permease of the drug/metabolite transporter (DMT) superfamily	RhaT			5I20
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_07695	COG0572	F	Uridine kinase	Udk	Pyrimidine salvage		5B3F
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_07700	COG0624	E	Acetylornithine deacetylase/Succinyl-diaminopimelate desuccinylase or related deacylase	ArgE	Arginine biosynthesis		1CG2
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_07705	COG1902	C	2,4-dienoyl-CoA reductase or related NADH-dependent reductase, Old Yellow Enzyme (OYE) family	FadH			1BWK
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_07715	COG1732	M	Periplasmic glycine betaine/choline-binding (lipo)protein of an ABC-type transport system (osmoprotectant binding protein)	OsmF			4WEP
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_07720	COG4988	CO	ABC-type transport system involved in cytochrome bd biosynthesis, ATPase and permease components	CydD			
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_07725	COG1174	E	ABC-type proline/glycine betaine transport system, permease component	OpuBB			
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_07730	COG3383	R	Predicted molibdopterin-dependent oxidoreductase YjgC	YjgC			1AA6
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_07735	COG0354	O	Folate-binding protein YgfZ, synthesis and repair of Fe-S clusters	YgfZ		27941785;22081392	1NRK
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_07740	COG0346	Q	Catechol 2,3-dioxygenase or related enzyme, vicinal oxygen chelate (VOC) family	GloA		11830595	3R4Q
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_07745	COG0354	O	Folate-binding protein YgfZ, synthesis and repair of Fe-S clusters	YgfZ		27941785;22081392	1NRK
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_07770	COG3222	S	Uncharacterized conserved protein, glycosyltransferase A (GT-A) superfamily, DUF2064 family				3CGX
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_07780	COG0841	V	Multidrug efflux pump subunit AcrB	AcrB			1IWG
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_07800	COG4274	S	Uncharacterized conserved protein, contains GYD domain				
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_07805	COG2230	I	Cyclopropane fatty-acyl-phospholipid synthase and related methyltransferases	Cfa			5Z9O
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_07815	COG4791	U	Type III secretory pathway, EscT/YscT component	EscT			6R6B
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_07825	COG1338	N	Flagellar biosynthesis protein FliP	FliP			5H72
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_07835	COG1886	NU	Flagellar motor switch/type III secretory pathway protein FliN	FliN			1O9Y
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_07850	COG3144	N	Flagellar hook-length control protein FliK	FliK			2RRL
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_07860	COG1157	NU	Flagellar biosynthesis/type III secretory pathway ATPase FliI	FliI			5B0O
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_07865	COG1317	NU	Flagellar biosynthesis/type III secretory pathway protein FliH	FliH			5B0O
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_07870	COG1536	N	Flagellar motor switch protein FliG	FliG			4FHR
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_07875	COG4669	U	Type III secretory pathway, lipoprotein EscJ	EscJ			1YJ7
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_07925	COG2193	P	Bacterioferritin (cytochrome b1)	Bfr			4E6K
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_07935	COG0697	GER	Permease of the drug/metabolite transporter (DMT) superfamily	RhaT			5I20
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_07960	COG4103	P	Tellurite resistance protein TerB	TerB2		23044854	2JXU
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_07965	COG4774	P	Outer membrane receptor for monomeric catechols	Fiu			
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_07975	COG0247	C	Fe-S cluster-containing oxidoreductase, includes glycolate oxidase subunit GlcF	GlpC			
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_07980	COG0593	L	Chromosomal replication initiation ATPase DnaA	DnaA			1L8Q
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_07985	COG0379	H	Quinolinate synthase	NadA	NAD biosynthesis	24498065	4HHE
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_07995	COG2085	R	Predicted dinucleotide-binding enzyme				2VNS
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_08000	COG0045	C	Succinyl-CoA synthetase, beta subunit	SucC	TCA cycle		1SCU
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_08005	COG0074	C	Succinyl-CoA synthetase, alpha subunit	SucD	TCA cycle		1CQI
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_08010	COG2716	E	Glycine cleavage system regulator GcvR	GcvR			1U8S
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_08015	COG0582	LX	Integrase/recombinase, includes phage integrase	FimB			
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_08020	COG4974	L	Site-specific recombinase XerD	XerD			1A0P
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_08030	COG1198	L	Primosomal protein N' (replication factor Y) - superfamily II helicase	PriA			6DCR
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_08035	COG1197	LK	Transcription-repair coupling factor (superfamily II helicase)	Mfd			2EYQ
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_08040	COG0712	C	FoF1-type ATP synthase, delta subunit	AtpH	FoF1-type ATP synthase		1ABV
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_08045	COG0055	C	FoF1-type ATP synthase, beta subunit	AtpD	FoF1-type ATP synthase		3OAA
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_08055	COG0224	C	FoF1-type ATP synthase, gamma subunit	AtpG	FoF1-type ATP synthase	15326535	3OAA
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_08060	COG0055	C	FoF1-type ATP synthase, beta subunit	AtpD	FoF1-type ATP synthase		3OAA
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_08070	COG0494	V	8-oxo-dGTP pyrophosphatase MutT and related house-cleaning NTP pyrophosphohydrolases, NUDIX family	MutT			4V14
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_08075	COG0793	O	C-terminal processing protease CtpA/Prc, contains a PDZ domain	CtpA			6IQU
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_08085	COG0696	G	Phosphoglycerate mutase (BPG-independent), AlkP superfamily	GpmI	Glycolysis		1EJJ
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_08090	COG1576	J	23S rRNA pseudoU1915 N3-methylase RlmH	RlmH	23S rRNA modification		1NS5
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_08095	COG1123	O	ABC-type glutathione transport system ATPase component, contains duplicated ATPase domain	GsiA			
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_08105	COG0438	M	Glycosyltransferase involved in cell wall bisynthesis	RfaB			2IV7
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_08125	COG0004	P	Ammonia channel protein AmtB	AmtB			1U77
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_08140	COG1721	S	Uncharacterized conserved protein, DUF58 family, contains vWF domain	YeaD2			
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_08145	COG1239	H	Mg-chelatase subunit ChlI	ChlI			1G8P
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_08170	COG1290	C	Cytochrome b subunit of the bc complex	QcrB/PetB			1VF5
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_08175	COG2010	C	Cytochrome c, mono- and diheme variants	CccA			1A2S
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_08180	COG2099	H	Precorrin-6x reductase	CobK	Cobalamine/B12 biosynthesis		4X7G
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_08190	COG0235	EG	5-methylthioribulose/5-deoxyribulose/Fuculose 1-phosphate aldolase (methionine salvage, sugar degradation)	AraD	Urea cycle	31950558	1FUA
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_08195	COG0040	E	ATP phosphoribosyltransferase	HisG	Histidine biosynthesis		1H3D
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_08200	COG0128	E	5-enolpyruvylshikimate-3-phosphate synthase	AroA	Aromatic amino acid biosynthesis		4N3P
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_08205	COG0717	F	dCTP deaminase	Dcd	Thymidylate biosynthesis		1XS1
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_08230	COG3633	E	Na+/serine and Na+/threonine symporter SstT	SstT			
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_08240	COG0418	F	Dihydroorotase	PyrC	Pyrimidine biosynthesis		2Y3D
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_08245	COG0034	F	Glutamine phosphoribosylpyrophosphate amidotransferase	PurF	Purine biosynthesis		1ECB
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_08250	COG0297	G	Glycogen synthase	GlgA			1RZU
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_08255	COG0438	M	Glycosyltransferase involved in cell wall bisynthesis	RfaB			2IV7
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_08260	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_08270	COG0206	D	Cell division GTPase FtsZ	FtsZ			1FSZ
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_08280	COG0117	H	Riboflavin biosynthesis protein RibD, pyrimidine deaminase domain	RibD1	Riboflavin/FAD biosynthesis		2O7P
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_08285	COG2164	R	Uncharacterized protein with cyclophilin fold, contains DUF369 domain				2KA0
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_08290	COG0505	EF	Carbamoylphosphate synthase small subunit	CarA	Arginine biosynthesis		1C30
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_08295	COG0564	J	Pseudouridine synthase RluA, 23S rRNA- or tRNA-specific	RluA	23S rRNA modification		2I82
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_08300	COG1092	J	23S rRNA G2069 N7-methylase RlmK or C1962 C5-methylase RlmI	RlmK	23S rRNA modification		2B78
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_08305	COG0323	L	DNA mismatch repair ATPase MutL	MutL			1B62
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_08310	COG2222	M	Fructoselysine-6-P-deglycase FrlB or related protein, duplicated sugar isomerase (SIS) domain	AgaS		16153181	3C3J
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_08315	COG1026	O	Zn-dependent peptidase, M16 (insulinase) family	Cym1			2FGE
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_08320	COG1026	O	Zn-dependent peptidase, M16 (insulinase) family	Cym1			2FGE
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_08340	COG0495	J	Leucyl-tRNA synthetase	LeuS	Aminoacyl-tRNA synthetases		6LPF
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_08345	COG0495	J	Leucyl-tRNA synthetase	LeuS	Aminoacyl-tRNA synthetases		6LPF
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_08350	COG0196	H	FAD synthase	RibF	Riboflavin/FAD biosynthesis		1MRZ
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_08370	COG1419	N	Flagellar biosynthesis GTPase FlhF	FlhF			3SYN
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_08375	COG1032	R	Radical SAM superfamily enzyme YgiQ, UPF0313 family	YgiQ			6FD2
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_08380	COG0253	E	Diaminopimelate epimerase	DapF	Lysine biosynthesis		1BWZ
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_08385	COG1560	I	Palmitoleoyl-ACP: Kdo2-lipid-IV acyltransferase (lipid A biosynthesis)	LpxP	Lipid A biosynthesis	11830595	5F2T
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_08415	COG1104	E	Cysteine desulfurase/Cysteine sulfinate desulfinase IscS or related enzyme, NifS family	NifS		22773787;25825430	4IXO
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_08430	COG0483	G	Archaeal fructose-1,6-bisphosphatase or related enzyme, inositol monophosphatase family	SuhB	Gluconeogenesis		1AWB
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_08440	COG0438	M	Glycosyltransferase involved in cell wall bisynthesis	RfaB			2IV7
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_08450	COG1887	MI	CDP-glycerol glycerophosphotransferase, TagB/SpsB family	TagB			
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_08455	COG1212	M	CMP-2-keto-3-deoxyoctulosonic acid synthetase	KdsB	Lipid A biosynthesis		1VH1
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_08460	COG1164	E	Oligoendopeptidase F	PepF			3CE2
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_08465	COG1064	G	D-arabinose 1-dehydrogenase, Zn-dependent alcohol dehydrogenase family	AdhP			5O8Q
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_08470	COG3288	C	NAD/NADP transhydrogenase alpha subunit	PntA			1F8G
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_08485	COG5590	H	Ubiquinone biosynthesis protein COQ9				
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_08490	COG0027	F	Formate-dependent phosphoribosylglycinamide formyltransferase (GAR transformylase)	PurT	Purine biosynthesis		1KJ8
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_08500	COG1691	F	NCAIR mutase (PurE)-related protein				
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_08510	COG2130	QR	NADPH-dependent curcumin reductase CurA	CurA		21467222	1V3T
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_08520	COG1965	P	Fe-S cluster assembly protein CyaY, frataxin homolog	CyaY	Cobalamine/B12 biosynthesis		1EKG
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_08530	COG2885	M	Outer membrane protein OmpA and related peptidoglycan-associated (lipo)proteins	OmpA			1OAP
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_08535	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_08545	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_08550	COG1793	L	ATP-dependent DNA ligase	CDC9			1A0I
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_08555	COG1236	J	RNA processing exonuclease, beta-lactamase fold, Cft2 family	YSH1			2DKF
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_08560	COG0513	L	Superfamily II DNA and RNA helicase	SrmB			3RRM
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_08565	COG1409	T	3',5'-cyclic AMP phosphodiesterase CpdA	CpdA			2ZO9
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_08570	COG0623	I	Enoyl-[acyl-carrier-protein] reductase FabI	FabI	Fatty acid biosynthesis		1C14
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_08575	COG4221	C	NADP-dependent 3-hydroxy acid dehydrogenase YdfG	YdfG	Pyrimidine degradation		3P19
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_08580	COG0624	E	Acetylornithine deacetylase/Succinyl-diaminopimelate desuccinylase or related deacylase	ArgE	Arginine biosynthesis		1CG2
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_08585	COG0031	E	Cysteine synthase	CysK	Cysteine biosynthesis		1FCJ
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_08595	COG0538	C	Isocitrate dehydrogenase	Icd	TCA cycle		1IDD
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_08600	COG2303	IR	Choline dehydrogenase or related flavoprotein	BetA	Non-phosphorylated Entner-Doudoroff pathway		1B4V
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_08605	COG1012	I	Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase	AdhE	Proline degradation		1A4S
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_08610	COG0659	P	Sulfate permease or related transporter, MFS superfamily	SUL1			3NY7
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_08615	COG0131	E	Imidazoleglycerol phosphate dehydratase HisB	HisB2	Histidine biosynthesis		1RHY
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_08620	COG0518	F	GMP synthase, glutamine amidotransferase domain	GuaA1	Purine biosynthesis		4WIM
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_08630	COG1411	R	Uncharacterized conserved protein related to proFAR isomerase (HisA)				
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_08635	COG1411	R	Uncharacterized conserved protein related to proFAR isomerase (HisA)				
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_08640	COG0140	E	Phosphoribosyl-ATP pyrophosphohydrolase	HisI2	Histidine biosynthesis		6J22
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_08645	COG1225	O	Peroxiredoxin	Bcp			5IPH
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_08650	COG1012	I	Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase	AdhE	Proline degradation		1A4S
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_08660	COG0447	H	1,4-Dihydroxy-2-naphthoyl-CoA synthase	MenB	Menaquinone biosynthesis		4ELS
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_08665	COG0287	E	Prephenate dehydrogenase	TyrA	Aromatic amino acid biosynthesis		2F1K
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_08670	COG2226	H	Ubiquinone/menaquinone biosynthesis C-methylase UbiE/MenG	UbiE	Biotin biosynthesis		4OBW
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_08680	COG1038	C	Pyruvate carboxylase	PycA	Urea cycle		5VYW
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_08690	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_08700	COG0010	E	Arginase/agmatinase family enzyme	SpeB	Urea cycle		1CEV
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_08705	COG1574	R	Predicted amidohydrolase YtcJ	YtcJ			3ICJ
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_08710	COG0451	M	Nucleoside-diphosphate-sugar epimerase	WcaG			2X4G
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_08715	COG3000	I	Sterol desaturase/sphingolipid hydroxylase, fatty acid hydroxylase superfamily	ERG3			4ZR0
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_08725	COG0378	O	Hydrogenase/urease maturation factor HypB, Ni2+-binding GTPase	HypB		24338018;23899293	2HF8
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_08730	COG2203	T	GAF domain	GAF			
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_08740	COG0400	R	Predicted esterase	YpfH			
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_08765	COG0488	R	ATPase components of ABC transporters with duplicated ATPase domains	Uup			5ZXD
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_08770	COG3845	F	ABC-type guanosine uptake system NupNOPQ, ATPase component NupO	NupO		21926227	
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_08775	COG4171	V	ABC-type antimicrobial peptide export system, permease component SapC	SapC			
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_08780	COG1173	EP	ABC-type dipeptide/oligopeptide/nickel transport system, permease component	DppC			
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_08790	COG0108	H	3,4-dihydroxy-2-butanone 4-phosphate synthase	RibB	Riboflavin/FAD biosynthesis		1G57
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_08805	COG0673	R	Predicted dehydrogenase	MviM			3UUW
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_08810	COG0673	R	Predicted dehydrogenase	MviM			3UUW
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_08815	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_08820	COG4942	D	Septal ring factor EnvC, activator of murein hydrolases AmiA and AmiB	EnvC			
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_08825	COG4771	P	Outer membrane receptor for ferrienterochelin and colicins	FepA		16468998	2HDF
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_08845	COG2101	K	TATA-box binding protein (TBP), component of TFIID and TFIIIB	SPT15			1NGM
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_08890	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_08895	COG1593	G	TRAP-type C4-dicarboxylate transport system, large permease component	DctQ			
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_08910	COG1804	I	Crotonobetainyl-CoA:carnitine CoA-transferase CaiB and related acyl-CoA transferases	CaiB			1P5H
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_08925	COG2358	R	TRAP-type uncharacterized transport system, periplasmic component	Imp			1US4
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_08930	COG4148	P	ABC-type molybdate transport system, ATPase component ModC	ModC	Molybdopterin biosynthesis		
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_08940	COG3960	Q	Glyoxylate carboligase	Gcl			
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_08945	COG3961	GHR	TPP-dependent 2-oxoacid decarboxylase, includes indolepyruvate decarboxylase	PDC1	Pyruvate oxidation		1PYD
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_08960	COG0483	G	Archaeal fructose-1,6-bisphosphatase or related enzyme, inositol monophosphatase family	SuhB	Gluconeogenesis		1AWB
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_08975	COG1209	M	dTDP-glucose pyrophosphorylase	RmlA1			1FXO
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_08980	COG0436	E	Aspartate/methionine/tyrosine aminotransferase	AspB	Isoleucine, leucine, valine biosynthesis		2O0R
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_08985	COG0241	E	Histidinol phosphatase/D-glycero-mannoheptose bisphosphatephosphatase, HAD superfamily	HisB1/GmhB	Histidine biosynthesis	20050615;20050614	2GMW
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_08990	COG1088	M	dTDP-D-glucose 4,6-dehydratase	RfbB			1G1A
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_08995	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_09010	COG0446	I	NADPH-dependent 2,4-dienoyl-CoA reductase, sulfur reductase, or a related oxidoreductase	FadH2			1VRQ
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_09015	COG0431	C	NAD(P)H-dependent FMN reductase	SsuE			6DQI
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_09035	COG0759	M	Membrane-anchored protein YidD, putatitve component of membrane protein insertase Oxa1/YidC/SpoIIIJ	YidD			
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_09040	COG0495	J	Leucyl-tRNA synthetase	LeuS	Aminoacyl-tRNA synthetases		6LPF
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_09080	COG2227	H	2-polyprenyl-3-methyl-5-hydroxy-6-metoxy-1,4-benzoquinol methylase	UbiG	Ubiquinone biosynthesis		1BHJ
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_09085	COG1409	T	3',5'-cyclic AMP phosphodiesterase CpdA	CpdA			2ZO9
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_09090	COG3552	S	Uncharacterized protein CoxE, contains von Willebrand factor type A (vWA) domain	CoxE			
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_09115	COG4942	D	Septal ring factor EnvC, activator of murein hydrolases AmiA and AmiB	EnvC			
+Rickettsiales_bacterium_SAT45	GCA_002710765.1	PNOKCK_09120	COG1092	J	23S rRNA G2069 N7-methylase RlmK or C1962 C5-methylase RlmI	RlmK	23S rRNA modification		2B78

@@ -1,0 +1,1321 @@
+#prefix	assemid	query	COG	category	name	Gene	pathway	pmid	pdb_id
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_00010	COG1386	K	Chromosome segregation and condensation protein ScpB	ScpB			1T6S
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_00015	COG4996	R	Predicted phosphatase				1U7O
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_00020	COG0673	R	Predicted dehydrogenase	MviM			3UUW
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_00025	COG3622	G	Hydroxypyruvate/dehydroerythronate isomerase, Hyi/OtnI family	Hyi		27402745	1K77
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_00035	COG0300	R	Short-chain dehydrogenase	YqjQ			
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_00040	COG0760	O	Peptidyl-prolyl isomerase, parvulin family	SurA			2ZR5
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_00050	COG0717	F	dCTP deaminase	Dcd	Thymidylate biosynthesis		1XS1
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_00055	COG0223	J	Methionyl-tRNA formyltransferase	Fmt			1FMT
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_00070	COG0790	R	TPR repeat	TPR			1KLX
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_00080	COG3264	M	Small-conductance mechanosensitive channel MscK	MscK			
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_00085	COG0405	E	Gamma-glutamyltranspeptidase	Ggt		16618936	2Z8I
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_00095	COG0447	H	1,4-Dihydroxy-2-naphthoyl-CoA synthase	MenB	Menaquinone biosynthesis		4ELS
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_00100	COG0596	HR	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold	MenH	Menaquinone biosynthesis		4MYS
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_00105	COG0028	EH	Acetolactate synthase large subunit or other thiamine pyrophosphate-requiring enzyme	IlvB	Isoleucine, leucine, valine biosynthesis		1BFD
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_00110	COG0147	EH	Anthranilate/para-aminobenzoate synthases component I	TrpE	Aromatic amino acid biosynthesis		1I1Q
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_00115	COG4774	P	Outer membrane receptor for monomeric catechols	Fiu			
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_00125	COG0577	V	ABC-type antimicrobial peptide transport system, permease component	SalY			
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_00130	COG4778	P	Alpha-D-ribose 1-methylphosphonate 5-triphosphate synthase subunit PhnL	PhnL			
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_00135	COG0365	I	Acyl-coenzyme A synthetase/AMP-(fatty) acid ligase	Acs		14638756	4B2O
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_00150	COG1233	Q	Phytoene dehydrogenase-related protein				4REP
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_00160	COG1243	J	tRNA U34 5-carboxymethylaminomethylation enzyme Elp3 (RNA elongator complex protein 3), contains radical SAM and acetyltransferase domains	ELP3		25151136;27455459	6IA8
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_00175	COG2133	G	Glucose/arabinose dehydrogenase, beta-propeller fold	YliI			1C9U
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_00190	COG1320	P	Multisubunit Na+/H+ antiporter, MnhG subunit	MnhG			6CFW
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_00195	COG2212	P	Multisubunit Na+/H+ antiporter, MnhF subunit	MnhF			6CFW
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_00200	COG1863	P	Multisubunit Na+/H+ antiporter, MnhE subunit	MnhE			6CFW
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_00215	COG3119	P	Arylsulfatase A or related enzyme, AlkP superfamily	AslA			1E1Z
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_00235	COG1595	K	DNA-directed RNA polymerase specialized sigma subunit, sigma24 family	RpoE	RNA polymerase		2Q1Z
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_00240	COG1829	H	Archaeal pantoate kinase		Pantothenate/CoA biosynthesis	22865846	6JBC
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_00245	COG0657	I	Acetyl esterase/lipase	Aes			1EVQ
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_00250	COG0500	QR	SAM-dependent methyltransferase	SmtA			5DNK
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_00260	COG0343	J	Queuine/archaeosine tRNA-ribosyltransferase	Tgt	tRNA modification	15805528	1XW8
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_00265	COG1862	U	Protein translocase subunit YajC	YajC			
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_00275	COG1126	E	ABC-type polar amino acid transport system, ATPase component	GlnQ			4YMS
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_00280	COG1101	R	ABC-type uncharacterized transport system, ATPase component	PhnK			
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_00290	COG2234	OE	Zn-dependent amino- or carboxypeptidase, M28 family	Iap			1AMP
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_00300	COG1712	E	L-aspartate dehydrogenase, NAD(P)-dependent	AspD		12496312	1H2H
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_00310	COG0470	L	DNA polymerase III, delta prime subunit	HolB			1A5T
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_00315	COG0718	K	DNA-binding nucleoid-associated protein YbaB/EfbC	YbaB		19594923;22544270	1J8B
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_00320	COG0798	P	Arsenite efflux pump ArsB, ACR3 family	ACR3			
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_00325	COG0275	J	16S rRNA C1402 N4-methylase RsmH	RmsH	16S rRNA modification		1M6Y
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_00330	COG0665	E	Glycine/D-amino acid oxidase (deaminating)	DadA			3AWI
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_00340	COG0111	H	Phosphoglycerate dehydrogenase or related dehydrogenase	SerA	Serine biosynthesis		3OET
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_00355	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_00375	COG5126	T	Ca2+-binding protein, EF-hand superfamily	FRQ1			2LHI
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_00395	COG3119	P	Arylsulfatase A or related enzyme, AlkP superfamily	AslA			1E1Z
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_00420	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_00425	COG0249	L	DNA mismatch repair ATPase MutS	MutS			1E3M
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_00435	COG3391	R	DNA-binding beta-propeller fold protein YncE	YncE		22120742;28628661	3VGZ
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_00440	COG4395	I	Predicted lipid-binding transport protein, Tim44 family	Tim44			2CW9
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_00455	COG1082	G	Sugar phosphate isomerase/epimerase	YcjR		30742415	3KTC
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_00460	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_00465	COG0596	HR	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold	MenH	Menaquinone biosynthesis		4MYS
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_00475	COG1524	T	c-di-AMP phosphodiesterase AtaC or nucleotide pyrophosphatase, AlkP superfamily	AtaC		32188788	1EI6
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_00485	COG3828	R	Type 1 glutamine amidotransferase (GATase1)-like domain				
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_00490	COG3828	R	Type 1 glutamine amidotransferase (GATase1)-like domain				
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_00520	COG1082	G	Sugar phosphate isomerase/epimerase	YcjR		30742415	3KTC
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_00530	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_00535	COG3083	MT	Periplasmic protein PbgA/YejM, regulator of the LPS biosynthesis, AlkP superfamily	YejM		31611279;32291302;32540932	5I5D
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_00550	COG1082	G	Sugar phosphate isomerase/epimerase	YcjR		30742415	3KTC
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_00560	COG1233	Q	Phytoene dehydrogenase-related protein				4REP
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_00585	COG0494	V	8-oxo-dGTP pyrophosphatase MutT and related house-cleaning NTP pyrophosphohydrolases, NUDIX family	MutT			4V14
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_00590	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_00600	COG4102	S	Uncharacterized conserved protein, DUF1501 family				
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_00605	COG0451	M	Nucleoside-diphosphate-sugar epimerase	WcaG			2X4G
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_00610	COG1218	P	3'-Phosphoadenosine 5'-phosphosulfate (PAPS) 3'-phosphatase	CysQ			
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_00615	COG2123	U	Exosome complex RNA-binding protein Rrp42, RNase PH superfamily	Rrp42		23319881	4IFD
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_00625	COG0264	J	Translation elongation factor EF-Ts	Tsf	Translation factors		1EFU
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_00655	COG2159	G	5-carboxyvanillate decarboxylase LigW (lignin degradation), amidohydro domain	LigW		26714575	2DVT
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_00660	COG3391	R	DNA-binding beta-propeller fold protein YncE	YncE		22120742;28628661	3VGZ
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_00680	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_00685	COG4948	MR	L-alanine-DL-glutamate epimerase or related enzyme of enolase superfamily	RspA	Non-phosphorylated Entner-Doudoroff pathway		1BKH
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_00695	COG3000	I	Sterol desaturase/sphingolipid hydroxylase, fatty acid hydroxylase superfamily	ERG3			4ZR0
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_00705	COG4102	S	Uncharacterized conserved protein, DUF1501 family				
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_00710	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_00725	COG5581	N	Cyclic di-GMP-binding flagellar brake protein FlgZ/YcgR, contains PilZNR(YcgR) and PilZ domains	YcgR			5Y6F
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_00730	COG1974	KT	SOS-response transcriptional repressor LexA (RecA-mediated autopeptidase)	LexA			1AY9
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_00745	COG0332	I	3-oxoacyl-[acyl-carrier-protein] synthase III	FabH	Fatty acid biosynthesis		1UB7
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_00750	COG2135	L	ssDNA abasic site-binding protein YedK/HMCES, SRAP family	SRAP		30554877;31504793	1ZN6
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_00755	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_00765	COG0224	C	FoF1-type ATP synthase, gamma subunit	AtpG	FoF1-type ATP synthase	15326535	3OAA
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_00770	COG1155	C	Archaeal/vacuolar-type H+-ATPase catalytic subunit A/Vma1	NtpA	A/V-type ATP synthase		3J9T
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_00775	COG0355	C	FoF1-type ATP synthase, epsilon subunit	AtpC	FoF1-type ATP synthase	29149348;30304218	3OAA
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_00780	COG1916	S	Pheromone shutdown protein TraB, contains GTxH motif (function unknown)				
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_00785	COG0607	P	Rhodanese-related sulfurtransferase	PspE	Urea cycle		1TQ1
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_00795	COG0778	C	Nitroreductase	NfnB	Pyrimidine degradation		1F5V
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_00805	COG3007	I	Trans-2-enoyl-CoA reductase				3S8M
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_00815	COG0818	I	Diacylglycerol kinase	DgkA			2KDC
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_00825	COG3568	R	Metal-dependent hydrolase, endonuclease/exonuclease/phosphatase family	ElsH		15178340	
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_00830	COG0004	P	Ammonia channel protein AmtB	AmtB			1U77
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_00840	COG2267	I	Lysophospholipase, alpha-beta hydrolase superfamily	PldB			5O7G
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_00845	COG2226	H	Ubiquinone/menaquinone biosynthesis C-methylase UbiE/MenG	UbiE	Biotin biosynthesis		4OBW
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_00855	COG0703	E	Shikimate kinase	AroK	Aromatic amino acid biosynthesis		1E6C
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_00860	COG2872	J	Ser-tRNA(Ala) deacylase AlaX (editing enzyme)	AlaX			2E1B
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_00870	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_00875	COG2968	S	Uncharacterized conserved protein YggE, contains kinase-interacting SIMPL domain	YggE			4HVZ
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_00885	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_00890	COG1246	E	N-acetylglutamate synthase or related acetyltransferase, GNAT family	ArgA	Arginine biosynthesis		2R98
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_00900	COG2153	R	Predicted N-acyltransferase, GNAT family	ElaA			1XEB
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_00910	COG4102	S	Uncharacterized conserved protein, DUF1501 family				
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_00920	COG3386	G	Sugar lactone lactonase YvrE	YvrE	Non-phosphorylated Entner-Doudoroff pathway		1E1A
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_00925	COG0524	G	Sugar or nucleoside kinase, ribokinase family	RbsK	Glycolysis		2QCV
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_00930	COG0352	H	Thiamine monophosphate synthase	ThiE	Thiamine biosynthesis	19060138	1G4T
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_00935	COG0458	EF	Carbamoylphosphate synthase large subunit	CarB	Arginine biosynthesis		1C30
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_00940	COG0511	I	Biotin carboxyl carrier protein	AccB	Fatty acid biosynthesis		1A6X
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_00945	COG3844	E	Kynureninase	Bna5			
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_00955	COG3457	E	Predicted amino acid racemase	YhfX		23091052	4KBX
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_00960	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_00970	COG0673	R	Predicted dehydrogenase	MviM			3UUW
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_00975	COG2256	L	Replication-associated recombination protein RarA (DNA-dependent ATPase)	RarA			3PVS
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_00980	COG2831	U	Hemolysin activation/secretion protein	FhaC			2MHJ
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_00985	COG4372	S	Uncharacterized protein, contains DUF3084 domain				
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_00990	COG1043	M	Acyl-[acyl carrier protein]--UDP-N-acetylglucosamine O-acyltransferase	LpxA	Lipid A biosynthesis		1J2Z
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_00995	COG0595	J	mRNA degradation ribonuclease J1/J2	RnjA			3T3N
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_01000	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_01005	COG1376	M	Lipoprotein-anchoring transpeptidase ErfK/SrfK	ErfK			4LZH
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_01010	COG0528	F	Uridylate kinase	PyrH	Pyrimidine biosynthesis		2BND
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_01015	COG0498	E	Threonine synthase	ThrC	Threonine biosynthesis		1VB3
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_01020	COG0673	R	Predicted dehydrogenase	MviM			3UUW
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_01025	COG0123	Q	Acetoin utilization deacetylase AcuC or a related deacetylase	AcuC			1C3P
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_01050	COG3306	M	Glycosyltransferase involved in LPS biosynthesis, GR25 family				
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_01055	COG5039	GM	Exopolysaccharide biosynthesis protein EpsI, predicted pyruvyl transferase	EpsI			5AX7
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_01065	COG0649	C	NADH:ubiquinone oxidoreductase 49 kD subunit (chain D)	NuoD	NADH dehydrogenase		2FUG
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_01075	COG1904	G	Glucuronate isomerase	UxaC			1J5S
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_01100	COG4986	P	ABC-type anion transport system, duplicated permease component				
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_01105	COG4559	P	ABC-type hemin transport system, ATPase component				4G1U
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_01110	COG0410	E	ABC-type branched-chain amino acid transport system, ATPase component LivF	LivF		26527648;32250026	1JI0
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_01115	COG0716	C	Flavodoxin	FldA	Heme biosynthesis		1AG9
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_01120	COG2221	P	Dissimilatory sulfite reductase (desulfoviridin), alpha and beta subunits	DsrA			
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_01125	COG1142	C	Fe-S-cluster-containing hydrogenase component 2	HycB			
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_01130	COG1034	C	NADH dehydrogenase/NADH:ubiquinone oxidoreductase 75 kD subunit (chain G)	NuoG	NADH dehydrogenase		1C4A
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_01135	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_01140	COG2008	E	Threonine aldolase	GLY1			4LNJ
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_01150	COG1233	Q	Phytoene dehydrogenase-related protein				4REP
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_01160	COG2211	G	Na+/melibiose symporter or related transporter	MelB			4M64
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_01180	COG0303	H	Molybdopterin Mo-transferase (molybdopterin biosynthesis)	MoeA	Molybdopterin biosynthesis	18801996;32239579	2NQU
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_01190	COG2755	DI	Lysophospholipase L1 or related esterase. Includes spore coat protein LipC/YcsK	TesA			1BWP
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_01195	COG0315	H	Molybdenum cofactor biosynthesis enzyme MoaC	MoaC	Molybdopterin biosynthesis	32239579	1EKR
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_01200	COG1964	H	C-terminal domain of the GTP 3',8'-cyclase MoaA, radical SAM superfamily (molybdenum cofactor biosynthesis)	MoaA2		25941396	
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_01210	COG3642	J	tRNA A-37 threonylcarbamoyl transferase component Bud32	Bud32	tRNA modification		2VWB
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_01215	COG3263	CP	NhaP-type Na+/H+ and K+/H+ antiporter with C-terminal TrkAC and CorC domains	NhaP2			
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_01220	COG2146	PQ	Ferredoxin subunit of nitrite reductase or a ring-hydroxylating dioxygenase	NirD		23844911	1FQT
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_01225	COG0652	O	Peptidyl-prolyl cis-trans isomerase (rotamase) - cyclophilin family	PpiB			4DGD
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_01235	COG0705	O	Membrane-associated serine protease, rhomboid family	GlpG			2IC8
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_01240	COG1974	KT	SOS-response transcriptional repressor LexA (RecA-mediated autopeptidase)	LexA			1AY9
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_01245	COG1686	M	D-alanyl-D-alanine carboxypeptidase	DacC			1HD8
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_01280	COG0382	H	4-hydroxybenzoate polyprenyltransferase	UbiA	Ubiquinone biosynthesis	28830929	4OD4
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_01285	COG1622	C	Heme/copper-type cytochrome/quinol oxidase, subunit 2	CyoA			1CYW
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_01305	COG1845	C	Heme/copper-type cytochrome/quinol oxidase, subunit 3	CyoC			1QLE
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_01310	COG0840	T	Methyl-accepting chemotaxis protein (MCP)	Tar			1QU7
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_01315	COG4143	H	ABC-type thiamine transport system, periplasmic component TbpA	TbpA			2QRY
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_01320	COG0534	V	Na+-driven multidrug efflux pump, DinF/NorM/MATE family	NorM		29915058	3VVN
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_01330	COG0688	I	Phosphatidylserine decarboxylase	Psd	Phospholipid biosynthesis		6L06
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_01350	COG3022	L	DNA-binding protein YaaA associated with the oxidative stress response	YaaA		21378183;32796037	5CAJ
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_01355	COG0326	O	Molecular chaperone, HSP90 family	HtpG		30150682	1Y4S
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_01370	COG0630	NU	Type IV secretory pathway ATPase VirB11/Archaellum biosynthesis ATPase ArlI/FlaI	VirB11		32416640	1G6O
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_01375	COG2165	NUW	Type II secretory pathway, pseudopilin PulG	PulG			1AY2
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_01380	COG4970	NW	Type IV pilus assembly protein FimT	FimT		17322192;28771515	
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_01435	COG0630	NU	Type IV secretory pathway ATPase VirB11/Archaellum biosynthesis ATPase ArlI/FlaI	VirB11		32416640	1G6O
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_01440	COG2165	NUW	Type II secretory pathway, pseudopilin PulG	PulG			1AY2
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_01445	COG1209	M	dTDP-glucose pyrophosphorylase	RmlA1			1FXO
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_01450	COG4941	K	Predicted RNA polymerase sigma factor, contains C-terminal TPR domain				
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_01460	COG0265	O	Periplasmic serine protease, S1-C subfamily, contain C-terminal PDZ domain	DegQ		29686141	2HGA
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_01470	COG4372	S	Uncharacterized protein, contains DUF3084 domain				
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_01475	COG0363	G	6-phosphogluconolactonase/Glucosamine-6-phosphate isomerase/deaminase	NagB	Pentose phosphate pathway	24163345	2RI0
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_01490	COG4566	TK	DNA-binding response regulator, FixJ family, consists of REC and HTH domains	FixJ			1YIO
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_01495	COG1748	E	Saccharopine dehydrogenase, NADP-dependent	Lys9	Lysine biosynthesis		1E5L
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_01505	COG2122	S	Uncharacterized conserved protein, UPF0280 family, ApbE superfamily				2O34
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_01510	COG0574	G	Phosphoenolpyruvate synthase/pyruvate phosphate dikinase	PpsA	Gluconeogenesis		5HV6
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_01520	COG0173	J	Aspartyl-tRNA synthetase	AspS	Aminoacyl-tRNA synthetases		1C0A
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_01550	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_01555	COG4099	R	Predicted peptidase				3DOH
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_01560	COG2898	I	Lysylphosphatidylglycerol synthetase MprF, lysyl-tRNA-binding C-terminal domain	MprF2		14702396;30563904	5VRV
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_01570	COG1085	G	Galactose-1-phosphate uridylyltransferase	GalT			1GUP
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_01585	COG4875	O	Protein kinase association domain CaMKII_AD, NTF2-like superfamily	CaMKIID		26949248	
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_01590	COG2340	DR	Spore germination protein YkwD and related proteins with CAP (CSP/antigen 5/PR1) domain	YkwD		31199835	1CFE
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_01620	COG4341	R	Predicted HD phosphohydrolase				4MLN
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_01630	COG3083	MT	Periplasmic protein PbgA/YejM, regulator of the LPS biosynthesis, AlkP superfamily	YejM		31611279;32291302;32540932	5I5D
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_01635	COG2135	L	ssDNA abasic site-binding protein YedK/HMCES, SRAP family	SRAP		30554877;31504793	1ZN6
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_01640	COG0332	I	3-oxoacyl-[acyl-carrier-protein] synthase III	FabH	Fatty acid biosynthesis		1UB7
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_01655	COG0577	V	ABC-type antimicrobial peptide transport system, permease component	SalY			
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_01660	COG1190	J	Lysyl-tRNA synthetase (class II)	LysU	Aminoacyl-tRNA synthetases		1BBU
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_01665	COG3119	P	Arylsulfatase A or related enzyme, AlkP superfamily	AslA			1E1Z
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_01675	COG0457	R	Tetratricopeptide (TPR) repeat	TPR			3AS4
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_01695	COG2068	H	CTP:molybdopterin cytidylyltransferase MocA	MocA			2WAW
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_01700	COG1240	H	vWFA (von Willebrand factor type A) domain of Mg and Co chelatases	ChlD			
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_01705	COG0544	O	FKBP-type peptidyl-prolyl cis-trans isomerase (trigger factor)	Tig			5OWI
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_01710	COG0616	O	Periplasmic serine protease, ClpP class	SppA			3BEZ
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_01715	COG1223	R	Predicted ATPase, AAA+ superfamily				
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_01720	COG1453	R	Predicted oxidoreductase of the aldo/keto reductase family				
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_01730	COG1305	O	Transglutaminase-like enzyme, putative cysteine protease	YebA			3ISR
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_01760	COG1103	J	Archaeal Cys-tRNA synthase (O-phospho-L-seryl-tRNA:Cys-tRNA synthase)				2E7I
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_01780	COG0591	E	Na+/proline symporter	PutP			5NVA
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_01790	COG3119	P	Arylsulfatase A or related enzyme, AlkP superfamily	AslA			1E1Z
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_01800	COG0640	K	DNA-binding transcriptional regulator, ArsR family	ArsR			3F6V
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_01810	COG0580	G	Glycerol uptake facilitator or related aquaporin (Major Intrinsic protein Family)	GlpF			1FQY
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_01815	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_01820	COG3642	J	tRNA A-37 threonylcarbamoyl transferase component Bud32	Bud32	tRNA modification		2VWB
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_01825	COG1233	Q	Phytoene dehydrogenase-related protein				4REP
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_01830	COG1232	H	Protoporphyrinogen oxidase HemY/PPOX	HemY	Heme biosynthesis		3LOV
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_01835	COG1506	E	Dipeptidyl aminopeptidase/acylaminoacyl peptidase	DAP2			2JBW
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_01840	COG1520	M	Outer membrane protein assembly factor BamB, contains PQQ-like beta-propeller repeat	PQQ			6TJG
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_01845	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_01850	COG0673	R	Predicted dehydrogenase	MviM			3UUW
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_01865	COG1712	E	L-aspartate dehydrogenase, NAD(P)-dependent	AspD		12496312	1H2H
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_01870	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_01875	COG3083	MT	Periplasmic protein PbgA/YejM, regulator of the LPS biosynthesis, AlkP superfamily	YejM		31611279;32291302;32540932	5I5D
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_01880	COG0415	L	Deoxyribodipyrimidine photolyase	PhrB			1TEZ
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_01885	COG0415	L	Deoxyribodipyrimidine photolyase	PhrB			1TEZ
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_01890	COG1506	E	Dipeptidyl aminopeptidase/acylaminoacyl peptidase	DAP2			2JBW
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_01895	COG4409	GM	Neuraminidase (sialidase) NanH, contains C-terminal autotransporter domain	NanH			1EUT
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_01905	COG5522	S	Uncharacterized membrane protein YwaF	YwaF			
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_01915	COG5285	Q	Ectoine hydroxylase-related dioxygenase, phytanoyl-CoA dioxygenase (PhyH) family	PhyH			2A1X
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_01920	COG3622	G	Hydroxypyruvate/dehydroerythronate isomerase, Hyi/OtnI family	Hyi		27402745	1K77
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_01945	COG3119	P	Arylsulfatase A or related enzyme, AlkP superfamily	AslA			1E1Z
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_01960	COG2755	DI	Lysophospholipase L1 or related esterase. Includes spore coat protein LipC/YcsK	TesA			1BWP
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_01965	COG4145	H	Na+/panthothenate symporter	PanF			
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_01980	COG0790	R	TPR repeat	TPR			1KLX
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_01995	COG3712	PT	Periplasmic ferric-dicitrate binding protein FecR, regulates iron transport	FecR			5CAM
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_02010	COG1686	M	D-alanyl-D-alanine carboxypeptidase	DacC			1HD8
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_02015	COG0595	J	mRNA degradation ribonuclease J1/J2	RnjA			3T3N
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_02025	COG2192	R	Predicted carbamoyl transferase, NodU family				3VEN
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_02030	COG0457	R	Tetratricopeptide (TPR) repeat	TPR			3AS4
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_02035	COG2133	G	Glucose/arabinose dehydrogenase, beta-propeller fold	YliI			1C9U
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_02060	COG0059	EH	Ketol-acid reductoisomerase	IlvC	Isoleucine, leucine, valine biosynthesis		1NP3
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_02075	COG0546	C	Phosphoglycolate phosphatase, HAD superfamily	Gph			2NYV
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_02085	COG0442	J	Prolyl-tRNA synthetase	ProS	Aminoacyl-tRNA synthetases		5XIF
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_02120	COG0622	R	Predicted phosphodiesterase, calcineurin family	YfcE		17586769	1SU1
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_02125	COG2979	S	Uncharacterized membrane protein YebE, DUF533 family	YebE			
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_02130	COG1668	CP	ABC-type Na+ efflux pump, permease component NatB	NatB			
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_02135	COG4161	E	ABC-type arginine transport system, ATPase component	ArtP			
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_02170	COG2308	R	Circularly permuted ATP-grasp protein			20023723	3N6X
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_02180	COG1520	M	Outer membrane protein assembly factor BamB, contains PQQ-like beta-propeller repeat	PQQ			6TJG
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_02195	COG0513	L	Superfamily II DNA and RNA helicase	SrmB			3RRM
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_02205	COG2176	L	DNA polymerase III, alpha subunit (gram-positive type)	PolC			
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_02210	COG0412	Q	Dienelactone hydrolase	DLH			4ZV9
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_02240	COG2133	G	Glucose/arabinose dehydrogenase, beta-propeller fold	YliI			1C9U
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_02260	COG1047	O	Peptidyl-prolyl cis-trans isomerase, FKBP type	SlpA			2M2A
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_02265	COG2084	I	3-hydroxyisobutyrate dehydrogenase or related beta-hydroxyacid dehydrogenase	MmsB			1I36
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_02270	COG0404	E	Glycine cleavage system protein T (aminomethyltransferase)	GcvT	Glycine cleavage	25433025;25505271	2GAH
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_02280	COG1127	M	ATPase subunit MlaF of the ABC-type intermembrane phospholipid transporter Mla	MlaF			6IC4
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_02290	COG0673	R	Predicted dehydrogenase	MviM			3UUW
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_02305	COG1647	Q	Esterase/lipase	YvaK			4DIU
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_02310	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_02325	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_02350	COG1729	D	Cell division protein CpoB, coordinates peptidoglycan biosynthesis and outer membrane constriction	CpoB		25951518	2WZ7
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_02365	COG1057	H	Nicotinate-nucleotide adenylyltransferase NadD	NadD	NAD biosynthesis		1YUM
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_02370	COG0061	H	NAD kinase	NadK			1SUW
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_02380	COG0612	R	Predicted Zn-dependent peptidase, M16 family	PqqL			6OFS
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_02385	COG0057	G	Glyceraldehyde-3-phosphate dehydrogenase/erythrose-4-phosphate dehydrogenase	GapA	Glycolysis		3ZDF
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_02390	COG0126	G	3-phosphoglycerate kinase	Pgk	Glycolysis		13PK
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_02395	COG0149	G	Triosephosphate isomerase	TpiA	Glycolysis		1HG3
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_02400	COG0239	DP	Fluoride ion exporter CrcB/FEX, affects chromosome condensation	CrcB			5A40
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_02405	COG0137	E	Argininosuccinate synthase	ArgG	Arginine biosynthesis		1J1Z
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_02410	COG0607	P	Rhodanese-related sulfurtransferase	PspE	Urea cycle		1TQ1
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_02420	COG2331	R	Predicted nucleic acid-binding protein, contains Zn-ribbon domain				
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_02440	COG1025	O	Secreted/periplasmic Zn-dependent peptidases, insulinase-like	Ptr			1Q2L
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_02445	COG1893	H	Ketopantoate reductase	PanE	Pantothenate/CoA biosynthesis		1BG6
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_02450	COG3262	C	Ni,Fe-hydrogenase III component G	HycE1			
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_02455	COG1941	C	Coenzyme F420-reducing hydrogenase, gamma subunit	FrhG			5ODC
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_02475	COG1520	M	Outer membrane protein assembly factor BamB, contains PQQ-like beta-propeller repeat	PQQ			6TJG
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_02480	COG1088	M	dTDP-D-glucose 4,6-dehydratase	RfbB			1G1A
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_02485	COG1982	E	Arginine/lysine/ornithine decarboxylase	LdcC			1C4K
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_02490	COG0630	NU	Type IV secretory pathway ATPase VirB11/Archaellum biosynthesis ATPase ArlI/FlaI	VirB11		32416640	1G6O
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_02495	COG0630	NU	Type IV secretory pathway ATPase VirB11/Archaellum biosynthesis ATPase ArlI/FlaI	VirB11		32416640	1G6O
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_02520	COG3577	R	Predicted aspartyl protease				5C9F
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_02530	COG0240	C	Glycerol-3-phosphate dehydrogenase	GpsA	Isoprenoid biosynthesis		1EVY
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_02535	COG0766	M	UDP-N-acetylglucosamine enolpyruvyl transferase	MurA	Mureine biosynthesis		1A2N
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_02540	COG1102	F	Cytidylate kinase	CmkB			
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_02550	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_02565	COG0498	E	Threonine synthase	ThrC	Threonine biosynthesis		1VB3
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_02585	COG0518	F	GMP synthase, glutamine amidotransferase domain	GuaA1	Purine biosynthesis		4WIM
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_02590	COG0104	F	Adenylosuccinate synthase	PurA	Purine biosynthesis		1ADE
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_02595	COG0020	I	Undecaprenyl pyrophosphate synthase	UppS			1X07
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_02605	COG0784	T	CheY-like REC (receiver) domain, includes chemotaxis protein CheY  and sporulation regulator Spo0F	CheY			6QRJ
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_02610	COG1197	LK	Transcription-repair coupling factor (superfamily II helicase)	Mfd			2EYQ
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_02615	COG0760	O	Peptidyl-prolyl isomerase, parvulin family	SurA			2ZR5
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_02620	COG0526	O	Thiol-disulfide isomerase or thioredoxin	TrxA			1XFL
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_02625	COG1029	C	Formylmethanofuran dehydrogenase subunit B	FwdB			5T5I
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_02630	COG0412	Q	Dienelactone hydrolase	DLH			4ZV9
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_02635	COG2271	G	Sugar phosphate permease	UhpC			1PW4
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_02640	COG1079	F	ABC-type guanosine uptake system NupNOPQ, permease subunit NupQ	NupQ		21926227	
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_02685	COG1357	S	Uncharacterized conserved protein YjbI, contains pentapeptide repeats	YjbI			2BM4
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_02695	COG0823	U	Periplasmic component TolB of the Tol biopolymer transport system	TolB			1C5K
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_02700	COG4929	S	Uncharacterized membrane-anchored protein				
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_02735	COG0304	IQ	3-oxoacyl-(acyl-carrier-protein) synthase	FabB	Fatty acid biosynthesis	21652641	2UV8
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_02740	COG0461	F	Orotate phosphoribosyltransferase	PyrE	Pyrimidine biosynthesis		4WML
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_02745	COG4137	R	ABC-type uncharacterized transport system, permease component	YpjD			
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_02750	COG0169	E	Shikimate 5-dehydrogenase	AroE	Aromatic amino acid biosynthesis		1NPD
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_02760	COG1010	H	Precorrin-3B methylase	CobJ	Cobalamine/B12 biosynthesis		2ZVB
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_02765	COG0828	J	Ribosomal protein S21	RpsU	Ribosome 30S subunit		4V4H
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_02770	COG0342	U	Preprotein translocase subunit SecD	SecD		26100040	3AQP
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_02790	COG1049	C	Aconitase B	AcnB	TCA cycle		1L5J
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_02800	COG1807	M	PMT family glycosyltransferase ArnT/Agl22, involved in glycosylation of proteins and lipid IVA	ArnT		16226890;31233657;32706435	5EZM
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_02805	COG4619	P	ABC-type iron transporter FetAB, ATPase component	FetA			
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_02815	COG2133	G	Glucose/arabinose dehydrogenase, beta-propeller fold	YliI			1C9U
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_02825	COG0605	P	Superoxide dismutase	SodA			1AP5
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_02835	COG4145	H	Na+/panthothenate symporter	PanF			
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_02840	COG1484	L	DNA replication protein DnaC	DnaC			2QGZ
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_02845	COG0592	L	DNA polymerase III sliding clamp (beta) subunit, PCNA homolog	DnaN			1JQJ
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_02850	COG0518	F	GMP synthase, glutamine amidotransferase domain	GuaA1	Purine biosynthesis		4WIM
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_02855	COG0131	E	Imidazoleglycerol phosphate dehydratase HisB	HisB2	Histidine biosynthesis		1RHY
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_02860	COG4105	M	Outer membrane protein assembly factor BamD, BamD/ComL family	BamD			2YHC
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_02865	COG2894	D	Septum site-determining ATPase MinD	MinD			4V02
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_02875	COG1132	V	ABC-type multidrug transport system, ATPase and permease component	MdlB			2HYD
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_02880	COG0465	O	ATP-dependent Zn proteases	HflB			1LV7
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_02915	COG3119	P	Arylsulfatase A or related enzyme, AlkP superfamily	AslA			1E1Z
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_02925	COG3828	R	Type 1 glutamine amidotransferase (GATase1)-like domain				
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_02950	COG2010	C	Cytochrome c, mono- and diheme variants	CccA			1A2S
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_02955	COG2010	C	Cytochrome c, mono- and diheme variants	CccA			1A2S
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_02960	COG4632	G	Sugar-P-sugar glycosidase (uncovering enzyme, UCE), NAGPA superfamily	NAGPA		23572527	3OHG
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_02970	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_02975	COG2272	I	Carboxylesterase type B	PnbA			1K4Y
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_02980	COG2133	G	Glucose/arabinose dehydrogenase, beta-propeller fold	YliI			1C9U
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_02985	COG2755	DI	Lysophospholipase L1 or related esterase. Includes spore coat protein LipC/YcsK	TesA			1BWP
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_02990	COG0553	KL	Superfamily II DNA or RNA helicase, SNF2 family	HepA			6UXV
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_02995	COG2133	G	Glucose/arabinose dehydrogenase, beta-propeller fold	YliI			1C9U
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_03015	COG2249	R	Putative NADPH-quinone reductase (modulator of drug activity B)	MdaB			1D4A
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_03025	COG4409	GM	Neuraminidase (sialidase) NanH, contains C-terminal autotransporter domain	NanH			1EUT
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_03035	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_03040	COG3241	C	Azurin	BlueCu			
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_03050	COG1121	P	ABC-type Mn2+/Zn2+ transport system, ATPase component	ZnuC			
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_03055	COG4152	R	ABC-type uncharacterized transport system, ATPase component	YhaQ			
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_03075	COG2207	K	AraC-type DNA-binding domain and AraC-containing proteins	AraC			1BL0
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_03110	COG4820	E	Ethanolamine utilization protein EutJ, possible chaperonin	EutJ			
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_03125	COG0768	DM	Cell division protein FtsI, peptidoglycan transpeptidase (Penicillin-binding protein 2)	FtsI			6HZQ
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_03130	COG1530	J	Ribonuclease G or E	CafA			1SLJ
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_03135	COG0815	M	Apolipoprotein N-acyltransferase	Lnt			6NWR
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_03140	COG1109	G	Phosphomannomutase	ManB			6MNV
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_03145	COG2265	J	tRNA/tmRNA/rRNA uracil-C5-methylase, TrmA/RlmC/RlmD family	TrmA	tRNA modification		1UWV
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_03150	COG0141	E	Histidinol dehydrogenase	HisD	Histidine biosynthesis		1K75
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_03155	COG4988	CO	ABC-type transport system involved in cytochrome bd biosynthesis, ATPase and permease components	CydD			
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_03165	COG0623	I	Enoyl-[acyl-carrier-protein] reductase FabI	FabI	Fatty acid biosynthesis		1C14
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_03170	COG0373	H	Glutamyl-tRNA reductase	HemA	Heme biosynthesis		2XOE
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_03180	COG1453	R	Predicted oxidoreductase of the aldo/keto reductase family				
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_03185	COG0143	J	Methionyl-tRNA synthetase	MetG	Aminoacyl-tRNA synthetases		1A8H
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_03190	COG0172	J	Seryl-tRNA synthetase	SerS	Aminoacyl-tRNA synthetases		1SER
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_03195	COG1932	HE	Phosphoserine aminotransferase	SerC	Serine biosynthesis		1BJN
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_03200	COG2204	T	DNA-binding transcriptional response regulator, NtrC family, contains REC, AAA-type ATPase, and a Fis-type DNA-binding domains	AtoC			1ZY2
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_03210	COG1826	U	Twin-arginine protein secretion pathway components TatA and TatB	TatA			2L16
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_03220	COG1643	J	HrpA-like RNA helicase	HrpA			5N8R
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_03225	COG0530	P	Ca2+/Na+ antiporter	ECM27			3V5S
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_03230	COG0265	O	Periplasmic serine protease, S1-C subfamily, contain C-terminal PDZ domain	DegQ		29686141	2HGA
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_03240	COG2243	H	Precorrin-2 methylase	CobF	Cobalamine/B12 biosynthesis		2QBU
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_03250	COG4105	M	Outer membrane protein assembly factor BamD, BamD/ComL family	BamD			2YHC
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_03255	COG1163	J	Ribosome-interacting GTPase RBG1	Rbg1			4A9A
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_03260	COG0697	GER	Permease of the drug/metabolite transporter (DMT) superfamily	RhaT			5I20
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_03275	COG3696	P	Cu/Ag efflux pump CusA	CusA			3K07
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_03280	COG1052	CHR	Lactate dehydrogenase or related 2-hydroxyacid dehydrogenase	LdhA	Pyridoxal phosphate biosynthesis		1DXY
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_03285	COG2363	S	Uncharacterized membrane protein YgdD, TMEM256/DUF423 family	YgdD			
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_03330	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_03335	COG1032	R	Radical SAM superfamily enzyme YgiQ, UPF0313 family	YgiQ			6FD2
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_03355	COG0749	L	DNA polymerase I, 3'-5' exonuclease and polymerase domains	PolA			1D8Y
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_03405	COG0673	R	Predicted dehydrogenase	MviM			3UUW
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_03425	COG5337	M	Spore coat protein CotH	CotH			5JD9
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_03470	COG3137	M	Putative salt-induced outer membrane protein YdiY	YdiY			
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_03475	COG0657	I	Acetyl esterase/lipase	Aes			1EVQ
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_03480	COG0657	I	Acetyl esterase/lipase	Aes			1EVQ
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_03485	COG0021	G	Transketolase	TktA	Pentose phosphate pathway		1AY0
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_03510	COG3221	P	ABC-type phosphate/phosphonate transport system, periplasmic component	PhnD			3S4U
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_03515	COG0805	U	Twin-arginine protein secretion pathway component TatC	TatC			4B4A
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_03520	COG0165	E	Argininosuccinate lyase	ArgH	Arginine biosynthesis		1AOS
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_03530	COG0739	M	Murein DD-endopeptidase MepM and murein hydrolase activator NlpD, contains LysM domain	NlpD			2GU1
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_03545	COG1314	U	Protein translocase subunit SecG	SecG			2AKH
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_03550	COG0175	EH	3'-phosphoadenosine 5'-phosphosulfate sulfotransferase (PAPS reductase)/FAD synthetase or related enzyme	CysD	Cysteine biosynthesis		1ZUN
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_03555	COG0175	EH	3'-phosphoadenosine 5'-phosphosulfate sulfotransferase (PAPS reductase)/FAD synthetase or related enzyme	CysD	Cysteine biosynthesis		1ZUN
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_03560	COG0050	J	Translation elongation factor EF-Tu, a GTPase	TufA	Translation factors		1EFU
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_03565	COG1225	O	Peroxiredoxin	Bcp			5IPH
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_03570	COG5522	S	Uncharacterized membrane protein YwaF	YwaF			
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_03585	COG0517	T	CBS domain	CBS			1B3O
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_03590	COG0052	J	Ribosomal protein S2	RpsB	Ribosome 30S subunit		4V4H
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_03595	COG0264	J	Translation elongation factor EF-Ts	Tsf	Translation factors		1EFU
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_03605	COG0438	M	Glycosyltransferase involved in cell wall bisynthesis	RfaB			2IV7
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_03615	COG0143	J	Methionyl-tRNA synthetase	MetG	Aminoacyl-tRNA synthetases		1A8H
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_03650	COG0795	MN	Lipopolysaccharide export LptBFGC system, permease protein LptF	LptF			6S8H
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_03660	COG1461	R	Predicted kinase related to dihydroxyacetone kinase	YloV			
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_03665	COG2376	G	Dihydroxyacetone kinase	DAK1	Isoprenoid biosynthesis		1UN8
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_03670	COG1729	D	Cell division protein CpoB, coordinates peptidoglycan biosynthesis and outer membrane constriction	CpoB		25951518	2WZ7
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_03680	COG0513	L	Superfamily II DNA and RNA helicase	SrmB			3RRM
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_03685	COG2894	D	Septum site-determining ATPase MinD	MinD			4V02
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_03690	COG0653	U	Preprotein translocase subunit SecA (ATPase, RNA helicase)	SecA			2FSF
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_03695	COG4233	OC	Thiol-disulfide interchange protein, contains DsbC and DsbD domains				
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_03745	COG2133	G	Glucose/arabinose dehydrogenase, beta-propeller fold	YliI			1C9U
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_03750	COG1193	L	dsDNA-specific endonuclease/ATPase MutS2	MutS2			
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_03755	COG3526	R	Predicted selenoprotein, Rdx family				2FA8
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_03760	COG0400	R	Predicted esterase	YpfH			
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_03780	COG5524	CT	Bacteriorhodopsin				
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_03785	COG2159	G	5-carboxyvanillate decarboxylase LigW (lignin degradation), amidohydro domain	LigW		26714575	2DVT
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_03790	COG0129	EG	Dihydroxyacid dehydratase/phosphogluconate dehydratase	IlvD	Isoleucine, leucine, valine biosynthesis		2GP4
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_03795	COG1593	G	TRAP-type C4-dicarboxylate transport system, large permease component	DctQ			
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_03800	COG3119	P	Arylsulfatase A or related enzyme, AlkP superfamily	AslA			1E1Z
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_03815	COG1061	KL	Superfamily II DNA or RNA helicase	SSL2			6JDE
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_03820	COG3458	Q	Cephalosporin-C deacetylase or related acetyl esterase	Axe1			1L7A
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_03830	COG1012	I	Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase	AdhE	Proline degradation		1A4S
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_03835	COG0179	Q	2-keto-4-pentenoate hydratase/2-oxohepta-3-ene-1,7-dioic acid hydratase (catechol pathway)	YcgM			1GTT
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_03850	COG1520	M	Outer membrane protein assembly factor BamB, contains PQQ-like beta-propeller repeat	PQQ			6TJG
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_03855	COG0607	P	Rhodanese-related sulfurtransferase	PspE	Urea cycle		1TQ1
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_03860	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_03870	COG1824	P	Permease, similar to cation transporters	MgtE2			
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_03875	COG1360	N	Flagellar motor protein MotB	MotB			
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_03880	COG0442	J	Prolyl-tRNA synthetase	ProS	Aminoacyl-tRNA synthetases		5XIF
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_03885	COG2234	OE	Zn-dependent amino- or carboxypeptidase, M28 family	Iap			1AMP
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_03900	COG0265	O	Periplasmic serine protease, S1-C subfamily, contain C-terminal PDZ domain	DegQ		29686141	2HGA
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_03905	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_03930	COG0526	O	Thiol-disulfide isomerase or thioredoxin	TrxA			1XFL
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_03975	COG0371	C	Glycerol dehydrogenase or related enzyme, iron-containing ADH family	GldA	Isoprenoid biosynthesis	20688982	3S99
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_03995	COG1579	R	Predicted nucleic acid-binding protein DR0291, contains C4-type Zn-ribbon domain	DR0291			4ILO
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_04010	COG0768	DM	Cell division protein FtsI, peptidoglycan transpeptidase (Penicillin-binding protein 2)	FtsI			6HZQ
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_04015	COG0322	L	Excinuclease UvrABC, nuclease subunit	UvrC		24513124	2NRT
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_04020	COG1291	N	Flagellar motor component MotA	MotA			
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_04025	COG0848	U	Biopolymer transport protein ExbD	ExbD			2JWK
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_04030	COG1729	D	Cell division protein CpoB, coordinates peptidoglycan biosynthesis and outer membrane constriction	CpoB		25951518	2WZ7
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_04045	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_04050	COG1597	IR	Phosphatidylglycerol kinase, diacylglycerol kinase family	LCB5		17351295	2BON
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_04060	COG0142	H	Geranylgeranyl pyrophosphate synthase	IspA	Isoprenoid biosynthesis		2AZJ
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_04065	COG1044	M	UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase	LpxD	Lipid A biosynthesis		6P83
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_04070	COG1452	M	LPS assembly outer membrane protein LptD (organic solvent tolerance protein OstA)	LptD			4N4R
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_04075	COG0144	J	16S rRNA C967 or C1407 C5-methylase, RsmB/RsmF family	RsmB	16S rRNA modification		2FRX
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_04080	COG1092	J	23S rRNA G2069 N7-methylase RlmK or C1962 C5-methylase RlmI	RlmK	23S rRNA modification		2B78
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_04090	COG4774	P	Outer membrane receptor for monomeric catechols	Fiu			
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_04100	COG4102	S	Uncharacterized conserved protein, DUF1501 family				
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_04135	COG1409	T	3',5'-cyclic AMP phosphodiesterase CpdA	CpdA			2ZO9
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_04140	COG3568	R	Metal-dependent hydrolase, endonuclease/exonuclease/phosphatase family	ElsH		15178340	
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_04145	COG4319	R	Ketosteroid isomerase homolog YybH	YybH			2GXF
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_04150	COG0397	O	Protein adenylyltransferase (AMPylase) SelO/YdiU (selenoprotein O)	SelO		30270044	6EAC
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_04170	COG0189	EHJQ	Glutathione synthase, LysX or RimK-type ligase, ATP-grasp superfamily	LysX	Lysine biosynthesis		1GLV
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_04200	COG0823	U	Periplasmic component TolB of the Tol biopolymer transport system	TolB			1C5K
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_04210	COG1524	T	c-di-AMP phosphodiesterase AtaC or nucleotide pyrophosphatase, AlkP superfamily	AtaC		32188788	1EI6
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_04240	COG1082	G	Sugar phosphate isomerase/epimerase	YcjR		30742415	3KTC
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_04255	COG5002	T	Sensor histidine kinase WalK	WalK			4I5S
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_04260	COG2204	T	DNA-binding transcriptional response regulator, NtrC family, contains REC, AAA-type ATPase, and a Fis-type DNA-binding domains	AtoC			1ZY2
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_04265	COG0272	L	NAD-dependent DNA ligase	Lig			5TT5
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_04270	COG1539	H	Dihydroneopterin aldolase	FolB	Folate biosynthesis		1B9L
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_04275	COG0647	F	Ribonucleotide monophosphatase NagD, HAD superfamily	NagD			1PW5
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_04285	COG1141	C	Ferredoxin	Fer			1IQZ
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_04300	COG1522	K	DNA-binding transcriptional regulator, Lrp family	Lrp			1I1G
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_04305	COG3241	C	Azurin	BlueCu			
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_04315	COG0207	F	Thymidylate synthase	ThyA	Thymidylate biosynthesis		1AN5
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_04340	COG1846	K	DNA-binding transcriptional regulator, MarR family	MarR			1JGS
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_04345	COG2896	H	GTP 3',8-cyclase (molybdenum cofactor biosynthesis protein MoaA)	MoaA	Molybdopterin biosynthesis		1TV7
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_04350	COG2521	R	Predicted archaeal methyltransferase				
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_04360	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_04375	COG0154	J	Asp-tRNAAsn/Glu-tRNAGln amidotransferase A subunit or related amidase	GatA	Aminoacyl-tRNA synthetases		3H0L
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_04380	COG1039	L	Ribonuclease HIII	RnhC			2D0A
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_04395	COG2967	P	Uncharacterized conserved protein ApaG affecting Mg2+/Co2+ transport	ApaG			1TZA
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_04400	COG2240	H	Pyridoxal/pyridoxine/pyridoxamine kinase	PdxK	Pyridoxal phosphate biosynthesis	19096365;23189126	5ZW9
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_04405	COG0673	R	Predicted dehydrogenase	MviM			3UUW
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_04420	COG0208	F	Ribonucleotide reductase beta subunit, ferritin-like domain	NrdB	Pyrimidine salvage		1AV8
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_04425	COG0209	F	Ribonucleotide reductase alpha subunit	NrdA	Pyrimidine salvage		1R1R
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_04435	COG2226	H	Ubiquinone/menaquinone biosynthesis C-methylase UbiE/MenG	UbiE	Biotin biosynthesis		4OBW
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_04440	COG0192	H	S-adenosylmethionine synthetase	MetK	Methionine biosynthesis		1FUG
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_04450	COG0111	H	Phosphoglycerate dehydrogenase or related dehydrogenase	SerA	Serine biosynthesis		3OET
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_04455	COG0673	R	Predicted dehydrogenase	MviM			3UUW
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_04470	COG3178	R	Predicted phosphotransferase, aminoglycoside/choline kinase (APH/ChoK) family				
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_04475	COG1209	M	dTDP-glucose pyrophosphorylase	RmlA1			1FXO
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_04480	COG4783	MO	Outer membrane protein chaperone/metalloprotease BepA/YfgC, contains M48 and TPR domains	BepA		24003122	6AIT
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_04485	COG3118	O	Chaperedoxin CnoX, contains thioredoxin-like and TPR-like domains, YbbN/TrxSC family	CnoX		21498507;29754824	3QDN
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_04500	COG2084	I	3-hydroxyisobutyrate dehydrogenase or related beta-hydroxyacid dehydrogenase	MmsB			1I36
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_04505	COG0314	H	Molybdopterin synthase catalytic subunit MoaE	MoaE	Molybdopterin biosynthesis	32239579	1FM0
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_04510	COG1183	I	Phosphatidylserine synthase	PssA			
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_04520	COG1192	DN	ParA-like ATPase involved in chromosome/plasmid partitioning or cellulose biosynthesis protein BcsQ	ParA			6NOO
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_04550	COG0793	O	C-terminal processing protease CtpA/Prc, contains a PDZ domain	CtpA			6IQU
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_04555	COG0743	I	1-deoxy-D-xylulose 5-phosphate reductoisomerase	Dxr	Isoprenoid biosynthesis		1JVS
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_04560	COG4589	R	Predicted CDP-diglyceride synthetase/phosphatidate cytidylyltransferase	YnbB			
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_04565	COG1340	S	Uncharacterized coiled-coil protein, contains DUF342 domain				
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_04575	COG0308	E	Aminopeptidase N, contains DUF3458 domain	PepN		24123841	6ATK
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_04585	COG0064	J	Asp-tRNAAsn/Glu-tRNAGln amidotransferase B subunit	GatB	Aminoacyl-tRNA synthetases		3H0M
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_04590	COG3846	U	Type IV secretory pathway, TrbL components	TrbL			
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_04595	COG0082	E	Chorismate synthase	AroC	Aromatic amino acid biosynthesis		1Q1L
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_04605	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_04610	COG1846	K	DNA-binding transcriptional regulator, MarR family	MarR			1JGS
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_04635	COG1770	E	Protease II	PtrB			4BP9
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_04640	COG1453	R	Predicted oxidoreductase of the aldo/keto reductase family				
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_04650	COG1520	M	Outer membrane protein assembly factor BamB, contains PQQ-like beta-propeller repeat	PQQ			6TJG
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_04660	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_04670	COG3786	M	L,D-peptidoglycan transpeptidase YkuD, ErfK/YbiS/YcfS/YnhG family			16647082	
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_04675	COG0769	M	UDP-N-acetylmuramyl tripeptide synthase	MurE	Mureine biosynthesis		1E8C
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_04685	COG5002	T	Sensor histidine kinase WalK	WalK			4I5S
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_04690	COG3706	TK	Two-component response regulator, PleD family, consists of two REC domains and a diguanylate cyclase (GGDEF) domain	PleD			1W25
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_04705	COG3642	J	tRNA A-37 threonylcarbamoyl transferase component Bud32	Bud32	tRNA modification		2VWB
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_04715	COG3568	R	Metal-dependent hydrolase, endonuclease/exonuclease/phosphatase family	ElsH		15178340	
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_04720	COG0105	F	Nucleoside diphosphate kinase	Ndk	Pyrimidine biosynthesis		1B4S
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_04730	COG1064	G	D-arabinose 1-dehydrogenase, Zn-dependent alcohol dehydrogenase family	AdhP			5O8Q
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_04735	COG3288	C	NAD/NADP transhydrogenase alpha subunit	PntA			1F8G
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_04750	COG0845	MV	Multidrug efflux pump subunit AcrA (membrane-fusion protein)	AcrA			1T5E
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_04765	COG3828	R	Type 1 glutamine amidotransferase (GATase1)-like domain				
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_04770	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_04775	COG0365	I	Acyl-coenzyme A synthetase/AMP-(fatty) acid ligase	Acs		14638756	4B2O
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_04780	COG0564	J	Pseudouridine synthase RluA, 23S rRNA- or tRNA-specific	RluA	23S rRNA modification		2I82
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_04810	COG2268	S	Uncharacterized membrane protein YqiK, contains Band7/PHB/SPFH domain	YqiK			1WIN
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_04820	COG0243	C	Anaerobic selenocysteine-containing dehydrogenase	BisC			1EU1
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_04825	COG1005	C	NADH:ubiquinone oxidoreductase subunit 1 (chain H)	NuoH	NADH dehydrogenase		6HUM
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_04830	COG1149	R	MinD superfamily P-loop ATPase, contains an inserted ferredoxin domain				
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_04835	COG0839	C	NADH:ubiquinone oxidoreductase subunit 6 (chain J)	NuoJ	NADH dehydrogenase		4HE8
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_04840	COG0713	C	NADH:ubiquinone oxidoreductase subunit 11 or 4L (chain K)	NuoK	NADH dehydrogenase		4HE8
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_04845	COG1009	C	Membrane H+-translocase/NADH:ubiquinone oxidoreductase subunit 5 (chain L)/Multisubunit Na+/H+ antiporter, MnhA subunit	NuoL	NADH dehydrogenase		3RKO
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_04850	COG1009	C	Membrane H+-translocase/NADH:ubiquinone oxidoreductase subunit 5 (chain L)/Multisubunit Na+/H+ antiporter, MnhA subunit	NuoL	NADH dehydrogenase		3RKO
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_04855	COG1007	C	NADH:ubiquinone oxidoreductase subunit 2 (chain N)	NuoN	NADH dehydrogenase		4HE8
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_04860	COG2204	T	DNA-binding transcriptional response regulator, NtrC family, contains REC, AAA-type ATPase, and a Fis-type DNA-binding domains	AtoC			1ZY2
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_04865	COG4191	T	Signal transduction histidine kinase regulating C4-dicarboxylate transport system				4GCZ
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_04875	COG1291	N	Flagellar motor component MotA	MotA			
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_04890	COG1729	D	Cell division protein CpoB, coordinates peptidoglycan biosynthesis and outer membrane constriction	CpoB		25951518	2WZ7
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_04895	COG2017	G	Galactose mutarotase or related enzyme	GalM			1LUR
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_04905	COG4964	UW	Flp pilus assembly protein, secretin CpaC	CpaC			
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_04910	COG2176	L	DNA polymerase III, alpha subunit (gram-positive type)	PolC			
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_04920	COG0422	H	4-amino-2-methyl-5-hydroxymethylpyrimidine (HMP) synthase ThiC	ThiC	Thiamine biosynthesis	15326535	3EPN
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_04930	COG1721	S	Uncharacterized conserved protein, DUF58 family, contains vWF domain	YeaD2			
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_04935	COG1305	O	Transglutaminase-like enzyme, putative cysteine protease	YebA			3ISR
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_04960	COG0768	DM	Cell division protein FtsI, peptidoglycan transpeptidase (Penicillin-binding protein 2)	FtsI			6HZQ
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_04975	COG2202	T	PAS domain	PAS			2MWG
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_04980	COG3852	T	Signal transduction histidine kinase NtrB, nitrogen specific	NtrB		23893111	
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_04985	COG1506	E	Dipeptidyl aminopeptidase/acylaminoacyl peptidase	DAP2			2JBW
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_04995	COG3386	G	Sugar lactone lactonase YvrE	YvrE	Non-phosphorylated Entner-Doudoroff pathway		1E1A
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_05000	COG2133	G	Glucose/arabinose dehydrogenase, beta-propeller fold	YliI			1C9U
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_05005	COG3241	C	Azurin	BlueCu			
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_05010	COG0230	J	Ribosomal protein L34	RpmH	Ribosome 50S subunit		6SPB
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_05015	COG0594	J	RNase P protein component	RnpA			1A6F
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_05020	COG0759	M	Membrane-anchored protein YidD, putatitve component of membrane protein insertase Oxa1/YidC/SpoIIIJ	YidD			
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_05025	COG0706	M	Membrane protein insertase Oxa1/YidC/SpoIIIJ	YidC			3WO6
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_05040	COG0364	G	Glucose-6-phosphate 1-dehydrogenase	Zwf	Pentose phosphate pathway	18950999	5B7W
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_05045	COG0112	E	Glycine/serine hydroxymethyltransferase	GlyA	Serine biosynthesis		1BJ4
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_05060	COG0630	NU	Type IV secretory pathway ATPase VirB11/Archaellum biosynthesis ATPase ArlI/FlaI	VirB11		32416640	1G6O
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_05065	COG0630	NU	Type IV secretory pathway ATPase VirB11/Archaellum biosynthesis ATPase ArlI/FlaI	VirB11		32416640	1G6O
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_05070	COG3828	R	Type 1 glutamine amidotransferase (GATase1)-like domain				
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_05075	COG1352	T	Methylase of chemotaxis methyl-accepting proteins	CheR			1AF7
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_05080	COG1023	G	6-phosphogluconate dehydrogenase (decarboxylating)	YqeC			4E21
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_05085	COG2133	G	Glucose/arabinose dehydrogenase, beta-propeller fold	YliI			1C9U
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_05090	COG0491	R	Glyoxylase or a related metal-dependent hydrolase, beta-lactamase superfamily II	GloB		25670698	1QH3
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_05095	COG1526	C	Formate dehydrogenase assembly factor FdhD, a sulfurtransferase	FdhD			2PW9
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_05100	COG1211	I	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase	IspD	Isoprenoid biosynthesis		1H3M
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_05105	COG2258	FV	N-hydroxylaminopurine reductase YiiM, contains MOSC domain	YiiM		18312271;29459651	1O65
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_05110	COG0204	I	1-acyl-sn-glycerol-3-phosphate acyltransferase	PlsC	Phospholipid biosynthesis		1IUQ
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_05115	COG1502	I	Phosphatidylserine/phosphatidylglycerophosphate/cardiolipin synthase	Cls	Phospholipid biosynthesis		1BYR
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_05120	COG0596	HR	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold	MenH	Menaquinone biosynthesis		4MYS
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_05130	COG0457	R	Tetratricopeptide (TPR) repeat	TPR			3AS4
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_05145	COG4231	C	TPP-dependent indolepyruvate ferredoxin oxidoreductase, alpha subunit	IorA			
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_05150	COG1014	C	Pyruvate:ferredoxin oxidoreductase or related 2-oxoacid:ferredoxin oxidoreductase, gamma subunit	PorG	Pyruvate oxidation		1B0P
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_05160	COG1538	M	Outer membrane protein TolC	TolC			1EK9
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_05165	COG1566	V	Multidrug resistance efflux pump EmrA	EmrA			4TKO
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_05180	COG2130	QR	NADPH-dependent curcumin reductase CurA	CurA		21467222	1V3T
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_05190	COG0015	F	Adenylosuccinate lyase	PurB	Purine biosynthesis		2HVG
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_05195	COG2055	C	Malate/lactate/ureidoglycolate dehydrogenase, LDH2 family	AllD	TCA cycle		1NXU
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_05200	COG0665	E	Glycine/D-amino acid oxidase (deaminating)	DadA			3AWI
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_05205	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_05210	COG0179	Q	2-keto-4-pentenoate hydratase/2-oxohepta-3-ene-1,7-dioic acid hydratase (catechol pathway)	YcgM			1GTT
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_05215	COG0623	I	Enoyl-[acyl-carrier-protein] reductase FabI	FabI	Fatty acid biosynthesis		1C14
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_05225	COG0697	GER	Permease of the drug/metabolite transporter (DMT) superfamily	RhaT			5I20
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_05235	COG0841	V	Multidrug efflux pump subunit AcrB	AcrB			1IWG
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_05245	COG1167	KE	DNA-binding transcriptional regulator, MocR family, contains an aminotransferase domain	ARO8	Lysine biosynthesis		2R2N
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_05255	COG4102	S	Uncharacterized conserved protein, DUF1501 family				
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_05260	COG0623	I	Enoyl-[acyl-carrier-protein] reductase FabI	FabI	Fatty acid biosynthesis		1C14
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_05270	COG4102	S	Uncharacterized conserved protein, DUF1501 family				
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_05280	COG3241	C	Azurin	BlueCu			
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_05290	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_05295	COG0518	F	GMP synthase, glutamine amidotransferase domain	GuaA1	Purine biosynthesis		4WIM
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_05300	COG1078	R	HD superfamily phosphohydrolase	YdhJ			2HEK
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_05310	COG1157	NU	Flagellar biosynthesis/type III secretory pathway ATPase FliI	FliI			5B0O
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_05315	COG0217	KJ	Transcriptional and/or translational regulatory protein YebC/TACO1	TACO1			1KON
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_05325	COG3688	J	EndoRNase involved in mRNA decay, NYN (Nedd4-BP1/Rae1/YacP nuclease) family,  contains PIN domain	Rae1		28363943	5MQ8
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_05335	COG1078	R	HD superfamily phosphohydrolase	YdhJ			2HEK
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_05340	COG0466	O	ATP-dependent Lon protease, bacterial type	Lon			6ON2
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_05350	COG1185	J	Polyribonucleotide nucleotidyltransferase (polynucleotide phosphorylase)	Pnp			1E3P
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_05355	COG3689	S	Uncharacterized membrane protein YcgQ,  UPF0703/DUF1980 family	YcgQ			
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_05360	COG1674	D	DNA segregation ATPase FtsK/SpoIIIE or related protein	FtsK			2IUT
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_05365	COG1426	D	Cytoskeletal protein RodZ, contains Xre-like HTH and DUF4115 domains	RodZ			3FYM
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_05375	COG1129	G	ABC-type sugar transport system, ATPase component	MglA			
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_05380	COG0555	P	ABC-type sulfate transport system, permease component	CysU			3D31
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_05385	COG4143	H	ABC-type thiamine transport system, periplasmic component TbpA	TbpA			2QRY
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_05415	COG4221	C	NADP-dependent 3-hydroxy acid dehydrogenase YdfG	YdfG	Pyrimidine degradation		3P19
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_05425	COG4704	S	Uncharacterized conserved protein, DUF2141 family				
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_05445	COG0048	J	Ribosomal protein S12	RpsL	Ribosome 30S subunit		4V4H
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_05450	COG0049	J	Ribosomal protein S7	RpsG	Ribosome 30S subunit		4V4H
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_05455	COG0480	J	Translation elongation factor EF-G, a GTPase	FusA	Translation factors		1DAR
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_05460	COG0051	J	Ribosomal protein S10	RpsJ	Ribosome 30S subunit		4V4H
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_05465	COG0087	J	Ribosomal protein L3	RplC	Ribosome 50S subunit		1VS6
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_05470	COG0088	J	Ribosomal protein L4	RplD	Ribosome 50S subunit		1VS6
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_05475	COG0089	J	Ribosomal protein L23	RplW	Ribosome 50S subunit		1VS6
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_05480	COG0090	J	Ribosomal protein L2	RplB	Ribosome 50S subunit		1VS6
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_05485	COG0185	J	Ribosomal protein S19	RpsS	Ribosome 30S subunit		4V4H
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_05500	COG0092	J	Ribosomal protein S3	RpsC	Ribosome 30S subunit		1VS6
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_05505	COG0197	J	Ribosomal protein L16/L10AE	RplP	Ribosome 50S subunit		1WKI
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_05510	COG0255	J	Ribosomal protein L29	RpmC	Ribosome 50S subunit		1VS6
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_05520	COG0093	J	Ribosomal protein L14	RplN	Ribosome 50S subunit		4V4H
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_05550	COG0139	E	Phosphoribosyl-AMP cyclohydrolase	HisI1	Histidine biosynthesis		1ZPS
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_05555	COG1243	J	tRNA U34 5-carboxymethylaminomethylation enzyme Elp3 (RNA elongator complex protein 3), contains radical SAM and acetyltransferase domains	ELP3		25151136;27455459	6IA8
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_05560	COG1562	I	Phytoene/squalene synthetase	ERG9			3WEK
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_05565	COG1187	J	Pseudouridylate synthase RsuA, specific for 16S rRNA U516  and 23S rRNA U2605	RsuA	16S rRNA modification		1KSK
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_05570	COG3642	J	tRNA A-37 threonylcarbamoyl transferase component Bud32	Bud32	tRNA modification		2VWB
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_05575	COG0542	O	ATP-dependent Clp protease, ATP-binding subunit ClpA	ClpA			1KSF
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_05585	COG0502	H	Biotin synthase or related enzyme	BioB	Biotin biosynthesis		1R30
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_05590	COG1853	C	FMN reductase RutF, DIM6/NTAB family	RutF	Pyrimidine degradation		1EJE
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_05595	COG0607	P	Rhodanese-related sulfurtransferase	PspE	Urea cycle		1TQ1
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_05615	COG0564	J	Pseudouridine synthase RluA, 23S rRNA- or tRNA-specific	RluA	23S rRNA modification		2I82
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_05635	COG2995	M	Intermembrane transporter PqiABC subunit PqiA	PqiA		27795327	
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_05645	COG5337	M	Spore coat protein CotH	CotH			5JD9
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_05650	COG0673	R	Predicted dehydrogenase	MviM			3UUW
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_05655	COG2910	R	Putative NADH-flavin reductase	YwnB			3EW7
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_05665	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_05670	COG0679	R	Predicted permease, AEC (auxin efflux carrier) family	YfdV			
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_05675	COG0329	EM	4-hydroxy-tetrahydrodipicolinate synthase/N-acetylneuraminate lyase	DapA	Lysine biosynthesis	27574185	2R91
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_05680	COG1520	M	Outer membrane protein assembly factor BamB, contains PQQ-like beta-propeller repeat	PQQ			6TJG
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_05685	COG0673	R	Predicted dehydrogenase	MviM			3UUW
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_05690	COG0297	G	Glycogen synthase	GlgA			1RZU
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_05700	COG0504	F	CTP synthase (UTP-ammonia lyase)	PyrG	Pyrimidine biosynthesis		1S1M
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_05725	COG2165	NUW	Type II secretory pathway, pseudopilin PulG	PulG			1AY2
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_05730	COG0114	C	Fumarate hydratase class II	FumC	TCA cycle		1KQ7
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_05745	COG0108	H	3,4-dihydroxy-2-butanone 4-phosphate synthase	RibB	Riboflavin/FAD biosynthesis		1G57
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_05750	COG1506	E	Dipeptidyl aminopeptidase/acylaminoacyl peptidase	DAP2			2JBW
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_05760	COG1490	J	D-aminoacyl-tRNA deacylase	Dtd		10918062;16902403;24302572	1J7G
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_05770	COG0143	J	Methionyl-tRNA synthetase	MetG	Aminoacyl-tRNA synthetases		1A8H
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_05775	COG0860	M	N-acetylmuramoyl-L-alanine amidase	AmiC			1JWQ
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_05780	COG3709	G	Ribose 1,5-bisphosphate kinase PhnN	PhnN			
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_05790	COG0119	E	Isopropylmalate/homocitrate/citramalate synthases	LeuA	Isoleucine, leucine, valine biosynthesis		4JN6
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_05795	COG0101	J	tRNA U38,U39,U40 pseudouridine synthase TruA	TruA	tRNA modification		1DJ0
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_05800	COG0824	I	Acyl-CoA thioesterase FadM	FadM	Menaquinone biosynthesis		2FUJ
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_05805	COG0486	J	tRNA U34 5-carboxymethylaminomethyl modifying GTPase MnmE/TrmE	MnmE	tRNA modification		
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_05810	COG4282	M	Cell wall assembly regulator SMI1 (Killer toxin-resistance protein 4)	SMI1			5J1B
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_05820	COG1171	E	Threonine deaminase	IlvA	Isoleucine, leucine, valine biosynthesis		3IAU
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_05830	COG1360	N	Flagellar motor protein MotB	MotB			
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_05835	COG5010	UW	Flp pilus assembly protein TadD, contains TPR repeats	TadD			3WXX
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_05845	COG0848	U	Biopolymer transport protein ExbD	ExbD			2JWK
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_05855	COG1291	N	Flagellar motor component MotA	MotA			
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_05865	COG4771	P	Outer membrane receptor for ferrienterochelin and colicins	FepA		16468998	2HDF
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_05870	COG0446	I	NADPH-dependent 2,4-dienoyl-CoA reductase, sulfur reductase, or a related oxidoreductase	FadH2			1VRQ
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_05875	COG0075	EF	Archaeal aspartate aminotransferase or a related aminotransferase, includes purine catabolism protein PucG	PucG	Serine biosynthesis		3NNK
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_05880	COG0260	E	Leucyl aminopeptidase	PepB		19553197;23825549	3H8E
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_05910	COG4772	P	Outer membrane receptor for Fe3+-dicitrate	FecA			1KMP
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_05920	COG1111	L	ERCC4-related helicase	MPH1			1WP9
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_05925	COG0024	J	Methionine aminopeptidase	Map			3J2I
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_05940	COG0480	J	Translation elongation factor EF-G, a GTPase	FusA	Translation factors		1DAR
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_05945	COG2268	S	Uncharacterized membrane protein YqiK, contains Band7/PHB/SPFH domain	YqiK			1WIN
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_05955	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_05965	COG0833	E	Amino acid permease	LysP			
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_05970	COG0526	O	Thiol-disulfide isomerase or thioredoxin	TrxA			1XFL
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_05975	COG0608	L	ssDNA-specific exonuclease RecJ, DHH superfamily, may be involved in archaeal DNA replication intiation	RecJ			1IR6
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_05980	COG1061	KL	Superfamily II DNA or RNA helicase	SSL2			6JDE
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_05995	COG0508	C	Pyruvate/2-oxoglutarate dehydrogenase complex, dihydrolipoamide acyltransferase (E2) component	AceF	Pyruvate oxidation		1B5S
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_06000	COG1154	HI	Deoxyxylulose-5-phosphate synthase	Dxs	Pyridoxal phosphate biosynthesis		2O1S
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_06005	COG3959	G	Transketolase, N-terminal subunit	TktA1			
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_06015	COG0445	J	tRNA U34 5-carboxymethylaminomethyl modifying enzyme MnmG/GidA	MnmG	tRNA modification		2ZXH
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_06030	COG0571	K	dsRNA-specific ribonuclease	Rnc			1DI2
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_06055	COG1044	M	UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase	LpxD	Lipid A biosynthesis		6P83
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_06065	COG0526	O	Thiol-disulfide isomerase or thioredoxin	TrxA			1XFL
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_06080	COG2195	E	Di- or tripeptidase	PepD2			2QYV
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_06085	COG0441	J	Threonyl-tRNA synthetase	ThrS	Aminoacyl-tRNA synthetases		1NYQ
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_06095	COG1524	T	c-di-AMP phosphodiesterase AtaC or nucleotide pyrophosphatase, AlkP superfamily	AtaC		32188788	1EI6
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_06120	COG0673	R	Predicted dehydrogenase	MviM			3UUW
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_06125	COG1387	ER	Histidinol phosphatase or related hydrolase of the PHP family	HIS2	Histidine biosynthesis		1M65
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_06140	COG3119	P	Arylsulfatase A or related enzyme, AlkP superfamily	AslA			1E1Z
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_06150	COG4102	S	Uncharacterized conserved protein, DUF1501 family				
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_06155	COG4102	S	Uncharacterized conserved protein, DUF1501 family				
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_06160	COG0018	J	Arginyl-tRNA synthetase	ArgS	Aminoacyl-tRNA synthetases		1BS2
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_06165	COG1762	GT	Phosphotransferase system mannitol/fructose-specific IIA domain (Ntr-type)	PtsN			2OQ3
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_06170	COG3083	MT	Periplasmic protein PbgA/YejM, regulator of the LPS biosynthesis, AlkP superfamily	YejM		31611279;32291302;32540932	5I5D
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_06175	COG3119	P	Arylsulfatase A or related enzyme, AlkP superfamily	AslA			1E1Z
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_06180	COG3509	G	Acetyl xylan esterase AxeA and related esterases, LpqC family	LpqC		9291122	2D80
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_06185	COG0456	J	Ribosomal protein S18 acetylase RimI and related acetyltransferases	RimI			1GHE
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_06195	COG3658	C	Cytochrome b subunit of Ni2+-dependent hydrogenase	CytB			
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_06205	COG2175	Q	Taurine dioxygenase, alpha-ketoglutarate-dependent	TauD			1DRT
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_06210	COG1055	P	Na+/H+ antiporter NhaD or related arsenite permease	ArsB			
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_06215	COG3530	S	Uncharacterized conserved protein, DUF3820 family				
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_06220	COG0412	Q	Dienelactone hydrolase	DLH			4ZV9
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_06230	COG4372	S	Uncharacterized protein, contains DUF3084 domain				
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_06235	COG1236	J	RNA processing exonuclease, beta-lactamase fold, Cft2 family	YSH1			2DKF
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_06240	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_06245	COG3386	G	Sugar lactone lactonase YvrE	YvrE	Non-phosphorylated Entner-Doudoroff pathway		1E1A
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_06250	COG2382	P	Enterochelin esterase or related enzyme	Fes			2B20
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_06255	COG1063	ER	Threonine dehydrogenase or related Zn-dependent dehydrogenase	Tdh	Non-phosphorylated Entner-Doudoroff pathway		4A2C
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_06260	COG1570	L	Exonuclease VII, large subunit	XseA			
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_06275	COG0193	J	Peptidyl-tRNA hydrolase	Pth	Translation factors	11835511	1RYB
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_06280	COG1825	J	Ribosomal protein L25 (general stress protein Ctc)	RplY	Ribosome 50S subunit		1B75
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_06285	COG0462	F	Phosphoribosylpyrophosphate synthetase	PrsA	Histidine biosynthesis, Purine biosynthesis		1DKR
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_06315	COG0297	G	Glycogen synthase	GlgA			1RZU
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_06335	COG0438	M	Glycosyltransferase involved in cell wall bisynthesis	RfaB			2IV7
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_06345	COG2244	M	Membrane protein involved in the export of O-antigen and teichoic acid	RfbX			
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_06400	COG5010	UW	Flp pilus assembly protein TadD, contains TPR repeats	TadD			3WXX
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_06425	COG1165	H	2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate synthase	MenD	Menaquinone biosynthesis		5Z2P
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_06435	COG0514	L	Superfamily II DNA helicase RecQ	RecQ			1OYW
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_06455	COG5337	M	Spore coat protein CotH	CotH			5JD9
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_06460	COG3083	MT	Periplasmic protein PbgA/YejM, regulator of the LPS biosynthesis, AlkP superfamily	YejM		31611279;32291302;32540932	5I5D
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_06465	COG0666	T	Ankyrin repeat	ANKYR			6AUN
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_06470	COG1239	H	Mg-chelatase subunit ChlI	ChlI			1G8P
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_06475	COG1240	H	vWFA (von Willebrand factor type A) domain of Mg and Co chelatases	ChlD			
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_06480	COG2425	S	Uncharacterized conserved protein, contains a von Willebrand factor type A (vWA) domain	ViaA			
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_06495	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_06515	COG2185	I	Methylmalonyl-CoA mutase, C-terminal domain/subunit (cobalamin-binding)	Sbm			1B1A
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_06520	COG0424	Q	7-methyl-GTP pyrophosphatase and related NTP pyrophosphatases, Maf/HAM1 superfamily	Maf		24210219	2P5X
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_06540	COG1186	J	Protein chain release factor PrfB	PrfB	Translation factors		1GQE
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_06550	COG4774	P	Outer membrane receptor for monomeric catechols	Fiu			
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_06560	COG1007	C	NADH:ubiquinone oxidoreductase subunit 2 (chain N)	NuoN	NADH dehydrogenase		4HE8
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_06570	COG0651	CP	Formate hydrogenlyase subunit 3/Multisubunit Na+/H+ antiporter, MnhD subunit	HyfB			6CFW
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_06575	COG0651	CP	Formate hydrogenlyase subunit 3/Multisubunit Na+/H+ antiporter, MnhD subunit	HyfB			6CFW
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_06585	COG3280	G	Maltooligosyltrehalose synthase	TreY			
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_06595	COG3757	M	Lyzozyme M1 (1,4-beta-N-acetylmuramidase), GH25 family	Acm			1H09
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_06610	COG5626	S	Uncharacterized protein Ssr3000, DUF2288 family	Ssr3000			
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_06615	COG3239	I	Fatty acid desaturase	DesA			
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_06625	COG3119	P	Arylsulfatase A or related enzyme, AlkP superfamily	AslA			1E1Z
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_06645	COG1694	V	NTP pyrophosphatase, house-cleaning of non-canonical NTPs	MazG			1VMG
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_06650	COG0861	P	Tellurite resistance membrane protein TerC	TerC			
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_06660	COG1521	H	Pantothenate kinase type III	CoaX			2F9T
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_06680	COG0582	LX	Integrase/recombinase, includes phage integrase	FimB			
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_06685	COG0107	E	Imidazole glycerol phosphate synthase subunit HisF	HisF	Histidine biosynthesis		1OX4
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_06700	COG0161	H	Adenosylmethionine-8-amino-7-oxononanoate aminotransferase	BioA	Biotin biosynthesis		1MLY
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_06705	COG0086	K	DNA-directed RNA polymerase, beta' subunit/160 kD subunit	RpoC	RNA polymerase		1NT9
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_06715	COG3797	S	Uncharacterized conserved protein, DUF1697 family				2HIY
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_06725	COG0081	J	Ribosomal protein L1	RplA	Ribosome 50S subunit		3J65
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_06730	COG0080	J	Ribosomal protein L11	RplK	Ribosome 50S subunit		2E34
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_06735	COG2085	R	Predicted dinucleotide-binding enzyme				2VNS
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_06750	COG0480	J	Translation elongation factor EF-G, a GTPase	FusA	Translation factors		1DAR
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_06765	COG0860	M	N-acetylmuramoyl-L-alanine amidase	AmiC			1JWQ
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_06770	COG2339	T	Membrane proteinase PrsW, cleaves anti-sigma factor RsiW, M82 family	PrsW			
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_06780	COG0760	O	Peptidyl-prolyl isomerase, parvulin family	SurA			2ZR5
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_06785	COG2226	H	Ubiquinone/menaquinone biosynthesis C-methylase UbiE/MenG	UbiE	Biotin biosynthesis		4OBW
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_06790	COG2309	E	Leucyl aminopeptidase (aminopeptidase T)	AmpS			1ZJC
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_06795	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_06805	COG0793	O	C-terminal processing protease CtpA/Prc, contains a PDZ domain	CtpA			6IQU
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_06810	COG0793	O	C-terminal processing protease CtpA/Prc, contains a PDZ domain	CtpA			6IQU
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_06815	COG1011	H	FMN and 5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YigB, HAD superfamily (riboflavin biosynthesis)	YigB		24123841	4JB3
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_06820	COG1082	G	Sugar phosphate isomerase/epimerase	YcjR		30742415	3KTC
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_06825	COG3091	R	Predicted Zn-dependent metalloprotease, SprT family	SprT			
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_06830	COG1044	M	UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase	LpxD	Lipid A biosynthesis		6P83
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_06840	COG0659	P	Sulfate permease or related transporter, MFS superfamily	SUL1			3NY7
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_06845	COG2203	T	GAF domain	GAF			
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_06850	COG0576	O	Molecular chaperone GrpE (heat shock protein HSP-70)	GrpE			1DKG
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_06855	COG2214	K	Curved DNA-binding protein CbpA, contains a DnaJ-like domain	CbpA			
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_06860	COG0731	J	Wyosine [tRNA(Phe)-imidazoG37] synthetase, radical SAM superfamily	Tyw1	tRNA modification		2YX0
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_06875	COG0127	F	Inosine/xanthosine triphosphate pyrophosphatase, all-alpha NTP-PPase family	RdgB			1B78
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_06880	COG0215	J	Cysteinyl-tRNA synthetase	CysS	Aminoacyl-tRNA synthetases		1LI5
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_06885	COG1254	C	Acylphosphatase	AcyP			1APS
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_06890	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_06910	COG0033	G	Phosphoglucomutase/phosphomannomutase	Pgm		30938049	1C47
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_06915	COG0857	R	BioD-like N-terminal domain of phosphotransacetylase	PtaN			2IOJ
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_06920	COG0122	L	3-methyladenine DNA glycosylase/8-oxoguanine DNA glycosylase	AlkA			1DIZ
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_06925	COG0164	L	Ribonuclease HII	RnhB			1EKE
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_06930	COG0776	L	Bacterial nucleoid DNA-binding protein IHF-alpha	HimA			1B8Z
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_06965	COG1067	O	Predicted ATP-dependent protease	LonB			3K1J
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_06985	COG4799	I	Acetyl-CoA carboxylase, carboxyltransferase component	MmdA			1OD2
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_06990	COG0769	M	UDP-N-acetylmuramyl tripeptide synthase	MurE	Mureine biosynthesis		1E8C
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_06995	COG0076	E	Glutamate or tyrosine decarboxylase or a related PLP-dependent protein	GadA	Pantothenate/CoA biosynthesis		1XEY
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_07000	COG3458	Q	Cephalosporin-C deacetylase or related acetyl esterase	Axe1			1L7A
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_07005	COG0768	DM	Cell division protein FtsI, peptidoglycan transpeptidase (Penicillin-binding protein 2)	FtsI			6HZQ
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_07010	COG0269	G	3-keto-L-gulonate-6-phosphate decarboxylase	UlaD			3F4W
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_07015	COG0673	R	Predicted dehydrogenase	MviM			3UUW
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_07025	COG2263	R	Predicted RNA methylase				6H2U
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_07035	COG0590	J	tRNA(Arg) A34 adenosine deaminase TadA	TadA	Pyrimidine salvagetRNA modification		2A8N
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_07040	COG2928	S	Uncharacterized membrane protein			19363116	
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_07045	COG2874	N	Archaellum biogenesis ATPase ArlH/FlaH	FlaH		32416640	4WIA
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_07050	COG0027	F	Formate-dependent phosphoribosylglycinamide formyltransferase (GAR transformylase)	PurT	Purine biosynthesis		1KJ8
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_07055	COG0399	M	dTDP-4-amino-4,6-dideoxygalactose transaminase	WecE		15271350	4PIW
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_07060	COG0156	H	7-keto-8-aminopelargonate synthetase or related enzyme	BioF	Biotin biosynthesis		1BS0
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_07080	COG0632	L	Holliday junction resolvasome RuvABC DNA-binding subunit	RuvA			1BDX
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_07090	COG0668	M	Small-conductance mechanosensitive channel	MscS			2OAU
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_07100	COG4941	K	Predicted RNA polymerase sigma factor, contains C-terminal TPR domain				
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_07105	COG0162	J	Tyrosyl-tRNA synthetase	TyrS	Aminoacyl-tRNA synthetases		4OUD
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_07115	COG1187	J	Pseudouridylate synthase RsuA, specific for 16S rRNA U516  and 23S rRNA U2605	RsuA	16S rRNA modification		1KSK
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_07120	COG0045	C	Succinyl-CoA synthetase, beta subunit	SucC	TCA cycle		1SCU
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_07130	COG1042	C	Acyl-CoA synthetase (NDP forming)	PatZN		26251518	4YAK
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_07135	COG0372	C	Citrate synthase	GltA	TCA cycle	25211225	3TQG
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_07140	COG1239	H	Mg-chelatase subunit ChlI	ChlI			1G8P
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_07145	COG1721	S	Uncharacterized conserved protein, DUF58 family, contains vWF domain	YeaD2			
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_07155	COG2425	S	Uncharacterized conserved protein, contains a von Willebrand factor type A (vWA) domain	ViaA			
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_07165	COG1240	H	vWFA (von Willebrand factor type A) domain of Mg and Co chelatases	ChlD			
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_07170	COG2409	R	Predicted lipid transporter YdfJ, MMPL/SSD domain, RND superfamily	YdfJ		10694977;15941986	
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_07185	COG0245	I	2C-methyl-D-erythritol 2,4-cyclodiphosphate synthase	IspF	Isoprenoid biosynthesis		1GX1
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_07190	COG1218	P	3'-Phosphoadenosine 5'-phosphosulfate (PAPS) 3'-phosphatase	CysQ			
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_07195	COG0452	H	Phosphopantothenoylcysteine synthetase/decarboxylase CoaBC	CoaBC	Pantothenate/CoA biosynthesis		3QJG
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_07200	COG1036	C	Archaeal flavoprotein	AfpA			3WIS
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_07215	COG0262	H	Dihydrofolate reductase	FolA	Folate biosynthesis		1DDR
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_07220	COG0421	E	Spermidine synthase (polyamine aminopropyltransferase)	SpeE			6BQ2
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_07230	COG0172	J	Seryl-tRNA synthetase	SerS	Aminoacyl-tRNA synthetases		1SER
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_07240	COG0269	G	3-keto-L-gulonate-6-phosphate decarboxylase	UlaD			3F4W
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_07245	COG0340	H	Biotin-(acetyl-CoA carboxylase) ligase	BirA2	Biotin biosynthesis	32188788	1BIA
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_07250	COG0642	T	Signal transduction histidine kinase	BaeS			1JOY
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_07255	COG0450	V	Alkyl hydroperoxide reductase subunit AhpC (peroxiredoxin)	AhpC			2RII
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_07260	COG1225	O	Peroxiredoxin	Bcp			5IPH
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_07265	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_07270	COG0249	L	DNA mismatch repair ATPase MutS	MutS			1E3M
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_07280	COG3391	R	DNA-binding beta-propeller fold protein YncE	YncE		22120742;28628661	3VGZ
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_07305	COG2340	DR	Spore germination protein YkwD and related proteins with CAP (CSP/antigen 5/PR1) domain	YkwD		31199835	1CFE
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_07320	COG4172	Q	ABC-type microcin C transport system, duplicated ATPase component YejF	YejF		17873039	
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_07325	COG1668	CP	ABC-type Na+ efflux pump, permease component NatB	NatB			
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_07335	COG4102	S	Uncharacterized conserved protein, DUF1501 family				
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_07355	COG2133	G	Glucose/arabinose dehydrogenase, beta-propeller fold	YliI			1C9U
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_07360	COG1226	P	Voltage-gated potassium channel Kch	Kch			3FWZ
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_07390	COG0823	U	Periplasmic component TolB of the Tol biopolymer transport system	TolB			1C5K
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_07400	COG0666	T	Ankyrin repeat	ANKYR			6AUN
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_07405	COG0682	M	Prolipoprotein diacylglyceryltransferase	Lgt			5AZB
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_07410	COG0595	J	mRNA degradation ribonuclease J1/J2	RnjA			3T3N
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_07415	COG0793	O	C-terminal processing protease CtpA/Prc, contains a PDZ domain	CtpA			6IQU
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_07420	COG3457	E	Predicted amino acid racemase	YhfX		23091052	4KBX
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_07425	COG4102	S	Uncharacterized conserved protein, DUF1501 family				
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_07430	COG1524	T	c-di-AMP phosphodiesterase AtaC or nucleotide pyrophosphatase, AlkP superfamily	AtaC		32188788	1EI6
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_07435	COG3828	R	Type 1 glutamine amidotransferase (GATase1)-like domain				
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_07450	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_07455	COG4177	E	ABC-type branched-chain amino acid transport system, permease component	LivM			
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_07460	COG4213	G	ABC-type xylose transport system, periplasmic component	XylF			4YWH
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_07465	COG0373	H	Glutamyl-tRNA reductase	HemA	Heme biosynthesis		2XOE
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_07480	COG0242	J	Peptide deformylase	Def			1BS4
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_07490	COG0811	U	Biopolymer transport protein ExbB/TolQ	TolQ			5SV0
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_07500	COG1712	E	L-aspartate dehydrogenase, NAD(P)-dependent	AspD		12496312	1H2H
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_07515	COG4942	D	Septal ring factor EnvC, activator of murein hydrolases AmiA and AmiB	EnvC			
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_07520	COG0624	E	Acetylornithine deacetylase/Succinyl-diaminopimelate desuccinylase or related deacylase	ArgE	Arginine biosynthesis		1CG2
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_07540	COG0446	I	NADPH-dependent 2,4-dienoyl-CoA reductase, sulfur reductase, or a related oxidoreductase	FadH2			1VRQ
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_07545	COG0069	E	Glutamate synthase domain 2	GltB2	Glutamine biosynthesis		1EA0
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_07550	COG2335	R	Uncaracterized surface protein containing fasciclin (FAS1) repeats	FAS1			
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_07555	COG3119	P	Arylsulfatase A or related enzyme, AlkP superfamily	AslA			1E1Z
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_07570	COG3340	E	Peptidase E	PepE			1FY2
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_07580	COG1538	M	Outer membrane protein TolC	TolC			1EK9
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_07610	COG3386	G	Sugar lactone lactonase YvrE	YvrE	Non-phosphorylated Entner-Doudoroff pathway		1E1A
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_07620	COG0173	J	Aspartyl-tRNA synthetase	AspS	Aminoacyl-tRNA synthetases		1C0A
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_07625	COG0442	J	Prolyl-tRNA synthetase	ProS	Aminoacyl-tRNA synthetases		5XIF
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_07630	COG3593	L	Predicted ATP-dependent endonuclease of the OLD family, contains P-loop ATPase and TOPRIM domains	YbjD			
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_07635	COG3584	S	3D (Asp-Asp-Asp) domain, usually in lytic transglycosylases		3D	16139297	4WLK
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_07650	COG2133	G	Glucose/arabinose dehydrogenase, beta-propeller fold	YliI			1C9U
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_07655	COG4145	H	Na+/panthothenate symporter	PanF			
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_07660	COG1023	G	6-phosphogluconate dehydrogenase (decarboxylating)	YqeC			4E21
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_07665	COG3241	C	Azurin	BlueCu			
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_07690	COG3258	P	Thiosulfate dehydrogenase TsdA, contains C-terminal cytochrome c domain	TsdA		32457501	
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_07700	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_07705	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_07715	COG1082	G	Sugar phosphate isomerase/epimerase	YcjR		30742415	3KTC
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_07725	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_07745	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_07760	COG4923	R	Predicted nuclease (RNAse H fold)				
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_07790	COG4986	P	ABC-type anion transport system, duplicated permease component				
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_07800	COG3845	F	ABC-type guanosine uptake system NupNOPQ, ATPase component NupO	NupO		21926227	
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_07810	COG0309	O	Carbamoyl dehydratase HypE (hydrogenase maturation factor)	HypE		28618091	2I6R
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_07815	COG1082	G	Sugar phosphate isomerase/epimerase	YcjR		30742415	3KTC
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_07825	COG1233	Q	Phytoene dehydrogenase-related protein				4REP
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_07875	COG0446	I	NADPH-dependent 2,4-dienoyl-CoA reductase, sulfur reductase, or a related oxidoreductase	FadH2			1VRQ
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_07880	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_07885	COG2833	S	Uncharacterized protein, contains ferritin-like DUF455 domain				
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_07890	COG0500	QR	SAM-dependent methyltransferase	SmtA			5DNK
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_07895	COG0596	HR	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold	MenH	Menaquinone biosynthesis		4MYS
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_07900	COG1163	J	Ribosome-interacting GTPase RBG1	Rbg1			4A9A
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_07905	COG0327	H	Putative GTP cyclohydrolase 1 type 2, NIF3 family	NIF3	Folate biosynthesis	24435797;26385509	3SY1
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_07925	COG0002	E	N-acetyl-gamma-glutamylphosphate reductase	ArgC	Arginine biosynthesis		3DR3
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_07930	COG0142	H	Geranylgeranyl pyrophosphate synthase	IspA	Isoprenoid biosynthesis		2AZJ
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_07935	COG0688	I	Phosphatidylserine decarboxylase	Psd	Phospholipid biosynthesis		6L06
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_07950	COG1136	M	ABC-type lipoprotein export system, ATPase component	LolD			5GKO
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_07960	COG1049	C	Aconitase B	AcnB	TCA cycle		1L5J
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_07975	COG1061	KL	Superfamily II DNA or RNA helicase	SSL2			6JDE
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_07985	COG0143	J	Methionyl-tRNA synthetase	MetG	Aminoacyl-tRNA synthetases		1A8H
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_07990	COG0457	R	Tetratricopeptide (TPR) repeat	TPR			3AS4
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_08000	COG1678	K	Putative transcriptional regulator, AlgH/UPF0301 family	AlgH			2AJ2
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_08010	COG0189	EHJQ	Glutathione synthase, LysX or RimK-type ligase, ATP-grasp superfamily	LysX	Lysine biosynthesis		1GLV
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_08020	COG1216	G	Glycosyltransferase, GT2 family	WcaE			2Z86
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_08025	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_08030	COG1215	N	Glycosyltransferase, catalytic subunit of cellulose synthase and poly-beta-1,6-N-acetylglucosamine synthase	BcsA			4HG6
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_08035	COG3159	S	Uncharacterized conserved protein YigA, DUF484 family	YigA			3E98
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_08040	COG0253	E	Diaminopimelate epimerase	DapF	Lysine biosynthesis		1BWZ
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_08045	COG0019	E	Diaminopimelate decarboxylase	LysA	Lysine biosynthesis		1D7K
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_08055	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_08060	COG4989	R	Predicted oxidoreductase YdhF	YdhF			1UR3
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_08065	COG0673	R	Predicted dehydrogenase	MviM			3UUW
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_08070	COG3845	F	ABC-type guanosine uptake system NupNOPQ, ATPase component NupO	NupO		21926227	
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_08080	COG2223	P	Nitrate/nitrite transporter NarK	NarK			4JR9
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_08095	COG1409	T	3',5'-cyclic AMP phosphodiesterase CpdA	CpdA			2ZO9
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_08100	COG3828	R	Type 1 glutamine amidotransferase (GATase1)-like domain				
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_08120	COG3123	F	Pyrimidine/purine nucleoside phosphorylase YaiE/PpnP, UPF0345/DUF1255 family	PpnP		27941785	2OYZ
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_08125	COG0790	R	TPR repeat	TPR			1KLX
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_08150	COG0823	U	Periplasmic component TolB of the Tol biopolymer transport system	TolB			1C5K
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_08160	COG0760	O	Peptidyl-prolyl isomerase, parvulin family	SurA			2ZR5
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_08165	COG0128	E	5-enolpyruvylshikimate-3-phosphate synthase	AroA	Aromatic amino acid biosynthesis		4N3P
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_08170	COG2813	J	16S rRNA G1207 methylase RsmC	RsmC	16S rRNA modification		1DUS
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_08175	COG0216	J	Protein chain release factor RF1	PrfA	Translation factors		1RQ0
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_08180	COG0254	J	Ribosomal protein L31	RpmE	Ribosome 50S subunit		1VS6
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_08185	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_08195	COG0673	R	Predicted dehydrogenase	MviM			3UUW
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_08200	COG0265	O	Periplasmic serine protease, S1-C subfamily, contain C-terminal PDZ domain	DegQ		29686141	2HGA
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_08205	COG0793	O	C-terminal processing protease CtpA/Prc, contains a PDZ domain	CtpA			6IQU
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_08215	COG3871	S	General stress protein 26 (function unknown)	YzzA			2I02
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_08220	COG0591	E	Na+/proline symporter	PutP			5NVA
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_08225	COG3391	R	DNA-binding beta-propeller fold protein YncE	YncE		22120742;28628661	3VGZ
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_08235	COG1119	P	ABC-type molybdenum transport system, ATPase component ModF/photorepair protein PhrA	ModF			2IHY
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_08250	COG1914	P	Mn2+ or Fe2+ transporter, NRAMP family	MntH			5KTE
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_08265	COG0210	L	Superfamily I DNA or RNA helicase	UvrD			6PPR
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_08270	COG2309	E	Leucyl aminopeptidase (aminopeptidase T)	AmpS			1ZJC
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_08280	COG2873	E	O-acetylhomoserine/O-acetylserine sulfhydrylase, pyridoxal phosphate-dependent	MET17	Methionine biosynthesis		2CTZ
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_08285	COG0626	E	Cystathionine beta-lyase/cystathionine gamma-synthase	MetC	Methionine biosynthesis		1CL1
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_08290	COG1189	J	Predicted rRNA methylase YqxC, contains S4 and FtsJ domains	YqxC			3OPN
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_08295	COG0100	J	Ribosomal protein S11	RpsK	Ribosome 30S subunit		4V4H
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_08305	COG3119	P	Arylsulfatase A or related enzyme, AlkP superfamily	AslA			1E1Z
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_08315	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_08345	COG1073	T	Fermentation-respiration switch esterase FrsA, DUF1100 family	FrsA			
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_08360	COG1575	H	1,4-dihydroxy-2-naphthoate polyprenyltransferase	MenA	Menaquinone biosynthesis		
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_08375	COG0147	EH	Anthranilate/para-aminobenzoate synthases component I	TrpE	Aromatic amino acid biosynthesis		1I1Q
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_08380	COG0110	R	Acetyltransferase, isoleucine patch superfamily	WbbJ			
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_08390	COG0284	F	Orotidine-5'-phosphate decarboxylase	PyrF	Pyrimidine biosynthesis		1DBT
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_08395	COG0117	H	Riboflavin biosynthesis protein RibD, pyrimidine deaminase domain	RibD1	Riboflavin/FAD biosynthesis		2O7P
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_08400	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_08405	COG1131	V	ABC-type multidrug transport system, ATPase component	CcmA			5DO7
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_08410	COG1047	O	Peptidyl-prolyl cis-trans isomerase, FKBP type	SlpA			2M2A
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_08425	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_08435	COG1154	HI	Deoxyxylulose-5-phosphate synthase	Dxs	Pyridoxal phosphate biosynthesis		2O1S
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_08450	COG0784	T	CheY-like REC (receiver) domain, includes chemotaxis protein CheY  and sporulation regulator Spo0F	CheY			6QRJ
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_08455	COG3290	T	Sensor histidine kinase DipB regulating citrate/malate metabolism	CitA			
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_08460	COG3596	R	Predicted GTPase	YeeP			
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_08465	COG0582	LX	Integrase/recombinase, includes phage integrase	FimB			
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_08470	COG0657	I	Acetyl esterase/lipase	Aes			1EVQ
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_08475	COG1032	R	Radical SAM superfamily enzyme YgiQ, UPF0313 family	YgiQ			6FD2
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_08495	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_08500	COG1403	V	5-methylcytosine-specific restriction endonuclease McrA	McrA			
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_08520	COG2165	NUW	Type II secretory pathway, pseudopilin PulG	PulG			1AY2
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_08530	COG4970	NW	Type IV pilus assembly protein FimT	FimT		17322192;28771515	
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_08545	COG2001	J	MraZ, DNA-binding transcriptional regulator and inhibitor of RsmH methyltransferase activity	MraZ			1N0E
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_08550	COG0275	J	16S rRNA C1402 N4-methylase RsmH	RmsH	16S rRNA modification		1M6Y
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_08560	COG5009	M	Membrane carboxypeptidase/penicillin-binding protein	MrcA			3D0F
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_08565	COG0285	H	Folylpolyglutamate synthase/Dihydropteroate synthase	FolC	Folate biosynthesis		1W78
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_08570	COG0285	H	Folylpolyglutamate synthase/Dihydropteroate synthase	FolC	Folate biosynthesis		1W78
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_08575	COG0472	M	UDP-N-acetylmuramyl pentapeptide phosphotransferase/UDP-N-acetylglucosamine-1-phosphate transferase	Rfe	Mureine biosynthesis		4J72
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_08580	COG0769	M	UDP-N-acetylmuramyl tripeptide synthase	MurE	Mureine biosynthesis		1E8C
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_08585	COG1388	M	LysM repeat	LysM			1E0G
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_08590	COG0772	D	Peptodoglycan polymerase FtsW/RodA/SpoVE	FtsW		30692671	6BAR
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_08595	COG0763	M	Lipid A disaccharide synthetase	LpxB	Lipid A biosynthesis		5W8N
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_08600	COG0769	M	UDP-N-acetylmuramyl tripeptide synthase	MurE	Mureine biosynthesis		1E8C
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_08605	COG0458	EF	Carbamoylphosphate synthase large subunit	CarB	Arginine biosynthesis		1C30
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_08610	COG1589	D	Cell division septal protein FtsQ	FtsQ			1YR1
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_08615	COG4972	NW	Type IV pilus assembly protein, ATPase PilM	PilM			2YCH
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_08620	COG0206	D	Cell division GTPase FtsZ	FtsZ			1FSZ
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_08625	COG1520	M	Outer membrane protein assembly factor BamB, contains PQQ-like beta-propeller repeat	PQQ			6TJG
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_08640	COG3119	P	Arylsulfatase A or related enzyme, AlkP superfamily	AslA			1E1Z
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_08655	COG2130	QR	NADPH-dependent curcumin reductase CurA	CurA		21467222	1V3T
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_08665	COG0666	T	Ankyrin repeat	ANKYR			6AUN
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_08690	COG0716	C	Flavodoxin	FldA	Heme biosynthesis		1AG9
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_08695	COG4270	S	Uncharacterized membrane protein				
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_08705	COG0371	C	Glycerol dehydrogenase or related enzyme, iron-containing ADH family	GldA	Isoprenoid biosynthesis	20688982	3S99
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_08710	COG1012	I	Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase	AdhE	Proline degradation		1A4S
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_08715	COG1541	H	Phenylacetate-coenzyme A ligase PaaK, adenylate-forming domain family	PaaK			2Y4O
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_08725	COG1538	M	Outer membrane protein TolC	TolC			1EK9
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_08730	COG1566	V	Multidrug resistance efflux pump EmrA	EmrA			4TKO
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_08735	COG0841	V	Multidrug efflux pump subunit AcrB	AcrB			1IWG
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_08750	COG2195	E	Di- or tripeptidase	PepD2			2QYV
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_08760	COG0533	J	tRNA A37 threonylcarbamoyltransferase TsaD	TsaD	tRNA modification	23072323;21285948;32385138	3ENO
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_08770	COG5008	NW	Type IV pilus assembly protein, ATPase PilU	PilU			
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_08790	COG1506	E	Dipeptidyl aminopeptidase/acylaminoacyl peptidase	DAP2			2JBW
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_08815	COG4099	R	Predicted peptidase				3DOH
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_08825	COG3584	S	3D (Asp-Asp-Asp) domain, usually in lytic transglycosylases		3D	16139297	4WLK
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_08830	COG2231	L	3-Methyladenine DNA glycosylase, HhH-GPD/Endo3 superfamily	HP0602		14517230;20410075	1PU6
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_08840	COG0482	J	tRNA U34 2-thiouridine synthase MnmA/TrmU, contains the PP-loop ATPase domain	MnmA	tRNA modification	25825430	2HMA
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_08850	COG0169	E	Shikimate 5-dehydrogenase	AroE	Aromatic amino acid biosynthesis		1NPD
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_08855	COG0008	J	Glutamyl- or glutaminyl-tRNA synthetase	GlnS	Heme biosynthesis		1EUQ
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_08860	COG3633	E	Na+/serine and Na+/threonine symporter SstT	SstT			
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_08865	COG1099	R	Predicted metal-dependent hydrolase, TIM-barrel fold				3GUW
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_08870	COG3425	I	3-hydroxy-3-methylglutaryl CoA synthase	PksG	Isoprenoid biosynthesis		1TVZ
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_08875	COG0280	C	Phosphotransacetylase (includes Pta, EutD and phosphobutyryltransferase)	Pta		28754323	1QZT
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_08880	COG1399	J	23S rRNA accumulation protein YceD (essential in plants, uncharacterized in bacteria)	YceD		27574185	
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_08890	COG1082	G	Sugar phosphate isomerase/epimerase	YcjR		30742415	3KTC
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_08895	COG1712	E	L-aspartate dehydrogenase, NAD(P)-dependent	AspD		12496312	1H2H
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_08900	COG1110	L	Reverse gyrase	TopG2			1GKU
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_08905	COG0371	C	Glycerol dehydrogenase or related enzyme, iron-containing ADH family	GldA	Isoprenoid biosynthesis	20688982	3S99
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_08910	COG0324	J	tRNA A37 N6-isopentenylltransferase MiaA	MiaA	tRNA modification		2ZM5
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_08915	COG0724	J	RNA recognition motif (RRM) domain	RRM			1HL6
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_08925	COG2865	K	Predicted transcriptional regulator, contains HTH domain				3LMM
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_08930	COG2008	E	Threonine aldolase	GLY1			4LNJ
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_08940	COG0815	M	Apolipoprotein N-acyltransferase	Lnt			6NWR
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_08945	COG1167	KE	DNA-binding transcriptional regulator, MocR family, contains an aminotransferase domain	ARO8	Lysine biosynthesis		2R2N
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_08950	COG1159	J	GTPase Era, involved in 16S rRNA processing	Era			1EGA
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_08955	COG1869	G	D-ribose pyranose/furanose isomerase RbsD	RbsD			1OGC
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_08960	COG1520	M	Outer membrane protein assembly factor BamB, contains PQQ-like beta-propeller repeat	PQQ			6TJG
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_08970	COG0673	R	Predicted dehydrogenase	MviM			3UUW
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_08975	COG1914	P	Mn2+ or Fe2+ transporter, NRAMP family	MntH			5KTE
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_08985	COG0460	E	Homoserine dehydrogenase	ThrA	Methionine biosynthesis	29124164	5AVO
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_08990	COG1305	O	Transglutaminase-like enzyme, putative cysteine protease	YebA			3ISR
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_09010	COG1506	E	Dipeptidyl aminopeptidase/acylaminoacyl peptidase	DAP2			2JBW
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_09015	COG2165	NUW	Type II secretory pathway, pseudopilin PulG	PulG			1AY2
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_09020	COG1459	NUW	Type II secretory pathway, component PulF	PulF			2VMA
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_09025	COG0630	NU	Type IV secretory pathway ATPase VirB11/Archaellum biosynthesis ATPase ArlI/FlaI	VirB11		32416640	1G6O
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_09030	COG0630	NU	Type IV secretory pathway ATPase VirB11/Archaellum biosynthesis ATPase ArlI/FlaI	VirB11		32416640	1G6O
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_09040	COG0148	G	Enolase	Eno	Glycolysis		1E9I
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_09045	COG1747	S	Uncharacterized N-terminal domain of the transcription elongation factor GreA				
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_09055	COG0202	K	DNA-directed RNA polymerase, alpha subunit/40 kD subunit	RpoA	RNA polymerase		4KN7
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_09060	COG0203	J	Ribosomal protein L17	RplQ	Ribosome 50S subunit		1GD8
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_09085	COG2423	E	Ornithine cyclodeaminase/archaeal alanine dehydrogenase, mu-crystallin family	OCDMu	Proline biosynthesis		2I99
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_09090	COG0726	GM	Peptidoglycan/xylan/chitin deacetylase, PgdA/NodB/CDA1 family	CDA1			1NY1
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_09095	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_09110	COG0561	HR	Hydroxymethylpyrimidine pyrophosphatase and other HAD family phosphatases	Cof			1YMQ
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_09135	COG4170	V	ABC-type antimicrobial peptide export system, ATPase component SapD	SapD			
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_09140	COG4591	M	ABC-type transport system involved in lipoprotein release, permease component LolC	LolE			6F49
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_09150	COG4409	GM	Neuraminidase (sialidase) NanH, contains C-terminal autotransporter domain	NanH			1EUT
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_09155	COG3828	R	Type 1 glutamine amidotransferase (GATase1)-like domain				
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_09175	COG1277	O	ABC-type transport system involved in multi-copper enzyme maturation, permease component	NosY			
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_09180	COG4133	O	ABC-type transport system involved in cytochrome c biogenesis, ATPase component	CcmA			
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_09185	COG0708	L	Exonuclease III	XthA			1AKO
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_09190	COG0196	H	FAD synthase	RibF	Riboflavin/FAD biosynthesis		1MRZ
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_09195	COG0130	J	tRNA U55 pseudouridine synthase TruB, may also work on U342 of tmRNA	TruB	tRNA modification		1K8W
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_09200	COG3887	T	Cyclic di-AMP phosphodiesterase GdpP, contains GGDEF-like and DHH domains	GdpP			
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_09205	COG0858	J	Ribosome-binding factor RbfA	RbfA			1JOS
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_09210	COG0480	J	Translation elongation factor EF-G, a GTPase	FusA	Translation factors		1DAR
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_09235	COG4598	E	ABC-type histidine transport system, ATPase component	HisP			1B0U
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_09240	COG4745	R	Predicted membrane-bound mannosyltransferase, involved in protein glycosylation	PMT		32706435	
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_09260	COG1562	I	Phytoene/squalene synthetase	ERG9			3WEK
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_09270	COG0481	J	Translation elongation factor EF-4, membrane-bound GTPase	LepA			3DEG
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_09280	COG2236	H	Hypoxanthine phosphoribosyltransferase	Hpt1	Purine salvage		2JKZ
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_09285	COG3871	S	General stress protein 26 (function unknown)	YzzA			2I02
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_09290	COG0083	E	Homoserine kinase	ThrB	Threonine biosynthesis		1FWK
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_09305	COG1846	K	DNA-binding transcriptional regulator, MarR family	MarR			1JGS
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_09310	COG0521	H	Molybdopterin biosynthesis enzyme MoaB/MogA	MoaB	Molybdopterin biosynthesis	32239579	1DI6
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_09320	COG1968	I	Undecaprenyl pyrophosphate phosphatase	UppP			5OON
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_09325	COG0739	M	Murein DD-endopeptidase MepM and murein hydrolase activator NlpD, contains LysM domain	NlpD			2GU1
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_09330	COG1038	C	Pyruvate carboxylase	PycA	Urea cycle		5VYW
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_09350	COG1734	K	RNA polymerase-binding transcription factor DksA	DksA			1TJL
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_09365	COG4148	P	ABC-type molybdate transport system, ATPase component ModC	ModC	Molybdopterin biosynthesis		
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_09370	COG4211	G	ABC-type glucose/galactose transport system, permease component	MglC			
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_09375	COG0623	I	Enoyl-[acyl-carrier-protein] reductase FabI	FabI	Fatty acid biosynthesis		1C14
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_09380	COG0515	T	Serine/threonine protein kinase	SPS1			6G4J
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_09390	COG1082	G	Sugar phosphate isomerase/epimerase	YcjR		30742415	3KTC
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_09410	COG0469	G	Pyruvate kinase	PykF	Glycolysis		6QXL
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_09425	COG5285	Q	Ectoine hydroxylase-related dioxygenase, phytanoyl-CoA dioxygenase (PhyH) family	PhyH			2A1X
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_09430	COG3622	G	Hydroxypyruvate/dehydroerythronate isomerase, Hyi/OtnI family	Hyi		27402745	1K77
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_09440	COG3474	C	Cytochrome c2	Cyc7			1YEA
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_09455	COG3622	G	Hydroxypyruvate/dehydroerythronate isomerase, Hyi/OtnI family	Hyi		27402745	1K77
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_09470	COG4102	S	Uncharacterized conserved protein, DUF1501 family				
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_09475	COG1506	E	Dipeptidyl aminopeptidase/acylaminoacyl peptidase	DAP2			2JBW
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_09480	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_09490	COG3119	P	Arylsulfatase A or related enzyme, AlkP superfamily	AslA			1E1Z
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_09510	COG0745	TK	DNA-binding response regulator, OmpR family, contains REC and winged-helix (wHTH) domain	OmpR			1XHF
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_09525	COG0685	E	5,10-methylenetetrahydrofolate reductase	MetF			1B5T
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_09530	COG0265	O	Periplasmic serine protease, S1-C subfamily, contain C-terminal PDZ domain	DegQ		29686141	2HGA
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_09535	COG0793	O	C-terminal processing protease CtpA/Prc, contains a PDZ domain	CtpA			6IQU
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_09550	COG0664	T	cAMP-binding domain of CRP or a regulatory subunit of cAMP-dependent protein kinases	Crp			1FT9
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_09555	COG0199	J	Ribosomal protein S14	RpsN	Ribosome 30S subunit		4V4H
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_09560	COG2331	R	Predicted nucleic acid-binding protein, contains Zn-ribbon domain				
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_09570	COG0346	Q	Catechol 2,3-dioxygenase or related enzyme, vicinal oxygen chelate (VOC) family	GloA		11830595	3R4Q
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_09575	COG1646	I	Glycerol-1-phosphate heptaprenyltransferase	PcrB			1VIZ
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_09580	COG0152	F	Phosphoribosylaminoimidazole-succinocarboxamide synthase	PurC	Purine biosynthesis		1A48
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_09590	COG2144	R	Selenophosphate synthetase-related protein				
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_09595	COG0518	F	GMP synthase, glutamine amidotransferase domain	GuaA1	Purine biosynthesis		4WIM
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_09600	COG0309	O	Carbamoyl dehydratase HypE (hydrogenase maturation factor)	HypE		28618091	2I6R
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_09605	COG0367	E	Asparagine synthetase B (glutamine-hydrolyzing)	AsnB	Asparagine biosynthesis	25951518	2ETD
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_09610	COG0439	I	Biotin carboxylase	AccC	Fatty acid biosynthesis		1BNC
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_09615	COG1691	F	NCAIR mutase (PurE)-related protein				
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_09620	COG0634	F	Hypoxanthine-guanine phosphoribosyltransferase	HptA	Purine salvage		1G9S
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_09625	COG0540	F	Aspartate carbamoyltransferase, catalytic subunit	PyrB	Pyrimidine biosynthesis		1NBE
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_09630	COG0402	FR	Cytosine/adenosine deaminase or related metal-dependent hydrolase	SsnA	Pyrimidine salvage		3O7U
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_09640	COG0617	J	tRNA nucleotidyltransferase/poly(A) polymerase	PcnB	tRNA modification		3WFR
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_09665	COG0673	R	Predicted dehydrogenase	MviM			3UUW
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_09670	COG1502	I	Phosphatidylserine/phosphatidylglycerophosphate/cardiolipin synthase	Cls	Phospholipid biosynthesis		1BYR
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_09695	COG1105	G	1-phosphofructokinase or 6-phosphofructokinase II	FruK			2ABQ
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_09715	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_09720	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_09730	COG1956	VT	GAF domain-containing protein, putative methionine-R-sulfoxide reductase	MsrC			1F5M
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_09750	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_09790	COG0345	E	Pyrroline-5-carboxylate reductase	ProC	Proline biosynthesis	22125496;26507882	3GT0
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_09795	COG2159	G	5-carboxyvanillate decarboxylase LigW (lignin degradation), amidohydro domain	LigW		26714575	2DVT
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_09805	COG4102	S	Uncharacterized conserved protein, DUF1501 family				
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_09810	COG2873	E	O-acetylhomoserine/O-acetylserine sulfhydrylase, pyridoxal phosphate-dependent	MET17	Methionine biosynthesis		2CTZ
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_09835	COG0860	M	N-acetylmuramoyl-L-alanine amidase	AmiC			1JWQ
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_09855	COG1070	G	Sugar (pentulose or hexulose) kinase	XylB	Non-phosphorylated Entner-Doudoroff pathway		4C23
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_09865	COG0673	R	Predicted dehydrogenase	MviM			3UUW
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_09885	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_09900	COG0631	T	Serine/threonine protein phosphatase PrpC	PTC1			6IHL
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_09905	COG3968	E	Glutamine synthetase type III	GlnA3			
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_09910	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_09915	COG1520	M	Outer membrane protein assembly factor BamB, contains PQQ-like beta-propeller repeat	PQQ			6TJG
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_09920	COG0673	R	Predicted dehydrogenase	MviM			3UUW
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_09925	COG0560	E	Phosphoserine phosphatase	SerB	Serine biosynthesis		3N28
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_09945	COG1524	T	c-di-AMP phosphodiesterase AtaC or nucleotide pyrophosphatase, AlkP superfamily	AtaC		32188788	1EI6
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_09965	COG4674	R	ABC-type uncharacterized transport system, ATPase component			10686096	
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_09970	COG4531	P	ABC-type Zn2+ transport system, periplasmic component/surface adhesin ZnuA	ZnuA			2OGW
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_09975	COG1846	K	DNA-binding transcriptional regulator, MarR family	MarR			1JGS
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_10005	COG0673	R	Predicted dehydrogenase	MviM			3UUW
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_10015	COG1331	R	Uncharacterized conserved protein YyaL, SSP411 family, contains thoiredoxin and six-hairpin glycosidase-like domains	YyaL			3IRA
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_10025	COG3241	C	Azurin	BlueCu			
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_10050	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_10055	COG1520	M	Outer membrane protein assembly factor BamB, contains PQQ-like beta-propeller repeat	PQQ			6TJG
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_10060	COG0477	GEPR	MFS family permease, includes anhydromuropeptide permease AmpG	ProP		12426329	
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_10065	COG2885	M	Outer membrane protein OmpA and related peptidoglycan-associated (lipo)proteins	OmpA			1OAP
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_10070	COG2945	R	Alpha/beta superfamily hydrolase				2FUK
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_10075	COG5019
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_10080	COG0588	G	Phosphoglycerate mutase (BPG-dependent)	GpmA	Glycolysis		1E58
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_10085	COG0166	G	Glucose-6-phosphate isomerase	Pgi	Glycolysis		1B0Z
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_10100	COG0697	GER	Permease of the drug/metabolite transporter (DMT) superfamily	RhaT			5I20
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_10105	COG2319	R	WD40 repeat	WD40			3UVN
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_10110	COG4942	D	Septal ring factor EnvC, activator of murein hydrolases AmiA and AmiB	EnvC			
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_10120	COG0616	O	Periplasmic serine protease, ClpP class	SppA			3BEZ
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_10125	COG0305	L	Replicative DNA helicase	DnaB			1B79
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_10130	COG0359	J	Ribosomal protein L9	RplI	Ribosome 50S subunit	27112601	1VS6
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_10135	COG1520	M	Outer membrane protein assembly factor BamB, contains PQQ-like beta-propeller repeat	PQQ			6TJG
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_10140	COG1520	M	Outer membrane protein assembly factor BamB, contains PQQ-like beta-propeller repeat	PQQ			6TJG
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_10150	COG0542	O	ATP-dependent Clp protease, ATP-binding subunit ClpA	ClpA			1KSF
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_10160	COG0556	L	Excinuclease UvrABC helicase subunit UvrB	UvrB			1C4O
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_10170	COG4618	U	ABC-type protease/lipase transport system, ATPase and permease components	ArpD			5L22
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_10185	COG0565	J	tRNA C32,U32 (ribose-2'-O)-methylase TrmJ or a related methyltransferase	TrmJ	tRNA modification		3ONP
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_10190	COG0211	J	Ribosomal protein L27	RpmA	Ribosome 50S subunit		1VS6
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_10195	COG0261	J	Ribosomal protein L21	RplU	Ribosome 50S subunit		1VS6
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_10210	COG0439	I	Biotin carboxylase	AccC	Fatty acid biosynthesis		1BNC
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_10235	COG0300	R	Short-chain dehydrogenase	YqjQ			
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_10240	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_10250	COG1748	E	Saccharopine dehydrogenase, NADP-dependent	Lys9	Lysine biosynthesis		1E5L
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_10260	COG0019	E	Diaminopimelate decarboxylase	LysA	Lysine biosynthesis		1D7K
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_10270	COG1060	H	2-iminoacetate synthase ThiH/Menaquinone biosynthesis enzymes MqnC and MqnE	ThiH	Thiamine biosynthesis	18801996	4WCX
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_10280	COG0673	R	Predicted dehydrogenase	MviM			3UUW
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_10290	COG1249	C	Dihydrolipoamide dehydrogenase (E3) component of pyruvate/2-oxoglutarate dehydrogenase complex or glutathione oxidoreductase	Lpd	Glycine cleavagePyruvate oxidation		6QKG
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_10310	COG3480	T	Predicted secreted protein YlbL, contains PDZ domain	SdrC			
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_10315	COG0524	G	Sugar or nucleoside kinase, ribokinase family	RbsK	Glycolysis		2QCV
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_10320	COG0345	E	Pyrroline-5-carboxylate reductase	ProC	Proline biosynthesis	22125496;26507882	3GT0
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_10345	COG2234	OE	Zn-dependent amino- or carboxypeptidase, M28 family	Iap			1AMP
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_10355	COG0361	J	Translation initiation factor IF-1	InfA	Translation factors		5FIM
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_10360	COG0079	E	Histidinol-phosphate/aromatic aminotransferase or cobyric acid decarboxylase	HisC	Cobalamine/B12 biosynthesis		4R2N
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_10365	COG0005	F	Purine nucleoside phosphorylase	XapA	Purine salvage		1YQQ
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_10380	COG1064	G	D-arabinose 1-dehydrogenase, Zn-dependent alcohol dehydrogenase family	AdhP			5O8Q
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_10385	COG4161	E	ABC-type arginine transport system, ATPase component	ArtP			
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_10400	COG0308	E	Aminopeptidase N, contains DUF3458 domain	PepN		24123841	6ATK
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_10410	COG3840	H	ABC-type thiamine transport system, ATPase component ThiQ	ThiQ			
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_10415	COG4409	GM	Neuraminidase (sialidase) NanH, contains C-terminal autotransporter domain	NanH			1EUT
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_10420	COG2133	G	Glucose/arabinose dehydrogenase, beta-propeller fold	YliI			1C9U
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_10455	COG1278	K	Cold shock protein, CspA family	CspC			1C9O
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_10480	COG0849	D	Cell division ATPase FtsA	FtsA			3WT0
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_10490	COG2148	M	Sugar transferase involved in LPS biosynthesis (colanic, teichoic acid)	WcaJ			5W7L
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_10500	COG1199	L	Rad3-related DNA helicase DinG	DinG			5H8W
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_10505	COG1808	S	Uncharacterized membrane protein AF0785, contains DUF389 domain	AF0785			
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_10510	COG0190	H	5,10-methylene-tetrahydrofolate dehydrogenase/Methenyl tetrahydrofolate cyclohydrolase	FolD			1A4I
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_10515	COG2121	S	Uncharacterized conserved protein, lysophospholipid acyltransferase (LPLAT) superfamily				
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_10520	COG1070	G	Sugar (pentulose or hexulose) kinase	XylB	Non-phosphorylated Entner-Doudoroff pathway		4C23
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_10535	COG1239	H	Mg-chelatase subunit ChlI	ChlI			1G8P
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_10560	COG4591	M	ABC-type transport system involved in lipoprotein release, permease component LolC	LolE			6F49
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_10565	COG4555	CP	ABC-type Na+ transport system, ATPase component NatA	NatA			
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_10575	COG1179	J	tRNA A37 threonylcarbamoyladenosine dehydratase	TcdA	tRNA modification	27913733	4D7A
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_10580	COG0725	P	ABC-type molybdate transport system, periplasmic Mo-binding protein ModA	ModA	Molybdopterin biosynthesis		1AMF
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_10585	COG4662	P	ABC-type tungstate transport system, periplasmic component	TupA			
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_10590	COG4559	P	ABC-type hemin transport system, ATPase component				4G1U
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_10595	COG1246	E	N-acetylglutamate synthase or related acetyltransferase, GNAT family	ArgA	Arginine biosynthesis		2R98
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_10600	COG0008	J	Glutamyl- or glutaminyl-tRNA synthetase	GlnS	Heme biosynthesis		1EUQ
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_10610	COG4102	S	Uncharacterized conserved protein, DUF1501 family				
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_10620	COG1729	D	Cell division protein CpoB, coordinates peptidoglycan biosynthesis and outer membrane constriction	CpoB		25951518	2WZ7
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_10625	COG0823	U	Periplasmic component TolB of the Tol biopolymer transport system	TolB			1C5K
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_10630	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_10640	COG4631	F	Xanthine dehydrogenase, molybdopterin-binding subunit XdhB	XdhB			
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_10650	COG4987	CO	ABC-type transport system involved in cytochrome bd biosynthesis, fused ATPase and permease components	CydC			
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_10660	COG1030	O	Membrane-bound serine protease NfeD, ClpP class	NfeD			2DEO
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_10685	COG5184	DZ	Alpha-tubulin suppressor ATS1 and related RCC1 domain-containing proteins	ATS1			1A12
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_10690	COG1305	O	Transglutaminase-like enzyme, putative cysteine protease	YebA			3ISR
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_10705	COG1239	H	Mg-chelatase subunit ChlI	ChlI			1G8P
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_10710	COG1721	S	Uncharacterized conserved protein, DUF58 family, contains vWF domain	YeaD2			
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_10730	COG5426	R	Uncharacterized protein STM3548, contains class I glutamine amidotransferase domain			17968677	2GK3
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_10740	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_10745	COG2265	J	tRNA/tmRNA/rRNA uracil-C5-methylase, TrmA/RlmC/RlmD family	TrmA	tRNA modification		1UWV
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_10755	COG1721	S	Uncharacterized conserved protein, DUF58 family, contains vWF domain	YeaD2			
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_10760	COG1239	H	Mg-chelatase subunit ChlI	ChlI			1G8P
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_10770	COG2104	H	Sulfur carrier protein ThiS (thiamine biosynthesis)	ThiS	Thiamine biosynthesis		1F0Z
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_10775	COG0502	H	Biotin synthase or related enzyme	BioB	Biotin biosynthesis		1R30
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_10785	COG0236	I	Acyl carrier protein	AcpP	Fatty acid biosynthesis		1ACP
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_10800	COG4799	I	Acetyl-CoA carboxylase, carboxyltransferase component	MmdA			1OD2
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_10815	COG0289	E	4-hydroxy-tetrahydrodipicolinate reductase	DapB	Lysine biosynthesis	29684280	1ARZ
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_10820	COG0329	EM	4-hydroxy-tetrahydrodipicolinate synthase/N-acetylneuraminate lyase	DapA	Lysine biosynthesis	27574185	2R91
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_10825	COG0253	E	Diaminopimelate epimerase	DapF	Lysine biosynthesis		1BWZ
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_10830	COG0434	M	Membrane biogenesis protein, BtpA/SgcQ family	BtpA			
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_10845	COG4770	I	Acetyl/propionyl-CoA carboxylase, alpha subunit	PccA			3U9S
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_10860	COG0719	O	Fe-S cluster assembly scaffold protein SufB	SufB			1VH4
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_10870	COG0630	NU	Type IV secretory pathway ATPase VirB11/Archaellum biosynthesis ATPase ArlI/FlaI	VirB11		32416640	1G6O
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_10875	COG1622	C	Heme/copper-type cytochrome/quinol oxidase, subunit 2	CyoA			1CYW
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_10880	COG2165	NUW	Type II secretory pathway, pseudopilin PulG	PulG			1AY2
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_10885	COG2165	NUW	Type II secretory pathway, pseudopilin PulG	PulG			1AY2
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_10890	COG4795	U	Type II secretory pathway, PulJ/GspJ component	PulJ			
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_10895	COG2165	NUW	Type II secretory pathway, pseudopilin PulG	PulG			1AY2
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_10900	COG3156	U	Type II secretory pathway, component PulK	PulK			5VTM
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_10930	COG1289	S	Uncharacterized membrane protein YccC	YccC			
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_10935	COG1092	J	23S rRNA G2069 N7-methylase RlmK or C1962 C5-methylase RlmI	RlmK	23S rRNA modification		2B78
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_10960	COG1995	H	4-hydroxy-L-threonine phosphate dehydrogenase PdxA	PdxA	Pyridoxal phosphate biosynthesis		1PS6
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_10990	COG1074	L	3-5 helicase subunit RecB of the DNA repair enzyme RecBCD (exonuclease V)	RecB		29901759;30601118	3U44
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_10995	COG0125	F	Thymidylate kinase	Tmk	Thymidylate biosynthesis		3LV8
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_11000	COG0299	F	Folate-dependent phosphoribosylglycinamide formyltransferase PurN	PurN	Purine biosynthesis	25013077	1C2T
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_11005	COG1608	I	Isopentenyl phosphate kinase			16621811	3LKK
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_11010	COG0233	J	Ribosome recycling factor	Frr			1DD5
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_11020	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_11025	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_11030	COG0565	J	tRNA C32,U32 (ribose-2'-O)-methylase TrmJ or a related methyltransferase	TrmJ	tRNA modification		3ONP
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_11035	COG1506	E	Dipeptidyl aminopeptidase/acylaminoacyl peptidase	DAP2			2JBW
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_11040	COG1119	P	ABC-type molybdenum transport system, ATPase component ModF/photorepair protein PhrA	ModF			2IHY
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_11045	COG0029	H	Aspartate oxidase	NadB	NAD biosynthesis		1KNP
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_11050	COG0414	H	Panthothenate synthetase	PanC	Pantothenate/CoA biosynthesis	17968677	1DIN
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_11055	COG0534	V	Na+-driven multidrug efflux pump, DinF/NorM/MATE family	NorM		29915058	3VVN
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_11060	COG0009	J	tRNA A37 threonylcarbamoyladenosine synthetase subunit TsaC/SUA5/YrdC	TsaC	tRNA modification		1HRU
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_11065	COG0645	R	Predicted kinase, contains AAA domain				2RHM
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_11070	COG2878	C	Na+-translocating ferredoxin:NAD+ oxidoreductase RNF, RnfB subunit	RnfB	Na+-translocating Fd:NADH oxidoreductase	24045950	
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_11075	COG5337	M	Spore coat protein CotH	CotH			5JD9
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_11085	COG4276	R	Ligand-binding SRPBCC domain	SRPBCC			
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_11090	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_11095	COG0210	L	Superfamily I DNA or RNA helicase	UvrD			6PPR
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_11115	COG2133	G	Glucose/arabinose dehydrogenase, beta-propeller fold	YliI			1C9U
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_11125	COG0755	O	ABC-type transport system involved in cytochrome c biogenesis, permease component	CcmC			
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_11130	COG1333	CO	Cytochrome c biogenesis protein ResB	ResB			
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_11150	COG4638	PR	Phenylpropionate dioxygenase or related ring-hydroxylating dioxygenase, large terminal subunit	HcaE			4QDC
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_11155	COG3622	G	Hydroxypyruvate/dehydroerythronate isomerase, Hyi/OtnI family	Hyi		27402745	1K77
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_11185	COG0798	P	Arsenite efflux pump ArsB, ACR3 family	ACR3			
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_11195	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_11210	COG1047	O	Peptidyl-prolyl cis-trans isomerase, FKBP type	SlpA			2M2A
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_11215	COG2084	I	3-hydroxyisobutyrate dehydrogenase or related beta-hydroxyacid dehydrogenase	MmsB			1I36
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_11220	COG0404	E	Glycine cleavage system protein T (aminomethyltransferase)	GcvT	Glycine cleavage	25433025;25505271	2GAH
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_11225	COG1512	S	Uncharacterized membrane protein YgcG, contains a TPM-fold domain	YgcG			2KW7
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_11230	COG3762	S	Uncharacterized membrane protein				
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_11235	COG0406	G	Broad specificity phosphatase PhoE	PhoE			1EBB
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_11265	COG3828	R	Type 1 glutamine amidotransferase (GATase1)-like domain				
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_11270	COG0673	R	Predicted dehydrogenase	MviM			3UUW
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_11280	COG5126	T	Ca2+-binding protein, EF-hand superfamily	FRQ1			2LHI
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_11295	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_11310	COG0457	R	Tetratricopeptide (TPR) repeat	TPR			3AS4
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_11340	COG0546	C	Phosphoglycolate phosphatase, HAD superfamily	Gph			2NYV
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_11345	COG0438	M	Glycosyltransferase involved in cell wall bisynthesis	RfaB			2IV7
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_11350	COG3063	NW	Type IV pilus assembly protein PilF/PilW	PilF		16403447	2VQ2
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_11355	COG1381	L	Recombinational DNA repair protein RecO (RecF pathway)	RecO			1U5K
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_11360	COG1186	J	Protein chain release factor PrfB	PrfB	Translation factors		1GQE
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_11365	COG0336	J	tRNA G37 N-methylase TrmD	TrmD	tRNA modification		1P9P
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_11375	COG0136	E	Aspartate-semialdehyde dehydrogenase	Asd	Lysine biosynthesis		1BRM
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_11380	COG1364	E	Glutamate N-acetyltransferase (ornithine transacetylase)	ArgJ	Arginine biosynthesis		1VRA
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_11385	COG1608	I	Isopentenyl phosphate kinase			16621811	3LKK
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_11390	COG4992	E	Acetylornithine/succinyldiaminopimelate/putrescine aminotransferase	ArgD	Arginine biosynthesis		2E54
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_11395	COG0078	E	Ornithine carbamoyltransferase	ArgF	Arginine biosynthesis		1A1S
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_11400	COG2046	P	ATP sulfurylase (sulfate adenylyltransferase)	MET3	Cysteine biosynthesis		1G8F
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_11410	COG1077	DZ	Cell shape-determining ATPase MreB, actin-like superfamily	MreB			1JCE
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_11415	COG0484	O	DnaJ-class molecular chaperone with C-terminal Zn finger domain	DnaJ			1BQ0
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_11435	COG2226	H	Ubiquinone/menaquinone biosynthesis C-methylase UbiE/MenG	UbiE	Biotin biosynthesis		4OBW
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_11440	COG4297	S	Uncharacterized conserved protein YjlB, cupin superfamily	YjlB			
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_11445	COG0113	H	Delta-aminolevulinic acid dehydratase, porphobilinogen synthase	HemB	Heme biosynthesis		1I8J
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_11450	COG0856	F	Orotate phosphoribosyltransferase homolog	PyrE2			
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_11455	COG0673	R	Predicted dehydrogenase	MviM			3UUW
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_11460	COG0265	O	Periplasmic serine protease, S1-C subfamily, contain C-terminal PDZ domain	DegQ		29686141	2HGA
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_11465	COG1506	E	Dipeptidyl aminopeptidase/acylaminoacyl peptidase	DAP2			2JBW
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_11475	COG0568	K	DNA-directed RNA polymerase, sigma subunit (sigma70/sigma32)	RpoD	RNA polymerase		1SIG
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_11485	COG4167	V	ABC-type antimicrobial peptide export system, ATPase component SapF	SapF			
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_11490	COG4597	E	ABC-type amino acid transport system, permease component	BatB			
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_11495	COG2035	S	Uncharacterized membrane protein, DUF368 family				
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_11500	COG0655	C	Multimeric flavodoxin WrbA, includes NAD(P)H:quinone oxidoreductase	WrbA			4DY4
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_11505	COG0460	E	Homoserine dehydrogenase	ThrA	Methionine biosynthesis	29124164	5AVO
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_11520	COG0494	V	8-oxo-dGTP pyrophosphatase MutT and related house-cleaning NTP pyrophosphohydrolases, NUDIX family	MutT			4V14
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_11535	COG2360	O	Leu/Phe-tRNA-protein transferase	Aat			2CXA
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_11540	COG1281	O	Redox-regulated molecular chaperone, HSP33 family	HslO			1HW7
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_11545	COG4147	C	Na+(or H+)/acetate symporter ActP	ActP			
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_11550	COG4327	S	Uncharacterized membrane protein, DUF4212 domain				
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_11555	COG1021	Q	EntE, 2,3-dihydroxybenzoate-AMP synthase component of non-ribosomal peptide synthetase	EntE			3RG2
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_11560	COG0030	J	16S rRNA A1518 and A1519 N6-dimethyltransferase RsmA/KsgA/DIM1 (may also have DNA glycosylase/AP lyase activity)	RsmA	16S rRNA modification		1QYR
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_11565	COG3622	G	Hydroxypyruvate/dehydroerythronate isomerase, Hyi/OtnI family	Hyi		27402745	1K77
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_11570	COG1388	M	LysM repeat	LysM			1E0G
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_11585	COG1846	K	DNA-binding transcriptional regulator, MarR family	MarR			1JGS
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_11600	COG1678	K	Putative transcriptional regulator, AlgH/UPF0301 family	AlgH			2AJ2
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_11605	COG0213	F	Thymidine phosphorylase	DeoA	Pyrimidine salvage		1AZY
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_11610	COG0705	O	Membrane-associated serine protease, rhomboid family	GlpG			2IC8
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_11620	COG1171	E	Threonine deaminase	IlvA	Isoleucine, leucine, valine biosynthesis		3IAU
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_11625	COG2154	H	Pterin-4a-carbinolamine dehydratase	PhhB			1DCH
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_11635	COG1154	HI	Deoxyxylulose-5-phosphate synthase	Dxs	Pyridoxal phosphate biosynthesis		2O1S
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_11645	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_11650	COG0726	GM	Peptidoglycan/xylan/chitin deacetylase, PgdA/NodB/CDA1 family	CDA1			1NY1
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_11655	COG1388	M	LysM repeat	LysM			1E0G
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_11670	COG1225	O	Peroxiredoxin	Bcp			5IPH
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_11675	COG1225	O	Peroxiredoxin	Bcp			5IPH
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_11680	COG1820	G	N-acetylglucosamine-6-phosphate deacetylase	NagA			1O12
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_11685	COG1820	G	N-acetylglucosamine-6-phosphate deacetylase	NagA			1O12
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_11690	COG0673	R	Predicted dehydrogenase	MviM			3UUW
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_11695	COG0793	O	C-terminal processing protease CtpA/Prc, contains a PDZ domain	CtpA			6IQU
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_11700	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_11725	COG1246	E	N-acetylglutamate synthase or related acetyltransferase, GNAT family	ArgA	Arginine biosynthesis		2R98
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_11740	COG3382	R	B3/B4 domain (DNA/RNA-binding domain of Phe-tRNA-synthetase)	B3/B4			
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_11745	COG0016	J	Phenylalanyl-tRNA synthetase alpha subunit	PheS	Aminoacyl-tRNA synthetases		3L4G
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_11750	COG0292	J	Ribosomal protein L20	RplT	Ribosome 50S subunit	30270044	1VS6
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_11760	COG2205	T	K+-sensing histidine kinase KdpD	KdpD			2KSF
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_11770	COG1235	P	Phosphoribosyl 1,2-cyclic phosphate phosphodiesterase	PhnP			6B9V
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_11780	COG1760	E	L-serine deaminase	SdaA			4RQO
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_11785	COG1171	E	Threonine deaminase	IlvA	Isoleucine, leucine, valine biosynthesis		3IAU
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_11790	COG0329	EM	4-hydroxy-tetrahydrodipicolinate synthase/N-acetylneuraminate lyase	DapA	Lysine biosynthesis	27574185	2R91
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_11795	COG0373	H	Glutamyl-tRNA reductase	HemA	Heme biosynthesis		2XOE
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_11810	COG5256	J	Translation elongation factor EF-1alpha (GTPase)	TEF1	Translation factors		1F60
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_11815	COG2755	DI	Lysophospholipase L1 or related esterase. Includes spore coat protein LipC/YcsK	TesA			1BWP
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_11835	COG2319	R	WD40 repeat	WD40			3UVN
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_11840	COG4102	S	Uncharacterized conserved protein, DUF1501 family				
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_11855	COG0673	R	Predicted dehydrogenase	MviM			3UUW
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_11865	COG0673	R	Predicted dehydrogenase	MviM			3UUW
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_11870	COG2133	G	Glucose/arabinose dehydrogenase, beta-propeller fold	YliI			1C9U
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_11875	COG4221	C	NADP-dependent 3-hydroxy acid dehydrogenase YdfG	YdfG	Pyrimidine degradation		3P19
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_11900	COG2958	S	Uncharacterized conserved protein			24710389	
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_11905	COG1729	D	Cell division protein CpoB, coordinates peptidoglycan biosynthesis and outer membrane constriction	CpoB		25951518	2WZ7
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_11910	COG1443	I	Isopentenyldiphosphate isomerase	Idi	Isoprenoid biosynthesis		1NFS
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_11915	COG0558	I	Phosphatidylglycerophosphate synthase	PgsA	Phospholipid biosynthesis		4MND
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_11920	COG1161	J	Ribosome biogenesis GTPase RbgA	RbgA			6G14
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_11930	COG0303	H	Molybdopterin Mo-transferase (molybdopterin biosynthesis)	MoeA	Molybdopterin biosynthesis	18801996;32239579	2NQU
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_11935	COG0799	J	Ribosomal silencing factor RsfS, regulates association of 30S and 50S subunits	RsfS			6SJ6
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_11950	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_11985	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_11995	COG0156	H	7-keto-8-aminopelargonate synthetase or related enzyme	BioF	Biotin biosynthesis		1BS0
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_12015	COG0673	R	Predicted dehydrogenase	MviM			3UUW
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_12020	COG0673	R	Predicted dehydrogenase	MviM			3UUW
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_12025	COG0477	GEPR	MFS family permease, includes anhydromuropeptide permease AmpG	ProP		12426329	
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_12045	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_12050	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_12060	COG1748	E	Saccharopine dehydrogenase, NADP-dependent	Lys9	Lysine biosynthesis		1E5L
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_12070	COG2133	G	Glucose/arabinose dehydrogenase, beta-propeller fold	YliI			1C9U
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_12075	COG2759	F	Formyltetrahydrofolate synthetase	MIS1			1EG7
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_12090	COG1506	E	Dipeptidyl aminopeptidase/acylaminoacyl peptidase	DAP2			2JBW
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_12095	COG3509	G	Acetyl xylan esterase AxeA and related esterases, LpqC family	LpqC		9291122	2D80
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_12130	COG1902	C	2,4-dienoyl-CoA reductase or related NADH-dependent reductase, Old Yellow Enzyme (OYE) family	FadH			1BWK
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_12135	COG0210	L	Superfamily I DNA or RNA helicase	UvrD			6PPR
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_12140	COG0666	T	Ankyrin repeat	ANKYR			6AUN
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_12150	COG0129	EG	Dihydroxyacid dehydratase/phosphogluconate dehydratase	IlvD	Isoleucine, leucine, valine biosynthesis		2GP4
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_12155	COG1556	C	L-lactate utilization protein LutC, contains LUD domain	LutC			2G40
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_12160	COG0579	G	L-2-hydroxyglutarate oxidase LhgO	LhgO			3DME
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_12175	COG0695	O	Glutaredoxin	GrxC			1AAZ
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_12180	COG0208	F	Ribonucleotide reductase beta subunit, ferritin-like domain	NrdB	Pyrimidine salvage		1AV8
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_12190	COG0209	F	Ribonucleotide reductase alpha subunit	NrdA	Pyrimidine salvage		1R1R
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_12195	COG0358	L	DNA primase (bacterial type)	DnaG		28128549	3B39
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_12205	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_12210	COG0671	I	Membrane-associated phospholipid phosphatase	PgpB	Phospholipid biosynthesis		1D2T
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_12270	COG1083	M	CMP-N-acetylneuraminic acid synthetase, NeuA/PseF family	NeuA			1EYR
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_12275	COG1702	T	Phosphate starvation-inducible protein PhoH, predicted ATPase	PhoH		8444794;12762842	3B85
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_12280	COG2206	T	HD-GYP domain, c-di-GMP phosphodiesterase class II (or its inactivated variant)	HDGYP		23475961	5Z7C
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_12285	COG0319	J	ssRNA-specific RNase YbeY, 16S rRNA maturation enzyme	YbeY	16S rRNA modification	17407324;23543739	1XM5
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_12295	COG2127	O	ATP-dependent Clp protease adapter protein ClpS	ClpS			1LZW
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_12305	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_12310	COG1419	N	Flagellar biosynthesis GTPase FlhF	FlhF			3SYN
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_12320	COG1506	E	Dipeptidyl aminopeptidase/acylaminoacyl peptidase	DAP2			2JBW
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_12330	COG0579	G	L-2-hydroxyglutarate oxidase LhgO	LhgO			3DME
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_12340	COG1140	CP	Nitrate reductase beta subunit	NarY			1Y4Z
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_12345	COG5013	CP	Nitrate reductase alpha subunit	NarG			1Q16
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_12350	COG0425	JHO	Sulfur carrier protein TusA (tRNA thiolation, molybdenum cofactor biosynthesis)	TusA		23894086	1DCJ
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_12355	COG0857	R	BioD-like N-terminal domain of phosphotransacetylase	PtaN			2IOJ
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_12365	COG0155	P	Sulfite reductase, beta subunit (hemoprotein)	CysI	Cysteine biosynthesis		1AOP
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_12370	COG1142	C	Fe-S-cluster-containing hydrogenase component 2	HycB			
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_12375	COG0492	O	Thioredoxin reductase	TrxB			3FBS
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_12390	COG2044	R	Predicted peroxiredoxin, DsrE/DsrF-like family				3MC3
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_12395	COG2044	R	Predicted peroxiredoxin, DsrE/DsrF-like family				3MC3
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_12400	COG2168	J	Sulfur transfer complex TusBCD TusB component, DsrH family	TusB			1RHX
+Verrucomicrobiales_bacterium_NAT181	GCA_002705125.1	AJFCGI_12415	COG2181	CP	Nitrate reductase gamma subunit	NarI			1Y5L

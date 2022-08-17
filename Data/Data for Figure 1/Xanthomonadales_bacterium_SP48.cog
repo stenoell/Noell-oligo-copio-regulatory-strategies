@@ -1,0 +1,1403 @@
+#prefix	assemid	query	COG	category	name	Gene	pathway	pmid	pdb_id
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_00010	COG1087	M	UDP-glucose 4-epimerase	GalE			1A9Y
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_00040	COG0297	G	Glycogen synthase	GlgA			1RZU
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_00045	COG0823	U	Periplasmic component TolB of the Tol biopolymer transport system	TolB			1C5K
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_00055	COG0459	O	Chaperonin GroEL (HSP60 family)	GroEL			1AON
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_00075	COG0733	R	Na+-dependent transporter, SNF family	YocR			2A65
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_00080	COG0733	R	Na+-dependent transporter, SNF family	YocR			2A65
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_00085	COG1115	E	Na+/alanine symporter	AlsT			6CSE
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_00090	COG0276	H	Protoheme ferro-lyase (ferrochelatase)	HemH	Heme biosynthesis		1AK1
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_00095	COG0616	O	Periplasmic serine protease, ClpP class	SppA			3BEZ
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_00100	COG0793	O	C-terminal processing protease CtpA/Prc, contains a PDZ domain	CtpA			6IQU
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_00130	COG0859	M	ADP-heptose:LPS heptosyltransferase	RfaF			1PSW
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_00135	COG1230	P	Co/Zn/Cd efflux system component	CzcD			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_00140	COG1230	P	Co/Zn/Cd efflux system component	CzcD			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_00150	COG2933	J	23S rRNA C2498 (ribose-2'-O)-methylase RlmM	RlmM	23S rRNA modification		4AUK
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_00155	COG0730	P	Sulfite exporter TauE/SafE/YfcA and related permeases, UPF0721 family	TauE		21183667;22797525	
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_00160	COG4129	S	Uncharacterized membrane protein YgaE, UPF0421/DUF939 family	YgaE			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_00180	COG0705	O	Membrane-associated serine protease, rhomboid family	GlpG			2IC8
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_00190	COG2376	G	Dihydroxyacetone kinase	DAK1	Isoprenoid biosynthesis		1UN8
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_00195	COG0252	JE	L-asparaginase/archaeal Glu-tRNAGln amidotransferase subunit D	AnsA			1ZQ1
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_00225	COG0429	R	Predicted hydrolase of the alpha/beta-hydrolase fold	YheT			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_00230	COG2814	G	Predicted arabinose efflux permease AraJ, MFS family	AraJ			4LDS
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_00240	COG1292	M	Choline-glycine betaine transporter	BetT			2WIT
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_00245	COG2832	S	Uncharacterized membrane protein YbaN, DUF454 family	YbaN			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_00260	COG0665	E	Glycine/D-amino acid oxidase (deaminating)	DadA			3AWI
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_00280	COG0446	I	NADPH-dependent 2,4-dienoyl-CoA reductase, sulfur reductase, or a related oxidoreductase	FadH2			1VRQ
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_00290	COG0346	Q	Catechol 2,3-dioxygenase or related enzyme, vicinal oxygen chelate (VOC) family	GloA		11830595	3R4Q
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_00300	COG0534	V	Na+-driven multidrug efflux pump, DinF/NorM/MATE family	NorM		29915058	3VVN
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_00310	COG0578	C	Glycerol-3-phosphate dehydrogenase	GlpA	Isoprenoid biosynthesis		2RGH
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_00315	COG0157	H	Nicotinate-nucleotide pyrophosphorylase	NadC	NAD biosynthesis		1O4U
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_00320	COG0379	H	Quinolinate synthase	NadA	NAD biosynthesis	24498065	4HHE
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_00325	COG2930	I	Lipid-binding SYLF domain, Ysc84/FYVE family	SYLF		21624956	
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_00350	COG0469	G	Pyruvate kinase	PykF	Glycolysis		6QXL
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_00360	COG0424	Q	7-methyl-GTP pyrophosphatase and related NTP pyrophosphatases, Maf/HAM1 superfamily	Maf		24210219	2P5X
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_00365	COG0798	P	Arsenite efflux pump ArsB, ACR3 family	ACR3			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_00370	COG0167	F	Dihydroorotate dehydrogenase	PyrD	Pyrimidine biosynthesis		1GT8
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_00375	COG0225	O	Peptide methionine sulfoxide reductase MsrA	MsrA			1FF3
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_00390	COG0494	V	8-oxo-dGTP pyrophosphatase MutT and related house-cleaning NTP pyrophosphohydrolases, NUDIX family	MutT			4V14
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_00395	COG0491	R	Glyoxylase or a related metal-dependent hydrolase, beta-lactamase superfamily II	GloB		25670698	1QH3
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_00400	COG2814	G	Predicted arabinose efflux permease AraJ, MFS family	AraJ			4LDS
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_00405	COG0845	MV	Multidrug efflux pump subunit AcrA (membrane-fusion protein)	AcrA			1T5E
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_00410	COG1566	V	Multidrug resistance efflux pump EmrA	EmrA			4TKO
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_00415	COG1846	K	DNA-binding transcriptional regulator, MarR family	MarR			1JGS
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_00430	COG0560	E	Phosphoserine phosphatase	SerB	Serine biosynthesis		3N28
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_00435	COG0793	O	C-terminal processing protease CtpA/Prc, contains a PDZ domain	CtpA			6IQU
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_00440	COG1020	Q	EntF, seryl-AMP synthase component  of non-ribosomal peptide synthetase	EntF			5ES5
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_00445	COG0344	I	Phospholipid biosynthesis protein PlsY, probable glycerol-3-phosphate acyltransferase	PlsY		29684280	5XJ5
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_00450	COG1654	K	Biotin operon repressor	BirA			1BIA
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_00480	COG0480	J	Translation elongation factor EF-G, a GTPase	FusA	Translation factors		1DAR
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_00490	COG0081	J	Ribosomal protein L1	RplA	Ribosome 50S subunit		3J65
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_00495	COG0069	E	Glutamate synthase domain 2	GltB2	Glutamine biosynthesis		1EA0
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_00500	COG1249	C	Dihydrolipoamide dehydrogenase (E3) component of pyruvate/2-oxoglutarate dehydrogenase complex or glutathione oxidoreductase	Lpd	Glycine cleavagePyruvate oxidation		6QKG
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_00505	COG1216	G	Glycosyltransferase, GT2 family	WcaE			2Z86
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_00510	COG0284	F	Orotidine-5'-phosphate decarboxylase	PyrF	Pyrimidine biosynthesis		1DBT
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_00515	COG0407	H	Uroporphyrinogen-III decarboxylase HemE	HemE	Heme biosynthesis		2DG5
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_00520	COG0204	I	1-acyl-sn-glycerol-3-phosphate acyltransferase	PlsC	Phospholipid biosynthesis		1IUQ
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_00525	COG3336	CO	Cytochrome c oxidase assembly protein CtaG	CtaG		14766920	
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_00535	COG2227	H	2-polyprenyl-3-methyl-5-hydroxy-6-metoxy-1,4-benzoquinol methylase	UbiG	Ubiquinone biosynthesis		1BHJ
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_00545	COG1232	H	Protoporphyrinogen oxidase HemY/PPOX	HemY	Heme biosynthesis		3LOV
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_00550	COG0039	C	Malate/lactate dehydrogenase	Mdh	TCA cycle		4WLO
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_00570	COG1538	M	Outer membrane protein TolC	TolC			1EK9
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_00580	COG0845	MV	Multidrug efflux pump subunit AcrA (membrane-fusion protein)	AcrA			1T5E
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_00585	COG0845	MV	Multidrug efflux pump subunit AcrA (membrane-fusion protein)	AcrA			1T5E
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_00600	COG0701	S	Uncharacterized membrane protein YraQ, UPF0718 family	YraQ			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_00605	COG3038	C	Cytochrome b561	CybB			5OC0
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_00610	COG2217	P	Cation-transporting P-type ATPase	ZntA			4BBJ
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_00615	COG1937	K	DNA-binding transcriptional regulator, FrmR family	FrmR			2HH7
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_00620	COG2608	P	Copper chaperone CopZ	CopZ			1AFI
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_00630	COG0789	K	DNA-binding transcriptional regulator, MerR family	SoxR			2VZ4
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_00635	COG0446	I	NADPH-dependent 2,4-dienoyl-CoA reductase, sulfur reductase, or a related oxidoreductase	FadH2			1VRQ
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_00645	COG0492	O	Thioredoxin reductase	TrxB			3FBS
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_00655	COG0640	K	DNA-binding transcriptional regulator, ArsR family	ArsR			3F6V
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_00675	COG0640	K	DNA-binding transcriptional regulator, ArsR family	ArsR			3F6V
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_00695	COG1055	P	Na+/H+ antiporter NhaD or related arsenite permease	ArsB			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_00700	COG0579	G	L-2-hydroxyglutarate oxidase LhgO	LhgO			3DME
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_00715	COG0477	GEPR	MFS family permease, includes anhydromuropeptide permease AmpG	ProP		12426329	
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_00725	COG0701	S	Uncharacterized membrane protein YraQ, UPF0718 family	YraQ			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_00730	COG1495	O	Disulfide bond formation protein DsbB	DsbB			2LTQ
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_00735	COG0789	K	DNA-binding transcriptional regulator, MerR family	SoxR			2VZ4
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_00740	COG2608	P	Copper chaperone CopZ	CopZ			1AFI
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_00755	COG2217	P	Cation-transporting P-type ATPase	ZntA			4BBJ
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_00760	COG2226	H	Ubiquinone/menaquinone biosynthesis C-methylase UbiE/MenG	UbiE	Biotin biosynthesis		4OBW
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_00780	COG0450	V	Alkyl hydroperoxide reductase subunit AhpC (peroxiredoxin)	AhpC			2RII
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_00790	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_00805	COG4529	R	Uncharacterized NAD(P)/FAD-binding protein YdhS	YdhS			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_00810	COG1171	E	Threonine deaminase	IlvA	Isoleucine, leucine, valine biosynthesis		3IAU
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_00815	COG0656	Q	Aldo/keto reductase, related to diketogulonate reductase	ARA1			1Q13
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_00820	COG5502	S	Uncharacterized conserved protein, DUF2267 family				
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_00825	COG3263	CP	NhaP-type Na+/H+ and K+/H+ antiporter with C-terminal TrkAC and CorC domains	NhaP2			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_00830	COG2814	G	Predicted arabinose efflux permease AraJ, MFS family	AraJ			4LDS
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_00840	COG1047	O	Peptidyl-prolyl cis-trans isomerase, FKBP type	SlpA			2M2A
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_00855	COG1047	O	Peptidyl-prolyl cis-trans isomerase, FKBP type	SlpA			2M2A
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_00865	COG1062	C	Zn-dependent alcohol/formaldehyde dehydrogenase	FrmA			1A71
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_00875	COG5012	C	Methanogenic corrinoid protein MtbC1	MtbC1			1Y80
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_00880	COG3705	E	ATP phosphoribosyltransferase regulatory subunit HisZ	HisZ		9767141	3OD1
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_00900	COG0536	DL	GTPase involved in cell partioning and DNA repair	Obg			1LNZ
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_00910	COG0324	J	tRNA A37 N6-isopentenylltransferase MiaA	MiaA	tRNA modification		2ZM5
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_00915	COG0323	L	DNA mismatch repair ATPase MutL	MutL			1B62
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_00920	COG0753	P	Catalase	KatE			6RJR
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_00925	COG3091	R	Predicted Zn-dependent metalloprotease, SprT family	SprT			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_00930	COG3661	G	Alpha-glucuronidase	AguA2			1GQI
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_00940	COG4221	C	NADP-dependent 3-hydroxy acid dehydrogenase YdfG	YdfG	Pyrimidine degradation		3P19
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_00950	COG0446	I	NADPH-dependent 2,4-dienoyl-CoA reductase, sulfur reductase, or a related oxidoreductase	FadH2			1VRQ
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_00955	COG3193	T	Heme-binding protein HbpS, GlcG/HbpS family	GlcG		19244623;25342754	2A2L
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_00960	COG1620	C	L-lactate permease	LldP			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_00975	COG1396	K	Transcriptional regulator, contains XRE-family HTH domain	HipB			1ADR
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_00990	COG0572	F	Uridine kinase	Udk	Pyrimidine salvage		5B3F
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_00995	COG0420	L	DNA repair exonuclease SbcCD nuclease subunit	SbcD			6S85
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_01000	COG0815	M	Apolipoprotein N-acyltransferase	Lnt			6NWR
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_01005	COG2205	T	K+-sensing histidine kinase KdpD	KdpD			2KSF
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_01010	COG2204	T	DNA-binding transcriptional response regulator, NtrC family, contains REC, AAA-type ATPase, and a Fis-type DNA-binding domains	AtoC			1ZY2
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_01020	COG0526	O	Thiol-disulfide isomerase or thioredoxin	TrxA			1XFL
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_01050	COG0590	J	tRNA(Arg) A34 adenosine deaminase TadA	TadA	Pyrimidine salvagetRNA modification		2A8N
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_01060	COG2814	G	Predicted arabinose efflux permease AraJ, MFS family	AraJ			4LDS
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_01065	COG0798	P	Arsenite efflux pump ArsB, ACR3 family	ACR3			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_01070	COG2076	V	Multidrug transporter EmrE and related cation transporters	EmrE			2I68
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_01075	COG1309	K	DNA-binding protein, AcrR family, includes nucleoid occlusion protein SlmA	AcrR			2QOP
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_01080	COG0010	E	Arginase/agmatinase family enzyme	SpeB	Urea cycle		1CEV
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_01090	COG1538	M	Outer membrane protein TolC	TolC			1EK9
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_01095	COG1566	V	Multidrug resistance efflux pump EmrA	EmrA			4TKO
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_01100	COG0841	V	Multidrug efflux pump subunit AcrB	AcrB			1IWG
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_01105	COG1230	P	Co/Zn/Cd efflux system component	CzcD			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_01115	COG0514	L	Superfamily II DNA helicase RecQ	RecQ			1OYW
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_01120	COG0579	G	L-2-hydroxyglutarate oxidase LhgO	LhgO			3DME
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_01125	COG3201	H	Nicotinamide riboside transporter PnuC	PnuC			4QTN
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_01130	COG3172	H	Nicotinamide riboside kinase	NadR3	NAD biosynthesis		1LW7
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_01135	COG0479	C	Succinate dehydrogenase/fumarate reductase, Fe-S protein subunit	SdhB/FrdB	TCA cycle		6LUM
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_01140	COG1319	C	Aldehyde, CO, or xanthine dehydrogenase, FAD-binding subunit	CutB	Non-phosphorylated Entner-Doudoroff pathway		5Y6Q
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_01145	COG1529	C	Aldehyde, CO or xanthine dehydrogenase, Mo-binding subunit	CoxL	Non-phosphorylated Entner-Doudoroff pathway	10095793	1DGJ
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_01170	COG0371	C	Glycerol dehydrogenase or related enzyme, iron-containing ADH family	GldA	Isoprenoid biosynthesis	20688982	3S99
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_01175	COG1359	C	Quinol monooxygenase YgiN	YgiN		15613473	1R6Y
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_01185	COG2237	S	Uncharacterized membrane protein				
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_01195	COG0288	P	Carbonic anhydrase	CynT		22081392	1EKJ
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_01200	COG1011	H	FMN and 5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YigB, HAD superfamily (riboflavin biosynthesis)	YigB		24123841	4JB3
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_01205	COG3124	I	Acyl carrier protein phosphodiesterase	AcpH		16107329	
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_01210	COG5342	R	Invasion protein IalB, involved in pathogenesis	IalB			3DTD
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_01230	COG1205	L	ATP-dependent helicase YprA,  contains C-terminal metal-binding DUF1998 domain	YprA			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_01245	COG1160	J	Double Era-like domain GTPase Der	Der			1MKY
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_01250	COG0223	J	Methionyl-tRNA formyltransferase	Fmt			1FMT
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_01280	COG2114	T	Adenylate cyclase, class 3	AcyC			1AB8
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_01290	COG0123	Q	Acetoin utilization deacetylase AcuC or a related deacetylase	AcuC			1C3P
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_01295	COG1012	I	Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase	AdhE	Proline degradation		1A4S
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_01300	COG1893	H	Ketopantoate reductase	PanE	Pantothenate/CoA biosynthesis		1BG6
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_01305	COG2008	E	Threonine aldolase	GLY1			4LNJ
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_01315	COG2813	J	16S rRNA G1207 methylase RsmC	RsmC	16S rRNA modification		1DUS
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_01325	COG0596	HR	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold	MenH	Menaquinone biosynthesis		4MYS
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_01335	COG0451	M	Nucleoside-diphosphate-sugar epimerase	WcaG			2X4G
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_01340	COG3884	I	Acyl-ACP thioesterase	FatA			2ESS
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_01345	COG4520	M	Surface antigen	LipA17			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_01350	COG1062	C	Zn-dependent alcohol/formaldehyde dehydrogenase	FrmA			1A71
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_01360	COG0702	R	Uncharacterized conserved protein YbjT, contains NAD(P)-binding and DUF2867 domains	YbjT			5L3Z
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_01365	COG0028	EH	Acetolactate synthase large subunit or other thiamine pyrophosphate-requiring enzyme	IlvB	Isoleucine, leucine, valine biosynthesis		1BFD
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_01375	COG0059	EH	Ketol-acid reductoisomerase	IlvC	Isoleucine, leucine, valine biosynthesis		1NP3
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_01380	COG0688	I	Phosphatidylserine decarboxylase	Psd	Phospholipid biosynthesis		6L06
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_01385	COG1183	I	Phosphatidylserine synthase	PssA			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_01400	COG0456	J	Ribosomal protein S18 acetylase RimI and related acetyltransferases	RimI			1GHE
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_01405	COG2807	P	Cyanate permease	CynX			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_01410	COG2816	F	NADH pyrophosphatase NudC, Nudix superfamily	NPY1			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_01420	COG1721	S	Uncharacterized conserved protein, DUF58 family, contains vWF domain	YeaD2			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_01425	COG5271	J	Midasin, AAA ATPase with  vWA domain, involved in ribosome maturation	MDN1			6HYP
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_01430	COG3030	R	FxsA protein affecting phage T7 exclusion by the F plasmid, UPF0716 family	FxsA			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_01435	COG0143	J	Methionyl-tRNA synthetase	MetG	Aminoacyl-tRNA synthetases		1A8H
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_01440	COG2927	L	DNA polymerase III, chi subunit	HolC			1EM8
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_01445	COG0260	E	Leucyl aminopeptidase	PepB		19553197;23825549	3H8E
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_01450	COG0795	MN	Lipopolysaccharide export LptBFGC system, permease protein LptF	LptF			6S8H
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_01455	COG0795	MN	Lipopolysaccharide export LptBFGC system, permease protein LptF	LptF			6S8H
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_01465	COG0275	J	16S rRNA C1402 N4-methylase RsmH	RmsH	16S rRNA modification		1M6Y
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_01470	COG3116	D	Cell division protein FtsL, interacts with FtsB and FtsQ	FtsL			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_01475	COG5009	M	Membrane carboxypeptidase/penicillin-binding protein	MrcA			3D0F
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_01480	COG0771	M	UDP-N-acetylmuramoylalanine-D-glutamate ligase	MurD	Mureine biosynthesis		1E0D
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_01485	COG0773	M	UDP-N-acetylmuramate-alanine ligase MurC and related ligases, MurC/Mpl family	MurC	Mureine biosynthesis		
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_01490	COG0472	M	UDP-N-acetylmuramyl pentapeptide phosphotransferase/UDP-N-acetylglucosamine-1-phosphate transferase	Rfe	Mureine biosynthesis		4J72
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_01495	COG0769	M	UDP-N-acetylmuramyl tripeptide synthase	MurE	Mureine biosynthesis		1E8C
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_01500	COG0772	D	Peptodoglycan polymerase FtsW/RodA/SpoVE	FtsW		30692671	6BAR
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_01505	COG1819	G	UDP:flavonoid glycosyltransferase YjiC, YdhE family	YjiC		23974133	2ACV
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_01510	COG0771	M	UDP-N-acetylmuramoylalanine-D-glutamate ligase	MurD	Mureine biosynthesis		1E0D
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_01520	COG4972	NW	Type IV pilus assembly protein, ATPase PilM	PilM			2YCH
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_01525	COG0206	D	Cell division GTPase FtsZ	FtsZ			1FSZ
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_01530	COG0774	M	UDP-3-O-acyl-N-acetylglucosamine deacetylase	LpxC	Lipid A biosynthesis		1P42
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_01555	COG0579	G	L-2-hydroxyglutarate oxidase LhgO	LhgO			3DME
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_01560	COG1061	KL	Superfamily II DNA or RNA helicase	SSL2			6JDE
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_01575	COG0286	V	Type I restriction-modification system, DNA methylase subunit	HsdM		26872910	2AR0
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_01585	COG3177	K	Fic family protein				3CUC
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_01590	COG1914	P	Mn2+ or Fe2+ transporter, NRAMP family	MntH			5KTE
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_01595	COG1555	L	DNA uptake protein ComE or related DNA-binding protein	ComEA			2DUY
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_01600	COG1038	C	Pyruvate carboxylase	PycA	Urea cycle		5VYW
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_01605	COG0330	O	Regulator of protease activity HflC, stomatin/prohibitin superfamily	HflC			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_01610	COG0616	O	Periplasmic serine protease, ClpP class	SppA			3BEZ
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_01615	COG0846	O	NAD-dependent protein deacetylase, SIR2 family	SIR2			1M2N
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_01620	COG0815	M	Apolipoprotein N-acyltransferase	Lnt			6NWR
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_01625	COG2895	P	Sulfate adenylyltransferase subunit 1, EFTu-like GTPase family	CysN	Cysteine biosynthesis		1ZUN
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_01630	COG2814	G	Predicted arabinose efflux permease AraJ, MFS family	AraJ			4LDS
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_01635	COG1914	P	Mn2+ or Fe2+ transporter, NRAMP family	MntH			5KTE
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_01645	COG5126	T	Ca2+-binding protein, EF-hand superfamily	FRQ1			2LHI
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_01650	COG1506	E	Dipeptidyl aminopeptidase/acylaminoacyl peptidase	DAP2			2JBW
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_01670	COG1453	R	Predicted oxidoreductase of the aldo/keto reductase family				
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_01675	COG0587	L	DNA polymerase III, alpha subunit	DnaE			2HNH
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_01685	COG4544	S	Uncharacterized conserved protein				
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_01690	COG2355	OE	Zn-dependent dipeptidase, microsomal dipeptidase homolog			14499931	1ITQ
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_01700	COG2820	F	Uridine phosphorylase	Udp	Pyrimidine salvage		1K3F
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_01705	COG0066	E	3-isopropylmalate dehydratase small subunit	LeuD	Isoleucine, leucine, valine biosynthesis		3Q3W
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_01715	COG0037	J	tRNA(Ile)-lysidine synthase TilS/MesJ	TilS	tRNA modification	21435031	1NI5
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_01720	COG2816	F	NADH pyrophosphatase NudC, Nudix superfamily	NPY1			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_01725	COG0331	I	Malonyl CoA-acyl carrier protein transacylase	FabD	Fatty acid biosynthesis		1YXC
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_01730	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_01735	COG0236	I	Acyl carrier protein	AcpP	Fatty acid biosynthesis		1ACP
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_01740	COG0304	IQ	3-oxoacyl-(acyl-carrier-protein) synthase	FabB	Fatty acid biosynthesis	21652641	2UV8
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_01745	COG0147	EH	Anthranilate/para-aminobenzoate synthases component I	TrpE	Aromatic amino acid biosynthesis		1I1Q
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_01755	COG1559	M	Endolytic transglycosylase MltG, terminates peptidoglycan polymerization	MltG		26507882	2R1F
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_01760	COG0529	P	Adenylylsulfate kinase or related kinase	CysC	Cysteine biosynthesis		2GKS
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_01765	COG0470	L	DNA polymerase III, delta prime subunit	HolB			1A5T
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_01770	COG1309	K	DNA-binding protein, AcrR family, includes nucleoid occlusion protein SlmA	AcrR			2QOP
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_01785	COG1272	U	Predicted membrane channel-forming protein YqfA, hemolysin III family	YqfA			3WXV
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_01790	COG0513	L	Superfamily II DNA and RNA helicase	SrmB			3RRM
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_01795	COG1292	M	Choline-glycine betaine transporter	BetT			2WIT
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_01815	COG4097	P	Predicted ferric reductase				
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_01825	COG0599	R	Uncharacterized conserved protein YurZ, alkylhydroperoxidase/carboxymuconolactone decarboxylase family	YurZ			3BEY
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_01840	COG5483	S	Uncharacterized conserved protein, DUF488 family				
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_01845	COG4975	G	Glucose uptake protein GlcU	GlcU			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_01860	COG0517	T	CBS domain	CBS			1B3O
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_01865	COG2186	K	DNA-binding transcriptional regulator, FadR family	FadR			1E2X
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_01870	COG2186	K	DNA-binding transcriptional regulator, FadR family	FadR			1E2X
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_01875	COG0798	P	Arsenite efflux pump ArsB, ACR3 family	ACR3			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_01885	COG4170	V	ABC-type antimicrobial peptide export system, ATPase component SapD	SapD			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_01890	COG1173	EP	ABC-type dipeptide/oligopeptide/nickel transport system, permease component	DppC			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_01895	COG1173	EP	ABC-type dipeptide/oligopeptide/nickel transport system, permease component	DppC			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_01900	COG4533	K	DNA-binding transcriptional regulator SgrR of sgrS sRNA, contains a MarR-type HTH domain and a periplasmic-type solute-binding domain	SgrR			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_01905	COG1206	J	Folate-dependent tRNA-U54 methylase TrmFO/GidA	TrmFO	tRNA modification	16027442	
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_01935	COG0560	E	Phosphoserine phosphatase	SerB	Serine biosynthesis		3N28
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_01940	COG0784	T	CheY-like REC (receiver) domain, includes chemotaxis protein CheY  and sporulation regulator Spo0F	CheY			6QRJ
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_01945	COG3290	T	Sensor histidine kinase DipB regulating citrate/malate metabolism	CitA			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_01950	COG0859	M	ADP-heptose:LPS heptosyltransferase	RfaF			1PSW
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_01975	COG3451	U	Type IV secretory pathway, VirB4 component	VirB4			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_02025	COG3505	U	Type IV secretory pathway, VirD4 component, TraG/TraD family ATPase	VirD4			1GL6
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_02060	COG1110	L	Reverse gyrase	TopG2			1GKU
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_02065	COG0629	L	Single-stranded DNA-binding protein	Ssb			1EQQ
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_02100	COG2894	D	Septum site-determining ATPase MinD	MinD			4V02
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_02105	COG3311	KX	DNA-binding transcriptional regulator AlpA	AlpA			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_02115	COG2801	X	Transposase InsO and inactivated derivatives	Tra5			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_02120	COG0582	LX	Integrase/recombinase, includes phage integrase	FimB			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_02130	COG1686	M	D-alanyl-D-alanine carboxypeptidase	DacC			1HD8
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_02135	COG0343	J	Queuine/archaeosine tRNA-ribosyltransferase	Tgt	tRNA modification	15805528	1XW8
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_02145	COG0341	U	Preprotein translocase subunit SecF	SecF		28830929	2FYH
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_02150	COG0342	U	Preprotein translocase subunit SecD	SecD		26100040	3AQP
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_02160	COG0483	G	Archaeal fructose-1,6-bisphosphatase or related enzyme, inositol monophosphatase family	SuhB	Gluconeogenesis		1AWB
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_02165	COG0566	J	tRNA G18 (ribose-2'-O)-methylase SpoU	SpoU	tRNA modification		1GZ0
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_02170	COG0110	R	Acetyltransferase, isoleucine patch superfamily	WbbJ			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_02175	COG0076	E	Glutamate or tyrosine decarboxylase or a related PLP-dependent protein	GadA	Pantothenate/CoA biosynthesis		1XEY
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_02190	COG0105	F	Nucleoside diphosphate kinase	Ndk	Pyrimidine biosynthesis		1B4S
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_02195	COG0820	J	Adenine C2-methylase RlmN of 23S rRNA A2503 and tRNA A37	RlmN	23S rRNA modification		3RFA
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_02205	COG1396	K	Transcriptional regulator, contains XRE-family HTH domain	HipB			1ADR
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_02210	COG0124	J	Histidyl-tRNA synthetase	HisS	Aminoacyl-tRNA synthetases		1KMM
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_02225	COG0486	J	tRNA U34 5-carboxymethylaminomethyl modifying GTPase MnmE/TrmE	MnmE	tRNA modification		
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_02230	COG3103	R	Uncharacterized conserved protein YgiM, contains N-terminal SH3 domain, DUF1202 family	YgiM			2KQ8
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_02235	COG1570	L	Exonuclease VII, large subunit	XseA			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_02240	COG0517	T	CBS domain	CBS			1B3O
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_02245	COG0512	EH	Anthranilate/para-aminobenzoate synthase component II (glutamine amidotransferase)	PabA	Aromatic amino acid biosynthesis		1I1Q
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_02250	COG0270	L	DNA-cytosine methylase	Dcm			3LX6
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_02265	COG2826	X	Transposase and inactivated derivatives, IS30 family	Tra8			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_02285	COG4259	S	Uncharacterized conserved protein, DUF4810 domain				
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_02295	COG4270	S	Uncharacterized membrane protein				
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_02300	COG1063	ER	Threonine dehydrogenase or related Zn-dependent dehydrogenase	Tdh	Non-phosphorylated Entner-Doudoroff pathway		4A2C
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_02310	COG0446	I	NADPH-dependent 2,4-dienoyl-CoA reductase, sulfur reductase, or a related oxidoreductase	FadH2			1VRQ
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_02340	COG0300	R	Short-chain dehydrogenase	YqjQ			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_02345	COG2814	G	Predicted arabinose efflux permease AraJ, MFS family	AraJ			4LDS
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_02350	COG1167	KE	DNA-binding transcriptional regulator, MocR family, contains an aminotransferase domain	ARO8	Lysine biosynthesis		2R2N
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_02355	COG2610	G	H+/gluconate symporter GntT or related permease, GntP/DsdX family	GntT			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_02360	COG1082	G	Sugar phosphate isomerase/epimerase	YcjR		30742415	3KTC
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_02365	COG0287	E	Prephenate dehydrogenase	TyrA	Aromatic amino acid biosynthesis		2F1K
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_02370	COG3695	K	Alkylated DNA nucleotide flippase Atl1, participates in nucleotide excision repair, Ada-like DNA-binding domain	Atl1		19516334	2KIF
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_02435	COG1295	S	Uncharacterized membrane protein, BrkB/YihY/UPF0761 family (not an RNase)	BrkB			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_02455	COG3021	R	Uncharacterized conserved protein YafD, endonuclease/exonuclease/phosphatase (EEP) superfamily	YafD			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_02460	COG4232	O	Thiol:disulfide interchange protein DsbD	DsbD			1JPE
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_02470	COG3318	S	Uncharacterized conserved protein YecA, UPF0149 family, contains C-terminal Zn-binding SEC-C motif	YecA			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_02475	COG1012	I	Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase	AdhE	Proline degradation		1A4S
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_02485	COG2303	IR	Choline dehydrogenase or related flavoprotein	BetA	Non-phosphorylated Entner-Doudoroff pathway		1B4V
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_02490	COG5502	S	Uncharacterized conserved protein, DUF2267 family				
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_02500	COG1062	C	Zn-dependent alcohol/formaldehyde dehydrogenase	FrmA			1A71
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_02510	COG1063	ER	Threonine dehydrogenase or related Zn-dependent dehydrogenase	Tdh	Non-phosphorylated Entner-Doudoroff pathway		4A2C
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_02525	COG1074	L	3-5 helicase subunit RecB of the DNA repair enzyme RecBCD (exonuclease V)	RecB		29901759;30601118	3U44
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_02530	COG3021	R	Uncharacterized conserved protein YafD, endonuclease/exonuclease/phosphatase (EEP) superfamily	YafD			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_02540	COG2005	K	DNA-binding transcriptional regulator ModE (molybdenum-dependent)	ModE		19779461	1B9M
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_02555	COG1670	JO	Protein N-acetyltransferase, RimJ/RimL family	RimL			1S7F
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_02565	COG1416	P	Intracellular sulfur oxidation protein, DsrE/DsrF family			9695921	1L1S
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_02570	COG4987	CO	ABC-type transport system involved in cytochrome bd biosynthesis, fused ATPase and permease components	CydC			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_02575	COG4986	P	ABC-type anion transport system, duplicated permease component				
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_02580	COG4521	P	ABC-type taurine transport system, periplasmic component	TauA			6SSY
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_02595	COG1067	O	Predicted ATP-dependent protease	LonB			3K1J
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_02605	COG2333	U	DNA uptake channel protein ComEC C-terminal domain, metallo-beta-lactamase superfamily	ComEC			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_02610	COG1252	C	NADH dehydrogenase, FAD-containing subunit	Ndh			5NA4
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_02620	COG2072	P	Predicted flavoprotein CzcO associated with the cation diffusion facilitator CzcD	CzcO			4USQ
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_02630	COG0703	E	Shikimate kinase	AroK	Aromatic amino acid biosynthesis		1E6C
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_02635	COG3386	G	Sugar lactone lactonase YvrE	YvrE	Non-phosphorylated Entner-Doudoroff pathway		1E1A
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_02640	COG0673	R	Predicted dehydrogenase	MviM			3UUW
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_02645	COG2017	G	Galactose mutarotase or related enzyme	GalM			1LUR
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_02650	COG2217	P	Cation-transporting P-type ATPase	ZntA			4BBJ
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_02655	COG1937	K	DNA-binding transcriptional regulator, FrmR family	FrmR			2HH7
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_02660	COG2608	P	Copper chaperone CopZ	CopZ			1AFI
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_02665	COG1506	E	Dipeptidyl aminopeptidase/acylaminoacyl peptidase	DAP2			2JBW
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_02675	COG0800	G	2-keto-3-deoxy-6-phosphogluconate aldolase	Eda	Entner-Doudoroff pathway		2V81
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_02685	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_02690	COG3180	R	Uncharacterized membrane protein AbrB, regulator of aidB expression	AbrB			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_02695	COG3246	S	Uncharacterized conserved protein, DUF849 family				3C6C
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_02700	COG1250	I	3-hydroxyacyl-CoA dehydrogenase	FadB	Fatty acid biosynthesis		5ZQZ
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_02705	COG0824	I	Acyl-CoA thioesterase FadM	FadM	Menaquinone biosynthesis		2FUJ
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_02715	COG3904	S	Predicted periplasmic protein				
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_02725	COG0536	DL	GTPase involved in cell partioning and DNA repair	Obg			1LNZ
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_02730	COG0193	J	Peptidyl-tRNA hydrolase	Pth	Translation factors	11835511	1RYB
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_02735	COG1825	J	Ribosomal protein L25 (general stress protein Ctc)	RplY	Ribosome 50S subunit		1B75
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_02740	COG0461	F	Orotate phosphoribosyltransferase	PyrE	Pyrimidine biosynthesis		4WML
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_02755	COG5010	UW	Flp pilus assembly protein TadD, contains TPR repeats	TadD			3WXX
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_02760	COG0169	E	Shikimate 5-dehydrogenase	AroE	Aromatic amino acid biosynthesis		1NPD
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_02765	COG0216	J	Protein chain release factor RF1	PrfA	Translation factors		1RQ0
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_02770	COG4123	J	tRNA1(Val) A37 N6-methylase TrmN6	TrmN6	tRNA modification		
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_02775	COG0473	CE	Isocitrate/isopropylmalate dehydrogenase	LeuB	TCA cycle		1GC9
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_02780	COG3786	M	L,D-peptidoglycan transpeptidase YkuD, ErfK/YbiS/YcfS/YnhG family			16647082	
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_02785	COG1230	P	Co/Zn/Cd efflux system component	CzcD			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_02790	COG1310	O	Proteasome lid subunit RPN8/RPN11, contains Jab1/MPN domain metalloenzyme (JAMM) motif	Rri1			2O95
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_02795	COG0441	J	Threonyl-tRNA synthetase	ThrS	Aminoacyl-tRNA synthetases		1NYQ
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_02800	COG0741	M	Soluble lytic murein transglycosylase or regulatory protein s ( may contain LysM/invasin domain)	MltE			153L
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_02805	COG1484	L	DNA replication protein DnaC	DnaC			2QGZ
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_02815	COG0309	O	Carbamoyl dehydratase HypE (hydrogenase maturation factor)	HypE		28618091	2I6R
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_02820	COG0788	F	Formyltetrahydrofolate hydrolase	PurU	Purine biosynthesis		3O1L
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_02830	COG0717	F	dCTP deaminase	Dcd	Thymidylate biosynthesis		1XS1
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_02835	COG1062	C	Zn-dependent alcohol/formaldehyde dehydrogenase	FrmA			1A71
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_02845	COG1192	DN	ParA-like ATPase involved in chromosome/plasmid partitioning or cellulose biosynthesis protein BcsQ	ParA			6NOO
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_02850	COG0143	J	Methionyl-tRNA synthetase	MetG	Aminoacyl-tRNA synthetases		1A8H
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_02855	COG1143	C	Formate hydrogenlyase subunit 6/NADH:ubiquinone oxidoreductase 23 kD subunit (chain I)	NuoI	NADH dehydrogenase		1B0P
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_02860	COG1194	L	Adenine-specific DNA glycosylase, acts on AG and A-oxoG pairs	MutY			1KG2
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_02865	COG0179	Q	2-keto-4-pentenoate hydratase/2-oxohepta-3-ene-1,7-dioic acid hydratase (catechol pathway)	YcgM			1GTT
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_02880	COG1866	C	Phosphoenolpyruvate carboxykinase, ATP-dependent	PckA	Gluconeogenesis		1AQ2
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_02885	COG1047	O	Peptidyl-prolyl cis-trans isomerase, FKBP type	SlpA			2M2A
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_02890	COG0137	E	Argininosuccinate synthase	ArgG	Arginine biosynthesis		1J1Z
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_02895	COG2176	L	DNA polymerase III, alpha subunit (gram-positive type)	PolC			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_02905	COG0596	HR	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold	MenH	Menaquinone biosynthesis		4MYS
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_02910	COG0596	HR	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold	MenH	Menaquinone biosynthesis		4MYS
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_02915	COG3243	I	Poly-beta-hydroxybutyrate synthase	PhaC			5XAV
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_02925	COG1541	H	Phenylacetate-coenzyme A ligase PaaK, adenylate-forming domain family	PaaK			2Y4O
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_02930	COG0679	R	Predicted permease, AEC (auxin efflux carrier) family	YfdV			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_02935	COG2303	IR	Choline dehydrogenase or related flavoprotein	BetA	Non-phosphorylated Entner-Doudoroff pathway		1B4V
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_02940	COG0851	D	Septum formation topological specificity factor MinE	MinE			1EV0
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_02945	COG1149	R	MinD superfamily P-loop ATPase, contains an inserted ferredoxin domain				
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_02950	COG0850	D	Septum site-determining protein MinC	MinC			1HF2
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_02955	COG2267	I	Lysophospholipase, alpha-beta hydrolase superfamily	PldB			5O7G
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_02970	COG3009	M	Intermembrane transporter PqiABC lipoprotein subunit PqiC	PqiC		27795327	6OSX
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_02975	COG1463	M	Periplasmic subunit MlaD of the ABC-type intermembrane phospholipid transporter Mla	MlaD			5UW8
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_02980	COG4161	E	ABC-type arginine transport system, ATPase component	ArtP			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_02985	COG0767	M	Permease subunit MlaE of the ABC-type intermembrane phospholipid transporter Mla	MlaE			6IC4
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_02990	COG1538	M	Outer membrane protein TolC	TolC			1EK9
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_02995	COG1033	R	Predicted exporter protein, RND superfamily	MMPL			5KHN
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_03000	COG1566	V	Multidrug resistance efflux pump EmrA	EmrA			4TKO
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_03005	COG1309	K	DNA-binding protein, AcrR family, includes nucleoid occlusion protein SlmA	AcrR			2QOP
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_03015	COG3552	S	Uncharacterized protein CoxE, contains von Willebrand factor type A (vWA) domain	CoxE			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_03020	COG1474	L	Cdc6-related protein, AAA superfamily ATPase	CDC6			1FNN
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_03030	COG0057	G	Glyceraldehyde-3-phosphate dehydrogenase/erythrose-4-phosphate dehydrogenase	GapA	Glycolysis		3ZDF
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_03035	COG1154	HI	Deoxyxylulose-5-phosphate synthase	Dxs	Pyridoxal phosphate biosynthesis		2O1S
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_03045	COG0108	H	3,4-dihydroxy-2-butanone 4-phosphate synthase	RibB	Riboflavin/FAD biosynthesis		1G57
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_03050	COG0789	K	DNA-binding transcriptional regulator, MerR family	SoxR			2VZ4
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_03055	COG0596	HR	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold	MenH	Menaquinone biosynthesis		4MYS
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_03065	COG1309	K	DNA-binding protein, AcrR family, includes nucleoid occlusion protein SlmA	AcrR			2QOP
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_03070	COG0623	I	Enoyl-[acyl-carrier-protein] reductase FabI	FabI	Fatty acid biosynthesis		1C14
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_03075	COG1225	O	Peroxiredoxin	Bcp			5IPH
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_03080	COG1804	I	Crotonobetainyl-CoA:carnitine CoA-transferase CaiB and related acyl-CoA transferases	CaiB			1P5H
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_03090	COG0447	H	1,4-Dihydroxy-2-naphthoyl-CoA synthase	MenB	Menaquinone biosynthesis		4ELS
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_03095	COG1309	K	DNA-binding protein, AcrR family, includes nucleoid occlusion protein SlmA	AcrR			2QOP
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_03105	COG1422	M	Archaeal YidC/Oxa1-related membrane protein, DUF106 family	YidC			5C8J
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_03110	COG0594	J	RNase P protein component	RnpA			1A6F
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_03115	COG0230	J	Ribosomal protein L34	RpmH	Ribosome 50S subunit		6SPB
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_03120	COG1484	L	DNA replication protein DnaC	DnaC			2QGZ
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_03125	COG0592	L	DNA polymerase III sliding clamp (beta) subunit, PCNA homolog	DnaN			1JQJ
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_03130	COG3593	L	Predicted ATP-dependent endonuclease of the OLD family, contains P-loop ATPase and TOPRIM domains	YbjD			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_03135	COG0187	L	DNA gyrase/topoisomerase IV, subunit B	GyrB			1EI1
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_03140	COG0647	F	Ribonucleotide monophosphatase NagD, HAD superfamily	NagD			1PW5
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_03150	COG0752	J	Glycyl-tRNA synthetase, alpha subunit	GlyQ	Aminoacyl-tRNA synthetases		1J5W
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_03155	COG0174	E	Glutamine synthetase	GlnA	Glutamine biosynthesis		1F1H
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_03165	COG4191	T	Signal transduction histidine kinase regulating C4-dicarboxylate transport system				4GCZ
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_03170	COG0784	T	CheY-like REC (receiver) domain, includes chemotaxis protein CheY  and sporulation regulator Spo0F	CheY			6QRJ
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_03180	COG0657	I	Acetyl esterase/lipase	Aes			1EVQ
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_03185	COG0446	I	NADPH-dependent 2,4-dienoyl-CoA reductase, sulfur reductase, or a related oxidoreductase	FadH2			1VRQ
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_03190	COG2831	U	Hemolysin activation/secretion protein	FhaC			2MHJ
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_03205	COG1506	E	Dipeptidyl aminopeptidase/acylaminoacyl peptidase	DAP2			2JBW
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_03210	COG2130	QR	NADPH-dependent curcumin reductase CurA	CurA		21467222	1V3T
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_03220	COG1530	J	Ribonuclease G or E	CafA			1SLJ
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_03225	COG1576	J	23S rRNA pseudoU1915 N3-methylase RlmH	RlmH	23S rRNA modification		1NS5
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_03230	COG0799	J	Ribosomal silencing factor RsfS, regulates association of 30S and 50S subunits	RsfS			6SJ6
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_03235	COG1019	H	Phosphopantetheine adenylyltransferase	CAB4	Pantothenate/CoA biosynthesis		3DO8
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_03240	COG0014	E	Gamma-glutamyl phosphate reductase	ProA	Proline biosynthesis		4GHK
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_03245	COG1466	L	DNA polymerase III, delta subunit	HolA			3ZH9
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_03265	COG1511	S	Uncharacterized membrane protein YhgE, phage infection protein (PIP) family	YhgE			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_03275	COG0134	E	Indole-3-glycerol phosphate synthase	TrpC	Aromatic amino acid biosynthesis		6BMA
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_03280	COG0547	E	Anthranilate phosphoribosyltransferase, glycosyltransferase domain	TrpD	Aromatic amino acid biosynthesis		1KGZ
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_03285	COG0518	F	GMP synthase, glutamine amidotransferase domain	GuaA1	Purine biosynthesis		4WIM
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_03290	COG0147	EH	Anthranilate/para-aminobenzoate synthases component I	TrpE	Aromatic amino acid biosynthesis		1I1Q
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_03295	COG0269	G	3-keto-L-gulonate-6-phosphate decarboxylase	UlaD			3F4W
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_03300	COG0152	F	Phosphoribosylaminoimidazole-succinocarboxamide synthase	PurC	Purine biosynthesis		1A48
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_03310	COG2224	C	Isocitrate lyase	AceA	TCA cycle, glyoxylate bypass		1DQU
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_03315	COG1012	I	Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase	AdhE	Proline degradation		1A4S
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_03320	COG1309	K	DNA-binding protein, AcrR family, includes nucleoid occlusion protein SlmA	AcrR			2QOP
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_03325	COG3239	I	Fatty acid desaturase	DesA			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_03330	COG1773	P	Flavorubredoxin	NorV			4D02
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_03335	COG1250	I	3-hydroxyacyl-CoA dehydrogenase	FadB	Fatty acid biosynthesis		5ZQZ
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_03340	COG1249	C	Dihydrolipoamide dehydrogenase (E3) component of pyruvate/2-oxoglutarate dehydrogenase complex or glutathione oxidoreductase	Lpd	Glycine cleavagePyruvate oxidation		6QKG
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_03345	COG2062	T	Phosphohistidine phosphatase SixA	SixA			1UJB
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_03350	COG0209	F	Ribonucleotide reductase alpha subunit	NrdA	Pyrimidine salvage		1R1R
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_03355	COG0208	F	Ribonucleotide reductase beta subunit, ferritin-like domain	NrdB	Pyrimidine salvage		1AV8
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_03370	COG2801	X	Transposase InsO and inactivated derivatives	Tra5			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_03380	COG1010	H	Precorrin-3B methylase	CobJ	Cobalamine/B12 biosynthesis		2ZVB
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_03385	COG0683	E	ABC-type branched-chain amino acid transport system, periplasmic component	LivK			1USG
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_03390	COG0792	L	Predicted endonuclease distantly related to archaeal Holliday junction resolvase, YraN/UPF0102 family	YraN			3FOV
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_03395	COG0794	GM	D-arabinose 5-phosphate isomerase GutQ	GutQ			5UQI
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_03405	COG0695	O	Glutaredoxin	GrxC			1AAZ
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_03410	COG0141	E	Histidinol dehydrogenase	HisD	Histidine biosynthesis		1K75
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_03415	COG0040	E	ATP phosphoribosyltransferase	HisG	Histidine biosynthesis		1H3D
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_03420	COG0128	E	5-enolpyruvylshikimate-3-phosphate synthase	AroA	Aromatic amino acid biosynthesis		4N3P
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_03430	COG0842	V	ABC-type multidrug transport system, permease component	YadH			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_03435	COG4525	P	ABC-type taurine transport system, ATPase component	TauB			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_03440	COG2222	M	Fructoselysine-6-P-deglycase FrlB or related protein, duplicated sugar isomerase (SIS) domain	AgaS		16153181	3C3J
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_03450	COG3117	M	Lipopolysaccharide export system protein LptC	YrbK			3MY2
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_03455	COG4987	CO	ABC-type transport system involved in cytochrome bd biosynthesis, fused ATPase and permease components	CydC			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_03460	COG1508	K	DNA-directed RNA polymerase specialized sigma subunit, sigma54 homolog	RpoN	RNA polymerase		5BYH
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_03470	COG4668	G	Mannitol/fructose-specific phosphotransferase system, IIA domain	MtlA2			1A3A
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_03475	COG1484	L	DNA replication protein DnaC	DnaC			2QGZ
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_03480	COG1102	F	Cytidylate kinase	CmkB			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_03485	COG2893	G	Phosphotransferase system, mannose/fructose-specific component IIA	ManX			1PDO
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_03495	COG3848	T	Phosphohistidine swiveling domain of PEP-utilizing enzymes	PykA2			2E28
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_03500	COG2239	P	Mg/Co/Ni transporter MgtE (contains CBS domain)	MgtE			2YVX
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_03505	COG0312	R	Zn-dependent protease PmbA/TldA or its inactivated homolog	TldD		12029038	3TV9
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_03510	COG3852	T	Signal transduction histidine kinase NtrB, nitrogen specific	NtrB		23893111	
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_03520	COG0784	T	CheY-like REC (receiver) domain, includes chemotaxis protein CheY  and sporulation regulator Spo0F	CheY			6QRJ
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_03525	COG0769	M	UDP-N-acetylmuramyl tripeptide synthase	MurE	Mureine biosynthesis		1E8C
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_03535	COG0349	J	Ribonuclease D	Rnd		18821773	5C0Y
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_03540	COG1102	F	Cytidylate kinase	CmkB			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_03560	COG0303	H	Molybdopterin Mo-transferase (molybdopterin biosynthesis)	MoeA	Molybdopterin biosynthesis	18801996;32239579	2NQU
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_03565	COG1205	L	ATP-dependent helicase YprA,  contains C-terminal metal-binding DUF1998 domain	YprA			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_03570	COG1119	P	ABC-type molybdenum transport system, ATPase component ModF/photorepair protein PhrA	ModF			2IHY
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_03590	COG0528	F	Uridylate kinase	PyrH	Pyrimidine biosynthesis		2BND
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_03595	COG0441	J	Threonyl-tRNA synthetase	ThrS	Aminoacyl-tRNA synthetases		1NYQ
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_03605	COG2137	O	SOS response regulatory protein OraA/RecX, interacts with RecA	RecX			3C1D
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_03610	COG0468	L	RecA/RadA recombinase	RecA			1B22
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_03615	COG1514	J	RNA 2',3'-cyclic phosphodiesterase (2'-5' RNA ligase)	ThpR		25239919	1IUH
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_03620	COG1546	H	Nicotinamide mononucleotide (NMN) deamidase PncC	PncC	NAD biosynthesis		2A9S
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_03625	COG0249	L	DNA mismatch repair ATPase MutS	MutS			1E3M
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_03635	COG2207	K	AraC-type DNA-binding domain and AraC-containing proteins	AraC			1BL0
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_03650	COG2908	M	UDP-2,3-diacylglucosamine pyrophosphatase LpxH	LpxH			5WLY
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_03655	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_03670	COG1396	K	Transcriptional regulator, contains XRE-family HTH domain	HipB			1ADR
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_03675	COG0853	H	Aspartate 1-decarboxylase	PanD	Pantothenate/CoA biosynthesis		1AW8
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_03680	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_03685	COG0589	T	Nucleotide-binding universal stress protein,  UspA family	UspA			1JMV
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_03690	COG0659	P	Sulfate permease or related transporter, MFS superfamily	SUL1			3NY7
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_03695	COG1734	K	RNA polymerase-binding transcription factor DksA	DksA			1TJL
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_03705	COG0668	M	Small-conductance mechanosensitive channel	MscS			2OAU
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_03710	COG2814	G	Predicted arabinose efflux permease AraJ, MFS family	AraJ			4LDS
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_03725	COG0591	E	Na+/proline symporter	PutP			5NVA
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_03740	COG1804	I	Crotonobetainyl-CoA:carnitine CoA-transferase CaiB and related acyl-CoA transferases	CaiB			1P5H
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_03745	COG1038	C	Pyruvate carboxylase	PycA	Urea cycle		5VYW
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_03750	COG1794	M	Amino acid racemase YgeA	RacX			5ELL
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_03760	COG0477	GEPR	MFS family permease, includes anhydromuropeptide permease AmpG	ProP		12426329	
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_03780	COG3448	T	CBS-domain-containing membrane protein				
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_03785	COG4783	MO	Outer membrane protein chaperone/metalloprotease BepA/YfgC, contains M48 and TPR domains	BepA		24003122	6AIT
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_03795	COG3122	S	Uncharacterized conserved protein YaiL, DUF2058 family	YaiL			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_03800	COG0405	E	Gamma-glutamyltranspeptidase	Ggt		16618936	2Z8I
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_03805	COG0656	Q	Aldo/keto reductase, related to diketogulonate reductase	ARA1			1Q13
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_03810	COG1453	R	Predicted oxidoreductase of the aldo/keto reductase family				
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_03815	COG0697	GER	Permease of the drug/metabolite transporter (DMT) superfamily	RhaT			5I20
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_03820	COG0596	HR	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold	MenH	Menaquinone biosynthesis		4MYS
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_03825	COG2271	G	Sugar phosphate permease	UhpC			1PW4
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_03835	COG2220	G	L-ascorbate lactonase UlaG, metallo-beta-lactamase superfamily	UlaG			2WYM
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_03840	COG1088	M	dTDP-D-glucose 4,6-dehydratase	RfbB			1G1A
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_03850	COG2814	G	Predicted arabinose efflux permease AraJ, MFS family	AraJ			4LDS
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_03855	COG0331	I	Malonyl CoA-acyl carrier protein transacylase	FabD	Fatty acid biosynthesis		1YXC
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_03870	COG4799	I	Acetyl-CoA carboxylase, carboxyltransferase component	MmdA			1OD2
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_03875	COG3052	C	Acyl-carrier protein (citrate lyase gamma subunit)	CitD			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_03885	COG1788	I	Acyl CoA:acetate/3-ketoacid CoA transferase, alpha subunit	AtoD			1K6D
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_03905	COG1940	GK	Sugar kinase of the NBD/HSP70 family, may contain an N-terminal HTH domain	NagC			1WOQ
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_03915	COG4209	G	ABC-type polysaccharide transport system, permease component	LplB			4TQU
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_03920	COG1177	E	ABC-type spermidine/putrescine transport system, permease component II	PotC			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_03925	COG4559	P	ABC-type hemin transport system, ATPase component				4G1U
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_03930	COG0800	G	2-keto-3-deoxy-6-phosphogluconate aldolase	Eda	Entner-Doudoroff pathway		2V81
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_03945	COG1090	R	NAD dependent epimerase/dehydratase family enzyme	YfcH			4B4O
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_03955	COG1007	C	NADH:ubiquinone oxidoreductase subunit 2 (chain N)	NuoN	NADH dehydrogenase		4HE8
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_03960	COG1008	C	NADH:ubiquinone oxidoreductase subunit 4 (chain M)	NuoM	NADH dehydrogenase		6HUM
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_03965	COG1009	C	Membrane H+-translocase/NADH:ubiquinone oxidoreductase subunit 5 (chain L)/Multisubunit Na+/H+ antiporter, MnhA subunit	NuoL	NADH dehydrogenase		3RKO
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_03975	COG0839	C	NADH:ubiquinone oxidoreductase subunit 6 (chain J)	NuoJ	NADH dehydrogenase		4HE8
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_03980	COG1146	F	NAD-dependent dihydropyrimidine dehydrogenase, PreA subunit	PreA			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_03985	COG1005	C	NADH:ubiquinone oxidoreductase subunit 1 (chain H)	NuoH	NADH dehydrogenase		6HUM
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_03990	COG3383	R	Predicted molibdopterin-dependent oxidoreductase YjgC	YjgC			1AA6
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_03995	COG4656	C	Na+-translocating ferredoxin:NAD+ oxidoreductase  RNF, RnfC subunit	RnfC	Na+-translocating Fd:NADH oxidoreductase		
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_04005	COG3262	C	Ni,Fe-hydrogenase III component G	HycE1			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_04010	COG1941	C	Coenzyme F420-reducing hydrogenase, gamma subunit	FrhG			5ODC
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_04020	COG0066	E	3-isopropylmalate dehydratase small subunit	LeuD	Isoleucine, leucine, valine biosynthesis		3Q3W
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_04040	COG0397	O	Protein adenylyltransferase (AMPylase) SelO/YdiU (selenoprotein O)	SelO		30270044	6EAC
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_04060	COG0259	H	Pyridoxine/pyridoxamine 5'-phosphate oxidase	PdxH	Pyridoxal phosphate biosynthesis		1CI0
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_04065	COG3360	R	Flavin-binding protein dodecin			12679016	1MOG
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_04070	COG1063	ER	Threonine dehydrogenase or related Zn-dependent dehydrogenase	Tdh	Non-phosphorylated Entner-Doudoroff pathway		4A2C
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_04075	COG0372	C	Citrate synthase	GltA	TCA cycle	25211225	3TQG
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_04100	COG0008	J	Glutamyl- or glutaminyl-tRNA synthetase	GlnS	Heme biosynthesis		1EUQ
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_04105	COG2813	J	16S rRNA G1207 methylase RsmC	RsmC	16S rRNA modification		1DUS
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_04110	COG2894	D	Septum site-determining ATPase MinD	MinD			4V02
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_04125	COG0356	C	FoF1-type ATP synthase, membrane subunit a	AtpB	FoF1-type ATP synthase	22931285	
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_04130	COG0636	C	FoF1-type ATP synthase, membrane subunit c/Archaeal/vacuolar-type H+-ATPase, subunit K	AtpE	FoF1-type ATP synthase		1C17
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_04135	COG1317	NU	Flagellar biosynthesis/type III secretory pathway protein FliH	FliH			5B0O
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_04140	COG0712	C	FoF1-type ATP synthase, delta subunit	AtpH	FoF1-type ATP synthase		1ABV
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_04145	COG0055	C	FoF1-type ATP synthase, beta subunit	AtpD	FoF1-type ATP synthase		3OAA
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_04150	COG0224	C	FoF1-type ATP synthase, gamma subunit	AtpG	FoF1-type ATP synthase	15326535	3OAA
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_04155	COG0055	C	FoF1-type ATP synthase, beta subunit	AtpD	FoF1-type ATP synthase		3OAA
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_04175	COG1215	N	Glycosyltransferase, catalytic subunit of cellulose synthase and poly-beta-1,6-N-acetylglucosamine synthase	BcsA			4HG6
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_04180	COG2068	H	CTP:molybdopterin cytidylyltransferase MocA	MocA			2WAW
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_04185	COG0449	M	Glucosamine 6-phosphate synthetase, contains amidotransferase and phosphosugar isomerase domains	GlmS			2J6H
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_04190	COG0673	R	Predicted dehydrogenase	MviM			3UUW
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_04200	COG0815	M	Apolipoprotein N-acyltransferase	Lnt			6NWR
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_04205	COG0053	P	Divalent metal cation (Fe/Co/Zn/Cd) efflux pump	FieF			2QFI
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_04210	COG0053	P	Divalent metal cation (Fe/Co/Zn/Cd) efflux pump	FieF			2QFI
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_04250	COG0537	FR	Purine nucleoside phosphoramidase/Ap4A hydrolase, histidine triade (HIT) family	HinT		20934431	1AV5
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_04255	COG1345	N	Flagellar capping protein FliD	FliD			5FHY
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_04265	COG2352	C	Phosphoenolpyruvate carboxylase	Ppc	Urea cycle		1FIY
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_04270	COG2816	F	NADH pyrophosphatase NudC, Nudix superfamily	NPY1			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_04275	COG1146	F	NAD-dependent dihydropyrimidine dehydrogenase, PreA subunit	PreA			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_04280	COG1437	TR	Adenylate cyclase class IV, CYTH domain (includes archaeal enzymes of unknown function)	CyaB			1YEM
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_04285	COG0582	LX	Integrase/recombinase, includes phage integrase	FimB			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_04290	COG1485	D	Cell division protein ZapE (Z ring-associated ATPase), AFG1 superfamily	ZapE			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_04295	COG0365	I	Acyl-coenzyme A synthetase/AMP-(fatty) acid ligase	Acs		14638756	4B2O
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_04300	COG2902	E	NAD-specific glutamate dehydrogenase	Gdh2			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_04310	COG3671	S	Uncharacterized membrane protein				
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_04325	COG0846	O	NAD-dependent protein deacetylase, SIR2 family	SIR2			1M2N
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_04330	COG1011	H	FMN and 5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YigB, HAD superfamily (riboflavin biosynthesis)	YigB		24123841	4JB3
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_04335	COG4281	I	Acyl-CoA-binding protein	ACB			1ACA
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_04345	COG0207	F	Thymidylate synthase	ThyA	Thymidylate biosynthesis		1AN5
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_04350	COG0682	M	Prolipoprotein diacylglyceryltransferase	Lgt			5AZB
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_04355	COG1670	JO	Protein N-acetyltransferase, RimJ/RimL family	RimL			1S7F
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_04365	COG1957	F	Inosine-uridine nucleoside N-ribohydrolase	URH1	Pyrimidine salvage		1EZR
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_04370	COG0403	E	Glycine cleavage system protein P (pyridoxal-binding), N-terminal domain	GcvP1	Glycine cleavage		4LGL
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_04375	COG1225	O	Peroxiredoxin	Bcp			5IPH
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_04380	COG0076	E	Glutamate or tyrosine decarboxylase or a related PLP-dependent protein	GadA	Pantothenate/CoA biosynthesis		1XEY
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_04385	COG1038	C	Pyruvate carboxylase	PycA	Urea cycle		5VYW
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_04390	COG0354	O	Folate-binding protein YgfZ, synthesis and repair of Fe-S clusters	YgfZ		27941785;22081392	1NRK
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_04395	COG1249	C	Dihydrolipoamide dehydrogenase (E3) component of pyruvate/2-oxoglutarate dehydrogenase complex or glutathione oxidoreductase	Lpd	Glycine cleavagePyruvate oxidation		6QKG
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_04400	COG1249	C	Dihydrolipoamide dehydrogenase (E3) component of pyruvate/2-oxoglutarate dehydrogenase complex or glutathione oxidoreductase	Lpd	Glycine cleavagePyruvate oxidation		6QKG
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_04405	COG0024	J	Methionine aminopeptidase	Map			3J2I
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_04430	COG0760	O	Peptidyl-prolyl isomerase, parvulin family	SurA			2ZR5
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_04435	COG4221	C	NADP-dependent 3-hydroxy acid dehydrogenase YdfG	YdfG	Pyrimidine degradation		3P19
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_04440	COG1388	M	LysM repeat	LysM			1E0G
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_04445	COG0491	R	Glyoxylase or a related metal-dependent hydrolase, beta-lactamase superfamily II	GloB		25670698	1QH3
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_04450	COG2226	H	Ubiquinone/menaquinone biosynthesis C-methylase UbiE/MenG	UbiE	Biotin biosynthesis		4OBW
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_04455	COG0328	L	Ribonuclease HI	RnhA			1LAW
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_04460	COG0349	J	Ribonuclease D	Rnd		18821773	5C0Y
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_04465	COG1007	C	NADH:ubiquinone oxidoreductase subunit 2 (chain N)	NuoN	NADH dehydrogenase		4HE8
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_04475	COG0651	CP	Formate hydrogenlyase subunit 3/Multisubunit Na+/H+ antiporter, MnhD subunit	HyfB			6CFW
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_04480	COG4078	C	Energy-converting hydrogenase Eha subunit H	EhaH		19495416	
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_04485	COG1006	P	Multisubunit Na+/H+ antiporter, MnhC subunit	MnhC			6CFW
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_04490	COG2111	P	Multisubunit Na+/H+ antiporter, MnhB subunit	MnhB			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_04495	COG2111	P	Multisubunit Na+/H+ antiporter, MnhB subunit	MnhB			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_04500	COG1320	P	Multisubunit Na+/H+ antiporter, MnhG subunit	MnhG			6CFW
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_04505	COG2212	P	Multisubunit Na+/H+ antiporter, MnhF subunit	MnhF			6CFW
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_04520	COG2227	H	2-polyprenyl-3-methyl-5-hydroxy-6-metoxy-1,4-benzoquinol methylase	UbiG	Ubiquinone biosynthesis		1BHJ
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_04530	COG0697	GER	Permease of the drug/metabolite transporter (DMT) superfamily	RhaT			5I20
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_04535	COG5265	O	ABC-type transport system involved in Fe-S cluster assembly, permease and ATPase components	ATM1			4MRN
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_04550	COG4117	P	Thiosulfate reductase cytochrome b subunit	YdhU			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_04560	COG0725	P	ABC-type molybdate transport system, periplasmic Mo-binding protein ModA	ModA	Molybdopterin biosynthesis		1AMF
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_04565	COG4208	P	ABC-type sulfate transport system, permease component	CysW			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_04570	COG4604	P	ABC-type enterochelin transport system, ATPase component	CeuD			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_04575	COG2610	G	H+/gluconate symporter GntT or related permease, GntP/DsdX family	GntT			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_04580	COG1087	M	UDP-glucose 4-epimerase	GalE			1A9Y
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_04585	COG2188	K	DNA-binding transcriptional regulator, GntR family	MngR			2WV0
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_04590	COG1023	G	6-phosphogluconate dehydrogenase (decarboxylating)	YqeC			4E21
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_04595	COG3395	G	D-threonate/D-erythronate kinase OtnK and related C4-acid sugar kinases, YgbK/DUF1537 family	OtnK		27402745	1YZY
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_04605	COG1082	G	Sugar phosphate isomerase/epimerase	YcjR		30742415	3KTC
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_04625	COG0303	H	Molybdopterin Mo-transferase (molybdopterin biosynthesis)	MoeA	Molybdopterin biosynthesis	18801996;32239579	2NQU
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_04640	COG0120	G	Ribose 5-phosphate isomerase	RpiA	Pentose phosphate pathway		1KS2
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_04650	COG1473	R	Metal-dependent amidase/aminoacylase/carboxypeptidase	AbgB	Lysine biosynthesis	17307853	3RAM
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_04665	COG1266	O	Membrane protease YdiL, CAAX protease family	YdiL			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_04670	COG0640	K	DNA-binding transcriptional regulator, ArsR family	ArsR			3F6V
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_04680	COG1606	R	ATP-utilizing enzyme, PP-loop superfamily				6B2O
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_04685	COG2334	T	Ser/Thr protein kinase RdoA involved in Cpx stress response, MazF antagonist	SrkA	Threonine biosynthesis		1ZYL
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_04705	COG1064	G	D-arabinose 1-dehydrogenase, Zn-dependent alcohol dehydrogenase family	AdhP			5O8Q
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_04710	COG3288	C	NAD/NADP transhydrogenase alpha subunit	PntA			1F8G
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_04720	COG0494	V	8-oxo-dGTP pyrophosphatase MutT and related house-cleaning NTP pyrophosphohydrolases, NUDIX family	MutT			4V14
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_04725	COG1198	L	Primosomal protein N' (replication factor Y) - superfamily II helicase	PriA			6DCR
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_04730	COG0018	J	Arginyl-tRNA synthetase	ArgS	Aminoacyl-tRNA synthetases		1BS2
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_04735	COG3087	D	Cell division protein FtsN	FtsN			1UTA
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_04740	COG0210	L	Superfamily I DNA or RNA helicase	UvrD			6PPR
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_04750	COG0724	J	RNA recognition motif (RRM) domain	RRM			1HL6
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_04760	COG2942	G	Mannose or cellobiose epimerase, N-acyl-D-glucosamine 2-epimerase family	YihS			2ZBL
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_04765	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_04770	COG4992	E	Acetylornithine/succinyldiaminopimelate/putrescine aminotransferase	ArgD	Arginine biosynthesis		2E54
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_04785	COG2204	T	DNA-binding transcriptional response regulator, NtrC family, contains REC, AAA-type ATPase, and a Fis-type DNA-binding domains	AtoC			1ZY2
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_04790	COG5002	T	Sensor histidine kinase WalK	WalK			4I5S
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_04800	COG1228	Q	Imidazolonepropionase or related amidohydrolase	HutI			3OOQ
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_04805	COG4977	K	Transcriptional regulator GlxA, contains an amidase domain and an AraC-type DNA-binding HTH domain	GlxA			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_04810	COG1012	I	Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase	AdhE	Proline degradation		1A4S
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_04825	COG0814	E	Amino acid permease	SdaC			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_04835	COG1249	C	Dihydrolipoamide dehydrogenase (E3) component of pyruvate/2-oxoglutarate dehydrogenase complex or glutathione oxidoreductase	Lpd	Glycine cleavagePyruvate oxidation		6QKG
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_04840	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_04845	COG0591	E	Na+/proline symporter	PutP			5NVA
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_04855	COG1012	I	Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase	AdhE	Proline degradation		1A4S
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_04860	COG2207	K	AraC-type DNA-binding domain and AraC-containing proteins	AraC			1BL0
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_04870	COG0384	R	Predicted epimerase YddE/YHI9, PhzF superfamily	YHI9		24914732	1SDJ
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_04875	COG0855	P	Polyphosphate kinase	Ppk			1XDO
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_04890	COG0596	HR	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold	MenH	Menaquinone biosynthesis		4MYS
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_04895	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_04910	COG0004	P	Ammonia channel protein AmtB	AmtB			1U77
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_04915	COG0004	P	Ammonia channel protein AmtB	AmtB			1U77
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_04930	COG0606	O	Predicted Mg-chelatase, contains ChlI-like and ATPase domains, YifB family	YifB			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_04945	COG0210	L	Superfamily I DNA or RNA helicase	UvrD			6PPR
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_04955	COG2057	I	Acyl-CoA:acetate/3-ketoacid CoA transferase, beta subunit	AtoA			5DBN
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_04960	COG1788	I	Acyl CoA:acetate/3-ketoacid CoA transferase, alpha subunit	AtoD			1K6D
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_04975	COG2025	C	Electron transfer flavoprotein, alpha subunit FixB	FixB			1EFP
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_04980	COG2086	C	Electron transfer flavoprotein, alpha and beta subunits	FixA			5OL2
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_04985	COG2440	C	Ferredoxin-like protein FixX	FixX			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_04990	COG0623	I	Enoyl-[acyl-carrier-protein] reductase FabI	FabI	Fatty acid biosynthesis		1C14
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_04995	COG4177	E	ABC-type branched-chain amino acid transport system, permease component	LivM			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_05000	COG0559	E	Branched-chain amino acid ABC-type transport system, permease component	LivH			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_05020	COG2271	G	Sugar phosphate permease	UhpC			1PW4
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_05030	COG0477	GEPR	MFS family permease, includes anhydromuropeptide permease AmpG	ProP		12426329	
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_05035	COG0351	H	Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase	ThiD	Thiamine biosynthesis	17351295	1Y9X
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_05040	COG1794	M	Amino acid racemase YgeA	RacX			5ELL
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_05045	COG1038	C	Pyruvate carboxylase	PycA	Urea cycle		5VYW
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_05050	COG1804	I	Crotonobetainyl-CoA:carnitine CoA-transferase CaiB and related acyl-CoA transferases	CaiB			1P5H
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_05075	COG1722	L	Exonuclease VII small subunit	XseB			1VP7
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_05090	COG1010	H	Precorrin-3B methylase	CobJ	Cobalamine/B12 biosynthesis		2ZVB
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_05095	COG0730	P	Sulfite exporter TauE/SafE/YfcA and related permeases, UPF0721 family	TauE		21183667;22797525	
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_05105	COG0172	J	Seryl-tRNA synthetase	SerS	Aminoacyl-tRNA synthetases		1SER
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_05110	COG5002	T	Sensor histidine kinase WalK	WalK			4I5S
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_05115	COG4566	TK	DNA-binding response regulator, FixJ family, consists of REC and HTH domains	FixJ			1YIO
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_05125	COG1011	H	FMN and 5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YigB, HAD superfamily (riboflavin biosynthesis)	YigB		24123841	4JB3
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_05130	COG2812	L	DNA polymerase III, gamma/tau subunits	DnaX			1A5T
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_05135	COG5652	S	VanZ-like family protein (function unknown)	VanZ			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_05140	COG3900	S	Predicted periplasmic protein				
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_05145	COG1674	D	DNA segregation ATPase FtsK/SpoIIIE or related protein	FtsK			2IUT
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_05160	COG2360	O	Leu/Phe-tRNA-protein transferase	Aat			2CXA
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_05170	COG4969	NW	Type IV pilus assembly protein, major pilin PilA	PilA			1AY2
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_05175	COG0659	P	Sulfate permease or related transporter, MFS superfamily	SUL1			3NY7
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_05185	COG1055	P	Na+/H+ antiporter NhaD or related arsenite permease	ArsB			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_05190	COG0847	L	DNA polymerase III, epsilon subunit or related 3'-5' exonuclease	DnaQ			1J53
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_05200	COG0739	M	Murein DD-endopeptidase MepM and murein hydrolase activator NlpD, contains LysM domain	NlpD			2GU1
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_05210	COG2252	F	Xanthine/guanine/uracil/vitamin C permease GhxP/GhxQ, nucleobase:cation symporter 2 ( NCS2) family	NCS2		24169576;24214977	
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_05215	COG0288	P	Carbonic anhydrase	CynT		22081392	1EKJ
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_05220	COG1670	JO	Protein N-acetyltransferase, RimJ/RimL family	RimL			1S7F
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_05225	COG0697	GER	Permease of the drug/metabolite transporter (DMT) superfamily	RhaT			5I20
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_05230	COG3539	N	Pilin (type 1 fimbrial protein)	FimA			2M5G
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_05235	COG3121	W	P pilus assembly protein, chaperone PapD	FimC			1BF8
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_05240	COG3188	NW	Outer membrane usher protein FimD/PapC	FimD			2KT6
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_05245	COG3539	N	Pilin (type 1 fimbrial protein)	FimA			2M5G
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_05250	COG3386	G	Sugar lactone lactonase YvrE	YvrE	Non-phosphorylated Entner-Doudoroff pathway		1E1A
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_05260	COG0624	E	Acetylornithine deacetylase/Succinyl-diaminopimelate desuccinylase or related deacylase	ArgE	Arginine biosynthesis		1CG2
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_05265	COG2070	R	NAD(P)H-dependent flavin oxidoreductase YrpB, nitropropane dioxygenase family	YrpB			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_05275	COG0693	V	Protein/nucleotide deglycase, PfpI/YajL/DJ-1 family (repair of methylglyoxal-glycated proteins and nucleic acids)	YajL		19028889;28596309;26678554	5SY4
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_05280	COG1902	C	2,4-dienoyl-CoA reductase or related NADH-dependent reductase, Old Yellow Enzyme (OYE) family	FadH			1BWK
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_05290	COG1902	C	2,4-dienoyl-CoA reductase or related NADH-dependent reductase, Old Yellow Enzyme (OYE) family	FadH			1BWK
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_05295	COG4973	L	Site-specific recombinase XerC	XerC			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_05300	COG4977	K	Transcriptional regulator GlxA, contains an amidase domain and an AraC-type DNA-binding HTH domain	GlxA			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_05305	COG0477	GEPR	MFS family permease, includes anhydromuropeptide permease AmpG	ProP		12426329	
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_05310	COG2164	R	Uncharacterized protein with cyclophilin fold, contains DUF369 domain				2KA0
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_05315	COG1917	R	Cupin domain protein related to quercetin dioxygenase	QdoI			2H0V
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_05320	COG1917	R	Cupin domain protein related to quercetin dioxygenase	QdoI			2H0V
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_05325	COG0623	I	Enoyl-[acyl-carrier-protein] reductase FabI	FabI	Fatty acid biosynthesis		1C14
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_05335	COG1961	L	Site-specific DNA recombinase SpoIVCA/DNA invertase PinE	SpoIVCA			1GDT
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_05340	COG4374	V	PIN domain nuclease, a component of toxin-antitoxin system (PIN domain)				
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_05355	COG2856	O	Zn-dependent peptidase ImmA, M78 family	ImmA			3DTE
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_05360	COG1396	K	Transcriptional regulator, contains XRE-family HTH domain	HipB			1ADR
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_05375	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_05385	COG3616	E	D-serine deaminase, pyridoxal phosphate-dependent	Dsd1			3ANU
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_05390	COG0630	NU	Type IV secretory pathway ATPase VirB11/Archaellum biosynthesis ATPase ArlI/FlaI	VirB11		32416640	1G6O
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_05395	COG0630	NU	Type IV secretory pathway ATPase VirB11/Archaellum biosynthesis ATPase ArlI/FlaI	VirB11		32416640	1G6O
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_05405	COG1181	MR	D-alanine-D-alanine ligase or related ATP-grasp enzyme	DdlA	Mureine biosynthesis		1E4E
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_05410	COG2988	E	Succinylglutamate desuccinylase	AstE			1YW4
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_05415	COG0540	F	Aspartate carbamoyltransferase, catalytic subunit	PyrB	Pyrimidine biosynthesis		1NBE
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_05420	COG2236	H	Hypoxanthine phosphoribosyltransferase	Hpt1	Purine salvage		2JKZ
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_05430	COG1678	K	Putative transcriptional regulator, AlgH/UPF0301 family	AlgH			2AJ2
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_05435	COG0189	EHJQ	Glutathione synthase, LysX or RimK-type ligase, ATP-grasp superfamily	LysX	Lysine biosynthesis		1GLV
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_05440	COG1385	J	16S rRNA U1498 N3-methylase RsmE	RsmE	16S rRNA modification		1NXZ
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_05445	COG2153	R	Predicted N-acyltransferase, GNAT family	ElaA			1XEB
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_05450	COG1473	R	Metal-dependent amidase/aminoacylase/carboxypeptidase	AbgB	Lysine biosynthesis	17307853	3RAM
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_05465	COG1266	O	Membrane protease YdiL, CAAX protease family	YdiL			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_05475	COG1960	I	Acyl-CoA dehydrogenase related to the alkylation response protein AidB	CaiA	Fatty acid biosynthesis		1BUC
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_05480	COG0365	I	Acyl-coenzyme A synthetase/AMP-(fatty) acid ligase	Acs		14638756	4B2O
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_05485	COG0683	E	ABC-type branched-chain amino acid transport system, periplasmic component	LivK			1USG
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_05490	COG4177	E	ABC-type branched-chain amino acid transport system, permease component	LivM			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_05495	COG0559	E	Branched-chain amino acid ABC-type transport system, permease component	LivH			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_05500	COG4525	P	ABC-type taurine transport system, ATPase component	TauB			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_05505	COG0488	R	ATPase components of ABC transporters with duplicated ATPase domains	Uup			5ZXD
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_05510	COG1309	K	DNA-binding protein, AcrR family, includes nucleoid occlusion protein SlmA	AcrR			2QOP
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_05525	COG3040	M	Bacterial lipocalin Blc	Blc			1QWD
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_05575	COG1304	CIR	FMN-dependent dehydrogenase, includes L-lactate dehydrogenase and type II isopentenyl diphosphate isomerase	LldD	Isoprenoid biosynthesis		6AI7
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_05580	COG0447	H	1,4-Dihydroxy-2-naphthoyl-CoA synthase	MenB	Menaquinone biosynthesis		4ELS
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_05590	COG1063	ER	Threonine dehydrogenase or related Zn-dependent dehydrogenase	Tdh	Non-phosphorylated Entner-Doudoroff pathway		4A2C
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_05595	COG0123	Q	Acetoin utilization deacetylase AcuC or a related deacetylase	AcuC			1C3P
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_05600	COG3393	R	Predicted acetyltransferase, GNAT family				
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_05605	COG2176	L	DNA polymerase III, alpha subunit (gram-positive type)	PolC			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_05610	COG0415	L	Deoxyribodipyrimidine photolyase	PhrB			1TEZ
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_05615	COG1846	K	DNA-binding transcriptional regulator, MarR family	MarR			1JGS
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_05635	COG4942	D	Septal ring factor EnvC, activator of murein hydrolases AmiA and AmiB	EnvC			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_05645	COG0790	R	TPR repeat	TPR			1KLX
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_05650	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_05655	COG1047	O	Peptidyl-prolyl cis-trans isomerase, FKBP type	SlpA			2M2A
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_05665	COG2814	G	Predicted arabinose efflux permease AraJ, MFS family	AraJ			4LDS
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_05675	COG1804	I	Crotonobetainyl-CoA:carnitine CoA-transferase CaiB and related acyl-CoA transferases	CaiB			1P5H
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_05690	COG2205	T	K+-sensing histidine kinase KdpD	KdpD			2KSF
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_05695	COG4753	TK	Two-component response regulator, YesN/AraC family, consists of REC and AraC-type DNA-binding domains	YesN			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_05705	COG5622	M	Protein required for attachment to host cells				
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_05710	COG3753	S	Uncharacterized conserved protein YidB, DUF937 family	YidB			1Z67
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_05715	COG1648	H	Siroheme synthase (precorrin-2 oxidase/ferrochelatase domain)	CysG2	Heme biosynthesis		1PJQ
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_05725	COG2982	M	Uncharacterized conserved protein AsmA involved in outer membrane biogenesis	AsmA			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_05730	COG0231	J	Translation elongation factor P (EF-P)/translation initiation factor 5A (eIF-5A)	Efp	Translation factors		1UEB
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_05740	COG0688	I	Phosphatidylserine decarboxylase	Psd	Phospholipid biosynthesis		6L06
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_05745	COG2813	J	16S rRNA G1207 methylase RsmC	RsmC	16S rRNA modification		1DUS
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_05750	COG0082	E	Chorismate synthase	AroC	Aromatic amino acid biosynthesis		1Q1L
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_05755	COG5010	UW	Flp pilus assembly protein TadD, contains TPR repeats	TadD			3WXX
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_05765	COG0065	E	Homoaconitase/3-isopropylmalate dehydratase large subunit	LeuC	Isoleucine, leucine, valine biosynthesis		4KP1
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_05770	COG4106	C	Trans-aconitate methyltransferase	Tam			2P35
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_05775	COG0066	E	3-isopropylmalate dehydratase small subunit	LeuD	Isoleucine, leucine, valine biosynthesis		3Q3W
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_05780	COG0473	CE	Isocitrate/isopropylmalate dehydrogenase	LeuB	TCA cycle		1GC9
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_05790	COG0101	J	tRNA U38,U39,U40 pseudouridine synthase TruA	TruA	tRNA modification		1DJ0
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_05795	COG0135	E	Phosphoribosylanthranilate isomerase	TrpF	Aromatic amino acid biosynthesis		1DL3
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_05800	COG1171	E	Threonine deaminase	IlvA	Isoleucine, leucine, valine biosynthesis		3IAU
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_05805	COG0159	E	Tryptophan synthase alpha chain	TrpA	Aromatic amino acid biosynthesis		6HUL
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_05810	COG4799	I	Acetyl-CoA carboxylase, carboxyltransferase component	MmdA			1OD2
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_05815	COG0771	M	UDP-N-acetylmuramoylalanine-D-glutamate ligase	MurD	Mureine biosynthesis		1E0D
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_05825	COG1286	FM	Colicin V production accessory protein CvpA, regulator of purF expression and biofilm formation	CvpA		27795353	
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_05830	COG0449	M	Glucosamine 6-phosphate synthetase, contains amidotransferase and phosphosugar isomerase domains	GlmS			2J6H
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_05835	COG0436	E	Aspartate/methionine/tyrosine aminotransferase	AspB	Isoleucine, leucine, valine biosynthesis		2O0R
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_05840	COG0548	E	N-acetylglutamate kinase	ArgB	Arginine biosynthesis		3S6G
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_05845	COG0856	F	Orotate phosphoribosyltransferase homolog	PyrE2			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_05850	COG3568	R	Metal-dependent hydrolase, endonuclease/exonuclease/phosphatase family	ElsH		15178340	
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_05865	COG0142	H	Geranylgeranyl pyrophosphate synthase	IspA	Isoprenoid biosynthesis		2AZJ
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_05880	COG1033	R	Predicted exporter protein, RND superfamily	MMPL			5KHN
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_05885	COG1183	I	Phosphatidylserine synthase	PssA			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_05890	COG1088	M	dTDP-D-glucose 4,6-dehydratase	RfbB			1G1A
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_05915	COG1208	JM	NDP-sugar pyrophosphorylase, includes eIF-2Bgamma, eIF-2Bepsilon, and LPS biosynthesis protein s	GCD1			6JQ8
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_05920	COG1208	JM	NDP-sugar pyrophosphorylase, includes eIF-2Bgamma, eIF-2Bepsilon, and LPS biosynthesis protein s	GCD1			6JQ8
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_05925	COG4032	H	Sulfopyruvate decarboxylase, TPP-binding subunit (coenzyme M biosynthesis)				
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_05930	COG1104	E	Cysteine desulfurase/Cysteine sulfinate desulfinase IscS or related enzyme, NifS family	NifS		22773787;25825430	4IXO
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_05935	COG2896	H	GTP 3',8-cyclase (molybdenum cofactor biosynthesis protein MoaA)	MoaA	Molybdopterin biosynthesis		1TV7
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_05940	COG1215	N	Glycosyltransferase, catalytic subunit of cellulose synthase and poly-beta-1,6-N-acetylglucosamine synthase	BcsA			4HG6
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_05945	COG2854	M	Periplasmic subunit MlaC of the ABC-type intermembrane phospholipid transporter Mla	MlaC		19383799	2QGU
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_05950	COG0494	V	8-oxo-dGTP pyrophosphatase MutT and related house-cleaning NTP pyrophosphohydrolases, NUDIX family	MutT			4V14
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_05955	COG0153	G	Galactokinase	GalK			1PIE
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_05960	COG1577	I	Mevalonate kinase	ERG12	Isoprenoid biosynthesis		
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_05965	COG1685	E	Archaeal shikimate kinase	AroK2	Aromatic amino acid biosynthesis		
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_05970	COG0332	I	3-oxoacyl-[acyl-carrier-protein] synthase III	FabH	Fatty acid biosynthesis		1UB7
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_05975	COG1453	R	Predicted oxidoreductase of the aldo/keto reductase family				
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_05980	COG4663	Q	TRAP-type mannitol/chloroaromatic compound transport system, periplasmic component	FcbT1			2HZK
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_05985	COG1593	G	TRAP-type C4-dicarboxylate transport system, large permease component	DctQ			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_05990	COG3090	G	TRAP-type C4-dicarboxylate transport system, small permease component YiaM	DctM			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_05995	COG0220	J	tRNA G46 N7-methylase TrmB	TrmB	tRNA modification	19373903;16600901	1YZH
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_06000	COG2104	H	Sulfur carrier protein ThiS (thiamine biosynthesis)	ThiS	Thiamine biosynthesis		1F0Z
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_06010	COG2867	J	Ribosome association toxin PasT (RatA) of the RatAB toxin-antitoxin module	PasT		21323758	1T17
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_06015	COG1194	L	Adenine-specific DNA glycosylase, acts on AG and A-oxoG pairs	MutY			1KG2
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_06045	COG4778	P	Alpha-D-ribose 1-methylphosphonate 5-triphosphate synthase subunit PhnL	PhnL			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_06050	COG0600	P	ABC-type nitrate/sulfonate/bicarbonate transport system, permease component	TauC			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_06055	COG2113	E	ABC-type proline/glycine betaine transport system, periplasmic component	ProX			1R9L
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_06060	COG2814	G	Predicted arabinose efflux permease AraJ, MFS family	AraJ			4LDS
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_06065	COG1129	G	ABC-type sugar transport system, ATPase component	MglA			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_06070	COG3040	M	Bacterial lipocalin Blc	Blc			1QWD
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_06075	COG1115	E	Na+/alanine symporter	AlsT			6CSE
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_06080	COG1593	G	TRAP-type C4-dicarboxylate transport system, large permease component	DctQ			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_06085	COG1233	Q	Phytoene dehydrogenase-related protein				4REP
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_06095	COG3409	M	Peptidoglycan-binding (PGRP) domain of peptidoglycan hydrolases	PGRP			4FET
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_06100	COG0667	HR	Pyridoxal reductase PdxI or related oxidoreductase, aldo/keto reductase family	PdxI		32253339	1LQA
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_06105	COG3932	M	Exopolysaccharide synthesis protein ExoD	ExoD		1987158	
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_06115	COG0786	E	Na+/glutamate symporter	GltS			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_06120	COG2353	R	Polyisoprenoid-binding periplasmic protein YceI	YceI		15741337;20236316	1WUB
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_06125	COG1116	P	ABC-type nitrate/sulfonate/bicarbonate transport system, ATPase component	TauB			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_06130	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_06135	COG0607	P	Rhodanese-related sulfurtransferase	PspE	Urea cycle		1TQ1
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_06140	COG0701	S	Uncharacterized membrane protein YraQ, UPF0718 family	YraQ			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_06145	COG2814	G	Predicted arabinose efflux permease AraJ, MFS family	AraJ			4LDS
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_06155	COG1966	CE	Carbon starvation protein CstA (peptide/pyruvate transporter)	CstA		26497384;29358499	
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_06175	COG2130	QR	NADPH-dependent curcumin reductase CurA	CurA		21467222	1V3T
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_06200	COG1235	P	Phosphoribosyl 1,2-cyclic phosphate phosphodiesterase	PhnP			6B9V
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_06215	COG1520	M	Outer membrane protein assembly factor BamB, contains PQQ-like beta-propeller repeat	PQQ			6TJG
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_06230	COG3827	D	Cell pole-organizing protein PopZ	PopZ			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_06235	COG2130	QR	NADPH-dependent curcumin reductase CurA	CurA		21467222	1V3T
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_06240	COG0252	JE	L-asparaginase/archaeal Glu-tRNAGln amidotransferase subunit D	AnsA			1ZQ1
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_06245	COG0728	M	Lipid II flippase MurJ/MviN (peptidoglycan biosynthesis)	MurJ		25013077	5T77
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_06280	COG0582	LX	Integrase/recombinase, includes phage integrase	FimB			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_06285	COG2802	S	Uncharacterized conserved protein, LON_N-like domain, ASCH/PUA-like superfamily	LON/PUA			1ZBO
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_06290	COG1219	O	ATP-dependent protease Clp, ATPase subunit ClpX	ClpX			3HTE
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_06295	COG0616	O	Periplasmic serine protease, ClpP class	SppA			3BEZ
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_06300	COG0544	O	FKBP-type peptidyl-prolyl cis-trans isomerase (trigger factor)	Tig			5OWI
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_06305	COG1453	R	Predicted oxidoreductase of the aldo/keto reductase family				
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_06325	COG1012	I	Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase	AdhE	Proline degradation		1A4S
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_06335	COG2878	C	Na+-translocating ferredoxin:NAD+ oxidoreductase RNF, RnfB subunit	RnfB	Na+-translocating Fd:NADH oxidoreductase	24045950	
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_06340	COG2221	P	Dissimilatory sulfite reductase (desulfoviridin), alpha and beta subunits	DsrA			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_06345	COG1029	C	Formylmethanofuran dehydrogenase subunit B	FwdB			5T5I
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_06350	COG0493	ER	NADPH-dependent glutamate synthase beta chain or related oxidoreductase	GltD	Glutamine biosynthesis		1H7X
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_06360	COG2271	G	Sugar phosphate permease	UhpC			1PW4
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_06365	COG2113	E	ABC-type proline/glycine betaine transport system, periplasmic component	ProX			1R9L
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_06370	COG4176	E	ABC-type proline/glycine betaine transport system, permease component	ProW			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_06375	COG4176	E	ABC-type proline/glycine betaine transport system, permease component	ProW			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_06380	COG4778	P	Alpha-D-ribose 1-methylphosphonate 5-triphosphate synthase subunit PhnL	PhnL			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_06390	COG0103	J	Ribosomal protein S9	RpsI	Ribosome 30S subunit		4V4H
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_06395	COG0102	J	Ribosomal protein L13	RplM	Ribosome 50S subunit		1VS6
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_06400	COG0778	C	Nitroreductase	NfnB	Pyrimidine degradation		1F5V
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_06405	COG2980	M	Outer membrane lipoprotein LptE/RlpB (LPS assembly)	LptE			2JXP
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_06410	COG0215	J	Cysteinyl-tRNA synthetase	CysS	Aminoacyl-tRNA synthetases		1LI5
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_06415	COG0815	M	Apolipoprotein N-acyltransferase	Lnt			6NWR
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_06420	COG0517	T	CBS domain	CBS			1B3O
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_06425	COG0319	J	ssRNA-specific RNase YbeY, 16S rRNA maturation enzyme	YbeY	16S rRNA modification	17407324;23543739	1XM5
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_06430	COG1702	T	Phosphate starvation-inducible protein PhoH, predicted ATPase	PhoH		8444794;12762842	3B85
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_06435	COG1032	R	Radical SAM superfamily enzyme YgiQ, UPF0313 family	YgiQ			6FD2
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_06440	COG1784	R	TctA family transporter			14499931	
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_06455	COG2204	T	DNA-binding transcriptional response regulator, NtrC family, contains REC, AAA-type ATPase, and a Fis-type DNA-binding domains	AtoC			1ZY2
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_06460	COG2205	T	K+-sensing histidine kinase KdpD	KdpD			2KSF
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_06465	COG1840	P	ABC-type Fe3+ transport system, periplasmic component	AfuA			6IVY
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_06475	COG3453	R	Predicted phosphohydrolase, protein tyrosine phosphatase (PTP) superfamily, DUF442 family				2F46
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_06480	COG0526	O	Thiol-disulfide isomerase or thioredoxin	TrxA			1XFL
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_06490	COG2814	G	Predicted arabinose efflux permease AraJ, MFS family	AraJ			4LDS
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_06495	COG0178	L	Excinuclease UvrABC ATPase subunit	UvrA			2R6F
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_06500	COG4302	E	Ethanolamine ammonia-lyase, small subunit	EutC			5YSN
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_06510	COG1012	I	Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase	AdhE	Proline degradation		1A4S
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_06515	COG4977	K	Transcriptional regulator GlxA, contains an amidase domain and an AraC-type DNA-binding HTH domain	GlxA			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_06520	COG1228	Q	Imidazolonepropionase or related amidohydrolase	HutI			3OOQ
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_06530	COG5002	T	Sensor histidine kinase WalK	WalK			4I5S
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_06535	COG2204	T	DNA-binding transcriptional response regulator, NtrC family, contains REC, AAA-type ATPase, and a Fis-type DNA-binding domains	AtoC			1ZY2
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_06550	COG4992	E	Acetylornithine/succinyldiaminopimelate/putrescine aminotransferase	ArgD	Arginine biosynthesis		2E54
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_06555	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_06570	COG1230	P	Co/Zn/Cd efflux system component	CzcD			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_06585	COG2814	G	Predicted arabinose efflux permease AraJ, MFS family	AraJ			4LDS
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_06605	COG3203	M	Outer membrane porin OmpC/OmpF/PhoE	OmpC			1PHO
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_06610	COG0667	HR	Pyridoxal reductase PdxI or related oxidoreductase, aldo/keto reductase family	PdxI		32253339	1LQA
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_06620	COG3536	S	Uncharacterized conserved protein, DUF971 family				2L6N
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_06625	COG1220	O	ATP-dependent protease HslVU (ClpYQ), ATPase subunit HslU	HslU			1DO0
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_06630	COG0638	O	20S proteasome, alpha and beta subunits	PRE1			1FNT
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_06635	COG0582	LX	Integrase/recombinase, includes phage integrase	FimB			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_06645	COG0253	E	Diaminopimelate epimerase	DapF	Lysine biosynthesis		1BWZ
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_06650	COG2847	P	Copper(I)-binding protein				1X9L
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_06665	COG2226	H	Ubiquinone/menaquinone biosynthesis C-methylase UbiE/MenG	UbiE	Biotin biosynthesis		4OBW
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_06670	COG1388	M	LysM repeat	LysM			1E0G
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_06690	COG3260	C	Ni,Fe-hydrogenase III small subunit	HycG			6CFW
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_06710	COG1007	C	NADH:ubiquinone oxidoreductase subunit 2 (chain N)	NuoN	NADH dehydrogenase		4HE8
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_06715	COG0651	CP	Formate hydrogenlyase subunit 3/Multisubunit Na+/H+ antiporter, MnhD subunit	HyfB			6CFW
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_06720	COG1009	C	Membrane H+-translocase/NADH:ubiquinone oxidoreductase subunit 5 (chain L)/Multisubunit Na+/H+ antiporter, MnhA subunit	NuoL	NADH dehydrogenase		3RKO
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_06725	COG0667	HR	Pyridoxal reductase PdxI or related oxidoreductase, aldo/keto reductase family	PdxI		32253339	1LQA
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_06730	COG0789	K	DNA-binding transcriptional regulator, MerR family	SoxR			2VZ4
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_06735	COG0815	M	Apolipoprotein N-acyltransferase	Lnt			6NWR
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_06740	COG0053	P	Divalent metal cation (Fe/Co/Zn/Cd) efflux pump	FieF			2QFI
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_06765	COG1670	JO	Protein N-acetyltransferase, RimJ/RimL family	RimL			1S7F
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_06775	COG1104	E	Cysteine desulfurase/Cysteine sulfinate desulfinase IscS or related enzyme, NifS family	NifS		22773787;25825430	4IXO
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_06780	COG4771	P	Outer membrane receptor for ferrienterochelin and colicins	FepA		16468998	2HDF
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_06785	COG1946	I	Acyl-CoA thioesterase	TesB			1C8U
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_06790	COG1011	H	FMN and 5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YigB, HAD superfamily (riboflavin biosynthesis)	YigB		24123841	4JB3
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_06795	COG1053	C	Succinate dehydrogenase/fumarate reductase, flavoprotein subunit	SdhA	TCA cycle		1KF6
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_06805	COG1387	ER	Histidinol phosphatase or related hydrolase of the PHP family	HIS2	Histidine biosynthesis		1M65
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_06815	COG1291	N	Flagellar motor component MotA	MotA			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_06830	COG2186	K	DNA-binding transcriptional regulator, FadR family	FadR			1E2X
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_06845	COG1457	F	Purine-cytosine permease or related protein	CodB			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_06860	COG1020	Q	EntF, seryl-AMP synthase component  of non-ribosomal peptide synthetase	EntF			5ES5
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_06865	COG0833	E	Amino acid permease	LysP			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_06875	COG1560	I	Palmitoleoyl-ACP: Kdo2-lipid-IV acyltransferase (lipid A biosynthesis)	LpxP	Lipid A biosynthesis	11830595	5F2T
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_06880	COG1488	H	Nicotinic acid phosphoribosyltransferase	PncB	NAD biosynthesis		1VLP
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_06890	COG0422	H	4-amino-2-methyl-5-hydroxymethylpyrimidine (HMP) synthase ThiC	ThiC	Thiamine biosynthesis	15326535	3EPN
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_06900	COG0123	Q	Acetoin utilization deacetylase AcuC or a related deacetylase	AcuC			1C3P
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_06925	COG4558	P	ABC-type hemin transport system, periplasmic component	ChuT			3MD9
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_06930	COG0436	E	Aspartate/methionine/tyrosine aminotransferase	AspB	Isoleucine, leucine, valine biosynthesis		2O0R
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_06935	COG1270	H	Cobalamin biosynthesis protein CobD/CbiB	CbiB	Cobalamine/B12 biosynthesis		
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_06940	COG0368	H	Cobalamin synthase CobS (adenosylcobinamide-GDP ribazoletransferase)	CobS	Cobalamine/B12 biosynthesis	31481610	
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_06945	COG0588	G	Phosphoglycerate mutase (BPG-dependent)	GpmA	Glycolysis		1E58
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_06955	COG2038	H	NaMN:DMB phosphoribosyltransferase	CobT	Cobalamine/B12 biosynthesis		1D0S
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_06960	COG2087	H	Adenosyl cobinamide kinase/adenosyl cobinamide phosphate guanylyltransferase	CobU	Cobalamine/B12 biosynthesis		1C9K
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_06965	COG3842	E	ABC-type Fe3+/spermidine/putrescine transport systems, ATPase component	PotA			1Z47
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_06970	COG4606	P	ABC-type enterochelin transport system, permease component	CeuB			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_06975	COG1492	H	Cobyric acid synthase	CobQ	Cobalamine/B12 biosynthesis		
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_06980	COG2109	H	ATP:corrinoid adenosyltransferase	BtuR	Cobalamine/B12 biosynthesis		4HUT
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_06985	COG4773	P	Outer membrane receptor for ferric coprogen and ferric-rhodotorulic acid	FhuE			3EFM
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_06990	COG0646	E	Methionine synthase I (cobalamin-dependent), methyltransferase domain	MetH1	Methionine biosynthesis		1LT7
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_07005	COG0447	H	1,4-Dihydroxy-2-naphthoyl-CoA synthase	MenB	Menaquinone biosynthesis		4ELS
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_07015	COG0656	Q	Aldo/keto reductase, related to diketogulonate reductase	ARA1			1Q13
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_07025	COG1291	N	Flagellar motor component MotA	MotA			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_07035	COG0848	U	Biopolymer transport protein ExbD	ExbD			2JWK
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_07045	COG4783	MO	Outer membrane protein chaperone/metalloprotease BepA/YfgC, contains M48 and TPR domains	BepA		24003122	6AIT
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_07075	COG0167	F	Dihydroorotate dehydrogenase	PyrD	Pyrimidine biosynthesis		1GT8
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_07085	COG1607	I	Acyl-CoA hydrolase	YciA			5DM5
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_07100	COG1164	E	Oligoendopeptidase F	PepF			3CE2
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_07105	COG0673	R	Predicted dehydrogenase	MviM			3UUW
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_07110	COG0297	G	Glycogen synthase	GlgA			1RZU
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_07115	COG1408	R	Predicted phosphohydrolase, MPP superfamily	YaeI			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_07125	COG1087	M	UDP-glucose 4-epimerase	GalE			1A9Y
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_07140	COG3706	TK	Two-component response regulator, PleD family, consists of two REC domains and a diguanylate cyclase (GGDEF) domain	PleD			1W25
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_07145	COG0662	G	Mannose-6-phosphate isomerase, cupin superfamily	ManC			1IPJ
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_07150	COG0534	V	Na+-driven multidrug efflux pump, DinF/NorM/MATE family	NorM		29915058	3VVN
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_07165	COG5596
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_07170	COG4221	C	NADP-dependent 3-hydroxy acid dehydrogenase YdfG	YdfG	Pyrimidine degradation		3P19
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_07175	COG1281	O	Redox-regulated molecular chaperone, HSP33 family	HslO			1HW7
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_07185	COG0847	L	DNA polymerase III, epsilon subunit or related 3'-5' exonuclease	DnaQ			1J53
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_07195	COG0739	M	Murein DD-endopeptidase MepM and murein hydrolase activator NlpD, contains LysM domain	NlpD			2GU1
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_07205	COG2252	F	Xanthine/guanine/uracil/vitamin C permease GhxP/GhxQ, nucleobase:cation symporter 2 ( NCS2) family	NCS2		24169576;24214977	
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_07210	COG0288	P	Carbonic anhydrase	CynT		22081392	1EKJ
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_07215	COG1670	JO	Protein N-acetyltransferase, RimJ/RimL family	RimL			1S7F
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_07220	COG0697	GER	Permease of the drug/metabolite transporter (DMT) superfamily	RhaT			5I20
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_07225	COG3539	N	Pilin (type 1 fimbrial protein)	FimA			2M5G
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_07230	COG3121	W	P pilus assembly protein, chaperone PapD	FimC			1BF8
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_07235	COG3188	NW	Outer membrane usher protein FimD/PapC	FimD			2KT6
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_07240	COG3539	N	Pilin (type 1 fimbrial protein)	FimA			2M5G
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_07250	COG3386	G	Sugar lactone lactonase YvrE	YvrE	Non-phosphorylated Entner-Doudoroff pathway		1E1A
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_07260	COG0624	E	Acetylornithine deacetylase/Succinyl-diaminopimelate desuccinylase or related deacylase	ArgE	Arginine biosynthesis		1CG2
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_07265	COG0583	K	DNA-binding transcriptional regulator, LysR family	LysR			2FYI
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_07270	COG1254	C	Acylphosphatase	AcyP			1APS
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_07280	COG2863	C	Cytochrome c553	CytC553			6Q2U
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_07300	COG0204	I	1-acyl-sn-glycerol-3-phosphate acyltransferase	PlsC	Phospholipid biosynthesis		1IUQ
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_07305	COG1087	M	UDP-glucose 4-epimerase	GalE			1A9Y
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_07315	COG0478	T	RIO-like serine/threonine protein kinase fused to N-terminal HTH domain	RIO2			1TQI
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_07320	COG0204	I	1-acyl-sn-glycerol-3-phosphate acyltransferase	PlsC	Phospholipid biosynthesis		1IUQ
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_07330	COG1030	O	Membrane-bound serine protease NfeD, ClpP class	NfeD			2DEO
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_07340	COG2205	T	K+-sensing histidine kinase KdpD	KdpD			2KSF
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_07345	COG0784	T	CheY-like REC (receiver) domain, includes chemotaxis protein CheY  and sporulation regulator Spo0F	CheY			6QRJ
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_07355	COG2823	M	Osmotically-inducible protein OsmY, contains BON domain	OsmY		12878000	
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_07360	COG0134	E	Indole-3-glycerol phosphate synthase	TrpC	Aromatic amino acid biosynthesis		6BMA
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_07370	COG3199	F	NAD kinase				
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_07380	COG0324	J	tRNA A37 N6-isopentenylltransferase MiaA	MiaA	tRNA modification		2ZM5
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_07400	COG1463	M	Periplasmic subunit MlaD of the ABC-type intermembrane phospholipid transporter Mla	MlaD			5UW8
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_07410	COG1366	T	Anti-anti-sigma regulatory factor (antagonist of anti-sigma factor)	SpoIIAA			1AUZ
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_07415	COG1022	I	Long-chain acyl-CoA synthetase (AMP-forming)	FAA1			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_07420	COG0309	O	Carbamoyl dehydratase HypE (hydrogenase maturation factor)	HypE		28618091	2I6R
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_07425	COG1236	J	RNA processing exonuclease, beta-lactamase fold, Cft2 family	YSH1			2DKF
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_07435	COG0741	M	Soluble lytic murein transglycosylase or regulatory protein s ( may contain LysM/invasin domain)	MltE			153L
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_07445	COG2274	V	ABC-type bacteriocin/lantibiotic exporters, contain an N-terminal double-glycine peptidase domain	SunT			3K8U
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_07455	COG2607	R	Predicted ATPase, AAA+ superfamily	Atu1564			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_07460	COG0446	I	NADPH-dependent 2,4-dienoyl-CoA reductase, sulfur reductase, or a related oxidoreductase	FadH2			1VRQ
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_07465	COG1388	M	LysM repeat	LysM			1E0G
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_07470	COG0802	J	tRNA A37 threonylcarbamoyladenosine biosynthesis protein TsaE	TsaE	tRNA modification		1FL9
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_07475	COG2145	H	Hydroxyethylthiazole kinase, sugar kinase family	ThiM	Thiamine biosynthesis		1C3Q
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_07480	COG0166	G	Glucose-6-phosphate isomerase	Pgi	Glycolysis		1B0Z
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_07485	COG0414	H	Panthothenate synthetase	PanC	Pantothenate/CoA biosynthesis	17968677	1DIN
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_07490	COG0413	H	Ketopantoate hydroxymethyltransferase	PanB	Pantothenate/CoA biosynthesis		3VAV
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_07495	COG0801	H	7,8-dihydro-6-hydroxymethylpterin pyrophosphokinase (folate biosynthesis)	FolK	Folate biosynthesis		1CBK
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_07510	COG0304	IQ	3-oxoacyl-(acyl-carrier-protein) synthase	FabB	Fatty acid biosynthesis	21652641	2UV8
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_07535	COG3264	M	Small-conductance mechanosensitive channel MscK	MscK			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_07540	COG1622	C	Heme/copper-type cytochrome/quinol oxidase, subunit 2	CyoA			1CYW
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_07545	COG0843	C	Heme/copper-type cytochrome/quinol oxidase, subunit 1	CyoB			1AR1
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_07550	COG1845	C	Heme/copper-type cytochrome/quinol oxidase, subunit 3	CyoC			1QLE
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_07560	COG1070	G	Sugar (pentulose or hexulose) kinase	XylB	Non-phosphorylated Entner-Doudoroff pathway		4C23
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_07565	COG0176	G	Transaldolase/fructose-6-phosphate aldolase	TalA	Pentose phosphate pathway		1F05
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_07570	COG1105	G	1-phosphofructokinase or 6-phosphofructokinase II	FruK			2ABQ
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_07575	COG2182	G	Maltose-binding periplasmic protein MalE	MalE			1T0K
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_07580	COG1177	E	ABC-type spermidine/putrescine transport system, permease component II	PotC			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_07585	COG1176	E	ABC-type spermidine/putrescine transport system, permease component I	PotB			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_07590	COG4133	O	ABC-type transport system involved in cytochrome c biogenesis, ATPase component	CcmA			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_07595	COG0246	G	Mannitol-1-phosphate/altronate dehydrogenases	MtlD			1LJ8
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_07600	COG4772	P	Outer membrane receptor for Fe3+-dicitrate	FecA			1KMP
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_07605	COG3424	Q	Predicted naringenin-chalcone synthase	BH0617			1BI5
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_07610	COG0607	P	Rhodanese-related sulfurtransferase	PspE	Urea cycle		1TQ1
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_07635	COG3291	S	Uncharacterized conserved protein, PKD repeat domain				2KZW
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_07640	COG1310	O	Proteasome lid subunit RPN8/RPN11, contains Jab1/MPN domain metalloenzyme (JAMM) motif	Rri1			2O95
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_07650	COG4718	X	Phage tail protein				
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_07655	COG5281	X	Phage-related minor tail protein				
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_07710	COG2369	X	Uncharacterized protein, contains phage Mu head morphogenesis gpF-like domain				
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_07790	COG1414	K	DNA-binding transcriptional regulator, IclR family	IclR			1MKM
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_07815	COG3638	P	ABC-type phosphate/phosphonate transport system, ATPase component	PhnC			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_07870	COG4382	X	Mu-like prophage protein gp16	gp16			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_07880	COG0659	P	Sulfate permease or related transporter, MFS superfamily	SUL1			3NY7
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_07885	COG0402	FR	Cytosine/adenosine deaminase or related metal-dependent hydrolase	SsnA	Pyrimidine salvage		3O7U
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_07895	COG0557	K	Exoribonuclease R	VacB			6H25
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_07900	COG1163	J	Ribosome-interacting GTPase RBG1	Rbg1			4A9A
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_07905	COG0528	F	Uridylate kinase	PyrH	Pyrimidine biosynthesis		2BND
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_07910	COG0268	J	Ribosomal protein S20	RpsT	Ribosome 30S subunit		4V4H
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_07915	COG0534	V	Na+-driven multidrug efflux pump, DinF/NorM/MATE family	NorM		29915058	3VVN
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_07920	COG0196	H	FAD synthase	RibF	Riboflavin/FAD biosynthesis		1MRZ
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_07930	COG2165	NUW	Type II secretory pathway, pseudopilin PulG	PulG			1AY2
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_07940	COG4726	NW	Type IV pilus assembly protein PilX	PilX			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_07945	COG4966	NW	Type IV pilus assembly protein PilW	PilW			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_07950	COG4967	NW	Type IV pilus assembly protein PilV	PilV			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_07955	COG4970	NW	Type IV pilus assembly protein FimT	FimT		17322192;28771515	
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_07970	COG3588	G	Fructose-bisphosphate aldolase class 1	Fba1	Glycolysis		
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_07975	COG1473	R	Metal-dependent amidase/aminoacylase/carboxypeptidase	AbgB	Lysine biosynthesis	17307853	3RAM
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_07985	COG1045	E	Serine acetyltransferase	CysE	Cysteine biosynthesis		1T3D
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_07990	COG2844	OT	UTP:GlnB (protein PII) uridylyltransferase	GlnD			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_07995	COG0024	J	Methionine aminopeptidase	Map			3J2I
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_08005	COG0052	J	Ribosomal protein S2	RpsB	Ribosome 30S subunit		4V4H
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_08010	COG0264	J	Translation elongation factor EF-Ts	Tsf	Translation factors		1EFU
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_08015	COG0527	E	Aspartate kinase	MetL1	Lysine biosynthesis		2CDQ
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_08020	COG0233	J	Ribosome recycling factor	Frr			1DD5
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_08025	COG0020	I	Undecaprenyl pyrophosphate synthase	UppS			1X07
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_08035	COG0793	O	C-terminal processing protease CtpA/Prc, contains a PDZ domain	CtpA			6IQU
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_08060	COG1116	P	ABC-type nitrate/sulfonate/bicarbonate transport system, ATPase component	TauB			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_08075	COG0789	K	DNA-binding transcriptional regulator, MerR family	SoxR			2VZ4
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_08085	COG3382	R	B3/B4 domain (DNA/RNA-binding domain of Phe-tRNA-synthetase)	B3/B4			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_08090	COG0016	J	Phenylalanyl-tRNA synthetase alpha subunit	PheS	Aminoacyl-tRNA synthetases		3L4G
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_08095	COG0292	J	Ribosomal protein L20	RplT	Ribosome 50S subunit	30270044	1VS6
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_08105	COG0290	J	Translation initiation factor IF-3	InfC	Translation factors		2IFE
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_08110	COG0442	J	Prolyl-tRNA synthetase	ProS	Aminoacyl-tRNA synthetases		5XIF
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_08120	COG0513	L	Superfamily II DNA and RNA helicase	SrmB			3RRM
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_08130	COG4750	MI	CTP:phosphocholine cytidylyltransferase LicC	LicC			1JYK
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_08135	COG0269	G	3-keto-L-gulonate-6-phosphate decarboxylase	UlaD			3F4W
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_08155	COG4618	U	ABC-type protease/lipase transport system, ATPase and permease components	ArpD			5L22
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_08160	COG0577	V	ABC-type antimicrobial peptide transport system, permease component	SalY			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_08170	COG0815	M	Apolipoprotein N-acyltransferase	Lnt			6NWR
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_08175	COG1061	KL	Superfamily II DNA or RNA helicase	SSL2			6JDE
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_08180	COG0005	F	Purine nucleoside phosphorylase	XapA	Purine salvage		1YQQ
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_08185	COG2236	H	Hypoxanthine phosphoribosyltransferase	Hpt1	Purine salvage		2JKZ
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_08190	COG3264	M	Small-conductance mechanosensitive channel MscK	MscK			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_08195	COG1472	G	Periplasmic beta-glucosidase and related glycosidases	BglX			2X40
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_08205	COG2518	O	Protein-L-isoaspartate O-methyltransferase	Pcm		24909784	3LBF
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_08215	COG0031	E	Cysteine synthase	CysK	Cysteine biosynthesis		1FCJ
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_08230	COG0486	J	tRNA U34 5-carboxymethylaminomethyl modifying GTPase MnmE/TrmE	MnmE	tRNA modification		
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_08235	COG0571	K	dsRNA-specific ribonuclease	Rnc			1DI2
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_08240	COG0681	U	Signal peptidase I	LepB		1925027	1B12
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_08245	COG0532	J	Translation initiation factor IF-2, a GTPase	InfB	Translation factors		5ME0
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_08250	COG0793	O	C-terminal processing protease CtpA/Prc, contains a PDZ domain	CtpA			6IQU
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_08260	COG3073	T	RseA, negative regulator of sigma E activity	RseA			1OR7
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_08265	COG4941	K	Predicted RNA polymerase sigma factor, contains C-terminal TPR domain				
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_08270	COG0596	HR	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold	MenH	Menaquinone biosynthesis		4MYS
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_08285	COG0247	C	Fe-S cluster-containing oxidoreductase, includes glycolate oxidase subunit GlcF	GlpC			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_08300	COG0447	H	1,4-Dihydroxy-2-naphthoyl-CoA synthase	MenB	Menaquinone biosynthesis		4ELS
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_08305	COG0365	I	Acyl-coenzyme A synthetase/AMP-(fatty) acid ligase	Acs		14638756	4B2O
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_08315	COG2334	T	Ser/Thr protein kinase RdoA involved in Cpx stress response, MazF antagonist	SrkA	Threonine biosynthesis		1ZYL
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_08320	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_08330	COG1522	K	DNA-binding transcriptional regulator, Lrp family	Lrp			1I1G
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_08345	COG0683	E	ABC-type branched-chain amino acid transport system, periplasmic component	LivK			1USG
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_08350	COG1132	V	ABC-type multidrug transport system, ATPase and permease component	MdlB			2HYD
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_08355	COG4598	E	ABC-type histidine transport system, ATPase component	HisP			1B0U
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_08360	COG4177	E	ABC-type branched-chain amino acid transport system, permease component	LivM			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_08415	COG1487	V	Ribonuclease/mRNA interferase VapC, contains PIN domain	VapC			3TND
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_08420	COG3668	X	Plasmid stabilization system protein ParE	ParE			3KXE
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_08425	COG3609	K	Transcriptional regulator, contains Arc/MetJ-type RHH (ribbon-helix-helix) DNA-binding domain	ParD			3KXE
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_08465	COG0697	GER	Permease of the drug/metabolite transporter (DMT) superfamily	RhaT			5I20
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_08470	COG1309	K	DNA-binding protein, AcrR family, includes nucleoid occlusion protein SlmA	AcrR			2QOP
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_08475	COG0346	Q	Catechol 2,3-dioxygenase or related enzyme, vicinal oxygen chelate (VOC) family	GloA		11830595	3R4Q
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_08480	COG0778	C	Nitroreductase	NfnB	Pyrimidine degradation		1F5V
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_08485	COG3622	G	Hydroxypyruvate/dehydroerythronate isomerase, Hyi/OtnI family	Hyi		27402745	1K77
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_08495	COG2771	K	DNA-binding transcriptional regulator, CsgD family	CsgD			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_08500	COG0693	V	Protein/nucleotide deglycase, PfpI/YajL/DJ-1 family (repair of methylglyoxal-glycated proteins and nucleic acids)	YajL		19028889;28596309;26678554	5SY4
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_08505	COG1453	R	Predicted oxidoreductase of the aldo/keto reductase family				
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_08515	COG0667	HR	Pyridoxal reductase PdxI or related oxidoreductase, aldo/keto reductase family	PdxI		32253339	1LQA
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_08520	COG1846	K	DNA-binding transcriptional regulator, MarR family	MarR			1JGS
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_08600	COG1971	P	Putative Mn2+ efflux pump MntP	MntP			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_08610	COG1230	P	Co/Zn/Cd efflux system component	CzcD			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_08615	COG0053	P	Divalent metal cation (Fe/Co/Zn/Cd) efflux pump	FieF			2QFI
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_08620	COG0596	HR	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold	MenH	Menaquinone biosynthesis		4MYS
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_08630	COG2217	P	Cation-transporting P-type ATPase	ZntA			4BBJ
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_08635	COG1937	K	DNA-binding transcriptional regulator, FrmR family	FrmR			2HH7
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_08645	COG2223	P	Nitrate/nitrite transporter NarK	NarK			4JR9
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_08655	COG1125	E	ABC-type proline/glycine betaine transport system, ATPase component	OpuBA			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_08680	COG1138	CO	Cytochrome c biogenesis protein CcmF	CcmF			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_08685	COG0526	O	Thiol-disulfide isomerase or thioredoxin	TrxA			1XFL
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_08695	COG4235	CO	Cytochrome c-type biogenesis protein CcmH/NrfG	NrfG			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_08710	COG4454	R	Uncharacterized copper-binding protein, cupredoxin-like subfamily				
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_08725	COG0701	S	Uncharacterized membrane protein YraQ, UPF0718 family	YraQ			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_08730	COG3038	C	Cytochrome b561	CybB			5OC0
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_08735	COG2217	P	Cation-transporting P-type ATPase	ZntA			4BBJ
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_08745	COG0129	EG	Dihydroxyacid dehydratase/phosphogluconate dehydratase	IlvD	Isoleucine, leucine, valine biosynthesis		2GP4
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_08750	COG0678	O	Peroxiredoxin	AHP1			1H4O
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_08755	COG0785	CO	Cytochrome c biogenesis protein CcdA	CcdA			5VKV
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_08760	COG1038	C	Pyruvate carboxylase	PycA	Urea cycle		5VYW
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_08765	COG0439	I	Biotin carboxylase	AccC	Fatty acid biosynthesis		1BNC
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_08770	COG2263	R	Predicted RNA methylase				6H2U
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_08775	COG2901	K	DNA-binding protein Fis (factor for inversion stimulation)	Fis			1ETK
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_08780	COG0138	F	AICAR transformylase/IMP cyclohydrolase PurH	PurH	Purine biosynthesis		1G8M
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_08800	COG0064	J	Asp-tRNAAsn/Glu-tRNAGln amidotransferase B subunit	GatB	Aminoacyl-tRNA synthetases		3H0M
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_08805	COG4668	G	Mannitol/fructose-specific phosphotransferase system, IIA domain	MtlA2			1A3A
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_08810	COG4213	G	ABC-type xylose transport system, periplasmic component	XylF			4YWH
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_08815	COG2814	G	Predicted arabinose efflux permease AraJ, MFS family	AraJ			4LDS
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_08830	COG1309	K	DNA-binding protein, AcrR family, includes nucleoid occlusion protein SlmA	AcrR			2QOP
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_08835	COG0815	M	Apolipoprotein N-acyltransferase	Lnt			6NWR
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_08845	COG0512	EH	Anthranilate/para-aminobenzoate synthase component II (glutamine amidotransferase)	PabA	Aromatic amino acid biosynthesis		1I1Q
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_08850	COG2186	K	DNA-binding transcriptional regulator, FadR family	FadR			1E2X
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_08855	COG0174	E	Glutamine synthetase	GlnA	Glutamine biosynthesis		1F1H
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_08860	COG0579	G	L-2-hydroxyglutarate oxidase LhgO	LhgO			3DME
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_08865	COG0591	E	Na+/proline symporter	PutP			5NVA
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_08880	COG3047	M	Outer membrane protein OmpW	OmpW			2F1T
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_08885	COG2801	X	Transposase InsO and inactivated derivatives	Tra5			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_08895	COG1949	A	Oligoribonuclease (3'-5' exoribonuclease)	Orn			1YTA
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_08915	COG0287	E	Prephenate dehydrogenase	TyrA	Aromatic amino acid biosynthesis		2F1K
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_08940	COG0229	O	Peptide methionine sulfoxide reductase MsrB	MsrB			1L1D
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_08945	COG0225	O	Peptide methionine sulfoxide reductase MsrA	MsrA			1FF3
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_08950	COG2113	E	ABC-type proline/glycine betaine transport system, periplasmic component	ProX			1R9L
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_08970	COG2329	H	Heme-degrading monooxygenase HmoA and related ABM domain proteins	HmoA		21873409	1IUJ
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_08975	COG0679	R	Predicted permease, AEC (auxin efflux carrier) family	YfdV			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_08985	COG0500	QR	SAM-dependent methyltransferase	SmtA			5DNK
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_09005	COG1292	M	Choline-glycine betaine transporter	BetT			2WIT
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_09010	COG1495	O	Disulfide bond formation protein DsbB	DsbB			2LTQ
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_09015	COG0684	J	RNA degradosome component RraA (regulator of RNase E activity)	RraA		20471400	1J3L
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_09025	COG0322	L	Excinuclease UvrABC, nuclease subunit	UvrC		24513124	2NRT
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_09055	COG0448	G	Glucose-1-phosphate adenylyltransferase (ADP-glucose pyrophosphorylase)	GlgC		27545622	5MNI
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_09060	COG0567	C	2-oxoglutarate dehydrogenase complex, dehydrogenase (E1) component, and related enzymes	SucA	TCA cycle		2JGD
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_09065	COG1038	C	Pyruvate carboxylase	PycA	Urea cycle		5VYW
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_09070	COG0492	O	Thioredoxin reductase	TrxB			3FBS
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_09075	COG3158	P	K+ uptake protein Kup	Kup			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_09080	COG0217	KJ	Transcriptional and/or translational regulatory protein YebC/TACO1	TACO1			1KON
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_09090	COG0632	L	Holliday junction resolvasome RuvABC DNA-binding subunit	RuvA			1BDX
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_09095	COG2256	L	Replication-associated recombination protein RarA (DNA-dependent ATPase)	RarA			3PVS
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_09105	COG1291	N	Flagellar motor component MotA	MotA			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_09120	COG2319	R	WD40 repeat	WD40			3UVN
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_09125	COG1360	N	Flagellar motor protein MotB	MotB			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_09130	COG4105	M	Outer membrane protein assembly factor BamD, BamD/ComL family	BamD			2YHC
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_09135	COG1180	O	Pyruvate-formate lyase-activating enzyme	PflA			3CAN
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_09140	COG1606	R	ATP-utilizing enzyme, PP-loop superfamily				6B2O
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_09155	COG0436	E	Aspartate/methionine/tyrosine aminotransferase	AspB	Isoleucine, leucine, valine biosynthesis		2O0R
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_09160	COG0560	E	Phosphoserine phosphatase	SerB	Serine biosynthesis		3N28
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_09165	COG4989	R	Predicted oxidoreductase YdhF	YdhF			1UR3
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_09170	COG0117	H	Riboflavin biosynthesis protein RibD, pyrimidine deaminase domain	RibD1	Riboflavin/FAD biosynthesis		2O7P
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_09180	COG1793	L	ATP-dependent DNA ligase	CDC9			1A0I
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_09185	COG2050	Q	Acyl-CoA thioesterase PaaI, contains HGG motif	PaaI			1PSU
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_09190	COG0535	DH	Radical SAM superfamily maturase, SkfB/NifB/PqqE family	SkfB		23282011	6Q2P
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_09200	COG0218	D	GTP-binding protein EngB required for normal cell division	EngB			5UCV
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_09205	COG1651	O	Protein thiol-disulfide isomerase DsbC	DsbG			2HI7
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_09220	COG2855	S	Uncharacterized membrane protein YadS, UPF0324 family	YeiH			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_09225	COG0239	DP	Fluoride ion exporter CrcB/FEX, affects chromosome condensation	CrcB			5A40
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_09235	COG3915	S	Uncharacterized conserved protein				
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_09240	COG1510	K	DNA-binding transcriptional regulator GbsR, MarR family	GbsR			1KU9
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_09245	COG4399	S	Uncharacterized membrane protein YheB, UPF0754 family	YheB			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_09255	COG1021	Q	EntE, 2,3-dihydroxybenzoate-AMP synthase component of non-ribosomal peptide synthetase	EntE			3RG2
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_09275	COG4753	TK	Two-component response regulator, YesN/AraC family, consists of REC and AraC-type DNA-binding domains	YesN			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_09280	COG0181	H	Porphobilinogen deaminase	HemC	Heme biosynthesis		1AH5
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_09285	COG1587	H	Uroporphyrinogen-III synthase	HemD	Heme biosynthesis		1JR2
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_09290	COG1317	NU	Flagellar biosynthesis/type III secretory pathway protein FliH	FliH			5B0O
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_09295	COG3898	S	Uncharacterized protein HemY, contains HemY_N domain and TPR repeats (unrelated to HemY-type protoporphyrinogen oxidase)	HemYx			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_09300	COG0451	M	Nucleoside-diphosphate-sugar epimerase	WcaG			2X4G
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_09310	COG3696	P	Cu/Ag efflux pump CusA	CusA			3K07
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_09315	COG1566	V	Multidrug resistance efflux pump EmrA	EmrA			4TKO
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_09320	COG1538	M	Outer membrane protein TolC	TolC			1EK9
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_09330	COG2197	TK	DNA-binding response regulator, NarL/FixJ family, contains REC and HTH domains	CitB			1A04
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_09335	COG2205	T	K+-sensing histidine kinase KdpD	KdpD			2KSF
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_09350	COG3646	X	Phage regulatory protein Rha	pRha			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_09385	COG1751	GT	Ligand-binding C-terminal domain of pyruvate kinase, DUF1867	PK		32095817	1T57
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_09395	COG0582	LX	Integrase/recombinase, includes phage integrase	FimB			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_09405	COG4698	S	Uncharacterized conserved protein YpmS, DUF2140 family	YpmS			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_09410	COG2989	M	Murein L,D-transpeptidase YcbB/YkuD	YcbB		18456808	6NTW
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_09415	COG0265	O	Periplasmic serine protease, S1-C subfamily, contain C-terminal PDZ domain	DegQ		29686141	2HGA
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_09420	COG1450	U	Type II secretory pathway component GspD/PulD (secretin)	PulD			5TCQ
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_09425	COG0630	NU	Type IV secretory pathway ATPase VirB11/Archaellum biosynthesis ATPase ArlI/FlaI	VirB11		32416640	1G6O
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_09430	COG1459	NUW	Type II secretory pathway, component PulF	PulF			2VMA
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_09435	COG4537	X	Competence protein ComGC	ComGC			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_09445	COG2165	NUW	Type II secretory pathway, pseudopilin PulG	PulG			1AY2
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_09450	COG4795	U	Type II secretory pathway, PulJ/GspJ component	PulJ			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_09455	COG4726	NW	Type IV pilus assembly protein PilX	PilX			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_09465	COG3149	U	Type II secretory pathway, component PulM	PulM			1UV7
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_09475	COG0591	E	Na+/proline symporter	PutP			5NVA
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_09480	COG2226	H	Ubiquinone/menaquinone biosynthesis C-methylase UbiE/MenG	UbiE	Biotin biosynthesis		4OBW
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_09485	COG1063	ER	Threonine dehydrogenase or related Zn-dependent dehydrogenase	Tdh	Non-phosphorylated Entner-Doudoroff pathway		4A2C
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_09495	COG0297	G	Glycogen synthase	GlgA			1RZU
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_09510	COG0807	H	GTP cyclohydrolase II	RibA	Riboflavin/FAD biosynthesis		2BZ0
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_09520	COG0025	P	NhaP-type Na+/H+ or K+/H+ antiporter	NhaP			4CZB
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_09530	COG3895	M	Membrane-bound inhibitor of C-type lysozyme	MliC			2F09
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_09550	COG1346	M	Putative effector of murein hydrolase	LrgB			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_09555	COG0071	O	Small heat shock protein IbpA, HSP20 family	IbpA			1GME
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_09560	COG1067	O	Predicted ATP-dependent protease	LonB			3K1J
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_09570	COG0494	V	8-oxo-dGTP pyrophosphatase MutT and related house-cleaning NTP pyrophosphohydrolases, NUDIX family	MutT			4V14
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_09590	COG2015	Q	Alkyl sulfatase BDS1 and related hydrolases, metallo-beta-lactamase superfamily	BDS1			2CFU
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_09600	COG1045	E	Serine acetyltransferase	CysE	Cysteine biosynthesis		1T3D
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_09605	COG0533	J	tRNA A37 threonylcarbamoyltransferase TsaD	TsaD	tRNA modification	23072323;21285948;32385138	3ENO
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_09610	COG1199	L	Rad3-related DNA helicase DinG	DinG			5H8W
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_09615	COG2976	T	Putative negative regulator of RcsB-dependent stress response, UPF0070 family	YfgM		23091052	
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_09620	COG0768	DM	Cell division protein FtsI, peptidoglycan transpeptidase (Penicillin-binding protein 2)	FtsI			6HZQ
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_09625	COG1283	P	Na+/phosphate symporter	NptA			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_09630	COG4604	P	ABC-type enterochelin transport system, ATPase component	CeuD			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_09635	COG4149	P	ABC-type molybdate transport system, permease component ModB	ModB	Molybdopterin biosynthesis		
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_09640	COG4590	R	ABC-type uncharacterized transport system, permease component				
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_09645	COG0226	P	ABC-type phosphate transport system, periplasmic component	PstS			2Q9T
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_09650	COG4191	T	Signal transduction histidine kinase regulating C4-dicarboxylate transport system				4GCZ
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_09655	COG2204	T	DNA-binding transcriptional response regulator, NtrC family, contains REC, AAA-type ATPase, and a Fis-type DNA-binding domains	AtoC			1ZY2
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_09660	COG0308	E	Aminopeptidase N, contains DUF3458 domain	PepN		24123841	6ATK
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_09665	COG3424	Q	Predicted naringenin-chalcone synthase	BH0617			1BI5
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_09670	COG2945	R	Alpha/beta superfamily hydrolase				2FUK
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_09680	COG2945	R	Alpha/beta superfamily hydrolase				2FUK
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_09685	COG0167	F	Dihydroorotate dehydrogenase	PyrD	Pyrimidine biosynthesis		1GT8
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_09690	COG0167	F	Dihydroorotate dehydrogenase	PyrD	Pyrimidine biosynthesis		1GT8
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_09695	COG0652	O	Peptidyl-prolyl cis-trans isomerase (rotamase) - cyclophilin family	PpiB			4DGD
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_09705	COG2833	S	Uncharacterized protein, contains ferritin-like DUF455 domain				
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_09710	COG0626	E	Cystathionine beta-lyase/cystathionine gamma-synthase	MetC	Methionine biosynthesis		1CL1
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_09720	COG0499	H	S-adenosylhomocysteine hydrolase	SAM1			1A7A
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_09725	COG0685	E	5,10-methylenetetrahydrofolate reductase	MetF			1B5T
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_09730	COG1846	K	DNA-binding transcriptional regulator, MarR family	MarR			1JGS
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_09735	COG1052	CHR	Lactate dehydrogenase or related 2-hydroxyacid dehydrogenase	LdhA	Pyridoxal phosphate biosynthesis		1DXY
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_09740	COG2519	J	tRNA A58 N-methylase Trm61	Gcd14	tRNA modification		1I9G
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_09745	COG0420	L	DNA repair exonuclease SbcCD nuclease subunit	SbcD			6S85
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_09750	COG2240	H	Pyridoxal/pyridoxine/pyridoxamine kinase	PdxK	Pyridoxal phosphate biosynthesis	19096365;23189126	5ZW9
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_09755	COG1902	C	2,4-dienoyl-CoA reductase or related NADH-dependent reductase, Old Yellow Enzyme (OYE) family	FadH			1BWK
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_09760	COG0001	H	Glutamate-1-semialdehyde aminotransferase	HemL	Heme biosynthesis		2CFB
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_09770	COG0552	U	Signal recognition particle GTPase FtsY	FtsY			4AK9
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_09775	COG3284	K	Transcriptional regulator DhaR of acetoin/glycerol metabolism	AcoR			4LRX
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_09780	COG4655	R	Uncharacterized conserved protein, contains TadX/Tad_C domain	TadX		26686616	
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_09790	COG5010	UW	Flp pilus assembly protein TadD, contains TPR repeats	TadD			3WXX
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_09795	COG2064	W	Flp pilus assembly protein TadC	TadC			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_09805	COG2804	NUW	Type II secretory pathway ATPase GspE/PulE or T4P pilus assembly pathway ATPase PilB	PulE			4KSR
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_09810	COG4963	UW	Flp pilus assembly ATPase CpaE/TadZ, contains N-terminal REC/TadZ_N domain	CpaE			4LDA
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_09815	COG4964	UW	Flp pilus assembly protein, secretin CpaC	CpaC			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_09820	COG3745	UW	Flp pilus assembly protein CpaB	CpaB			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_09840	COG4987	CO	ABC-type transport system involved in cytochrome bd biosynthesis, fused ATPase and permease components	CydC			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_09845	COG0577	V	ABC-type antimicrobial peptide transport system, permease component	SalY			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_09850	COG1522	K	DNA-binding transcriptional regulator, Lrp family	Lrp			1I1G
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_09855	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_09860	COG1309	K	DNA-binding protein, AcrR family, includes nucleoid occlusion protein SlmA	AcrR			2QOP
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_09865	COG3184	S	Uncharacterized conserved protein, contains DUF2059 domain			15741337	2X3O
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_09870	COG2221	P	Dissimilatory sulfite reductase (desulfoviridin), alpha and beta subunits	DsrA			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_09875	COG0716	C	Flavodoxin	FldA	Heme biosynthesis		1AG9
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_09885	COG3098	S	Uncharacterized conserved protein YqcC, DUF446 family	YqcC			2HGK
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_09890	COG0382	H	4-hydroxybenzoate polyprenyltransferase	UbiA	Ubiquinone biosynthesis	28830929	4OD4
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_09895	COG1612	H	Heme A synthase	CtaA			6A2J
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_09905	COG3346	O	Cytochrome oxidase assembly protein ShyY1	Shy1			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_09910	COG0843	C	Heme/copper-type cytochrome/quinol oxidase, subunit 1	CyoB			1AR1
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_09915	COG2010	C	Cytochrome c, mono- and diheme variants	CccA			1A2S
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_09920	COG0857	R	BioD-like N-terminal domain of phosphotransacetylase	PtaN			2IOJ
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_09925	COG0596	HR	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold	MenH	Menaquinone biosynthesis		4MYS
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_09930	COG0520	E	Selenocysteine lyase/Cysteine desulfurase	CsdA			4LW2
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_09935	COG0502	H	Biotin synthase or related enzyme	BioB	Biotin biosynthesis		1R30
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_09940	COG2065	F	Pyrimidine operon attenuation protein PyrR/uracil phosphoribosyltransferase	PyrR	Pyrimidine salvage		1A3C
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_09950	COG1200	L	RecG-like helicase	RecG			1GM5
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_09965	COG0358	L	DNA primase (bacterial type)	DnaG		28128549	3B39
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_09970	COG1610	R	Uncharacterized conserved protein YqeY, may have tRNA amino acid amidase activity	YqeY			1NG6
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_09975	COG0828	J	Ribosomal protein S21	RpsU	Ribosome 30S subunit		4V4H
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_09980	COG0533	J	tRNA A37 threonylcarbamoyltransferase TsaD	TsaD	tRNA modification	23072323;21285948;32385138	3ENO
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_09995	COG4221	C	NADP-dependent 3-hydroxy acid dehydrogenase YdfG	YdfG	Pyrimidine degradation		3P19
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_10000	COG0617	J	tRNA nucleotidyltransferase/poly(A) polymerase	PcnB	tRNA modification		3WFR
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_10015	COG0408	H	Coproporphyrinogen-III oxidase HemH, oxygen-dependent	HemF	Heme biosynthesis		3E8J
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_10020	COG0009	J	tRNA A37 threonylcarbamoyladenosine synthetase subunit TsaC/SUA5/YrdC	TsaC	tRNA modification		1HRU
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_10025	COG0550	L	DNA topoisomerase IA	TopA			1CY0
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_10035	COG0758	L	Predicted Rossmann fold nucleotide-binding protein DprA/Smf involved in DNA uptake	Smf			3MAJ
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_10045	COG0242	J	Peptide deformylase	Def			1BS4
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_10050	COG0299	F	Folate-dependent phosphoribosylglycinamide formyltransferase PurN	PurN	Purine biosynthesis	25013077	1C2T
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_10055	COG2263	R	Predicted RNA methylase				6H2U
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_10060	COG0047	F	Phosphoribosylformylglycinamidine (FGAM) synthase, glutamine amidotransferase domain	PurL2	Purine biosynthesis		1T3T
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_10065	COG1411	R	Uncharacterized conserved protein related to proFAR isomerase (HisA)				
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_10070	COG1411	R	Uncharacterized conserved protein related to proFAR isomerase (HisA)				
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_10075	COG0518	F	GMP synthase, glutamine amidotransferase domain	GuaA1	Purine biosynthesis		4WIM
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_10080	COG0131	E	Imidazoleglycerol phosphate dehydratase HisB	HisB2	Histidine biosynthesis		1RHY
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_10090	COG3173	R	Predicted  kinase, aminoglycoside phosphotransferase (APT) family	YcbJ			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_10095	COG0209	F	Ribonucleotide reductase alpha subunit	NrdA	Pyrimidine salvage		1R1R
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_10100	COG0168	P	Trk-type K+ transport system, membrane component	TrkG			3PJZ
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_10105	COG1226	P	Voltage-gated potassium channel Kch	Kch			3FWZ
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_10110	COG0139	E	Phosphoribosyl-AMP cyclohydrolase	HisI1	Histidine biosynthesis		1ZPS
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_10115	COG0140	E	Phosphoribosyl-ATP pyrophosphohydrolase	HisI2	Histidine biosynthesis		6J22
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_10125	COG1826	U	Twin-arginine protein secretion pathway components TatA and TatB	TatA			2L16
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_10130	COG0805	U	Twin-arginine protein secretion pathway component TatC	TatC			4B4A
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_10145	COG0831	E	Urease gamma subunit	UreA			1A5K
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_10150	COG0832	E	Urease beta subunit	UreB			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_10155	COG0044	F	Dihydroorotase or related cyclic amidohydrolase	AllB	Pyrimidine biosynthesis		1J79
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_10165	COG1471	J	Ribosomal protein S4E	RPS4A	Archaeal ribosomal proteins		
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_10175	COG0572	F	Uridine kinase	Udk	Pyrimidine salvage		5B3F
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_10180	COG1457	F	Purine-cytosine permease or related protein	CodB			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_10190	COG4063	H	Tetrahydromethanopterin S-methyltransferase, subunit A	MtrA			5L8X
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_10195	COG3241	C	Azurin	BlueCu			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_10200	COG2130	QR	NADPH-dependent curcumin reductase CurA	CurA		21467222	1V3T
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_10205	COG0503	F	Adenine/guanine phosphoribosyltransferase or related PRPP-binding protein	Apt	Purine salvage		1QB7
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_10210	COG0530	P	Ca2+/Na+ antiporter	ECM27			3V5S
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_10215	COG4969	NW	Type IV pilus assembly protein, major pilin PilA	PilA			1AY2
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_10220	COG1188	J	Ribosomal 50S subunit-recycling heat shock protein, contains S4 domain	HslR			3BBU
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_10230	COG0625	O	Glutathione S-transferase	GstA			1A0F
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_10240	COG1515	L	Deoxyinosine 3'-endonuclease (endonuclease V)	Nfi			2W35
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_10245	COG1846	K	DNA-binding transcriptional regulator, MarR family	MarR			1JGS
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_10250	COG0373	H	Glutamyl-tRNA reductase	HemA	Heme biosynthesis		2XOE
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_10255	COG0859	M	ADP-heptose:LPS heptosyltransferase	RfaF			1PSW
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_10260	COG0113	H	Delta-aminolevulinic acid dehydratase, porphobilinogen synthase	HemB	Heme biosynthesis		1I8J
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_10265	COG0583	K	DNA-binding transcriptional regulator, LysR family	LysR			2FYI
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_10270	COG0697	GER	Permease of the drug/metabolite transporter (DMT) superfamily	RhaT			5I20
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_10275	COG3237	S	Uncharacterized conserved protein YjbJ, UPF0337 family	yjbJ			1RYK
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_10285	COG1538	M	Outer membrane protein TolC	TolC			1EK9
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_10290	COG1033	R	Predicted exporter protein, RND superfamily	MMPL			5KHN
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_10295	COG1566	V	Multidrug resistance efflux pump EmrA	EmrA			4TKO
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_10300	COG0500	QR	SAM-dependent methyltransferase	SmtA			5DNK
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_10305	COG3165	H	Ubiquinone biosynthesis protein UbiJ, contains SCP2 domain	UbiJ		24142253;28559279	
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_10310	COG0661	HT	Predicted protein kinase regulating ubiquinone biosynthesis, AarF/ABC1/UbiB family	AarF	Ubiquinone biosynthesis		4PED
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_10320	COG0265	O	Periplasmic serine protease, S1-C subfamily, contain C-terminal PDZ domain	DegQ		29686141	2HGA
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_10325	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_10330	COG0607	P	Rhodanese-related sulfurtransferase	PspE	Urea cycle		1TQ1
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_10340	COG1893	H	Ketopantoate reductase	PanE	Pantothenate/CoA biosynthesis		1BG6
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_10345	COG1183	I	Phosphatidylserine synthase	PssA			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_10350	COG0560	E	Phosphoserine phosphatase	SerB	Serine biosynthesis		3N28
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_10355	COG0566	J	tRNA G18 (ribose-2'-O)-methylase SpoU	SpoU	tRNA modification		1GZ0
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_10375	COG3023	M	N-acetyl-anhydromuramyl-L-alanine amidase AmpD	AmpD			2Y28
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_10380	COG0483	G	Archaeal fructose-1,6-bisphosphatase or related enzyme, inositol monophosphatase family	SuhB	Gluconeogenesis		1AWB
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_10385	COG0560	E	Phosphoserine phosphatase	SerB	Serine biosynthesis		3N28
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_10390	COG0494	V	8-oxo-dGTP pyrophosphatase MutT and related house-cleaning NTP pyrophosphohydrolases, NUDIX family	MutT			4V14
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_10400	COG1528	P	Ferritin	FtnA		24380371	1AEW
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_10405	COG1981	H	Protoporphyrinogen oxidase HemJ (unrelated to HemG or HemY)	HemJ		20823222;21642412;25108393;29925590	
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_10410	COG0156	H	7-keto-8-aminopelargonate synthetase or related enzyme	BioF	Biotin biosynthesis		1BS0
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_10425	COG1636	J	Epoxyqueuosine reductase QueH (tRNA modification)	QueH		28128549	
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_10430	COG3572	H	Gamma-glutamylcysteine synthetase	Gsh2			2GWD
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_10435	COG0109	HI	Polyprenyltransferase (heme O synthase)	CyoE			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_10445	COG0161	H	Adenosylmethionine-8-amino-7-oxononanoate aminotransferase	BioA	Biotin biosynthesis		1MLY
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_10455	COG1534	J	RNA-binding protein YhbY	YhbY			1JO0
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_10460	COG1189	J	Predicted rRNA methylase YqxC, contains S4 and FtsJ domains	YqxC			3OPN
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_10465	COG0465	O	ATP-dependent Zn proteases	HflB			1LV7
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_10475	COG0033	G	Phosphoglucomutase/phosphomannomutase	Pgm		30938049	1C47
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_10480	COG0149	G	Triosephosphate isomerase	TpiA	Glycolysis		1HG3
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_10485	COG1314	U	Protein translocase subunit SecG	SecG			2AKH
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_10500	COG0779	J	Ribosome maturation factor RimP	RimP			1IB8
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_10510	COG0399	M	dTDP-4-amino-4,6-dideoxygalactose transaminase	WecE		15271350	4PIW
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_10515	COG0584	I	Glycerophosphoryl diester phosphodiesterase	UgpQ			1O1Z
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_10520	COG0435	C	Glutathionyl-hydroquinone reductase	ECM4			6GCA
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_10525	COG1030	O	Membrane-bound serine protease NfeD, ClpP class	NfeD			2DEO
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_10530	COG1249	C	Dihydrolipoamide dehydrogenase (E3) component of pyruvate/2-oxoglutarate dehydrogenase complex or glutathione oxidoreductase	Lpd	Glycine cleavagePyruvate oxidation		6QKG
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_10550	COG0806	J	Ribosomal 30S subunit maturation factor RimM, required for 16S rRNA processing	RimM	16S rRNA modification		2QGG
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_10560	COG0541	U	Signal recognition particle GTPase	Ffh			2V3C
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_10570	COG4536	P	Mg2+ and Co2+ transporter CorB, contains DUF21, CBS pair, and CorC-HlyC domains	CorB		1779764	
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_10575	COG0467	T	RecA-superfamily ATPase, KaiC/GvpD/RAD55 family	RAD55			1TF7
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_10580	COG0596	HR	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold	MenH	Menaquinone biosynthesis		4MYS
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_10585	COG3616	E	D-serine deaminase, pyridoxal phosphate-dependent	Dsd1			3ANU
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_10590	COG0305	L	Replicative DNA helicase	DnaB			1B79
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_10595	COG5006	E	Threonine/homoserine efflux transporter RhtA	RhtA			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_10600	COG0659	P	Sulfate permease or related transporter, MFS superfamily	SUL1			3NY7
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_10605	COG1926	R	Predicted phosphoribosyltransferase				
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_10615	COG0697	GER	Permease of the drug/metabolite transporter (DMT) superfamily	RhaT			5I20
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_10625	COG1064	G	D-arabinose 1-dehydrogenase, Zn-dependent alcohol dehydrogenase family	AdhP			5O8Q
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_10630	COG1593	G	TRAP-type C4-dicarboxylate transport system, large permease component	DctQ			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_10635	COG4729	S	Uncharacterized conserved protein, DUF1850 family				
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_10645	COG1526	C	Formate dehydrogenase assembly factor FdhD, a sulfurtransferase	FdhD			2PW9
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_10650	COG0679	R	Predicted permease, AEC (auxin efflux carrier) family	YfdV			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_10660	COG1145	C	Ferredoxin	NapF			6FAH
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_10680	COG0767	M	Permease subunit MlaE of the ABC-type intermembrane phospholipid transporter Mla	MlaE			6IC4
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_10685	COG4619	P	ABC-type iron transporter FetAB, ATPase component	FetA			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_10690	COG5479	M	LGFP repeat-containing protein, may be involved in cell wall binding	Psp3		18629042	
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_10695	COG2921	T	Putative lipoate-binding regulatory protein, UPF0250 family	YbeD		15547281	1RWU
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_10700	COG2367	V	Beta-lactamase class A	PenP			6W34
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_10705	COG3087	D	Cell division protein FtsN	FtsN			1UTA
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_10710	COG2951	M	Membrane-bound lytic murein transglycosylase B	MltB			1D0K
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_10715	COG0772	D	Peptodoglycan polymerase FtsW/RodA/SpoVE	FtsW		30692671	6BAR
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_10720	COG0744	M	Penicillin-binding protein 1B/1F, peptidoglycan  transglycosylase/transpeptidase	MrcB			3FWL
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_10730	COG1792	DZ	Cell shape-determining protein MreC	MreC			2J5U
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_10735	COG0443	O	Molecular chaperone DnaK (HSP70)	DnaK			3I33
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_10740	COG0721	J	Asp-tRNAAsn/Glu-tRNAGln amidotransferase C subunit	GatC	Aminoacyl-tRNA synthetases		3H0L
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_10745	COG0154	J	Asp-tRNAAsn/Glu-tRNAGln amidotransferase A subunit or related amidase	GatA	Aminoacyl-tRNA synthetases		3H0L
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_10760	COG0190	H	5,10-methylene-tetrahydrofolate dehydrogenase/Methenyl tetrahydrofolate cyclohydrolase	FolD			1A4I
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_10765	COG0215	J	Cysteinyl-tRNA synthetase	CysS	Aminoacyl-tRNA synthetases		1LI5
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_10770	COG0309	O	Carbamoyl dehydratase HypE (hydrogenase maturation factor)	HypE		28618091	2I6R
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_10780	COG0054	H	6,7-dimethyl-8-ribityllumazine synthase (Riboflavin synthase beta chain)	RibE	Riboflavin/FAD biosynthesis		1C2Y
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_10785	COG0307	H	Riboflavin synthase alpha chain	RibC	Riboflavin/FAD biosynthesis		1I8D
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_10790	COG2131	F	Deoxycytidylate deaminase	ComEB		25746996;31954084	2HVV
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_10795	COG1327	K	Transcriptional regulator NrdR, contains Zn-ribbon and ATP-cone domains	NrdR			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_10800	COG0112	E	Glycine/serine hydroxymethyltransferase	GlyA	Serine biosynthesis		1BJ4
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_10810	COG0173	J	Aspartyl-tRNA synthetase	AspS	Aminoacyl-tRNA synthetases		1C0A
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_10815	COG2331	R	Predicted nucleic acid-binding protein, contains Zn-ribbon domain				
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_10820	COG1004	M	UDP-glucose 6-dehydrogenase	Ugd			1DLI
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_10835	COG2873	E	O-acetylhomoserine/O-acetylserine sulfhydrylase, pyridoxal phosphate-dependent	MET17	Methionine biosynthesis		2CTZ
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_10860	COG0524	G	Sugar or nucleoside kinase, ribokinase family	RbsK	Glycolysis		2QCV
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_10865	COG1560	I	Palmitoleoyl-ACP: Kdo2-lipid-IV acyltransferase (lipid A biosynthesis)	LpxP	Lipid A biosynthesis	11830595	5F2T
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_10870	COG3642	J	tRNA A-37 threonylcarbamoyl transferase component Bud32	Bud32	tRNA modification		2VWB
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_10875	COG2873	E	O-acetylhomoserine/O-acetylserine sulfhydrylase, pyridoxal phosphate-dependent	MET17	Methionine biosynthesis		2CTZ
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_10885	COG0121	R	Predicted glutamine amidotransferase YafJ	YafJ			1TE5
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_10895	COG0078	E	Ornithine carbamoyltransferase	ArgF	Arginine biosynthesis		1A1S
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_10900	COG0605	P	Superoxide dismutase	SodA			1AP5
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_10905	COG0695	O	Glutaredoxin	GrxC			1AAZ
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_10910	COG0521	H	Molybdopterin biosynthesis enzyme MoaB/MogA	MoaB	Molybdopterin biosynthesis	32239579	1DI6
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_10915	COG1236	J	RNA processing exonuclease, beta-lactamase fold, Cft2 family	YSH1			2DKF
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_10920	COG3848	T	Phosphohistidine swiveling domain of PEP-utilizing enzymes	PykA2			2E28
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_10930	COG3151	S	Uncharacterized conserved protein YqiB, DUF1249 family	yqiB			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_10935	COG0025	P	NhaP-type Na+/H+ or K+/H+ antiporter	NhaP			4CZB
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_10940	COG0730	P	Sulfite exporter TauE/SafE/YfcA and related permeases, UPF0721 family	TauE		21183667;22797525	
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_10950	COG0691	O	tmRNA-binding protein	SmpB		26251518	1J1H
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_10955	COG0733	R	Na+-dependent transporter, SNF family	YocR			2A65
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_10960	COG2914	V	Putative antitoxin component PasI (RatB) of the RatAB toxin-antitoxin module, ubiquitin-RnfH superfamily	PasI		23055930	2HJ1
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_10965	COG2913	M	Outer membrane protein assembly factor BamE, lipoprotein component of the BamABCDE complex	BamE			2KM7
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_10970	COG0497	L	DNA repair ATPase RecN	RecN			4AD8
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_10975	COG3199	F	NAD kinase				
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_10980	COG0576	O	Molecular chaperone GrpE (heat shock protein HSP-70)	GrpE			1DKG
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_10985	COG0443	O	Molecular chaperone DnaK (HSP70)	DnaK			3I33
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_10990	COG2214	K	Curved DNA-binding protein CbpA, contains a DnaJ-like domain	CbpA			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_10995	COG0289	E	4-hydroxy-tetrahydrodipicolinate reductase	DapB	Lysine biosynthesis	29684280	1ARZ
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_11000	COG0512	EH	Anthranilate/para-aminobenzoate synthase component II (glutamine amidotransferase)	PabA	Aromatic amino acid biosynthesis		1I1Q
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_11005	COG0439	I	Biotin carboxylase	AccC	Fatty acid biosynthesis		1BNC
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_11035	COG0824	I	Acyl-CoA thioesterase FadM	FadM	Menaquinone biosynthesis		2FUJ
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_11045	COG0719	O	Fe-S cluster assembly scaffold protein SufB	SufB			1VH4
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_11050	COG1136	M	ABC-type lipoprotein export system, ATPase component	LolD			5GKO
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_11055	COG0719	O	Fe-S cluster assembly scaffold protein SufB	SufB			1VH4
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_11060	COG3844	E	Kynureninase	Bna5			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_11065	COG2146	PQ	Ferredoxin subunit of nitrite reductase or a ring-hydroxylating dioxygenase	NirD		23844911	1FQT
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_11070	COG0608	L	ssDNA-specific exonuclease RecJ, DHH superfamily, may be involved in archaeal DNA replication intiation	RecJ			1IR6
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_11075	COG0498	E	Threonine synthase	ThrC	Threonine biosynthesis		1VB3
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_11080	COG1748	E	Saccharopine dehydrogenase, NADP-dependent	Lys9	Lysine biosynthesis		1E5L
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_11085	COG0626	E	Cystathionine beta-lyase/cystathionine gamma-synthase	MetC	Methionine biosynthesis		1CL1
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_11090	COG1388	M	LysM repeat	LysM			1E0G
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_11095	COG1238	S	Uncharacterized membrane protein YqaA, VTT domain	YgaA			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_11100	COG4122	J	tRNA 5-hydroxyU34 O-methylase TrmR/YrrM	TrmR	tRNA modification	29982645	1H1D
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_11105	COG0496	L	Broad specificity polyphosphatase and 5'/3'-nucleotidase SurE	SurE			2V4N
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_11115	COG3568	R	Metal-dependent hydrolase, endonuclease/exonuclease/phosphatase family	ElsH		15178340	
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_11125	COG3069	C	C4-dicarboxylate transporter DcuC	DcuC			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_11140	COG4389	L	Site-specific recombinase				
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_11145	COG0595	J	mRNA degradation ribonuclease J1/J2	RnjA			3T3N
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_11155	COG0622	R	Predicted phosphodiesterase, calcineurin family	YfcE		17586769	1SU1
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_11160	COG1075	I	Triacylglycerol esterase/lipase EstA, alpha/beta hydrolase fold	EstA			1I6W
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_11170	COG1770	E	Protease II	PtrB			4BP9
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_11180	COG2110	J	O-acetyl-ADP-ribose deacetylase (regulator of RNase III), contains Macro domain	YmdB			1HJZ
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_11185	COG3685	P	Ferritin-like metal-binding protein YciE	YciE			2GS4
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_11190	COG0365	I	Acyl-coenzyme A synthetase/AMP-(fatty) acid ligase	Acs		14638756	4B2O
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_11195	COG1246	E	N-acetylglutamate synthase or related acetyltransferase, GNAT family	ArgA	Arginine biosynthesis		2R98
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_11205	COG2021	E	Homoserine O-acetyltransferase	MET2	Methionine biosynthesis		2VAT
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_11210	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_11220	COG1232	H	Protoporphyrinogen oxidase HemY/PPOX	HemY	Heme biosynthesis		3LOV
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_11225	COG1232	H	Protoporphyrinogen oxidase HemY/PPOX	HemY	Heme biosynthesis		3LOV
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_11230	COG1012	I	Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase	AdhE	Proline degradation		1A4S
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_11235	COG4704	S	Uncharacterized conserved protein, DUF2141 family				
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_11240	COG2814	G	Predicted arabinose efflux permease AraJ, MFS family	AraJ			4LDS
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_11250	COG1538	M	Outer membrane protein TolC	TolC			1EK9
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_11255	COG4221	C	NADP-dependent 3-hydroxy acid dehydrogenase YdfG	YdfG	Pyrimidine degradation		3P19
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_11265	COG0845	MV	Multidrug efflux pump subunit AcrA (membrane-fusion protein)	AcrA			1T5E
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_11270	COG2814	G	Predicted arabinose efflux permease AraJ, MFS family	AraJ			4LDS
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_11275	COG1349	KG	DNA-binding transcriptional regulator of sugar metabolism, DeoR/GlpR family	GlpR			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_11280	COG5281	X	Phage-related minor tail protein				
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_11285	COG1171	E	Threonine deaminase	IlvA	Isoleucine, leucine, valine biosynthesis		3IAU
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_11305	COG1011	H	FMN and 5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YigB, HAD superfamily (riboflavin biosynthesis)	YigB		24123841	4JB3
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_11310	COG0306	P	Phosphate/sulfate permease	PitA		31358606	
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_11315	COG1392	P	Phosphate transport regulator YkaA, distantly related to PhoU, UPF0111/DUF47 family	YkaA			2IIU
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_11320	COG1392	P	Phosphate transport regulator YkaA, distantly related to PhoU, UPF0111/DUF47 family	YkaA			2IIU
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_11325	COG1748	E	Saccharopine dehydrogenase, NADP-dependent	Lys9	Lysine biosynthesis		1E5L
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_11330	COG0491	R	Glyoxylase or a related metal-dependent hydrolase, beta-lactamase superfamily II	GloB		25670698	1QH3
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_11335	COG1846	K	DNA-binding transcriptional regulator, MarR family	MarR			1JGS
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_11340	COG0477	GEPR	MFS family permease, includes anhydromuropeptide permease AmpG	ProP		12426329	
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_11345	COG0845	MV	Multidrug efflux pump subunit AcrA (membrane-fusion protein)	AcrA			1T5E
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_11350	COG1506	E	Dipeptidyl aminopeptidase/acylaminoacyl peptidase	DAP2			2JBW
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_11355	COG0073	J	tRNA-binding EMAP/Myf domain	EMAP			1MKH
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_11365	COG4942	D	Septal ring factor EnvC, activator of murein hydrolases AmiA and AmiB	EnvC			
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_11370	COG1030	O	Membrane-bound serine protease NfeD, ClpP class	NfeD			2DEO
+Xanthomonadales_bacterium_SP48	GCA_002715985.1	GFLPPA_11380	COG0578	C	Glycerol-3-phosphate dehydrogenase	GlpA	Isoprenoid biosynthesis		2RGH

@@ -1,0 +1,853 @@
+#prefix	assemid	query	COG	category	name	Gene	pathway	pmid	pdb_id
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_00010	COG1091	M	dTDP-4-dehydrorhamnose reductase	RfbD			1KBZ
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_00015	COG1968	I	Undecaprenyl pyrophosphate phosphatase	UppP			5OON
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_00020	COG0492	O	Thioredoxin reductase	TrxB			3FBS
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_00025	COG0069	E	Glutamate synthase domain 2	GltB2	Glutamine biosynthesis		1EA0
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_00030	COG3153	R	Predicted N-acetyltransferase YhbS	yhbS			4ZBG
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_00035	COG0625	O	Glutathione S-transferase	GstA			1A0F
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_00040	COG0596	HR	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold	MenH	Menaquinone biosynthesis		4MYS
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_00045	COG0297	G	Glycogen synthase	GlgA			1RZU
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_00050	COG0442	J	Prolyl-tRNA synthetase	ProS	Aminoacyl-tRNA synthetases		5XIF
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_00055	COG0290	J	Translation initiation factor IF-3	InfC	Translation factors		2IFE
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_00060	COG0291	J	Ribosomal protein L35	RpmI	Ribosome 50S subunit	28373563	1VS6
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_00065	COG0292	J	Ribosomal protein L20	RplT	Ribosome 50S subunit	30270044	1VS6
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_00070	COG0016	J	Phenylalanyl-tRNA synthetase alpha subunit	PheS	Aminoacyl-tRNA synthetases		3L4G
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_00075	COG0072	J	Phenylalanyl-tRNA synthetase beta subunit	PheT	Aminoacyl-tRNA synthetases		3L4G
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_00080	COG0119	E	Isopropylmalate/homocitrate/citramalate synthases	LeuA	Isoleucine, leucine, valine biosynthesis		4JN6
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_00085	COG5256	J	Translation elongation factor EF-1alpha (GTPase)	TEF1	Translation factors		1F60
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_00100	COG1195	L	Recombinational DNA repair ATPase RecF	RecF			5Z67
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_00105	COG0592	L	DNA polymerase III sliding clamp (beta) subunit, PCNA homolog	DnaN			1JQJ
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_00110	COG1484	L	DNA replication protein DnaC	DnaC			2QGZ
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_00115	COG0268	J	Ribosomal protein S20	RpsT	Ribosome 30S subunit		4V4H
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_00125	COG0266	L	Formamidopyrimidine-DNA glycosylase	Nei			1EE8
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_00130	COG0500	QR	SAM-dependent methyltransferase	SmtA			5DNK
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_00135	COG0661	HT	Predicted protein kinase regulating ubiquinone biosynthesis, AarF/ABC1/UbiB family	AarF	Ubiquinone biosynthesis		4PED
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_00140	COG0452	H	Phosphopantothenoylcysteine synthetase/decarboxylase CoaBC	CoaBC	Pantothenate/CoA biosynthesis		3QJG
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_00145	COG0717	F	dCTP deaminase	Dcd	Thymidylate biosynthesis		1XS1
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_00155	COG1052	CHR	Lactate dehydrogenase or related 2-hydroxyacid dehydrogenase	LdhA	Pyridoxal phosphate biosynthesis		1DXY
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_00165	COG4706	I	Predicted 3-hydroxylacyl-ACP dehydratase, HotDog domain				
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_00170	COG0304	IQ	3-oxoacyl-(acyl-carrier-protein) synthase	FabB	Fatty acid biosynthesis	21652641	2UV8
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_00175	COG1028	I	NAD(P)-dependent dehydrogenase, short-chain alcohol dehydrogenase family	FabG	Fatty acid biosynthesis		6L1H
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_00180	COG0689	J	Ribonuclease PH	Rph			1UDO
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_00190	COG0130	J	tRNA U55 pseudouridine synthase TruB, may also work on U342 of tmRNA	TruB	tRNA modification		1K8W
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_00195	COG0858	J	Ribosome-binding factor RbfA	RbfA			1JOS
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_00200	COG0050	J	Translation elongation factor EF-Tu, a GTPase	TufA	Translation factors		1EFU
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_00205	COG2740	R	Nucleoid-associated protein YlxR, Predicted RNA-binding, DUF448 family	YlxR		11679764;31118925	1G2R
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_00215	COG2001	J	MraZ, DNA-binding transcriptional regulator and inhibitor of RsmH methyltransferase activity	MraZ			1N0E
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_00220	COG0275	J	16S rRNA C1402 N4-methylase RsmH	RmsH	16S rRNA modification		1M6Y
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_00225	COG5462	S	Predicted secreted (periplasmic) protein				
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_00230	COG0744	M	Penicillin-binding protein 1B/1F, peptidoglycan  transglycosylase/transpeptidase	MrcB			3FWL
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_00235	COG0771	M	UDP-N-acetylmuramoylalanine-D-glutamate ligase	MurD	Mureine biosynthesis		1E0D
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_00240	COG0771	M	UDP-N-acetylmuramoylalanine-D-glutamate ligase	MurD	Mureine biosynthesis		1E0D
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_00245	COG0472	M	UDP-N-acetylmuramyl pentapeptide phosphotransferase/UDP-N-acetylglucosamine-1-phosphate transferase	Rfe	Mureine biosynthesis		4J72
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_00250	COG0773	M	UDP-N-acetylmuramate-alanine ligase MurC and related ligases, MurC/Mpl family	MurC	Mureine biosynthesis		
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_00255	COG0772	D	Peptodoglycan polymerase FtsW/RodA/SpoVE	FtsW		30692671	6BAR
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_00260	COG4671	R	Predicted glycosyl transferase				
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_00265	COG0773	M	UDP-N-acetylmuramate-alanine ligase MurC and related ligases, MurC/Mpl family	MurC	Mureine biosynthesis		
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_00270	COG0812	M	UDP-N-acetylenolpyruvoylglucosamine reductase	MurB	Mureine biosynthesis		2MBR
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_00275	COG0458	EF	Carbamoylphosphate synthase large subunit	CarB	Arginine biosynthesis		1C30
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_00285	COG0849	D	Cell division ATPase FtsA	FtsA			3WT0
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_00290	COG0206	D	Cell division GTPase FtsZ	FtsZ			1FSZ
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_00300	COG1729	D	Cell division protein CpoB, coordinates peptidoglycan biosynthesis and outer membrane constriction	CpoB		25951518	2WZ7
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_00305	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_00310	COG0272	L	NAD-dependent DNA ligase	Lig			5TT5
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_00315	COG0006	E	Xaa-Pro aminopeptidase	PepP			1A16
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_00320	COG4123	J	tRNA1(Val) A37 N6-methylase TrmN6	TrmN6	tRNA modification		
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_00325	COG0210	L	Superfamily I DNA or RNA helicase	UvrD			6PPR
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_00335	COG2854	M	Periplasmic subunit MlaC of the ABC-type intermembrane phospholipid transporter Mla	MlaC		19383799	2QGU
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_00340	COG4987	CO	ABC-type transport system involved in cytochrome bd biosynthesis, fused ATPase and permease components	CydC			
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_00355	COG1187	J	Pseudouridylate synthase RsuA, specific for 16S rRNA U516  and 23S rRNA U2605	RsuA	16S rRNA modification		1KSK
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_00360	COG1191	K	DNA-directed RNA polymerase specialized sigma subunit	FliA	RNA polymerase		1RP3
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_00365	COG0104	F	Adenylosuccinate synthase	PurA	Purine biosynthesis		1ADE
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_00370	COG0124	J	Histidyl-tRNA synthetase	HisS	Aminoacyl-tRNA synthetases		1KMM
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_00375	COG0059	EH	Ketol-acid reductoisomerase	IlvC	Isoleucine, leucine, valine biosynthesis		1NP3
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_00380	COG0075	EF	Archaeal aspartate aminotransferase or a related aminotransferase, includes purine catabolism protein PucG	PucG	Serine biosynthesis		3NNK
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_00385	COG0033	G	Phosphoglucomutase/phosphomannomutase	Pgm		30938049	1C47
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_00415	COG2050	Q	Acyl-CoA thioesterase PaaI, contains HGG motif	PaaI			1PSU
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_00420	COG2128	P	Alkylhydroperoxidase family enzyme, contains CxxC motif	YciW			1GU9
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_00425	COG2050	Q	Acyl-CoA thioesterase PaaI, contains HGG motif	PaaI			1PSU
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_00430	COG0300	R	Short-chain dehydrogenase	YqjQ			
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_00440	COG0447	H	1,4-Dihydroxy-2-naphthoyl-CoA synthase	MenB	Menaquinone biosynthesis		4ELS
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_00445	COG1023	G	6-phosphogluconate dehydrogenase (decarboxylating)	YqeC			4E21
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_00450	COG0447	H	1,4-Dihydroxy-2-naphthoyl-CoA synthase	MenB	Menaquinone biosynthesis		4ELS
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_00465	COG3638	P	ABC-type phosphate/phosphonate transport system, ATPase component	PhnC			
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_00470	COG0683	E	ABC-type branched-chain amino acid transport system, periplasmic component	LivK			1USG
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_00480	COG0708	L	Exonuclease III	XthA			1AKO
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_00490	COG1078	R	HD superfamily phosphohydrolase	YdhJ			2HEK
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_00495	COG0018	J	Arginyl-tRNA synthetase	ArgS	Aminoacyl-tRNA synthetases		1BS2
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_00510	COG1386	K	Chromosome segregation and condensation protein ScpB	ScpB			1T6S
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_00515	COG1101	R	ABC-type uncharacterized transport system, ATPase component	PhnK			
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_00525	COG1826	U	Twin-arginine protein secretion pathway components TatA and TatB	TatA			2L16
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_00530	COG0805	U	Twin-arginine protein secretion pathway component TatC	TatC			4B4A
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_00535	COG0172	J	Seryl-tRNA synthetase	SerS	Aminoacyl-tRNA synthetases		1SER
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_00540	COG0496	L	Broad specificity polyphosphatase and 5'/3'-nucleotidase SurE	SurE			2V4N
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_00545	COG2242	H	Precorrin-6B methylase 2	CobL	Cobalamine/B12 biosynthesis		1F38
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_00550	COG3858	D	Spore cortex hydrolase SleL/YaaH, N-acetylglucosaminidase of GH18 family	SleL			4S3J
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_00555	COG2607	R	Predicted ATPase, AAA+ superfamily	Atu1564			
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_00560	COG1862	U	Protein translocase subunit YajC	YajC			
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_00565	COG0341	U	Preprotein translocase subunit SecF	SecF		28830929	2FYH
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_00570	COG0342	U	Preprotein translocase subunit SecD	SecD		26100040	3AQP
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_00575	COG3737	S	Uncharacterized protein, contains Mth938-like domain				
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_00585	COG1249	C	Dihydrolipoamide dehydrogenase (E3) component of pyruvate/2-oxoglutarate dehydrogenase complex or glutathione oxidoreductase	Lpd	Glycine cleavagePyruvate oxidation		6QKG
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_00590	COG1121	P	ABC-type Mn2+/Zn2+ transport system, ATPase component	ZnuC			
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_00605	COG1057	H	Nicotinate-nucleotide adenylyltransferase NadD	NadD	NAD biosynthesis		1YUM
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_00610	COG0248	FT	Exopolyphosphatase/pppGpp-phosphohydrolase	GppA			1T6C
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_00615	COG0405	E	Gamma-glutamyltranspeptidase	Ggt		16618936	2Z8I
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_00625	COG2303	IR	Choline dehydrogenase or related flavoprotein	BetA	Non-phosphorylated Entner-Doudoroff pathway		1B4V
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_00630	COG1984	E	5-oxoprolinase subunit C/Allophanate hydrolase subunit 2	PxpC		28830929	3MML
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_00635	COG2049	E	5-oxoprolinase subunit B/Allophanate hydrolase subunit 1	PxpB		28830929	2KWA
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_00660	COG2377	M	1,6-Anhydro-N-acetylmuramate kinase	AnmK		15901686	3CQY
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_00665	COG0449	M	Glucosamine 6-phosphate synthetase, contains amidotransferase and phosphosugar isomerase domains	GlmS			2J6H
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_00680	COG3023	M	N-acetyl-anhydromuramyl-L-alanine amidase AmpD	AmpD			2Y28
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_00685	COG1011	H	FMN and 5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YigB, HAD superfamily (riboflavin biosynthesis)	YigB		24123841	4JB3
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_00690	COG0491	R	Glyoxylase or a related metal-dependent hydrolase, beta-lactamase superfamily II	GloB		25670698	1QH3
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_00715	COG0726	GM	Peptidoglycan/xylan/chitin deacetylase, PgdA/NodB/CDA1 family	CDA1			1NY1
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_00720	COG1705	MN	Flagellum-specific peptidoglycan hydrolase FlgJ	FlgJ			2ZYC
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_00730	COG0180	J	Tryptophanyl-tRNA synthetase	TrpS	Aminoacyl-tRNA synthetases		3N9I
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_00735	COG0534	V	Na+-driven multidrug efflux pump, DinF/NorM/MATE family	NorM		29915058	3VVN
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_00740	COG2844	OT	UTP:GlnB (protein PII) uridylyltransferase	GlnD			
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_00745	COG0249	L	DNA mismatch repair ATPase MutS	MutS			1E3M
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_00750	COG0281	C	Malic enzyme	SfcA	Urea cycle		1DO8
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_00760	COG0745	TK	DNA-binding response regulator, OmpR family, contains REC and winged-helix (wHTH) domain	OmpR			1XHF
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_00770	COG4559	P	ABC-type hemin transport system, ATPase component				4G1U
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_00785	COG1033	R	Predicted exporter protein, RND superfamily	MMPL			5KHN
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_00800	COG0697	GER	Permease of the drug/metabolite transporter (DMT) superfamily	RhaT			5I20
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_00805	COG0800	G	2-keto-3-deoxy-6-phosphogluconate aldolase	Eda	Entner-Doudoroff pathway		2V81
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_00820	COG0537	FR	Purine nucleoside phosphoramidase/Ap4A hydrolase, histidine triade (HIT) family	HinT		20934431	1AV5
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_00825	COG0415	L	Deoxyribodipyrimidine photolyase	PhrB			1TEZ
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_00835	COG0697	GER	Permease of the drug/metabolite transporter (DMT) superfamily	RhaT			5I20
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_00840	COG0625	O	Glutathione S-transferase	GstA			1A0F
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_00845	COG0748	P	Putative heme iron utilization protein, contains PNPOx domain	HugZ			1VL7
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_00850	COG3531	O	Predicted protein-disulfide isomerase, contains CxxC motif			24314029	5HFG
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_00855	COG0556	L	Excinuclease UvrABC helicase subunit UvrB	UvrB			1C4O
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_00860	COG2938	O	Succinate dehydrogenase flavin-adding protein, antitoxin component of the CptAB toxin-antitoxin module	SdhE			1PUZ
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_00865	COG1200	L	RecG-like helicase	RecG			1GM5
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_00870	COG2928	S	Uncharacterized membrane protein			19363116	
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_00880	COG0483	G	Archaeal fructose-1,6-bisphosphatase or related enzyme, inositol monophosphatase family	SuhB	Gluconeogenesis		1AWB
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_00900	COG0607	P	Rhodanese-related sulfurtransferase	PspE	Urea cycle		1TQ1
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_00905	COG0446	I	NADPH-dependent 2,4-dienoyl-CoA reductase, sulfur reductase, or a related oxidoreductase	FadH2			1VRQ
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_00910	COG0697	GER	Permease of the drug/metabolite transporter (DMT) superfamily	RhaT			5I20
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_00915	COG2814	G	Predicted arabinose efflux permease AraJ, MFS family	AraJ			4LDS
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_00920	COG0338	L	DNA-adenine methylase	Dam			4GOL
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_00930	COG1296	E	Predicted branched-chain amino acid permease (azaleucine resistance)	AzlC			
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_00940	COG2242	H	Precorrin-6B methylase 2	CobL	Cobalamine/B12 biosynthesis		1F38
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_00945	COG1538	M	Outer membrane protein TolC	TolC			1EK9
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_00955	COG0143	J	Methionyl-tRNA synthetase	MetG	Aminoacyl-tRNA synthetases		1A8H
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_00965	COG0673	R	Predicted dehydrogenase	MviM			3UUW
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_00970	COG1132	V	ABC-type multidrug transport system, ATPase and permease component	MdlB			2HYD
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_00975	COG4158	R	Predicted ABC-type sugar transport system, permease component				
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_00985	COG0345	E	Pyrroline-5-carboxylate reductase	ProC	Proline biosynthesis	22125496;26507882	3GT0
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_00990	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_00995	COG1748	E	Saccharopine dehydrogenase, NADP-dependent	Lys9	Lysine biosynthesis		1E5L
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_01000	COG0300	R	Short-chain dehydrogenase	YqjQ			
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_01005	COG3386	G	Sugar lactone lactonase YvrE	YvrE	Non-phosphorylated Entner-Doudoroff pathway		1E1A
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_01020	COG1053	C	Succinate dehydrogenase/fumarate reductase, flavoprotein subunit	SdhA	TCA cycle		1KF6
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_01030	COG1011	H	FMN and 5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YigB, HAD superfamily (riboflavin biosynthesis)	YigB		24123841	4JB3
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_01035	COG4989	R	Predicted oxidoreductase YdhF	YdhF			1UR3
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_01040	COG5285	Q	Ectoine hydroxylase-related dioxygenase, phytanoyl-CoA dioxygenase (PhyH) family	PhyH			2A1X
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_01045	COG3000	I	Sterol desaturase/sphingolipid hydroxylase, fatty acid hydroxylase superfamily	ERG3			4ZR0
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_01055	COG2227	H	2-polyprenyl-3-methyl-5-hydroxy-6-metoxy-1,4-benzoquinol methylase	UbiG	Ubiquinone biosynthesis		1BHJ
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_01075	COG2010	C	Cytochrome c, mono- and diheme variants	CccA			1A2S
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_01085	COG0789	K	DNA-binding transcriptional regulator, MerR family	SoxR			2VZ4
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_01090	COG1023	G	6-phosphogluconate dehydrogenase (decarboxylating)	YqeC			4E21
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_01095	COG0596	HR	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold	MenH	Menaquinone biosynthesis		4MYS
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_01100	COG3246	S	Uncharacterized conserved protein, DUF849 family				3C6C
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_01105	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_01110	COG3333	R	TctA family transporter			14499931	
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_01120	COG1167	KE	DNA-binding transcriptional regulator, MocR family, contains an aminotransferase domain	ARO8	Lysine biosynthesis		2R2N
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_01130	COG0447	H	1,4-Dihydroxy-2-naphthoyl-CoA synthase	MenB	Menaquinone biosynthesis		4ELS
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_01135	COG1932	HE	Phosphoserine aminotransferase	SerC	Serine biosynthesis		1BJN
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_01145	COG2303	IR	Choline dehydrogenase or related flavoprotein	BetA	Non-phosphorylated Entner-Doudoroff pathway		1B4V
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_01150	COG0690	U	Preprotein translocase subunit SecE	SecE		29684280	5MG3
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_01170	COG1674	D	DNA segregation ATPase FtsK/SpoIIIE or related protein	FtsK			2IUT
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_01175	COG0079	E	Histidinol-phosphate/aromatic aminotransferase or cobyric acid decarboxylase	HisC	Cobalamine/B12 biosynthesis		4R2N
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_01180	COG2179	R	Predicted phosphohydrolase YqeG, HAD superfamily	YqeG			
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_01190	COG2835	J	RNA methyltransferase activator Trm112/YbaR	Trm112		27986851;30010922	2KPI
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_01195	COG0466	O	ATP-dependent Lon protease, bacterial type	Lon			6ON2
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_01200	COG0526	O	Thiol-disulfide isomerase or thioredoxin	TrxA			1XFL
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_01205	COG2606	J	Cys-tRNA(Pro) deacylase, prolyl-tRNA editing enzyme YbaK/EbsC	EbsC			1DBU
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_01210	COG0673	R	Predicted dehydrogenase	MviM			3UUW
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_01215	COG2008	E	Threonine aldolase	GLY1			4LNJ
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_01230	COG0169	E	Shikimate 5-dehydrogenase	AroE	Aromatic amino acid biosynthesis		1NPD
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_01235	COG0856	F	Orotate phosphoribosyltransferase homolog	PyrE2			
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_01240	COG0308	E	Aminopeptidase N, contains DUF3458 domain	PepN		24123841	6ATK
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_01245	COG0346	Q	Catechol 2,3-dioxygenase or related enzyme, vicinal oxygen chelate (VOC) family	GloA		11830595	3R4Q
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_01250	COG0514	L	Superfamily II DNA helicase RecQ	RecQ			1OYW
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_01255	COG0596	HR	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold	MenH	Menaquinone biosynthesis		4MYS
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_01260	COG0187	L	DNA gyrase/topoisomerase IV, subunit B	GyrB			1EI1
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_01270	COG3968	E	Glutamine synthetase type III	GlnA3			
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_01280	COG1167	KE	DNA-binding transcriptional regulator, MocR family, contains an aminotransferase domain	ARO8	Lysine biosynthesis		2R2N
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_01295	COG1047	O	Peptidyl-prolyl cis-trans isomerase, FKBP type	SlpA			2M2A
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_01300	COG0514	L	Superfamily II DNA helicase RecQ	RecQ			1OYW
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_01320	COG0028	EH	Acetolactate synthase large subunit or other thiamine pyrophosphate-requiring enzyme	IlvB	Isoleucine, leucine, valine biosynthesis		1BFD
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_01325	COG1122	PR	Energy-coupling factor transporter ATP-binding protein EcfA2	EcfA2			4HUQ
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_01330	COG0405	E	Gamma-glutamyltranspeptidase	Ggt		16618936	2Z8I
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_01335	COG2233	F	Xanthine/uracil permease	UraA	Pyrimidine degradation		3QE7
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_01340	COG0110	R	Acetyltransferase, isoleucine patch superfamily	WbbJ			
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_01345	COG0365	I	Acyl-coenzyme A synthetase/AMP-(fatty) acid ligase	Acs		14638756	4B2O
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_01350	COG1804	I	Crotonobetainyl-CoA:carnitine CoA-transferase CaiB and related acyl-CoA transferases	CaiB			1P5H
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_01360	COG1082	G	Sugar phosphate isomerase/epimerase	YcjR		30742415	3KTC
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_01380	COG1784	R	TctA family transporter			14499931	
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_01385	COG0787	M	Alanine racemase	Alr	Mureine biosynthesis		1BD0
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_01390	COG0305	L	Replicative DNA helicase	DnaB			1B79
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_01395	COG0359	J	Ribosomal protein L9	RplI	Ribosome 50S subunit	27112601	1VS6
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_01400	COG0238	J	Ribosomal protein S18	RpsR	Ribosome 30S subunit		4V4H
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_01410	COG0331	I	Malonyl CoA-acyl carrier protein transacylase	FabD	Fatty acid biosynthesis		1YXC
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_01415	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_01420	COG0236	I	Acyl carrier protein	AcpP	Fatty acid biosynthesis		1ACP
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_01425	COG0304	IQ	3-oxoacyl-(acyl-carrier-protein) synthase	FabB	Fatty acid biosynthesis	21652641	2UV8
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_01435	COG3709	G	Ribose 1,5-bisphosphate kinase PhnN	PhnN			
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_01440	COG0030	J	16S rRNA A1518 and A1519 N6-dimethyltransferase RsmA/KsgA/DIM1 (may also have DNA glycosylase/AP lyase activity)	RsmA	16S rRNA modification		1QYR
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_01450	COG0760	O	Peptidyl-prolyl isomerase, parvulin family	SurA			2ZR5
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_01465	COG0260	E	Leucyl aminopeptidase	PepB		19553197;23825549	3H8E
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_01470	COG2927	L	DNA polymerase III, chi subunit	HolC			1EM8
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_01475	COG0105	F	Nucleoside diphosphate kinase	Ndk	Pyrimidine biosynthesis		1B4S
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_01485	COG0788	F	Formyltetrahydrofolate hydrolase	PurU	Purine biosynthesis		3O1L
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_01505	COG0686	E	Alanine dehydrogenase (includes sporulation protein SpoVN)	Ald	Urea cycle		2EEZ
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_01515	COG0333	J	Ribosomal protein L32	RpmF	Ribosome 50S subunit	17114934	1VS6
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_01525	COG1725	K	DNA-binding transcriptional regulator YhcF, GntR family	YhcF			4R1H
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_01530	COG0719	O	Fe-S cluster assembly scaffold protein SufB	SufB			1VH4
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_01535	COG0444	EP	ABC-type dipeptide/oligopeptide/nickel transport system, ATPase component	DppD			4FWI
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_01540	COG0719	O	Fe-S cluster assembly scaffold protein SufB	SufB			1VH4
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_01545	COG3844	E	Kynureninase	Bna5			
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_01560	COG4172	Q	ABC-type microcin C transport system, duplicated ATPase component YejF	YejF		17873039	
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_01565	COG0596	HR	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold	MenH	Menaquinone biosynthesis		4MYS
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_01570	COG0061	H	NAD kinase	NadK			1SUW
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_01580	COG2266	H	GTP:adenosylcobinamide-phosphate guanylyltransferase		Cobalamine/B12 biosynthesis	16895922	2MZB
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_01585	COG0517	T	CBS domain	CBS			1B3O
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_01590	COG0809	J	S-adenosylmethionine:tRNA-ribosyltransferase-isomerase (queuine synthetase)	QueA	tRNA modification		1VKY
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_01600	COG0343	J	Queuine/archaeosine tRNA-ribosyltransferase	Tgt	tRNA modification	15805528	1XW8
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_01605	COG1600	J	Epoxyqueuosine reductase QueG (queuosine biosynthesis)	QueG	tRNA modification	2150253	5D08
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_01610	COG0004	P	Ammonia channel protein AmtB	AmtB			1U77
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_01615	COG0123	Q	Acetoin utilization deacetylase AcuC or a related deacetylase	AcuC			1C3P
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_01620	COG0697	GER	Permease of the drug/metabolite transporter (DMT) superfamily	RhaT			5I20
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_01630	COG0300	R	Short-chain dehydrogenase	YqjQ			
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_01635	COG0665	E	Glycine/D-amino acid oxidase (deaminating)	DadA			3AWI
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_01640	COG2227	H	2-polyprenyl-3-methyl-5-hydroxy-6-metoxy-1,4-benzoquinol methylase	UbiG	Ubiquinone biosynthesis		1BHJ
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_01655	COG1793	L	ATP-dependent DNA ligase	CDC9			1A0I
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_01660	COG1236	J	RNA processing exonuclease, beta-lactamase fold, Cft2 family	YSH1			2DKF
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_01670	COG0514	L	Superfamily II DNA helicase RecQ	RecQ			1OYW
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_01680	COG1232	H	Protoporphyrinogen oxidase HemY/PPOX	HemY	Heme biosynthesis		3LOV
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_01690	COG2518	O	Protein-L-isoaspartate O-methyltransferase	Pcm		24909784	3LBF
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_01705	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_01710	COG4221	C	NADP-dependent 3-hydroxy acid dehydrogenase YdfG	YdfG	Pyrimidine degradation		3P19
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_01735	COG1058	L	ADP-ribose pyrophosphatase domain of DNA damage- and competence-inducible protein CinA	CinA		25313401	4CT9
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_01750	COG0512	EH	Anthranilate/para-aminobenzoate synthase component II (glutamine amidotransferase)	PabA	Aromatic amino acid biosynthesis		1I1Q
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_01755	COG0439	I	Biotin carboxylase	AccC	Fatty acid biosynthesis		1BNC
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_01765	COG3398	K	Predicted transcriptional regulator, contains two HTH domains				
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_01780	COG0079	E	Histidinol-phosphate/aromatic aminotransferase or cobyric acid decarboxylase	HisC	Cobalamine/B12 biosynthesis		4R2N
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_01785	COG0513	L	Superfamily II DNA and RNA helicase	SrmB			3RRM
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_01790	COG0697	GER	Permease of the drug/metabolite transporter (DMT) superfamily	RhaT			5I20
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_01795	COG0530	P	Ca2+/Na+ antiporter	ECM27			3V5S
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_01800	COG0322	L	Excinuclease UvrABC, nuclease subunit	UvrC		24513124	2NRT
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_01805	COG0558	I	Phosphatidylglycerophosphate synthase	PgsA	Phospholipid biosynthesis		4MND
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_01815	COG1846	K	DNA-binding transcriptional regulator, MarR family	MarR			1JGS
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_01820	COG2204	T	DNA-binding transcriptional response regulator, NtrC family, contains REC, AAA-type ATPase, and a Fis-type DNA-binding domains	AtoC			1ZY2
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_01825	COG0642	T	Signal transduction histidine kinase	BaeS			1JOY
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_01830	COG0148	G	Enolase	Eno	Glycolysis		1E9I
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_01835	COG2877	M	3-deoxy-D-manno-octulosonic acid (KDO) 8-phosphate synthase	KdsA	Lipid A biosynthesis		1G7U
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_01840	COG0504	F	CTP synthase (UTP-ammonia lyase)	PyrG	Pyrimidine biosynthesis		1S1M
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_01845	COG1314	U	Protein translocase subunit SecG	SecG			2AKH
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_01850	COG0149	G	Triosephosphate isomerase	TpiA	Glycolysis		1HG3
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_01855	COG0760	O	Peptidyl-prolyl isomerase, parvulin family	SurA			2ZR5
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_01860	COG0147	EH	Anthranilate/para-aminobenzoate synthases component I	TrpE	Aromatic amino acid biosynthesis		1I1Q
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_01875	COG3450	R	Predicted enzyme of the cupin superfamily				1LKN
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_01880	COG1902	C	2,4-dienoyl-CoA reductase or related NADH-dependent reductase, Old Yellow Enzyme (OYE) family	FadH			1BWK
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_01885	COG1021	Q	EntE, 2,3-dihydroxybenzoate-AMP synthase component of non-ribosomal peptide synthetase	EntE			3RG2
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_01895	COG0697	GER	Permease of the drug/metabolite transporter (DMT) superfamily	RhaT			5I20
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_01900	COG3038	C	Cytochrome b561	CybB			5OC0
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_01905	COG0177	L	Endonuclease III	Nth			4UOB
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_01910	COG2135	L	ssDNA abasic site-binding protein YedK/HMCES, SRAP family	SRAP		30554877;31504793	1ZN6
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_01915	COG0009	J	tRNA A37 threonylcarbamoyladenosine synthetase subunit TsaC/SUA5/YrdC	TsaC	tRNA modification		1HRU
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_01930	COG0859	M	ADP-heptose:LPS heptosyltransferase	RfaF			1PSW
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_01940	COG1452	M	LPS assembly outer membrane protein LptD (organic solvent tolerance protein OstA)	LptD			4N4R
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_01980	COG0436	E	Aspartate/methionine/tyrosine aminotransferase	AspB	Isoleucine, leucine, valine biosynthesis		2O0R
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_01985	COG2771	K	DNA-binding transcriptional regulator, CsgD family	CsgD			
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_01990	COG3791	S	Uncharacterized conserved protein				1X6M
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_01995	COG0526	O	Thiol-disulfide isomerase or thioredoxin	TrxA			1XFL
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_02000	COG1138	CO	Cytochrome c biogenesis protein CcmF	CcmF			
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_02005	COG2332	CO	Cytochrome c biogenesis protein CcmE	CcmE			1J6Q
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_02010	COG3191	E	L-aminopeptidase/D-esterase	DmpA			1B65
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_02015	COG0414	H	Panthothenate synthetase	PanC	Pantothenate/CoA biosynthesis	17968677	1DIN
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_02030	COG0625	O	Glutathione S-transferase	GstA			1A0F
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_02050	COG0730	P	Sulfite exporter TauE/SafE/YfcA and related permeases, UPF0721 family	TauE		21183667;22797525	
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_02060	COG0579	G	L-2-hydroxyglutarate oxidase LhgO	LhgO			3DME
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_02065	COG4311	E	Sarcosine oxidase delta subunit	SoxD			2GAH
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_02070	COG0446	I	NADPH-dependent 2,4-dienoyl-CoA reductase, sulfur reductase, or a related oxidoreductase	FadH2			1VRQ
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_02075	COG4583	E	Sarcosine oxidase gamma subunit	SoxG			
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_02095	COG0406	G	Broad specificity phosphatase PhoE	PhoE			1EBB
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_02105	COG2038	H	NaMN:DMB phosphoribosyltransferase	CobT	Cobalamine/B12 biosynthesis		1D0S
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_02110	COG2087	H	Adenosyl cobinamide kinase/adenosyl cobinamide phosphate guanylyltransferase	CobU	Cobalamine/B12 biosynthesis		1C9K
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_02115	COG5598	H	Trimethylamine:corrinoid methyltransferase	MttB2			
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_02120	COG0579	G	L-2-hydroxyglutarate oxidase LhgO	LhgO			3DME
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_02125	COG0031	E	Cysteine synthase	CysK	Cysteine biosynthesis		1FCJ
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_02130	COG0329	EM	4-hydroxy-tetrahydrodipicolinate synthase/N-acetylneuraminate lyase	DapA	Lysine biosynthesis	27574185	2R91
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_02135	COG0691	O	tmRNA-binding protein	SmpB		26251518	1J1H
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_02155	COG1758	K	DNA-directed RNA polymerase, subunit K/omega	RpoZ	RNA polymerase		3LU0
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_02160	COG0317	TK	(p)ppGpp synthase/hydrolase, HD superfamily	SpoT			1TDJ
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_02175	COG2977	Q	4'-phosphopantetheinyl transferase EntD (siderophore biosynthesis)	EntD			4QJK
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_02180	COG0681	U	Signal peptidase I	LepB		1925027	1B12
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_02185	COG0571	K	dsRNA-specific ribonuclease	Rnc			1DI2
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_02190	COG1160	J	Double Era-like domain GTPase Der	Der			1MKY
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_02200	COG0188	L	DNA gyrase/topoisomerase IV, subunit A	GyrA			1SUU
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_02210	COG0498	E	Threonine synthase	ThrC	Threonine biosynthesis		1VB3
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_02215	COG0113	H	Delta-aminolevulinic acid dehydratase, porphobilinogen synthase	HemB	Heme biosynthesis		1I8J
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_02225	COG0441	J	Threonyl-tRNA synthetase	ThrS	Aminoacyl-tRNA synthetases		1NYQ
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_02230	COG0577	V	ABC-type antimicrobial peptide transport system, permease component	SalY			
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_02240	COG1593	G	TRAP-type C4-dicarboxylate transport system, large permease component	DctQ			
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_02245	COG4665	Q	TRAP-type mannitol/chloroaromatic compound transport system, small permease component	FcbT2			
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_02250	COG1638	G	TRAP-type C4-dicarboxylate transport system, periplasmic component	DctP			2CEX
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_02260	COG2940	R	SET domain-containing protein (function unknown)	SET			6BX3
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_02265	COG3176	R	Putative hemolysin				
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_02270	COG1105	G	1-phosphofructokinase or 6-phosphofructokinase II	FruK			2ABQ
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_02275	COG0859	M	ADP-heptose:LPS heptosyltransferase	RfaF			1PSW
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_02280	COG0514	L	Superfamily II DNA helicase RecQ	RecQ			1OYW
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_02295	COG0004	P	Ammonia channel protein AmtB	AmtB			1U77
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_02300	COG1104	E	Cysteine desulfurase/Cysteine sulfinate desulfinase IscS or related enzyme, NifS family	NifS		22773787;25825430	4IXO
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_02305	COG2524	K	Predicted transcriptional regulator, contains C-terminal CBS domains				
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_02330	COG0534	V	Na+-driven multidrug efflux pump, DinF/NorM/MATE family	NorM		29915058	3VVN
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_02345	COG0607	P	Rhodanese-related sulfurtransferase	PspE	Urea cycle		1TQ1
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_02350	COG0036	G	Pentose-5-phosphate-3-epimerase	Rpe	Pentose phosphate pathway		1H1Y
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_02355	COG1204	L	Replicative superfamily II helicase	BRR2			2VA8
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_02380	COG0154	J	Asp-tRNAAsn/Glu-tRNAGln amidotransferase A subunit or related amidase	GatA	Aminoacyl-tRNA synthetases		3H0L
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_02385	COG1062	C	Zn-dependent alcohol/formaldehyde dehydrogenase	FrmA			1A71
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_02395	COG1012	I	Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase	AdhE	Proline degradation		1A4S
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_02400	COG0346	Q	Catechol 2,3-dioxygenase or related enzyme, vicinal oxygen chelate (VOC) family	GloA		11830595	3R4Q
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_02405	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_02410	COG0730	P	Sulfite exporter TauE/SafE/YfcA and related permeases, UPF0721 family	TauE		21183667;22797525	
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_02420	COG1178	P	ABC-type Fe3+ transport system, permease component	FbpB			
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_02430	COG3638	P	ABC-type phosphate/phosphonate transport system, ATPase component	PhnC			
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_02435	COG2084	I	3-hydroxyisobutyrate dehydrogenase or related beta-hydroxyacid dehydrogenase	MmsB			1I36
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_02440	COG3208	Q	Surfactin synthase thioesterase subunit	GrsT			6VAP
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_02445	COG2873	E	O-acetylhomoserine/O-acetylserine sulfhydrylase, pyridoxal phosphate-dependent	MET17	Methionine biosynthesis		2CTZ
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_02455	COG1014	C	Pyruvate:ferredoxin oxidoreductase or related 2-oxoacid:ferredoxin oxidoreductase, gamma subunit	PorG	Pyruvate oxidation		1B0P
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_02460	COG1030	O	Membrane-bound serine protease NfeD, ClpP class	NfeD			2DEO
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_02465	COG2272	I	Carboxylesterase type B	PnbA			1K4Y
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_02470	COG0842	V	ABC-type multidrug transport system, permease component	YadH			
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_02475	COG0396	O	Fe-S cluster assembly ATPase SufC	SufC			2D3W
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_02485	COG3395	G	D-threonate/D-erythronate kinase OtnK and related C4-acid sugar kinases, YgbK/DUF1537 family	OtnK		27402745	1YZY
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_02510	COG0154	J	Asp-tRNAAsn/Glu-tRNAGln amidotransferase A subunit or related amidase	GatA	Aminoacyl-tRNA synthetases		3H0L
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_02520	COG2847	P	Copper(I)-binding protein				1X9L
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_02525	COG0579	G	L-2-hydroxyglutarate oxidase LhgO	LhgO			3DME
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_02530	COG2303	IR	Choline dehydrogenase or related flavoprotein	BetA	Non-phosphorylated Entner-Doudoroff pathway		1B4V
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_02535	COG0240	C	Glycerol-3-phosphate dehydrogenase	GpsA	Isoprenoid biosynthesis		1EVY
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_02540	COG1012	I	Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase	AdhE	Proline degradation		1A4S
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_02545	COG1063	ER	Threonine dehydrogenase or related Zn-dependent dehydrogenase	Tdh	Non-phosphorylated Entner-Doudoroff pathway		4A2C
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_02560	COG1804	I	Crotonobetainyl-CoA:carnitine CoA-transferase CaiB and related acyl-CoA transferases	CaiB			1P5H
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_02570	COG1023	G	6-phosphogluconate dehydrogenase (decarboxylating)	YqeC			4E21
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_02585	COG0657	I	Acetyl esterase/lipase	Aes			1EVQ
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_02590	COG1127	M	ATPase subunit MlaF of the ABC-type intermembrane phospholipid transporter Mla	MlaF			6IC4
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_02595	COG1119	P	ABC-type molybdenum transport system, ATPase component ModF/photorepair protein PhrA	ModF			2IHY
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_02600	COG0559	E	Branched-chain amino acid ABC-type transport system, permease component	LivH			
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_02605	COG4177	E	ABC-type branched-chain amino acid transport system, permease component	LivM			
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_02610	COG0683	E	ABC-type branched-chain amino acid transport system, periplasmic component	LivK			1USG
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_02625	COG2333	U	DNA uptake channel protein ComEC C-terminal domain, metallo-beta-lactamase superfamily	ComEC			
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_02630	COG3223	R	Phosphate starvation-inducible membrane PsiE (function unknown)	PsiE			
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_02635	COG1226	P	Voltage-gated potassium channel Kch	Kch			3FWZ
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_02645	COG1506	E	Dipeptidyl aminopeptidase/acylaminoacyl peptidase	DAP2			2JBW
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_02650	COG0162	J	Tyrosyl-tRNA synthetase	TyrS	Aminoacyl-tRNA synthetases		4OUD
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_02655	COG3164	S	Uncharacterized conserved protein YhdP, contains DUF3971 and AsmA2 domains	YhdR			
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_02660	COG0450	V	Alkyl hydroperoxide reductase subunit AhpC (peroxiredoxin)	AhpC			2RII
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_02665	COG1186	J	Protein chain release factor PrfB	PrfB	Translation factors		1GQE
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_02670	COG5009	M	Membrane carboxypeptidase/penicillin-binding protein	MrcA			3D0F
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_02675	COG0860	M	N-acetylmuramoyl-L-alanine amidase	AmiC			1JWQ
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_02680	COG0411	E	ABC-type branched-chain amino acid transport system, ATPase component LivG	LivG		29514851	1G9X
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_02690	COG2814	G	Predicted arabinose efflux permease AraJ, MFS family	AraJ			4LDS
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_02695	COG5470	S	Uncharacterized conserved protein, DUF1330 family				
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_02700	COG5598	H	Trimethylamine:corrinoid methyltransferase	MttB2			
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_02705	COG1979	C	Alcohol dehydrogenase YqhD, Fe-dependent ADH family	YqdH			1OJ7
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_02715	COG1012	I	Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase	AdhE	Proline degradation		1A4S
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_02720	COG0297	G	Glycogen synthase	GlgA			1RZU
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_02725	COG0034	F	Glutamine phosphoribosylpyrophosphate amidotransferase	PurF	Purine biosynthesis		1ECB
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_02730	COG0742	J	16S rRNA G966 N2-methylase RsmD	RsmD	16S rRNA modification		2IFT
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_02735	COG0219	J	tRNA(Leu) C34 or U34 (ribose-2'-O)-methylase TrmL, contains SPOUT domain	TrmL	tRNA modification		4JAK
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_02740	COG2759	F	Formyltetrahydrofolate synthetase	MIS1			1EG7
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_02745	COG2207	K	AraC-type DNA-binding domain and AraC-containing proteins	AraC			1BL0
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_02750	COG2166	O	Sulfur transfer protein SufE, Fe-S cluster assembly	SufE			1MZG
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_02755	COG1807	M	PMT family glycosyltransferase ArnT/Agl22, involved in glycosylation of proteins and lipid IVA	ArnT		16226890;31233657;32706435	5EZM
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_02760	COG1846	K	DNA-binding transcriptional regulator, MarR family	MarR			1JGS
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_02770	COG3750	S	Uncharacterized conserved protein, UPF0335 family				6CFY
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_02775	COG0284	F	Orotidine-5'-phosphate decarboxylase	PyrF	Pyrimidine biosynthesis		1DBT
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_02785	COG2807	P	Cyanate permease	CynX			
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_02790	COG1249	C	Dihydrolipoamide dehydrogenase (E3) component of pyruvate/2-oxoglutarate dehydrogenase complex or glutathione oxidoreductase	Lpd	Glycine cleavagePyruvate oxidation		6QKG
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_02795	COG4942	D	Septal ring factor EnvC, activator of murein hydrolases AmiA and AmiB	EnvC			
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_02805	COG1903	H	Cobalamin biosynthesis protein CbiD (cobalt-precorrin-5B C-methyltransferase)	CbiD	Cobalamine/B12 biosynthesis		1SR8
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_02810	COG1010	H	Precorrin-3B methylase	CobJ	Cobalamine/B12 biosynthesis		2ZVB
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_02815	COG3442	R	Glutamine amidotransferase related to the GATase domain of CobQ				5N9M
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_02820	COG2243	H	Precorrin-2 methylase	CobF	Cobalamine/B12 biosynthesis		2QBU
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_02825	COG2241	H	Precorrin-6B methylase 1	CobL	Cobalamine/B12 biosynthesis		
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_02830	COG2241	H	Precorrin-6B methylase 1	CobL	Cobalamine/B12 biosynthesis		
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_02835	COG2243	H	Precorrin-2 methylase	CobF	Cobalamine/B12 biosynthesis		2QBU
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_02840	COG2082	H	Precorrin-8X methylmutase CbiC/CobH	CobH	Cobalamine/B12 biosynthesis		1F2V
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_02850	COG1270	H	Cobalamin biosynthesis protein CobD/CbiB	CbiB	Cobalamine/B12 biosynthesis		
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_02855	COG3442	R	Glutamine amidotransferase related to the GATase domain of CobQ				5N9M
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_02860	COG2109	H	ATP:corrinoid adenosyltransferase	BtuR	Cobalamine/B12 biosynthesis		4HUT
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_02870	COG0523	R	Zinc metallochaperone YeiR/ZagA and related GTPases, G3E family	YejR		19822009;31132310	1NIJ
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_02875	COG2370	O	Hydrogenase/urease accessory protein HupE	HupE			
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_02880	COG0436	E	Aspartate/methionine/tyrosine aminotransferase	AspB	Isoleucine, leucine, valine biosynthesis		2O0R
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_02885	COG0451	M	Nucleoside-diphosphate-sugar epimerase	WcaG			2X4G
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_02890	COG0191	G	Fructose/tagatose bisphosphate aldolase	Fba	Glycolysis		1B57
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_02895	COG0158	G	Fructose-1,6-bisphosphatase	Fbp	Gluconeogenesis		1BK4
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_02905	COG0820	J	Adenine C2-methylase RlmN of 23S rRNA A2503 and tRNA A37	RlmN	23S rRNA modification		3RFA
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_02915	COG4941	K	Predicted RNA polymerase sigma factor, contains C-terminal TPR domain				
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_02930	COG2755	DI	Lysophospholipase L1 or related esterase. Includes spore coat protein LipC/YcsK	TesA			1BWP
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_02935	COG4778	P	Alpha-D-ribose 1-methylphosphonate 5-triphosphate synthase subunit PhnL	PhnL			
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_02940	COG0577	V	ABC-type antimicrobial peptide transport system, permease component	SalY			
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_02945	COG0137	E	Argininosuccinate synthase	ArgG	Arginine biosynthesis		1J1Z
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_02955	COG0605	P	Superoxide dismutase	SodA			1AP5
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_02960	COG1012	I	Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase	AdhE	Proline degradation		1A4S
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_02965	COG1023	G	6-phosphogluconate dehydrogenase (decarboxylating)	YqeC			4E21
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_02975	COG2236	H	Hypoxanthine phosphoribosyltransferase	Hpt1	Purine salvage		2JKZ
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_02980	COG1063	ER	Threonine dehydrogenase or related Zn-dependent dehydrogenase	Tdh	Non-phosphorylated Entner-Doudoroff pathway		4A2C
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_02985	COG0607	P	Rhodanese-related sulfurtransferase	PspE	Urea cycle		1TQ1
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_02990	COG1023	G	6-phosphogluconate dehydrogenase (decarboxylating)	YqeC			4E21
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_02995	COG0559	E	Branched-chain amino acid ABC-type transport system, permease component	LivH			
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_03000	COG4177	E	ABC-type branched-chain amino acid transport system, permease component	LivM			
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_03005	COG0444	EP	ABC-type dipeptide/oligopeptide/nickel transport system, ATPase component	DppD			4FWI
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_03010	COG3840	H	ABC-type thiamine transport system, ATPase component ThiQ	ThiQ			
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_03015	COG0683	E	ABC-type branched-chain amino acid transport system, periplasmic component	LivK			1USG
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_03020	COG3071	S	Uncharacterized protein HemY, contains HemY_N domain and TPR repeats (unrelated to protoporphyrinogen oxidase HemY)	HemYx			
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_03025	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_03030	COG1587	H	Uroporphyrinogen-III synthase	HemD	Heme biosynthesis		1JR2
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_03035	COG0181	H	Porphobilinogen deaminase	HemC	Heme biosynthesis		1AH5
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_03040	COG1003	E	Glycine cleavage system protein P (pyridoxal-binding), C-terminal domain	GcvP2	Glycine cleavage		4LGL
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_03045	COG0509	E	Glycine cleavage system protein H (lipoate-binding)	GcvH	Glycine cleavage		1DXM
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_03050	COG0404	E	Glycine cleavage system protein T (aminomethyltransferase)	GcvT	Glycine cleavage	25433025;25505271	2GAH
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_03055	COG0533	J	tRNA A37 threonylcarbamoyltransferase TsaD	TsaD	tRNA modification	23072323;21285948;32385138	3ENO
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_03070	COG3952	R	Uncharacterized N-terminal domain of lipid-A-disaccharide synthase	LABN			
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_03075	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_03080	COG1807	M	PMT family glycosyltransferase ArnT/Agl22, involved in glycosylation of proteins and lipid IVA	ArnT		16226890;31233657;32706435	5EZM
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_03085	COG0534	V	Na+-driven multidrug efflux pump, DinF/NorM/MATE family	NorM		29915058	3VVN
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_03095	COG2084	I	3-hydroxyisobutyrate dehydrogenase or related beta-hydroxyacid dehydrogenase	MmsB			1I36
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_03100	COG0483	G	Archaeal fructose-1,6-bisphosphatase or related enzyme, inositol monophosphatase family	SuhB	Gluconeogenesis		1AWB
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_03105	COG3474	C	Cytochrome c2	Cyc7			1YEA
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_03110	COG1861	M	Spore coat polysaccharide biosynthesis protein SpsF, cytidylyltransferase family	SpsF			
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_03115	COG0077	E	Prephenate dehydratase	PheA2	Aromatic amino acid biosynthesis		1PHZ
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_03125	COG2256	L	Replication-associated recombination protein RarA (DNA-dependent ATPase)	RarA			3PVS
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_03130	COG0718	K	DNA-binding nucleoid-associated protein YbaB/EfbC	YbaB		19594923;22544270	1J8B
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_03135	COG0353	L	Recombinational DNA repair protein RecR	RecR		26337406	2JGR
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_03145	COG0242	J	Peptide deformylase	Def			1BS4
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_03150	COG0299	F	Folate-dependent phosphoribosylglycinamide formyltransferase PurN	PurN	Purine biosynthesis	25013077	1C2T
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_03155	COG0101	J	tRNA U38,U39,U40 pseudouridine synthase TruA	TruA	tRNA modification		1DJ0
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_03165	COG1473	R	Metal-dependent amidase/aminoacylase/carboxypeptidase	AbgB	Lysine biosynthesis	17307853	3RAM
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_03170	COG1044	M	UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase	LpxD	Lipid A biosynthesis		6P83
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_03175	COG1011	H	FMN and 5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YigB, HAD superfamily (riboflavin biosynthesis)	YigB		24123841	4JB3
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_03180	COG1608	I	Isopentenyl phosphate kinase			16621811	3LKK
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_03185	COG1160	J	Double Era-like domain GTPase Der	Der			1MKY
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_03190	COG0706	M	Membrane protein insertase Oxa1/YidC/SpoIIIJ	YidC			3WO6
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_03200	COG0594	J	RNase P protein component	RnpA			1A6F
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_03205	COG0230	J	Ribosomal protein L34	RpmH	Ribosome 50S subunit		6SPB
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_03220	COG0823	U	Periplasmic component TolB of the Tol biopolymer transport system	TolB			1C5K
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_03245	COG2256	L	Replication-associated recombination protein RarA (DNA-dependent ATPase)	RarA			3PVS
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_03250	COG1948	L	ERCC4-type crossover junction endonuclease	MUS81			1J22
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_03260	COG0217	KJ	Transcriptional and/or translational regulatory protein YebC/TACO1	TACO1			1KON
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_03290	COG0021	G	Transketolase	TktA	Pentose phosphate pathway		1AY0
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_03295	COG0057	G	Glyceraldehyde-3-phosphate dehydrogenase/erythrose-4-phosphate dehydrogenase	GapA	Glycolysis		3ZDF
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_03300	COG0231	J	Translation elongation factor P (EF-P)/translation initiation factor 5A (eIF-5A)	Efp	Translation factors		1UEB
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_03305	COG0483	G	Archaeal fructose-1,6-bisphosphatase or related enzyme, inositol monophosphatase family	SuhB	Gluconeogenesis		1AWB
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_03315	COG2885	M	Outer membrane protein OmpA and related peptidoglycan-associated (lipo)proteins	OmpA			1OAP
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_03325	COG0578	C	Glycerol-3-phosphate dehydrogenase	GlpA	Isoprenoid biosynthesis		2RGH
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_03330	COG1283	P	Na+/phosphate symporter	NptA			
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_03340	COG0697	GER	Permease of the drug/metabolite transporter (DMT) superfamily	RhaT			5I20
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_03350	COG0378	O	Hydrogenase/urease maturation factor HypB, Ni2+-binding GTPase	HypB		24338018;23899293	2HF8
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_03360	COG2609	C	Pyruvate dehydrogenase complex, dehydrogenase (E1) component	AceE	Pyruvate oxidation		1L8A
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_03365	COG2512	R	Predicted transcriptional regulator, contains CW (cell wall-binding) repeats and an HTH domain				
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_03370	COG1280	E	Threonine/homoserine/homoserine lactone efflux protein	RhtB			
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_03375	COG1091	M	dTDP-4-dehydrorhamnose reductase	RfbD			1KBZ
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_03380	COG0623	I	Enoyl-[acyl-carrier-protein] reductase FabI	FabI	Fatty acid biosynthesis		1C14
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_03385	COG0129	EG	Dihydroxyacid dehydratase/phosphogluconate dehydratase	IlvD	Isoleucine, leucine, valine biosynthesis		2GP4
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_03390	COG0179	Q	2-keto-4-pentenoate hydratase/2-oxohepta-3-ene-1,7-dioic acid hydratase (catechol pathway)	YcgM			1GTT
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_03395	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_03400	COG1023	G	6-phosphogluconate dehydrogenase (decarboxylating)	YqeC			4E21
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_03405	COG0673	R	Predicted dehydrogenase	MviM			3UUW
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_03410	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_03415	COG0673	R	Predicted dehydrogenase	MviM			3UUW
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_03430	COG1063	ER	Threonine dehydrogenase or related Zn-dependent dehydrogenase	Tdh	Non-phosphorylated Entner-Doudoroff pathway		4A2C
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_03435	COG0436	E	Aspartate/methionine/tyrosine aminotransferase	AspB	Isoleucine, leucine, valine biosynthesis		2O0R
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_03440	COG1879	G	ABC-type sugar transport system, periplasmic component, contains N-terminal xre family HTH domain	RbsB			1BA2
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_03445	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_03450	COG0141	E	Histidinol dehydrogenase	HisD	Histidine biosynthesis		1K75
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_03455	COG0446	I	NADPH-dependent 2,4-dienoyl-CoA reductase, sulfur reductase, or a related oxidoreductase	FadH2			1VRQ
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_03460	COG0607	P	Rhodanese-related sulfurtransferase	PspE	Urea cycle		1TQ1
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_03465	COG0697	GER	Permease of the drug/metabolite transporter (DMT) superfamily	RhaT			5I20
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_03470	COG0491	R	Glyoxylase or a related metal-dependent hydrolase, beta-lactamase superfamily II	GloB		25670698	1QH3
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_03475	COG0179	Q	2-keto-4-pentenoate hydratase/2-oxohepta-3-ene-1,7-dioic acid hydratase (catechol pathway)	YcgM			1GTT
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_03480	COG0697	GER	Permease of the drug/metabolite transporter (DMT) superfamily	RhaT			5I20
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_03495	COG0697	GER	Permease of the drug/metabolite transporter (DMT) superfamily	RhaT			5I20
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_03500	COG0697	GER	Permease of the drug/metabolite transporter (DMT) superfamily	RhaT			5I20
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_03505	COG0697	GER	Permease of the drug/metabolite transporter (DMT) superfamily	RhaT			5I20
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_03510	COG0784	T	CheY-like REC (receiver) domain, includes chemotaxis protein CheY  and sporulation regulator Spo0F	CheY			6QRJ
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_03515	COG3290	T	Sensor histidine kinase DipB regulating citrate/malate metabolism	CitA			
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_03520	COG0326	O	Molecular chaperone, HSP90 family	HtpG		30150682	1Y4S
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_03530	COG0542	O	ATP-dependent Clp protease, ATP-binding subunit ClpA	ClpA			1KSF
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_03535	COG0028	EH	Acetolactate synthase large subunit or other thiamine pyrophosphate-requiring enzyme	IlvB	Isoleucine, leucine, valine biosynthesis		1BFD
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_03540	COG1884	I	Methylmalonyl-CoA mutase, N-terminal domain/subunit	Sbm			6OXC
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_03545	COG0697	GER	Permease of the drug/metabolite transporter (DMT) superfamily	RhaT			5I20
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_03555	COG1804	I	Crotonobetainyl-CoA:carnitine CoA-transferase CaiB and related acyl-CoA transferases	CaiB			1P5H
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_03565	COG1018	C	Flavodoxin/ferredoxin--NADP reductase	Fpr			3OZU
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_03570	COG2179	R	Predicted phosphohydrolase YqeG, HAD superfamily	YqeG			
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_03580	COG1052	CHR	Lactate dehydrogenase or related 2-hydroxyacid dehydrogenase	LdhA	Pyridoxal phosphate biosynthesis		1DXY
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_03585	COG3474	C	Cytochrome c2	Cyc7			1YEA
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_03590	COG0167	F	Dihydroorotate dehydrogenase	PyrD	Pyrimidine biosynthesis		1GT8
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_03595	COG5010	UW	Flp pilus assembly protein TadD, contains TPR repeats	TadD			3WXX
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_03605	COG2154	H	Pterin-4a-carbinolamine dehydratase	PhhB			1DCH
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_03610	COG0730	P	Sulfite exporter TauE/SafE/YfcA and related permeases, UPF0721 family	TauE		21183667;22797525	
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_03615	COG0697	GER	Permease of the drug/metabolite transporter (DMT) superfamily	RhaT			5I20
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_03630	COG0126	G	3-phosphoglycerate kinase	Pgk	Glycolysis		13PK
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_03635	COG0225	O	Peptide methionine sulfoxide reductase MsrA	MsrA			1FF3
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_03640	COG0812	M	UDP-N-acetylenolpyruvoylglucosamine reductase	MurB	Mureine biosynthesis		2MBR
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_03650	COG1150	C	Heterodisulfide reductase, subunit C	HdrC			5ODC
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_03655	COG1951	C	Tartrate dehydratase alpha subunit/Fumarate hydratase class I, N-terminal domain	TtdA	TCA cycle	15613473	5L2R
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_03665	COG0207	F	Thymidylate synthase	ThyA	Thymidylate biosynthesis		1AN5
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_03675	COG1192	DN	ParA-like ATPase involved in chromosome/plasmid partitioning or cellulose biosynthesis protein BcsQ	ParA			6NOO
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_03680	COG2268	S	Uncharacterized membrane protein YqiK, contains Band7/PHB/SPFH domain	YqiK			1WIN
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_03685	COG2268	S	Uncharacterized membrane protein YqiK, contains Band7/PHB/SPFH domain	YqiK			1WIN
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_03690	COG1087	M	UDP-glucose 4-epimerase	GalE			1A9Y
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_03700	COG1282	C	NAD/NADP transhydrogenase beta subunit	PntB			1D4O
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_03705	COG3288	C	NAD/NADP transhydrogenase alpha subunit	PntA			1F8G
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_03715	COG1209	M	dTDP-glucose pyrophosphorylase	RmlA1			1FXO
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_03725	COG0828	J	Ribosomal protein S21	RpsU	Ribosome 30S subunit		4V4H
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_03735	COG0518	F	GMP synthase, glutamine amidotransferase domain	GuaA1	Purine biosynthesis		4WIM
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_03740	COG1038	C	Pyruvate carboxylase	PycA	Urea cycle		5VYW
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_03745	COG1691	F	NCAIR mutase (PurE)-related protein				
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_03755	COG0365	I	Acyl-coenzyme A synthetase/AMP-(fatty) acid ligase	Acs		14638756	4B2O
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_03770	COG0404	E	Glycine cleavage system protein T (aminomethyltransferase)	GcvT	Glycine cleavage	25433025;25505271	2GAH
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_03780	COG2271	G	Sugar phosphate permease	UhpC			1PW4
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_03785	COG2303	IR	Choline dehydrogenase or related flavoprotein	BetA	Non-phosphorylated Entner-Doudoroff pathway		1B4V
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_03790	COG1164	E	Oligoendopeptidase F	PepF			3CE2
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_03795	COG1346	M	Putative effector of murein hydrolase	LrgB			
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_03810	COG2303	IR	Choline dehydrogenase or related flavoprotein	BetA	Non-phosphorylated Entner-Doudoroff pathway		1B4V
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_03815	COG1251	C	NAD(P)H-nitrite reductase, large subunit	NirB			
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_03830	COG0766	M	UDP-N-acetylglucosamine enolpyruvyl transferase	MurA	Mureine biosynthesis		1A2N
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_03860	COG0424	Q	7-methyl-GTP pyrophosphatase and related NTP pyrophosphatases, Maf/HAM1 superfamily	Maf		24210219	2P5X
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_03865	COG1530	J	Ribonuclease G or E	CafA			1SLJ
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_03875	COG2887	L	RecB family exonuclease	Slr0479			
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_03880	COG1074	L	3-5 helicase subunit RecB of the DNA repair enzyme RecBCD (exonuclease V)	RecB		29901759;30601118	3U44
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_03885	COG0526	O	Thiol-disulfide isomerase or thioredoxin	TrxA			1XFL
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_03895	COG0777	I	Acetyl-CoA carboxylase beta subunit	AccD	Fatty acid biosynthesis		2F9I
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_03900	COG0042	J	tRNA-dihydrouridine synthase	DusA	tRNA modification		1VHN
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_03905	COG0133	E	Tryptophan synthase beta chain	TrpB	Aromatic amino acid biosynthesis		2DH5
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_03910	COG0135	E	Phosphoribosylanthranilate isomerase	TrpF	Aromatic amino acid biosynthesis		1DL3
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_03925	COG2183	K	Transcriptional accessory protein Tex/SPT6	Tex			2OCE
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_03930	COG1102	F	Cytidylate kinase	CmkB			
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_03935	COG0128	E	5-enolpyruvylshikimate-3-phosphate synthase	AroA	Aromatic amino acid biosynthesis		4N3P
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_03955	COG4221	C	NADP-dependent 3-hydroxy acid dehydrogenase YdfG	YdfG	Pyrimidine degradation		3P19
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_03960	COG2884	D	Cell division ATPase FtsE	FtsE			
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_03965	COG1452	M	LPS assembly outer membrane protein LptD (organic solvent tolerance protein OstA)	LptD			4N4R
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_03970	COG5375	S	Uncharacterized conserved protein				
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_03975	COG0749	L	DNA polymerase I, 3'-5' exonuclease and polymerase domains	PolA			1D8Y
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_03980	COG0778	C	Nitroreductase	NfnB	Pyrimidine degradation		1F5V
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_03995	COG1028	I	NAD(P)-dependent dehydrogenase, short-chain alcohol dehydrogenase family	FabG	Fatty acid biosynthesis		6L1H
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_04020	COG1048	C	Aconitase A	AcnA	Lysine biosynthesisTCA cycle		1ACO
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_04025	COG2224	C	Isocitrate lyase	AceA	TCA cycle, glyoxylate bypass		1DQU
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_04035	COG0145	EQ	N-methylhydantoinase A/oxoprolinase/acetone carboxylase, beta subunit	HyuA			
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_04040	COG1535	Q	Isochorismate hydrolase	EntB1			3TB4
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_04045	COG1053	C	Succinate dehydrogenase/fumarate reductase, flavoprotein subunit	SdhA	TCA cycle		1KF6
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_04050	COG5285	Q	Ectoine hydroxylase-related dioxygenase, phytanoyl-CoA dioxygenase (PhyH) family	PhyH			2A1X
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_04055	COG0697	GER	Permease of the drug/metabolite transporter (DMT) superfamily	RhaT			5I20
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_04070	COG0568	K	DNA-directed RNA polymerase, sigma subunit (sigma70/sigma32)	RpoD	RNA polymerase		1SIG
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_04075	COG1197	LK	Transcription-repair coupling factor (superfamily II helicase)	Mfd			2EYQ
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_04080	COG1146	F	NAD-dependent dihydropyrimidine dehydrogenase, PreA subunit	PreA			
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_04085	COG4103	P	Tellurite resistance protein TerB	TerB2		23044854	2JXU
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_04090	COG1188	J	Ribosomal 50S subunit-recycling heat shock protein, contains S4 domain	HslR			3BBU
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_04095	COG0513	L	Superfamily II DNA and RNA helicase	SrmB			3RRM
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_04100	COG1049	C	Aconitase B	AcnB	TCA cycle		1L5J
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_04105	COG1120	PH	ABC-type cobalamin/Fe3+-siderophores transport system, ATPase component	FepC			2NQ2
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_04125	COG0633	C	Ferredoxin	Fdx			1KRH
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_04135	COG0685	E	5,10-methylenetetrahydrofolate reductase	MetF			1B5T
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_04145	COG2185	I	Methylmalonyl-CoA mutase, C-terminal domain/subunit (cobalamin-binding)	Sbm			1B1A
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_04155	COG0042	J	tRNA-dihydrouridine synthase	DusA	tRNA modification		1VHN
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_04160	COG0141	E	Histidinol dehydrogenase	HisD	Histidine biosynthesis		1K75
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_04165	COG5447	S	Uncharacterized conserved protein, DUF1491 domain				2KNR
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_04175	COG2263	R	Predicted RNA methylase				6H2U
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_04185	COG0138	F	AICAR transformylase/IMP cyclohydrolase PurH	PurH	Purine biosynthesis		1G8M
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_04190	COG2231	L	3-Methyladenine DNA glycosylase, HhH-GPD/Endo3 superfamily	HP0602		14517230;20410075	1PU6
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_04195	COG5389	S	Uncharacterized conserved protein, DUF721 domain				
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_04200	COG2761	O	Predicted dithiol-disulfide isomerase, DsbA/YjbH family (virulence, stress resistance)	FrnE			6GHB
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_04205	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_04215	COG0356	C	FoF1-type ATP synthase, membrane subunit a	AtpB	FoF1-type ATP synthase	22931285	
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_04220	COG0636	C	FoF1-type ATP synthase, membrane subunit c/Archaeal/vacuolar-type H+-ATPase, subunit K	AtpE	FoF1-type ATP synthase		1C17
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_04225	COG0711	C	FoF1-type ATP synthase, membrane subunit b or b'	AtpF	FoF1-type ATP synthase		1B9U
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_04230	COG0711	C	FoF1-type ATP synthase, membrane subunit b or b'	AtpF	FoF1-type ATP synthase		1B9U
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_04240	COG0761	I	4-Hydroxy-3-methylbut-2-enyl diphosphate reductase IspH	IspH	Isoprenoid biosynthesis		3DNF
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_04245	COG2334	T	Ser/Thr protein kinase RdoA involved in Cpx stress response, MazF antagonist	SrkA	Threonine biosynthesis		1ZYL
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_04250	COG0328	L	Ribonuclease HI	RnhA			1LAW
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_04255	COG0450	V	Alkyl hydroperoxide reductase subunit AhpC (peroxiredoxin)	AhpC			2RII
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_04270	COG1025	O	Secreted/periplasmic Zn-dependent peptidases, insulinase-like	Ptr			1Q2L
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_04275	COG0498	E	Threonine synthase	ThrC	Threonine biosynthesis		1VB3
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_04280	COG3346	O	Cytochrome oxidase assembly protein ShyY1	Shy1			
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_04285	COG1845	C	Heme/copper-type cytochrome/quinol oxidase, subunit 3	CyoC			1QLE
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_04300	COG0382	H	4-hydroxybenzoate polyprenyltransferase	UbiA	Ubiquinone biosynthesis	28830929	4OD4
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_04305	COG0843	C	Heme/copper-type cytochrome/quinol oxidase, subunit 1	CyoB			1AR1
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_04310	COG1622	C	Heme/copper-type cytochrome/quinol oxidase, subunit 2	CyoA			1CYW
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_04315	COG0312	R	Zn-dependent protease PmbA/TldA or its inactivated homolog	TldD		12029038	3TV9
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_04320	COG2814	G	Predicted arabinose efflux permease AraJ, MFS family	AraJ			4LDS
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_04325	COG2170	O	Gamma-glutamyl:cysteine ligase YbdK, ATP-grasp superfamily	YbdK		15211520	1R8G
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_04330	COG1385	J	16S rRNA U1498 N3-methylase RsmE	RsmE	16S rRNA modification		1NXZ
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_04335	COG0109	HI	Polyprenyltransferase (heme O synthase)	CyoE			
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_04350	COG0312	R	Zn-dependent protease PmbA/TldA or its inactivated homolog	TldD		12029038	3TV9
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_04355	COG3453	R	Predicted phosphohydrolase, protein tyrosine phosphatase (PTP) superfamily, DUF442 family				2F46
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_04365	COG1593	G	TRAP-type C4-dicarboxylate transport system, large permease component	DctQ			
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_04370	COG4665	Q	TRAP-type mannitol/chloroaromatic compound transport system, small permease component	FcbT2			
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_04375	COG4663	Q	TRAP-type mannitol/chloroaromatic compound transport system, periplasmic component	FcbT1			2HZK
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_04380	COG1725	K	DNA-binding transcriptional regulator YhcF, GntR family	YhcF			4R1H
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_04385	COG0444	EP	ABC-type dipeptide/oligopeptide/nickel transport system, ATPase component	DppD			4FWI
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_04400	COG0125	F	Thymidylate kinase	Tmk	Thymidylate biosynthesis		3LV8
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_04410	COG1570	L	Exonuclease VII, large subunit	XseA			
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_04415	COG0439	I	Biotin carboxylase	AccC	Fatty acid biosynthesis		1BNC
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_04420	COG0117	H	Riboflavin biosynthesis protein RibD, pyrimidine deaminase domain	RibD1	Riboflavin/FAD biosynthesis		2O7P
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_04425	COG0564	J	Pseudouridine synthase RluA, 23S rRNA- or tRNA-specific	RluA	23S rRNA modification		2I82
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_04430	COG2263	R	Predicted RNA methylase				6H2U
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_04435	COG0323	L	DNA mismatch repair ATPase MutL	MutL			1B62
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_04445	COG0597	MU	Lipoprotein signal peptidase	LspA			5DIR
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_04450	COG0143	J	Methionyl-tRNA synthetase	MetG	Aminoacyl-tRNA synthetases		1A8H
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_04455	COG0196	H	FAD synthase	RibF	Riboflavin/FAD biosynthesis		1MRZ
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_04470	COG2169	L	Methylphosphotriester-DNA--protein-cysteine methyltransferase (N-terminal fragment of Ada), contains Zn-binding and two AraC-type DNA-binding domains	AdaA			1ADN
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_04475	COG3318	S	Uncharacterized conserved protein YecA, UPF0149 family, contains C-terminal Zn-binding SEC-C motif	YecA			
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_04485	COG0500	QR	SAM-dependent methyltransferase	SmtA			5DNK
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_04490	COG0528	F	Uridylate kinase	PyrH	Pyrimidine biosynthesis		2BND
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_04495	COG1426	D	Cytoskeletal protein RodZ, contains Xre-like HTH and DUF4115 domains	RodZ			3FYM
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_04500	COG0821	I	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase IspG/GcpE	IspG	Isoprenoid biosynthesis		2Y0F
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_04505	COG0124	J	Histidyl-tRNA synthetase	HisS	Aminoacyl-tRNA synthetases		1KMM
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_04510	COG0216	J	Protein chain release factor RF1	PrfA	Translation factors		1RQ0
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_04525	COG3217	FV	N-hydroxylaminopurine reductase subunit YcbX, contains MOSC domain	YcbX		18312271;20118259	
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_04530	COG4942	D	Septal ring factor EnvC, activator of murein hydrolases AmiA and AmiB	EnvC			
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_04535	COG0469	G	Pyruvate kinase	PykF	Glycolysis		6QXL
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_04540	COG0488	R	ATPase components of ABC transporters with duplicated ATPase domains	Uup			5ZXD
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_04545	COG4177	E	ABC-type branched-chain amino acid transport system, permease component	LivM			
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_04550	COG4603	F	ABC-type guanosine uptake system NupNOPQ, permease component NupP	NupP		21926227	
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_04555	COG5402	S	Uncharacterized protein, contains DUF1214 domain				
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_04565	COG3173	R	Predicted  kinase, aminoglycoside phosphotransferase (APT) family	YcbJ			
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_04575	COG1020	Q	EntF, seryl-AMP synthase component  of non-ribosomal peptide synthetase	EntF			5ES5
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_04580	COG4143	H	ABC-type thiamine transport system, periplasmic component TbpA	TbpA			2QRY
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_04605	COG4649	S	TPR-like repeat domain	TPR1			
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_04610	COG1520	M	Outer membrane protein assembly factor BamB, contains PQQ-like beta-propeller repeat	PQQ			6TJG
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_04615	COG1159	J	GTPase Era, involved in 16S rRNA processing	Era			1EGA
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_04620	COG3741	E	N-formylglutamate amidohydrolase	HutG			
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_04630	COG2771	K	DNA-binding transcriptional regulator, CsgD family	CsgD			
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_04635	COG0365	I	Acyl-coenzyme A synthetase/AMP-(fatty) acid ligase	Acs		14638756	4B2O
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_04640	COG2137	O	SOS response regulatory protein OraA/RecX, interacts with RecA	RecX			3C1D
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_04645	COG0842	V	ABC-type multidrug transport system, permease component	YadH			
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_04650	COG0717	F	dCTP deaminase	Dcd	Thymidylate biosynthesis		1XS1
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_04655	COG4992	E	Acetylornithine/succinyldiaminopimelate/putrescine aminotransferase	ArgD	Arginine biosynthesis		2E54
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_04660	COG0078	E	Ornithine carbamoyltransferase	ArgF	Arginine biosynthesis		1A1S
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_04665	COG1281	O	Redox-regulated molecular chaperone, HSP33 family	HslO			1HW7
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_04675	COG0168	P	Trk-type K+ transport system, membrane component	TrkG			3PJZ
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_04680	COG0302	H	GTP cyclohydrolase I	FolE	Folate biosynthesis	19767425;30692671	1A8R
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_04690	COG0108	H	3,4-dihydroxy-2-butanone 4-phosphate synthase	RibB	Riboflavin/FAD biosynthesis		1G57
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_04700	COG2131	F	Deoxycytidylate deaminase	ComEB		25746996;31954084	2HVV
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_04710	COG0112	E	Glycine/serine hydroxymethyltransferase	GlyA	Serine biosynthesis		1BJ4
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_04715	COG0698	G	Ribose 5-phosphate isomerase RpiB	RpiB	Pentose phosphate pathway		1NN4
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_04720	COG5454	S	Predicted secreted protein				
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_04725	COG3185	ER	4-hydroxyphenylpyruvate dioxygenase and related hemolysins	HppD			
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_04730	COG1236	J	RNA processing exonuclease, beta-lactamase fold, Cft2 family	YSH1			2DKF
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_04735	COG1521	H	Pantothenate kinase type III	CoaX			2F9T
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_04740	COG0340	H	Biotin-(acetyl-CoA carboxylase) ligase	BirA2	Biotin biosynthesis	32188788	1BIA
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_04745	COG1007	C	NADH:ubiquinone oxidoreductase subunit 2 (chain N)	NuoN	NADH dehydrogenase		4HE8
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_04750	COG1008	C	NADH:ubiquinone oxidoreductase subunit 4 (chain M)	NuoM	NADH dehydrogenase		6HUM
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_04760	COG1009	C	Membrane H+-translocase/NADH:ubiquinone oxidoreductase subunit 5 (chain L)/Multisubunit Na+/H+ antiporter, MnhA subunit	NuoL	NADH dehydrogenase		3RKO
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_04765	COG0713	C	NADH:ubiquinone oxidoreductase subunit 11 or 4L (chain K)	NuoK	NADH dehydrogenase		4HE8
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_04775	COG3383	R	Predicted molibdopterin-dependent oxidoreductase YjgC	YjgC			1AA6
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_04780	COG1005	C	NADH:ubiquinone oxidoreductase subunit 1 (chain H)	NuoH	NADH dehydrogenase		6HUM
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_04785	COG1034	C	NADH dehydrogenase/NADH:ubiquinone oxidoreductase 75 kD subunit (chain G)	NuoG	NADH dehydrogenase		1C4A
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_04790	COG1894	C	NADH:ubiquinone oxidoreductase, NADH-binding 51 kD subunit (chain F)	NuoF	NADH dehydrogenase		2FUG
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_04795	COG1905	C	NADH:ubiquinone oxidoreductase 24 kD subunit (chain E)	NuoE	NADH dehydrogenase		5XF9
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_04800	COG0649	C	NADH:ubiquinone oxidoreductase 49 kD subunit (chain D)	NuoD	NADH dehydrogenase		2FUG
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_04805	COG3262	C	Ni,Fe-hydrogenase III component G	HycE1			
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_04810	COG1941	C	Coenzyme F420-reducing hydrogenase, gamma subunit	FrhG			5ODC
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_04825	COG0028	EH	Acetolactate synthase large subunit or other thiamine pyrophosphate-requiring enzyme	IlvB	Isoleucine, leucine, valine biosynthesis		1BFD
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_04835	COG0300	R	Short-chain dehydrogenase	YqjQ			
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_04845	COG2867	J	Ribosome association toxin PasT (RatA) of the RatAB toxin-antitoxin module	PasT		21323758	1T17
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_04875	COG0041	F	Phosphoribosylcarboxyaminoimidazole (NCAIR) mutase	PurE	Purine biosynthesis		1D7A
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_04880	COG0173	J	Aspartyl-tRNA synthetase	AspS	Aminoacyl-tRNA synthetases		1C0A
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_04885	COG1612	H	Heme A synthase	CtaA			6A2J
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_04895	COG0459	O	Chaperonin GroEL (HSP60 family)	GroEL			1AON
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_04900	COG1199	L	Rad3-related DNA helicase DinG	DinG			5H8W
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_04915	COG0251	V	Enamine deaminase RidA, house cleaning of reactive enamine intermediates, YjgF/YER057c/UK114 family	RidA	Pyrimidine degradation	22094463;32205462	1J7H
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_04925	COG0542	O	ATP-dependent Clp protease, ATP-binding subunit ClpA	ClpA			1KSF
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_04930	COG2127	O	ATP-dependent Clp protease adapter protein ClpS	ClpS			1LZW
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_04935	COG3147	D	Cell division protein DedD (periplasmic protein involved in septation)	DedD			
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_04940	COG0587	L	DNA polymerase III, alpha subunit	DnaE			2HNH
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_04950	COG4544	S	Uncharacterized conserved protein				
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_04955	COG3800	R	Predicted transcriptional regulator				6CYJ
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_04970	COG0624	E	Acetylornithine deacetylase/Succinyl-diaminopimelate desuccinylase or related deacylase	ArgE	Arginine biosynthesis		1CG2
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_04975	COG0579	G	L-2-hydroxyglutarate oxidase LhgO	LhgO			3DME
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_04980	COG4311	E	Sarcosine oxidase delta subunit	SoxD			2GAH
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_04985	COG0354	O	Folate-binding protein YgfZ, synthesis and repair of Fe-S clusters	YgfZ		27941785;22081392	1NRK
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_04990	COG0404	E	Glycine cleavage system protein T (aminomethyltransferase)	GcvT	Glycine cleavage	25433025;25505271	2GAH
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_04995	COG5598	H	Trimethylamine:corrinoid methyltransferase	MttB2			
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_05000	COG0579	G	L-2-hydroxyglutarate oxidase LhgO	LhgO			3DME
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_05015	COG1028	I	NAD(P)-dependent dehydrogenase, short-chain alcohol dehydrogenase family	FabG	Fatty acid biosynthesis		6L1H
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_05020	COG0082	E	Chorismate synthase	AroC	Aromatic amino acid biosynthesis		1Q1L
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_05025	COG0162	J	Tyrosyl-tRNA synthetase	TyrS	Aminoacyl-tRNA synthetases		4OUD
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_05030	COG1154	HI	Deoxyxylulose-5-phosphate synthase	Dxs	Pyridoxal phosphate biosynthesis		2O1S
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_05035	COG0142	H	Geranylgeranyl pyrophosphate synthase	IspA	Isoprenoid biosynthesis		2AZJ
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_05040	COG1722	L	Exonuclease VII small subunit	XseB			1VP7
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_05045	COG1396	K	Transcriptional regulator, contains XRE-family HTH domain	HipB			1ADR
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_05050	COG0596	HR	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold	MenH	Menaquinone biosynthesis		4MYS
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_05055	COG2941	H	Demethoxyubiquinone hydroxylase, CLK1/Coq7/Cat5 family (ubiquinone biosynthesis)	Coq7	Ubiquinone biosynthesis		
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_05065	COG1506	E	Dipeptidyl aminopeptidase/acylaminoacyl peptidase	DAP2			2JBW
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_05070	COG0180	J	Tryptophanyl-tRNA synthetase	TrpS	Aminoacyl-tRNA synthetases		3N9I
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_05080	COG2814	G	Predicted arabinose efflux permease AraJ, MFS family	AraJ			4LDS
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_05085	COG1304	CIR	FMN-dependent dehydrogenase, includes L-lactate dehydrogenase and type II isopentenyl diphosphate isomerase	LldD	Isoprenoid biosynthesis		6AI7
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_05095	COG1183	I	Phosphatidylserine synthase	PssA			
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_05100	COG0688	I	Phosphatidylserine decarboxylase	Psd	Phospholipid biosynthesis		6L06
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_05105	COG3193	T	Heme-binding protein HbpS, GlcG/HbpS family	GlcG		19244623;25342754	2A2L
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_05120	COG0679	R	Predicted permease, AEC (auxin efflux carrier) family	YfdV			
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_05125	COG1268	H	Biotin transporter BioY	BioY			4DVE
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_05130	COG0659	P	Sulfate permease or related transporter, MFS superfamily	SUL1			3NY7
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_05145	COG0261	J	Ribosomal protein L21	RplU	Ribosome 50S subunit		1VS6
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_05150	COG0211	J	Ribosomal protein L27	RpmA	Ribosome 50S subunit		1VS6
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_05155	COG0012	J	Ribosome-binding ATPase YchF, GTP1/OBG family	GTP1		21527254	2DWQ
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_05160	COG1608	I	Isopentenyl phosphate kinase			16621811	3LKK
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_05170	COG1057	H	Nicotinate-nucleotide adenylyltransferase NadD	NadD	NAD biosynthesis		1YUM
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_05175	COG0799	J	Ribosomal silencing factor RsfS, regulates association of 30S and 50S subunits	RsfS			6SJ6
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_05185	COG0696	G	Phosphoglycerate mutase (BPG-independent), AlkP superfamily	GpmI	Glycolysis		1EJJ
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_05190	COG0793	O	C-terminal processing protease CtpA/Prc, contains a PDZ domain	CtpA			6IQU
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_05195	COG0494	V	8-oxo-dGTP pyrophosphatase MutT and related house-cleaning NTP pyrophosphohydrolases, NUDIX family	MutT			4V14
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_05200	COG0355	C	FoF1-type ATP synthase, epsilon subunit	AtpC	FoF1-type ATP synthase	29149348;30304218	3OAA
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_05205	COG0056	C	FoF1-type ATP synthase, alpha subunit	AtpA	FoF1-type ATP synthase		3OAA
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_05210	COG0224	C	FoF1-type ATP synthase, gamma subunit	AtpG	FoF1-type ATP synthase	15326535	3OAA
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_05215	COG0056	C	FoF1-type ATP synthase, alpha subunit	AtpA	FoF1-type ATP synthase		3OAA
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_05220	COG0712	C	FoF1-type ATP synthase, delta subunit	AtpH	FoF1-type ATP synthase		1ABV
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_05225	COG1198	L	Primosomal protein N' (replication factor Y) - superfamily II helicase	PriA			6DCR
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_05230	COG0176	G	Transaldolase/fructose-6-phosphate aldolase	TalA	Pentose phosphate pathway		1F05
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_05235	COG3159	S	Uncharacterized conserved protein YigA, DUF484 family	YigA			3E98
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_05240	COG0582	LX	Integrase/recombinase, includes phage integrase	FimB			
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_05245	COG0446	I	NADPH-dependent 2,4-dienoyl-CoA reductase, sulfur reductase, or a related oxidoreductase	FadH2			1VRQ
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_05250	COG0508	C	Pyruvate/2-oxoglutarate dehydrogenase complex, dihydrolipoamide acyltransferase (E2) component	AceF	Pyruvate oxidation		1B5S
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_05260	COG1071	C	TPP-dependent pyruvate or acetoin dehydrogenase subunit alpha	AcoA	Pyruvate oxidation		1DTW
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_05265	COG1042	C	Acyl-CoA synthetase (NDP forming)	PatZN		26251518	4YAK
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_05270	COG0045	C	Succinyl-CoA synthetase, beta subunit	SucC	TCA cycle		1SCU
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_05275	COG0039	C	Malate/lactate dehydrogenase	Mdh	TCA cycle		4WLO
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_05280	COG1485	D	Cell division protein ZapE (Z ring-associated ATPase), AFG1 superfamily	ZapE			
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_05285	COG0247	C	Fe-S cluster-containing oxidoreductase, includes glycolate oxidase subunit GlcF	GlpC			
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_05290	COG1053	C	Succinate dehydrogenase/fumarate reductase, flavoprotein subunit	SdhA	TCA cycle		1KF6
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_05295	COG2142	C	Succinate dehydrogenase, hydrophobic anchor subunit	SdhD			2WS3
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_05300	COG2009	C	Succinate dehydrogenase/fumarate reductase, cytochrome b subunit	SdhC		18511537	2WU2
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_05305	COG0351	H	Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase	ThiD	Thiamine biosynthesis	17351295	1Y9X
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_05310	COG0002	E	N-acetyl-gamma-glutamylphosphate reductase	ArgC	Arginine biosynthesis		3DR3
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_05315	COG0473	CE	Isocitrate/isopropylmalate dehydrogenase	LeuB	TCA cycle		1GC9
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_05320	COG1048	C	Aconitase A	AcnA	Lysine biosynthesisTCA cycle		1ACO
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_05325	COG1049	C	Aconitase B	AcnB	TCA cycle		1L5J
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_05335	COG0336	J	tRNA G37 N-methylase TrmD	TrmD	tRNA modification		1P9P
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_05350	COG1419	N	Flagellar biosynthesis GTPase FlhF	FlhF			3SYN
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_05355	COG1434	M	Lipid carrier protein ElyC involved in cell wall biogenesis, DUF218 family	ElyC		24391520	3CA8
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_05360	COG1419	N	Flagellar biosynthesis GTPase FlhF	FlhF			3SYN
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_05365	COG1032	R	Radical SAM superfamily enzyme YgiQ, UPF0313 family	YgiQ			6FD2
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_05370	COG0253	E	Diaminopimelate epimerase	DapF	Lysine biosynthesis		1BWZ
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_05375	COG3568	R	Metal-dependent hydrolase, endonuclease/exonuclease/phosphatase family	ElsH		15178340	
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_05385	COG0824	I	Acyl-CoA thioesterase FadM	FadM	Menaquinone biosynthesis		2FUJ
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_05395	COG3536	S	Uncharacterized conserved protein, DUF971 family				2L6N
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_05400	COG5553	R	Predicted metal-dependent enzyme of the double-stranded beta helix superfamily				
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_05405	COG1804	I	Crotonobetainyl-CoA:carnitine CoA-transferase CaiB and related acyl-CoA transferases	CaiB			1P5H
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_05410	COG0447	H	1,4-Dihydroxy-2-naphthoyl-CoA synthase	MenB	Menaquinone biosynthesis		4ELS
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_05420	COG0300	R	Short-chain dehydrogenase	YqjQ			
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_05430	COG0705	O	Membrane-associated serine protease, rhomboid family	GlpG			2IC8
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_05445	COG2329	H	Heme-degrading monooxygenase HmoA and related ABM domain proteins	HmoA		21873409	1IUJ
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_05450	COG1020	Q	EntF, seryl-AMP synthase component  of non-ribosomal peptide synthetase	EntF			5ES5
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_05455	COG2271	G	Sugar phosphate permease	UhpC			1PW4
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_05460	COG0596	HR	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold	MenH	Menaquinone biosynthesis		4MYS
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_05470	COG4101	R	Uncharacterized conserved protein, RmlC-like cupin domain	RmlC			
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_05480	COG5256	J	Translation elongation factor EF-1alpha (GTPase)	TEF1	Translation factors		1F60
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_05485	COG0051	J	Ribosomal protein S10	RpsJ	Ribosome 30S subunit		4V4H
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_05490	COG0087	J	Ribosomal protein L3	RplC	Ribosome 50S subunit		1VS6
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_05495	COG0088	J	Ribosomal protein L4	RplD	Ribosome 50S subunit		1VS6
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_05505	COG0090	J	Ribosomal protein L2	RplB	Ribosome 50S subunit		1VS6
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_05510	COG0185	J	Ribosomal protein S19	RpsS	Ribosome 30S subunit		4V4H
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_05520	COG0092	J	Ribosomal protein S3	RpsC	Ribosome 30S subunit		1VS6
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_05525	COG0197	J	Ribosomal protein L16/L10AE	RplP	Ribosome 50S subunit		1WKI
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_05530	COG0255	J	Ribosomal protein L29	RpmC	Ribosome 50S subunit		1VS6
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_05540	COG0093	J	Ribosomal protein L14	RplN	Ribosome 50S subunit		4V4H
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_05545	COG0198	J	Ribosomal protein L24	RplX	Ribosome 50S subunit		1VS6
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_05550	COG0094	J	Ribosomal protein L5	RplE	Ribosome 50S subunit		1VS6
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_05555	COG0199	J	Ribosomal protein S14	RpsN	Ribosome 30S subunit		4V4H
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_05560	COG0096	J	Ribosomal protein S8	RpsH	Ribosome 30S subunit		4V4H
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_05565	COG0097	J	Ribosomal protein L6P/L9E	RplF	Ribosome 50S subunit		1VS6
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_05575	COG0098	J	Ribosomal protein S5	RpsE	Ribosome 30S subunit		4V4H
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_05580	COG1841	J	Ribosomal protein L30/L7E	RpmD	Ribosome 50S subunit		1VS6
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_05590	COG0201	U	Preprotein translocase subunit SecY	SecY			1RH5
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_05605	COG0100	J	Ribosomal protein S11	RpsK	Ribosome 30S subunit		4V4H
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_05610	COG0202	K	DNA-directed RNA polymerase, alpha subunit/40 kD subunit	RpoA	RNA polymerase		4KN7
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_05615	COG0203	J	Ribosomal protein L17	RplQ	Ribosome 50S subunit		1GD8
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_05620	COG2255	L	Holliday junction resolvasome RuvABC, ATP-dependent DNA helicase subunit RuvB	RuvB			1HQC
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_05630	COG0488	R	ATPase components of ABC transporters with duplicated ATPase domains	Uup			5ZXD
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_05640	COG0749	L	DNA polymerase I, 3'-5' exonuclease and polymerase domains	PolA			1D8Y
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_05645	COG2204	T	DNA-binding transcriptional response regulator, NtrC family, contains REC, AAA-type ATPase, and a Fis-type DNA-binding domains	AtoC			1ZY2
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_05650	COG3852	T	Signal transduction histidine kinase NtrB, nitrogen specific	NtrB		23893111	
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_05660	COG0499	H	S-adenosylhomocysteine hydrolase	SAM1			1A7A
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_05665	COG0802	J	tRNA A37 threonylcarbamoyladenosine biosynthesis protein TsaE	TsaE	tRNA modification		1FL9
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_05670	COG3893	L	Inactivated superfamily I helicase				
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_05675	COG0300	R	Short-chain dehydrogenase	YqjQ			
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_05685	COG0346	Q	Catechol 2,3-dioxygenase or related enzyme, vicinal oxygen chelate (VOC) family	GloA		11830595	3R4Q
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_05690	COG1866	C	Phosphoenolpyruvate carboxykinase, ATP-dependent	PckA	Gluconeogenesis		1AQ2
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_05695	COG1023	G	6-phosphogluconate dehydrogenase (decarboxylating)	YqeC			4E21
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_05700	COG0626	E	Cystathionine beta-lyase/cystathionine gamma-synthase	MetC	Methionine biosynthesis		1CL1
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_05710	COG4221	C	NADP-dependent 3-hydroxy acid dehydrogenase YdfG	YdfG	Pyrimidine degradation		3P19
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_05715	COG0578	C	Glycerol-3-phosphate dehydrogenase	GlpA	Isoprenoid biosynthesis		2RGH
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_05720	COG0579	G	L-2-hydroxyglutarate oxidase LhgO	LhgO			3DME
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_05725	COG1249	C	Dihydrolipoamide dehydrogenase (E3) component of pyruvate/2-oxoglutarate dehydrogenase complex or glutathione oxidoreductase	Lpd	Glycine cleavagePyruvate oxidation		6QKG
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_05730	COG3383	R	Predicted molibdopterin-dependent oxidoreductase YjgC	YjgC			1AA6
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_05735	COG0579	G	L-2-hydroxyglutarate oxidase LhgO	LhgO			3DME
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_05740	COG0579	G	L-2-hydroxyglutarate oxidase LhgO	LhgO			3DME
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_05745	COG0662	G	Mannose-6-phosphate isomerase, cupin superfamily	ManC			1IPJ
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_05750	COG1593	G	TRAP-type C4-dicarboxylate transport system, large permease component	DctQ			
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_05755	COG2358	R	TRAP-type uncharacterized transport system, periplasmic component	Imp			1US4
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_05760	COG0596	HR	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold	MenH	Menaquinone biosynthesis		4MYS
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_05770	COG4666	R	TRAP-type uncharacterized transport system, fused permease components				
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_05780	COG4663	Q	TRAP-type mannitol/chloroaromatic compound transport system, periplasmic component	FcbT1			2HZK
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_05795	COG3239	I	Fatty acid desaturase	DesA			
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_05800	COG2303	IR	Choline dehydrogenase or related flavoprotein	BetA	Non-phosphorylated Entner-Doudoroff pathway		1B4V
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_05805	COG0697	GER	Permease of the drug/metabolite transporter (DMT) superfamily	RhaT			5I20
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_05810	COG0287	E	Prephenate dehydrogenase	TyrA	Aromatic amino acid biosynthesis		2F1K
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_05815	COG0365	I	Acyl-coenzyme A synthetase/AMP-(fatty) acid ligase	Acs		14638756	4B2O
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_05825	COG0136	E	Aspartate-semialdehyde dehydrogenase	Asd	Lysine biosynthesis		1BRM
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_05840	COG1217	T	Predicted membrane GTPase TypA/BipA involved in stress response	TypA			5A9V
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_05845	COG1435	F	Thymidine kinase	Tdk	Pyrimidine salvage		1W4R
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_05850	COG1105	G	1-phosphofructokinase or 6-phosphofructokinase II	FruK			2ABQ
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_05855	COG0856	F	Orotate phosphoribosyltransferase homolog	PyrE2			
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_05860	COG1178	P	ABC-type Fe3+ transport system, permease component	FbpB			
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_05865	COG1178	P	ABC-type Fe3+ transport system, permease component	FbpB			
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_05870	COG4133	O	ABC-type transport system involved in cytochrome c biogenesis, ATPase component	CcmA			
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_05875	COG2182	G	Maltose-binding periplasmic protein MalE	MalE			1T0K
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_05880	COG0418	F	Dihydroorotase	PyrC	Pyrimidine biosynthesis		2Y3D
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_05890	COG1635	GH	Thiazole synthase/Archaeal ribulose 1,5-bisphosphate synthetase	THI4		15375115	3FPZ
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_05895	COG1404	O	Serine protease, subtilisin family	AprE			1SCJ
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_05905	COG0190	H	5,10-methylene-tetrahydrofolate dehydrogenase/Methenyl tetrahydrofolate cyclohydrolase	FolD			1A4I
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_05915	COG2096	H	Cob(II)alamin adenosyltransferase	PduO	Cobalamine/B12 biosynthesis		1NOG
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_05920	COG2086	C	Electron transfer flavoprotein, alpha and beta subunits	FixA			5OL2
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_05925	COG2025	C	Electron transfer flavoprotein, alpha subunit FixB	FixB			1EFP
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_05930	COG0526	O	Thiol-disulfide isomerase or thioredoxin	TrxA			1XFL
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_05935	COG0015	F	Adenylosuccinate lyase	PurB	Purine biosynthesis		2HVG
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_05945	COG0019	E	Diaminopimelate decarboxylase	LysA	Lysine biosynthesis		1D7K
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_05960	COG0240	C	Glycerol-3-phosphate dehydrogenase	GpsA	Isoprenoid biosynthesis		1EVY
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_05965	COG1167	KE	DNA-binding transcriptional regulator, MocR family, contains an aminotransferase domain	ARO8	Lysine biosynthesis		2R2N
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_05970	COG1605	E	Chorismate mutase	PheA	Aromatic amino acid biosynthesis		1ECM
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_05985	COG1539	H	Dihydroneopterin aldolase	FolB	Folate biosynthesis		1B9L
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_05990	COG1028	I	NAD(P)-dependent dehydrogenase, short-chain alcohol dehydrogenase family	FabG	Fatty acid biosynthesis		6L1H
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_05995	COG2179	R	Predicted phosphohydrolase YqeG, HAD superfamily	YqeG			
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_06015	COG4799	I	Acetyl-CoA carboxylase, carboxyltransferase component	MmdA			1OD2
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_06020	COG0582	LX	Integrase/recombinase, includes phage integrase	FimB			
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_06035	COG1102	F	Cytidylate kinase	CmkB			
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_06040	COG0371	C	Glycerol dehydrogenase or related enzyme, iron-containing ADH family	GldA	Isoprenoid biosynthesis	20688982	3S99
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_06045	COG4536	P	Mg2+ and Co2+ transporter CorB, contains DUF21, CBS pair, and CorC-HlyC domains	CorB		1779764	
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_06055	COG0271	KT	DNA-binding global transcriptional regulator BolA, affects cell shape, cell division and biofilm formation	BolA		19111750;2569159	2DHM
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_06060	COG0484	O	DnaJ-class molecular chaperone with C-terminal Zn finger domain	DnaJ			1BQ0
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_06065	COG5271	J	Midasin, AAA ATPase with  vWA domain, involved in ribosome maturation	MDN1			6HYP
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_06085	COG4152	R	ABC-type uncharacterized transport system, ATPase component	YhaQ			
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_06090	COG0254	J	Ribosomal protein L31	RpmE	Ribosome 50S subunit		1VS6
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_06095	COG0574	G	Phosphoenolpyruvate synthase/pyruvate phosphate dikinase	PpsA	Gluconeogenesis		5HV6
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_06100	COG1686	M	D-alanyl-D-alanine carboxypeptidase	DacC			1HD8
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_06105	COG0752	J	Glycyl-tRNA synthetase, alpha subunit	GlyQ	Aminoacyl-tRNA synthetases		1J5W
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_06115	COG1030	O	Membrane-bound serine protease NfeD, ClpP class	NfeD			2DEO
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_06120	COG2520	J	tRNA G37 N-methylase Trm5	Trm5	tRNA modification		2YX1
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_06125	COG0142	H	Geranylgeranyl pyrophosphate synthase	IspA	Isoprenoid biosynthesis		2AZJ
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_06140	COG0042	J	tRNA-dihydrouridine synthase	DusA	tRNA modification		1VHN
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_06145	COG0314	H	Molybdopterin synthase catalytic subunit MoaE	MoaE	Molybdopterin biosynthesis	32239579	1FM0
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_06150	COG1977	H	Molybdopterin synthase sulfur carrier subunit MoaD	MoaD	Molybdopterin biosynthesis	32239579	1FM0
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_06155	COG1058	L	ADP-ribose pyrophosphatase domain of DNA damage- and competence-inducible protein CinA	CinA		25313401	4CT9
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_06160	COG0378	O	Hydrogenase/urease maturation factor HypB, Ni2+-binding GTPase	HypB		24338018;23899293	2HF8
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_06165	COG0535	DH	Radical SAM superfamily maturase, SkfB/NifB/PqqE family	SkfB		23282011	6Q2P
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_06175	COG1250	I	3-hydroxyacyl-CoA dehydrogenase	FadB	Fatty acid biosynthesis		5ZQZ
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_06180	COG3246	S	Uncharacterized conserved protein, DUF849 family				3C6C
+SAR116_cluster_SAT158	GCA_002713615.1	HMKDDO_06185	COG0139	E	Phosphoribosyl-AMP cyclohydrolase	HisI1	Histidine biosynthesis		1ZPS

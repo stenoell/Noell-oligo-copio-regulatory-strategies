@@ -1,0 +1,1468 @@
+#prefix	assemid	query	COG	category	name	Gene	pathway	pmid	pdb_id
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_00005	COG1216	G	Glycosyltransferase, GT2 family	WcaE			2Z86
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_00015	COG0572	F	Uridine kinase	Udk	Pyrimidine salvage		5B3F
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_00020	COG4191	T	Signal transduction histidine kinase regulating C4-dicarboxylate transport system				4GCZ
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_00025	COG2197	TK	DNA-binding response regulator, NarL/FixJ family, contains REC and HTH domains	CitB			1A04
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_00030	COG3172	H	Nicotinamide riboside kinase	NadR3	NAD biosynthesis		1LW7
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_00040	COG2176	L	DNA polymerase III, alpha subunit (gram-positive type)	PolC			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_00045	COG0325	H	Pyridoxal 5'-phosphate homeostasis protein YggS, UPF0001 family	YggS		26872910	3SY1
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_00055	COG0446	I	NADPH-dependent 2,4-dienoyl-CoA reductase, sulfur reductase, or a related oxidoreductase	FadH2			1VRQ
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_00060	COG1712	E	L-aspartate dehydrogenase, NAD(P)-dependent	AspD		12496312	1H2H
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_00065	COG2242	H	Precorrin-6B methylase 2	CobL	Cobalamine/B12 biosynthesis		1F38
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_00080	COG0406	G	Broad specificity phosphatase PhoE	PhoE			1EBB
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_00085	COG0813	F	Purine-nucleoside phosphorylase	DeoD	Purine salvage		1A69
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_00090	COG0042	J	tRNA-dihydrouridine synthase	DusA	tRNA modification		1VHN
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_00110	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_00135	COG0075	EF	Archaeal aspartate aminotransferase or a related aminotransferase, includes purine catabolism protein PucG	PucG	Serine biosynthesis		3NNK
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_00140	COG1064	G	D-arabinose 1-dehydrogenase, Zn-dependent alcohol dehydrogenase family	AdhP			5O8Q
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_00145	COG5403	S	Uncharacterized conserved protein, DUF937 domain				
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_00170	COG4771	P	Outer membrane receptor for ferrienterochelin and colicins	FepA		16468998	2HDF
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_00185	COG1101	R	ABC-type uncharacterized transport system, ATPase component	PhnK			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_00195	COG0739	M	Murein DD-endopeptidase MepM and murein hydrolase activator NlpD, contains LysM domain	NlpD			2GU1
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_00215	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_00225	COG0044	F	Dihydroorotase or related cyclic amidohydrolase	AllB	Pyrimidine biosynthesis		1J79
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_00230	COG4818	S	Uncharacterized membrane protein MJ1443, UPF0132 family				
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_00235	COG4099	R	Predicted peptidase				3DOH
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_00245	COG1237	R	Metal-dependent hydrolase, beta-lactamase superfamily II				2P4Z
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_00255	COG2077	O	Peroxiredoxin	Tpx			4AF2
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_00260	COG1194	L	Adenine-specific DNA glycosylase, acts on AG and A-oxoG pairs	MutY			1KG2
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_00275	COG4988	CO	ABC-type transport system involved in cytochrome bd biosynthesis, ATPase and permease components	CydD			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_00300	COG0438	M	Glycosyltransferase involved in cell wall bisynthesis	RfaB			2IV7
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_00315	COG0034	F	Glutamine phosphoribosylpyrophosphate amidotransferase	PurF	Purine biosynthesis		1ECB
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_00330	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_00335	COG4123	J	tRNA1(Val) A37 N6-methylase TrmN6	TrmN6	tRNA modification		
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_00350	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_00355	COG1215	N	Glycosyltransferase, catalytic subunit of cellulose synthase and poly-beta-1,6-N-acetylglucosamine synthase	BcsA			4HG6
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_00375	COG0357	J	16S rRNA G527 N7-methylase RsmG (former glucose-inhibited division protein B)	RsmG	16S rRNA modification	15375115;22031445	1XDZ
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_00385	COG1126	E	ABC-type polar amino acid transport system, ATPase component	GlnQ			4YMS
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_00405	COG1086	MO	NDP-sugar epimerase, includes UDP-GlcNAc-inverting 4,6-dehydratase FlaA1 and capsular polysaccharide biosynthesis protein EpsC	FlaA1			2GN4
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_00415	COG2827	L	Predicted endonuclease, GIY-YIG superfamily	YhbQ			1YWL
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_00420	COG1893	H	Ketopantoate reductase	PanE	Pantothenate/CoA biosynthesis		1BG6
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_00425	COG3206	M	Exopolysaccharide export protein/domain GumC/Wzc1	GumC		15003255;23089617	
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_00435	COG0444	EP	ABC-type dipeptide/oligopeptide/nickel transport system, ATPase component	DppD			4FWI
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_00440	COG4122	J	tRNA 5-hydroxyU34 O-methylase TrmR/YrrM	TrmR	tRNA modification	29982645	1H1D
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_00445	COG4812	E	Ethanolamine utilization protein EutT, cobalamin adenosyltransferase	EutT			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_00455	COG0653	U	Preprotein translocase subunit SecA (ATPase, RNA helicase)	SecA			2FSF
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_00460	COG4372	S	Uncharacterized protein, contains DUF3084 domain				
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_00480	COG1703	O	GTPase of the G3E family (not a periplasmic protein kinase)	ArgK		18950999	2QM7
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_00485	COG1089	M	GDP-D-mannose dehydratase	Gmd			1DB3
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_00490	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_00495	COG3952	R	Uncharacterized N-terminal domain of lipid-A-disaccharide synthase	LABN			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_00500	COG1807	M	PMT family glycosyltransferase ArnT/Agl22, involved in glycosylation of proteins and lipid IVA	ArnT		16226890;31233657;32706435	5EZM
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_00505	COG0671	I	Membrane-associated phospholipid phosphatase	PgpB	Phospholipid biosynthesis		1D2T
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_00515	COG0728	M	Lipid II flippase MurJ/MviN (peptidoglycan biosynthesis)	MurJ		25013077	5T77
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_00530	COG4981	I	Enoyl reductase domain of yeast-type fatty acid synthase				2UV8
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_00535	COG1404	O	Serine protease, subtilisin family	AprE			1SCJ
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_00540	COG0603	J	7-cyano-7-deazaguanine synthase (queuosine biosynthesis)	QueC	tRNA modification	14660578;17384645	2PG3
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_00550	COG0706	M	Membrane protein insertase Oxa1/YidC/SpoIIIJ	YidC			3WO6
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_00555	COG0504	F	CTP synthase (UTP-ammonia lyase)	PyrG	Pyrimidine biosynthesis		1S1M
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_00560	COG3530	S	Uncharacterized conserved protein, DUF3820 family				
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_00570	COG0683	E	ABC-type branched-chain amino acid transport system, periplasmic component	LivK			1USG
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_00580	COG0512	EH	Anthranilate/para-aminobenzoate synthase component II (glutamine amidotransferase)	PabA	Aromatic amino acid biosynthesis		1I1Q
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_00585	COG1104	E	Cysteine desulfurase/Cysteine sulfinate desulfinase IscS or related enzyme, NifS family	NifS		22773787;25825430	4IXO
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_00590	COG3883	S	Uncharacterized N-terminal coiled-coil domain of peptidoglycan hydrolase CwlO	CwlO1			4CGK
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_00600	COG3655	K	DNA-binding transcriptional regulator, XRE family	YozG			3TYR
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_00605	COG1032	R	Radical SAM superfamily enzyme YgiQ, UPF0313 family	YgiQ			6FD2
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_00615	COG1419	N	Flagellar biosynthesis GTPase FlhF	FlhF			3SYN
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_00625	COG0267	J	Ribosomal protein L33	RpmG	Ribosome 50S subunit		1VS6
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_00630	COG0227	J	Ribosomal protein L28	RpmB	Ribosome 50S subunit		2JZ6
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_00635	COG0303	H	Molybdopterin Mo-transferase (molybdopterin biosynthesis)	MoeA	Molybdopterin biosynthesis	18801996;32239579	2NQU
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_00645	COG0179	Q	2-keto-4-pentenoate hydratase/2-oxohepta-3-ene-1,7-dioic acid hydratase (catechol pathway)	YcgM			1GTT
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_00650	COG0847	L	DNA polymerase III, epsilon subunit or related 3'-5' exonuclease	DnaQ			1J53
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_00655	COG2382	P	Enterochelin esterase or related enzyme	Fes			2B20
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_00660	COG0508	C	Pyruvate/2-oxoglutarate dehydrogenase complex, dihydrolipoamide acyltransferase (E2) component	AceF	Pyruvate oxidation		1B5S
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_00665	COG1215	N	Glycosyltransferase, catalytic subunit of cellulose synthase and poly-beta-1,6-N-acetylglucosamine synthase	BcsA			4HG6
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_00670	COG0353	L	Recombinational DNA repair protein RecR	RecR		26337406	2JGR
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_00675	COG4147	C	Na+(or H+)/acetate symporter ActP	ActP			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_00680	COG1832	R	Predicted CoA-binding protein	YccU			1IUK
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_00685	COG3424	Q	Predicted naringenin-chalcone synthase	BH0617			1BI5
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_00690	COG0412	Q	Dienelactone hydrolase	DLH			4ZV9
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_00695	COG2303	IR	Choline dehydrogenase or related flavoprotein	BetA	Non-phosphorylated Entner-Doudoroff pathway		1B4V
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_00710	COG1284	S	Uncharacterized membrane-anchored protein YitT, contains DUF161 and DUF2179 domains	YitT			3HLU
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_00715	COG1201	L	Lhr-like helicase	Lhr			5V9X
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_00725	COG4270	S	Uncharacterized membrane protein				
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_00730	COG2936	R	Predicted acyl esterase				1JU3
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_00735	COG3663	L	G:T/U-mismatch repair DNA glycosylase	Mug			1MTL
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_00745	COG3022	L	DNA-binding protein YaaA associated with the oxidative stress response	YaaA		21378183;32796037	5CAJ
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_00750	COG1187	J	Pseudouridylate synthase RsuA, specific for 16S rRNA U516  and 23S rRNA U2605	RsuA	16S rRNA modification		1KSK
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_00755	COG2815	M	PASTA domain, binds beta-lactams	PASTA			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_00760	COG0439	I	Biotin carboxylase	AccC	Fatty acid biosynthesis		1BNC
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_00770	COG1057	H	Nicotinate-nucleotide adenylyltransferase NadD	NadD	NAD biosynthesis		1YUM
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_00775	COG2233	F	Xanthine/uracil permease	UraA	Pyrimidine degradation		3QE7
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_00785	COG0815	M	Apolipoprotein N-acyltransferase	Lnt			6NWR
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_00790	COG0458	EF	Carbamoylphosphate synthase large subunit	CarB	Arginine biosynthesis		1C30
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_00800	COG3931	E	Predicted N-formylglutamate amidohydrolase	HutG2			2ODF
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_00815	COG1073	T	Fermentation-respiration switch esterase FrsA, DUF1100 family	FrsA			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_00820	COG0330	O	Regulator of protease activity HflC, stomatin/prohibitin superfamily	HflC			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_00830	COG0596	HR	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold	MenH	Menaquinone biosynthesis		4MYS
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_00850	COG0768	DM	Cell division protein FtsI, peptidoglycan transpeptidase (Penicillin-binding protein 2)	FtsI			6HZQ
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_00870	COG0720	H	6-pyruvoyl-tetrahydropterin synthase	QueD	tRNA modification	14660578;17384645	1B66
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_00880	COG5256	J	Translation elongation factor EF-1alpha (GTPase)	TEF1	Translation factors		1F60
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_00885	COG3592	S	Uncharacterized Fe-S cluster protein YjdI	YjdI			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_00900	COG1120	PH	ABC-type cobalamin/Fe3+-siderophores transport system, ATPase component	FepC			2NQ2
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_00915	COG0176	G	Transaldolase/fructose-6-phosphate aldolase	TalA	Pentose phosphate pathway		1F05
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_00920	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_00940	COG3884	I	Acyl-ACP thioesterase	FatA			2ESS
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_00950	COG0112	E	Glycine/serine hydroxymethyltransferase	GlyA	Serine biosynthesis		1BJ4
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_00960	COG1225	O	Peroxiredoxin	Bcp			5IPH
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_00975	COG0860	M	N-acetylmuramoyl-L-alanine amidase	AmiC			1JWQ
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_00980	COG1463	M	Periplasmic subunit MlaD of the ABC-type intermembrane phospholipid transporter Mla	MlaD			5UW8
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_00985	COG1150	C	Heterodisulfide reductase, subunit C	HdrC			5ODC
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_00995	COG2048	C	Heterodisulfide reductase, subunit B	HdrB			5ODC
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_01010	COG4800	K	Predicted transcriptional regulator with an HTH domain				
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_01015	COG2866	M	Murein tripeptide amidase MpaA	MpaA			1ARL
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_01020	COG1846	K	DNA-binding transcriptional regulator, MarR family	MarR			1JGS
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_01025	COG2318	Q	Bacillithiol/mycothiol S-transferase BstA/DinB, DinB/YfiT family (unrelated to E. coli DinB)	DinB		22059487;24821014	2QE9
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_01035	COG0371	C	Glycerol dehydrogenase or related enzyme, iron-containing ADH family	GldA	Isoprenoid biosynthesis	20688982	3S99
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_01040	COG0506	E	Proline dehydrogenase	PutA	Proline degradation		5KF6
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_01045	COG1192	DN	ParA-like ATPase involved in chromosome/plasmid partitioning or cellulose biosynthesis protein BcsQ	ParA			6NOO
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_01055	COG1087	M	UDP-glucose 4-epimerase	GalE			1A9Y
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_01060	COG0436	E	Aspartate/methionine/tyrosine aminotransferase	AspB	Isoleucine, leucine, valine biosynthesis		2O0R
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_01065	COG5653	N	Acetyltransferase involved in cellulose biosynthesis, CelD/BcsL family	BcsL			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_01070	COG5653	N	Acetyltransferase involved in cellulose biosynthesis, CelD/BcsL family	BcsL			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_01085	COG0436	E	Aspartate/methionine/tyrosine aminotransferase	AspB	Isoleucine, leucine, valine biosynthesis		2O0R
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_01090	COG0297	G	Glycogen synthase	GlgA			1RZU
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_01100	COG0707	M	UDP-N-acetylglucosamine:LPS N-acetylglucosamine transferase	MurG	Mureine biosynthesis		1F0K
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_01105	COG0449	M	Glucosamine 6-phosphate synthetase, contains amidotransferase and phosphosugar isomerase domains	GlmS			2J6H
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_01115	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_01120	COG0534	V	Na+-driven multidrug efflux pump, DinF/NorM/MATE family	NorM		29915058	3VVN
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_01125	COG0297	G	Glycogen synthase	GlgA			1RZU
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_01140	COG1748	E	Saccharopine dehydrogenase, NADP-dependent	Lys9	Lysine biosynthesis		1E5L
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_01155	COG0466	O	ATP-dependent Lon protease, bacterial type	Lon			6ON2
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_01160	COG0784	T	CheY-like REC (receiver) domain, includes chemotaxis protein CheY  and sporulation regulator Spo0F	CheY			6QRJ
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_01165	COG4341	R	Predicted HD phosphohydrolase				4MLN
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_01170	COG1043	M	Acyl-[acyl carrier protein]--UDP-N-acetylglucosamine O-acyltransferase	LpxA	Lipid A biosynthesis		1J2Z
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_01175	COG4706	I	Predicted 3-hydroxylacyl-ACP dehydratase, HotDog domain				
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_01180	COG0663	R	Carbonic anhydrase or acetyltransferase, isoleucine patch superfamily	PaaY			6IVE
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_01185	COG0231	J	Translation elongation factor P (EF-P)/translation initiation factor 5A (eIF-5A)	Efp	Translation factors		1UEB
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_01190	COG1043	M	Acyl-[acyl carrier protein]--UDP-N-acetylglucosamine O-acyltransferase	LpxA	Lipid A biosynthesis		1J2Z
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_01200	COG1042	C	Acyl-CoA synthetase (NDP forming)	PatZN		26251518	4YAK
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_01205	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_01215	COG0330	O	Regulator of protease activity HflC, stomatin/prohibitin superfamily	HflC			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_01220	COG0040	E	ATP phosphoribosyltransferase	HisG	Histidine biosynthesis		1H3D
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_01225	COG0141	E	Histidinol dehydrogenase	HisD	Histidine biosynthesis		1K75
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_01230	COG1167	KE	DNA-binding transcriptional regulator, MocR family, contains an aminotransferase domain	ARO8	Lysine biosynthesis		2R2N
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_01235	COG0131	E	Imidazoleglycerol phosphate dehydratase HisB	HisB2	Histidine biosynthesis		1RHY
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_01240	COG0518	F	GMP synthase, glutamine amidotransferase domain	GuaA1	Purine biosynthesis		4WIM
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_01245	COG0107	E	Imidazole glycerol phosphate synthase subunit HisF	HisF	Histidine biosynthesis		1OX4
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_01250	COG1411	R	Uncharacterized conserved protein related to proFAR isomerase (HisA)				
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_01255	COG0139	E	Phosphoribosyl-AMP cyclohydrolase	HisI1	Histidine biosynthesis		1ZPS
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_01270	COG0783	PV	DNA-binding ferritin-like protein (oxidative damage protectant)	Dps			1DPS
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_01285	COG5587	S	Uncharacterized protein, contains DUF2461 domain				
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_01305	COG0668	M	Small-conductance mechanosensitive channel	MscS			2OAU
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_01310	COG0568	K	DNA-directed RNA polymerase, sigma subunit (sigma70/sigma32)	RpoD	RNA polymerase		1SIG
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_01315	COG0269	G	3-keto-L-gulonate-6-phosphate decarboxylase	UlaD			3F4W
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_01320	COG2524	K	Predicted transcriptional regulator, contains C-terminal CBS domains				
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_01330	COG0859	M	ADP-heptose:LPS heptosyltransferase	RfaF			1PSW
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_01335	COG3228	T	Mlc titration factor MtfA, regulates ptsG expression	MtfA		16855233	3DL1
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_01350	COG4550	T	Cell fate regulator YmcA, YheA/YmcA/DUF963 family (controls sporulation, competence, biofilm development)	YmcA		23490197	6PRH
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_01355	COG1077	DZ	Cell shape-determining ATPase MreB, actin-like superfamily	MreB			1JCE
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_01360	COG1589	D	Cell division septal protein FtsQ	FtsQ			1YR1
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_01365	COG0769	M	UDP-N-acetylmuramyl tripeptide synthase	MurE	Mureine biosynthesis		1E8C
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_01370	COG1819	G	UDP:flavonoid glycosyltransferase YjiC, YdhE family	YjiC		23974133	2ACV
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_01375	COG0772	D	Peptodoglycan polymerase FtsW/RodA/SpoVE	FtsW		30692671	6BAR
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_01380	COG0771	M	UDP-N-acetylmuramoylalanine-D-glutamate ligase	MurD	Mureine biosynthesis		1E0D
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_01385	COG0472	M	UDP-N-acetylmuramyl pentapeptide phosphotransferase/UDP-N-acetylglucosamine-1-phosphate transferase	Rfe	Mureine biosynthesis		4J72
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_01390	COG0285	H	Folylpolyglutamate synthase/Dihydropteroate synthase	FolC	Folate biosynthesis		1W78
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_01395	COG2815	M	PASTA domain, binds beta-lactams	PASTA			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_01415	COG1647	Q	Esterase/lipase	YvaK			4DIU
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_01420	COG1161	J	Ribosome biogenesis GTPase RbgA	RbgA			6G14
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_01425	COG1177	E	ABC-type spermidine/putrescine transport system, permease component II	PotC			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_01430	COG0793	O	C-terminal processing protease CtpA/Prc, contains a PDZ domain	CtpA			6IQU
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_01435	COG0496	L	Broad specificity polyphosphatase and 5'/3'-nucleotidase SurE	SurE			2V4N
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_01450	COG0791	M	Cell wall-associated hydrolase, NlpC_P60 family	NlpC			2EVR
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_01460	COG2143	O	Thioredoxin-related protein SoxW	SoxW			4FYB
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_01465	COG2814	G	Predicted arabinose efflux permease AraJ, MFS family	AraJ			4LDS
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_01470	COG2814	G	Predicted arabinose efflux permease AraJ, MFS family	AraJ			4LDS
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_01475	COG0412	Q	Dienelactone hydrolase	DLH			4ZV9
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_01485	COG1577	I	Mevalonate kinase	ERG12	Isoprenoid biosynthesis		
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_01490	COG0760	O	Peptidyl-prolyl isomerase, parvulin family	SurA			2ZR5
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_01495	COG1253	R	Hemolysin-related protein, contains CBS domains, UPF0053 family	TlyC			2NQW
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_01555	COG0465	O	ATP-dependent Zn proteases	HflB			1LV7
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_01560	COG2378	K	Predicted DNA-binding transcriptional regulator YobV, contains HTH and WYL domains	YobV			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_01570	COG3150	R	Predicted esterase YcpF, UPF0227 family	YcfP			4FLE
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_01595	COG0610	V	Type I site-specific restriction-modification system, R (restriction) subunit and related helicases ...				2W00
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_01600	COG2204	T	DNA-binding transcriptional response regulator, NtrC family, contains REC, AAA-type ATPase, and a Fis-type DNA-binding domains	AtoC			1ZY2
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_01630	COG0732	V	Restriction endonuclease S subunit	HsdS			1YDX
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_01640	COG2184	T	Fido, protein-threonine AMPylation domain	FIDO		19503829	2F6S
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_01645	COG0286	V	Type I restriction-modification system, DNA methylase subunit	HsdM		26872910	2AR0
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_01675	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_01685	COG2378	K	Predicted DNA-binding transcriptional regulator YobV, contains HTH and WYL domains	YobV			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_01690	COG4635	H	Protoporphyrinogen IX oxidase, menaquinone-dependent (flavodoxin domain)	HemG		17873039	
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_01705	COG0599	R	Uncharacterized conserved protein YurZ, alkylhydroperoxidase/carboxymuconolactone decarboxylase family	YurZ			3BEY
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_01710	COG0535	DH	Radical SAM superfamily maturase, SkfB/NifB/PqqE family	SkfB		23282011	6Q2P
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_01715	COG0607	P	Rhodanese-related sulfurtransferase	PspE	Urea cycle		1TQ1
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_01725	COG0005	F	Purine nucleoside phosphorylase	XapA	Purine salvage		1YQQ
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_01730	COG3000	I	Sterol desaturase/sphingolipid hydroxylase, fatty acid hydroxylase superfamily	ERG3			4ZR0
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_01740	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_01745	COG0458	EF	Carbamoylphosphate synthase large subunit	CarB	Arginine biosynthesis		1C30
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_01755	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_01760	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_01765	COG3618	R	Predicted metal-dependent hydrolase, TIM-barrel fold				
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_01780	COG0596	HR	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold	MenH	Menaquinone biosynthesis		4MYS
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_01785	COG1723	J	Mitochondrial translation protein, Rmd1/RMND1/DUF155 family	Rmd1		23022098	
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_01790	COG3565	R	Predicted dioxygenase of extradiol dioxygenase family				
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_01810	COG0010	E	Arginase/agmatinase family enzyme	SpeB	Urea cycle		1CEV
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_01825	COG0564	J	Pseudouridine synthase RluA, 23S rRNA- or tRNA-specific	RluA	23S rRNA modification		2I82
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_01835	COG1577	I	Mevalonate kinase	ERG12	Isoprenoid biosynthesis		
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_01860	COG1946	I	Acyl-CoA thioesterase	TesB			1C8U
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_01870	COG0225	O	Peptide methionine sulfoxide reductase MsrA	MsrA			1FF3
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_01875	COG0229	O	Peptide methionine sulfoxide reductase MsrB	MsrB			1L1D
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_01885	COG0624	E	Acetylornithine deacetylase/Succinyl-diaminopimelate desuccinylase or related deacylase	ArgE	Arginine biosynthesis		1CG2
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_01895	COG1092	J	23S rRNA G2069 N7-methylase RlmK or C1962 C5-methylase RlmI	RlmK	23S rRNA modification		2B78
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_01910	COG0210	L	Superfamily I DNA or RNA helicase	UvrD			6PPR
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_01915	COG1083	M	CMP-N-acetylneuraminic acid synthetase, NeuA/PseF family	NeuA			1EYR
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_01920	COG1011	H	FMN and 5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YigB, HAD superfamily (riboflavin biosynthesis)	YigB		24123841	4JB3
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_01930	COG0204	I	1-acyl-sn-glycerol-3-phosphate acyltransferase	PlsC	Phospholipid biosynthesis		1IUQ
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_01945	COG2154	H	Pterin-4a-carbinolamine dehydratase	PhhB			1DCH
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_01950	COG1091	M	dTDP-4-dehydrorhamnose reductase	RfbD			1KBZ
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_01955	COG2066	E	Glutaminase	GlsA			1MKI
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_01960	COG0354	O	Folate-binding protein YgfZ, synthesis and repair of Fe-S clusters	YgfZ		27941785;22081392	1NRK
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_01965	COG0024	J	Methionine aminopeptidase	Map			3J2I
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_01975	COG2145	H	Hydroxyethylthiazole kinase, sugar kinase family	ThiM	Thiamine biosynthesis		1C3Q
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_01980	COG0526	O	Thiol-disulfide isomerase or thioredoxin	TrxA			1XFL
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_01985	COG2986	E	Histidine ammonia-lyase	HutH			1B8F
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_01995	COG0542	O	ATP-dependent Clp protease, ATP-binding subunit ClpA	ClpA			1KSF
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_02005	COG5010	UW	Flp pilus assembly protein TadD, contains TPR repeats	TadD			3WXX
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_02010	COG0791	M	Cell wall-associated hydrolase, NlpC_P60 family	NlpC			2EVR
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_02015	COG0304	IQ	3-oxoacyl-(acyl-carrier-protein) synthase	FabB	Fatty acid biosynthesis	21652641	2UV8
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_02020	COG2206	T	HD-GYP domain, c-di-GMP phosphodiesterase class II (or its inactivated variant)	HDGYP		23475961	5Z7C
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_02040	COG0546	C	Phosphoglycolate phosphatase, HAD superfamily	Gph			2NYV
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_02045	COG2265	J	tRNA/tmRNA/rRNA uracil-C5-methylase, TrmA/RlmC/RlmD family	TrmA	tRNA modification		1UWV
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_02055	COG0565	J	tRNA C32,U32 (ribose-2'-O)-methylase TrmJ or a related methyltransferase	TrmJ	tRNA modification		3ONP
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_02075	COG0533	J	tRNA A37 threonylcarbamoyltransferase TsaD	TsaD	tRNA modification	23072323;21285948;32385138	3ENO
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_02080	COG2911	U	Autotransporter translocation and assembly protein TamB	TamB			5VTG
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_02085	COG0205	G	6-phosphofructokinase	PfkA	Glycolysis		1KZH
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_02090	COG0143	J	Methionyl-tRNA synthetase	MetG	Aminoacyl-tRNA synthetases		1A8H
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_02095	COG4591	M	ABC-type transport system involved in lipoprotein release, permease component LolC	LolE			6F49
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_02105	COG1968	I	Undecaprenyl pyrophosphate phosphatase	UppP			5OON
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_02110	COG0130	J	tRNA U55 pseudouridine synthase TruB, may also work on U342 of tmRNA	TruB	tRNA modification		1K8W
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_02125	COG2231	L	3-Methyladenine DNA glycosylase, HhH-GPD/Endo3 superfamily	HP0602		14517230;20410075	1PU6
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_02135	COG2360	O	Leu/Phe-tRNA-protein transferase	Aat			2CXA
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_02150	COG5000	T	Signal transduction histidine kinase NtrY involved in nitrogen fixation and metabolism regulation	NtrY			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_02175	COG2217	P	Cation-transporting P-type ATPase	ZntA			4BBJ
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_02180	COG0845	MV	Multidrug efflux pump subunit AcrA (membrane-fusion protein)	AcrA			1T5E
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_02185	COG0841	V	Multidrug efflux pump subunit AcrB	AcrB			1IWG
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_02200	COG3568	R	Metal-dependent hydrolase, endonuclease/exonuclease/phosphatase family	ElsH		15178340	
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_02205	COG2885	M	Outer membrane protein OmpA and related peptidoglycan-associated (lipo)proteins	OmpA			1OAP
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_02210	COG0457	R	Tetratricopeptide (TPR) repeat	TPR			3AS4
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_02215	COG4989	R	Predicted oxidoreductase YdhF	YdhF			1UR3
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_02230	COG1360	N	Flagellar motor protein MotB	MotB			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_02235	COG1530	J	Ribonuclease G or E	CafA			1SLJ
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_02240	COG0776	L	Bacterial nucleoid DNA-binding protein IHF-alpha	HimA			1B8Z
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_02245	COG0177	L	Endonuclease III	Nth			4UOB
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_02255	COG2524	K	Predicted transcriptional regulator, contains C-terminal CBS domains				
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_02265	COG0739	M	Murein DD-endopeptidase MepM and murein hydrolase activator NlpD, contains LysM domain	NlpD			2GU1
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_02270	COG2608	P	Copper chaperone CopZ	CopZ			1AFI
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_02275	COG0697	GER	Permease of the drug/metabolite transporter (DMT) superfamily	RhaT			5I20
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_02285	COG0261	J	Ribosomal protein L21	RplU	Ribosome 50S subunit		1VS6
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_02290	COG0211	J	Ribosomal protein L27	RpmA	Ribosome 50S subunit		1VS6
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_02300	COG0499	H	S-adenosylhomocysteine hydrolase	SAM1			1A7A
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_02305	COG2091	H	Phosphopantetheinyl transferase	Sfp			1QR0
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_02310	COG0106	E	Phosphoribosylformimino-5-aminoimidazole carboxamide ribonucleotide (ProFAR) isomerase	HisA	Histidine biosynthesis		4U28
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_02320	COG3201	H	Nicotinamide riboside transporter PnuC	PnuC			4QTN
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_02335	COG1186	J	Protein chain release factor PrfB	PrfB	Translation factors		1GQE
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_02340	COG4774	P	Outer membrane receptor for monomeric catechols	Fiu			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_02355	COG0441	J	Threonyl-tRNA synthetase	ThrS	Aminoacyl-tRNA synthetases		1NYQ
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_02360	COG4942	D	Septal ring factor EnvC, activator of murein hydrolases AmiA and AmiB	EnvC			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_02365	COG2236	H	Hypoxanthine phosphoribosyltransferase	Hpt1	Purine salvage		2JKZ
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_02370	COG1287	O	Asparagine N-glycosylation enzyme, membrane subunit Stt3	Stt3			2LGZ
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_02375	COG0815	M	Apolipoprotein N-acyltransferase	Lnt			6NWR
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_02380	COG0626	E	Cystathionine beta-lyase/cystathionine gamma-synthase	MetC	Methionine biosynthesis		1CL1
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_02390	COG1193	L	dsDNA-specific endonuclease/ATPase MutS2	MutS2			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_02395	COG0247	C	Fe-S cluster-containing oxidoreductase, includes glycolate oxidase subunit GlcF	GlpC			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_02400	COG1233	Q	Phytoene dehydrogenase-related protein				4REP
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_02415	COG5406
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_02425	COG1075	I	Triacylglycerol esterase/lipase EstA, alpha/beta hydrolase fold	EstA			1I6W
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_02440	COG2144	R	Selenophosphate synthetase-related protein				
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_02450	COG0719	O	Fe-S cluster assembly scaffold protein SufB	SufB			1VH4
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_02460	COG4559	P	ABC-type hemin transport system, ATPase component				4G1U
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_02470	COG0719	O	Fe-S cluster assembly scaffold protein SufB	SufB			1VH4
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_02475	COG3844	E	Kynureninase	Bna5			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_02480	COG3187	O	Heat shock protein HslJ	HslJ			2KTS
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_02500	COG3883	S	Uncharacterized N-terminal coiled-coil domain of peptidoglycan hydrolase CwlO	CwlO1			4CGK
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_02505	COG0486	J	tRNA U34 5-carboxymethylaminomethyl modifying GTPase MnmE/TrmE	MnmE	tRNA modification		
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_02520	COG1731	H	Archaeal riboflavin synthase	RibC2	Riboflavin/FAD biosynthesis		5IM5
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_02540	COG4774	P	Outer membrane receptor for monomeric catechols	Fiu			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_02545	COG0166	G	Glucose-6-phosphate isomerase	Pgi	Glycolysis		1B0Z
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_02550	COG4942	D	Septal ring factor EnvC, activator of murein hydrolases AmiA and AmiB	EnvC			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_02575	COG4775	M	Outer membrane protein assembly factor BamA	BamA			5EKQ
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_02580	COG0322	L	Excinuclease UvrABC, nuclease subunit	UvrC		24513124	2NRT
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_02585	COG4067	S	Uncharacterized conserved protein				
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_02590	COG1181	MR	D-alanine-D-alanine ligase or related ATP-grasp enzyme	DdlA	Mureine biosynthesis		1E4E
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_02595	COG2988	E	Succinylglutamate desuccinylase	AstE			1YW4
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_02605	COG0597	MU	Lipoprotein signal peptidase	LspA			5DIR
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_02620	COG0060	J	Isoleucyl-tRNA synthetase	IleS	Aminoacyl-tRNA synthetases		1FFY
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_02625	COG1066	L	DNA repair protein RadA/Sms, contains AAA+ ATPase domain	Sms		30877841	5LKM
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_02630	COG2819	R	Predicted hydrolase of the alpha/beta superfamily	YbbA			3GFF
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_02635	COG0392	M	Predicted membrane flippase AglD2/YbhN, UPF0104 family	AglD2		25583072	
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_02645	COG0414	H	Panthothenate synthetase	PanC	Pantothenate/CoA biosynthesis	17968677	1DIN
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_02660	COG0367	E	Asparagine synthetase B (glutamine-hydrolyzing)	AsnB	Asparagine biosynthesis	25951518	2ETD
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_02690	COG0056	C	FoF1-type ATP synthase, alpha subunit	AtpA	FoF1-type ATP synthase		3OAA
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_02705	COG4147	C	Na+(or H+)/acetate symporter ActP	ActP			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_02720	COG2137	O	SOS response regulatory protein OraA/RecX, interacts with RecA	RecX			3C1D
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_02725	COG2374	R	Predicted extracellular nuclease				
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_02730	COG4774	P	Outer membrane receptor for monomeric catechols	Fiu			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_02735	COG1381	L	Recombinational DNA repair protein RecO (RecF pathway)	RecO			1U5K
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_02745	COG0334	E	Glutamate dehydrogenase/leucine dehydrogenase	GdhA	Glutamine biosynthesis	24391520	1B3B
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_02755	COG0520	E	Selenocysteine lyase/Cysteine desulfurase	CsdA			4LW2
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_02775	COG0697	GER	Permease of the drug/metabolite transporter (DMT) superfamily	RhaT			5I20
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_02790	COG3709	G	Ribose 1,5-bisphosphate kinase PhnN	PhnN			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_02795	COG0669	H	Phosphopantetheine adenylyltransferase	CoaD	Pantothenate/CoA biosynthesis		3F3M
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_02805	COG0308	E	Aminopeptidase N, contains DUF3458 domain	PepN		24123841	6ATK
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_02810	COG1404	O	Serine protease, subtilisin family	AprE			1SCJ
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_02815	COG0491	R	Glyoxylase or a related metal-dependent hydrolase, beta-lactamase superfamily II	GloB		25670698	1QH3
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_02820	COG2149	S	Uncharacterized membrane protein YidH, DUF202 family	YidH			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_02825	COG0025	P	NhaP-type Na+/H+ or K+/H+ antiporter	NhaP			4CZB
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_02830	COG0532	J	Translation initiation factor IF-2, a GTPase	InfB	Translation factors		5ME0
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_02845	COG0823	U	Periplasmic component TolB of the Tol biopolymer transport system	TolB			1C5K
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_02850	COG0265	O	Periplasmic serine protease, S1-C subfamily, contain C-terminal PDZ domain	DegQ		29686141	2HGA
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_02855	COG0167	F	Dihydroorotate dehydrogenase	PyrD	Pyrimidine biosynthesis		1GT8
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_02860	COG0577	V	ABC-type antimicrobial peptide transport system, permease component	SalY			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_02865	COG0858	J	Ribosome-binding factor RbfA	RbfA			1JOS
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_02870	COG0346	Q	Catechol 2,3-dioxygenase or related enzyme, vicinal oxygen chelate (VOC) family	GloA		11830595	3R4Q
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_02885	COG4667	I	Predicted phospholipase, patatin/cPLA2 family	YjjU			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_02895	COG2911	U	Autotransporter translocation and assembly protein TamB	TamB			5VTG
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_02900	COG0729	M	Outer membrane translocation and assembly module TamA	TamA			4BZA
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_02915	COG1399	J	23S rRNA accumulation protein YceD (essential in plants, uncharacterized in bacteria)	YceD		27574185	
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_02920	COG0333	J	Ribosomal protein L32	RpmF	Ribosome 50S subunit	17114934	1VS6
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_02925	COG3425	I	3-hydroxy-3-methylglutaryl CoA synthase	PksG	Isoprenoid biosynthesis		1TVZ
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_02930	COG0511	I	Biotin carboxyl carrier protein	AccB	Fatty acid biosynthesis		1A6X
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_02935	COG0458	EF	Carbamoylphosphate synthase large subunit	CarB	Arginine biosynthesis		1C30
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_02940	COG0579	G	L-2-hydroxyglutarate oxidase LhgO	LhgO			3DME
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_02945	COG0744	M	Penicillin-binding protein 1B/1F, peptidoglycan  transglycosylase/transpeptidase	MrcB			3FWL
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_02955	COG4161	E	ABC-type arginine transport system, ATPase component	ArtP			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_02965	COG1360	N	Flagellar motor protein MotB	MotB			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_02970	COG1012	I	Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase	AdhE	Proline degradation		1A4S
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_02975	COG1446	E	Isoaspartyl peptidase or L-asparaginase, Ntn-hydrolase superfamily	IaaA			1APY
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_02980	COG2329	H	Heme-degrading monooxygenase HmoA and related ABM domain proteins	HmoA		21873409	1IUJ
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_02990	COG1437	TR	Adenylate cyclase class IV, CYTH domain (includes archaeal enzymes of unknown function)	CyaB			1YEM
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_02995	COG0702	R	Uncharacterized conserved protein YbjT, contains NAD(P)-binding and DUF2867 domains	YbjT			5L3Z
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_03005	COG0469	G	Pyruvate kinase	PykF	Glycolysis		6QXL
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_03020	COG0304	IQ	3-oxoacyl-(acyl-carrier-protein) synthase	FabB	Fatty acid biosynthesis	21652641	2UV8
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_03025	COG0236	I	Acyl carrier protein	AcpP	Fatty acid biosynthesis		1ACP
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_03030	COG0788	F	Formyltetrahydrofolate hydrolase	PurU	Purine biosynthesis		3O1L
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_03040	COG1105	G	1-phosphofructokinase or 6-phosphofructokinase II	FruK			2ABQ
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_03045	COG0367	E	Asparagine synthetase B (glutamine-hydrolyzing)	AsnB	Asparagine biosynthesis	25951518	2ETD
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_03050	COG0605	P	Superoxide dismutase	SodA			1AP5
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_03055	COG0210	L	Superfamily I DNA or RNA helicase	UvrD			6PPR
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_03060	COG0079	E	Histidinol-phosphate/aromatic aminotransferase or cobyric acid decarboxylase	HisC	Cobalamine/B12 biosynthesis		4R2N
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_03070	COG3893	L	Inactivated superfamily I helicase				
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_03075	COG0596	HR	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold	MenH	Menaquinone biosynthesis		4MYS
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_03085	COG0589	T	Nucleotide-binding universal stress protein,  UspA family	UspA			1JMV
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_03090	COG0456	J	Ribosomal protein S18 acetylase RimI and related acetyltransferases	RimI			1GHE
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_03095	COG0534	V	Na+-driven multidrug efflux pump, DinF/NorM/MATE family	NorM		29915058	3VVN
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_03105	COG3751	JO	Proline 4-hydroxylase (includes Rps23 Pro-64 3,4-dihydroxylase Tpa1), contains SM-20 domain	EGL9			2G19
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_03110	COG0720	H	6-pyruvoyl-tetrahydropterin synthase	QueD	tRNA modification	14660578;17384645	1B66
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_03115	COG0420	L	DNA repair exonuclease SbcCD nuclease subunit	SbcD			6S85
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_03120	COG0477	GEPR	MFS family permease, includes anhydromuropeptide permease AmpG	ProP		12426329	
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_03125	COG0618	FT	nanoRNase/pAp phosphatase, hydrolyzes c-di-AMP and oligoRNAs	NrnA			5O4Z
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_03145	COG1010	H	Precorrin-3B methylase	CobJ	Cobalamine/B12 biosynthesis		2ZVB
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_03160	COG0787	M	Alanine racemase	Alr	Mureine biosynthesis		1BD0
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_03170	COG0002	E	N-acetyl-gamma-glutamylphosphate reductase	ArgC	Arginine biosynthesis		3DR3
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_03195	COG2865	K	Predicted transcriptional regulator, contains HTH domain				3LMM
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_03200	COG0623	I	Enoyl-[acyl-carrier-protein] reductase FabI	FabI	Fatty acid biosynthesis		1C14
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_03210	COG1239	H	Mg-chelatase subunit ChlI	ChlI			1G8P
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_03215	COG1240	H	vWFA (von Willebrand factor type A) domain of Mg and Co chelatases	ChlD			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_03220	COG1766	NU	Flagellar biosynthesis/type III secretory pathway M-ring protein FliF/YscJ	FliF			6SCN
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_03225	COG1240	H	vWFA (von Willebrand factor type A) domain of Mg and Co chelatases	ChlD			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_03230	COG1240	H	vWFA (von Willebrand factor type A) domain of Mg and Co chelatases	ChlD			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_03235	COG3063	NW	Type IV pilus assembly protein PilF/PilW	PilF		16403447	2VQ2
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_03245	COG4105	M	Outer membrane protein assembly factor BamD, BamD/ComL family	BamD			2YHC
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_03255	COG0659	P	Sulfate permease or related transporter, MFS superfamily	SUL1			3NY7
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_03260	COG0288	P	Carbonic anhydrase	CynT		22081392	1EKJ
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_03275	COG0016	J	Phenylalanyl-tRNA synthetase alpha subunit	PheS	Aminoacyl-tRNA synthetases		3L4G
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_03280	COG1510	K	DNA-binding transcriptional regulator GbsR, MarR family	GbsR			1KU9
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_03285	COG1566	V	Multidrug resistance efflux pump EmrA	EmrA			4TKO
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_03290	COG0841	V	Multidrug efflux pump subunit AcrB	AcrB			1IWG
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_03295	COG1538	M	Outer membrane protein TolC	TolC			1EK9
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_03300	COG1309	K	DNA-binding protein, AcrR family, includes nucleoid occlusion protein SlmA	AcrR			2QOP
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_03320	COG1652	P	Cytoplasmic potassium-binding protein Kbp/XkdP/YgaU, contains LysM domain	XkdP		27112601	5FIM
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_03330	COG0265	O	Periplasmic serine protease, S1-C subfamily, contain C-terminal PDZ domain	DegQ		29686141	2HGA
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_03335	COG0626	E	Cystathionine beta-lyase/cystathionine gamma-synthase	MetC	Methionine biosynthesis		1CL1
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_03350	COG0161	H	Adenosylmethionine-8-amino-7-oxononanoate aminotransferase	BioA	Biotin biosynthesis		1MLY
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_03355	COG3321	Q	Acyl transferase domain in polyketide synthase (PKS) enzymes	PksD			6IYO
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_03360	COG2021	E	Homoserine O-acetyltransferase	MET2	Methionine biosynthesis		2VAT
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_03365	COG1060	H	2-iminoacetate synthase ThiH/Menaquinone biosynthesis enzymes MqnC and MqnE	ThiH	Thiamine biosynthesis	18801996	4WCX
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_03380	COG0669	H	Phosphopantetheine adenylyltransferase	CoaD	Pantothenate/CoA biosynthesis		3F3M
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_03385	COG3709	G	Ribose 1,5-bisphosphate kinase PhnN	PhnN			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_03395	COG0308	E	Aminopeptidase N, contains DUF3458 domain	PepN		24123841	6ATK
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_03400	COG2988	E	Succinylglutamate desuccinylase	AstE			1YW4
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_03405	COG0517	T	CBS domain	CBS			1B3O
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_03410	COG0594	J	RNase P protein component	RnpA			1A6F
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_03415	COG0265	O	Periplasmic serine protease, S1-C subfamily, contain C-terminal PDZ domain	DegQ		29686141	2HGA
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_03420	COG1360	N	Flagellar motor protein MotB	MotB			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_03435	COG3965	P	Predicted Co/Zn/Cd cation transporter, cation efflux family				
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_03440	COG0698	G	Ribose 5-phosphate isomerase RpiB	RpiB	Pentose phosphate pathway		1NN4
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_03450	COG0557	K	Exoribonuclease R	VacB			6H25
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_03470	COG1539	H	Dihydroneopterin aldolase	FolB	Folate biosynthesis		1B9L
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_03475	COG0008	J	Glutamyl- or glutaminyl-tRNA synthetase	GlnS	Heme biosynthesis		1EUQ
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_03495	COG0008	J	Glutamyl- or glutaminyl-tRNA synthetase	GlnS	Heme biosynthesis		1EUQ
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_03505	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_03515	COG0445	J	tRNA U34 5-carboxymethylaminomethyl modifying enzyme MnmG/GidA	MnmG	tRNA modification		2ZXH
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_03520	COG2227	H	2-polyprenyl-3-methyl-5-hydroxy-6-metoxy-1,4-benzoquinol methylase	UbiG	Ubiquinone biosynthesis		1BHJ
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_03530	COG1597	IR	Phosphatidylglycerol kinase, diacylglycerol kinase family	LCB5		17351295	2BON
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_03535	COG0470	L	DNA polymerase III, delta prime subunit	HolB			1A5T
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_03540	COG0126	G	3-phosphoglycerate kinase	Pgk	Glycolysis		13PK
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_03545	COG0741	M	Soluble lytic murein transglycosylase or regulatory protein s ( may contain LysM/invasin domain)	MltE			153L
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_03555	COG1826	U	Twin-arginine protein secretion pathway components TatA and TatB	TatA			2L16
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_03580	COG1091	M	dTDP-4-dehydrorhamnose reductase	RfbD			1KBZ
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_03585	COG0448	G	Glucose-1-phosphate adenylyltransferase (ADP-glucose pyrophosphorylase)	GlgC		27545622	5MNI
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_03590	COG1898	M	dTDP-4-dehydrorhamnose 3,5-epimerase or related enzyme	RfbC			1DZR
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_03595	COG0451	M	Nucleoside-diphosphate-sugar epimerase	WcaG			2X4G
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_03600	COG1088	M	dTDP-D-glucose 4,6-dehydratase	RfbB			1G1A
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_03605	COG1088	M	dTDP-D-glucose 4,6-dehydratase	RfbB			1G1A
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_03620	COG1218	P	3'-Phosphoadenosine 5'-phosphosulfate (PAPS) 3'-phosphatase	CysQ			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_03630	COG3265	G	Gluconate kinase	GntK	Non-phosphorylated Entner-Doudoroff pathway		1KO4
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_03635	COG0603	J	7-cyano-7-deazaguanine synthase (queuosine biosynthesis)	QueC	tRNA modification	14660578;17384645	2PG3
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_03645	COG0050	J	Translation elongation factor EF-Tu, a GTPase	TufA	Translation factors		1EFU
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_03660	COG0534	V	Na+-driven multidrug efflux pump, DinF/NorM/MATE family	NorM		29915058	3VVN
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_03670	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_03695	COG1004	M	UDP-glucose 6-dehydrogenase	Ugd			1DLI
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_03700	COG1087	M	UDP-glucose 4-epimerase	GalE			1A9Y
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_03705	COG2148	M	Sugar transferase involved in LPS biosynthesis (colanic, teichoic acid)	WcaJ			5W7L
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_03710	COG0438	M	Glycosyltransferase involved in cell wall bisynthesis	RfaB			2IV7
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_03725	COG0151	F	Phosphoribosylamine-glycine ligase	PurD	Purine biosynthesis		1GSO
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_03740	COG2065	F	Pyrimidine operon attenuation protein PyrR/uracil phosphoribosyltransferase	PyrR	Pyrimidine salvage		1A3C
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_03750	COG0859	M	ADP-heptose:LPS heptosyltransferase	RfaF			1PSW
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_03760	COG4097	P	Predicted ferric reductase				
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_03770	COG2274	V	ABC-type bacteriocin/lantibiotic exporters, contain an N-terminal double-glycine peptidase domain	SunT			3K8U
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_03775	COG4105	M	Outer membrane protein assembly factor BamD, BamD/ComL family	BamD			2YHC
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_03800	COG0636	C	FoF1-type ATP synthase, membrane subunit c/Archaeal/vacuolar-type H+-ATPase, subunit K	AtpE	FoF1-type ATP synthase		1C17
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_03805	COG0711	C	FoF1-type ATP synthase, membrane subunit b or b'	AtpF	FoF1-type ATP synthase		1B9U
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_03810	COG0712	C	FoF1-type ATP synthase, delta subunit	AtpH	FoF1-type ATP synthase		1ABV
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_03815	COG1155	C	Archaeal/vacuolar-type H+-ATPase catalytic subunit A/Vma1	NtpA	A/V-type ATP synthase		3J9T
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_03825	COG0224	C	FoF1-type ATP synthase, gamma subunit	AtpG	FoF1-type ATP synthase	15326535	3OAA
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_03835	COG2244	M	Membrane protein involved in the export of O-antigen and teichoic acid	RfbX			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_03840	COG0717	F	dCTP deaminase	Dcd	Thymidylate biosynthesis		1XS1
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_03845	COG1207	M	Bifunctional protein GlmU, N-acetylglucosamine-1-phosphate-uridyltransferase/glucosamine-1-phosphate-acetyltransferase	GlmU			3FWW
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_03850	COG4783	MO	Outer membrane protein chaperone/metalloprotease BepA/YfgC, contains M48 and TPR domains	BepA		24003122	6AIT
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_03860	COG0739	M	Murein DD-endopeptidase MepM and murein hydrolase activator NlpD, contains LysM domain	NlpD			2GU1
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_03875	COG1607	I	Acyl-CoA hydrolase	YciA			5DM5
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_03880	COG3087	D	Cell division protein FtsN	FtsN			1UTA
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_03885	COG1948	L	ERCC4-type crossover junction endonuclease	MUS81			1J22
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_03890	COG3147	D	Cell division protein DedD (periplasmic protein involved in septation)	DedD			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_03895	COG0162	J	Tyrosyl-tRNA synthetase	TyrS	Aminoacyl-tRNA synthetases		4OUD
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_03920	COG0593	L	Chromosomal replication initiation ATPase DnaA	DnaA			1L8Q
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_03925	COG0607	P	Rhodanese-related sulfurtransferase	PspE	Urea cycle		1TQ1
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_03930	COG0826	J	23S rRNA C2501 and tRNA U34 5'-hydroxylation protein RlhA/YrrN/YrrO, U32 peptidase family	RlhA	23S rRNA modification	31253794;31358606	5D88
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_03935	COG2878	C	Na+-translocating ferredoxin:NAD+ oxidoreductase RNF, RnfB subunit	RnfB	Na+-translocating Fd:NADH oxidoreductase	24045950	
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_03940	COG0535	DH	Radical SAM superfamily maturase, SkfB/NifB/PqqE family	SkfB		23282011	6Q2P
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_03945	COG0739	M	Murein DD-endopeptidase MepM and murein hydrolase activator NlpD, contains LysM domain	NlpD			2GU1
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_03950	COG1774	T	Cell fate regulator YaaT, PSP1 superfamily (controls sporulation, competence, biofilm development)	YaaT		23490197	
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_03960	COG0744	M	Penicillin-binding protein 1B/1F, peptidoglycan  transglycosylase/transpeptidase	MrcB			3FWL
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_03965	COG4670	I	Acyl CoA:acetate/3-ketoacid CoA transferase	YdiF			5VIT
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_03970	COG2057	I	Acyl-CoA:acetate/3-ketoacid CoA transferase, beta subunit	AtoA			5DBN
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_03980	COG1101	R	ABC-type uncharacterized transport system, ATPase component	PhnK			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_03990	COG0417	L	DNA polymerase B elongation subunit	PolB			6P1H
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_04005	COG3695	K	Alkylated DNA nucleotide flippase Atl1, participates in nucleotide excision repair, Ada-like DNA-binding domain	Atl1		19516334	2KIF
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_04015	COG0113	H	Delta-aminolevulinic acid dehydratase, porphobilinogen synthase	HemB	Heme biosynthesis		1I8J
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_04025	COG1670	JO	Protein N-acetyltransferase, RimJ/RimL family	RimL			1S7F
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_04030	COG0407	H	Uroporphyrinogen-III decarboxylase HemE	HemE	Heme biosynthesis		2DG5
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_04035	COG1587	H	Uroporphyrinogen-III synthase	HemD	Heme biosynthesis		1JR2
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_04040	COG1748	E	Saccharopine dehydrogenase, NADP-dependent	Lys9	Lysine biosynthesis		1E5L
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_04045	COG2169	L	Methylphosphotriester-DNA--protein-cysteine methyltransferase (N-terminal fragment of Ada), contains Zn-binding and two AraC-type DNA-binding domains	AdaA			1ADN
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_04050	COG0276	H	Protoheme ferro-lyase (ferrochelatase)	HemH	Heme biosynthesis		1AK1
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_04055	COG0534	V	Na+-driven multidrug efflux pump, DinF/NorM/MATE family	NorM		29915058	3VVN
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_04065	COG3290	T	Sensor histidine kinase DipB regulating citrate/malate metabolism	CitA			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_04085	COG0204	I	1-acyl-sn-glycerol-3-phosphate acyltransferase	PlsC	Phospholipid biosynthesis		1IUQ
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_04095	COG0484	O	DnaJ-class molecular chaperone with C-terminal Zn finger domain	DnaJ			1BQ0
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_04115	COG4138	H	ABC-type cobalamin transport system, ATPase component BtuD	BtuD			4FI3
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_04120	COG4531	P	ABC-type Zn2+ transport system, periplasmic component/surface adhesin ZnuA	ZnuA			2OGW
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_04130	COG1846	K	DNA-binding transcriptional regulator, MarR family	MarR			1JGS
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_04140	COG1160	J	Double Era-like domain GTPase Der	Der			1MKY
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_04155	COG0308	E	Aminopeptidase N, contains DUF3458 domain	PepN		24123841	6ATK
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_04160	COG0265	O	Periplasmic serine protease, S1-C subfamily, contain C-terminal PDZ domain	DegQ		29686141	2HGA
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_04170	COG3182	S	PepSY-associated TM region	PiuB		15124630	
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_04175	COG4771	P	Outer membrane receptor for ferrienterochelin and colicins	FepA		16468998	2HDF
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_04180	COG1902	C	2,4-dienoyl-CoA reductase or related NADH-dependent reductase, Old Yellow Enzyme (OYE) family	FadH			1BWK
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_04190	COG1137	M	ABC-type lipopolysaccharide export system, ATPase component	LptB		12029038	5L75
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_04205	COG1566	V	Multidrug resistance efflux pump EmrA	EmrA			4TKO
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_04210	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_04215	COG1309	K	DNA-binding protein, AcrR family, includes nucleoid occlusion protein SlmA	AcrR			2QOP
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_04225	COG0550	L	DNA topoisomerase IA	TopA			1CY0
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_04230	COG0640	K	DNA-binding transcriptional regulator, ArsR family	ArsR			3F6V
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_04245	COG0385	R	Predicted Na+-dependent transporter YfeH	YfeH		21175741	4N7X
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_04250	COG4942	D	Septal ring factor EnvC, activator of murein hydrolases AmiA and AmiB	EnvC			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_04260	COG3476	T	Tryptophan-rich sensory protein TspO/CrtK (mitochondrial benzodiazepine receptor homolog)	TspO			2MGY
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_04265	COG4276	R	Ligand-binding SRPBCC domain	SRPBCC			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_04275	COG3485	Q	Protocatechuate 3,4-dioxygenase beta subunit	PcaH			1DLM
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_04290	COG0071	O	Small heat shock protein IbpA, HSP20 family	IbpA			1GME
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_04300	COG3710	K	DNA-binding winged helix-turn-helix (wHTH) domain	CadC1			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_04305	COG2010	C	Cytochrome c, mono- and diheme variants	CccA			1A2S
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_04315	COG3947	TK	Two-component response regulator, SAPR family, consists of REC, wHTH and BTAD domains	SAPR			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_04320	COG2972	T	Sensor histidine kinase YesM	YesM			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_04330	COG0396	O	Fe-S cluster assembly ATPase SufC	SufC			2D3W
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_04335	COG0308	E	Aminopeptidase N, contains DUF3458 domain	PepN		24123841	6ATK
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_04345	COG0529	P	Adenylylsulfate kinase or related kinase	CysC	Cysteine biosynthesis		2GKS
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_04370	COG0612	R	Predicted Zn-dependent peptidase, M16 family	PqqL			6OFS
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_04375	COG3782	S	Uncharacterized conserved protein, DUF1853 domain				
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_04385	COG2885	M	Outer membrane protein OmpA and related peptidoglycan-associated (lipo)proteins	OmpA			1OAP
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_04390	COG0589	T	Nucleotide-binding universal stress protein,  UspA family	UspA			1JMV
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_04400	COG1204	L	Replicative superfamily II helicase	BRR2			2VA8
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_04420	COG3584	S	3D (Asp-Asp-Asp) domain, usually in lytic transglycosylases		3D	16139297	4WLK
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_04430	COG1154	HI	Deoxyxylulose-5-phosphate synthase	Dxs	Pyridoxal phosphate biosynthesis		2O1S
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_04455	COG2358	R	TRAP-type uncharacterized transport system, periplasmic component	Imp			1US4
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_04465	COG0692	L	Uracil-DNA glycosylase	Ung		16237021	1AKZ
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_04470	COG1288	R	Predicted membrane transporter YfcC, affects glyoxylate shunt	YfcC		24513124	
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_04475	COG1506	E	Dipeptidyl aminopeptidase/acylaminoacyl peptidase	DAP2			2JBW
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_04490	COG0697	GER	Permease of the drug/metabolite transporter (DMT) superfamily	RhaT			5I20
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_04505	COG0607	P	Rhodanese-related sulfurtransferase	PspE	Urea cycle		1TQ1
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_04510	COG0189	EHJQ	Glutathione synthase, LysX or RimK-type ligase, ATP-grasp superfamily	LysX	Lysine biosynthesis		1GLV
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_04515	COG3633	E	Na+/serine and Na+/threonine symporter SstT	SstT			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_04520	COG0082	E	Chorismate synthase	AroC	Aromatic amino acid biosynthesis		1Q1L
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_04525	COG1145	C	Ferredoxin	NapF			6FAH
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_04535	COG1210	M	UTP-glucose-1-phosphate uridylyltransferase	GalU			2E3D
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_04540	COG0510	H	Thiamine kinase or a related kinase	CotS			3DXQ
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_04545	COG0673	R	Predicted dehydrogenase	MviM			3UUW
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_04560	COG0438	M	Glycosyltransferase involved in cell wall bisynthesis	RfaB			2IV7
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_04575	COG1884	I	Methylmalonyl-CoA mutase, N-terminal domain/subunit	Sbm			6OXC
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_04590	COG4558	P	ABC-type hemin transport system, periplasmic component	ChuT			3MD9
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_04595	COG0284	F	Orotidine-5'-phosphate decarboxylase	PyrF	Pyrimidine biosynthesis		1DBT
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_04600	COG0216	J	Protein chain release factor RF1	PrfA	Translation factors		1RQ0
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_04610	COG0209	F	Ribonucleotide reductase alpha subunit	NrdA	Pyrimidine salvage		1R1R
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_04630	COG3968	E	Glutamine synthetase type III	GlnA3			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_04635	COG0530	P	Ca2+/Na+ antiporter	ECM27			3V5S
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_04640	COG2976	T	Putative negative regulator of RcsB-dependent stress response, UPF0070 family	YfgM		23091052	
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_04645	COG3682	K	Transcriptional regulator, CopY/TcrY family	CopY			1OKR
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_04650	COG4219	T	Signal transducer regulating beta-lactamase production, contains metallopeptidase domain	MecR1			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_04655	COG2356	L	Endonuclease I	EndA			1OUO
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_04670	COG4974	L	Site-specific recombinase XerD	XerD			1A0P
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_04705	COG1223	R	Predicted ATPase, AAA+ superfamily				
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_04710	COG0616	O	Periplasmic serine protease, ClpP class	SppA			3BEZ
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_04725	COG1075	I	Triacylglycerol esterase/lipase EstA, alpha/beta hydrolase fold	EstA			1I6W
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_04740	COG1597	IR	Phosphatidylglycerol kinase, diacylglycerol kinase family	LCB5		17351295	2BON
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_04750	COG0020	I	Undecaprenyl pyrophosphate synthase	UppS			1X07
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_04755	COG0729	M	Outer membrane translocation and assembly module TamA	TamA			4BZA
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_04760	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_04770	COG1794	M	Amino acid racemase YgeA	RacX			5ELL
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_04775	COG0110	R	Acetyltransferase, isoleucine patch superfamily	WbbJ			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_04795	COG1331	R	Uncharacterized conserved protein YyaL, SSP411 family, contains thoiredoxin and six-hairpin glycosidase-like domains	YyaL			3IRA
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_04800	COG3759	S	Uncharacterized membrane protein			15101977	
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_04810	COG0533	J	tRNA A37 threonylcarbamoyltransferase TsaD	TsaD	tRNA modification	23072323;21285948;32385138	3ENO
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_04815	COG1538	M	Outer membrane protein TolC	TolC			1EK9
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_04820	COG1566	V	Multidrug resistance efflux pump EmrA	EmrA			4TKO
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_04825	COG4591	M	ABC-type transport system involved in lipoprotein release, permease component LolC	LolE			6F49
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_04830	COG4591	M	ABC-type transport system involved in lipoprotein release, permease component LolC	LolE			6F49
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_04835	COG4167	V	ABC-type antimicrobial peptide export system, ATPase component SapF	SapF			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_04850	COG0526	O	Thiol-disulfide isomerase or thioredoxin	TrxA			1XFL
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_04870	COG1845	C	Heme/copper-type cytochrome/quinol oxidase, subunit 3	CyoC			1QLE
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_04875	COG0382	H	4-hydroxybenzoate polyprenyltransferase	UbiA	Ubiquinone biosynthesis	28830929	4OD4
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_04900	COG0509	E	Glycine cleavage system protein H (lipoate-binding)	GcvH	Glycine cleavage		1DXM
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_04910	COG0632	L	Holliday junction resolvasome RuvABC DNA-binding subunit	RuvA			1BDX
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_04915	COG0281	C	Malic enzyme	SfcA	Urea cycle		1DO8
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_04920	COG2221	P	Dissimilatory sulfite reductase (desulfoviridin), alpha and beta subunits	DsrA			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_04950	COG4618	U	ABC-type protease/lipase transport system, ATPase and permease components	ArpD			5L22
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_04955	COG0599	R	Uncharacterized conserved protein YurZ, alkylhydroperoxidase/carboxymuconolactone decarboxylase family	YurZ			3BEY
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_04960	COG0805	U	Twin-arginine protein secretion pathway component TatC	TatC			4B4A
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_04965	COG0517	T	CBS domain	CBS			1B3O
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_04970	COG0513	L	Superfamily II DNA and RNA helicase	SrmB			3RRM
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_04975	COG1047	O	Peptidyl-prolyl cis-trans isomerase, FKBP type	SlpA			2M2A
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_04980	COG3071	S	Uncharacterized protein HemY, contains HemY_N domain and TPR repeats (unrelated to protoporphyrinogen oxidase HemY)	HemYx			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_04995	COG0340	H	Biotin-(acetyl-CoA carboxylase) ligase	BirA2	Biotin biosynthesis	32188788	1BIA
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_05000	COG0457	R	Tetratricopeptide (TPR) repeat	TPR			3AS4
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_05010	COG1595	K	DNA-directed RNA polymerase specialized sigma subunit, sigma24 family	RpoE	RNA polymerase		2Q1Z
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_05035	COG4585	T	Signal transduction histidine kinase ComP	ComP			4GT8
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_05040	COG0784	T	CheY-like REC (receiver) domain, includes chemotaxis protein CheY  and sporulation regulator Spo0F	CheY			6QRJ
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_05045	COG4935	O	Regulatory P domain of the subtilisin-like proprotein convertases and other proteases				1OT5
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_05055	COG0302	H	GTP cyclohydrolase I	FolE	Folate biosynthesis	19767425;30692671	1A8R
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_05060	COG0215	J	Cysteinyl-tRNA synthetase	CysS	Aminoacyl-tRNA synthetases		1LI5
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_05070	COG1430	S	Uncharacterized conserved membrane protein, UPF0127 family				3M7A
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_05075	COG0342	U	Preprotein translocase subunit SecD	SecD		26100040	3AQP
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_05085	COG1004	M	UDP-glucose 6-dehydrogenase	Ugd			1DLI
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_05100	COG0034	F	Glutamine phosphoribosylpyrophosphate amidotransferase	PurF	Purine biosynthesis		1ECB
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_05105	COG4447	R	Uncharacterized conserved protein related to plant photosystem II stability/assembly factor				2XBG
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_05115	COG1180	O	Pyruvate-formate lyase-activating enzyme	PflA			3CAN
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_05120	COG0433	L	Archaeal DNA helicase HerA or a related bacterial ATPase, contains HAS-barrel and ATPase domains	HerA			4D2I
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_05130	COG4766	E	Ethanolamine utilization protein EutQ, cupin superfamily (function unknown)	EutQ			2PYT
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_05135	COG0596	HR	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold	MenH	Menaquinone biosynthesis		4MYS
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_05140	COG0564	J	Pseudouridine synthase RluA, 23S rRNA- or tRNA-specific	RluA	23S rRNA modification		2I82
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_05145	COG0346	Q	Catechol 2,3-dioxygenase or related enzyme, vicinal oxygen chelate (VOC) family	GloA		11830595	3R4Q
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_05150	COG0190	H	5,10-methylene-tetrahydrofolate dehydrogenase/Methenyl tetrahydrofolate cyclohydrolase	FolD			1A4I
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_05160	COG1419	N	Flagellar biosynthesis GTPase FlhF	FlhF			3SYN
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_05175	COG3712	PT	Periplasmic ferric-dicitrate binding protein FecR, regulates iron transport	FecR			5CAM
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_05190	COG0494	V	8-oxo-dGTP pyrophosphatase MutT and related house-cleaning NTP pyrophosphohydrolases, NUDIX family	MutT			4V14
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_05195	COG0503	F	Adenine/guanine phosphoribosyltransferase or related PRPP-binding protein	Apt	Purine salvage		1QB7
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_05205	COG0340	H	Biotin-(acetyl-CoA carboxylase) ligase	BirA2	Biotin biosynthesis	32188788	1BIA
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_05210	COG0799	J	Ribosomal silencing factor RsfS, regulates association of 30S and 50S subunits	RsfS			6SJ6
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_05215	COG0465	O	ATP-dependent Zn proteases	HflB			1LV7
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_05230	COG0688	I	Phosphatidylserine decarboxylase	Psd	Phospholipid biosynthesis		6L06
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_05240	COG1524	T	c-di-AMP phosphodiesterase AtaC or nucleotide pyrophosphatase, AlkP superfamily	AtaC		32188788	1EI6
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_05250	COG4559	P	ABC-type hemin transport system, ATPase component				4G1U
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_05255	COG1808	S	Uncharacterized membrane protein AF0785, contains DUF389 domain	AF0785			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_05260	COG1211	I	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase	IspD	Isoprenoid biosynthesis		1H3M
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_05280	COG0001	H	Glutamate-1-semialdehyde aminotransferase	HemL	Heme biosynthesis		2CFB
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_05285	COG2992	R	Uncharacterized FlgJ-related protein	Bax			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_05290	COG0031	E	Cysteine synthase	CysK	Cysteine biosynthesis		1FCJ
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_05320	COG1278	K	Cold shock protein, CspA family	CspC			1C9O
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_05330	COG3959	G	Transketolase, N-terminal subunit	TktA1			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_05340	COG0508	C	Pyruvate/2-oxoglutarate dehydrogenase complex, dihydrolipoamide acyltransferase (E2) component	AceF	Pyruvate oxidation		1B5S
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_05345	COG0110	R	Acetyltransferase, isoleucine patch superfamily	WbbJ			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_05355	COG1012	I	Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase	AdhE	Proline degradation		1A4S
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_05365	COG2321	R	Predicted metalloprotease	YpfJ			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_05370	COG2050	Q	Acyl-CoA thioesterase PaaI, contains HGG motif	PaaI			1PSU
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_05375	COG0240	C	Glycerol-3-phosphate dehydrogenase	GpsA	Isoprenoid biosynthesis		1EVY
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_05385	COG2151	O	Metal-sulfur cluster biosynthetic enzyme	PaaD			1UWD
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_05405	COG3396	Q	1,2-phenylacetyl-CoA epoxidase, catalytic subunit	YdbO			1OTK
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_05410	COG4097	P	Predicted ferric reductase				
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_05415	COG1309	K	DNA-binding protein, AcrR family, includes nucleoid occlusion protein SlmA	AcrR			2QOP
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_05420	COG0607	P	Rhodanese-related sulfurtransferase	PspE	Urea cycle		1TQ1
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_05425	COG0784	T	CheY-like REC (receiver) domain, includes chemotaxis protein CheY  and sporulation regulator Spo0F	CheY			6QRJ
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_05430	COG3850	T	Signal transduction histidine kinase NarQ, nitrate/nitrite-specific	NarQ			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_05450	COG0013	J	Alanyl-tRNA synthetase	AlaS	Aminoacyl-tRNA synthetases		2ZZE
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_05455	COG4942	D	Septal ring factor EnvC, activator of murein hydrolases AmiA and AmiB	EnvC			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_05460	COG0789	K	DNA-binding transcriptional regulator, MerR family	SoxR			2VZ4
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_05465	COG1704	M	Magnetosome formation protein MamQ, lipoprotein antigen LemA family	LemA		14638756;20212111;26884433	2ETD
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_05470	COG3762	S	Uncharacterized membrane protein				
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_05485	COG1159	J	GTPase Era, involved in 16S rRNA processing	Era			1EGA
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_05490	COG2968	S	Uncharacterized conserved protein YggE, contains kinase-interacting SIMPL domain	YggE			4HVZ
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_05500	COG0486	J	tRNA U34 5-carboxymethylaminomethyl modifying GTPase MnmE/TrmE	MnmE	tRNA modification		
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_05510	COG0729	M	Outer membrane translocation and assembly module TamA	TamA			4BZA
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_05520	COG2801	X	Transposase InsO and inactivated derivatives	Tra5			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_05535	COG3950	R	Predicted ATP-binding protein involved in virulence				
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_05540	COG0210	L	Superfamily I DNA or RNA helicase	UvrD			6PPR
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_05565	COG1122	PR	Energy-coupling factor transporter ATP-binding protein EcfA2	EcfA2			4HUQ
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_05570	COG5038
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_05575	COG0665	E	Glycine/D-amino acid oxidase (deaminating)	DadA			3AWI
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_05605	COG0550	L	DNA topoisomerase IA	TopA			1CY0
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_05620	COG1032	R	Radical SAM superfamily enzyme YgiQ, UPF0313 family	YgiQ			6FD2
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_05625	COG2204	T	DNA-binding transcriptional response regulator, NtrC family, contains REC, AAA-type ATPase, and a Fis-type DNA-binding domains	AtoC			1ZY2
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_05650	COG0459	O	Chaperonin GroEL (HSP60 family)	GroEL			1AON
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_05665	COG1629	P	Outer membrane receptor protein, Fe transport	CirA			1BY3
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_05680	COG4083	U	Exosortase/Archaeosortase			22037399	
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_05685	COG2203	T	GAF domain	GAF			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_05690	COG0138	F	AICAR transformylase/IMP cyclohydrolase PurH	PurH	Purine biosynthesis		1G8M
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_05695	COG0443	O	Molecular chaperone DnaK (HSP70)	DnaK			3I33
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_05710	COG0768	DM	Cell division protein FtsI, peptidoglycan transpeptidase (Penicillin-binding protein 2)	FtsI			6HZQ
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_05755	COG0580	G	Glycerol uptake facilitator or related aquaporin (Major Intrinsic protein Family)	GlpF			1FQY
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_05770	COG0301	HJ	Adenylyl- and sulfurtransferase ThiI (thiamine and tRNA 4-thiouridine biosynthesis)	ThiI	Thiamine biosynthesis	22773787	1VBK
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_05775	COG4566	TK	DNA-binding response regulator, FixJ family, consists of REC and HTH domains	FixJ			1YIO
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_05780	COG0358	L	DNA primase (bacterial type)	DnaG		28128549	3B39
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_05800	COG0142	H	Geranylgeranyl pyrophosphate synthase	IspA	Isoprenoid biosynthesis		2AZJ
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_05810	COG2896	H	GTP 3',8-cyclase (molybdenum cofactor biosynthesis protein MoaA)	MoaA	Molybdopterin biosynthesis		1TV7
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_05815	COG0809	J	S-adenosylmethionine:tRNA-ribosyltransferase-isomerase (queuine synthetase)	QueA	tRNA modification		1VKY
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_05825	COG1694	V	NTP pyrophosphatase, house-cleaning of non-canonical NTPs	MazG			1VMG
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_05840	COG1490	J	D-aminoacyl-tRNA deacylase	Dtd		10918062;16902403;24302572	1J7G
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_05845	COG1161	J	Ribosome biogenesis GTPase RbgA	RbgA			6G14
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_05850	COG2877	M	3-deoxy-D-manno-octulosonic acid (KDO) 8-phosphate synthase	KdsA	Lipid A biosynthesis		1G7U
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_05855	COG2085	R	Predicted dinucleotide-binding enzyme				2VNS
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_05860	COG1168	ER	Bifunctional PLP-dependent enzyme with beta-cystathionase and maltose regulon repressor activities	MalY			4DGT
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_05870	COG4604	P	ABC-type enterochelin transport system, ATPase component	CeuD			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_05885	COG0685	E	5,10-methylenetetrahydrofolate reductase	MetF			1B5T
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_05890	COG2185	I	Methylmalonyl-CoA mutase, C-terminal domain/subunit (cobalamin-binding)	Sbm			1B1A
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_05900	COG0646	E	Methionine synthase I (cobalamin-dependent), methyltransferase domain	MetH1	Methionine biosynthesis		1LT7
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_05905	COG0460	E	Homoserine dehydrogenase	ThrA	Methionine biosynthesis	29124164	5AVO
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_05910	COG0520	E	Selenocysteine lyase/Cysteine desulfurase	CsdA			4LW2
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_05920	COG2067	I	Long-chain fatty acid transport protein	FadL			1T16
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_05930	COG0441	J	Threonyl-tRNA synthetase	ThrS	Aminoacyl-tRNA synthetases		1NYQ
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_05940	COG0268	J	Ribosomal protein S20	RpsT	Ribosome 30S subunit		4V4H
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_05945	COG1158	K	Transcription termination factor Rho	Rho			1PVO
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_05955	COG0622	R	Predicted phosphodiesterase, calcineurin family	YfcE		17586769	1SU1
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_05960	COG0101	J	tRNA U38,U39,U40 pseudouridine synthase TruA	TruA	tRNA modification		1DJ0
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_05965	COG1121	P	ABC-type Mn2+/Zn2+ transport system, ATPase component	ZnuC			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_05970	COG1624	T	c-di-AMP synthetase, contains DisA_N domain	DisA			2FB5
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_05990	COG2259	S	Uncharacterized membrane protein YphA, DoxX/SURF4 family	DoxX			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_05995	COG1173	EP	ABC-type dipeptide/oligopeptide/nickel transport system, permease component	DppC			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_06000	COG0149	G	Triosephosphate isomerase	TpiA	Glycolysis		1HG3
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_06005	COG2813	J	16S rRNA G1207 methylase RsmC	RsmC	16S rRNA modification		1DUS
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_06010	COG2127	O	ATP-dependent Clp protease adapter protein ClpS	ClpS			1LZW
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_06020	COG1741	R	Redox-sensitive bicupin YhaK, pirin superfamily	YhaK		18561187	1J1L
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_06030	COG2761	O	Predicted dithiol-disulfide isomerase, DsbA/YjbH family (virulence, stress resistance)	FrnE			6GHB
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_06035	COG4538	S	Uncharacterized conserved protein, contains SnoaL-like domain	SnoaL			2K54
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_06040	COG2353	R	Polyisoprenoid-binding periplasmic protein YceI	YceI		15741337;20236316	1WUB
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_06045	COG0753	P	Catalase	KatE			6RJR
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_06055	COG0589	T	Nucleotide-binding universal stress protein,  UspA family	UspA			1JMV
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_06060	COG4221	C	NADP-dependent 3-hydroxy acid dehydrogenase YdfG	YdfG	Pyrimidine degradation		3P19
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_06065	COG5483	S	Uncharacterized conserved protein, DUF488 family				
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_06075	COG1396	K	Transcriptional regulator, contains XRE-family HTH domain	HipB			1ADR
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_06090	COG1073	T	Fermentation-respiration switch esterase FrsA, DUF1100 family	FrsA			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_06105	COG2207	K	AraC-type DNA-binding domain and AraC-containing proteins	AraC			1BL0
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_06115	COG0156	H	7-keto-8-aminopelargonate synthetase or related enzyme	BioF	Biotin biosynthesis		1BS0
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_06135	COG1484	L	DNA replication protein DnaC	DnaC			2QGZ
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_06175	COG2608	P	Copper chaperone CopZ	CopZ			1AFI
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_06180	COG2217	P	Cation-transporting P-type ATPase	ZntA			4BBJ
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_06185	COG2608	P	Copper chaperone CopZ	CopZ			1AFI
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_06200	COG0492	O	Thioredoxin reductase	TrxB			3FBS
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_06205	COG2608	P	Copper chaperone CopZ	CopZ			1AFI
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_06210	COG2608	P	Copper chaperone CopZ	CopZ			1AFI
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_06215	COG0640	K	DNA-binding transcriptional regulator, ArsR family	ArsR			3F6V
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_06220	COG4106	C	Trans-aconitate methyltransferase	Tam			2P35
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_06240	COG0219	J	tRNA(Leu) C34 or U34 (ribose-2'-O)-methylase TrmL, contains SPOUT domain	TrmL	tRNA modification		4JAK
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_06245	COG0705	O	Membrane-associated serine protease, rhomboid family	GlpG			2IC8
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_06250	COG2812	L	DNA polymerase III, gamma/tau subunits	DnaX			1A5T
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_06260	COG0647	F	Ribonucleotide monophosphatase NagD, HAD superfamily	NagD			1PW5
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_06270	COG2003	L	DNA repair protein RadC, contains a helix-hairpin-helix DNA-binding motif	RadC		9695921	2QLC
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_06290	COG0769	M	UDP-N-acetylmuramyl tripeptide synthase	MurE	Mureine biosynthesis		1E8C
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_06295	COG3071	S	Uncharacterized protein HemY, contains HemY_N domain and TPR repeats (unrelated to protoporphyrinogen oxidase HemY)	HemYx			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_06305	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_06320	COG0012	J	Ribosome-binding ATPase YchF, GTP1/OBG family	GTP1		21527254	2DWQ
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_06325	COG2236	H	Hypoxanthine phosphoribosyltransferase	Hpt1	Purine salvage		2JKZ
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_06330	COG1181	MR	D-alanine-D-alanine ligase or related ATP-grasp enzyme	DdlA	Mureine biosynthesis		1E4E
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_06335	COG1691	F	NCAIR mutase (PurE)-related protein				
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_06340	COG0339	O	Zn-dependent oligopeptidase, M3 family	Dcp		25239919;31422053	5L43
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_06360	COG1003	E	Glycine cleavage system protein P (pyridoxal-binding), C-terminal domain	GcvP2	Glycine cleavage		4LGL
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_06365	COG3425	I	3-hydroxy-3-methylglutaryl CoA synthase	PksG	Isoprenoid biosynthesis		1TVZ
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_06375	COG2520	J	tRNA G37 N-methylase Trm5	Trm5	tRNA modification		2YX1
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_06380	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_06390	COG0143	J	Methionyl-tRNA synthetase	MetG	Aminoacyl-tRNA synthetases		1A8H
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_06400	COG0793	O	C-terminal processing protease CtpA/Prc, contains a PDZ domain	CtpA			6IQU
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_06405	COG1448	E	Aspartate/aromatic aminotransferase	TyrB	Isoleucine, leucine, valine biosynthesis		1AAM
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_06410	COG0812	M	UDP-N-acetylenolpyruvoylglucosamine reductase	MurB	Mureine biosynthesis		2MBR
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_06430	COG1215	N	Glycosyltransferase, catalytic subunit of cellulose synthase and poly-beta-1,6-N-acetylglucosamine synthase	BcsA			4HG6
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_06440	COG0502	H	Biotin synthase or related enzyme	BioB	Biotin biosynthesis		1R30
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_06445	COG0057	G	Glyceraldehyde-3-phosphate dehydrogenase/erythrose-4-phosphate dehydrogenase	GapA	Glycolysis		3ZDF
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_06450	COG0784	T	CheY-like REC (receiver) domain, includes chemotaxis protein CheY  and sporulation regulator Spo0F	CheY			6QRJ
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_06460	COG0327	H	Putative GTP cyclohydrolase 1 type 2, NIF3 family	NIF3	Folate biosynthesis	24435797;26385509	3SY1
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_06465	COG1579	R	Predicted nucleic acid-binding protein DR0291, contains C4-type Zn-ribbon domain	DR0291			4ILO
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_06475	COG0360	J	Ribosomal protein S6	RpsF	Ribosome 30S subunit		4V4H
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_06480	COG0238	J	Ribosomal protein S18	RpsR	Ribosome 30S subunit		4V4H
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_06485	COG0359	J	Ribosomal protein L9	RplI	Ribosome 50S subunit	27112601	1VS6
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_06490	COG0584	I	Glycerophosphoryl diester phosphodiesterase	UgpQ			1O1Z
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_06505	COG0441	J	Threonyl-tRNA synthetase	ThrS	Aminoacyl-tRNA synthetases		1NYQ
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_06515	COG2866	M	Murein tripeptide amidase MpaA	MpaA			1ARL
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_06530	COG0110	R	Acetyltransferase, isoleucine patch superfamily	WbbJ			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_06535	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_06540	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_06545	COG0438	M	Glycosyltransferase involved in cell wall bisynthesis	RfaB			2IV7
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_06560	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_06565	COG0726	GM	Peptidoglycan/xylan/chitin deacetylase, PgdA/NodB/CDA1 family	CDA1			1NY1
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_06570	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_06580	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_06585	COG4106	C	Trans-aconitate methyltransferase	Tam			2P35
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_06590	COG0859	M	ADP-heptose:LPS heptosyltransferase	RfaF			1PSW
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_06600	COG1044	M	UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase	LpxD	Lipid A biosynthesis		6P83
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_06620	COG0242	J	Peptide deformylase	Def			1BS4
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_06630	COG1694	V	NTP pyrophosphatase, house-cleaning of non-canonical NTPs	MazG			1VMG
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_06640	COG1052	CHR	Lactate dehydrogenase or related 2-hydroxyacid dehydrogenase	LdhA	Pyridoxal phosphate biosynthesis		1DXY
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_06645	COG2035	S	Uncharacterized membrane protein, DUF368 family				
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_06655	COG4783	MO	Outer membrane protein chaperone/metalloprotease BepA/YfgC, contains M48 and TPR domains	BepA		24003122	6AIT
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_06660	COG0156	H	7-keto-8-aminopelargonate synthetase or related enzyme	BioF	Biotin biosynthesis		1BS0
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_06665	COG1452	M	LPS assembly outer membrane protein LptD (organic solvent tolerance protein OstA)	LptD			4N4R
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_06670	COG0104	F	Adenylosuccinate synthase	PurA	Purine biosynthesis		1ADE
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_06675	COG0735	P	Fe2+ or Zn2+ uptake regulation protein Fur/Zur	Fur			1MZB
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_06690	COG0219	J	tRNA(Leu) C34 or U34 (ribose-2'-O)-methylase TrmL, contains SPOUT domain	TrmL	tRNA modification		4JAK
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_06695	COG1228	Q	Imidazolonepropionase or related amidohydrolase	HutI			3OOQ
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_06700	COG1228	Q	Imidazolonepropionase or related amidohydrolase	HutI			3OOQ
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_06710	COG0624	E	Acetylornithine deacetylase/Succinyl-diaminopimelate desuccinylase or related deacylase	ArgE	Arginine biosynthesis		1CG2
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_06715	COG1047	O	Peptidyl-prolyl cis-trans isomerase, FKBP type	SlpA			2M2A
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_06720	COG0545	O	FKBP-type peptidyl-prolyl cis-trans isomerase	FkpA			1A7X
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_06725	COG3887	T	Cyclic di-AMP phosphodiesterase GdpP, contains GGDEF-like and DHH domains	GdpP			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_06730	COG0105	F	Nucleoside diphosphate kinase	Ndk	Pyrimidine biosynthesis		1B4S
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_06750	COG3593	L	Predicted ATP-dependent endonuclease of the OLD family, contains P-loop ATPase and TOPRIM domains	YbjD			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_06760	COG1731	H	Archaeal riboflavin synthase	RibC2	Riboflavin/FAD biosynthesis		5IM5
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_06770	COG0323	L	DNA mismatch repair ATPase MutL	MutL			1B62
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_06775	COG0705	O	Membrane-associated serine protease, rhomboid family	GlpG			2IC8
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_06780	COG0705	O	Membrane-associated serine protease, rhomboid family	GlpG			2IC8
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_06785	COG3568	R	Metal-dependent hydrolase, endonuclease/exonuclease/phosphatase family	ElsH		15178340	
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_06790	COG2076	V	Multidrug transporter EmrE and related cation transporters	EmrE			2I68
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_06805	COG0681	U	Signal peptidase I	LepB		1925027	1B12
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_06825	COG0670	P	Integral membrane protein YbhL, putative Ca2+ regulator, Bax inhibitor (BI-1)/TMBIM family	YbhL		28064000	4PGR
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_06830	COG2512	R	Predicted transcriptional regulator, contains CW (cell wall-binding) repeats and an HTH domain				
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_06835	COG0673	R	Predicted dehydrogenase	MviM			3UUW
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_06840	COG2363	S	Uncharacterized membrane protein YgdD, TMEM256/DUF423 family	YgdD			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_06845	COG1866	C	Phosphoenolpyruvate carboxykinase, ATP-dependent	PckA	Gluconeogenesis		1AQ2
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_06860	COG1587	H	Uroporphyrinogen-III synthase	HemD	Heme biosynthesis		1JR2
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_06870	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_06875	COG1228	Q	Imidazolonepropionase or related amidohydrolase	HutI			3OOQ
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_06885	COG3320	Q	Thioester reductase domain of alpha aminoadipate reductase Lys2 and NRPSs	Lys2b	Lysine biosynthesis		5MSP
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_06890	COG0162	J	Tyrosyl-tRNA synthetase	TyrS	Aminoacyl-tRNA synthetases		4OUD
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_06915	COG0784	T	CheY-like REC (receiver) domain, includes chemotaxis protein CheY  and sporulation regulator Spo0F	CheY			6QRJ
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_06920	COG3852	T	Signal transduction histidine kinase NtrB, nitrogen specific	NtrB		23893111	
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_06925	COG1819	G	UDP:flavonoid glycosyltransferase YjiC, YdhE family	YjiC		23974133	2ACV
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_06930	COG2230	I	Cyclopropane fatty-acyl-phospholipid synthase and related methyltransferases	Cfa			5Z9O
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_06940	COG3695	K	Alkylated DNA nucleotide flippase Atl1, participates in nucleotide excision repair, Ada-like DNA-binding domain	Atl1		19516334	2KIF
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_06945	COG1149	R	MinD superfamily P-loop ATPase, contains an inserted ferredoxin domain				
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_06955	COG1249	C	Dihydrolipoamide dehydrogenase (E3) component of pyruvate/2-oxoglutarate dehydrogenase complex or glutathione oxidoreductase	Lpd	Glycine cleavagePyruvate oxidation		6QKG
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_06965	COG0622	R	Predicted phosphodiesterase, calcineurin family	YfcE		17586769	1SU1
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_06975	COG2813	J	16S rRNA G1207 methylase RsmC	RsmC	16S rRNA modification		1DUS
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_06995	COG0847	L	DNA polymerase III, epsilon subunit or related 3'-5' exonuclease	DnaQ			1J53
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_07000	COG0526	O	Thiol-disulfide isomerase or thioredoxin	TrxA			1XFL
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_07005	COG1721	S	Uncharacterized conserved protein, DUF58 family, contains vWF domain	YeaD2			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_07020	COG1239	H	Mg-chelatase subunit ChlI	ChlI			1G8P
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_07025	COG0596	HR	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold	MenH	Menaquinone biosynthesis		4MYS
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_07030	COG1001	F	Adenine deaminase	AdeC			3NQB
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_07035	COG0785	CO	Cytochrome c biogenesis protein CcdA	CcdA			5VKV
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_07045	COG0147	EH	Anthranilate/para-aminobenzoate synthases component I	TrpE	Aromatic amino acid biosynthesis		1I1Q
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_07050	COG1201	L	Lhr-like helicase	Lhr			5V9X
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_07055	COG2226	H	Ubiquinone/menaquinone biosynthesis C-methylase UbiE/MenG	UbiE	Biotin biosynthesis		4OBW
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_07060	COG2382	P	Enterochelin esterase or related enzyme	Fes			2B20
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_07070	COG2972	T	Sensor histidine kinase YesM	YesM			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_07075	COG4565	KT	DNA-binding response regulator DpiB of citrate/malate metabolism	CitB			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_07080	COG0626	E	Cystathionine beta-lyase/cystathionine gamma-synthase	MetC	Methionine biosynthesis		1CL1
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_07105	COG0492	O	Thioredoxin reductase	TrxB			3FBS
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_07110	COG4566	TK	DNA-binding response regulator, FixJ family, consists of REC and HTH domains	FixJ			1YIO
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_07115	COG2512	R	Predicted transcriptional regulator, contains CW (cell wall-binding) repeats and an HTH domain				
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_07120	COG0436	E	Aspartate/methionine/tyrosine aminotransferase	AspB	Isoleucine, leucine, valine biosynthesis		2O0R
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_07135	COG1757	C	Na+/H+ antiporter NhaC/MleN	NhaC			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_07140	COG1225	O	Peroxiredoxin	Bcp			5IPH
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_07145	COG0526	O	Thiol-disulfide isomerase or thioredoxin	TrxA			1XFL
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_07160	COG1225	O	Peroxiredoxin	Bcp			5IPH
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_07165	COG0818	I	Diacylglycerol kinase	DgkA			2KDC
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_07170	COG1674	D	DNA segregation ATPase FtsK/SpoIIIE or related protein	FtsK			2IUT
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_07185	COG0108	H	3,4-dihydroxy-2-butanone 4-phosphate synthase	RibB	Riboflavin/FAD biosynthesis		1G57
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_07245	COG3706	TK	Two-component response regulator, PleD family, consists of two REC domains and a diguanylate cyclase (GGDEF) domain	PleD			1W25
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_07250	COG0436	E	Aspartate/methionine/tyrosine aminotransferase	AspB	Isoleucine, leucine, valine biosynthesis		2O0R
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_07265	COG3620	K	Predicted transcriptional regulator, contains an XRE-type HTH domain (archaeal members contain CBS pair)	AF2118			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_07275	COG3550	T	Serine/threonine protein kinase HipA, toxin component of the HipAB toxin-antitoxin module	HipA			2WIU
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_07285	COG1396	K	Transcriptional regulator, contains XRE-family HTH domain	HipB			1ADR
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_07305	COG1522	K	DNA-binding transcriptional regulator, Lrp family	Lrp			1I1G
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_07315	COG1002	V	Type II restriction/modification system, endonuclease and methylase domains	YeeA			5HR4
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_07335	COG0210	L	Superfamily I DNA or RNA helicase	UvrD			6PPR
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_07355	COG1484	L	DNA replication protein DnaC	DnaC			2QGZ
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_07380	COG4313	M	Sphingosine uptake channel SphA-related outer membrane channel	SphA		26149193	4RL8
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_07395	COG3064	M	Membrane protein TolA involved in colicin uptake	TolA			1S62
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_07435	COG2234	OE	Zn-dependent amino- or carboxypeptidase, M28 family	Iap			1AMP
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_07440	COG2234	OE	Zn-dependent amino- or carboxypeptidase, M28 family	Iap			1AMP
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_07445	COG2227	H	2-polyprenyl-3-methyl-5-hydroxy-6-metoxy-1,4-benzoquinol methylase	UbiG	Ubiquinone biosynthesis		1BHJ
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_07450	COG1226	P	Voltage-gated potassium channel Kch	Kch			3FWZ
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_07460	COG2230	I	Cyclopropane fatty-acyl-phospholipid synthase and related methyltransferases	Cfa			5Z9O
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_07475	COG0436	E	Aspartate/methionine/tyrosine aminotransferase	AspB	Isoleucine, leucine, valine biosynthesis		2O0R
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_07485	COG0798	P	Arsenite efflux pump ArsB, ACR3 family	ACR3			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_07490	COG0073	J	tRNA-binding EMAP/Myf domain	EMAP			1MKH
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_07495	COG1225	O	Peroxiredoxin	Bcp			5IPH
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_07500	COG0438	M	Glycosyltransferase involved in cell wall bisynthesis	RfaB			2IV7
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_07515	COG0015	F	Adenylosuccinate lyase	PurB	Purine biosynthesis		2HVG
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_07545	COG0793	O	C-terminal processing protease CtpA/Prc, contains a PDZ domain	CtpA			6IQU
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_07550	COG4774	P	Outer membrane receptor for monomeric catechols	Fiu			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_07565	COG4605	P	ABC-type enterochelin transport system, permease component	CeuC			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_07570	COG4525	P	ABC-type taurine transport system, ATPase component	TauB			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_07575	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_07585	COG1607	I	Acyl-CoA hydrolase	YciA			5DM5
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_07605	COG0666	T	Ankyrin repeat	ANKYR			6AUN
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_07610	COG1038	C	Pyruvate carboxylase	PycA	Urea cycle		5VYW
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_07615	COG0230	J	Ribosomal protein L34	RpmH	Ribosome 50S subunit		6SPB
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_07635	COG0596	HR	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold	MenH	Menaquinone biosynthesis		4MYS
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_07645	COG1032	R	Radical SAM superfamily enzyme YgiQ, UPF0313 family	YgiQ			6FD2
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_07655	COG4166	E	ABC-type oligopeptide transport system, periplasmic component	OppA			1B05
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_07665	COG0167	F	Dihydroorotate dehydrogenase	PyrD	Pyrimidine biosynthesis		1GT8
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_07670	COG0254	J	Ribosomal protein L31	RpmE	Ribosome 50S subunit		1VS6
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_07680	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_07685	COG1109	G	Phosphomannomutase	ManB			6MNV
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_07690	COG4555	CP	ABC-type Na+ transport system, ATPase component NatA	NatA			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_07710	COG4447	R	Uncharacterized conserved protein related to plant photosystem II stability/assembly factor				2XBG
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_07715	COG2265	J	tRNA/tmRNA/rRNA uracil-C5-methylase, TrmA/RlmC/RlmD family	TrmA	tRNA modification		1UWV
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_07720	COG2356	L	Endonuclease I	EndA			1OUO
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_07725	COG2144	R	Selenophosphate synthetase-related protein				
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_07730	COG1022	I	Long-chain acyl-CoA synthetase (AMP-forming)	FAA1			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_07735	COG1846	K	DNA-binding transcriptional regulator, MarR family	MarR			1JGS
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_07740	COG1024	I	Enoyl-CoA hydratase/carnithine racemase	CaiD	Fatty acid biosynthesis		1DCI
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_07750	COG0304	IQ	3-oxoacyl-(acyl-carrier-protein) synthase	FabB	Fatty acid biosynthesis	21652641	2UV8
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_07785	COG4564	T	Signal transduction histidine kinase				2QHK
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_07790	COG1187	J	Pseudouridylate synthase RsuA, specific for 16S rRNA U516  and 23S rRNA U2605	RsuA	16S rRNA modification		1KSK
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_07795	COG0413	H	Ketopantoate hydroxymethyltransferase	PanB	Pantothenate/CoA biosynthesis		3VAV
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_07805	COG1760	E	L-serine deaminase	SdaA			4RQO
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_07810	COG0443	O	Molecular chaperone DnaK (HSP70)	DnaK			3I33
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_07815	COG0167	F	Dihydroorotate dehydrogenase	PyrD	Pyrimidine biosynthesis		1GT8
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_07820	COG1670	JO	Protein N-acetyltransferase, RimJ/RimL family	RimL			1S7F
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_07825	COG0400	R	Predicted esterase	YpfH			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_07840	COG0028	EH	Acetolactate synthase large subunit or other thiamine pyrophosphate-requiring enzyme	IlvB	Isoleucine, leucine, valine biosynthesis		1BFD
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_07870	COG2333	U	DNA uptake channel protein ComEC C-terminal domain, metallo-beta-lactamase superfamily	ComEC			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_07875	COG0623	I	Enoyl-[acyl-carrier-protein] reductase FabI	FabI	Fatty acid biosynthesis		1C14
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_07880	COG3000	I	Sterol desaturase/sphingolipid hydroxylase, fatty acid hydroxylase superfamily	ERG3			4ZR0
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_07885	COG4948	MR	L-alanine-DL-glutamate epimerase or related enzyme of enolase superfamily	RspA	Non-phosphorylated Entner-Doudoroff pathway		1BKH
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_07890	COG1266	O	Membrane protease YdiL, CAAX protease family	YdiL			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_07895	COG0365	I	Acyl-coenzyme A synthetase/AMP-(fatty) acid ligase	Acs		14638756	4B2O
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_07900	COG2259	S	Uncharacterized membrane protein YphA, DoxX/SURF4 family	DoxX			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_07905	COG4799	I	Acetyl-CoA carboxylase, carboxyltransferase component	MmdA			1OD2
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_07915	COG2388	R	Predicted acetyltransferase, GNAT superfamily	YidJ			1R57
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_07920	COG1846	K	DNA-binding transcriptional regulator, MarR family	MarR			1JGS
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_07935	COG1129	G	ABC-type sugar transport system, ATPase component	MglA			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_07945	COG2220	G	L-ascorbate lactonase UlaG, metallo-beta-lactamase superfamily	UlaG			2WYM
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_07950	COG3800	R	Predicted transcriptional regulator				6CYJ
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_07955	COG1246	E	N-acetylglutamate synthase or related acetyltransferase, GNAT family	ArgA	Arginine biosynthesis		2R98
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_07960	COG0010	E	Arginase/agmatinase family enzyme	SpeB	Urea cycle		1CEV
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_07970	COG0402	FR	Cytosine/adenosine deaminase or related metal-dependent hydrolase	SsnA	Pyrimidine salvage		3O7U
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_07980	COG0114	C	Fumarate hydratase class II	FumC	TCA cycle		1KQ7
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_07985	COG0833	E	Amino acid permease	LysP			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_08005	COG1186	J	Protein chain release factor PrfB	PrfB	Translation factors		1GQE
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_08010	COG0156	H	7-keto-8-aminopelargonate synthetase or related enzyme	BioF	Biotin biosynthesis		1BS0
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_08025	COG1770	E	Protease II	PtrB			4BP9
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_08030	COG0498	E	Threonine synthase	ThrC	Threonine biosynthesis		1VB3
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_08035	COG0520	E	Selenocysteine lyase/Cysteine desulfurase	CsdA			4LW2
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_08070	COG0792	L	Predicted endonuclease distantly related to archaeal Holliday junction resolvase, YraN/UPF0102 family	YraN			3FOV
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_08075	COG1198	L	Primosomal protein N' (replication factor Y) - superfamily II helicase	PriA			6DCR
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_08080	COG4103	P	Tellurite resistance protein TerB	TerB2		23044854	2JXU
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_08085	COG0158	G	Fructose-1,6-bisphosphatase	Fbp	Gluconeogenesis		1BK4
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_08090	COG1670	JO	Protein N-acetyltransferase, RimJ/RimL family	RimL			1S7F
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_08095	COG0528	F	Uridylate kinase	PyrH	Pyrimidine biosynthesis		2BND
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_08110	COG4818	S	Uncharacterized membrane protein MJ1443, UPF0132 family				
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_08115	COG0346	Q	Catechol 2,3-dioxygenase or related enzyme, vicinal oxygen chelate (VOC) family	GloA		11830595	3R4Q
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_08125	COG0287	E	Prephenate dehydrogenase	TyrA	Aromatic amino acid biosynthesis		2F1K
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_08130	COG1824	P	Permease, similar to cation transporters	MgtE2			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_08135	COG3963	I	Phosphatidylethanolamine N-methyltransferase				
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_08145	COG1670	JO	Protein N-acetyltransferase, RimJ/RimL family	RimL			1S7F
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_08150	COG1729	D	Cell division protein CpoB, coordinates peptidoglycan biosynthesis and outer membrane constriction	CpoB		25951518	2WZ7
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_08165	COG0441	J	Threonyl-tRNA synthetase	ThrS	Aminoacyl-tRNA synthetases		1NYQ
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_08175	COG0196	H	FAD synthase	RibF	Riboflavin/FAD biosynthesis		1MRZ
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_08185	COG3291	S	Uncharacterized conserved protein, PKD repeat domain				2KZW
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_08190	COG0193	J	Peptidyl-tRNA hydrolase	Pth	Translation factors	11835511	1RYB
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_08195	COG1825	J	Ribosomal protein L25 (general stress protein Ctc)	RplY	Ribosome 50S subunit		1B75
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_08200	COG0634	F	Hypoxanthine-guanine phosphoribosyltransferase	HptA	Purine salvage		1G9S
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_08215	COG0117	H	Riboflavin biosynthesis protein RibD, pyrimidine deaminase domain	RibD1	Riboflavin/FAD biosynthesis		2O7P
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_08220	COG0793	O	C-terminal processing protease CtpA/Prc, contains a PDZ domain	CtpA			6IQU
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_08225	COG0579	G	L-2-hydroxyglutarate oxidase LhgO	LhgO			3DME
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_08240	COG2972	T	Sensor histidine kinase YesM	YesM			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_08245	COG4753	TK	Two-component response regulator, YesN/AraC family, consists of REC and AraC-type DNA-binding domains	YesN			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_08250	COG0208	F	Ribonucleotide reductase beta subunit, ferritin-like domain	NrdB	Pyrimidine salvage		1AV8
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_08255	COG0209	F	Ribonucleotide reductase alpha subunit	NrdA	Pyrimidine salvage		1R1R
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_08260	COG0306	P	Phosphate/sulfate permease	PitA		31358606	
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_08280	COG1629	P	Outer membrane receptor protein, Fe transport	CirA			1BY3
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_08285	COG1078	R	HD superfamily phosphohydrolase	YdhJ			2HEK
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_08305	COG0021	G	Transketolase	TktA	Pentose phosphate pathway		1AY0
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_08315	COG0117	H	Riboflavin biosynthesis protein RibD, pyrimidine deaminase domain	RibD1	Riboflavin/FAD biosynthesis		2O7P
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_08325	COG0517	T	CBS domain	CBS			1B3O
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_08330	COG0173	J	Aspartyl-tRNA synthetase	AspS	Aminoacyl-tRNA synthetases		1C0A
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_08335	COG0841	V	Multidrug efflux pump subunit AcrB	AcrB			1IWG
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_08340	COG1566	V	Multidrug resistance efflux pump EmrA	EmrA			4TKO
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_08345	COG1538	M	Outer membrane protein TolC	TolC			1EK9
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_08350	COG1309	K	DNA-binding protein, AcrR family, includes nucleoid occlusion protein SlmA	AcrR			2QOP
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_08355	COG0142	H	Geranylgeranyl pyrophosphate synthase	IspA	Isoprenoid biosynthesis		2AZJ
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_08370	COG0567	C	2-oxoglutarate dehydrogenase complex, dehydrogenase (E1) component, and related enzymes	SucA	TCA cycle		2JGD
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_08375	COG4942	D	Septal ring factor EnvC, activator of murein hydrolases AmiA and AmiB	EnvC			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_08380	COG0508	C	Pyruvate/2-oxoglutarate dehydrogenase complex, dihydrolipoamide acyltransferase (E2) component	AceF	Pyruvate oxidation		1B5S
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_08390	COG4753	TK	Two-component response regulator, YesN/AraC family, consists of REC and AraC-type DNA-binding domains	YesN			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_08395	COG3577	R	Predicted aspartyl protease				5C9F
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_08430	COG5343	T	Anti-sigma-K factor RskA	RskA		16011798;15972856	
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_08435	COG1099	R	Predicted metal-dependent hydrolase, TIM-barrel fold				3GUW
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_08440	COG0252	JE	L-asparaginase/archaeal Glu-tRNAGln amidotransferase subunit D	AnsA			1ZQ1
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_08450	COG1291	N	Flagellar motor component MotA	MotA			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_08480	COG1508	K	DNA-directed RNA polymerase specialized sigma subunit, sigma54 homolog	RpoN	RNA polymerase		5BYH
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_08490	COG4278	S	Uncharacterized conserved protein				
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_08500	COG0173	J	Aspartyl-tRNA synthetase	AspS	Aminoacyl-tRNA synthetases		1C0A
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_08505	COG0841	V	Multidrug efflux pump subunit AcrB	AcrB			1IWG
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_08510	COG0233	J	Ribosome recycling factor	Frr			1DD5
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_08515	COG0527	E	Aspartate kinase	MetL1	Lysine biosynthesis		2CDQ
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_08520	COG0264	J	Translation elongation factor EF-Ts	Tsf	Translation factors		1EFU
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_08525	COG0052	J	Ribosomal protein S2	RpsB	Ribosome 30S subunit		4V4H
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_08530	COG0103	J	Ribosomal protein S9	RpsI	Ribosome 30S subunit		4V4H
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_08535	COG0102	J	Ribosomal protein L13	RplM	Ribosome 50S subunit		1VS6
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_08540	COG4977	K	Transcriptional regulator GlxA, contains an amidase domain and an AraC-type DNA-binding HTH domain	GlxA			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_08545	COG0749	L	DNA polymerase I, 3'-5' exonuclease and polymerase domains	PolA			1D8Y
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_08550	COG1012	I	Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase	AdhE	Proline degradation		1A4S
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_08555	COG1409	T	3',5'-cyclic AMP phosphodiesterase CpdA	CpdA			2ZO9
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_08560	COG3118	O	Chaperedoxin CnoX, contains thioredoxin-like and TPR-like domains, YbbN/TrxSC family	CnoX		21498507;29754824	3QDN
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_08580	COG0589	T	Nucleotide-binding universal stress protein,  UspA family	UspA			1JMV
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_08595	COG1121	P	ABC-type Mn2+/Zn2+ transport system, ATPase component	ZnuC			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_08625	COG3958	G	Transketolase, C-terminal subunit	TktA2			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_08630	COG2259	S	Uncharacterized membrane protein YphA, DoxX/SURF4 family	DoxX			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_08650	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_08655	COG2885	M	Outer membrane protein OmpA and related peptidoglycan-associated (lipo)proteins	OmpA			1OAP
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_08665	COG0009	J	tRNA A37 threonylcarbamoyladenosine synthetase subunit TsaC/SUA5/YrdC	TsaC	tRNA modification		1HRU
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_08670	COG0657	I	Acetyl esterase/lipase	Aes			1EVQ
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_08675	COG0210	L	Superfamily I DNA or RNA helicase	UvrD			6PPR
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_08695	COG4667	I	Predicted phospholipase, patatin/cPLA2 family	YjjU			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_08700	COG4667	I	Predicted phospholipase, patatin/cPLA2 family	YjjU			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_08705	COG0308	E	Aminopeptidase N, contains DUF3458 domain	PepN		24123841	6ATK
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_08710	COG4098	L	Superfamily II DNA/RNA helicase required for DNA uptake (late competence protein)	ComFA			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_08725	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_08730	COG0110	R	Acetyltransferase, isoleucine patch superfamily	WbbJ			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_08755	COG0297	G	Glycogen synthase	GlgA			1RZU
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_08765	COG2813	J	16S rRNA G1207 methylase RsmC	RsmC	16S rRNA modification		1DUS
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_08770	COG1216	G	Glycosyltransferase, GT2 family	WcaE			2Z86
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_08780	COG0607	P	Rhodanese-related sulfurtransferase	PspE	Urea cycle		1TQ1
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_08785	COG0491	R	Glyoxylase or a related metal-dependent hydrolase, beta-lactamase superfamily II	GloB		25670698	1QH3
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_08790	COG0730	P	Sulfite exporter TauE/SafE/YfcA and related permeases, UPF0721 family	TauE		21183667;22797525	
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_08795	COG0664	T	cAMP-binding domain of CRP or a regulatory subunit of cAMP-dependent protein kinases	Crp			1FT9
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_08805	COG1138	CO	Cytochrome c biogenesis protein CcmF	CcmF			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_08810	COG2346	P	Truncated hemoglobin YjbI	YjbI			1DLW
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_08825	COG5495	R	Predicted oxidoreductase, contains short-chain dehydrogenase (SDR) and DUF2520 domains				
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_08830	COG0560	E	Phosphoserine phosphatase	SerB	Serine biosynthesis		3N28
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_08835	COG0382	H	4-hydroxybenzoate polyprenyltransferase	UbiA	Ubiquinone biosynthesis	28830929	4OD4
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_08845	COG0668	M	Small-conductance mechanosensitive channel	MscS			2OAU
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_08850	COG0598	P	Mg2+ and Co2+ transporter CorA	CorA			2BBH
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_08865	COG4146	R	Uncharacterized membrane permease YidK, sodium:solute symporter family	YidK			2XQ2
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_08885	COG0515	T	Serine/threonine protein kinase	SPS1			6G4J
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_08890	COG0780	J	NADPH-dependent 7-cyano-7-deazaguanine reductase QueF, C-terminal domain, T-fold superfamily	QueFC	tRNA modification	14660578;17384645	3BP1
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_08900	COG0623	I	Enoyl-[acyl-carrier-protein] reductase FabI	FabI	Fatty acid biosynthesis		1C14
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_08910	COG0415	L	Deoxyribodipyrimidine photolyase	PhrB			1TEZ
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_08920	COG0128	E	5-enolpyruvylshikimate-3-phosphate synthase	AroA	Aromatic amino acid biosynthesis		4N3P
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_08935	COG1936	F	Broad-specificity NMP kinase	Fap7			1RKB
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_08940	COG1205	L	ATP-dependent helicase YprA,  contains C-terminal metal-binding DUF1998 domain	YprA			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_08945	COG0299	F	Folate-dependent phosphoribosylglycinamide formyltransferase PurN	PurN	Purine biosynthesis	25013077	1C2T
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_08975	COG2382	P	Enterochelin esterase or related enzyme	Fes			2B20
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_09000	COG1401	V	5-methylcytosine-specific restriction endonuclease McrBC, GTP-binding regulatory subunit McrB	McrB			6HZ4
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_09060	COG0784	T	CheY-like REC (receiver) domain, includes chemotaxis protein CheY  and sporulation regulator Spo0F	CheY			6QRJ
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_09065	COG4585	T	Signal transduction histidine kinase ComP	ComP			4GT8
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_09090	COG0152	F	Phosphoribosylaminoimidazole-succinocarboxamide synthase	PurC	Purine biosynthesis		1A48
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_09100	COG1702	T	Phosphate starvation-inducible protein PhoH, predicted ATPase	PhoH		8444794;12762842	3B85
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_09115	COG1277	O	ABC-type transport system involved in multi-copper enzyme maturation, permease component	NosY			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_09120	COG0592	L	DNA polymerase III sliding clamp (beta) subunit, PCNA homolog	DnaN			1JQJ
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_09135	COG3947	TK	Two-component response regulator, SAPR family, consists of REC, wHTH and BTAD domains	SAPR			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_09140	COG4585	T	Signal transduction histidine kinase ComP	ComP			4GT8
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_09145	COG3296	R	Uncharacterized Tic20-related protein, DUF4870 domain	Tic20a		9817756;20100520	
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_09160	COG0841	V	Multidrug efflux pump subunit AcrB	AcrB			1IWG
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_09170	COG1038	C	Pyruvate carboxylase	PycA	Urea cycle		5VYW
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_09175	COG1538	M	Outer membrane protein TolC	TolC			1EK9
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_09185	COG0446	I	NADPH-dependent 2,4-dienoyl-CoA reductase, sulfur reductase, or a related oxidoreductase	FadH2			1VRQ
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_09190	COG1988	R	Membrane-bound metal-dependent hydrolase YbcI, DUF457 family	YbcI			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_09200	COG0526	O	Thiol-disulfide isomerase or thioredoxin	TrxA			1XFL
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_09210	COG2608	P	Copper chaperone CopZ	CopZ			1AFI
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_09225	COG0495	J	Leucyl-tRNA synthetase	LeuS	Aminoacyl-tRNA synthetases		6LPF
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_09245	COG1360	N	Flagellar motor protein MotB	MotB			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_09250	COG3187	O	Heat shock protein HslJ	HslJ			2KTS
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_09255	COG2183	K	Transcriptional accessory protein Tex/SPT6	Tex			2OCE
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_09260	COG0697	GER	Permease of the drug/metabolite transporter (DMT) superfamily	RhaT			5I20
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_09270	COG0421	E	Spermidine synthase (polyamine aminopropyltransferase)	SpeE			6BQ2
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_09275	COG3439	S	Uncharacterized conserved protein, DUF302 family				1J3M
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_09285	COG2344	K	NADH/NAD ratio-sensing transcriptional regulator Rex	Rex		23490197	3KEO
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_09295	COG0843	C	Heme/copper-type cytochrome/quinol oxidase, subunit 1	CyoB			1AR1
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_09300	COG5271	J	Midasin, AAA ATPase with  vWA domain, involved in ribosome maturation	MDN1			6HYP
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_09305	COG2425	S	Uncharacterized conserved protein, contains a von Willebrand factor type A (vWA) domain	ViaA			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_09310	COG3945	R	Hemerythrin domain				
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_09315	COG1845	C	Heme/copper-type cytochrome/quinol oxidase, subunit 3	CyoC			1QLE
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_09330	COG3256	P	Nitric oxide reductase large subunit	NorB			3WFC
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_09335	COG1959	K	DNA-binding transcriptional regulator, IscR family	IscR			1XD7
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_09340	COG0379	H	Quinolinate synthase	NadA	NAD biosynthesis	24498065	4HHE
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_09345	COG0029	H	Aspartate oxidase	NadB	NAD biosynthesis		1KNP
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_09350	COG0517	T	CBS domain	CBS			1B3O
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_09355	COG2234	OE	Zn-dependent amino- or carboxypeptidase, M28 family	Iap			1AMP
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_09375	COG1087	M	UDP-glucose 4-epimerase	GalE			1A9Y
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_09385	COG2072	P	Predicted flavoprotein CzcO associated with the cation diffusion facilitator CzcD	CzcO			4USQ
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_09400	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_09405	COG0304	IQ	3-oxoacyl-(acyl-carrier-protein) synthase	FabB	Fatty acid biosynthesis	21652641	2UV8
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_09410	COG0236	I	Acyl carrier protein	AcpP	Fatty acid biosynthesis		1ACP
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_09415	COG1560	I	Palmitoleoyl-ACP: Kdo2-lipid-IV acyltransferase (lipid A biosynthesis)	LpxP	Lipid A biosynthesis	11830595	5F2T
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_09425	COG3425	I	3-hydroxy-3-methylglutaryl CoA synthase	PksG	Isoprenoid biosynthesis		1TVZ
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_09430	COG4706	I	Predicted 3-hydroxylacyl-ACP dehydratase, HotDog domain				
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_09435	COG4706	I	Predicted 3-hydroxylacyl-ACP dehydratase, HotDog domain				
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_09450	COG4181	Q	Predicted ABC-type transport system involved in lysophospholipase L1 biosynthesis, ATPase component	YbbA			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_09455	COG0842	V	ABC-type multidrug transport system, permease component	YadH			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_09465	COG3321	Q	Acyl transferase domain in polyketide synthase (PKS) enzymes	PksD			6IYO
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_09480	COG0236	I	Acyl carrier protein	AcpP	Fatty acid biosynthesis		1ACP
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_09485	COG0332	I	3-oxoacyl-[acyl-carrier-protein] synthase III	FabH	Fatty acid biosynthesis		1UB7
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_09535	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_09540	COG1033	R	Predicted exporter protein, RND superfamily	MMPL			5KHN
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_09545	COG3380	R	Predicted NAD/FAD-dependent oxidoreductase				4ZCC
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_09550	COG4927	R	Predicted choloylglycine hydrolase				
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_09555	COG1020	Q	EntF, seryl-AMP synthase component  of non-ribosomal peptide synthetase	EntF			5ES5
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_09575	COG0811	U	Biopolymer transport protein ExbB/TolQ	TolQ			5SV0
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_09580	COG0848	U	Biopolymer transport protein ExbD	ExbD			2JWK
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_09590	COG0769	M	UDP-N-acetylmuramyl tripeptide synthase	MurE	Mureine biosynthesis		1E8C
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_09600	COG2207	K	AraC-type DNA-binding domain and AraC-containing proteins	AraC			1BL0
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_09605	COG0329	EM	4-hydroxy-tetrahydrodipicolinate synthase/N-acetylneuraminate lyase	DapA	Lysine biosynthesis	27574185	2R91
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_09610	COG1012	I	Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase	AdhE	Proline degradation		1A4S
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_09615	COG3938	E	Proline racemase/hydroxyproline epimerase	PrdF		17849014	1TM0
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_09625	COG0024	J	Methionine aminopeptidase	Map			3J2I
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_09635	COG0373	H	Glutamyl-tRNA reductase	HemA	Heme biosynthesis		2XOE
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_09645	COG0773	M	UDP-N-acetylmuramate-alanine ligase MurC and related ligases, MurC/Mpl family	MurC	Mureine biosynthesis		
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_09650	COG1262	O	Formylglycine-generating enzyme, required for sulfatase activity, contains SUMF1/FGE domain	YfmG			2AFT
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_09660	COG2067	I	Long-chain fatty acid transport protein	FadL			1T16
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_09670	COG0028	EH	Acetolactate synthase large subunit or other thiamine pyrophosphate-requiring enzyme	IlvB	Isoleucine, leucine, valine biosynthesis		1BFD
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_09675	COG0508	C	Pyruvate/2-oxoglutarate dehydrogenase complex, dihydrolipoamide acyltransferase (E2) component	AceF	Pyruvate oxidation		1B5S
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_09680	COG2234	OE	Zn-dependent amino- or carboxypeptidase, M28 family	Iap			1AMP
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_09685	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_09700	COG1834	E	N-Dimethylarginine dimethylaminohydrolase	DdaH			6LRH
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_09705	COG3290	T	Sensor histidine kinase DipB regulating citrate/malate metabolism	CitA			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_09720	COG0565	J	tRNA C32,U32 (ribose-2'-O)-methylase TrmJ or a related methyltransferase	TrmJ	tRNA modification		3ONP
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_09730	COG3137	M	Putative salt-induced outer membrane protein YdiY	YdiY			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_09735	COG1228	Q	Imidazolonepropionase or related amidohydrolase	HutI			3OOQ
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_09740	COG0159	E	Tryptophan synthase alpha chain	TrpA	Aromatic amino acid biosynthesis		6HUL
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_09745	COG1171	E	Threonine deaminase	IlvA	Isoleucine, leucine, valine biosynthesis		3IAU
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_09750	COG0135	E	Phosphoribosylanthranilate isomerase	TrpF	Aromatic amino acid biosynthesis		1DL3
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_09755	COG0134	E	Indole-3-glycerol phosphate synthase	TrpC	Aromatic amino acid biosynthesis		6BMA
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_09760	COG0547	E	Anthranilate phosphoribosyltransferase, glycosyltransferase domain	TrpD	Aromatic amino acid biosynthesis		1KGZ
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_09765	COG0518	F	GMP synthase, glutamine amidotransferase domain	GuaA1	Purine biosynthesis		4WIM
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_09770	COG0147	EH	Anthranilate/para-aminobenzoate synthases component I	TrpE	Aromatic amino acid biosynthesis		1I1Q
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_09780	COG0526	O	Thiol-disulfide isomerase or thioredoxin	TrxA			1XFL
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_09785	COG1225	O	Peroxiredoxin	Bcp			5IPH
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_09790	COG0607	P	Rhodanese-related sulfurtransferase	PspE	Urea cycle		1TQ1
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_09795	COG0607	P	Rhodanese-related sulfurtransferase	PspE	Urea cycle		1TQ1
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_09815	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_09825	COG1846	K	DNA-binding transcriptional regulator, MarR family	MarR			1JGS
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_09840	COG5649	S	Uncharacterized conserved protein, DUF1801 domain				
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_09855	COG5256	J	Translation elongation factor EF-1alpha (GTPase)	TEF1	Translation factors		1F60
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_09865	COG1807	M	PMT family glycosyltransferase ArnT/Agl22, involved in glycosylation of proteins and lipid IVA	ArnT		16226890;31233657;32706435	5EZM
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_09875	COG0436	E	Aspartate/methionine/tyrosine aminotransferase	AspB	Isoleucine, leucine, valine biosynthesis		2O0R
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_09880	COG0534	V	Na+-driven multidrug efflux pump, DinF/NorM/MATE family	NorM		29915058	3VVN
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_09885	COG0438	M	Glycosyltransferase involved in cell wall bisynthesis	RfaB			2IV7
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_09895	COG1898	M	dTDP-4-dehydrorhamnose 3,5-epimerase or related enzyme	RfbC			1DZR
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_09900	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_09905	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_09920	COG4148	P	ABC-type molybdate transport system, ATPase component ModC	ModC	Molybdopterin biosynthesis		
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_09930	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_09940	COG1729	D	Cell division protein CpoB, coordinates peptidoglycan biosynthesis and outer membrane constriction	CpoB		25951518	2WZ7
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_09960	COG1228	Q	Imidazolonepropionase or related amidohydrolase	HutI			3OOQ
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_09965	COG2227	H	2-polyprenyl-3-methyl-5-hydroxy-6-metoxy-1,4-benzoquinol methylase	UbiG	Ubiquinone biosynthesis		1BHJ
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_09970	COG0727	R	Uncharacterized protein YkgJ, contains CxxCxxCC motif	YkgJ			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_09975	COG4232	O	Thiol:disulfide interchange protein DsbD	DsbD			1JPE
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_10000	COG0577	V	ABC-type antimicrobial peptide transport system, permease component	SalY			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_10005	COG0498	E	Threonine synthase	ThrC	Threonine biosynthesis		1VB3
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_10020	COG1794	M	Amino acid racemase YgeA	RacX			5ELL
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_10040	COG2838	C	Monomeric isocitrate dehydrogenase	IcdM	TCA cycle		1ITW
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_10045	COG1357	S	Uncharacterized conserved protein YjbI, contains pentapeptide repeats	YjbI			2BM4
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_10055	COG0336	J	tRNA G37 N-methylase TrmD	TrmD	tRNA modification		1P9P
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_10065	COG0136	E	Aspartate-semialdehyde dehydrogenase	Asd	Lysine biosynthesis		1BRM
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_10070	COG0793	O	C-terminal processing protease CtpA/Prc, contains a PDZ domain	CtpA			6IQU
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_10075	COG0253	E	Diaminopimelate epimerase	DapF	Lysine biosynthesis		1BWZ
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_10080	COG1670	JO	Protein N-acetyltransferase, RimJ/RimL family	RimL			1S7F
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_10115	COG1484	L	DNA replication protein DnaC	DnaC			2QGZ
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_10125	COG1739	R	Putative translation regulator, IMPACT (imprinted ancient) protein family	YIH1		15126500	1VI7
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_10130	COG0697	GER	Permease of the drug/metabolite transporter (DMT) superfamily	RhaT			5I20
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_10135	COG1011	H	FMN and 5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YigB, HAD superfamily (riboflavin biosynthesis)	YigB		24123841	4JB3
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_10140	COG2131	F	Deoxycytidylate deaminase	ComEB		25746996;31954084	2HVV
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_10145	COG1670	JO	Protein N-acetyltransferase, RimJ/RimL family	RimL			1S7F
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_10150	COG4123	J	tRNA1(Val) A37 N6-methylase TrmN6	TrmN6	tRNA modification		
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_10155	COG0272	L	NAD-dependent DNA ligase	Lig			5TT5
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_10175	COG2843	M	Poly-gamma-glutamate biosynthesis protein CapA/YwtB (capsule formation), metallophosphatase superfamily	CapA			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_10180	COG0737	FV	2',3'-cyclic-nucleotide 2'-phosphodiesterase/5'- or 3'-nucleotidase, 5'-nucleotidase family	UshA			1HO5
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_10190	COG0329	EM	4-hydroxy-tetrahydrodipicolinate synthase/N-acetylneuraminate lyase	DapA	Lysine biosynthesis	27574185	2R91
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_10195	COG4105	M	Outer membrane protein assembly factor BamD, BamD/ComL family	BamD			2YHC
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_10205	COG1036	C	Archaeal flavoprotein	AfpA			3WIS
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_10215	COG0497	L	DNA repair ATPase RecN	RecN			4AD8
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_10225	COG1511	S	Uncharacterized membrane protein YhgE, phage infection protein (PIP) family	YhgE			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_10230	COG1020	Q	EntF, seryl-AMP synthase component  of non-ribosomal peptide synthetase	EntF			5ES5
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_10235	COG2259	S	Uncharacterized membrane protein YphA, DoxX/SURF4 family	DoxX			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_10245	COG2259	S	Uncharacterized membrane protein YphA, DoxX/SURF4 family	DoxX			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_10270	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_10285	COG1846	K	DNA-binding transcriptional regulator, MarR family	MarR			1JGS
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_10290	COG0616	O	Periplasmic serine protease, ClpP class	SppA			3BEZ
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_10295	COG2814	G	Predicted arabinose efflux permease AraJ, MFS family	AraJ			4LDS
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_10330	COG4935	O	Regulatory P domain of the subtilisin-like proprotein convertases and other proteases				1OT5
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_10335	COG4696	F	NTP pyrophosphatase, MazG superfamily	MazG2			3NL9
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_10360	COG0451	M	Nucleoside-diphosphate-sugar epimerase	WcaG			2X4G
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_10365	COG2353	R	Polyisoprenoid-binding periplasmic protein YceI	YceI		15741337;20236316	1WUB
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_10370	COG0576	O	Molecular chaperone GrpE (heat shock protein HSP-70)	GrpE			1DKG
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_10375	COG2214	K	Curved DNA-binding protein CbpA, contains a DnaJ-like domain	CbpA			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_10380	COG2884	D	Cell division ATPase FtsE	FtsE			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_10395	COG0745	TK	DNA-binding response regulator, OmpR family, contains REC and winged-helix (wHTH) domain	OmpR			1XHF
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_10405	COG2234	OE	Zn-dependent amino- or carboxypeptidase, M28 family	Iap			1AMP
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_10420	COG2425	S	Uncharacterized conserved protein, contains a von Willebrand factor type A (vWA) domain	ViaA			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_10425	COG3208	Q	Surfactin synthase thioesterase subunit	GrsT			6VAP
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_10440	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_10450	COG0251	V	Enamine deaminase RidA, house cleaning of reactive enamine intermediates, YjgF/YER057c/UK114 family	RidA	Pyrimidine degradation	22094463;32205462	1J7H
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_10455	COG0451	M	Nucleoside-diphosphate-sugar epimerase	WcaG			2X4G
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_10465	COG0784	T	CheY-like REC (receiver) domain, includes chemotaxis protein CheY  and sporulation regulator Spo0F	CheY			6QRJ
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_10470	COG4585	T	Signal transduction histidine kinase ComP	ComP			4GT8
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_10485	COG0019	E	Diaminopimelate decarboxylase	LysA	Lysine biosynthesis		1D7K
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_10490	COG0045	C	Succinyl-CoA synthetase, beta subunit	SucC	TCA cycle		1SCU
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_10500	COG0175	EH	3'-phosphoadenosine 5'-phosphosulfate sulfotransferase (PAPS reductase)/FAD synthetase or related enzyme	CysD	Cysteine biosynthesis		1ZUN
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_10505	COG4807	S	Uncharacterized conserved protein YehS, DUF1456 family	YehS			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_10515	COG0513	L	Superfamily II DNA and RNA helicase	SrmB			3RRM
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_10545	COG4172	Q	ABC-type microcin C transport system, duplicated ATPase component YejF	YejF		17873039	
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_10560	COG1612	H	Heme A synthase	CtaA			6A2J
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_10565	COG0617	J	tRNA nucleotidyltransferase/poly(A) polymerase	PcnB	tRNA modification		3WFR
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_10570	COG0009	J	tRNA A37 threonylcarbamoyladenosine synthetase subunit TsaC/SUA5/YrdC	TsaC	tRNA modification		1HRU
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_10575	COG0436	E	Aspartate/methionine/tyrosine aminotransferase	AspB	Isoleucine, leucine, valine biosynthesis		2O0R
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_10585	COG1219	O	ATP-dependent protease Clp, ATPase subunit ClpX	ClpX			3HTE
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_10600	COG1562	I	Phytoene/squalene synthetase	ERG9			3WEK
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_10605	COG1232	H	Protoporphyrinogen oxidase HemY/PPOX	HemY	Heme biosynthesis		3LOV
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_10610	COG2335	R	Uncaracterized surface protein containing fasciclin (FAS1) repeats	FAS1			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_10615	COG0789	K	DNA-binding transcriptional regulator, MerR family	SoxR			2VZ4
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_10630	COG0456	J	Ribosomal protein S18 acetylase RimI and related acetyltransferases	RimI			1GHE
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_10635	COG0828	J	Ribosomal protein S21	RpsU	Ribosome 30S subunit		4V4H
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_10640	COG0568	K	DNA-directed RNA polymerase, sigma subunit (sigma70/sigma32)	RpoD	RNA polymerase		1SIG
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_10650	COG0125	F	Thymidylate kinase	Tmk	Thymidylate biosynthesis		3LV8
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_10655	COG3449	L	DNA gyrase inhibitor GyrI/SbmC	SbmC			1JYH
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_10665	COG0566	J	tRNA G18 (ribose-2'-O)-methylase SpoU	SpoU	tRNA modification		1GZ0
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_10670	COG0249	L	DNA mismatch repair ATPase MutS	MutS			1E3M
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_10685	COG3016	R	Putative heme-binding protein PhuW	PhuW		16950397	2G5G
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_10695	COG4667	I	Predicted phospholipase, patatin/cPLA2 family	YjjU			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_10700	COG0767	M	Permease subunit MlaE of the ABC-type intermembrane phospholipid transporter Mla	MlaE			6IC4
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_10705	COG1134	G	ABC-type polysaccharide/polyol phosphate transport system, ATPase component	TagH			6JBH
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_10710	COG1463	M	Periplasmic subunit MlaD of the ABC-type intermembrane phospholipid transporter Mla	MlaD			5UW8
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_10725	COG0484	O	DnaJ-class molecular chaperone with C-terminal Zn finger domain	DnaJ			1BQ0
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_10735	COG3787	S	Uncharacterized conserved protein YhbP, UPF0306 family	YhbP			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_10740	COG1285	P	Magnesium uptake protein YhiD/SapB, involved in acid resistance	SapB		19798051	
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_10750	COG1409	T	3',5'-cyclic AMP phosphodiesterase CpdA	CpdA			2ZO9
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_10760	COG2202	T	PAS domain	PAS			2MWG
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_10765	COG3706	TK	Two-component response regulator, PleD family, consists of two REC domains and a diguanylate cyclase (GGDEF) domain	PleD			1W25
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_10770	COG0589	T	Nucleotide-binding universal stress protein,  UspA family	UspA			1JMV
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_10780	COG0589	T	Nucleotide-binding universal stress protein,  UspA family	UspA			1JMV
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_10785	COG0589	T	Nucleotide-binding universal stress protein,  UspA family	UspA			1JMV
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_10795	COG0595	J	mRNA degradation ribonuclease J1/J2	RnjA			3T3N
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_10805	COG0071	O	Small heat shock protein IbpA, HSP20 family	IbpA			1GME
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_10815	COG0589	T	Nucleotide-binding universal stress protein,  UspA family	UspA			1JMV
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_10830	COG0436	E	Aspartate/methionine/tyrosine aminotransferase	AspB	Isoleucine, leucine, valine biosynthesis		2O0R
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_10835	COG1089	M	GDP-D-mannose dehydratase	Gmd			1DB3
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_10845	COG0597	MU	Lipoprotein signal peptidase	LspA			5DIR
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_10850	COG0331	I	Malonyl CoA-acyl carrier protein transacylase	FabD	Fatty acid biosynthesis		1YXC
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_10855	COG1249	C	Dihydrolipoamide dehydrogenase (E3) component of pyruvate/2-oxoglutarate dehydrogenase complex or glutathione oxidoreductase	Lpd	Glycine cleavagePyruvate oxidation		6QKG
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_10875	COG0207	F	Thymidylate synthase	ThyA	Thymidylate biosynthesis		1AN5
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_10885	COG3880	O	Protein-arginine kinase activator protein McsA	McsA			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_10890	COG2025	C	Electron transfer flavoprotein, alpha subunit FixB	FixB			1EFP
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_10895	COG2025	C	Electron transfer flavoprotein, alpha subunit FixB	FixB			1EFP
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_10900	COG0022	C	Pyruvate/2-oxoglutarate/acetoin dehydrogenase complex, dehydrogenase (E1) component, beta subunit	AcoB	Pyruvate oxidation		2OZL
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_10925	COG0125	F	Thymidylate kinase	Tmk	Thymidylate biosynthesis		3LV8
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_10935	COG0624	E	Acetylornithine deacetylase/Succinyl-diaminopimelate desuccinylase or related deacylase	ArgE	Arginine biosynthesis		1CG2
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_10960	COG0405	E	Gamma-glutamyltranspeptidase	Ggt		16618936	2Z8I
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_10970	COG1109	G	Phosphomannomutase	ManB			6MNV
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_10980	COG0705	O	Membrane-associated serine protease, rhomboid family	GlpG			2IC8
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_10985	COG1225	O	Peroxiredoxin	Bcp			5IPH
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_10990	COG1159	J	GTPase Era, involved in 16S rRNA processing	Era			1EGA
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_10995	COG1309	K	DNA-binding protein, AcrR family, includes nucleoid occlusion protein SlmA	AcrR			2QOP
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_11000	COG2259	S	Uncharacterized membrane protein YphA, DoxX/SURF4 family	DoxX			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_11010	COG2353	R	Polyisoprenoid-binding periplasmic protein YceI	YceI		15741337;20236316	1WUB
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_11015	COG0451	M	Nucleoside-diphosphate-sugar epimerase	WcaG			2X4G
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_11020	COG0623	I	Enoyl-[acyl-carrier-protein] reductase FabI	FabI	Fatty acid biosynthesis		1C14
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_11025	COG0530	P	Ca2+/Na+ antiporter	ECM27			3V5S
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_11030	COG3059	V	Reactive chlorine resistance protein RclC/YkgB, DUF417 family	YkgB		24078635	
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_11045	COG4161	E	ABC-type arginine transport system, ATPase component	ArtP			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_11050	COG0373	H	Glutamyl-tRNA reductase	HemA	Heme biosynthesis		2XOE
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_11065	COG1862	U	Protein translocase subunit YajC	YajC			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_11070	COG5646	OP	Iron-binding protein Fra/YdhG, frataxin family (Fe-S cluster biosynthesis)	Fra			2OC6
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_11075	COG0624	E	Acetylornithine deacetylase/Succinyl-diaminopimelate desuccinylase or related deacylase	ArgE	Arginine biosynthesis		1CG2
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_11080	COG2070	R	NAD(P)H-dependent flavin oxidoreductase YrpB, nitropropane dioxygenase family	YrpB			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_11085	COG1279	E	Arginine exporter protein ArgO	ArgO			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_11090	COG0119	E	Isopropylmalate/homocitrate/citramalate synthases	LeuA	Isoleucine, leucine, valine biosynthesis		4JN6
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_11100	COG4659	C	Na+-translocating ferredoxin:NAD+ oxidoreductase RNF, RnfG subunit	RnfG	Na+-translocating Fd:NADH oxidoreductase		
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_11115	COG0517	T	CBS domain	CBS			1B3O
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_11120	COG3000	I	Sterol desaturase/sphingolipid hydroxylase, fatty acid hydroxylase superfamily	ERG3			4ZR0
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_11125	COG0846	O	NAD-dependent protein deacetylase, SIR2 family	SIR2			1M2N
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_11135	COG0219	J	tRNA(Leu) C34 or U34 (ribose-2'-O)-methylase TrmL, contains SPOUT domain	TrmL	tRNA modification		4JAK
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_11145	COG1201	L	Lhr-like helicase	Lhr			5V9X
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_11150	COG0127	F	Inosine/xanthosine triphosphate pyrophosphatase, all-alpha NTP-PPase family	RdgB			1B78
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_11165	COG0514	L	Superfamily II DNA helicase RecQ	RecQ			1OYW
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_11170	COG4122	J	tRNA 5-hydroxyU34 O-methylase TrmR/YrrM	TrmR	tRNA modification	29982645	1H1D
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_11180	COG1576	J	23S rRNA pseudoU1915 N3-methylase RlmH	RlmH	23S rRNA modification		1NS5
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_11185	COG0157	H	Nicotinate-nucleotide pyrophosphorylase	NadC	NAD biosynthesis		1O4U
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_11190	COG1295	S	Uncharacterized membrane protein, BrkB/YihY/UPF0761 family (not an RNase)	BrkB			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_11195	COG1198	L	Primosomal protein N' (replication factor Y) - superfamily II helicase	PriA			6DCR
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_11200	COG3947	TK	Two-component response regulator, SAPR family, consists of REC, wHTH and BTAD domains	SAPR			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_11225	COG1092	J	23S rRNA G2069 N7-methylase RlmK or C1962 C5-methylase RlmI	RlmK	23S rRNA modification		2B78
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_11240	COG1466	L	DNA polymerase III, delta subunit	HolA			3ZH9
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_11275	COG0406	G	Broad specificity phosphatase PhoE	PhoE			1EBB
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_11305	COG4206	H	Outer membrane cobalamin receptor protein BtuB	BtuB			1NQE
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_11310	COG4775	M	Outer membrane protein assembly factor BamA	BamA			5EKQ
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_11315	COG0048	J	Ribosomal protein S12	RpsL	Ribosome 30S subunit		4V4H
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_11320	COG0049	J	Ribosomal protein S7	RpsG	Ribosome 30S subunit		4V4H
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_11325	COG0480	J	Translation elongation factor EF-G, a GTPase	FusA	Translation factors		1DAR
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_11330	COG0051	J	Ribosomal protein S10	RpsJ	Ribosome 30S subunit		4V4H
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_11335	COG0087	J	Ribosomal protein L3	RplC	Ribosome 50S subunit		1VS6
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_11340	COG0088	J	Ribosomal protein L4	RplD	Ribosome 50S subunit		1VS6
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_11345	COG0089	J	Ribosomal protein L23	RplW	Ribosome 50S subunit		1VS6
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_11350	COG0090	J	Ribosomal protein L2	RplB	Ribosome 50S subunit		1VS6
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_11355	COG0185	J	Ribosomal protein S19	RpsS	Ribosome 30S subunit		4V4H
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_11365	COG0092	J	Ribosomal protein S3	RpsC	Ribosome 30S subunit		1VS6
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_11370	COG0197	J	Ribosomal protein L16/L10AE	RplP	Ribosome 50S subunit		1WKI
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_11375	COG0255	J	Ribosomal protein L29	RpmC	Ribosome 50S subunit		1VS6
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_11380	COG0186	J	Ribosomal protein S17	RpsQ	Ribosome 30S subunit		4V4H
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_11385	COG0093	J	Ribosomal protein L14	RplN	Ribosome 50S subunit		4V4H
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_11390	COG0198	J	Ribosomal protein L24	RplX	Ribosome 50S subunit		1VS6
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_11395	COG0094	J	Ribosomal protein L5	RplE	Ribosome 50S subunit		1VS6
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_11400	COG0199	J	Ribosomal protein S14	RpsN	Ribosome 30S subunit		4V4H
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_11405	COG0096	J	Ribosomal protein S8	RpsH	Ribosome 30S subunit		4V4H
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_11410	COG0097	J	Ribosomal protein L6P/L9E	RplF	Ribosome 50S subunit		1VS6
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_11420	COG0098	J	Ribosomal protein S5	RpsE	Ribosome 30S subunit		4V4H
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_11425	COG1841	J	Ribosomal protein L30/L7E	RpmD	Ribosome 50S subunit		1VS6
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_11430	COG0200	J	Ribosomal protein L15	RplO	Ribosome 50S subunit		1VS6
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_11435	COG0201	U	Preprotein translocase subunit SecY	SecY			1RH5
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_11450	COG0100	J	Ribosomal protein S11	RpsK	Ribosome 30S subunit		4V4H
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_11455	COG1189	J	Predicted rRNA methylase YqxC, contains S4 and FtsJ domains	YqxC			3OPN
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_11460	COG0202	K	DNA-directed RNA polymerase, alpha subunit/40 kD subunit	RpoA	RNA polymerase		4KN7
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_11465	COG0203	J	Ribosomal protein L17	RplQ	Ribosome 50S subunit		1GD8
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_11480	COG0518	F	GMP synthase, glutamine amidotransferase domain	GuaA1	Purine biosynthesis		4WIM
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_11485	COG0148	G	Enolase	Eno	Glycolysis		1E9I
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_11490	COG0372	C	Citrate synthase	GltA	TCA cycle	25211225	3TQG
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_11495	COG2235	E	Arginine deiminase	ArcA			2A9G
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_11500	COG2353	R	Polyisoprenoid-binding periplasmic protein YceI	YceI		15741337;20236316	1WUB
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_11505	COG1190	J	Lysyl-tRNA synthetase (class II)	LysU	Aminoacyl-tRNA synthetases		1BBU
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_11570	COG1039	L	Ribonuclease HIII	RnhC			2D0A
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_11585	COG2227	H	2-polyprenyl-3-methyl-5-hydroxy-6-metoxy-1,4-benzoquinol methylase	UbiG	Ubiquinone biosynthesis		1BHJ
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_11590	COG3592	S	Uncharacterized Fe-S cluster protein YjdI	YjdI			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_11595	COG1104	E	Cysteine desulfurase/Cysteine sulfinate desulfinase IscS or related enzyme, NifS family	NifS		22773787;25825430	4IXO
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_11600	COG1233	Q	Phytoene dehydrogenase-related protein				4REP
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_11610	COG1012	I	Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase	AdhE	Proline degradation		1A4S
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_11615	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_11620	COG1791	E	Acireductone dioxygenase (methionine salvage), cupin superfamily	Adi1			1VR3
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_11625	COG2159	G	5-carboxyvanillate decarboxylase LigW (lignin degradation), amidohydro domain	LigW		26714575	2DVT
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_11630	COG2518	O	Protein-L-isoaspartate O-methyltransferase	Pcm		24909784	3LBF
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_11640	COG1826	U	Twin-arginine protein secretion pathway components TatA and TatB	TatA			2L16
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_11645	COG0308	E	Aminopeptidase N, contains DUF3458 domain	PepN		24123841	6ATK
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_11665	COG4242	QR	Cyanophycinase and related exopeptidases	CphB			3EN0
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_11675	COG1670	JO	Protein N-acetyltransferase, RimJ/RimL family	RimL			1S7F
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_11680	COG0696	G	Phosphoglycerate mutase (BPG-independent), AlkP superfamily	GpmI	Glycolysis		1EJJ
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_11685	COG0241	E	Histidinol phosphatase/D-glycero-mannoheptose bisphosphatephosphatase, HAD superfamily	HisB1/GmhB	Histidine biosynthesis	20050615;20050614	2GMW
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_11690	COG2057	I	Acyl-CoA:acetate/3-ketoacid CoA transferase, beta subunit	AtoA			5DBN
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_11695	COG0024	J	Methionine aminopeptidase	Map			3J2I
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_11700	COG2226	H	Ubiquinone/menaquinone biosynthesis C-methylase UbiE/MenG	UbiE	Biotin biosynthesis		4OBW
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_11705	COG1477	HO	FAD:protein FMN transferase ApbE	ApbE		23558683;30154099	1VRM
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_11725	COG1595	K	DNA-directed RNA polymerase specialized sigma subunit, sigma24 family	RpoE	RNA polymerase		2Q1Z
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_11745	COG1018	C	Flavodoxin/ferredoxin--NADP reductase	Fpr			3OZU
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_11750	COG4660	C	Na+-translocating ferredoxin:NAD+ oxidoreductase  RNF, RnfE subunit	RnfE	Na+-translocating Fd:NADH oxidoreductase		
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_11755	COG4657	C	Na+-translocating ferredoxin:NAD+ oxidoreductase RNF, RnfA subunit	RnfA	Na+-translocating Fd:NADH oxidoreductase		
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_11760	COG4659	C	Na+-translocating ferredoxin:NAD+ oxidoreductase RNF, RnfG subunit	RnfG	Na+-translocating Fd:NADH oxidoreductase		
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_11765	COG1805	C	Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrB	NqrB	Na+-translocating NADH dehydrogenase		4P6V
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_11770	COG0509	E	Glycine cleavage system protein H (lipoate-binding)	GcvH	Glycine cleavage		1DXM
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_11785	COG3332	R	Uncharacterized stress-responsive protein, TANGO2 (Transport and Golgi organisation 2) family, contains NRDE motif	Tango2		26631869	
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_11790	COG1012	I	Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase	AdhE	Proline degradation		1A4S
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_11795	COG1075	I	Triacylglycerol esterase/lipase EstA, alpha/beta hydrolase fold	EstA			1I6W
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_11800	COG2813	J	16S rRNA G1207 methylase RsmC	RsmC	16S rRNA modification		1DUS
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_11805	COG3239	I	Fatty acid desaturase	DesA			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_11810	COG3977	E	Alanine-alpha-ketoisovalerate (or valine-pyruvate) aminotransferase	AvtA			3G7Q
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_11815	COG0168	P	Trk-type K+ transport system, membrane component	TrkG			3PJZ
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_11820	COG1226	P	Voltage-gated potassium channel Kch	Kch			3FWZ
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_11825	COG0500	QR	SAM-dependent methyltransferase	SmtA			5DNK
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_11835	COG0219	J	tRNA(Leu) C34 or U34 (ribose-2'-O)-methylase TrmL, contains SPOUT domain	TrmL	tRNA modification		4JAK
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_11840	COG0729	M	Outer membrane translocation and assembly module TamA	TamA			4BZA
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_11845	COG0191	G	Fructose/tagatose bisphosphate aldolase	Fba	Glycolysis		1B57
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_11850	COG4799	I	Acetyl-CoA carboxylase, carboxyltransferase component	MmdA			1OD2
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_11865	COG1185	J	Polyribonucleotide nucleotidyltransferase (polynucleotide phosphorylase)	Pnp			1E3P
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_11880	COG0568	K	DNA-directed RNA polymerase, sigma subunit (sigma70/sigma32)	RpoD	RNA polymerase		1SIG
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_11885	COG1600	J	Epoxyqueuosine reductase QueG (queuosine biosynthesis)	QueG	tRNA modification	2150253	5D08
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_11890	COG2256	L	Replication-associated recombination protein RarA (DNA-dependent ATPase)	RarA			3PVS
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_11895	COG0843	C	Heme/copper-type cytochrome/quinol oxidase, subunit 1	CyoB			1AR1
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_11900	COG1622	C	Heme/copper-type cytochrome/quinol oxidase, subunit 2	CyoA			1CYW
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_11910	COG2010	C	Cytochrome c, mono- and diheme variants	CccA			1A2S
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_11920	COG5557	C	Ni/Fe-hydrogenase 2 integral membrane subunit HybB	HybB			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_11925	COG1142	C	Fe-S-cluster-containing hydrogenase component 2	HycB			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_11930	COG4654	C	Cytochrome c551/c552	CytC552			2ZXY
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_11945	COG0480	J	Translation elongation factor EF-G, a GTPase	FusA	Translation factors		1DAR
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_11960	COG0589	T	Nucleotide-binding universal stress protein,  UspA family	UspA			1JMV
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_11965	COG4974	L	Site-specific recombinase XerD	XerD			1A0P
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_12005	COG0286	V	Type I restriction-modification system, DNA methylase subunit	HsdM		26872910	2AR0
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_12010	COG0732	V	Restriction endonuclease S subunit	HsdS			1YDX
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_12015	COG3663	L	G:T/U-mismatch repair DNA glycosylase	Mug			1MTL
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_12020	COG4928	R	Predicted P-loop ATPase, KAP-like				
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_12025	COG0610	V	Type I site-specific restriction-modification system, R (restriction) subunit and related helicases ...				2W00
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_12035	COG0438	M	Glycosyltransferase involved in cell wall bisynthesis	RfaB			2IV7
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_12040	COG1472	G	Periplasmic beta-glucosidase and related glycosidases	BglX			2X40
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_12050	COG0861	P	Tellurite resistance membrane protein TerC	TerC			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_12065	COG1178	P	ABC-type Fe3+ transport system, permease component	FbpB			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_12080	COG1163	J	Ribosome-interacting GTPase RBG1	Rbg1			4A9A
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_12090	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_12100	COG1021	Q	EntE, 2,3-dihydroxybenzoate-AMP synthase component of non-ribosomal peptide synthetase	EntE			3RG2
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_12105	COG1606	R	ATP-utilizing enzyme, PP-loop superfamily				6B2O
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_12110	COG0034	F	Glutamine phosphoribosylpyrophosphate amidotransferase	PurF	Purine biosynthesis		1ECB
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_12115	COG0236	I	Acyl carrier protein	AcpP	Fatty acid biosynthesis		1ACP
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_12130	COG2824	R	Uncharacterized Zn-ribbon-containing protein	PhnA			2AKK
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_12135	COG2315	K	Predicted DNA-binding protein with double-wing structural motif, MmcQ/YjbR family	MmcQ		17266124	2A1V
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_12145	COG1878	E	Kynurenine formamidase				1R61
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_12155	COG1243	J	tRNA U34 5-carboxymethylaminomethylation enzyme Elp3 (RNA elongator complex protein 3), contains radical SAM and acetyltransferase domains	ELP3		25151136;27455459	6IA8
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_12175	COG1215	N	Glycosyltransferase, catalytic subunit of cellulose synthase and poly-beta-1,6-N-acetylglucosamine synthase	BcsA			4HG6
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_12195	COG3063	NW	Type IV pilus assembly protein PilF/PilW	PilF		16403447	2VQ2
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_12200	COG4219	T	Signal transducer regulating beta-lactamase production, contains metallopeptidase domain	MecR1			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_12205	COG3682	K	Transcriptional regulator, CopY/TcrY family	CopY			1OKR
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_12210	COG2839	S	Uncharacterized conserved protein YqgC, DUF456 family	YqgC			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_12215	COG0784	T	CheY-like REC (receiver) domain, includes chemotaxis protein CheY  and sporulation regulator Spo0F	CheY			6QRJ
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_12220	COG3851	T	Signal transduction histidine kinase UhpB, glucose-6-phosphate specific	UhpB			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_12245	COG0784	T	CheY-like REC (receiver) domain, includes chemotaxis protein CheY  and sporulation regulator Spo0F	CheY			6QRJ
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_12250	COG2205	T	K+-sensing histidine kinase KdpD	KdpD			2KSF
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_12260	COG2202	T	PAS domain	PAS			2MWG
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_12265	COG0442	J	Prolyl-tRNA synthetase	ProS	Aminoacyl-tRNA synthetases		5XIF
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_12270	COG0290	J	Translation initiation factor IF-3	InfC	Translation factors		2IFE
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_12275	COG0291	J	Ribosomal protein L35	RpmI	Ribosome 50S subunit	28373563	1VS6
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_12280	COG0292	J	Ribosomal protein L20	RplT	Ribosome 50S subunit	30270044	1VS6
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_12295	COG0305	L	Replicative DNA helicase	DnaB			1B79
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_12300	COG4799	I	Acetyl-CoA carboxylase, carboxyltransferase component	MmdA			1OD2
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_12305	COG0697	GER	Permease of the drug/metabolite transporter (DMT) superfamily	RhaT			5I20
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_12315	COG0343	J	Queuine/archaeosine tRNA-ribosyltransferase	Tgt	tRNA modification	15805528	1XW8
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_12320	COG2609	C	Pyruvate dehydrogenase complex, dehydrogenase (E1) component	AceE	Pyruvate oxidation		1L8A
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_12325	COG2609	C	Pyruvate dehydrogenase complex, dehydrogenase (E1) component	AceE	Pyruvate oxidation		1L8A
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_12335	COG0545	O	FKBP-type peptidyl-prolyl cis-trans isomerase	FkpA			1A7X
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_12340	COG1188	J	Ribosomal 50S subunit-recycling heat shock protein, contains S4 domain	HslR			3BBU
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_12345	COG2065	F	Pyrimidine operon attenuation protein PyrR/uracil phosphoribosyltransferase	PyrR	Pyrimidine salvage		1A3C
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_12350	COG0703	E	Shikimate kinase	AroK	Aromatic amino acid biosynthesis		1E6C
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_12365	COG0526	O	Thiol-disulfide isomerase or thioredoxin	TrxA			1XFL
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_12370	COG1049	C	Aconitase B	AcnB	TCA cycle		1L5J
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_12375	COG2910	R	Putative NADH-flavin reductase	YwnB			3EW7
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_12390	COG0455	DN	MinD-like ATPase FlhG/YlxH, activator of the FlhF-type GTPase	FlhG			1G3Q
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_12400	COG2010	C	Cytochrome c, mono- and diheme variants	CccA			1A2S
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_12410	COG1999	O	Cytochrome oxidase Cu insertion factor, SCO1/SenC/PrrC family	Sco1			1ON4
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_12420	COG2846	O	Iron-sulfur cluster repair protein YtfE, RIC family, contains ScdAN and hemerythrin domains	RIC			5FNN
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_12430	COG3945	R	Hemerythrin domain				
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_12435	COG1959	K	DNA-binding transcriptional regulator, IscR family	IscR			1XD7
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_12445	COG0623	I	Enoyl-[acyl-carrier-protein] reductase FabI	FabI	Fatty acid biosynthesis		1C14
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_12450	COG1884	I	Methylmalonyl-CoA mutase, N-terminal domain/subunit	Sbm			6OXC
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_12470	COG1072	H	Panthothenate kinase	CoaA	Pantothenate/CoA biosynthesis		2GA8
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_12475	COG2133	G	Glucose/arabinose dehydrogenase, beta-propeller fold	YliI			1C9U
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_12485	COG4775	M	Outer membrane protein assembly factor BamA	BamA			5EKQ
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_12495	COG0545	O	FKBP-type peptidyl-prolyl cis-trans isomerase	FkpA			1A7X
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_12520	COG2930	I	Lipid-binding SYLF domain, Ysc84/FYVE family	SYLF		21624956	
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_12525	COG1269	C	Archaeal/vacuolar-type H+-ATPase subunit I/STV1	NtpI	A/V-type ATP synthase		2JTW
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_12530	COG1285	P	Magnesium uptake protein YhiD/SapB, involved in acid resistance	SapB		19798051	
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_12535	COG3237	S	Uncharacterized conserved protein YjbJ, UPF0337 family	yjbJ			1RYK
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_12550	COG0778	C	Nitroreductase	NfnB	Pyrimidine degradation		1F5V
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_12560	COG1055	P	Na+/H+ antiporter NhaD or related arsenite permease	ArsB			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_12570	COG2207	K	AraC-type DNA-binding domain and AraC-containing proteins	AraC			1BL0
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_12575	COG0784	T	CheY-like REC (receiver) domain, includes chemotaxis protein CheY  and sporulation regulator Spo0F	CheY			6QRJ
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_12580	COG2205	T	K+-sensing histidine kinase KdpD	KdpD			2KSF
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_12585	COG4977	K	Transcriptional regulator GlxA, contains an amidase domain and an AraC-type DNA-binding HTH domain	GlxA			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_12590	COG3871	S	General stress protein 26 (function unknown)	YzzA			2I02
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_12600	COG1012	I	Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase	AdhE	Proline degradation		1A4S
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_12645	COG1249	C	Dihydrolipoamide dehydrogenase (E3) component of pyruvate/2-oxoglutarate dehydrogenase complex or glutathione oxidoreductase	Lpd	Glycine cleavagePyruvate oxidation		6QKG
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_12650	COG2353	R	Polyisoprenoid-binding periplasmic protein YceI	YceI		15741337;20236316	1WUB
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_12670	COG1983	KT	Phage shock protein PspC (stress-responsive transcriptional regulator)	PspC			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_12675	COG1695	K	DNA-binding transcriptional regulator, PadR family	PadR		19096365	1XMA
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_12680	COG3296	R	Uncharacterized Tic20-related protein, DUF4870 domain	Tic20a		9817756;20100520	
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_12685	COG1506	E	Dipeptidyl aminopeptidase/acylaminoacyl peptidase	DAP2			2JBW
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_12695	COG2013	C	AIM24 protein, required for mitochondrial respiration	AIM24		24928273;24714493	1YOX
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_12705	COG1846	K	DNA-binding transcriptional regulator, MarR family	MarR			1JGS
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_12710	COG0783	PV	DNA-binding ferritin-like protein (oxidative damage protectant)	Dps			1DPS
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_12715	COG4704	S	Uncharacterized conserved protein, DUF2141 family				
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_12720	COG2860	S	Uncharacterized membrane protein YeiH	YadS			5WUC
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_12725	COG0652	O	Peptidyl-prolyl cis-trans isomerase (rotamase) - cyclophilin family	PpiB			4DGD
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_12730	COG0494	V	8-oxo-dGTP pyrophosphatase MutT and related house-cleaning NTP pyrophosphohydrolases, NUDIX family	MutT			4V14
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_12735	COG0204	I	1-acyl-sn-glycerol-3-phosphate acyltransferase	PlsC	Phospholipid biosynthesis		1IUQ
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_12750	COG1249	C	Dihydrolipoamide dehydrogenase (E3) component of pyruvate/2-oxoglutarate dehydrogenase complex or glutathione oxidoreductase	Lpd	Glycine cleavagePyruvate oxidation		6QKG
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_12760	COG4206	H	Outer membrane cobalamin receptor protein BtuB	BtuB			1NQE
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_12775	COG2972	T	Sensor histidine kinase YesM	YesM			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_12785	COG3947	TK	Two-component response regulator, SAPR family, consists of REC, wHTH and BTAD domains	SAPR			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_12800	COG2032	P	Cu/Zn superoxide dismutase	SodC			1ESO
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_12805	COG1032	R	Radical SAM superfamily enzyme YgiQ, UPF0313 family	YgiQ			6FD2
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_12810	COG0589	T	Nucleotide-binding universal stress protein,  UspA family	UspA			1JMV
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_12815	COG2010	C	Cytochrome c, mono- and diheme variants	CccA			1A2S
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_12820	COG2335	R	Uncaracterized surface protein containing fasciclin (FAS1) repeats	FAS1			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_12825	COG1622	C	Heme/copper-type cytochrome/quinol oxidase, subunit 2	CyoA			1CYW
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_12835	COG4314	P	Nitrous oxide reductase accessory protein NosL	NosL			2HPU
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_12845	COG4988	CO	ABC-type transport system involved in cytochrome bd biosynthesis, ATPase and permease components	CydD			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_12855	COG0589	T	Nucleotide-binding universal stress protein,  UspA family	UspA			1JMV
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_12880	COG1360	N	Flagellar motor protein MotB	MotB			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_12885	COG2340	DR	Spore germination protein YkwD and related proteins with CAP (CSP/antigen 5/PR1) domain	YkwD		31199835	1CFE
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_12890	COG3871	S	General stress protein 26 (function unknown)	YzzA			2I02
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_12900	COG0595	J	mRNA degradation ribonuclease J1/J2	RnjA			3T3N
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_12910	COG0540	F	Aspartate carbamoyltransferase, catalytic subunit	PyrB	Pyrimidine biosynthesis		1NBE
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_12915	COG0634	F	Hypoxanthine-guanine phosphoribosyltransferase	HptA	Purine salvage		1G9S
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_12920	COG1395	K	Predicted transcriptional regulator				
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_12925	COG2183	K	Transcriptional accessory protein Tex/SPT6	Tex			2OCE
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_12930	COG1102	F	Cytidylate kinase	CmkB			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_12940	COG0464	MDT	AAA+-type ATPase, SpoVK/Ycf46/Vps4 family	SpoVK			3SYL
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_12970	COG2211	G	Na+/melibiose symporter or related transporter	MelB			4M64
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_12985	COG1252	C	NADH dehydrogenase, FAD-containing subunit	Ndh			5NA4
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_13010	COG0582	LX	Integrase/recombinase, includes phage integrase	FimB			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_13015	COG3290	T	Sensor histidine kinase DipB regulating citrate/malate metabolism	CitA			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_13020	COG2206	T	HD-GYP domain, c-di-GMP phosphodiesterase class II (or its inactivated variant)	HDGYP		23475961	5Z7C
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_13035	COG0739	M	Murein DD-endopeptidase MepM and murein hydrolase activator NlpD, contains LysM domain	NlpD			2GU1
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_13055	COG0075	EF	Archaeal aspartate aminotransferase or a related aminotransferase, includes purine catabolism protein PucG	PucG	Serine biosynthesis		3NNK
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_13110	COG4992	E	Acetylornithine/succinyldiaminopimelate/putrescine aminotransferase	ArgD	Arginine biosynthesis		2E54
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_13115	COG1092	J	23S rRNA G2069 N7-methylase RlmK or C1962 C5-methylase RlmI	RlmK	23S rRNA modification		2B78
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_13140	COG1846	K	DNA-binding transcriptional regulator, MarR family	MarR			1JGS
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_13145	COG1041	J	tRNA G10 N-methylase Trm11	Trm11	tRNA modification		5E71
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_13150	COG2227	H	2-polyprenyl-3-methyl-5-hydroxy-6-metoxy-1,4-benzoquinol methylase	UbiG	Ubiquinone biosynthesis		1BHJ
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_13170	COG1272	U	Predicted membrane channel-forming protein YqfA, hemolysin III family	YqfA			3WXV
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_13180	COG2234	OE	Zn-dependent amino- or carboxypeptidase, M28 family	Iap			1AMP
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_13185	COG1443	I	Isopentenyldiphosphate isomerase	Idi	Isoprenoid biosynthesis		1NFS
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_13195	COG1038	C	Pyruvate carboxylase	PycA	Urea cycle		5VYW
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_13200	COG0458	EF	Carbamoylphosphate synthase large subunit	CarB	Arginine biosynthesis		1C30
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_13205	COG0777	I	Acetyl-CoA carboxylase beta subunit	AccD	Fatty acid biosynthesis		2F9I
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_13230	COG0334	E	Glutamate dehydrogenase/leucine dehydrogenase	GdhA	Glutamine biosynthesis	24391520	1B3B
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_13240	COG0784	T	CheY-like REC (receiver) domain, includes chemotaxis protein CheY  and sporulation regulator Spo0F	CheY			6QRJ
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_13245	COG3852	T	Signal transduction histidine kinase NtrB, nitrogen specific	NtrB		23893111	
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_13250	COG1064	G	D-arabinose 1-dehydrogenase, Zn-dependent alcohol dehydrogenase family	AdhP			5O8Q
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_13255	COG1205	L	ATP-dependent helicase YprA,  contains C-terminal metal-binding DUF1998 domain	YprA			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_13260	COG4136	R	ABC-type uncharacterized transport system YnjBCD, ATPase component	YnjD			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_13275	COG0582	LX	Integrase/recombinase, includes phage integrase	FimB			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_13300	COG0086	K	DNA-directed RNA polymerase, beta' subunit/160 kD subunit	RpoC	RNA polymerase		1NT9
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_13315	COG0244	J	Ribosomal protein L10	RplJ	Ribosome 50S subunit		5IT8
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_13320	COG0081	J	Ribosomal protein L1	RplA	Ribosome 50S subunit		3J65
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_13325	COG0080	J	Ribosomal protein L11	RplK	Ribosome 50S subunit		2E34
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_13335	COG0690	U	Preprotein translocase subunit SecE	SecE		29684280	5MG3
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_13345	COG0532	J	Translation initiation factor IF-2, a GTPase	InfB	Translation factors		5ME0
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_13355	COG2761	O	Predicted dithiol-disulfide isomerase, DsbA/YjbH family (virulence, stress resistance)	FrnE			6GHB
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_13365	COG2353	R	Polyisoprenoid-binding periplasmic protein YceI	YceI		15741337;20236316	1WUB
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_13370	COG2207	K	AraC-type DNA-binding domain and AraC-containing proteins	AraC			1BL0
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_13390	COG3696	P	Cu/Ag efflux pump CusA	CusA			3K07
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_13400	COG1538	M	Outer membrane protein TolC	TolC			1EK9
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_13405	COG2217	P	Cation-transporting P-type ATPase	ZntA			4BBJ
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_13410	COG3544	S	Uncharacterized conserved protein, DUF305 family				5FEJ
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_13415	COG1566	V	Multidrug resistance efflux pump EmrA	EmrA			4TKO
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_13420	COG2608	P	Copper chaperone CopZ	CopZ			1AFI
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_13425	COG4339	R	Predicted metal-dependent phosphohydrolase, HD superfamily				
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_13435	COG4775	M	Outer membrane protein assembly factor BamA	BamA			5EKQ
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_13440	COG0024	J	Methionine aminopeptidase	Map			3J2I
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_13450	COG4129	S	Uncharacterized membrane protein YgaE, UPF0421/DUF939 family	YgaE			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_13455	COG3633	E	Na+/serine and Na+/threonine symporter SstT	SstT			
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_13480	COG1239	H	Mg-chelatase subunit ChlI	ChlI			1G8P
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_13485	COG0760	O	Peptidyl-prolyl isomerase, parvulin family	SurA			2ZR5
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_13495	COG0760	O	Peptidyl-prolyl isomerase, parvulin family	SurA			2ZR5
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_13510	COG3845	F	ABC-type guanosine uptake system NupNOPQ, ATPase component NupO	NupO		21926227	
+Xanthomarina_sp_SAT104	GCA_002714865.1	AIFEII_13530	COG2866	M	Murein tripeptide amidase MpaA	MpaA			1ARL

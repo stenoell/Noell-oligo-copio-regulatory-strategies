@@ -1,0 +1,806 @@
+#prefix	assemid	query	COG	category	name	Gene	pathway	pmid	pdb_id
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_00005	COG2838	C	Monomeric isocitrate dehydrogenase	IcdM	TCA cycle		1ITW
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_00010	COG1012	I	Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase	AdhE	Proline degradation		1A4S
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_00015	COG1608	I	Isopentenyl phosphate kinase			16621811	3LKK
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_00020	COG3978	E	Acetolactate synthase small subunit, contains ACT domain	IlvM			
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_00025	COG0028	EH	Acetolactate synthase large subunit or other thiamine pyrophosphate-requiring enzyme	IlvB	Isoleucine, leucine, valine biosynthesis		1BFD
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_00030	COG0498	E	Threonine synthase	ThrC	Threonine biosynthesis		1VB3
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_00035	COG2154	H	Pterin-4a-carbinolamine dehydratase	PhhB			1DCH
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_00045	COG1012	I	Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase	AdhE	Proline degradation		1A4S
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_00050	COG0534	V	Na+-driven multidrug efflux pump, DinF/NorM/MATE family	NorM		29915058	3VVN
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_00055	COG0446	I	NADPH-dependent 2,4-dienoyl-CoA reductase, sulfur reductase, or a related oxidoreductase	FadH2			1VRQ
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_00060	COG0069	E	Glutamate synthase domain 2	GltB2	Glutamine biosynthesis		1EA0
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_00065	COG1055	P	Na+/H+ antiporter NhaD or related arsenite permease	ArsB			
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_00070	COG0147	EH	Anthranilate/para-aminobenzoate synthases component I	TrpE	Aromatic amino acid biosynthesis		1I1Q
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_00075	COG0518	F	GMP synthase, glutamine amidotransferase domain	GuaA1	Purine biosynthesis		4WIM
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_00080	COG0547	E	Anthranilate phosphoribosyltransferase, glycosyltransferase domain	TrpD	Aromatic amino acid biosynthesis		1KGZ
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_00090	COG0135	E	Phosphoribosylanthranilate isomerase	TrpF	Aromatic amino acid biosynthesis		1DL3
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_00095	COG1171	E	Threonine deaminase	IlvA	Isoleucine, leucine, valine biosynthesis		3IAU
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_00105	COG0346	Q	Catechol 2,3-dioxygenase or related enzyme, vicinal oxygen chelate (VOC) family	GloA		11830595	3R4Q
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_00110	COG1064	G	D-arabinose 1-dehydrogenase, Zn-dependent alcohol dehydrogenase family	AdhP			5O8Q
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_00115	COG0346	Q	Catechol 2,3-dioxygenase or related enzyme, vicinal oxygen chelate (VOC) family	GloA		11830595	3R4Q
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_00125	COG4230	E	Delta 1-pyrroline-5-carboxylate dehydrogenase	PutA2			5KF6
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_00130	COG0596	HR	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold	MenH	Menaquinone biosynthesis		4MYS
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_00140	COG0346	Q	Catechol 2,3-dioxygenase or related enzyme, vicinal oxygen chelate (VOC) family	GloA		11830595	3R4Q
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_00150	COG2814	G	Predicted arabinose efflux permease AraJ, MFS family	AraJ			4LDS
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_00155	COG0591	E	Na+/proline symporter	PutP			5NVA
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_00160	COG1335	HR	Nicotinamidase-related amidase	PncA	Pyrimidine degradation		1ILW
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_00175	COG0275	J	16S rRNA C1402 N4-methylase RsmH	RmsH	16S rRNA modification		1M6Y
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_00180	COG0206	D	Cell division GTPase FtsZ	FtsZ			1FSZ
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_00185	COG3116	D	Cell division protein FtsL, interacts with FtsB and FtsQ	FtsL			
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_00190	COG5009	M	Membrane carboxypeptidase/penicillin-binding protein	MrcA			3D0F
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_00195	COG0285	H	Folylpolyglutamate synthase/Dihydropteroate synthase	FolC	Folate biosynthesis		1W78
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_00200	COG0044	F	Dihydroorotase or related cyclic amidohydrolase	AllB	Pyrimidine biosynthesis		1J79
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_00220	COG1104	E	Cysteine desulfurase/Cysteine sulfinate desulfinase IscS or related enzyme, NifS family	NifS		22773787;25825430	4IXO
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_00235	COG1012	I	Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase	AdhE	Proline degradation		1A4S
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_00240	COG1914	P	Mn2+ or Fe2+ transporter, NRAMP family	MntH			5KTE
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_00245	COG0028	EH	Acetolactate synthase large subunit or other thiamine pyrophosphate-requiring enzyme	IlvB	Isoleucine, leucine, valine biosynthesis		1BFD
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_00250	COG0579	G	L-2-hydroxyglutarate oxidase LhgO	LhgO			3DME
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_00255	COG0044	F	Dihydroorotase or related cyclic amidohydrolase	AllB	Pyrimidine biosynthesis		1J79
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_00265	COG4146	R	Uncharacterized membrane permease YidK, sodium:solute symporter family	YidK			2XQ2
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_00275	COG0665	E	Glycine/D-amino acid oxidase (deaminating)	DadA			3AWI
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_00285	COG0848	U	Biopolymer transport protein ExbD	ExbD			2JWK
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_00295	COG1291	N	Flagellar motor component MotA	MotA			
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_00310	COG2085	R	Predicted dinucleotide-binding enzyme				2VNS
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_00315	COG0793	O	C-terminal processing protease CtpA/Prc, contains a PDZ domain	CtpA			6IQU
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_00320	COG3151	S	Uncharacterized conserved protein YqiB, DUF1249 family	yqiB			
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_00330	COG3848	T	Phosphohistidine swiveling domain of PEP-utilizing enzymes	PykA2			2E28
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_00345	COG0218	D	GTP-binding protein EngB required for normal cell division	EngB			5UCV
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_00350	COG1085	G	Galactose-1-phosphate uridylyltransferase	GalT			1GUP
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_00355	COG0353	L	Recombinational DNA repair protein RecR	RecR		26337406	2JGR
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_00365	COG0558	I	Phosphatidylglycerophosphate synthase	PgsA	Phospholipid biosynthesis		4MND
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_00375	COG0611	H	Thiamine monophosphate kinase	ThiL	Thiamine biosynthesis		5CC8
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_00380	COG0788	F	Formyltetrahydrofolate hydrolase	PurU	Purine biosynthesis		3O1L
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_00385	COG0299	F	Folate-dependent phosphoribosylglycinamide formyltransferase PurN	PurN	Purine biosynthesis	25013077	1C2T
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_00390	COG0717	F	dCTP deaminase	Dcd	Thymidylate biosynthesis		1XS1
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_00395	COG1149	R	MinD superfamily P-loop ATPase, contains an inserted ferredoxin domain				
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_00425	COG3917	Q	2-hydroxychromene-2-carboxylate isomerase	NahD			
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_00430	COG1525	L	Endonuclease YncB, thermonuclease family	YncB			
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_00435	COG3191	E	L-aminopeptidase/D-esterase	DmpA			1B65
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_00445	COG0456	J	Ribosomal protein S18 acetylase RimI and related acetyltransferases	RimI			1GHE
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_00450	COG4108	J	Peptide chain release factor RF-3	PrfC	Translation factors		3UOQ
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_00460	COG4323	S	Uncharacterized conserved protein, DUF962 domain				
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_00465	COG0042	J	tRNA-dihydrouridine synthase	DusA	tRNA modification		1VHN
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_00480	COG1199	L	Rad3-related DNA helicase DinG	DinG			5H8W
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_00485	COG0533	J	tRNA A37 threonylcarbamoyltransferase TsaD	TsaD	tRNA modification	23072323;21285948;32385138	3ENO
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_00490	COG1473	R	Metal-dependent amidase/aminoacylase/carboxypeptidase	AbgB	Lysine biosynthesis	17307853	3RAM
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_00495	COG1495	O	Disulfide bond formation protein DsbB	DsbB			2LTQ
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_00510	COG0695	O	Glutaredoxin	GrxC			1AAZ
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_00515	COG0399	M	dTDP-4-amino-4,6-dideoxygalactose transaminase	WecE		15271350	4PIW
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_00525	COG1105	G	1-phosphofructokinase or 6-phosphofructokinase II	FruK			2ABQ
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_00530	COG4975	G	Glucose uptake protein GlcU	GlcU			
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_00540	COG3686	S	Uncharacterized conserved protein, MAPEG superfamily				
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_00550	COG3023	M	N-acetyl-anhydromuramyl-L-alanine amidase AmpD	AmpD			2Y28
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_00560	COG0498	E	Threonine synthase	ThrC	Threonine biosynthesis		1VB3
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_00565	COG1021	Q	EntE, 2,3-dihydroxybenzoate-AMP synthase component of non-ribosomal peptide synthetase	EntE			3RG2
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_00585	COG2186	K	DNA-binding transcriptional regulator, FadR family	FadR			1E2X
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_00595	COG0145	EQ	N-methylhydantoinase A/oxoprolinase/acetone carboxylase, beta subunit	HyuA			
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_00600	COG1804	I	Crotonobetainyl-CoA:carnitine CoA-transferase CaiB and related acyl-CoA transferases	CaiB			1P5H
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_00605	COG1010	H	Precorrin-3B methylase	CobJ	Cobalamine/B12 biosynthesis		2ZVB
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_00610	COG0683	E	ABC-type branched-chain amino acid transport system, periplasmic component	LivK			1USG
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_00630	COG1290	C	Cytochrome b subunit of the bc complex	QcrB/PetB			1VF5
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_00640	COG0128	E	5-enolpyruvylshikimate-3-phosphate synthase	AroA	Aromatic amino acid biosynthesis		4N3P
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_00645	COG0271	KT	DNA-binding global transcriptional regulator BolA, affects cell shape, cell division and biofilm formation	BolA		19111750;2569159	2DHM
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_00650	COG0530	P	Ca2+/Na+ antiporter	ECM27			3V5S
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_00655	COG0517	T	CBS domain	CBS			1B3O
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_00660	COG0560	E	Phosphoserine phosphatase	SerB	Serine biosynthesis		3N28
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_00680	COG1228	Q	Imidazolonepropionase or related amidohydrolase	HutI			3OOQ
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_00690	COG2195	E	Di- or tripeptidase	PepD2			2QYV
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_00695	COG1167	KE	DNA-binding transcriptional regulator, MocR family, contains an aminotransferase domain	ARO8	Lysine biosynthesis		2R2N
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_00700	COG3258	P	Thiosulfate dehydrogenase TsdA, contains C-terminal cytochrome c domain	TsdA		32457501	
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_00705	COG0001	H	Glutamate-1-semialdehyde aminotransferase	HemL	Heme biosynthesis		2CFB
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_00710	COG1280	E	Threonine/homoserine/homoserine lactone efflux protein	RhtB			
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_00715	COG1179	J	tRNA A37 threonylcarbamoyladenosine dehydratase	TcdA	tRNA modification	27913733	4D7A
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_00720	COG0697	GER	Permease of the drug/metabolite transporter (DMT) superfamily	RhaT			5I20
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_00725	COG1167	KE	DNA-binding transcriptional regulator, MocR family, contains an aminotransferase domain	ARO8	Lysine biosynthesis		2R2N
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_00730	COG0031	E	Cysteine synthase	CysK	Cysteine biosynthesis		1FCJ
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_00740	COG0499	H	S-adenosylhomocysteine hydrolase	SAM1			1A7A
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_00745	COG0204	I	1-acyl-sn-glycerol-3-phosphate acyltransferase	PlsC	Phospholipid biosynthesis		1IUQ
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_00755	COG1127	M	ATPase subunit MlaF of the ABC-type intermembrane phospholipid transporter Mla	MlaF			6IC4
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_00760	COG0534	V	Na+-driven multidrug efflux pump, DinF/NorM/MATE family	NorM		29915058	3VVN
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_00770	COG0426	C	Flavorubredoxin	NorV			4JHC
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_00780	COG1088	M	dTDP-D-glucose 4,6-dehydratase	RfbB			1G1A
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_00785	COG0859	M	ADP-heptose:LPS heptosyltransferase	RfaF			1PSW
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_00790	COG0859	M	ADP-heptose:LPS heptosyltransferase	RfaF			1PSW
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_00795	COG3642	J	tRNA A-37 threonylcarbamoyl transferase component Bud32	Bud32	tRNA modification		2VWB
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_00800	COG1560	I	Palmitoleoyl-ACP: Kdo2-lipid-IV acyltransferase (lipid A biosynthesis)	LpxP	Lipid A biosynthesis	11830595	5F2T
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_00805	COG0326	O	Molecular chaperone, HSP90 family	HtpG		30150682	1Y4S
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_00810	COG0229	O	Peptide methionine sulfoxide reductase MsrB	MsrB			1L1D
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_00835	COG0019	E	Diaminopimelate decarboxylase	LysA	Lysine biosynthesis		1D7K
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_00850	COG0189	EHJQ	Glutathione synthase, LysX or RimK-type ligase, ATP-grasp superfamily	LysX	Lysine biosynthesis		1GLV
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_00855	COG1385	J	16S rRNA U1498 N3-methylase RsmE	RsmE	16S rRNA modification		1NXZ
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_00860	COG5632	M	N-acetylmuramoyl-L-alanine amidase CwlA	CwlA			
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_00865	COG4607	P	ABC-type enterochelin transport system, periplasmic component	CeuA			3ZKW
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_00870	COG2096	H	Cob(II)alamin adenosyltransferase	PduO	Cobalamine/B12 biosynthesis		1NOG
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_00875	COG4774	P	Outer membrane receptor for monomeric catechols	Fiu			
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_00885	COG0483	G	Archaeal fructose-1,6-bisphosphatase or related enzyme, inositol monophosphatase family	SuhB	Gluconeogenesis		1AWB
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_00890	COG2884	D	Cell division ATPase FtsE	FtsE			
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_00895	COG3871	S	General stress protein 26 (function unknown)	YzzA			2I02
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_00900	COG1062	C	Zn-dependent alcohol/formaldehyde dehydrogenase	FrmA			1A71
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_00905	COG1605	E	Chorismate mutase	PheA	Aromatic amino acid biosynthesis		1ECM
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_00910	COG4606	P	ABC-type enterochelin transport system, permease component	CeuB			
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_00925	COG0513	L	Superfamily II DNA and RNA helicase	SrmB			3RRM
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_00935	COG0123	Q	Acetoin utilization deacetylase AcuC or a related deacetylase	AcuC			1C3P
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_00945	COG0161	H	Adenosylmethionine-8-amino-7-oxononanoate aminotransferase	BioA	Biotin biosynthesis		1MLY
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_00950	COG1541	H	Phenylacetate-coenzyme A ligase PaaK, adenylate-forming domain family	PaaK			2Y4O
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_00960	COG2855	S	Uncharacterized membrane protein YadS, UPF0324 family	YeiH			
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_00965	COG0154	J	Asp-tRNAAsn/Glu-tRNAGln amidotransferase A subunit or related amidase	GatA	Aminoacyl-tRNA synthetases		3H0L
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_00970	COG0014	E	Gamma-glutamyl phosphate reductase	ProA	Proline biosynthesis		4GHK
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_00975	COG0494	V	8-oxo-dGTP pyrophosphatase MutT and related house-cleaning NTP pyrophosphohydrolases, NUDIX family	MutT			4V14
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_00980	COG0114	C	Fumarate hydratase class II	FumC	TCA cycle		1KQ7
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_00985	COG0015	F	Adenylosuccinate lyase	PurB	Purine biosynthesis		2HVG
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_00990	COG0482	J	tRNA U34 2-thiouridine synthase MnmA/TrmU, contains the PP-loop ATPase domain	MnmA	tRNA modification	25825430	2HMA
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_00995	COG1099	R	Predicted metal-dependent hydrolase, TIM-barrel fold				3GUW
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_01000	COG0498	E	Threonine synthase	ThrC	Threonine biosynthesis		1VB3
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_01005	COG1685	E	Archaeal shikimate kinase	AroK2	Aromatic amino acid biosynthesis		
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_01010	COG0528	F	Uridylate kinase	PyrH	Pyrimidine biosynthesis		2BND
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_01020	COG4105	M	Outer membrane protein assembly factor BamD, BamD/ComL family	BamD			2YHC
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_01025	COG1360	N	Flagellar motor protein MotB	MotB			
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_01030	COG2319	R	WD40 repeat	WD40			3UVN
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_01035	COG3064	M	Membrane protein TolA involved in colicin uptake	TolA			1S62
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_01045	COG1291	N	Flagellar motor component MotA	MotA			
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_01050	COG2256	L	Replication-associated recombination protein RarA (DNA-dependent ATPase)	RarA			3PVS
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_01055	COG0632	L	Holliday junction resolvasome RuvABC DNA-binding subunit	RuvA			1BDX
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_01060	COG0817	L	Holliday junction resolvasome RuvABC endonuclease subunit RuvC	RuvC			1HJR
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_01065	COG0217	KJ	Transcriptional and/or translational regulatory protein YebC/TACO1	TACO1			1KON
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_01075	COG2239	P	Mg/Co/Ni transporter MgtE (contains CBS domain)	MgtE			2YVX
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_01080	COG4586	R	ABC-type uncharacterized transport system, ATPase component				
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_01085	COG1934	M	Lipopolysaccharide export system protein LptA	LptA			2R19
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_01090	COG3117	M	Lipopolysaccharide export system protein LptC	YrbK			3MY2
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_01095	COG0560	E	Phosphoserine phosphatase	SerB	Serine biosynthesis		3N28
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_01100	COG0517	T	CBS domain	CBS			1B3O
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_01105	COG0387	P	Cation (Ca2+/Na+/K+)/H+ antiporter ChaA	ChaA		18801996	4KJS
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_01115	COG1452	M	LPS assembly outer membrane protein LptD (organic solvent tolerance protein OstA)	LptD			4N4R
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_01135	COG0346	Q	Catechol 2,3-dioxygenase or related enzyme, vicinal oxygen chelate (VOC) family	GloA		11830595	3R4Q
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_01155	COG0568	K	DNA-directed RNA polymerase, sigma subunit (sigma70/sigma32)	RpoD	RNA polymerase		1SIG
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_01160	COG0358	L	DNA primase (bacterial type)	DnaG		28128549	3B39
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_01170	COG0828	J	Ribosomal protein S21	RpsU	Ribosome 30S subunit		4V4H
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_01175	COG0533	J	tRNA A37 threonylcarbamoyltransferase TsaD	TsaD	tRNA modification	23072323;21285948;32385138	3ENO
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_01190	COG0300	R	Short-chain dehydrogenase	YqjQ			
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_01205	COG0112	E	Glycine/serine hydroxymethyltransferase	GlyA	Serine biosynthesis		1BJ4
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_01210	COG0466	O	ATP-dependent Lon protease, bacterial type	Lon			6ON2
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_01215	COG0123	Q	Acetoin utilization deacetylase AcuC or a related deacetylase	AcuC			1C3P
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_01220	COG1123	O	ABC-type glutathione transport system ATPase component, contains duplicated ATPase domain	GsiA			
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_01225	COG1168	ER	Bifunctional PLP-dependent enzyme with beta-cystathionase and maltose regulon repressor activities	MalY			4DGT
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_01230	COG0046	F	Phosphoribosylformylglycinamidine (FGAM) synthase, synthetase domain	PurL1	Purine biosynthesis		3VIU
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_01240	COG1020	Q	EntF, seryl-AMP synthase component  of non-ribosomal peptide synthetase	EntF			5ES5
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_01245	COG1635	GH	Thiazole synthase/Archaeal ribulose 1,5-bisphosphate synthetase	THI4		15375115	3FPZ
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_01250	COG0156	H	7-keto-8-aminopelargonate synthetase or related enzyme	BioF	Biotin biosynthesis		1BS0
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_01260	COG4638	PR	Phenylpropionate dioxygenase or related ring-hydroxylating dioxygenase, large terminal subunit	HcaE			4QDC
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_01265	COG0657	I	Acetyl esterase/lipase	Aes			1EVQ
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_01270	COG1070	G	Sugar (pentulose or hexulose) kinase	XylB	Non-phosphorylated Entner-Doudoroff pathway		4C23
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_01295	COG1249	C	Dihydrolipoamide dehydrogenase (E3) component of pyruvate/2-oxoglutarate dehydrogenase complex or glutathione oxidoreductase	Lpd	Glycine cleavagePyruvate oxidation		6QKG
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_01300	COG2081	R	Predicted flavoprotein YhiN	YhiN			3V76
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_01305	COG3191	E	L-aminopeptidase/D-esterase	DmpA			1B65
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_01320	COG1526	C	Formate dehydrogenase assembly factor FdhD, a sulfurtransferase	FdhD			2PW9
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_01330	COG4656	C	Na+-translocating ferredoxin:NAD+ oxidoreductase  RNF, RnfC subunit	RnfC	Na+-translocating Fd:NADH oxidoreductase		
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_01335	COG1145	C	Ferredoxin	NapF			6FAH
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_01340	COG2930	I	Lipid-binding SYLF domain, Ysc84/FYVE family	SYLF		21624956	
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_01345	COG4254	R	Uncharacterized peptidoglycan binding protein, contains LysM and FecR  domains				
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_01355	COG1292	M	Choline-glycine betaine transporter	BetT			2WIT
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_01365	COG0691	O	tmRNA-binding protein	SmpB		26251518	1J1H
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_01370	COG0733	R	Na+-dependent transporter, SNF family	YocR			2A65
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_01380	COG2913	M	Outer membrane protein assembly factor BamE, lipoprotein component of the BamABCDE complex	BamE			2KM7
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_01390	COG0497	L	DNA repair ATPase RecN	RecN			4AD8
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_01395	COG3199	F	NAD kinase				
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_01400	COG1420	K	Transcriptional regulator of heat shock response	HrcA			1STZ
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_01405	COG0576	O	Molecular chaperone GrpE (heat shock protein HSP-70)	GrpE			1DKG
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_01410	COG0443	O	Molecular chaperone DnaK (HSP70)	DnaK			3I33
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_01415	COG0484	O	DnaJ-class molecular chaperone with C-terminal Zn finger domain	DnaJ			1BQ0
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_01420	COG0512	EH	Anthranilate/para-aminobenzoate synthase component II (glutamine amidotransferase)	PabA	Aromatic amino acid biosynthesis		1I1Q
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_01425	COG0439	I	Biotin carboxylase	AccC	Fatty acid biosynthesis		1BNC
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_01440	COG1189	J	Predicted rRNA methylase YqxC, contains S4 and FtsJ domains	YqxC			3OPN
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_01445	COG1222	O	ATP-dependent 26S proteasome regulatory subunit	RPT1			5EQT
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_01455	COG1043	M	Acyl-[acyl carrier protein]--UDP-N-acetylglucosamine O-acyltransferase	LpxA	Lipid A biosynthesis		1J2Z
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_01465	COG1044	M	UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase	LpxD	Lipid A biosynthesis		6P83
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_01475	COG1039	L	Ribonuclease HIII	RnhC			2D0A
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_01485	COG4799	I	Acetyl-CoA carboxylase, carboxyltransferase component	MmdA			1OD2
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_01490	COG0175	EH	3'-phosphoadenosine 5'-phosphosulfate sulfotransferase (PAPS reductase)/FAD synthetase or related enzyme	CysD	Cysteine biosynthesis		1ZUN
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_01505	COG0494	V	8-oxo-dGTP pyrophosphatase MutT and related house-cleaning NTP pyrophosphohydrolases, NUDIX family	MutT			4V14
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_01510	COG3318	S	Uncharacterized conserved protein YecA, UPF0149 family, contains C-terminal Zn-binding SEC-C motif	YecA			
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_01515	COG5512	R	Predicted  nucleic acid-binding protein, contains Zn-ribbon domain (includes truncated derivatives)				
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_01530	COG1262	O	Formylglycine-generating enzyme, required for sulfatase activity, contains SUMF1/FGE domain	YfmG			2AFT
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_01540	COG3686	S	Uncharacterized conserved protein, MAPEG superfamily				
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_01545	COG4774	P	Outer membrane receptor for monomeric catechols	Fiu			
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_01555	COG0702	R	Uncharacterized conserved protein YbjT, contains NAD(P)-binding and DUF2867 domains	YbjT			5L3Z
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_01560	COG4337	S	Uncharacterized conserved protein				
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_01575	COG0384	R	Predicted epimerase YddE/YHI9, PhzF superfamily	YHI9		24914732	1SDJ
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_01580	COG0726	GM	Peptidoglycan/xylan/chitin deacetylase, PgdA/NodB/CDA1 family	CDA1			1NY1
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_01590	COG1335	HR	Nicotinamidase-related amidase	PncA	Pyrimidine degradation		1ILW
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_01600	COG1028	I	NAD(P)-dependent dehydrogenase, short-chain alcohol dehydrogenase family	FabG	Fatty acid biosynthesis		6L1H
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_01605	COG0203	J	Ribosomal protein L17	RplQ	Ribosome 50S subunit		1GD8
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_01610	COG0202	K	DNA-directed RNA polymerase, alpha subunit/40 kD subunit	RpoA	RNA polymerase		4KN7
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_01615	COG1189	J	Predicted rRNA methylase YqxC, contains S4 and FtsJ domains	YqxC			3OPN
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_01620	COG0100	J	Ribosomal protein S11	RpsK	Ribosome 30S subunit		4V4H
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_01630	COG0257	J	Ribosomal protein L36	RpmJ	Ribosome 50S subunit	21627333	1DFE
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_01635	COG0201	U	Preprotein translocase subunit SecY	SecY			1RH5
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_01645	COG1841	J	Ribosomal protein L30/L7E	RpmD	Ribosome 50S subunit		1VS6
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_01650	COG0098	J	Ribosomal protein S5	RpsE	Ribosome 30S subunit		4V4H
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_01660	COG0097	J	Ribosomal protein L6P/L9E	RplF	Ribosome 50S subunit		1VS6
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_01665	COG0096	J	Ribosomal protein S8	RpsH	Ribosome 30S subunit		4V4H
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_01670	COG0199	J	Ribosomal protein S14	RpsN	Ribosome 30S subunit		4V4H
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_01675	COG0094	J	Ribosomal protein L5	RplE	Ribosome 50S subunit		1VS6
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_01680	COG0198	J	Ribosomal protein L24	RplX	Ribosome 50S subunit		1VS6
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_01685	COG0093	J	Ribosomal protein L14	RplN	Ribosome 50S subunit		4V4H
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_01690	COG0186	J	Ribosomal protein S17	RpsQ	Ribosome 30S subunit		4V4H
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_01695	COG0255	J	Ribosomal protein L29	RpmC	Ribosome 50S subunit		1VS6
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_01700	COG0197	J	Ribosomal protein L16/L10AE	RplP	Ribosome 50S subunit		1WKI
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_01705	COG0092	J	Ribosomal protein S3	RpsC	Ribosome 30S subunit		1VS6
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_01715	COG0185	J	Ribosomal protein S19	RpsS	Ribosome 30S subunit		4V4H
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_01720	COG0010	E	Arginase/agmatinase family enzyme	SpeB	Urea cycle		1CEV
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_01725	COG0579	G	L-2-hydroxyglutarate oxidase LhgO	LhgO			3DME
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_01730	COG1232	H	Protoporphyrinogen oxidase HemY/PPOX	HemY	Heme biosynthesis		3LOV
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_01735	COG3450	R	Predicted enzyme of the cupin superfamily				1LKN
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_01740	COG0161	H	Adenosylmethionine-8-amino-7-oxononanoate aminotransferase	BioA	Biotin biosynthesis		1MLY
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_01745	COG1012	I	Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase	AdhE	Proline degradation		1A4S
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_01750	COG0442	J	Prolyl-tRNA synthetase	ProS	Aminoacyl-tRNA synthetases		5XIF
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_01760	COG0008	J	Glutamyl- or glutaminyl-tRNA synthetase	GlnS	Heme biosynthesis		1EUQ
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_01780	COG0119	E	Isopropylmalate/homocitrate/citramalate synthases	LeuA	Isoleucine, leucine, valine biosynthesis		4JN6
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_01790	COG1049	C	Aconitase B	AcnB	TCA cycle		1L5J
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_01795	COG0066	E	3-isopropylmalate dehydratase small subunit	LeuD	Isoleucine, leucine, valine biosynthesis		3Q3W
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_01800	COG0473	CE	Isocitrate/isopropylmalate dehydrogenase	LeuB	TCA cycle		1GC9
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_01805	COG1167	KE	DNA-binding transcriptional regulator, MocR family, contains an aminotransferase domain	ARO8	Lysine biosynthesis		2R2N
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_01820	COG1232	H	Protoporphyrinogen oxidase HemY/PPOX	HemY	Heme biosynthesis		3LOV
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_01825	COG4539	I	2-hydroxy fatty acid dioxygenase MPO1 (alpha-oxidation of fatty acids)	MPO1		30530523	
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_01830	COG0415	L	Deoxyribodipyrimidine photolyase	PhrB			1TEZ
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_01835	COG0702	R	Uncharacterized conserved protein YbjT, contains NAD(P)-binding and DUF2867 domains	YbjT			5L3Z
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_01840	COG1028	I	NAD(P)-dependent dehydrogenase, short-chain alcohol dehydrogenase family	FabG	Fatty acid biosynthesis		6L1H
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_01860	COG1168	ER	Bifunctional PLP-dependent enzyme with beta-cystathionase and maltose regulon repressor activities	MalY			4DGT
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_01865	COG2872	J	Ser-tRNA(Ala) deacylase AlaX (editing enzyme)	AlaX			2E1B
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_01870	COG0253	E	Diaminopimelate epimerase	DapF	Lysine biosynthesis		1BWZ
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_01890	COG0513	L	Superfamily II DNA and RNA helicase	SrmB			3RRM
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_01900	COG1232	H	Protoporphyrinogen oxidase HemY/PPOX	HemY	Heme biosynthesis		3LOV
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_01905	COG3040	M	Bacterial lipocalin Blc	Blc			1QWD
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_01970	COG1404	O	Serine protease, subtilisin family	AprE			1SCJ
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_01985	COG0001	H	Glutamate-1-semialdehyde aminotransferase	HemL	Heme biosynthesis		2CFB
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_01990	COG0769	M	UDP-N-acetylmuramyl tripeptide synthase	MurE	Mureine biosynthesis		1E8C
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_02000	COG0349	J	Ribonuclease D	Rnd		18821773	5C0Y
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_02005	COG1102	F	Cytidylate kinase	CmkB			
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_02015	COG3808	C	Na+ or H+-translocating membrane pyrophosphatase	OVP1		11342551	4A01
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_02020	COG0607	P	Rhodanese-related sulfurtransferase	PspE	Urea cycle		1TQ1
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_02025	COG1538	M	Outer membrane protein TolC	TolC			1EK9
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_02030	COG1519	M	3-deoxy-D-manno-octulosonic-acid transferase	KdtA	Lipid A biosynthesis		2XCI
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_02035	COG0615	M	Glycerol-3-phosphate cytidylyltransferase, cytidylyltransferase family	TagD	Riboflavin/FAD biosynthesis		2B7L
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_02045	COG5470	S	Uncharacterized conserved protein, DUF1330 family				
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_02055	COG0209	F	Ribonucleotide reductase alpha subunit	NrdA	Pyrimidine salvage		1R1R
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_02060	COG0793	O	C-terminal processing protease CtpA/Prc, contains a PDZ domain	CtpA			6IQU
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_02065	COG0617	J	tRNA nucleotidyltransferase/poly(A) polymerase	PcnB	tRNA modification		3WFR
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_02080	COG1593	G	TRAP-type C4-dicarboxylate transport system, large permease component	DctQ			
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_02085	COG0042	J	tRNA-dihydrouridine synthase	DusA	tRNA modification		1VHN
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_02090	COG1917	R	Cupin domain protein related to quercetin dioxygenase	QdoI			2H0V
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_02105	COG0337	E	3-dehydroquinate synthetase	AroB	Aromatic amino acid biosynthesis		3ZOK
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_02110	COG0703	E	Shikimate kinase	AroK	Aromatic amino acid biosynthesis		1E6C
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_02115	COG0768	DM	Cell division protein FtsI, peptidoglycan transpeptidase (Penicillin-binding protein 2)	FtsI			6HZQ
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_02125	COG0372	C	Citrate synthase	GltA	TCA cycle	25211225	3TQG
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_02130	COG0254	J	Ribosomal protein L31	RpmE	Ribosome 50S subunit		1VS6
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_02135	COG1032	R	Radical SAM superfamily enzyme YgiQ, UPF0313 family	YgiQ			6FD2
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_02140	COG0127	F	Inosine/xanthosine triphosphate pyrophosphatase, all-alpha NTP-PPase family	RdgB			1B78
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_02145	COG2123	U	Exosome complex RNA-binding protein Rrp42, RNase PH superfamily	Rrp42		23319881	4IFD
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_02150	COG0125	F	Thymidylate kinase	Tmk	Thymidylate biosynthesis		3LV8
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_02155	COG1758	K	DNA-directed RNA polymerase, subunit K/omega	RpoZ	RNA polymerase		3LU0
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_02160	COG0317	TK	(p)ppGpp synthase/hydrolase, HD superfamily	SpoT			1TDJ
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_02170	COG1200	L	RecG-like helicase	RecG			1GM5
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_02175	COG0109	HI	Polyprenyltransferase (heme O synthase)	CyoE			
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_02180	COG2226	H	Ubiquinone/menaquinone biosynthesis C-methylase UbiE/MenG	UbiE	Biotin biosynthesis		4OBW
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_02185	COG3346	O	Cytochrome oxidase assembly protein ShyY1	Shy1			
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_02190	COG0382	H	4-hydroxybenzoate polyprenyltransferase	UbiA	Ubiquinone biosynthesis	28830929	4OD4
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_02195	COG0210	L	Superfamily I DNA or RNA helicase	UvrD			6PPR
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_02200	COG1748	E	Saccharopine dehydrogenase, NADP-dependent	Lys9	Lysine biosynthesis		1E5L
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_02205	COG0760	O	Peptidyl-prolyl isomerase, parvulin family	SurA			2ZR5
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_02210	COG3633	E	Na+/serine and Na+/threonine symporter SstT	SstT			
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_02215	COG4221	C	NADP-dependent 3-hydroxy acid dehydrogenase YdfG	YdfG	Pyrimidine degradation		3P19
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_02220	COG1388	M	LysM repeat	LysM			1E0G
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_02225	COG0328	L	Ribonuclease HI	RnhA			1LAW
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_02230	COG0349	J	Ribonuclease D	Rnd		18821773	5C0Y
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_02240	COG1198	L	Primosomal protein N' (replication factor Y) - superfamily II helicase	PriA			6DCR
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_02245	COG0018	J	Arginyl-tRNA synthetase	ArgS	Aminoacyl-tRNA synthetases		1BS2
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_02255	COG0784	T	CheY-like REC (receiver) domain, includes chemotaxis protein CheY  and sporulation regulator Spo0F	CheY			6QRJ
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_02260	COG4191	T	Signal transduction histidine kinase regulating C4-dicarboxylate transport system				4GCZ
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_02265	COG1960	I	Acyl-CoA dehydrogenase related to the alkylation response protein AidB	CaiA	Fatty acid biosynthesis		1BUC
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_02285	COG2605	R	Predicted kinase related to galactokinase and mevalonate kinase				4USK
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_02290	COG3890	I	Phosphomevalonate kinase	ERG8	Isoprenoid biosynthesis		
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_02300	COG4796	U	Type II secretory pathway, component HofQ	HofQ			4AV2
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_02305	COG3031	U	Type II secretory pathway, component PulC	PulC			2LNV
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_02310	COG2127	O	ATP-dependent Clp protease adapter protein ClpS	ClpS			1LZW
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_02315	COG0542	O	ATP-dependent Clp protease, ATP-binding subunit ClpA	ClpA			1KSF
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_02325	COG1249	C	Dihydrolipoamide dehydrogenase (E3) component of pyruvate/2-oxoglutarate dehydrogenase complex or glutathione oxidoreductase	Lpd	Glycine cleavagePyruvate oxidation		6QKG
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_02340	COG2987	E	Urocanate hydratase	HutU			1UWK
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_02345	COG1725	K	DNA-binding transcriptional regulator YhcF, GntR family	YhcF			4R1H
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_02350	COG0402	FR	Cytosine/adenosine deaminase or related metal-dependent hydrolase	SsnA	Pyrimidine salvage		3O7U
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_02355	COG0402	FR	Cytosine/adenosine deaminase or related metal-dependent hydrolase	SsnA	Pyrimidine salvage		3O7U
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_02360	COG2814	G	Predicted arabinose efflux permease AraJ, MFS family	AraJ			4LDS
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_02365	COG0778	C	Nitroreductase	NfnB	Pyrimidine degradation		1F5V
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_02380	COG4221	C	NADP-dependent 3-hydroxy acid dehydrogenase YdfG	YdfG	Pyrimidine degradation		3P19
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_02390	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_02395	COG2236	H	Hypoxanthine phosphoribosyltransferase	Hpt1	Purine salvage		2JKZ
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_02400	COG0524	G	Sugar or nucleoside kinase, ribokinase family	RbsK	Glycolysis		2QCV
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_02405	COG1570	L	Exonuclease VII, large subunit	XseA			
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_02410	COG4947	R	Esterase/lipase superfamily enzyme				
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_02415	COG3450	R	Predicted enzyme of the cupin superfamily				1LKN
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_02420	COG1159	J	GTPase Era, involved in 16S rRNA processing	Era			1EGA
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_02435	COG0124	J	Histidyl-tRNA synthetase	HisS	Aminoacyl-tRNA synthetases		1KMM
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_02440	COG1426	D	Cytoskeletal protein RodZ, contains Xre-like HTH and DUF4115 domains	RodZ			3FYM
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_02445	COG1020	Q	EntF, seryl-AMP synthase component  of non-ribosomal peptide synthetase	EntF			5ES5
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_02450	COG1946	I	Acyl-CoA thioesterase	TesB			1C8U
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_02455	COG0406	G	Broad specificity phosphatase PhoE	PhoE			1EBB
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_02460	COG1484	L	DNA replication protein DnaC	DnaC			2QGZ
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_02465	COG1233	Q	Phytoene dehydrogenase-related protein				4REP
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_02470	COG0300	R	Short-chain dehydrogenase	YqjQ			
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_02475	COG1560	I	Palmitoleoyl-ACP: Kdo2-lipid-IV acyltransferase (lipid A biosynthesis)	LpxP	Lipid A biosynthesis	11830595	5F2T
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_02480	COG0582	LX	Integrase/recombinase, includes phage integrase	FimB			
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_02485	COG1651	O	Protein thiol-disulfide isomerase DsbC	DsbG			2HI7
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_02495	COG0067	E	Glutamate synthase domain 1	GltB1	Glutamine biosynthesis		1EA0
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_02500	COG1055	P	Na+/H+ antiporter NhaD or related arsenite permease	ArsB			
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_02505	COG0285	H	Folylpolyglutamate synthase/Dihydropteroate synthase	FolC	Folate biosynthesis		1W78
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_02510	COG0770	M	UDP-N-acetylmuramyl pentapeptide synthase	MurF	Mureine biosynthesis		4CVK
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_02520	COG1089	M	GDP-D-mannose dehydratase	Gmd			1DB3
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_02535	COG0681	U	Signal peptidase I	LepB		1925027	1B12
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_02540	COG4108	J	Peptide chain release factor RF-3	PrfC	Translation factors		3UOQ
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_02555	COG0247	C	Fe-S cluster-containing oxidoreductase, includes glycolate oxidase subunit GlcF	GlpC			
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_02560	COG1053	C	Succinate dehydrogenase/fumarate reductase, flavoprotein subunit	SdhA	TCA cycle		1KF6
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_02570	COG2009	C	Succinate dehydrogenase/fumarate reductase, cytochrome b subunit	SdhC		18511537	2WU2
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_02580	COG0404	E	Glycine cleavage system protein T (aminomethyltransferase)	GcvT	Glycine cleavage	25433025;25505271	2GAH
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_02585	COG1190	J	Lysyl-tRNA synthetase (class II)	LysU	Aminoacyl-tRNA synthetases		1BBU
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_02590	COG1186	J	Protein chain release factor PrfB	PrfB	Translation factors		1GQE
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_02595	COG0608	L	ssDNA-specific exonuclease RecJ, DHH superfamily, may be involved in archaeal DNA replication intiation	RecJ			1IR6
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_02600	COG0115	EH	Branched-chain amino acid aminotransferase/4-amino-4-deoxychorismate lyase	IlvE	Isoleucine, leucine, valine biosynthesis		1A3G
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_02605	COG0705	O	Membrane-associated serine protease, rhomboid family	GlpG			2IC8
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_02610	COG2258	FV	N-hydroxylaminopurine reductase YiiM, contains MOSC domain	YiiM		18312271;29459651	1O65
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_02620	COG1146	F	NAD-dependent dihydropyrimidine dehydrogenase, PreA subunit	PreA			
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_02625	COG0491	R	Glyoxylase or a related metal-dependent hydrolase, beta-lactamase superfamily II	GloB		25670698	1QH3
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_02635	COG0697	GER	Permease of the drug/metabolite transporter (DMT) superfamily	RhaT			5I20
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_02640	COG1197	LK	Transcription-repair coupling factor (superfamily II helicase)	Mfd			2EYQ
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_02650	COG1472	G	Periplasmic beta-glucosidase and related glycosidases	BglX			2X40
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_02655	COG2520	J	tRNA G37 N-methylase Trm5	Trm5	tRNA modification		2YX1
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_02660	COG0417	L	DNA polymerase B elongation subunit	PolB			6P1H
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_02665	COG2227	H	2-polyprenyl-3-methyl-5-hydroxy-6-metoxy-1,4-benzoquinol methylase	UbiG	Ubiquinone biosynthesis		1BHJ
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_02670	COG1506	E	Dipeptidyl aminopeptidase/acylaminoacyl peptidase	DAP2			2JBW
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_02675	COG0833	E	Amino acid permease	LysP			
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_02690	COG0793	O	C-terminal processing protease CtpA/Prc, contains a PDZ domain	CtpA			6IQU
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_02695	COG2503	R	Predicted secreted acid phosphatase				3OCY
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_02710	COG0306	P	Phosphate/sulfate permease	PitA		31358606	
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_02720	COG5000	T	Signal transduction histidine kinase NtrY involved in nitrogen fixation and metabolism regulation	NtrY			
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_02725	COG3437	T	Response regulator c-di-GMP phosphodiesterase, RpfG family, contains REC and HD-GYP domains	RpfG			
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_02740	COG4598	E	ABC-type histidine transport system, ATPase component	HisP			1B0U
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_02745	COG1663	M	Tetraacyldisaccharide-1-P 4'-kinase (Lipid A 4'-kinase)	LpxK	Lipid A biosynthesis		4EHW
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_02750	COG1083	M	CMP-N-acetylneuraminic acid synthetase, NeuA/PseF family	NeuA			1EYR
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_02755	COG1530	J	Ribonuclease G or E	CafA			1SLJ
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_02760	COG1187	J	Pseudouridylate synthase RsuA, specific for 16S rRNA U516  and 23S rRNA U2605	RsuA	16S rRNA modification		1KSK
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_02770	COG0188	L	DNA gyrase/topoisomerase IV, subunit A	GyrA			1SUU
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_02775	COG0187	L	DNA gyrase/topoisomerase IV, subunit B	GyrB			1EI1
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_02780	COG1722	L	Exonuclease VII small subunit	XseB			1VP7
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_02785	COG2144	R	Selenophosphate synthetase-related protein				
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_02795	COG0054	H	6,7-dimethyl-8-ribityllumazine synthase (Riboflavin synthase beta chain)	RibE	Riboflavin/FAD biosynthesis		1C2Y
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_02800	COG0108	H	3,4-dihydroxy-2-butanone 4-phosphate synthase	RibB	Riboflavin/FAD biosynthesis		1G57
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_02810	COG0582	LX	Integrase/recombinase, includes phage integrase	FimB			
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_02815	COG0638	O	20S proteasome, alpha and beta subunits	PRE1			1FNT
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_02820	COG1220	O	ATP-dependent protease HslVU (ClpYQ), ATPase subunit HslU	HslU			1DO0
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_02830	COG2226	H	Ubiquinone/menaquinone biosynthesis C-methylase UbiE/MenG	UbiE	Biotin biosynthesis		4OBW
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_02835	COG3165	H	Ubiquinone biosynthesis protein UbiJ, contains SCP2 domain	UbiJ		24142253;28559279	
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_02845	COG0220	J	tRNA G46 N7-methylase TrmB	TrmB	tRNA modification	19373903;16600901	1YZH
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_02860	COG0708	L	Exonuclease III	XthA			1AKO
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_02865	COG0856	F	Orotate phosphoribosyltransferase homolog	PyrE2			
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_02870	COG0717	F	dCTP deaminase	Dcd	Thymidylate biosynthesis		1XS1
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_02875	COG0452	H	Phosphopantothenoylcysteine synthetase/decarboxylase CoaBC	CoaBC	Pantothenate/CoA biosynthesis		3QJG
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_02880	COG0665	E	Glycine/D-amino acid oxidase (deaminating)	DadA			3AWI
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_02890	COG0579	G	L-2-hydroxyglutarate oxidase LhgO	LhgO			3DME
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_02895	COG3791	S	Uncharacterized conserved protein				1X6M
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_02900	COG0579	G	L-2-hydroxyglutarate oxidase LhgO	LhgO			3DME
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_02905	COG4311	E	Sarcosine oxidase delta subunit	SoxD			2GAH
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_02910	COG1249	C	Dihydrolipoamide dehydrogenase (E3) component of pyruvate/2-oxoglutarate dehydrogenase complex or glutathione oxidoreductase	Lpd	Glycine cleavagePyruvate oxidation		6QKG
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_02920	COG0534	V	Na+-driven multidrug efflux pump, DinF/NorM/MATE family	NorM		29915058	3VVN
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_02930	COG0568	K	DNA-directed RNA polymerase, sigma subunit (sigma70/sigma32)	RpoD	RNA polymerase		1SIG
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_02935	COG1419	N	Flagellar biosynthesis GTPase FlhF	FlhF			3SYN
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_02940	COG1092	J	23S rRNA G2069 N7-methylase RlmK or C1962 C5-methylase RlmI	RlmK	23S rRNA modification		2B78
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_02945	COG1057	H	Nicotinate-nucleotide adenylyltransferase NadD	NadD	NAD biosynthesis		1YUM
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_02950	COG0266	L	Formamidopyrimidine-DNA glycosylase	Nei			1EE8
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_02955	COG0267	J	Ribosomal protein L33	RpmG	Ribosome 50S subunit		1VS6
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_02960	COG0227	J	Ribosomal protein L28	RpmB	Ribosome 50S subunit		2JZ6
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_02965	COG0452	H	Phosphopantothenoylcysteine synthetase/decarboxylase CoaBC	CoaBC	Pantothenate/CoA biosynthesis		3QJG
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_02970	COG0717	F	dCTP deaminase	Dcd	Thymidylate biosynthesis		1XS1
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_02975	COG1242	R	Radical SAM superfamily enzyme	YhcC			
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_02980	COG1702	T	Phosphate starvation-inducible protein PhoH, predicted ATPase	PhoH		8444794;12762842	3B85
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_02985	COG0319	J	ssRNA-specific RNase YbeY, 16S rRNA maturation enzyme	YbeY	16S rRNA modification	17407324;23543739	1XM5
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_02990	COG1253	R	Hemolysin-related protein, contains CBS domains, UPF0053 family	TlyC			2NQW
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_02995	COG0815	M	Apolipoprotein N-acyltransferase	Lnt			6NWR
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_03000	COG3265	G	Gluconate kinase	GntK	Non-phosphorylated Entner-Doudoroff pathway		1KO4
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_03005	COG0143	J	Methionyl-tRNA synthetase	MetG	Aminoacyl-tRNA synthetases		1A8H
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_03010	COG0143	J	Methionyl-tRNA synthetase	MetG	Aminoacyl-tRNA synthetases		1A8H
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_03015	COG2980	M	Outer membrane lipoprotein LptE/RlpB (LPS assembly)	LptE			2JXP
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_03020	COG0215	J	Cysteinyl-tRNA synthetase	CysS	Aminoacyl-tRNA synthetases		1LI5
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_03025	COG2166	O	Sulfur transfer protein SufE, Fe-S cluster assembly	SufE			1MZG
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_03040	COG1466	L	DNA polymerase III, delta subunit	HolA			3ZH9
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_03045	COG0669	H	Phosphopantetheine adenylyltransferase	CoaD	Pantothenate/CoA biosynthesis		3F3M
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_03070	COG1012	I	Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase	AdhE	Proline degradation		1A4S
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_03090	COG3971	Q	2-keto-4-pentenoate hydratase	MhpD			1SV6
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_03100	COG1233	Q	Phytoene dehydrogenase-related protein				4REP
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_03105	COG2081	R	Predicted flavoprotein YhiN	YhiN			3V76
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_03115	COG0354	O	Folate-binding protein YgfZ, synthesis and repair of Fe-S clusters	YgfZ		27941785;22081392	1NRK
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_03120	COG1832	R	Predicted CoA-binding protein	YccU			1IUK
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_03125	COG0405	E	Gamma-glutamyltranspeptidase	Ggt		16618936	2Z8I
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_03140	COG0251	V	Enamine deaminase RidA, house cleaning of reactive enamine intermediates, YjgF/YER057c/UK114 family	RidA	Pyrimidine degradation	22094463;32205462	1J7H
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_03150	COG2123	U	Exosome complex RNA-binding protein Rrp42, RNase PH superfamily	Rrp42		23319881	4IFD
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_03155	COG4254	R	Uncharacterized peptidoglycan binding protein, contains LysM and FecR  domains				
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_03160	COG2207	K	AraC-type DNA-binding domain and AraC-containing proteins	AraC			1BL0
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_03175	COG0664	T	cAMP-binding domain of CRP or a regulatory subunit of cAMP-dependent protein kinases	Crp			1FT9
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_03180	COG3264	M	Small-conductance mechanosensitive channel MscK	MscK			
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_03185	COG3137	M	Putative salt-induced outer membrane protein YdiY	YdiY			
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_03210	COG0076	E	Glutamate or tyrosine decarboxylase or a related PLP-dependent protein	GadA	Pantothenate/CoA biosynthesis		1XEY
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_03215	COG0219	J	tRNA(Leu) C34 or U34 (ribose-2'-O)-methylase TrmL, contains SPOUT domain	TrmL	tRNA modification		4JAK
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_03220	COG0483	G	Archaeal fructose-1,6-bisphosphatase or related enzyme, inositol monophosphatase family	SuhB	Gluconeogenesis		1AWB
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_03225	COG0342	U	Preprotein translocase subunit SecD	SecD		26100040	3AQP
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_03230	COG0341	U	Preprotein translocase subunit SecF	SecF		28830929	2FYH
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_03235	COG1792	DZ	Cell shape-determining protein MreC	MreC			2J5U
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_03240	COG3119	P	Arylsulfatase A or related enzyme, AlkP superfamily	AslA			1E1Z
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_03260	COG2814	G	Predicted arabinose efflux permease AraJ, MFS family	AraJ			4LDS
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_03275	COG2814	G	Predicted arabinose efflux permease AraJ, MFS family	AraJ			4LDS
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_03285	COG3384	Q	Aromatic ring-opening dioxygenase, catalytic subunit, LigB family	LigB		23258706	2PW6
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_03295	COG1012	I	Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase	AdhE	Proline degradation		1A4S
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_03305	COG1249	C	Dihydrolipoamide dehydrogenase (E3) component of pyruvate/2-oxoglutarate dehydrogenase complex or glutathione oxidoreductase	Lpd	Glycine cleavagePyruvate oxidation		6QKG
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_03315	COG4988	CO	ABC-type transport system involved in cytochrome bd biosynthesis, ATPase and permease components	CydD			
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_03325	COG0345	E	Pyrroline-5-carboxylate reductase	ProC	Proline biosynthesis	22125496;26507882	3GT0
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_03350	COG0498	E	Threonine synthase	ThrC	Threonine biosynthesis		1VB3
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_03355	COG4638	PR	Phenylpropionate dioxygenase or related ring-hydroxylating dioxygenase, large terminal subunit	HcaE			4QDC
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_03365	COG1823	E	L-cystine transporter TcyP, sodium:dicarboxylate symporter family	TcyP			
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_03375	COG2195	E	Di- or tripeptidase	PepD2			2QYV
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_03380	COG0685	E	5,10-methylenetetrahydrofolate reductase	MetF			1B5T
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_03385	COG1846	K	DNA-binding transcriptional regulator, MarR family	MarR			1JGS
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_03395	COG1846	K	DNA-binding transcriptional regulator, MarR family	MarR			1JGS
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_03400	COG3970	R	Fumarylacetoacetate (FAA) hydrolase family protein				2Q18
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_03405	COG0329	EM	4-hydroxy-tetrahydrodipicolinate synthase/N-acetylneuraminate lyase	DapA	Lysine biosynthesis	27574185	2R91
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_03415	COG1012	I	Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase	AdhE	Proline degradation		1A4S
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_03420	COG1167	KE	DNA-binding transcriptional regulator, MocR family, contains an aminotransferase domain	ARO8	Lysine biosynthesis		2R2N
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_03425	COG4145	H	Na+/panthothenate symporter	PanF			
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_03430	COG4327	S	Uncharacterized membrane protein, DUF4212 domain				
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_03435	COG0596	HR	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold	MenH	Menaquinone biosynthesis		4MYS
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_03455	COG3890	I	Phosphomevalonate kinase	ERG8	Isoprenoid biosynthesis		
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_03465	COG0142	H	Geranylgeranyl pyrophosphate synthase	IspA	Isoprenoid biosynthesis		2AZJ
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_03470	COG1474	L	Cdc6-related protein, AAA superfamily ATPase	CDC6			1FNN
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_03480	COG1307	I	Fatty acid-binding protein DegV (function unknown)	DegV			1MGP
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_03485	COG0842	V	ABC-type multidrug transport system, permease component	YadH			
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_03490	COG4181	Q	Predicted ABC-type transport system involved in lysophospholipase L1 biosynthesis, ATPase component	YbbA			
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_03495	COG0596	HR	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold	MenH	Menaquinone biosynthesis		4MYS
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_03505	COG0749	L	DNA polymerase I, 3'-5' exonuclease and polymerase domains	PolA			1D8Y
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_03510	COG1159	J	GTPase Era, involved in 16S rRNA processing	Era			1EGA
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_03515	COG2010	C	Cytochrome c, mono- and diheme variants	CccA			1A2S
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_03525	COG1020	Q	EntF, seryl-AMP synthase component  of non-ribosomal peptide synthetase	EntF			5ES5
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_03530	COG0824	I	Acyl-CoA thioesterase FadM	FadM	Menaquinone biosynthesis		2FUJ
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_03535	COG5000	T	Signal transduction histidine kinase NtrY involved in nitrogen fixation and metabolism regulation	NtrY			
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_03540	COG0784	T	CheY-like REC (receiver) domain, includes chemotaxis protein CheY  and sporulation regulator Spo0F	CheY			6QRJ
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_03555	COG1905	C	NADH:ubiquinone oxidoreductase 24 kD subunit (chain E)	NuoE	NADH dehydrogenase		5XF9
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_03560	COG1526	C	Formate dehydrogenase assembly factor FdhD, a sulfurtransferase	FdhD			2PW9
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_03565	COG0436	E	Aspartate/methionine/tyrosine aminotransferase	AspB	Isoleucine, leucine, valine biosynthesis		2O0R
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_03575	COG1239	H	Mg-chelatase subunit ChlI	ChlI			1G8P
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_03580	COG1721	S	Uncharacterized conserved protein, DUF58 family, contains vWF domain	YeaD2			
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_03590	COG1240	H	vWFA (von Willebrand factor type A) domain of Mg and Co chelatases	ChlD			
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_03595	COG5192
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_03605	COG0647	F	Ribonucleotide monophosphatase NagD, HAD superfamily	NagD			1PW5
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_03610	COG1360	N	Flagellar motor protein MotB	MotB			
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_03620	COG0520	E	Selenocysteine lyase/Cysteine desulfurase	CsdA			4LW2
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_03630	COG0436	E	Aspartate/methionine/tyrosine aminotransferase	AspB	Isoleucine, leucine, valine biosynthesis		2O0R
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_03635	COG0480	J	Translation elongation factor EF-G, a GTPase	FusA	Translation factors		1DAR
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_03640	COG0841	V	Multidrug efflux pump subunit AcrB	AcrB			1IWG
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_03645	COG0845	MV	Multidrug efflux pump subunit AcrA (membrane-fusion protein)	AcrA			1T5E
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_03650	COG2510	H	Riboflavin transporter RibN, EamA domain	RibN		23935051	
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_03665	COG5285	Q	Ectoine hydroxylase-related dioxygenase, phytanoyl-CoA dioxygenase (PhyH) family	PhyH			2A1X
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_03695	COG1167	KE	DNA-binding transcriptional regulator, MocR family, contains an aminotransferase domain	ARO8	Lysine biosynthesis		2R2N
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_03700	COG0006	E	Xaa-Pro aminopeptidase	PepP			1A16
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_03715	COG0501	O	Zn-dependent protease with chaperone function	HtpX			2YPT
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_03720	COG3588	G	Fructose-bisphosphate aldolase class 1	Fba1	Glycolysis		
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_03725	COG0640	K	DNA-binding transcriptional regulator, ArsR family	ArsR			3F6V
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_03730	COG0719	O	Fe-S cluster assembly scaffold protein SufB	SufB			1VH4
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_03735	COG1131	V	ABC-type multidrug transport system, ATPase component	CcmA			5DO7
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_03740	COG0719	O	Fe-S cluster assembly scaffold protein SufB	SufB			1VH4
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_03745	COG1103	J	Archaeal Cys-tRNA synthase (O-phospho-L-seryl-tRNA:Cys-tRNA synthase)				2E7I
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_03760	COG2062	T	Phosphohistidine phosphatase SixA	SixA			1UJB
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_03770	COG1574	R	Predicted amidohydrolase YtcJ	YtcJ			3ICJ
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_03775	COG0404	E	Glycine cleavage system protein T (aminomethyltransferase)	GcvT	Glycine cleavage	25433025;25505271	2GAH
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_03780	COG1250	I	3-hydroxyacyl-CoA dehydrogenase	FadB	Fatty acid biosynthesis		5ZQZ
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_03785	COG2021	E	Homoserine O-acetyltransferase	MET2	Methionine biosynthesis		2VAT
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_03790	COG2873	E	O-acetylhomoserine/O-acetylserine sulfhydrylase, pyridoxal phosphate-dependent	MET17	Methionine biosynthesis		2CTZ
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_03805	COG0055	C	FoF1-type ATP synthase, beta subunit	AtpD	FoF1-type ATP synthase		3OAA
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_03810	COG0224	C	FoF1-type ATP synthase, gamma subunit	AtpG	FoF1-type ATP synthase	15326535	3OAA
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_03815	COG0056	C	FoF1-type ATP synthase, alpha subunit	AtpA	FoF1-type ATP synthase		3OAA
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_03820	COG2141	HR	Flavin-dependent oxidoreductase, luciferase family (includes alkanesulfonate monooxygenase SsuD and methylene tetrahydromethanopterin reductase)	SsuD	Pyrimidine degradation		1BRL
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_03825	COG1075	I	Triacylglycerol esterase/lipase EstA, alpha/beta hydrolase fold	EstA			1I6W
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_03835	COG0730	P	Sulfite exporter TauE/SafE/YfcA and related permeases, UPF0721 family	TauE		21183667;22797525	
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_03840	COG2271	G	Sugar phosphate permease	UhpC			1PW4
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_03845	COG4145	H	Na+/panthothenate symporter	PanF			
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_03860	COG1360	N	Flagellar motor protein MotB	MotB			
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_03865	COG0502	H	Biotin synthase or related enzyme	BioB	Biotin biosynthesis		1R30
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_03870	COG1030	O	Membrane-bound serine protease NfeD, ClpP class	NfeD			2DEO
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_03880	COG1506	E	Dipeptidyl aminopeptidase/acylaminoacyl peptidase	DAP2			2JBW
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_03885	COG0607	P	Rhodanese-related sulfurtransferase	PspE	Urea cycle		1TQ1
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_03895	COG3258	P	Thiosulfate dehydrogenase TsdA, contains C-terminal cytochrome c domain	TsdA		32457501	
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_03910	COG2717	C	Heme-binding membrane subunit of periplasmic DMSO/TMAO and protein-methionine-sulfoxide reductases	MsrQ		26641313	
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_03915	COG0459	O	Chaperonin GroEL (HSP60 family)	GroEL			1AON
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_03925	COG2143	O	Thioredoxin-related protein SoxW	SoxW			4FYB
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_03930	COG0526	O	Thiol-disulfide isomerase or thioredoxin	TrxA			1XFL
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_03940	COG1038	C	Pyruvate carboxylase	PycA	Urea cycle		5VYW
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_03945	COG0439	I	Biotin carboxylase	AccC	Fatty acid biosynthesis		1BNC
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_03950	COG2263	R	Predicted RNA methylase				6H2U
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_03955	COG1902	C	2,4-dienoyl-CoA reductase or related NADH-dependent reductase, Old Yellow Enzyme (OYE) family	FadH			1BWK
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_03960	COG2901	K	DNA-binding protein Fis (factor for inversion stimulation)	Fis			1ETK
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_03965	COG0138	F	AICAR transformylase/IMP cyclohydrolase PurH	PurH	Purine biosynthesis		1G8M
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_03970	COG0151	F	Phosphoribosylamine-glycine ligase	PurD	Purine biosynthesis		1GSO
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_03975	COG0303	H	Molybdopterin Mo-transferase (molybdopterin biosynthesis)	MoeA	Molybdopterin biosynthesis	18801996;32239579	2NQU
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_03980	COG2259	S	Uncharacterized membrane protein YphA, DoxX/SURF4 family	DoxX			
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_03985	COG2353	R	Polyisoprenoid-binding periplasmic protein YceI	YceI		15741337;20236316	1WUB
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_03990	COG3349	R	Uncharacterized protein, contains NAD-binding domain and a Fe-S cluster				5MOG
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_04000	COG1158	K	Transcription termination factor Rho	Rho			1PVO
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_04005	COG3118	O	Chaperedoxin CnoX, contains thioredoxin-like and TPR-like domains, YbbN/TrxSC family	CnoX		21498507;29754824	3QDN
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_04010	COG1201	L	Lhr-like helicase	Lhr			5V9X
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_04015	COG1011	H	FMN and 5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YigB, HAD superfamily (riboflavin biosynthesis)	YigB		24123841	4JB3
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_04030	COG0607	P	Rhodanese-related sulfurtransferase	PspE	Urea cycle		1TQ1
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_04035	COG0596	HR	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold	MenH	Menaquinone biosynthesis		4MYS
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_04045	COG1030	O	Membrane-bound serine protease NfeD, ClpP class	NfeD			2DEO
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_04050	COG1060	H	2-iminoacetate synthase ThiH/Menaquinone biosynthesis enzymes MqnC and MqnE	ThiH	Thiamine biosynthesis	18801996	4WCX
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_04055	COG0075	EF	Archaeal aspartate aminotransferase or a related aminotransferase, includes purine catabolism protein PucG	PucG	Serine biosynthesis		3NNK
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_04065	COG2230	I	Cyclopropane fatty-acyl-phospholipid synthase and related methyltransferases	Cfa			5Z9O
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_04070	COG0637	G	Beta-phosphoglucomutase, HAD superfamily	YcjU		29684280	3E58
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_04080	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_04085	COG0564	J	Pseudouridine synthase RluA, 23S rRNA- or tRNA-specific	RluA	23S rRNA modification		2I82
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_04090	COG1386	K	Chromosome segregation and condensation protein ScpB	ScpB			1T6S
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_04100	COG2917	D	Intracellular septation protein A	YciB			
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_04105	COG0843	C	Heme/copper-type cytochrome/quinol oxidase, subunit 1	CyoB			1AR1
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_04110	COG3258	P	Thiosulfate dehydrogenase TsdA, contains C-terminal cytochrome c domain	TsdA		32457501	
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_04115	COG1228	Q	Imidazolonepropionase or related amidohydrolase	HutI			3OOQ
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_04125	COG0591	E	Na+/proline symporter	PutP			5NVA
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_04135	COG0160	E	Acetylornithine aminotransferase/4-aminobutyrate aminotransferase	ArgD	Arginine biosynthesis		1SF2
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_04145	COG3837	S	Uncharacterized conserved protein, cupin superfamily				
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_04150	COG1249	C	Dihydrolipoamide dehydrogenase (E3) component of pyruvate/2-oxoglutarate dehydrogenase complex or glutathione oxidoreductase	Lpd	Glycine cleavagePyruvate oxidation		6QKG
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_04155	COG0373	H	Glutamyl-tRNA reductase	HemA	Heme biosynthesis		2XOE
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_04160	COG0113	H	Delta-aminolevulinic acid dehydratase, porphobilinogen synthase	HemB	Heme biosynthesis		1I8J
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_04170	COG0408	H	Coproporphyrinogen-III oxidase HemH, oxygen-dependent	HemF	Heme biosynthesis		3E8J
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_04175	COG0009	J	tRNA A37 threonylcarbamoyladenosine synthetase subunit TsaC/SUA5/YrdC	TsaC	tRNA modification		1HRU
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_04180	COG0550	L	DNA topoisomerase IA	TopA			1CY0
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_04190	COG0174	E	Glutamine synthetase	GlnA	Glutamine biosynthesis		1F1H
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_04195	COG1414	K	DNA-binding transcriptional regulator, IclR family	IclR			1MKM
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_04200	COG1757	C	Na+/H+ antiporter NhaC/MleN	NhaC			
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_04210	COG0518	F	GMP synthase, glutamine amidotransferase domain	GuaA1	Purine biosynthesis		4WIM
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_04215	COG0174	E	Glutamine synthetase	GlnA	Glutamine biosynthesis		1F1H
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_04220	COG0161	H	Adenosylmethionine-8-amino-7-oxononanoate aminotransferase	BioA	Biotin biosynthesis		1MLY
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_04225	COG0010	E	Arginase/agmatinase family enzyme	SpeB	Urea cycle		1CEV
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_04230	COG0665	E	Glycine/D-amino acid oxidase (deaminating)	DadA			3AWI
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_04240	COG3246	S	Uncharacterized conserved protein, DUF849 family				3C6C
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_04245	COG2368	Q	Aromatic ring hydroxylase	YoaI			1U8V
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_04255	COG0823	U	Periplasmic component TolB of the Tol biopolymer transport system	TolB			1C5K
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_04265	COG0717	F	dCTP deaminase	Dcd	Thymidylate biosynthesis		1XS1
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_04270	COG1149	R	MinD superfamily P-loop ATPase, contains an inserted ferredoxin domain				
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_04275	COG0495	J	Leucyl-tRNA synthetase	LeuS	Aminoacyl-tRNA synthetases		6LPF
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_04280	COG0446	I	NADPH-dependent 2,4-dienoyl-CoA reductase, sulfur reductase, or a related oxidoreductase	FadH2			1VRQ
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_04285	COG1038	C	Pyruvate carboxylase	PycA	Urea cycle		5VYW
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_04290	COG2609	C	Pyruvate dehydrogenase complex, dehydrogenase (E1) component	AceE	Pyruvate oxidation		1L8A
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_04295	COG1012	I	Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase	AdhE	Proline degradation		1A4S
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_04305	COG4771	P	Outer membrane receptor for ferrienterochelin and colicins	FepA		16468998	2HDF
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_04315	COG2193	P	Bacterioferritin (cytochrome b1)	Bfr			4E6K
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_04335	COG0512	EH	Anthranilate/para-aminobenzoate synthase component II (glutamine amidotransferase)	PabA	Aromatic amino acid biosynthesis		1I1Q
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_04340	COG4134	R	ABC-type uncharacterized transport system YnjBCD, periplasmic component	YnjB			
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_04345	COG0006	E	Xaa-Pro aminopeptidase	PepP			1A16
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_04350	COG1177	E	ABC-type spermidine/putrescine transport system, permease component II	PotC			
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_04355	COG0488	R	ATPase components of ABC transporters with duplicated ATPase domains	Uup			5ZXD
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_04365	COG3544	S	Uncharacterized conserved protein, DUF305 family				5FEJ
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_04370	COG1028	I	NAD(P)-dependent dehydrogenase, short-chain alcohol dehydrogenase family	FabG	Fatty acid biosynthesis		6L1H
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_04375	COG2814	G	Predicted arabinose efflux permease AraJ, MFS family	AraJ			4LDS
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_04380	COG0596	HR	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold	MenH	Menaquinone biosynthesis		4MYS
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_04390	COG5470	S	Uncharacterized conserved protein, DUF1330 family				
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_04405	COG0812	M	UDP-N-acetylenolpyruvoylglucosamine reductase	MurB	Mureine biosynthesis		2MBR
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_04410	COG1064	G	D-arabinose 1-dehydrogenase, Zn-dependent alcohol dehydrogenase family	AdhP			5O8Q
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_04420	COG3696	P	Cu/Ag efflux pump CusA	CusA			3K07
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_04425	COG0845	MV	Multidrug efflux pump subunit AcrA (membrane-fusion protein)	AcrA			1T5E
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_04430	COG1309	K	DNA-binding protein, AcrR family, includes nucleoid occlusion protein SlmA	AcrR			2QOP
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_04445	COG0848	U	Biopolymer transport protein ExbD	ExbD			2JWK
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_04460	COG0633	C	Ferredoxin	Fdx			1KRH
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_04465	COG1225	O	Peroxiredoxin	Bcp			5IPH
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_04470	COG2025	C	Electron transfer flavoprotein, alpha subunit FixB	FixB			1EFP
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_04475	COG2086	C	Electron transfer flavoprotein, alpha and beta subunits	FixA			5OL2
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_04480	COG2897	P	3-mercaptopyruvate sulfurtransferase SseA, contains two rhodanese domains	SseA			1BOH
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_04485	COG1804	I	Crotonobetainyl-CoA:carnitine CoA-transferase CaiB and related acyl-CoA transferases	CaiB			1P5H
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_04495	COG0210	L	Superfamily I DNA or RNA helicase	UvrD			6PPR
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_04505	COG3149	U	Type II secretory pathway, component PulM	PulM			1UV7
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_04510	COG3297	U	Type II secretory pathway, component PulL	PulL		11679764	2W7V
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_04520	COG4795	U	Type II secretory pathway, PulJ/GspJ component	PulJ			
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_04525	COG2165	NUW	Type II secretory pathway, pseudopilin PulG	PulG			1AY2
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_04530	COG2165	NUW	Type II secretory pathway, pseudopilin PulG	PulG			1AY2
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_04535	COG4970	NW	Type IV pilus assembly protein FimT	FimT		17322192;28771515	
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_04540	COG0331	I	Malonyl CoA-acyl carrier protein transacylase	FabD	Fatty acid biosynthesis		1YXC
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_04545	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_04550	COG0236	I	Acyl carrier protein	AcpP	Fatty acid biosynthesis		1ACP
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_04560	COG0125	F	Thymidylate kinase	Tmk	Thymidylate biosynthesis		3LV8
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_04565	COG2812	L	DNA polymerase III, gamma/tau subunits	DnaX			1A5T
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_04570	COG0287	E	Prephenate dehydrogenase	TyrA	Aromatic amino acid biosynthesis		2F1K
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_04600	COG4625	S	Uncharacterized conserved protein, contains a C-terminal beta-barrel porin domain				
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_04620	COG3628	X	Phage baseplate assembly protein W				2IA7
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_04660	COG1474	L	Cdc6-related protein, AAA superfamily ATPase	CDC6			1FNN
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_04670	COG0126	G	3-phosphoglycerate kinase	Pgk	Glycolysis		13PK
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_04675	COG0057	G	Glyceraldehyde-3-phosphate dehydrogenase/erythrose-4-phosphate dehydrogenase	GapA	Glycolysis		3ZDF
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_04690	COG4972	NW	Type IV pilus assembly protein, ATPase PilM	PilM			2YCH
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_04695	COG1792	DZ	Cell shape-determining protein MreC	MreC			2J5U
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_04705	COG0744	M	Penicillin-binding protein 1B/1F, peptidoglycan  transglycosylase/transpeptidase	MrcB			3FWL
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_04710	COG0772	D	Peptodoglycan polymerase FtsW/RodA/SpoVE	FtsW		30692671	6BAR
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_04715	COG2951	M	Membrane-bound lytic murein transglycosylase B	MltB			1D0K
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_04720	COG0797	M	Peptidoglycan lytic transglycosylase RlpA, contains C-terminal SPOR domain	RlpA		24806796	4AVR
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_04725	COG2367	V	Beta-lactamase class A	PenP			6W34
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_04730	COG2921	T	Putative lipoate-binding regulatory protein, UPF0250 family	YbeD		15547281	1RWU
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_04735	COG0095	H	Lipoate-protein ligase A	LplA	Lipoate biosynthesis		4TVW
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_04740	COG1213	I	Choline kinase				4MND
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_04745	COG3173	R	Predicted  kinase, aminoglycoside phosphotransferase (APT) family	YcbJ			
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_04760	COG0540	F	Aspartate carbamoyltransferase, catalytic subunit	PyrB	Pyrimidine biosynthesis		1NBE
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_04770	COG0289	E	4-hydroxy-tetrahydrodipicolinate reductase	DapB	Lysine biosynthesis	29684280	1ARZ
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_04785	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_04800	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_04805	COG0490	PT	K+/H+ antiporter KhtSTU, c-di-AMP-binding regulatory subunit KhtT, contains RCK_C (TrkA_C) domain	KhtT		24330391;31061098	4J90
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_04810	COG0168	P	Trk-type K+ transport system, membrane component	TrkG			3PJZ
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_04820	COG1757	C	Na+/H+ antiporter NhaC/MleN	NhaC			
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_04840	COG1826	U	Twin-arginine protein secretion pathway components TatA and TatB	TatA			2L16
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_04845	COG0805	U	Twin-arginine protein secretion pathway component TatC	TatC			4B4A
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_04850	COG0477	GEPR	MFS family permease, includes anhydromuropeptide permease AmpG	ProP		12426329	
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_04860	COG2226	H	Ubiquinone/menaquinone biosynthesis C-methylase UbiE/MenG	UbiE	Biotin biosynthesis		4OBW
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_04865	COG0265	O	Periplasmic serine protease, S1-C subfamily, contain C-terminal PDZ domain	DegQ		29686141	2HGA
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_04870	COG0607	P	Rhodanese-related sulfurtransferase	PspE	Urea cycle		1TQ1
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_04885	COG0566	J	tRNA G18 (ribose-2'-O)-methylase SpoU	SpoU	tRNA modification		1GZ0
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_04890	COG0167	F	Dihydroorotate dehydrogenase	PyrD	Pyrimidine biosynthesis		1GT8
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_04895	COG3968	E	Glutamine synthetase type III	GlnA3			
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_04900	COG0441	J	Threonyl-tRNA synthetase	ThrS	Aminoacyl-tRNA synthetases		1NYQ
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_04910	COG0187	L	DNA gyrase/topoisomerase IV, subunit B	GyrB			1EI1
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_04915	COG3593	L	Predicted ATP-dependent endonuclease of the OLD family, contains P-loop ATPase and TOPRIM domains	YbjD			
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_04920	COG0592	L	DNA polymerase III sliding clamp (beta) subunit, PCNA homolog	DnaN			1JQJ
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_04925	COG1484	L	DNA replication protein DnaC	DnaC			2QGZ
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_04930	COG0230	J	Ribosomal protein L34	RpmH	Ribosome 50S subunit		6SPB
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_04935	COG0706	M	Membrane protein insertase Oxa1/YidC/SpoIIIJ	YidC			3WO6
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_04940	COG1160	J	Double Era-like domain GTPase Der	Der			1MKY
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_04945	COG0445	J	tRNA U34 5-carboxymethylaminomethyl modifying enzyme MnmG/GidA	MnmG	tRNA modification		2ZXH
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_04950	COG0491	R	Glyoxylase or a related metal-dependent hydrolase, beta-lactamase superfamily II	GloB		25670698	1QH3
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_04955	COG2130	QR	NADPH-dependent curcumin reductase CurA	CurA		21467222	1V3T
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_04960	COG2513	G	2-Methylisocitrate lyase and related enzymes, PEP mutase family	PrpB			1XG3
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_04965	COG0372	C	Citrate synthase	GltA	TCA cycle	25211225	3TQG
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_04970	COG2079	G	2-methylcitrate dehydratase PrpD	PrpD			1SZQ
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_04975	COG2242	H	Precorrin-6B methylase 2	CobL	Cobalamine/B12 biosynthesis		1F38
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_04980	COG0455	DN	MinD-like ATPase FlhG/YlxH, activator of the FlhF-type GTPase	FlhG			1G3Q
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_04990	COG0495	J	Leucyl-tRNA synthetase	LeuS	Aminoacyl-tRNA synthetases		6LPF
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_04995	COG0302	H	GTP cyclohydrolase I	FolE	Folate biosynthesis	19767425;30692671	1A8R
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_05000	COG1283	P	Na+/phosphate symporter	NptA			
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_05010	COG0697	GER	Permease of the drug/metabolite transporter (DMT) superfamily	RhaT			5I20
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_05020	COG0500	QR	SAM-dependent methyltransferase	SmtA			5DNK
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_05030	COG1055	P	Na+/H+ antiporter NhaD or related arsenite permease	ArsB			
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_05035	COG3695	K	Alkylated DNA nucleotide flippase Atl1, participates in nucleotide excision repair, Ada-like DNA-binding domain	Atl1		19516334	2KIF
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_05040	COG1012	I	Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase	AdhE	Proline degradation		1A4S
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_05050	COG0334	E	Glutamate dehydrogenase/leucine dehydrogenase	GdhA	Glutamine biosynthesis	24391520	1B3B
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_05070	COG0579	G	L-2-hydroxyglutarate oxidase LhgO	LhgO			3DME
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_05075	COG0024	J	Methionine aminopeptidase	Map			3J2I
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_05080	COG3079	S	Uncharacterized conserved protein YgfB, UPF0149 family	YgfB			1IZM
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_05110	COG0456	J	Ribosomal protein S18 acetylase RimI and related acetyltransferases	RimI			1GHE
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_05115	COG0103	J	Ribosomal protein S9	RpsI	Ribosome 30S subunit		4V4H
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_05120	COG0102	J	Ribosomal protein L13	RplM	Ribosome 50S subunit		1VS6
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_05130	COG0269	G	3-keto-L-gulonate-6-phosphate decarboxylase	UlaD			3F4W
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_05135	COG0152	F	Phosphoribosylaminoimidazole-succinocarboxamide synthase	PurC	Purine biosynthesis		1A48
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_05140	COG3028	J	Ribosomal 50S subunit-associated protein YjgA, DUF615 family	YjgA		16980477	2P0T
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_05145	COG0041	F	Phosphoribosylcarboxyaminoimidazole (NCAIR) mutase	PurE	Purine biosynthesis		1D7A
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_05150	COG0458	EF	Carbamoylphosphate synthase large subunit	CarB	Arginine biosynthesis		1C30
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_05155	COG3164	S	Uncharacterized conserved protein YhdP, contains DUF3971 and AsmA2 domains	YhdR			
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_05165	COG0128	E	5-enolpyruvylshikimate-3-phosphate synthase	AroA	Aromatic amino acid biosynthesis		4N3P
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_05170	COG1102	F	Cytidylate kinase	CmkB			
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_05175	COG2183	K	Transcriptional accessory protein Tex/SPT6	Tex			2OCE
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_05195	COG4597	E	ABC-type amino acid transport system, permease component	BatB			
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_05200	COG1101	R	ABC-type uncharacterized transport system, ATPase component	PhnK			
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_05205	COG0075	EF	Archaeal aspartate aminotransferase or a related aminotransferase, includes purine catabolism protein PucG	PucG	Serine biosynthesis		3NNK
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_05215	COG0399	M	dTDP-4-amino-4,6-dideoxygalactose transaminase	WecE		15271350	4PIW
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_05220	COG0513	L	Superfamily II DNA and RNA helicase	SrmB			3RRM
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_05230	COG0290	J	Translation initiation factor IF-3	InfC	Translation factors		2IFE
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_05235	COG0291	J	Ribosomal protein L35	RpmI	Ribosome 50S subunit	28373563	1VS6
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_05240	COG0292	J	Ribosomal protein L20	RplT	Ribosome 50S subunit	30270044	1VS6
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_05245	COG0016	J	Phenylalanyl-tRNA synthetase alpha subunit	PheS	Aminoacyl-tRNA synthetases		3L4G
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_05250	COG0072	J	Phenylalanyl-tRNA synthetase beta subunit	PheT	Aminoacyl-tRNA synthetases		3L4G
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_05255	COG1941	C	Coenzyme F420-reducing hydrogenase, gamma subunit	FrhG			5ODC
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_05260	COG3262	C	Ni,Fe-hydrogenase III component G	HycE1			
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_05265	COG0649	C	NADH:ubiquinone oxidoreductase 49 kD subunit (chain D)	NuoD	NADH dehydrogenase		2FUG
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_05280	COG0243	C	Anaerobic selenocysteine-containing dehydrogenase	BisC			1EU1
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_05285	COG1005	C	NADH:ubiquinone oxidoreductase subunit 1 (chain H)	NuoH	NADH dehydrogenase		6HUM
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_05290	COG1145	C	Ferredoxin	NapF			6FAH
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_05300	COG0713	C	NADH:ubiquinone oxidoreductase subunit 11 or 4L (chain K)	NuoK	NADH dehydrogenase		4HE8
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_05305	COG1008	C	NADH:ubiquinone oxidoreductase subunit 4 (chain M)	NuoM	NADH dehydrogenase		6HUM
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_05310	COG1008	C	NADH:ubiquinone oxidoreductase subunit 4 (chain M)	NuoM	NADH dehydrogenase		6HUM
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_05315	COG0651	CP	Formate hydrogenlyase subunit 3/Multisubunit Na+/H+ antiporter, MnhD subunit	HyfB			6CFW
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_05340	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_05345	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_05350	COG2130	QR	NADPH-dependent curcumin reductase CurA	CurA		21467222	1V3T
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_05355	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_05360	COG1252	C	NADH dehydrogenase, FAD-containing subunit	Ndh			5NA4
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_05385	COG0039	C	Malate/lactate dehydrogenase	Mdh	TCA cycle		4WLO
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_05395	COG1197	LK	Transcription-repair coupling factor (superfamily II helicase)	Mfd			2EYQ
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_05400	COG0143	J	Methionyl-tRNA synthetase	MetG	Aminoacyl-tRNA synthetases		1A8H
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_05405	COG2927	L	DNA polymerase III, chi subunit	HolC			1EM8
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_05410	COG0260	E	Leucyl aminopeptidase	PepB		19553197;23825549	3H8E
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_05415	COG0795	MN	Lipopolysaccharide export LptBFGC system, permease protein LptF	LptF			6S8H
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_05420	COG0795	MN	Lipopolysaccharide export LptBFGC system, permease protein LptF	LptF			6S8H
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_05425	COG1714	S	Uncharacterized membrane protein YckC, RDD family	YckC			
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_05435	COG0092	J	Ribosomal protein S3	RpsC	Ribosome 30S subunit		1VS6
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_05445	COG0185	J	Ribosomal protein S19	RpsS	Ribosome 30S subunit		4V4H
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_05450	COG0090	J	Ribosomal protein L2	RplB	Ribosome 50S subunit		1VS6
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_05455	COG0089	J	Ribosomal protein L23	RplW	Ribosome 50S subunit		1VS6
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_05460	COG0088	J	Ribosomal protein L4	RplD	Ribosome 50S subunit		1VS6
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_05465	COG0087	J	Ribosomal protein L3	RplC	Ribosome 50S subunit		1VS6
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_05475	COG0480	J	Translation elongation factor EF-G, a GTPase	FusA	Translation factors		1DAR
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_05480	COG0049	J	Ribosomal protein S7	RpsG	Ribosome 30S subunit		4V4H
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_05485	COG0048	J	Ribosomal protein S12	RpsL	Ribosome 30S subunit		4V4H
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_05500	COG0833	E	Amino acid permease	LysP			
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_05505	COG0626	E	Cystathionine beta-lyase/cystathionine gamma-synthase	MetC	Methionine biosynthesis		1CL1
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_05510	COG2870	M	ADP-heptose synthase, bifunctional sugar kinase/adenylyltransferase	RfaE			5X9Q
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_05515	COG2313	F	Pseudouridine-5'-phosphate glycosidase (pseudoU degradation)	PsuG		18591240	1VKM
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_05540	COG0623	I	Enoyl-[acyl-carrier-protein] reductase FabI	FabI	Fatty acid biosynthesis		1C14
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_05545	COG0520	E	Selenocysteine lyase/Cysteine desulfurase	CsdA			4LW2
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_05550	COG1164	E	Oligoendopeptidase F	PepF			3CE2
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_05555	COG0708	L	Exonuclease III	XthA			1AKO
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_05565	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_05575	COG0657	I	Acetyl esterase/lipase	Aes			1EVQ
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_05580	COG0733	R	Na+-dependent transporter, SNF family	YocR			2A65
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_05595	COG0439	I	Biotin carboxylase	AccC	Fatty acid biosynthesis		1BNC
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_05600	COG0812	M	UDP-N-acetylenolpyruvoylglucosamine reductase	MurB	Mureine biosynthesis		2MBR
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_05605	COG0773	M	UDP-N-acetylmuramate-alanine ligase MurC and related ligases, MurC/Mpl family	MurC	Mureine biosynthesis		
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_05610	COG1819	G	UDP:flavonoid glycosyltransferase YjiC, YdhE family	YjiC		23974133	2ACV
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_05615	COG0772	D	Peptodoglycan polymerase FtsW/RodA/SpoVE	FtsW		30692671	6BAR
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_05620	COG0773	M	UDP-N-acetylmuramate-alanine ligase MurC and related ligases, MurC/Mpl family	MurC	Mureine biosynthesis		
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_05625	COG0472	M	UDP-N-acetylmuramyl pentapeptide phosphotransferase/UDP-N-acetylglucosamine-1-phosphate transferase	Rfe	Mureine biosynthesis		4J72
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_05630	COG0773	M	UDP-N-acetylmuramate-alanine ligase MurC and related ligases, MurC/Mpl family	MurC	Mureine biosynthesis		
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_05635	COG0285	H	Folylpolyglutamate synthase/Dihydropteroate synthase	FolC	Folate biosynthesis		1W78
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_05650	COG0308	E	Aminopeptidase N, contains DUF3458 domain	PepN		24123841	6ATK
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_05655	COG1228	Q	Imidazolonepropionase or related amidohydrolase	HutI			3OOQ
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_05660	COG1012	I	Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase	AdhE	Proline degradation		1A4S
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_05665	COG0684	J	RNA degradosome component RraA (regulator of RNase E activity)	RraA		20471400	1J3L
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_05680	COG3182	S	PepSY-associated TM region	PiuB		15124630	
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_05685	COG0807	H	GTP cyclohydrolase II	RibA	Riboflavin/FAD biosynthesis		2BZ0
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_05690	COG1233	Q	Phytoene dehydrogenase-related protein				4REP
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_05700	COG1506	E	Dipeptidyl aminopeptidase/acylaminoacyl peptidase	DAP2			2JBW
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_05705	COG0304	IQ	3-oxoacyl-(acyl-carrier-protein) synthase	FabB	Fatty acid biosynthesis	21652641	2UV8
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_05715	COG2223	P	Nitrate/nitrite transporter NarK	NarK			4JR9
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_05720	COG0579	G	L-2-hydroxyglutarate oxidase LhgO	LhgO			3DME
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_05730	COG0402	FR	Cytosine/adenosine deaminase or related metal-dependent hydrolase	SsnA	Pyrimidine salvage		3O7U
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_05745	COG1020	Q	EntF, seryl-AMP synthase component  of non-ribosomal peptide synthetase	EntF			5ES5
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_05750	COG4989	R	Predicted oxidoreductase YdhF	YdhF			1UR3
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_05755	COG0647	F	Ribonucleotide monophosphatase NagD, HAD superfamily	NagD			1PW5
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_05760	COG2222	M	Fructoselysine-6-P-deglycase FrlB or related protein, duplicated sugar isomerase (SIS) domain	AgaS		16153181	3C3J
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_05770	COG0834	ET	ABC-type amino acid transport/signal transduction system, periplasmic component/domain	HisJ			1GGG
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_05775	COG0117	H	Riboflavin biosynthesis protein RibD, pyrimidine deaminase domain	RibD1	Riboflavin/FAD biosynthesis		2O7P
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_05785	COG4254	R	Uncharacterized peptidoglycan binding protein, contains LysM and FecR  domains				
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_05795	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_05800	COG2130	QR	NADPH-dependent curcumin reductase CurA	CurA		21467222	1V3T
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_05805	COG3319	Q	Thioesterase domain of type I polyketide synthase or non-ribosomal peptide synthetase	EntF2			5JA1
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_05810	COG0498	E	Threonine synthase	ThrC	Threonine biosynthesis		1VB3
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_05815	COG1026	O	Zn-dependent peptidase, M16 (insulinase) family	Cym1			2FGE
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_05820	COG0402	FR	Cytosine/adenosine deaminase or related metal-dependent hydrolase	SsnA	Pyrimidine salvage		3O7U
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_05825	COG1143	C	Formate hydrogenlyase subunit 6/NADH:ubiquinone oxidoreductase 23 kD subunit (chain I)	NuoI	NADH dehydrogenase		1B0P
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_05830	COG4231	C	TPP-dependent indolepyruvate ferredoxin oxidoreductase, alpha subunit	IorA			
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_05835	COG4231	C	TPP-dependent indolepyruvate ferredoxin oxidoreductase, alpha subunit	IorA			
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_05845	COG0075	EF	Archaeal aspartate aminotransferase or a related aminotransferase, includes purine catabolism protein PucG	PucG	Serine biosynthesis		3NNK
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_05850	COG4221	C	NADP-dependent 3-hydroxy acid dehydrogenase YdfG	YdfG	Pyrimidine degradation		3P19
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_05855	COG1028	I	NAD(P)-dependent dehydrogenase, short-chain alcohol dehydrogenase family	FabG	Fatty acid biosynthesis		6L1H
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_05860	COG1012	I	Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase	AdhE	Proline degradation		1A4S
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_05865	COG4665	Q	TRAP-type mannitol/chloroaromatic compound transport system, small permease component	FcbT2			
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_05870	COG1593	G	TRAP-type C4-dicarboxylate transport system, large permease component	DctQ			
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_05875	COG1638	G	TRAP-type C4-dicarboxylate transport system, periplasmic component	DctP			2CEX
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_05880	COG3968	E	Glutamine synthetase type III	GlnA3			
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_05900	COG0733	R	Na+-dependent transporter, SNF family	YocR			2A65
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_05910	COG1237	R	Metal-dependent hydrolase, beta-lactamase superfamily II				2P4Z
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_05915	COG4181	Q	Predicted ABC-type transport system involved in lysophospholipase L1 biosynthesis, ATPase component	YbbA			
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_05920	COG0842	V	ABC-type multidrug transport system, permease component	YadH			
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_05930	COG1834	E	N-Dimethylarginine dimethylaminohydrolase	DdaH			6LRH
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_05935	COG1277	O	ABC-type transport system involved in multi-copper enzyme maturation, permease component	NosY			
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_05940	COG1277	O	ABC-type transport system involved in multi-copper enzyme maturation, permease component	NosY			
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_05945	COG1129	G	ABC-type sugar transport system, ATPase component	MglA			
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_05975	COG1757	C	Na+/H+ antiporter NhaC/MleN	NhaC			
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_05980	COG1292	M	Choline-glycine betaine transporter	BetT			2WIT
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_05985	COG4583	E	Sarcosine oxidase gamma subunit	SoxG			
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_05995	COG5523	S	Uncharacterized membrane protein				
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_06015	COG5523	S	Uncharacterized membrane protein				
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_06020	COG1524	T	c-di-AMP phosphodiesterase AtaC or nucleotide pyrophosphatase, AlkP superfamily	AtaC		32188788	1EI6
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_06025	COG4108	J	Peptide chain release factor RF-3	PrfC	Translation factors		3UOQ
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_06030	COG2353	R	Polyisoprenoid-binding periplasmic protein YceI	YceI		15741337;20236316	1WUB
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_06040	COG1476	K	DNA-binding transcriptional regulator, XRE-family HTH domain	XRE			1UTX
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_06050	COG0520	E	Selenocysteine lyase/Cysteine desulfurase	CsdA			4LW2
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_06060	COG3391	R	DNA-binding beta-propeller fold protein YncE	YncE		22120742;28628661	3VGZ
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_06065	COG5276	S	Uncharacterized secreted protein, contains LVIVD repeats, choice-of-anchor domain				
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_06075	COG1201	L	Lhr-like helicase	Lhr			5V9X
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_06080	COG4108	J	Peptide chain release factor RF-3	PrfC	Translation factors		3UOQ
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_06085	COG1524	T	c-di-AMP phosphodiesterase AtaC or nucleotide pyrophosphatase, AlkP superfamily	AtaC		32188788	1EI6
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_06095	COG2838	C	Monomeric isocitrate dehydrogenase	IcdM	TCA cycle		1ITW
+Woeseiaceae_bacterium_CPC1328	GCA_002685495.1	JEBGLN_06120	COG3239	I	Fatty acid desaturase	DesA			

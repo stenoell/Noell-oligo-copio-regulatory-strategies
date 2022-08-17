@@ -1,0 +1,799 @@
+#prefix	assemid	query	COG	category	name	Gene	pathway	pmid	pdb_id
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_00005	COG0746	H	Molybdopterin-guanine dinucleotide biosynthesis protein A	MobA	Molybdopterin biosynthesis	32239579	1E5K
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_00010	COG0535	DH	Radical SAM superfamily maturase, SkfB/NifB/PqqE family	SkfB		23282011	6Q2P
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_00020	COG1305	O	Transglutaminase-like enzyme, putative cysteine protease	YebA			3ISR
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_00030	COG2308	R	Circularly permuted ATP-grasp protein			20023723	3N6X
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_00045	COG4145	H	Na+/panthothenate symporter	PanF			
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_00060	COG0034	F	Glutamine phosphoribosylpyrophosphate amidotransferase	PurF	Purine biosynthesis		1ECB
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_00065	COG1473	R	Metal-dependent amidase/aminoacylase/carboxypeptidase	AbgB	Lysine biosynthesis	17307853	3RAM
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_00075	COG0512	EH	Anthranilate/para-aminobenzoate synthase component II (glutamine amidotransferase)	PabA	Aromatic amino acid biosynthesis		1I1Q
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_00080	COG0804	E	Urease alpha subunit	UreC			5A6T
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_00095	COG1246	E	N-acetylglutamate synthase or related acetyltransferase, GNAT family	ArgA	Arginine biosynthesis		2R98
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_00105	COG0054	H	6,7-dimethyl-8-ribityllumazine synthase (Riboflavin synthase beta chain)	RibE	Riboflavin/FAD biosynthesis		1C2Y
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_00115	COG0249	L	DNA mismatch repair ATPase MutS	MutS			1E3M
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_00125	COG0556	L	Excinuclease UvrABC helicase subunit UvrB	UvrB			1C4O
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_00135	COG3628	X	Phage baseplate assembly protein W				2IA7
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_00230	COG0828	J	Ribosomal protein S21	RpsU	Ribosome 30S subunit		4V4H
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_00265	COG2940	R	SET domain-containing protein (function unknown)	SET			6BX3
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_00280	COG2331	R	Predicted nucleic acid-binding protein, contains Zn-ribbon domain				
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_00405	COG3497	X	Phage tail sheath protein FI			18586829	3J9Q
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_00465	COG1056	H	Nicotinamide mononucleotide adenylyltransferase	NadR	NAD biosynthesis		1LW7
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_00540	COG0695	O	Glutaredoxin	GrxC			1AAZ
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_00560	COG0208	F	Ribonucleotide reductase beta subunit, ferritin-like domain	NrdB	Pyrimidine salvage		1AV8
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_00570	COG0209	F	Ribonucleotide reductase alpha subunit	NrdA	Pyrimidine salvage		1R1R
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_00575	COG0358	L	DNA primase (bacterial type)	DnaG		28128549	3B39
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_00585	COG0542	O	ATP-dependent Clp protease, ATP-binding subunit ClpA	ClpA			1KSF
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_00605	COG0139	E	Phosphoribosyl-AMP cyclohydrolase	HisI1	Histidine biosynthesis		1ZPS
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_00655	COG0714	R	MoxR-like ATPase	MoxR	Cobalamine/B12 biosynthesis		2R44
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_00675	COG0242	J	Peptide deformylase	Def			1BS4
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_00690	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_00695	COG0420	L	DNA repair exonuclease SbcCD nuclease subunit	SbcD			6S85
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_00715	COG1204	L	Replicative superfamily II helicase	BRR2			2VA8
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_00720	COG3128	R	Predicted 2-oxoglutarate- and Fe(II)-dependent dioxygenase YbiX	PiuC			3DKQ
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_00735	COG4252	T	Extracytoplasmic sensor domain CHASE2 (specificity unknown)	CHASE2			
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_00740	COG4161	E	ABC-type arginine transport system, ATPase component	ArtP			
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_00745	COG1566	V	Multidrug resistance efflux pump EmrA	EmrA			4TKO
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_00750	COG1117	P	ABC-type phosphate transport system, ATPase component	PstB			
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_00755	COG0664	T	cAMP-binding domain of CRP or a regulatory subunit of cAMP-dependent protein kinases	Crp			1FT9
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_00770	COG0064	J	Asp-tRNAAsn/Glu-tRNAGln amidotransferase B subunit	GatB	Aminoacyl-tRNA synthetases		3H0M
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_00810	COG2207	K	AraC-type DNA-binding domain and AraC-containing proteins	AraC			1BL0
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_00820	COG0226	P	ABC-type phosphate transport system, periplasmic component	PstS			2Q9T
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_00830	COG0665	E	Glycine/D-amino acid oxidase (deaminating)	DadA			3AWI
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_00850	COG1032	R	Radical SAM superfamily enzyme YgiQ, UPF0313 family	YgiQ			6FD2
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_00860	COG1049	C	Aconitase B	AcnB	TCA cycle		1L5J
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_00865	COG2876	E	3-deoxy-D-arabino-heptulosonate 7-phosphate (DAHP) synthase	AroGA	Aromatic amino acid biosynthesis		5J6F
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_00875	COG0568	K	DNA-directed RNA polymerase, sigma subunit (sigma70/sigma32)	RpoD	RNA polymerase		1SIG
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_00885	COG2814	G	Predicted arabinose efflux permease AraJ, MFS family	AraJ			4LDS
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_00900	COG4252	T	Extracytoplasmic sensor domain CHASE2 (specificity unknown)	CHASE2			
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_00910	COG0105	F	Nucleoside diphosphate kinase	Ndk	Pyrimidine biosynthesis		1B4S
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_00920	COG0664	T	cAMP-binding domain of CRP or a regulatory subunit of cAMP-dependent protein kinases	Crp			1FT9
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_00930	COG4252	T	Extracytoplasmic sensor domain CHASE2 (specificity unknown)	CHASE2			
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_00945	COG1061	KL	Superfamily II DNA or RNA helicase	SSL2			6JDE
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_00960	COG0071	O	Small heat shock protein IbpA, HSP20 family	IbpA			1GME
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_00970	COG1914	P	Mn2+ or Fe2+ transporter, NRAMP family	MntH			5KTE
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_00975	COG0426	C	Flavorubredoxin	NorV			4JHC
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_00990	COG3845	F	ABC-type guanosine uptake system NupNOPQ, ATPase component NupO	NupO		21926227	
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_01000	COG2204	T	DNA-binding transcriptional response regulator, NtrC family, contains REC, AAA-type ATPase, and a Fis-type DNA-binding domains	AtoC			1ZY2
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_01005	COG2812	L	DNA polymerase III, gamma/tau subunits	DnaX			1A5T
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_01010	COG0125	F	Thymidylate kinase	Tmk	Thymidylate biosynthesis		3LV8
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_01015	COG2608	P	Copper chaperone CopZ	CopZ			1AFI
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_01020	COG3063	NW	Type IV pilus assembly protein PilF/PilW	PilF		16403447	2VQ2
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_01025	COG2928	S	Uncharacterized membrane protein			19363116	
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_01035	COG2878	C	Na+-translocating ferredoxin:NAD+ oxidoreductase RNF, RnfB subunit	RnfB	Na+-translocating Fd:NADH oxidoreductase	24045950	
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_01040	COG4783	MO	Outer membrane protein chaperone/metalloprotease BepA/YfgC, contains M48 and TPR domains	BepA		24003122	6AIT
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_01045	COG0188	L	DNA gyrase/topoisomerase IV, subunit A	GyrA			1SUU
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_01050	COG0367	E	Asparagine synthetase B (glutamine-hydrolyzing)	AsnB	Asparagine biosynthesis	25951518	2ETD
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_01055	COG0309	O	Carbamoyl dehydratase HypE (hydrogenase maturation factor)	HypE		28618091	2I6R
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_01065	COG0592	L	DNA polymerase III sliding clamp (beta) subunit, PCNA homolog	DnaN			1JQJ
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_01075	COG0031	E	Cysteine synthase	CysK	Cysteine biosynthesis		1FCJ
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_01085	COG3642	J	tRNA A-37 threonylcarbamoyl transferase component Bud32	Bud32	tRNA modification		2VWB
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_01090	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_01095	COG1121	P	ABC-type Mn2+/Zn2+ transport system, ATPase component	ZnuC			
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_01100	COG0412	Q	Dienelactone hydrolase	DLH			4ZV9
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_01105	COG0297	G	Glycogen synthase	GlgA			1RZU
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_01120	COG1429	H	Cobalamin biosynthesis protein CobN, Mg-chelatase	CobN	Cobalamine/B12 biosynthesis		4ZHJ
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_01130	COG1410	E	Methionine synthase I, cobalamin-binding domain	MetH2	Methionine biosynthesis		4DJD
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_01150	COG1028	I	NAD(P)-dependent dehydrogenase, short-chain alcohol dehydrogenase family	FabG	Fatty acid biosynthesis		6L1H
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_01180	COG0572	F	Uridine kinase	Udk	Pyrimidine salvage		5B3F
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_01185	COG0473	CE	Isocitrate/isopropylmalate dehydrogenase	LeuB	TCA cycle		1GC9
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_01190	COG1043	M	Acyl-[acyl carrier protein]--UDP-N-acetylglucosamine O-acyltransferase	LpxA	Lipid A biosynthesis		1J2Z
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_01195	COG0548	E	N-acetylglutamate kinase	ArgB	Arginine biosynthesis		3S6G
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_01200	COG0647	F	Ribonucleotide monophosphatase NagD, HAD superfamily	NagD			1PW5
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_01250	COG3349	R	Uncharacterized protein, contains NAD-binding domain and a Fe-S cluster				5MOG
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_01255	COG0287	E	Prephenate dehydrogenase	TyrA	Aromatic amino acid biosynthesis		2F1K
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_01260	COG1199	L	Rad3-related DNA helicase DinG	DinG			5H8W
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_01275	COG1066	L	DNA repair protein RadA/Sms, contains AAA+ ATPase domain	Sms		30877841	5LKM
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_01295	COG1142	C	Fe-S-cluster-containing hydrogenase component 2	HycB			
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_01305	COG0087	J	Ribosomal protein L3	RplC	Ribosome 50S subunit		1VS6
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_01310	COG0088	J	Ribosomal protein L4	RplD	Ribosome 50S subunit		1VS6
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_01320	COG0090	J	Ribosomal protein L2	RplB	Ribosome 50S subunit		1VS6
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_01325	COG0185	J	Ribosomal protein S19	RpsS	Ribosome 30S subunit		4V4H
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_01340	COG0352	H	Thiamine monophosphate synthase	ThiE	Thiamine biosynthesis	19060138	1G4T
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_01345	COG0196	H	FAD synthase	RibF	Riboflavin/FAD biosynthesis		1MRZ
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_01360	COG0016	J	Phenylalanyl-tRNA synthetase alpha subunit	PheS	Aminoacyl-tRNA synthetases		3L4G
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_01370	COG0061	H	NAD kinase	NadK			1SUW
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_01375	COG3710	K	DNA-binding winged helix-turn-helix (wHTH) domain	CadC1			
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_01380	COG1430	S	Uncharacterized conserved membrane protein, UPF0127 family				3M7A
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_01385	COG2242	H	Precorrin-6B methylase 2	CobL	Cobalamine/B12 biosynthesis		1F38
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_01395	COG0717	F	dCTP deaminase	Dcd	Thymidylate biosynthesis		1XS1
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_01405	COG0689	J	Ribonuclease PH	Rph			1UDO
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_01410	COG2390	K	DNA-binding transcriptional regulator LsrR, DeoR family	DeoR		23974133;24893262	2GNP
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_01415	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_01430	COG0193	J	Peptidyl-tRNA hydrolase	Pth	Translation factors	11835511	1RYB
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_01435	COG1826	U	Twin-arginine protein secretion pathway components TatA and TatB	TatA			2L16
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_01455	COG1452	M	LPS assembly outer membrane protein LptD (organic solvent tolerance protein OstA)	LptD			4N4R
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_01460	COG1357	S	Uncharacterized conserved protein YjbI, contains pentapeptide repeats	YjbI			2BM4
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_01465	COG0066	E	3-isopropylmalate dehydratase small subunit	LeuD	Isoleucine, leucine, valine biosynthesis		3Q3W
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_01470	COG1049	C	Aconitase B	AcnB	TCA cycle		1L5J
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_01475	COG0303	H	Molybdopterin Mo-transferase (molybdopterin biosynthesis)	MoeA	Molybdopterin biosynthesis	18801996;32239579	2NQU
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_01480	COG0472	M	UDP-N-acetylmuramyl pentapeptide phosphotransferase/UDP-N-acetylglucosamine-1-phosphate transferase	Rfe	Mureine biosynthesis		4J72
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_01485	COG0112	E	Glycine/serine hydroxymethyltransferase	GlyA	Serine biosynthesis		1BJ4
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_01510	COG0534	V	Na+-driven multidrug efflux pump, DinF/NorM/MATE family	NorM		29915058	3VVN
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_01515	COG1489	GT	DNA-binding protein, stimulates sugar fermentation	SfsA			4DA2
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_01525	COG1099	R	Predicted metal-dependent hydrolase, TIM-barrel fold				3GUW
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_01530	COG0268	J	Ribosomal protein S20	RpsT	Ribosome 30S subunit		4V4H
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_01535	COG0141	E	Histidinol dehydrogenase	HisD	Histidine biosynthesis		1K75
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_01540	COG1349	KG	DNA-binding transcriptional regulator of sugar metabolism, DeoR/GlpR family	GlpR			
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_01545	COG0793	O	C-terminal processing protease CtpA/Prc, contains a PDZ domain	CtpA			6IQU
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_01560	COG0641	O	Sulfatase maturation enzyme AslB, radical SAM superfamily	AslB			4K37
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_01570	COG0779	J	Ribosome maturation factor RimP	RimP			1IB8
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_01580	COG3404	E	Formiminotetrahydrofolate cyclodeaminase	FtcD			1O5H
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_01595	COG0480	J	Translation elongation factor EF-G, a GTPase	FusA	Translation factors		1DAR
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_01600	COG0532	J	Translation initiation factor IF-2, a GTPase	InfB	Translation factors		5ME0
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_01625	COG2182	G	Maltose-binding periplasmic protein MalE	MalE			1T0K
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_01630	COG2197	TK	DNA-binding response regulator, NarL/FixJ family, contains REC and HTH domains	CitB			1A04
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_01635	COG0173	J	Aspartyl-tRNA synthetase	AspS	Aminoacyl-tRNA synthetases		1C0A
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_01655	COG1262	O	Formylglycine-generating enzyme, required for sulfatase activity, contains SUMF1/FGE domain	YfmG			2AFT
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_01660	COG0515	T	Serine/threonine protein kinase	SPS1			6G4J
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_01680	COG1819	G	UDP:flavonoid glycosyltransferase YjiC, YdhE family	YjiC		23974133	2ACV
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_01690	COG0451	M	Nucleoside-diphosphate-sugar epimerase	WcaG			2X4G
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_01695	COG0025	P	NhaP-type Na+/H+ or K+/H+ antiporter	NhaP			4CZB
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_01705	COG1807	M	PMT family glycosyltransferase ArnT/Agl22, involved in glycosylation of proteins and lipid IVA	ArnT		16226890;31233657;32706435	5EZM
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_01710	COG0484	O	DnaJ-class molecular chaperone with C-terminal Zn finger domain	DnaJ			1BQ0
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_01715	COG1171	E	Threonine deaminase	IlvA	Isoleucine, leucine, valine biosynthesis		3IAU
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_01725	COG0363	G	6-phosphogluconolactonase/Glucosamine-6-phosphate isomerase/deaminase	NagB	Pentose phosphate pathway	24163345	2RI0
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_01735	COG1209	M	dTDP-glucose pyrophosphorylase	RmlA1			1FXO
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_01740	COG0169	E	Shikimate 5-dehydrogenase	AroE	Aromatic amino acid biosynthesis		1NPD
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_01745	COG1494	G	Fructose-1,6-bisphosphatase/sedoheptulose 1,7-bisphosphatase or related protein	GlpX			1NI9
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_01750	COG0036	G	Pentose-5-phosphate-3-epimerase	Rpe	Pentose phosphate pathway		1H1Y
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_01755	COG1204	L	Replicative superfamily II helicase	BRR2			2VA8
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_01775	COG0632	L	Holliday junction resolvasome RuvABC DNA-binding subunit	RuvA			1BDX
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_01785	COG0697	GER	Permease of the drug/metabolite transporter (DMT) superfamily	RhaT			5I20
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_01795	COG0358	L	DNA primase (bacterial type)	DnaG		28128549	3B39
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_01800	COG0530	P	Ca2+/Na+ antiporter	ECM27			3V5S
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_01830	COG0127	F	Inosine/xanthosine triphosphate pyrophosphatase, all-alpha NTP-PPase family	RdgB			1B78
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_01845	COG2710	HP	Nitrogenase Mo-Fe protein NifD/coenzyme F430 biosynthesis subunit CfbD	NifD/CfbD		28225763	1FP4
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_01855	COG1192	DN	ParA-like ATPase involved in chromosome/plasmid partitioning or cellulose biosynthesis protein BcsQ	ParA			6NOO
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_01865	COG1028	I	NAD(P)-dependent dehydrogenase, short-chain alcohol dehydrogenase family	FabG	Fatty acid biosynthesis		6L1H
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_01890	COG0095	H	Lipoate-protein ligase A	LplA	Lipoate biosynthesis		4TVW
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_01925	COG0645	R	Predicted kinase, contains AAA domain				2RHM
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_01930	COG0720	H	6-pyruvoyl-tetrahydropterin synthase	QueD	tRNA modification	14660578;17384645	1B66
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_01950	COG1030	O	Membrane-bound serine protease NfeD, ClpP class	NfeD			2DEO
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_01955	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_01960	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_01970	COG4525	P	ABC-type taurine transport system, ATPase component	TauB			
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_01975	COG4531	P	ABC-type Zn2+ transport system, periplasmic component/surface adhesin ZnuA	ZnuA			2OGW
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_01980	COG1194	L	Adenine-specific DNA glycosylase, acts on AG and A-oxoG pairs	MutY			1KG2
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_02030	COG0702	R	Uncharacterized conserved protein YbjT, contains NAD(P)-binding and DUF2867 domains	YbjT			5L3Z
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_02040	COG1426	D	Cytoskeletal protein RodZ, contains Xre-like HTH and DUF4115 domains	RodZ			3FYM
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_02045	COG0564	J	Pseudouridine synthase RluA, 23S rRNA- or tRNA-specific	RluA	23S rRNA modification		2I82
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_02050	COG2205	T	K+-sensing histidine kinase KdpD	KdpD			2KSF
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_02055	COG0784	T	CheY-like REC (receiver) domain, includes chemotaxis protein CheY  and sporulation regulator Spo0F	CheY			6QRJ
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_02065	COG0683	E	ABC-type branched-chain amino acid transport system, periplasmic component	LivK			1USG
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_02070	COG0689	J	Ribonuclease PH	Rph			1UDO
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_02075	COG0199	J	Ribosomal protein S14	RpsN	Ribosome 30S subunit		4V4H
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_02080	COG0265	O	Periplasmic serine protease, S1-C subfamily, contain C-terminal PDZ domain	DegQ		29686141	2HGA
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_02085	COG0441	J	Threonyl-tRNA synthetase	ThrS	Aminoacyl-tRNA synthetases		1NYQ
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_02090	COG0466	O	ATP-dependent Lon protease, bacterial type	Lon			6ON2
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_02095	COG1399	J	23S rRNA accumulation protein YceD (essential in plants, uncharacterized in bacteria)	YceD		27574185	
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_02125	COG1030	O	Membrane-bound serine protease NfeD, ClpP class	NfeD			2DEO
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_02130	COG0697	GER	Permease of the drug/metabolite transporter (DMT) superfamily	RhaT			5I20
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_02135	COG0438	M	Glycosyltransferase involved in cell wall bisynthesis	RfaB			2IV7
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_02145	COG4701	S	Uncharacterized conserved protein				
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_02150	COG1842	KT	Phage shock protein A	PspA			4WHE
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_02155	COG3118	O	Chaperedoxin CnoX, contains thioredoxin-like and TPR-like domains, YbbN/TrxSC family	CnoX		21498507;29754824	3QDN
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_02160	COG0079	E	Histidinol-phosphate/aromatic aminotransferase or cobyric acid decarboxylase	HisC	Cobalamine/B12 biosynthesis		4R2N
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_02165	COG0340	H	Biotin-(acetyl-CoA carboxylase) ligase	BirA2	Biotin biosynthesis	32188788	1BIA
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_02170	COG4942	D	Septal ring factor EnvC, activator of murein hydrolases AmiA and AmiB	EnvC			
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_02175	COG3706	TK	Two-component response regulator, PleD family, consists of two REC domains and a diguanylate cyclase (GGDEF) domain	PleD			1W25
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_02195	COG0308	E	Aminopeptidase N, contains DUF3458 domain	PepN		24123841	6ATK
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_02210	COG5002	T	Sensor histidine kinase WalK	WalK			4I5S
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_02215	COG2045	H	Phosphosulfolactate phosphohydrolase or related enzyme	ComB			1VR0
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_02220	COG0815	M	Apolipoprotein N-acyltransferase	Lnt			6NWR
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_02225	COG0860	M	N-acetylmuramoyl-L-alanine amidase	AmiC			1JWQ
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_02230	COG1794	M	Amino acid racemase YgeA	RacX			5ELL
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_02235	COG0142	H	Geranylgeranyl pyrophosphate synthase	IspA	Isoprenoid biosynthesis		2AZJ
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_02260	COG0365	I	Acyl-coenzyme A synthetase/AMP-(fatty) acid ligase	Acs		14638756	4B2O
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_02265	COG2942	G	Mannose or cellobiose epimerase, N-acyl-D-glucosamine 2-epimerase family	YihS			2ZBL
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_02270	COG1523	G	Pullulanase/glycogen debranching enzyme	PulA			2WSK
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_02275	COG0659	P	Sulfate permease or related transporter, MFS superfamily	SUL1			3NY7
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_02285	COG5269
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_02290	COG0113	H	Delta-aminolevulinic acid dehydratase, porphobilinogen synthase	HemB	Heme biosynthesis		1I8J
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_02320	COG2951	M	Membrane-bound lytic murein transglycosylase B	MltB			1D0K
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_02330	COG2873	E	O-acetylhomoserine/O-acetylserine sulfhydrylase, pyridoxal phosphate-dependent	MET17	Methionine biosynthesis		2CTZ
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_02345	COG3180	R	Uncharacterized membrane protein AbrB, regulator of aidB expression	AbrB			
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_02375	COG0451	M	Nucleoside-diphosphate-sugar epimerase	WcaG			2X4G
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_02385	COG0473	CE	Isocitrate/isopropylmalate dehydrogenase	LeuB	TCA cycle		1GC9
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_02390	COG1038	C	Pyruvate carboxylase	PycA	Urea cycle		5VYW
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_02395	COG0231	J	Translation elongation factor P (EF-P)/translation initiation factor 5A (eIF-5A)	Efp	Translation factors		1UEB
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_02410	COG0057	G	Glyceraldehyde-3-phosphate dehydrogenase/erythrose-4-phosphate dehydrogenase	GapA	Glycolysis		3ZDF
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_02415	COG0769	M	UDP-N-acetylmuramyl tripeptide synthase	MurE	Mureine biosynthesis		1E8C
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_02420	COG0812	M	UDP-N-acetylenolpyruvoylglucosamine reductase	MurB	Mureine biosynthesis		2MBR
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_02430	COG0194	F	Guanylate kinase	Gmk			1EX6
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_02440	COG2214	K	Curved DNA-binding protein CbpA, contains a DnaJ-like domain	CbpA			
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_02445	COG0576	O	Molecular chaperone GrpE (heat shock protein HSP-70)	GrpE			1DKG
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_02450	COG0630	NU	Type IV secretory pathway ATPase VirB11/Archaellum biosynthesis ATPase ArlI/FlaI	VirB11		32416640	1G6O
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_02455	COG0630	NU	Type IV secretory pathway ATPase VirB11/Archaellum biosynthesis ATPase ArlI/FlaI	VirB11		32416640	1G6O
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_02460	COG1459	NUW	Type II secretory pathway, component PulF	PulF			2VMA
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_02465	COG2081	R	Predicted flavoprotein YhiN	YhiN			3V76
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_02475	COG0229	O	Peptide methionine sulfoxide reductase MsrB	MsrB			1L1D
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_02480	COG0042	J	tRNA-dihydrouridine synthase	DusA	tRNA modification		1VHN
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_02510	COG1226	P	Voltage-gated potassium channel Kch	Kch			3FWZ
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_02525	COG0836	M	Mannose-1-phosphate guanylyltransferase	CpsB			2QH5
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_02530	COG0367	E	Asparagine synthetase B (glutamine-hydrolyzing)	AsnB	Asparagine biosynthesis	25951518	2ETD
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_02535	COG1143	C	Formate hydrogenlyase subunit 6/NADH:ubiquinone oxidoreductase 23 kD subunit (chain I)	NuoI	NADH dehydrogenase		1B0P
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_02540	COG0236	I	Acyl carrier protein	AcpP	Fatty acid biosynthesis		1ACP
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_02545	COG0304	IQ	3-oxoacyl-(acyl-carrier-protein) synthase	FabB	Fatty acid biosynthesis	21652641	2UV8
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_02550	COG0719	O	Fe-S cluster assembly scaffold protein SufB	SufB			1VH4
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_02555	COG0411	E	ABC-type branched-chain amino acid transport system, ATPase component LivG	LivG		29514851	1G9X
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_02560	COG0719	O	Fe-S cluster assembly scaffold protein SufB	SufB			1VH4
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_02565	COG3844	E	Kynureninase	Bna5			
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_02570	COG3458	Q	Cephalosporin-C deacetylase or related acetyl esterase	Axe1			1L7A
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_02575	COG0242	J	Peptide deformylase	Def			1BS4
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_02615	COG0530	P	Ca2+/Na+ antiporter	ECM27			3V5S
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_02625	COG0418	F	Dihydroorotase	PyrC	Pyrimidine biosynthesis		2Y3D
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_02655	COG0134	E	Indole-3-glycerol phosphate synthase	TrpC	Aromatic amino acid biosynthesis		6BMA
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_02675	COG4576	QC	Carboxysome shell and ethanolamine utilization microcompartment protein CcmK/EutM	CcmL			2HD3
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_02680	COG3431	S	Uncharacterized membrane protein, DUF373 family				
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_02710	COG5549	O	Predicted Zn-dependent protease				
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_02725	COG0450	V	Alkyl hydroperoxide reductase subunit AhpC (peroxiredoxin)	AhpC			2RII
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_02740	COG0446	I	NADPH-dependent 2,4-dienoyl-CoA reductase, sulfur reductase, or a related oxidoreductase	FadH2			1VRQ
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_02745	COG0218	D	GTP-binding protein EngB required for normal cell division	EngB			5UCV
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_02755	COG0471	G	Di- and tricarboxylate antiporter	CitT			4F35
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_02760	COG0168	P	Trk-type K+ transport system, membrane component	TrkG			3PJZ
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_02775	COG0119	E	Isopropylmalate/homocitrate/citramalate synthases	LeuA	Isoleucine, leucine, valine biosynthesis		4JN6
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_02780	COG3833	G	ABC-type maltose transport system, permease component MalG	MalG			2R6G
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_02785	COG0395	G	ABC-type glycerol-3-phosphate transport system, permease component	UgpE			1VR4
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_02820	COG1187	J	Pseudouridylate synthase RsuA, specific for 16S rRNA U516  and 23S rRNA U2605	RsuA	16S rRNA modification		1KSK
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_02825	COG2206	T	HD-GYP domain, c-di-GMP phosphodiesterase class II (or its inactivated variant)	HDGYP		23475961	5Z7C
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_02830	COG0190	H	5,10-methylene-tetrahydrofolate dehydrogenase/Methenyl tetrahydrofolate cyclohydrolase	FolD			1A4I
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_02845	COG0650	C	Formate hydrogenlyase subunit HyfC	HyfC			6CFW
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_02850	COG0372	C	Citrate synthase	GltA	TCA cycle	25211225	3TQG
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_02855	COG2062	T	Phosphohistidine phosphatase SixA	SixA			1UJB
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_02865	COG0607	P	Rhodanese-related sulfurtransferase	PspE	Urea cycle		1TQ1
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_02875	COG0133	E	Tryptophan synthase beta chain	TrpB	Aromatic amino acid biosynthesis		2DH5
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_02880	COG2367	V	Beta-lactamase class A	PenP			6W34
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_02890	COG0645	R	Predicted kinase, contains AAA domain				2RHM
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_02905	COG0363	G	6-phosphogluconolactonase/Glucosamine-6-phosphate isomerase/deaminase	NagB	Pentose phosphate pathway	24163345	2RI0
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_02920	COG3245	C	Cytochrome c5	CytC5			1CC5
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_02930	COG0633	C	Ferredoxin	Fdx			1KRH
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_02935	COG2263	R	Predicted RNA methylase				6H2U
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_02940	COG0111	H	Phosphoglycerate dehydrogenase or related dehydrogenase	SerA	Serine biosynthesis		3OET
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_02945	COG2099	H	Precorrin-6x reductase	CobK	Cobalamine/B12 biosynthesis		4X7G
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_02950	COG1324	P	Divalent cation tolerance protein CutA	CutA1			1NAQ
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_02955	COG1105	G	1-phosphofructokinase or 6-phosphofructokinase II	FruK			2ABQ
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_02960	COG0104	F	Adenylosuccinate synthase	PurA	Purine biosynthesis		1ADE
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_02970	COG0441	J	Threonyl-tRNA synthetase	ThrS	Aminoacyl-tRNA synthetases		1NYQ
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_02985	COG0633	C	Ferredoxin	Fdx			1KRH
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_03000	COG0681	U	Signal peptidase I	LepB		1925027	1B12
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_03010	COG2197	TK	DNA-binding response regulator, NarL/FixJ family, contains REC and HTH domains	CitB			1A04
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_03015	COG0685	E	5,10-methylenetetrahydrofolate reductase	MetF			1B5T
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_03020	COG4750	MI	CTP:phosphocholine cytidylyltransferase LicC	LicC			1JYK
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_03035	COG1008	C	NADH:ubiquinone oxidoreductase subunit 4 (chain M)	NuoM	NADH dehydrogenase		6HUM
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_03040	COG1009	C	Membrane H+-translocase/NADH:ubiquinone oxidoreductase subunit 5 (chain L)/Multisubunit Na+/H+ antiporter, MnhA subunit	NuoL	NADH dehydrogenase		3RKO
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_03050	COG2005	K	DNA-binding transcriptional regulator ModE (molybdenum-dependent)	ModE		19779461	1B9M
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_03065	COG1232	H	Protoporphyrinogen oxidase HemY/PPOX	HemY	Heme biosynthesis		3LOV
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_03070	COG1562	I	Phytoene/squalene synthetase	ERG9			3WEK
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_03075	COG0724	J	RNA recognition motif (RRM) domain	RRM			1HL6
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_03095	COG2121	S	Uncharacterized conserved protein, lysophospholipid acyltransferase (LPLAT) superfamily				
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_03100	COG0331	I	Malonyl CoA-acyl carrier protein transacylase	FabD	Fatty acid biosynthesis		1YXC
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_03105	COG3424	Q	Predicted naringenin-chalcone synthase	BH0617			1BI5
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_03110	COG0416	I	Acyl-ACP:phosphate acyltransferase (fatty acid/phospholipid biosynthesis)	PlsX		18992246	2GK3
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_03115	COG2197	TK	DNA-binding response regulator, NarL/FixJ family, contains REC and HTH domains	CitB			1A04
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_03120	COG3598	L	RecA-family ATPase	RepA			
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_03130	COG5505	S	Uncharacterized membrane protein YjcL				
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_03145	COG0679	R	Predicted permease, AEC (auxin efflux carrier) family	YfdV			
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_03175	COG4604	P	ABC-type enterochelin transport system, ATPase component	CeuD			
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_03180	COG4215	E	ABC-type arginine transport system, permease component	ArtQ			
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_03185	COG4160	E	ABC-type arginine/histidine transport system, permease component	ArtM			
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_03190	COG3221	P	ABC-type phosphate/phosphonate transport system, periplasmic component	PhnD			3S4U
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_03200	COG0659	P	Sulfate permease or related transporter, MFS superfamily	SUL1			3NY7
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_03215	COG2931	Q	Ca2+-binding protein, RTX toxin-related			15135544	1AF0
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_03220	COG1206	J	Folate-dependent tRNA-U54 methylase TrmFO/GidA	TrmFO	tRNA modification	16027442	
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_03230	COG3161	H	4-hydroxybenzoate synthetase (chorismate-pyruvate lyase)	UbiC	Ubiquinone biosynthesis		1FW9
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_03265	COG0272	L	NAD-dependent DNA ligase	Lig			5TT5
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_03290	COG1249	C	Dihydrolipoamide dehydrogenase (E3) component of pyruvate/2-oxoglutarate dehydrogenase complex or glutathione oxidoreductase	Lpd	Glycine cleavagePyruvate oxidation		6QKG
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_03300	COG1061	KL	Superfamily II DNA or RNA helicase	SSL2			6JDE
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_03315	COG0686	E	Alanine dehydrogenase (includes sporulation protein SpoVN)	Ald	Urea cycle		2EEZ
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_03320	COG3288	C	NAD/NADP transhydrogenase alpha subunit	PntA			1F8G
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_03330	COG0596	HR	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold	MenH	Menaquinone biosynthesis		4MYS
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_03335	COG0743	I	1-deoxy-D-xylulose 5-phosphate reductoisomerase	Dxr	Isoprenoid biosynthesis		1JVS
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_03355	COG0215	J	Cysteinyl-tRNA synthetase	CysS	Aminoacyl-tRNA synthetases		1LI5
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_03375	COG1040	R	DNA utilization protein ComFC/GntX, contains phosphoribosyltransferase domain	ComFC		28618091	
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_03380	COG0748	P	Putative heme iron utilization protein, contains PNPOx domain	HugZ			1VL7
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_03395	COG0192	H	S-adenosylmethionine synthetase	MetK	Methionine biosynthesis		1FUG
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_03400	COG1011	H	FMN and 5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YigB, HAD superfamily (riboflavin biosynthesis)	YigB		24123841	4JB3
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_03405	COG0539	J	Ribosomal protein S1	RpsA	Ribosome 30S subunit		4NNH
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_03425	COG0633	C	Ferredoxin	Fdx			1KRH
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_03435	COG0555	P	ABC-type sulfate transport system, permease component	CysU			3D31
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_03450	COG1641	H	CTP-dependent cyclometallase, nickel-pincer nucleotide (NPN) cofactor biosynthesis	LarC		29887527	3C19
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_03475	COG3568	R	Metal-dependent hydrolase, endonuclease/exonuclease/phosphatase family	ElsH		15178340	
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_03480	COG0001	H	Glutamate-1-semialdehyde aminotransferase	HemL	Heme biosynthesis		2CFB
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_03490	COG3613	F	Nucleoside 2-deoxyribosyltransferase	RCL			1F8X
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_03495	COG2236	H	Hypoxanthine phosphoribosyltransferase	Hpt1	Purine salvage		2JKZ
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_03505	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_03515	COG0148	G	Enolase	Eno	Glycolysis		1E9I
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_03520	COG0346	Q	Catechol 2,3-dioxygenase or related enzyme, vicinal oxygen chelate (VOC) family	GloA		11830595	3R4Q
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_03525	COG0542	O	ATP-dependent Clp protease, ATP-binding subunit ClpA	ClpA			1KSF
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_03530	COG0690	U	Preprotein translocase subunit SecE	SecE		29684280	5MG3
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_03540	COG0080	J	Ribosomal protein L11	RplK	Ribosome 50S subunit		2E34
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_03545	COG0081	J	Ribosomal protein L1	RplA	Ribosome 50S subunit		3J65
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_03550	COG0244	J	Ribosomal protein L10	RplJ	Ribosome 50S subunit		5IT8
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_03555	COG0222	J	Ribosomal protein L7/L12	RplL	Ribosome 50S subunit		1CTF
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_03570	COG0328	L	Ribonuclease HI	RnhA			1LAW
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_03575	COG0167	F	Dihydroorotate dehydrogenase	PyrD	Pyrimidine biosynthesis		1GT8
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_03595	COG2127	O	ATP-dependent Clp protease adapter protein ClpS	ClpS			1LZW
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_03600	COG0079	E	Histidinol-phosphate/aromatic aminotransferase or cobyric acid decarboxylase	HisC	Cobalamine/B12 biosynthesis		4R2N
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_03605	COG5011	S	Uncharacterized conserved protein, DUF2344 family				
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_03610	COG1530	J	Ribonuclease G or E	CafA			1SLJ
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_03615	COG1039	L	Ribonuclease HIII	RnhC			2D0A
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_03630	COG2226	H	Ubiquinone/menaquinone biosynthesis C-methylase UbiE/MenG	UbiE	Biotin biosynthesis		4OBW
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_03635	COG0466	O	ATP-dependent Lon protease, bacterial type	Lon			6ON2
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_03640	COG0051	J	Ribosomal protein S10	RpsJ	Ribosome 30S subunit		4V4H
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_03645	COG5258	R	GTPase	GTPBP1			
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_03660	COG0188	L	DNA gyrase/topoisomerase IV, subunit A	GyrA			1SUU
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_03665	COG3115	D	Cell division protein ZipA, interacts with FtsZ	ZipA			1F46
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_03670	COG0516	F	IMP dehydrogenase/GMP reductase	GuaB	Purine biosynthesis		1B3O
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_03680	COG0526	O	Thiol-disulfide isomerase or thioredoxin	TrxA			1XFL
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_03685	COG0518	F	GMP synthase, glutamine amidotransferase domain	GuaA1	Purine biosynthesis		4WIM
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_03690	COG2521	R	Predicted archaeal methyltransferase				
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_03695	COG2010	C	Cytochrome c, mono- and diheme variants	CccA			1A2S
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_03700	COG0219	J	tRNA(Leu) C34 or U34 (ribose-2'-O)-methylase TrmL, contains SPOUT domain	TrmL	tRNA modification		4JAK
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_03715	COG1067	O	Predicted ATP-dependent protease	LonB			3K1J
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_03730	COG4123	J	tRNA1(Val) A37 N6-methylase TrmN6	TrmN6	tRNA modification		
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_03740	COG4575	J	Membrane-anchored ribosome-binding protein ElaB, inhibits growth in stationary phase, YqjD/DUF883 family	ElaB			
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_03750	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_03755	COG3881	S	Uncharacterized conserved protein YrrD, contains PRC-barrel domain	YrrD			
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_03765	COG0788	F	Formyltetrahydrofolate hydrolase	PurU	Purine biosynthesis		3O1L
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_03770	COG0136	E	Aspartate-semialdehyde dehydrogenase	Asd	Lysine biosynthesis		1BRM
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_03775	COG0807	H	GTP cyclohydrolase II	RibA	Riboflavin/FAD biosynthesis		2BZ0
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_03780	COG0652	O	Peptidyl-prolyl cis-trans isomerase (rotamase) - cyclophilin family	PpiB			4DGD
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_03785	COG0005	F	Purine nucleoside phosphorylase	XapA	Purine salvage		1YQQ
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_03790	COG0449	M	Glucosamine 6-phosphate synthetase, contains amidotransferase and phosphosugar isomerase domains	GlmS			2J6H
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_03800	COG2214	K	Curved DNA-binding protein CbpA, contains a DnaJ-like domain	CbpA			
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_03830	COG1032	R	Radical SAM superfamily enzyme YgiQ, UPF0313 family	YgiQ			6FD2
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_03845	COG1032	R	Radical SAM superfamily enzyme YgiQ, UPF0313 family	YgiQ			6FD2
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_03865	COG0343	J	Queuine/archaeosine tRNA-ribosyltransferase	Tgt	tRNA modification	15805528	1XW8
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_03885	COG0673	R	Predicted dehydrogenase	MviM			3UUW
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_03890	COG1253	R	Hemolysin-related protein, contains CBS domains, UPF0053 family	TlyC			2NQW
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_03910	COG0354	O	Folate-binding protein YgfZ, synthesis and repair of Fe-S clusters	YgfZ		27941785;22081392	1NRK
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_03920	COG1109	G	Phosphomannomutase	ManB			6MNV
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_03925	COG0127	F	Inosine/xanthosine triphosphate pyrophosphatase, all-alpha NTP-PPase family	RdgB			1B78
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_03940	COG1233	Q	Phytoene dehydrogenase-related protein				4REP
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_03965	COG3769	G	Mannosyl-3-phosphoglycerate phosphatase YedP/MpgP, HAD superfamily	YedP		25848029	1XVI
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_03970	COG3769	G	Mannosyl-3-phosphoglycerate phosphatase YedP/MpgP, HAD superfamily	YedP		25848029	1XVI
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_03975	COG0366	G	Glycosidase/amylase (phosphorylase)	AmyA		29684280	2P67
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_04005	COG0815	M	Apolipoprotein N-acyltransferase	Lnt			6NWR
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_04010	COG2826	X	Transposase and inactivated derivatives, IS30 family	Tra8			
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_04015	COG4161	E	ABC-type arginine transport system, ATPase component	ArtP			
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_04020	COG4598	E	ABC-type histidine transport system, ATPase component	HisP			1B0U
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_04030	COG0845	MV	Multidrug efflux pump subunit AcrA (membrane-fusion protein)	AcrA			1T5E
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_04040	COG1025	O	Secreted/periplasmic Zn-dependent peptidases, insulinase-like	Ptr			1Q2L
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_04045	COG0612	R	Predicted Zn-dependent peptidase, M16 family	PqqL			6OFS
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_04055	COG1268	H	Biotin transporter BioY	BioY			4DVE
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_04065	COG1716	T	Forkhead associated (FHA) domain, binds pSer, pThr, pTyr	FHA			2FEZ
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_04070	COG1100	R	GTPase SAR1 family domain	Gem1			4C0J
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_04075	COG1104	E	Cysteine desulfurase/Cysteine sulfinate desulfinase IscS or related enzyme, NifS family	NifS		22773787;25825430	4IXO
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_04080	COG0117	H	Riboflavin biosynthesis protein RibD, pyrimidine deaminase domain	RibD1	Riboflavin/FAD biosynthesis		2O7P
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_04090	COG0027	F	Formate-dependent phosphoribosylglycinamide formyltransferase (GAR transformylase)	PurT	Purine biosynthesis		1KJ8
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_04095	COG4209	G	ABC-type polysaccharide transport system, permease component	LplB			4TQU
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_04100	COG0337	E	3-dehydroquinate synthetase	AroB	Aromatic amino acid biosynthesis		3ZOK
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_04110	COG1512	S	Uncharacterized membrane protein YgcG, contains a TPM-fold domain	YgcG			2KW7
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_04115	COG4678	MX	Muramidase (phage lambda lysozyme)				
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_04130	COG3280	G	Maltooligosyltrehalose synthase	TreY			
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_04135	COG1069	G	Ribulose kinase	AraB			3QDK
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_04140	COG0665	E	Glycine/D-amino acid oxidase (deaminating)	DadA			3AWI
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_04145	COG0296	G	1,4-alpha-glucan branching enzyme	GlgB		25871919	4LPC
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_04150	COG1012	I	Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase	AdhE	Proline degradation		1A4S
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_04155	COG1388	M	LysM repeat	LysM			1E0G
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_04165	COG1201	L	Lhr-like helicase	Lhr			5V9X
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_04180	COG0266	L	Formamidopyrimidine-DNA glycosylase	Nei			1EE8
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_04190	COG3347	G	Rhamnose utilisation protein RhaD, predicted bifunctional aldolase and dehydrogenase	RhaD			3M4R
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_04210	COG0260	E	Leucyl aminopeptidase	PepB		19553197;23825549	3H8E
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_04235	COG2771	K	DNA-binding transcriptional regulator, CsgD family	CsgD			
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_04245	COG0180	J	Tryptophanyl-tRNA synthetase	TrpS	Aminoacyl-tRNA synthetases		3N9I
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_04270	COG3842	E	ABC-type Fe3+/spermidine/putrescine transport systems, ATPase component	PotA			1Z47
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_04280	COG0626	E	Cystathionine beta-lyase/cystathionine gamma-synthase	MetC	Methionine biosynthesis		1CL1
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_04295	COG0821	I	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase IspG/GcpE	IspG	Isoprenoid biosynthesis		2Y0F
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_04300	COG0265	O	Periplasmic serine protease, S1-C subfamily, contain C-terminal PDZ domain	DegQ		29686141	2HGA
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_04310	COG1197	LK	Transcription-repair coupling factor (superfamily II helicase)	Mfd			2EYQ
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_04330	COG0149	G	Triosephosphate isomerase	TpiA	Glycolysis		1HG3
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_04335	COG1189	J	Predicted rRNA methylase YqxC, contains S4 and FtsJ domains	YqxC			3OPN
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_04340	COG4598	E	ABC-type histidine transport system, ATPase component	HisP			1B0U
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_04360	COG1038	C	Pyruvate carboxylase	PycA	Urea cycle		5VYW
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_04370	COG0799	J	Ribosomal silencing factor RsfS, regulates association of 30S and 50S subunits	RsfS			6SJ6
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_04390	COG4232	O	Thiol:disulfide interchange protein DsbD	DsbD			1JPE
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_04400	COG4623	MT	Membrane-bound lytic murein transglycosylase MltF	MltF			4OWD
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_04410	COG1109	G	Phosphomannomutase	ManB			6MNV
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_04415	COG2971	G	BadF-type ATPase, related to human N-acetylglucosamine kinase	BadF		17954692;12761179;12761179	
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_04430	COG0220	J	tRNA G46 N7-methylase TrmB	TrmB	tRNA modification	19373903;16600901	1YZH
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_04450	COG0060	J	Isoleucyl-tRNA synthetase	IleS	Aminoacyl-tRNA synthetases		1FFY
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_04465	COG3239	I	Fatty acid desaturase	DesA			
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_04470	COG0721	J	Asp-tRNAAsn/Glu-tRNAGln amidotransferase C subunit	GatC	Aminoacyl-tRNA synthetases		3H0L
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_04475	COG1402	H	Creatinine amidohydrolase/Fe(II)-dependent FAPy formamide hydrolase (riboflavin and F420 biosynthesis)	ArfB	Riboflavin/FAD biosynthesis		1J2T
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_04485	COG1186	J	Protein chain release factor PrfB	PrfB	Translation factors		1GQE
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_04490	COG0254	J	Ribosomal protein L31	RpmE	Ribosome 50S subunit		1VS6
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_04495	COG0103	J	Ribosomal protein S9	RpsI	Ribosome 30S subunit		4V4H
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_04500	COG0102	J	Ribosomal protein L13	RplM	Ribosome 50S subunit		1VS6
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_04505	COG0101	J	tRNA U38,U39,U40 pseudouridine synthase TruA	TruA	tRNA modification		1DJ0
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_04510	COG0203	J	Ribosomal protein L17	RplQ	Ribosome 50S subunit		1GD8
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_04515	COG0202	K	DNA-directed RNA polymerase, alpha subunit/40 kD subunit	RpoA	RNA polymerase		4KN7
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_04520	COG0100	J	Ribosomal protein S11	RpsK	Ribosome 30S subunit		4V4H
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_04530	COG0257	J	Ribosomal protein L36	RpmJ	Ribosome 50S subunit	21627333	1DFE
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_04540	COG0201	U	Preprotein translocase subunit SecY	SecY			1RH5
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_04545	COG1727	J	Ribosomal protein L18E	RPL18A	Archaeal ribosomal proteins		
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_04550	COG0098	J	Ribosomal protein S5	RpsE	Ribosome 30S subunit		4V4H
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_04560	COG0097	J	Ribosomal protein L6P/L9E	RplF	Ribosome 50S subunit		1VS6
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_04565	COG0096	J	Ribosomal protein S8	RpsH	Ribosome 30S subunit		4V4H
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_04570	COG0094	J	Ribosomal protein L5	RplE	Ribosome 50S subunit		1VS6
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_04575	COG0198	J	Ribosomal protein L24	RplX	Ribosome 50S subunit		1VS6
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_04580	COG0093	J	Ribosomal protein L14	RplN	Ribosome 50S subunit		4V4H
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_04585	COG0186	J	Ribosomal protein S17	RpsQ	Ribosome 30S subunit		4V4H
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_04590	COG0255	J	Ribosomal protein L29	RpmC	Ribosome 50S subunit		1VS6
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_04595	COG0197	J	Ribosomal protein L16/L10AE	RplP	Ribosome 50S subunit		1WKI
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_04605	COG2988	E	Succinylglutamate desuccinylase	AstE			1YW4
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_04615	COG5413	S	Uncharacterized integral membrane protein				
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_04620	COG3839	G	ABC-type sugar transport system, ATPase component MalK	MalK			2ONK
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_04635	COG0012	J	Ribosome-binding ATPase YchF, GTP1/OBG family	GTP1		21527254	2DWQ
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_04640	COG1129	G	ABC-type sugar transport system, ATPase component	MglA			
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_04645	COG1193	L	dsDNA-specific endonuclease/ATPase MutS2	MutS2			
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_04660	COG0528	F	Uridylate kinase	PyrH	Pyrimidine biosynthesis		2BND
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_04675	COG0595	J	mRNA degradation ribonuclease J1/J2	RnjA			3T3N
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_04680	COG0329	EM	4-hydroxy-tetrahydrodipicolinate synthase/N-acetylneuraminate lyase	DapA	Lysine biosynthesis	27574185	2R91
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_04685	COG0002	E	N-acetyl-gamma-glutamylphosphate reductase	ArgC	Arginine biosynthesis		3DR3
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_04690	COG0545	O	FKBP-type peptidyl-prolyl cis-trans isomerase	FkpA			1A7X
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_04695	COG0616	O	Periplasmic serine protease, ClpP class	SppA			3BEZ
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_04700	COG0542	O	ATP-dependent Clp protease, ATP-binding subunit ClpA	ClpA			1KSF
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_04715	COG0137	E	Argininosuccinate synthase	ArgG	Arginine biosynthesis		1J1Z
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_04730	COG0472	M	UDP-N-acetylmuramyl pentapeptide phosphotransferase/UDP-N-acetylglucosamine-1-phosphate transferase	Rfe	Mureine biosynthesis		4J72
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_04750	COG0439	I	Biotin carboxylase	AccC	Fatty acid biosynthesis		1BNC
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_04800	COG0113	H	Delta-aminolevulinic acid dehydratase, porphobilinogen synthase	HemB	Heme biosynthesis		1I8J
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_04805	COG0346	Q	Catechol 2,3-dioxygenase or related enzyme, vicinal oxygen chelate (VOC) family	GloA		11830595	3R4Q
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_04810	COG1193	L	dsDNA-specific endonuclease/ATPase MutS2	MutS2			
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_04820	COG0086	K	DNA-directed RNA polymerase, beta' subunit/160 kD subunit	RpoC	RNA polymerase		1NT9
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_04825	COG0086	K	DNA-directed RNA polymerase, beta' subunit/160 kD subunit	RpoC	RNA polymerase		1NT9
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_04835	COG1032	R	Radical SAM superfamily enzyme YgiQ, UPF0313 family	YgiQ			6FD2
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_04850	COG4147	C	Na+(or H+)/acetate symporter ActP	ActP			
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_04855	COG1413	R	HEAT repeat	HEAT			1OYZ
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_04870	COG0667	HR	Pyridoxal reductase PdxI or related oxidoreductase, aldo/keto reductase family	PdxI		32253339	1LQA
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_04875	COG0357	J	16S rRNA G527 N7-methylase RsmG (former glucose-inhibited division protein B)	RsmG	16S rRNA modification	15375115;22031445	1XDZ
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_04880	COG2214	K	Curved DNA-binding protein CbpA, contains a DnaJ-like domain	CbpA			
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_04905	COG4106	C	Trans-aconitate methyltransferase	Tam			2P35
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_04915	COG0112	E	Glycine/serine hydroxymethyltransferase	GlyA	Serine biosynthesis		1BJ4
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_04920	COG0798	P	Arsenite efflux pump ArsB, ACR3 family	ACR3			
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_04935	COG1201	L	Lhr-like helicase	Lhr			5V9X
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_04945	COG2099	H	Precorrin-6x reductase	CobK	Cobalamine/B12 biosynthesis		4X7G
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_04950	COG0629	L	Single-stranded DNA-binding protein	Ssb			1EQQ
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_04965	COG0548	E	N-acetylglutamate kinase	ArgB	Arginine biosynthesis		3S6G
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_04975	COG1198	L	Primosomal protein N' (replication factor Y) - superfamily II helicase	PriA			6DCR
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_04985	COG2038	H	NaMN:DMB phosphoribosyltransferase	CobT	Cobalamine/B12 biosynthesis		1D0S
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_04995	COG0656	Q	Aldo/keto reductase, related to diketogulonate reductase	ARA1			1Q13
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_05000	COG1259	R	Bifunctional DNase/RNase			20018603	1SJ5
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_05005	COG0307	H	Riboflavin synthase alpha chain	RibC	Riboflavin/FAD biosynthesis		1I8D
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_05015	COG1845	C	Heme/copper-type cytochrome/quinol oxidase, subunit 3	CyoC			1QLE
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_05020	COG0843	C	Heme/copper-type cytochrome/quinol oxidase, subunit 1	CyoB			1AR1
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_05025	COG4263	P	Nitrous oxide reductase	NosZ			1FWX
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_05030	COG1612	H	Heme A synthase	CtaA			6A2J
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_05045	COG0517	T	CBS domain	CBS			1B3O
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_05070	COG5473	S	Uncharacterized membrane protein				
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_05075	COG0076	E	Glutamate or tyrosine decarboxylase or a related PLP-dependent protein	GadA	Pantothenate/CoA biosynthesis		1XEY
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_05085	COG4753	TK	Two-component response regulator, YesN/AraC family, consists of REC and AraC-type DNA-binding domains	YesN			
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_05090	COG0564	J	Pseudouridine synthase RluA, 23S rRNA- or tRNA-specific	RluA	23S rRNA modification		2I82
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_05100	COG0507	L	ATPase/5-3 helicase helicase subunit RecD of the DNA repair enzyme RecBCD (exonuclease V)	RecD		29901759;30601118	1W36
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_05110	COG0210	L	Superfamily I DNA or RNA helicase	UvrD			6PPR
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_05140	COG0673	R	Predicted dehydrogenase	MviM			3UUW
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_05150	COG4533	K	DNA-binding transcriptional regulator SgrR of sgrS sRNA, contains a MarR-type HTH domain and a periplasmic-type solute-binding domain	SgrR			
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_05155	COG4239	Q	ABC-type microcin C transport system, permease component YejE	YejE			
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_05160	COG4188	R	Predicted dienelactone hydrolase				
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_05195	COG1212	M	CMP-2-keto-3-deoxyoctulosonic acid synthetase	KdsB	Lipid A biosynthesis		1VH1
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_05200	COG3563	M	Capsule polysaccharide export protein KpsC/LpsZ	KpsC			5FA0
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_05220	COG3463	S	Uncharacterized membrane protein				
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_05225	COG1807	M	PMT family glycosyltransferase ArnT/Agl22, involved in glycosylation of proteins and lipid IVA	ArnT		16226890;31233657;32706435	5EZM
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_05235	COG3463	S	Uncharacterized membrane protein				
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_05245	COG3769	G	Mannosyl-3-phosphoglycerate phosphatase YedP/MpgP, HAD superfamily	YedP		25848029	1XVI
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_05260	COG0147	EH	Anthranilate/para-aminobenzoate synthases component I	TrpE	Aromatic amino acid biosynthesis		1I1Q
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_05265	COG0603	J	7-cyano-7-deazaguanine synthase (queuosine biosynthesis)	QueC	tRNA modification	14660578;17384645	2PG3
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_05270	COG2085	R	Predicted dinucleotide-binding enzyme				2VNS
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_05275	COG2185	I	Methylmalonyl-CoA mutase, C-terminal domain/subunit (cobalamin-binding)	Sbm			1B1A
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_05280	COG1180	O	Pyruvate-formate lyase-activating enzyme	PflA			3CAN
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_05285	COG0504	F	CTP synthase (UTP-ammonia lyase)	PyrG	Pyrimidine biosynthesis		1S1M
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_05290	COG0783	PV	DNA-binding ferritin-like protein (oxidative damage protectant)	Dps			1DPS
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_05295	COG0568	K	DNA-directed RNA polymerase, sigma subunit (sigma70/sigma32)	RpoD	RNA polymerase		1SIG
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_05300	COG0017	J	Aspartyl/asparaginyl-tRNA synthetase	AsnS	Aminoacyl-tRNA synthetases		3KFU
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_05330	COG2259	S	Uncharacterized membrane protein YphA, DoxX/SURF4 family	DoxX			
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_05375	COG0828	J	Ribosomal protein S21	RpsU	Ribosome 30S subunit		4V4H
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_05385	COG0451	M	Nucleoside-diphosphate-sugar epimerase	WcaG			2X4G
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_05410	COG3011	R	Predicted thiol-disulfide oxidoreductase YuxK, DCC family	YuxK		15236740	
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_05450	COG0470	L	DNA polymerase III, delta prime subunit	HolB			1A5T
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_05470	COG0602	H	Organic radical activating enzyme NrdG/QueE	QueE	tRNA modification	14660578;17384645	
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_05475	COG0603	J	7-cyano-7-deazaguanine synthase (queuosine biosynthesis)	QueC	tRNA modification	14660578;17384645	2PG3
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_05545	COG0762	O	Cytochrome b6 maturation protein CCB3/Ycf19 and related maturases, YggT family	Ycf19			
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_05555	COG0031	E	Cysteine synthase	CysK	Cysteine biosynthesis		1FCJ
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_05560	COG1154	HI	Deoxyxylulose-5-phosphate synthase	Dxs	Pyridoxal phosphate biosynthesis		2O1S
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_05595	COG4133	O	ABC-type transport system involved in cytochrome c biogenesis, ATPase component	CcmA			
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_05600	COG1178	P	ABC-type Fe3+ transport system, permease component	FbpB			
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_05605	COG1178	P	ABC-type Fe3+ transport system, permease component	FbpB			
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_05610	COG2182	G	Maltose-binding periplasmic protein MalE	MalE			1T0K
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_05615	COG0438	M	Glycosyltransferase involved in cell wall bisynthesis	RfaB			2IV7
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_05620	COG1225	O	Peroxiredoxin	Bcp			5IPH
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_05625	COG0227	J	Ribosomal protein L28	RpmB	Ribosome 50S subunit		2JZ6
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_05635	COG1146	F	NAD-dependent dihydropyrimidine dehydrogenase, PreA subunit	PreA			
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_05645	COG0483	G	Archaeal fructose-1,6-bisphosphatase or related enzyme, inositol monophosphatase family	SuhB	Gluconeogenesis		1AWB
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_05650	COG0633	C	Ferredoxin	Fdx			1KRH
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_05660	COG1077	DZ	Cell shape-determining ATPase MreB, actin-like superfamily	MreB			1JCE
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_05665	COG0154	J	Asp-tRNAAsn/Glu-tRNAGln amidotransferase A subunit or related amidase	GatA	Aminoacyl-tRNA synthetases		3H0L
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_05675	COG0219	J	tRNA(Leu) C34 or U34 (ribose-2'-O)-methylase TrmL, contains SPOUT domain	TrmL	tRNA modification		4JAK
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_05680	COG1939	J	23S rRNA maturation mini-RNase III	MrnC	23S rRNA modification		1U61
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_05685	COG1366	T	Anti-anti-sigma regulatory factor (antagonist of anti-sigma factor)	SpoIIAA			1AUZ
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_05690	COG0512	EH	Anthranilate/para-aminobenzoate synthase component II (glutamine amidotransferase)	PabA	Aromatic amino acid biosynthesis		1I1Q
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_05695	COG0547	E	Anthranilate phosphoribosyltransferase, glycosyltransferase domain	TrpD	Aromatic amino acid biosynthesis		1KGZ
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_05700	COG4988	CO	ABC-type transport system involved in cytochrome bd biosynthesis, ATPase and permease components	CydD			
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_05710	COG3709	G	Ribose 1,5-bisphosphate kinase PhnN	PhnN			
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_05715	COG4875	O	Protein kinase association domain CaMKII_AD, NTF2-like superfamily	CaMKIID		26949248	
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_05730	COG0533	J	tRNA A37 threonylcarbamoyltransferase TsaD	TsaD	tRNA modification	23072323;21285948;32385138	3ENO
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_05740	COG0630	NU	Type IV secretory pathway ATPase VirB11/Archaellum biosynthesis ATPase ArlI/FlaI	VirB11		32416640	1G6O
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_05745	COG0381	M	UDP-N-acetylglucosamine 2-epimerase	WecB		26641313;30389844	1F6D
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_05750	COG4333	S	Uncharacterized conserved protein, DUF1643 domain				
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_05760	COG0025	P	NhaP-type Na+/H+ or K+/H+ antiporter	NhaP			4CZB
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_05765	COG0008	J	Glutamyl- or glutaminyl-tRNA synthetase	GlnS	Heme biosynthesis		1EUQ
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_05770	COG0008	J	Glutamyl- or glutaminyl-tRNA synthetase	GlnS	Heme biosynthesis		1EUQ
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_05780	COG2931	Q	Ca2+-binding protein, RTX toxin-related			15135544	1AF0
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_05785	COG0459	O	Chaperonin GroEL (HSP60 family)	GroEL			1AON
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_05795	COG1155	C	Archaeal/vacuolar-type H+-ATPase catalytic subunit A/Vma1	NtpA	A/V-type ATP synthase		3J9T
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_05815	COG0024	J	Methionine aminopeptidase	Map			3J2I
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_05820	COG4535	P	Mg2+ and Co2+ transporter CorC, contains CBS pair and CorC-HlyC domains	CorC		1779764	4HG0
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_05850	COG1160	J	Double Era-like domain GTPase Der	Der			1MKY
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_05855	COG1057	H	Nicotinate-nucleotide adenylyltransferase NadD	NadD	NAD biosynthesis		1YUM
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_05860	COG0815	M	Apolipoprotein N-acyltransferase	Lnt			6NWR
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_05865	COG0686	E	Alanine dehydrogenase (includes sporulation protein SpoVN)	Ald	Urea cycle		2EEZ
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_05925	COG1010	H	Precorrin-3B methylase	CobJ	Cobalamine/B12 biosynthesis		2ZVB
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_05930	COG0483	G	Archaeal fructose-1,6-bisphosphatase or related enzyme, inositol monophosphatase family	SuhB	Gluconeogenesis		1AWB
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_05935	COG1185	J	Polyribonucleotide nucleotidyltransferase (polynucleotide phosphorylase)	Pnp			1E3P
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_05940	COG0199	J	Ribosomal protein S14	RpsN	Ribosome 30S subunit		4V4H
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_05945	COG0265	O	Periplasmic serine protease, S1-C subfamily, contain C-terminal PDZ domain	DegQ		29686141	2HGA
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_05950	COG0441	J	Threonyl-tRNA synthetase	ThrS	Aminoacyl-tRNA synthetases		1NYQ
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_05955	COG0466	O	ATP-dependent Lon protease, bacterial type	Lon			6ON2
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_05960	COG3280	G	Maltooligosyltrehalose synthase	TreY			
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_05975	COG0180	J	Tryptophanyl-tRNA synthetase	TrpS	Aminoacyl-tRNA synthetases		3N9I
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_06020	COG4291	S	Uncharacterized membrane protein			30962626	
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_06025	COG0809	J	S-adenosylmethionine:tRNA-ribosyltransferase-isomerase (queuine synthetase)	QueA	tRNA modification		1VKY
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_06030	COG0531	E	Serine transporter YbeC, amino acid:H+ symporter family	PotE			3LRB
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_06035	COG0508	C	Pyruvate/2-oxoglutarate dehydrogenase complex, dihydrolipoamide acyltransferase (E2) component	AceF	Pyruvate oxidation		1B5S
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_06045	COG1022	I	Long-chain acyl-CoA synthetase (AMP-forming)	FAA1			
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_06065	COG1381	L	Recombinational DNA repair protein RecO (RecF pathway)	RecO			1U5K
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_06075	COG0297	G	Glycogen synthase	GlgA			1RZU
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_06095	COG0167	F	Dihydroorotate dehydrogenase	PyrD	Pyrimidine biosynthesis		1GT8
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_06105	COG1159	J	GTPase Era, involved in 16S rRNA processing	Era			1EGA
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_06120	COG1799	D	Cell division protein SepF/YlmF, interacts with FtsZ	SepF		16420366;24218584	3ZIH
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_06125	COG0345	E	Pyrroline-5-carboxylate reductase	ProC	Proline biosynthesis	22125496;26507882	3GT0
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_06130	COG2241	H	Precorrin-6B methylase 1	CobL	Cobalamine/B12 biosynthesis		
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_06155	COG0320	H	Lipoate synthase	LipA	Lipoate biosynthesis	27941785	4U0O
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_06165	COG0069	E	Glutamate synthase domain 2	GltB2	Glutamine biosynthesis		1EA0
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_06180	COG0049	J	Ribosomal protein S7	RpsG	Ribosome 30S subunit		4V4H
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_06185	COG0480	J	Translation elongation factor EF-G, a GTPase	FusA	Translation factors		1DAR
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_06190	COG5257	J	Translation initiation factor 2, gamma subunit (eIF-2gamma; GTPase)	GCD11	Translation factors		1KJZ
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_06200	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_06230	COG1691	F	NCAIR mutase (PurE)-related protein				
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_06240	COG0834	ET	ABC-type amino acid transport/signal transduction system, periplasmic component/domain	HisJ			1GGG
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_06245	COG2263	R	Predicted RNA methylase				6H2U
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_06260	COG0637	G	Beta-phosphoglucomutase, HAD superfamily	YcjU		29684280	3E58
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_06265	COG0608	L	ssDNA-specific exonuclease RecJ, DHH superfamily, may be involved in archaeal DNA replication intiation	RecJ			1IR6
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_06275	COG0727	R	Uncharacterized protein YkgJ, contains CxxCxxCC motif	YkgJ			
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_06280	COG2119	R	Putative Ca2+/H+ antiporter, TMEM165/GDT1 family	Gdt1		23569283	
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_06285	COG2119	R	Putative Ca2+/H+ antiporter, TMEM165/GDT1 family	Gdt1		23569283	
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_06290	COG1095	K	DNA-directed RNA polymerase, subunit E'/Rpb7	RPB7	RNA polymerase		1NT9
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_06295	COG0452	H	Phosphopantothenoylcysteine synthetase/decarboxylase CoaBC	CoaBC	Pantothenate/CoA biosynthesis		3QJG
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_06315	COG0312	R	Zn-dependent protease PmbA/TldA or its inactivated homolog	TldD		12029038	3TV9
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_06320	COG0312	R	Zn-dependent protease PmbA/TldA or its inactivated homolog	TldD		12029038	3TV9
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_06330	COG0299	F	Folate-dependent phosphoribosylglycinamide formyltransferase PurN	PurN	Purine biosynthesis	25013077	1C2T
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_06355	COG0623	I	Enoyl-[acyl-carrier-protein] reductase FabI	FabI	Fatty acid biosynthesis		1C14
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_06360	COG1226	P	Voltage-gated potassium channel Kch	Kch			3FWZ
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_06370	COG2068	H	CTP:molybdopterin cytidylyltransferase MocA	MocA			2WAW
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_06380	COG0109	HI	Polyprenyltransferase (heme O synthase)	CyoE			
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_06385	COG0248	FT	Exopolyphosphatase/pppGpp-phosphohydrolase	GppA			1T6C
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_06395	COG2109	H	ATP:corrinoid adenosyltransferase	BtuR	Cobalamine/B12 biosynthesis		4HUT
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_06400	COG2226	H	Ubiquinone/menaquinone biosynthesis C-methylase UbiE/MenG	UbiE	Biotin biosynthesis		4OBW
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_06405	COG0582	LX	Integrase/recombinase, includes phage integrase	FimB			
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_06410	COG0276	H	Protoheme ferro-lyase (ferrochelatase)	HemH	Heme biosynthesis		1AK1
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_06415	COG0739	M	Murein DD-endopeptidase MepM and murein hydrolase activator NlpD, contains LysM domain	NlpD			2GU1
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_06420	COG0028	EH	Acetolactate synthase large subunit or other thiamine pyrophosphate-requiring enzyme	IlvB	Isoleucine, leucine, valine biosynthesis		1BFD
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_06435	COG2081	R	Predicted flavoprotein YhiN	YhiN			3V76
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_06450	COG0539	J	Ribosomal protein S1	RpsA	Ribosome 30S subunit		4NNH
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_06465	COG0373	H	Glutamyl-tRNA reductase	HemA	Heme biosynthesis		2XOE
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_06470	COG0825	I	Acetyl-CoA carboxylase alpha subunit	AccA	Fatty acid biosynthesis		2F9I
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_06475	COG0300	R	Short-chain dehydrogenase	YqjQ			
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_06485	COG1357	S	Uncharacterized conserved protein YjbI, contains pentapeptide repeats	YjbI			2BM4
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_06490	COG0769	M	UDP-N-acetylmuramyl tripeptide synthase	MurE	Mureine biosynthesis		1E8C
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_06495	COG4992	E	Acetylornithine/succinyldiaminopimelate/putrescine aminotransferase	ArgD	Arginine biosynthesis		2E54
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_06505	COG0128	E	5-enolpyruvylshikimate-3-phosphate synthase	AroA	Aromatic amino acid biosynthesis		4N3P
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_06520	COG0565	J	tRNA C32,U32 (ribose-2'-O)-methylase TrmJ or a related methyltransferase	TrmJ	tRNA modification		3ONP
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_06525	COG0446	I	NADPH-dependent 2,4-dienoyl-CoA reductase, sulfur reductase, or a related oxidoreductase	FadH2			1VRQ
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_06530	COG0134	E	Indole-3-glycerol phosphate synthase	TrpC	Aromatic amino acid biosynthesis		6BMA
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_06540	COG0681	U	Signal peptidase I	LepB		1925027	1B12
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_06550	COG1047	O	Peptidyl-prolyl cis-trans isomerase, FKBP type	SlpA			2M2A
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_06575	COG1061	KL	Superfamily II DNA or RNA helicase	SSL2			6JDE
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_06585	COG0264	J	Translation elongation factor EF-Ts	Tsf	Translation factors		1EFU
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_06590	COG0052	J	Ribosomal protein S2	RpsB	Ribosome 30S subunit		4V4H
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_06595	COG1215	N	Glycosyltransferase, catalytic subunit of cellulose synthase and poly-beta-1,6-N-acetylglucosamine synthase	BcsA			4HG6
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_06615	COG0800	G	2-keto-3-deoxy-6-phosphogluconate aldolase	Eda	Entner-Doudoroff pathway		2V81
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_06620	COG0465	O	ATP-dependent Zn proteases	HflB			1LV7
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_06635	COG0163	H	Flavin prenyltransferase UbiX	UbiX	Ubiquinone biosynthesis	28754323;26083743	1SBZ
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_06655	COG0446	I	NADPH-dependent 2,4-dienoyl-CoA reductase, sulfur reductase, or a related oxidoreductase	FadH2			1VRQ
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_06660	COG0540	F	Aspartate carbamoyltransferase, catalytic subunit	PyrB	Pyrimidine biosynthesis		1NBE
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_06675	COG1057	H	Nicotinate-nucleotide adenylyltransferase NadD	NadD	NAD biosynthesis		1YUM
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_06685	COG0322	L	Excinuclease UvrABC, nuclease subunit	UvrC		24513124	2NRT
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_06710	COG0613	F	5'-3' exoribonuclease TrpH/YciV (RNase AM), contains PHP domain	YciV		25871919	3E0F
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_06720	COG1387	ER	Histidinol phosphatase or related hydrolase of the PHP family	HIS2	Histidine biosynthesis		1M65
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_06725	COG1793	L	ATP-dependent DNA ligase	CDC9			1A0I
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_06760	COG0513	L	Superfamily II DNA and RNA helicase	SrmB			3RRM
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_06775	COG0793	O	C-terminal processing protease CtpA/Prc, contains a PDZ domain	CtpA			6IQU
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_06785	COG1131	V	ABC-type multidrug transport system, ATPase component	CcmA			5DO7
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_06805	COG2377	M	1,6-Anhydro-N-acetylmuramate kinase	AnmK		15901686	3CQY
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_06810	COG1226	P	Voltage-gated potassium channel Kch	Kch			3FWZ
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_06815	COG0168	P	Trk-type K+ transport system, membrane component	TrkG			3PJZ
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_06865	COG1577	I	Mevalonate kinase	ERG12	Isoprenoid biosynthesis		
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_06870	COG1008	C	NADH:ubiquinone oxidoreductase subunit 4 (chain M)	NuoM	NADH dehydrogenase		6HUM
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_06875	COG1164	E	Oligoendopeptidase F	PepF			3CE2
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_06880	COG1075	I	Triacylglycerol esterase/lipase EstA, alpha/beta hydrolase fold	EstA			1I6W
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_06890	COG1012	I	Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase	AdhE	Proline degradation		1A4S
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_06905	COG2226	H	Ubiquinone/menaquinone biosynthesis C-methylase UbiE/MenG	UbiE	Biotin biosynthesis		4OBW
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_06910	COG0744	M	Penicillin-binding protein 1B/1F, peptidoglycan  transglycosylase/transpeptidase	MrcB			3FWL
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_06915	COG0382	H	4-hydroxybenzoate polyprenyltransferase	UbiA	Ubiquinone biosynthesis	28830929	4OD4
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_06930	COG0107	E	Imidazole glycerol phosphate synthase subunit HisF	HisF	Histidine biosynthesis		1OX4
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_06935	COG2227	H	2-polyprenyl-3-methyl-5-hydroxy-6-metoxy-1,4-benzoquinol methylase	UbiG	Ubiquinone biosynthesis		1BHJ
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_06950	COG0566	J	tRNA G18 (ribose-2'-O)-methylase SpoU	SpoU	tRNA modification		1GZ0
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_06965	COG1512	S	Uncharacterized membrane protein YgcG, contains a TPM-fold domain	YgcG			2KW7
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_06980	COG3117	M	Lipopolysaccharide export system protein LptC	YrbK			3MY2
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_06985	COG0060	J	Isoleucyl-tRNA synthetase	IleS	Aminoacyl-tRNA synthetases		1FFY
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_07030	COG3119	P	Arylsulfatase A or related enzyme, AlkP superfamily	AslA			1E1Z
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_07040	COG0634	F	Hypoxanthine-guanine phosphoribosyltransferase	HptA	Purine salvage		1G9S
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_07050	COG4461	V	Lysozyme inhibitor LprI	LprI		18369469;26589796	
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_07055	COG0443	O	Molecular chaperone DnaK (HSP70)	DnaK			3I33
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_07235	COG1179	J	tRNA A37 threonylcarbamoyladenosine dehydratase	TcdA	tRNA modification	27913733	4D7A
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_07245	COG0171	H	NH3-dependent NAD+ synthetase	NadE	NAD biosynthesis		3HMQ
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_07255	COG1106	R	ATPase/GTPase, AAA15 family				
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_07270	COG2352	C	Phosphoenolpyruvate carboxylase	Ppc	Urea cycle		1FIY
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_07280	COG0147	EH	Anthranilate/para-aminobenzoate synthases component I	TrpE	Aromatic amino acid biosynthesis		1I1Q
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_07295	COG0772	D	Peptodoglycan polymerase FtsW/RodA/SpoVE	FtsW		30692671	6BAR
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_07300	COG0455	DN	MinD-like ATPase FlhG/YlxH, activator of the FlhF-type GTPase	FlhG			1G3Q
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_07305	COG0408	H	Coproporphyrinogen-III oxidase HemH, oxygen-dependent	HemF	Heme biosynthesis		3E8J
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_07380	COG0695	O	Glutaredoxin	GrxC			1AAZ
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_07385	COG2010	C	Cytochrome c, mono- and diheme variants	CccA			1A2S
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_07390	COG0208	F	Ribonucleotide reductase beta subunit, ferritin-like domain	NrdB	Pyrimidine salvage		1AV8
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_07400	COG0209	F	Ribonucleotide reductase alpha subunit	NrdA	Pyrimidine salvage		1R1R
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_07405	COG0358	L	DNA primase (bacterial type)	DnaG		28128549	3B39
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_07420	COG0236	I	Acyl carrier protein	AcpP	Fatty acid biosynthesis		1ACP
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_07430	COG0208	F	Ribonucleotide reductase beta subunit, ferritin-like domain	NrdB	Pyrimidine salvage		1AV8
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_07470	COG1807	M	PMT family glycosyltransferase ArnT/Agl22, involved in glycosylation of proteins and lipid IVA	ArnT		16226890;31233657;32706435	5EZM
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_07485	COG3463	S	Uncharacterized membrane protein				
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_07500	COG1171	E	Threonine deaminase	IlvA	Isoleucine, leucine, valine biosynthesis		3IAU
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_07505	COG0484	O	DnaJ-class molecular chaperone with C-terminal Zn finger domain	DnaJ			1BQ0
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_07510	COG1807	M	PMT family glycosyltransferase ArnT/Agl22, involved in glycosylation of proteins and lipid IVA	ArnT		16226890;31233657;32706435	5EZM
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_07550	COG0505	EF	Carbamoylphosphate synthase small subunit	CarA	Arginine biosynthesis		1C30
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_07555	COG0818	I	Diacylglycerol kinase	DgkA			2KDC
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_07560	COG0319	J	ssRNA-specific RNase YbeY, 16S rRNA maturation enzyme	YbeY	16S rRNA modification	17407324;23543739	1XM5
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_07570	COG1186	J	Protein chain release factor PrfB	PrfB	Translation factors		1GQE
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_07580	COG2999	O	Glutaredoxin 2	GrxB			1G7O
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_07585	COG0189	EHJQ	Glutathione synthase, LysX or RimK-type ligase, ATP-grasp superfamily	LysX	Lysine biosynthesis		1GLV
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_07590	COG0823	U	Periplasmic component TolB of the Tol biopolymer transport system	TolB			1C5K
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_07615	COG1075	I	Triacylglycerol esterase/lipase EstA, alpha/beta hydrolase fold	EstA			1I6W
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_07625	COG2343	S	Uncharacterized conserved protein, DUF427 family				3DJM
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_07635	COG2226	H	Ubiquinone/menaquinone biosynthesis C-methylase UbiE/MenG	UbiE	Biotin biosynthesis		4OBW
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_07670	COG0494	V	8-oxo-dGTP pyrophosphatase MutT and related house-cleaning NTP pyrophosphohydrolases, NUDIX family	MutT			4V14
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_07675	COG1125	E	ABC-type proline/glycine betaine transport system, ATPase component	OpuBA			
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_07680	COG0683	E	ABC-type branched-chain amino acid transport system, periplasmic component	LivK			1USG
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_07685	COG1703	O	GTPase of the G3E family (not a periplasmic protein kinase)	ArgK		18950999	2QM7
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_07695	COG2371	O	Urease accessory protein UreE	UreE			1EAR
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_07705	COG0831	E	Urease gamma subunit	UreA			1A5K
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_07710	COG0832	E	Urease beta subunit	UreB			
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_07715	COG0044	F	Dihydroorotase or related cyclic amidohydrolase	AllB	Pyrimidine biosynthesis		1J79
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_07725	COG0512	EH	Anthranilate/para-aminobenzoate synthase component II (glutamine amidotransferase)	PabA	Aromatic amino acid biosynthesis		1I1Q
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_07730	COG0535	DH	Radical SAM superfamily maturase, SkfB/NifB/PqqE family	SkfB		23282011	6Q2P
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_07735	COG0746	H	Molybdopterin-guanine dinucleotide biosynthesis protein A	MobA	Molybdopterin biosynthesis	32239579	1E5K
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_07750	COG1182	C	FMN-dependent NADH-azoreductase	AzoR			1TIK
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_07765	COG1003	E	Glycine cleavage system protein P (pyridoxal-binding), C-terminal domain	GcvP2	Glycine cleavage		4LGL
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_07770	COG0509	E	Glycine cleavage system protein H (lipoate-binding)	GcvH	Glycine cleavage		1DXM
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_07775	COG0626	E	Cystathionine beta-lyase/cystathionine gamma-synthase	MetC	Methionine biosynthesis		1CL1
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_07780	COG3239	I	Fatty acid desaturase	DesA			
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_07785	COG0359	J	Ribosomal protein L9	RplI	Ribosome 50S subunit	27112601	1VS6
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_07790	COG0305	L	Replicative DNA helicase	DnaB			1B79
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_07810	COG1462	M	Curli biogenesis system outer membrane secretion channel CsgG	CsgG		24417346	3X2R
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_07830	COG0316	O	Fe-S cluster assembly iron-binding protein IscA	IscA			1R94
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_07870	COG1018	C	Flavodoxin/ferredoxin--NADP reductase	Fpr			3OZU
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_07875	COG0364	G	Glucose-6-phosphate 1-dehydrogenase	Zwf	Pentose phosphate pathway	18950999	5B7W
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_07885	COG1797	H	Cobyrinic acid a,c-diamide synthase	CobB	Cobalamine/B12 biosynthesis		
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_07890	COG1254	C	Acylphosphatase	AcyP			1APS
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_07915	COG0824	I	Acyl-CoA thioesterase FadM	FadM	Menaquinone biosynthesis		2FUJ
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_07920	COG1022	I	Long-chain acyl-CoA synthetase (AMP-forming)	FAA1			
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_07925	COG4948	MR	L-alanine-DL-glutamate epimerase or related enzyme of enolase superfamily	RspA	Non-phosphorylated Entner-Doudoroff pathway		1BKH
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_07940	COG0412	Q	Dienelactone hydrolase	DLH			4ZV9
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_07960	COG1032	R	Radical SAM superfamily enzyme YgiQ, UPF0313 family	YgiQ			6FD2
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_07965	COG0439	I	Biotin carboxylase	AccC	Fatty acid biosynthesis		1BNC
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_07975	COG0438	M	Glycosyltransferase involved in cell wall bisynthesis	RfaB			2IV7
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_07980	COG0488	R	ATPase components of ABC transporters with duplicated ATPase domains	Uup			5ZXD
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_07990	COG5398	H	Heme oxygenase				1DVE
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_08005	COG3394	G	Chitooligosaccharide deacetylase ChbG, YdjC/CelG family	ChbG		18177738;22797760	2I5I
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_08010	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_08020	COG2931	Q	Ca2+-binding protein, RTX toxin-related			15135544	1AF0
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_08035	COG1060	H	2-iminoacetate synthase ThiH/Menaquinone biosynthesis enzymes MqnC and MqnE	ThiH	Thiamine biosynthesis	18801996	4WCX
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_08040	COG0020	I	Undecaprenyl pyrophosphate synthase	UppS			1X07
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_08045	COG1624	T	c-di-AMP synthetase, contains DisA_N domain	DisA			2FB5
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_08050	COG0019	E	Diaminopimelate decarboxylase	LysA	Lysine biosynthesis		1D7K
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_08055	COG0456	J	Ribosomal protein S18 acetylase RimI and related acetyltransferases	RimI			1GHE
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_08060	COG5271	J	Midasin, AAA ATPase with  vWA domain, involved in ribosome maturation	MDN1			6HYP
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_08070	COG2068	H	CTP:molybdopterin cytidylyltransferase MocA	MocA			2WAW
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_08075	COG2271	G	Sugar phosphate permease	UhpC			1PW4
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_08080	COG1029	C	Formylmethanofuran dehydrogenase subunit B	FwdB			5T5I
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_08095	COG0288	P	Carbonic anhydrase	CynT		22081392	1EKJ
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_08100	COG0315	H	Molybdenum cofactor biosynthesis enzyme MoaC	MoaC	Molybdopterin biosynthesis	32239579	1EKR
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_08105	COG0521	H	Molybdopterin biosynthesis enzyme MoaB/MogA	MoaB	Molybdopterin biosynthesis	32239579	1DI6
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_08115	COG0451	M	Nucleoside-diphosphate-sugar epimerase	WcaG			2X4G
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_08125	COG1977	H	Molybdopterin synthase sulfur carrier subunit MoaD	MoaD	Molybdopterin biosynthesis	32239579	1FM0
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_08130	COG1058	L	ADP-ribose pyrophosphatase domain of DNA damage- and competence-inducible protein CinA	CinA		25313401	4CT9
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_08135	COG1010	H	Precorrin-3B methylase	CobJ	Cobalamine/B12 biosynthesis		2ZVB
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_08145	COG2221	P	Dissimilatory sulfite reductase (desulfoviridin), alpha and beta subunits	DsrA			
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_08155	COG1167	KE	DNA-binding transcriptional regulator, MocR family, contains an aminotransferase domain	ARO8	Lysine biosynthesis		2R2N
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_08165	COG0628	R	Predicted PurR-regulated permease PerM	PerM			
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_08175	COG2897	P	3-mercaptopyruvate sulfurtransferase SseA, contains two rhodanese domains	SseA			1BOH
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_08195	COG2226	H	Ubiquinone/menaquinone biosynthesis C-methylase UbiE/MenG	UbiE	Biotin biosynthesis		4OBW
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_08205	COG0407	H	Uroporphyrinogen-III decarboxylase HemE	HemE	Heme biosynthesis		2DG5
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_08210	COG0451	M	Nucleoside-diphosphate-sugar epimerase	WcaG			2X4G
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_08215	COG3794	C	Plastocyanin	PetE			3BQV
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_08235	COG0461	F	Orotate phosphoribosyltransferase	PyrE	Pyrimidine biosynthesis		4WML
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_08345	COG2207	K	AraC-type DNA-binding domain and AraC-containing proteins	AraC			1BL0
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_08360	COG0841	V	Multidrug efflux pump subunit AcrB	AcrB			1IWG
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_08410	COG0730	P	Sulfite exporter TauE/SafE/YfcA and related permeases, UPF0721 family	TauE		21183667;22797525	
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_08455	COG1587	H	Uroporphyrinogen-III synthase	HemD	Heme biosynthesis		1JR2
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_08465	COG4221	C	NADP-dependent 3-hydroxy acid dehydrogenase YdfG	YdfG	Pyrimidine degradation		3P19
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_08475	COG0484	O	DnaJ-class molecular chaperone with C-terminal Zn finger domain	DnaJ			1BQ0
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_08480	COG0596	HR	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold	MenH	Menaquinone biosynthesis		4MYS
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_08485	COG3011	R	Predicted thiol-disulfide oxidoreductase YuxK, DCC family	YuxK		15236740	
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_08490	COG4129	S	Uncharacterized membrane protein YgaE, UPF0421/DUF939 family	YgaE			
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_08540	COG0681	U	Signal peptidase I	LepB		1925027	1B12
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_08545	COG0028	EH	Acetolactate synthase large subunit or other thiamine pyrophosphate-requiring enzyme	IlvB	Isoleucine, leucine, valine biosynthesis		1BFD
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_08595	COG0579	G	L-2-hydroxyglutarate oxidase LhgO	LhgO			3DME
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_08600	COG2382	P	Enterochelin esterase or related enzyme	Fes			2B20
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_08605	COG1062	C	Zn-dependent alcohol/formaldehyde dehydrogenase	FrmA			1A71
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_08615	COG1748	E	Saccharopine dehydrogenase, NADP-dependent	Lys9	Lysine biosynthesis		1E5L
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_08630	COG0446	I	NADPH-dependent 2,4-dienoyl-CoA reductase, sulfur reductase, or a related oxidoreductase	FadH2			1VRQ
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_08635	COG0625	O	Glutathione S-transferase	GstA			1A0F
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_08650	COG1484	L	DNA replication protein DnaC	DnaC			2QGZ
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_08655	COG0793	O	C-terminal processing protease CtpA/Prc, contains a PDZ domain	CtpA			6IQU
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_08665	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_08690	COG0493	ER	NADPH-dependent glutamate synthase beta chain or related oxidoreductase	GltD	Glutamine biosynthesis		1H7X
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_08695	COG2173	M	D-alanyl-D-alanine dipeptidase	DdpX		23258706	1R44
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_08700	COG2895	P	Sulfate adenylyltransferase subunit 1, EFTu-like GTPase family	CysN	Cysteine biosynthesis		1ZUN
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_08710	COG1934	M	Lipopolysaccharide export system protein LptA	LptA			2R19
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_08715	COG4608	E	ABC-type oligopeptide transport system, ATPase component	AppF			
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_08720	COG0795	MN	Lipopolysaccharide export LptBFGC system, permease protein LptF	LptF			6S8H
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_08725	COG1138	CO	Cytochrome c biogenesis protein CcmF	CcmF			
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_08730	COG0666	T	Ankyrin repeat	ANKYR			6AUN
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_08740	COG0208	F	Ribonucleotide reductase beta subunit, ferritin-like domain	NrdB	Pyrimidine salvage		1AV8
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_08785	COG4451	G	Ribulose bisphosphate carboxylase small subunit	RbcS			2YBV
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_08800	COG4576	QC	Carboxysome shell and ethanolamine utilization microcompartment protein CcmK/EutM	CcmL			2HD3
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_08805	COG4576	QC	Carboxysome shell and ethanolamine utilization microcompartment protein CcmK/EutM	CcmL			2HD3
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_08815	COG1007	C	NADH:ubiquinone oxidoreductase subunit 2 (chain N)	NuoN	NADH dehydrogenase		4HE8
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_08820	COG1008	C	NADH:ubiquinone oxidoreductase subunit 4 (chain M)	NuoM	NADH dehydrogenase		6HUM
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_08850	COG5126	T	Ca2+-binding protein, EF-hand superfamily	FRQ1			2LHI
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_08855	COG0784	T	CheY-like REC (receiver) domain, includes chemotaxis protein CheY  and sporulation regulator Spo0F	CheY			6QRJ
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_08860	COG2205	T	K+-sensing histidine kinase KdpD	KdpD			2KSF
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_08865	COG2326	C	Polyphosphate kinase 2, PPK2 family	PPK2			3CZP
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_08875	COG1525	L	Endonuclease YncB, thermonuclease family	YncB			
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_08885	COG0465	O	ATP-dependent Zn proteases	HflB			1LV7
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_08890	COG2135	L	ssDNA abasic site-binding protein YedK/HMCES, SRAP family	SRAP		30554877;31504793	1ZN6
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_08925	COG1028	I	NAD(P)-dependent dehydrogenase, short-chain alcohol dehydrogenase family	FabG	Fatty acid biosynthesis		6L1H
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_08930	COG3204	R	Uncharacterized Ca-binding beta-propeller protein YjiK	YjiK			3QQZ
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_08940	COG4328	R	Predicted nuclease (RNAse H fold)				
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_08950	COG0405	E	Gamma-glutamyltranspeptidase	Ggt		16618936	2Z8I
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_08975	COG1463	M	Periplasmic subunit MlaD of the ABC-type intermembrane phospholipid transporter Mla	MlaD			5UW8
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_08980	COG4136	R	ABC-type uncharacterized transport system YnjBCD, ATPase component	YnjD			
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_08985	COG0391	GH	Archaeal 2-phospho-L-lactate transferase/Bacterial gluconeogenesis factor, CofD/UPF0052 family	CofD		11888293;18252724	1ZX8
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_08990	COG2227	H	2-polyprenyl-3-methyl-5-hydroxy-6-metoxy-1,4-benzoquinol methylase	UbiG	Ubiquinone biosynthesis		1BHJ
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_08995	COG3262	C	Ni,Fe-hydrogenase III component G	HycE1			
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_09000	COG1941	C	Coenzyme F420-reducing hydrogenase, gamma subunit	FrhG			5ODC
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_09010	COG1773	P	Flavorubredoxin	NorV			4D02
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_09025	COG4252	T	Extracytoplasmic sensor domain CHASE2 (specificity unknown)	CHASE2			
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_09040	COG0071	O	Small heat shock protein IbpA, HSP20 family	IbpA			1GME
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_09045	COG0450	V	Alkyl hydroperoxide reductase subunit AhpC (peroxiredoxin)	AhpC			2RII
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_09080	COG0468	L	RecA/RadA recombinase	RecA			1B22
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_09085	COG0305	L	Replicative DNA helicase	DnaB			1B79
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_09100	COG2255	L	Holliday junction resolvasome RuvABC, ATP-dependent DNA helicase subunit RuvB	RuvB			1HQC
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_09105	COG1566	V	Multidrug resistance efflux pump EmrA	EmrA			4TKO
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_09110	COG0841	V	Multidrug efflux pump subunit AcrB	AcrB			1IWG
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_09155	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_09170	COG2931	Q	Ca2+-binding protein, RTX toxin-related			15135544	1AF0
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_09185	COG2771	K	DNA-binding transcriptional regulator, CsgD family	CsgD			
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_09190	COG3858	D	Spore cortex hydrolase SleL/YaaH, N-acetylglucosaminidase of GH18 family	SleL			4S3J
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_09195	COG0793	O	C-terminal processing protease CtpA/Prc, contains a PDZ domain	CtpA			6IQU
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_09200	COG1349	KG	DNA-binding transcriptional regulator of sugar metabolism, DeoR/GlpR family	GlpR			
+Synechococcus_sp_CPC35	GCA_002684175.1	DBCOIN_09225	COG0542	O	ATP-dependent Clp protease, ATP-binding subunit ClpA	ClpA			1KSF

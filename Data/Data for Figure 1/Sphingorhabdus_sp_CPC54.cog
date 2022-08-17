@@ -1,0 +1,1438 @@
+#prefix	assemid	query	COG	category	name	Gene	pathway	pmid	pdb_id
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_00015	COG1629	P	Outer membrane receptor protein, Fe transport	CirA			1BY3
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_00025	COG2211	G	Na+/melibiose symporter or related transporter	MelB			4M64
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_00030	COG1523	G	Pullulanase/glycogen debranching enzyme	PulA			2WSK
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_00035	COG0452	H	Phosphopantothenoylcysteine synthetase/decarboxylase CoaBC	CoaBC	Pantothenate/CoA biosynthesis		3QJG
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_00040	COG0717	F	dCTP deaminase	Dcd	Thymidylate biosynthesis		1XS1
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_00045	COG1179	J	tRNA A37 threonylcarbamoyladenosine dehydratase	TcdA	tRNA modification	27913733	4D7A
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_00070	COG1305	O	Transglutaminase-like enzyme, putative cysteine protease	YebA			3ISR
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_00075	COG0596	HR	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold	MenH	Menaquinone biosynthesis		4MYS
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_00080	COG3447	T	Integral membrane sensor domain MASE1	MASE1			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_00085	COG5001	T	Cyclic di-GMP metabolism protein, combines GGDEF and EAL domains with a 6TM membrane domain				
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_00090	COG3577	R	Predicted aspartyl protease				5C9F
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_00095	COG3970	R	Fumarylacetoacetate (FAA) hydrolase family protein				2Q18
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_00105	COG3959	G	Transketolase, N-terminal subunit	TktA1			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_00135	COG0512	EH	Anthranilate/para-aminobenzoate synthase component II (glutamine amidotransferase)	PabA	Aromatic amino acid biosynthesis		1I1Q
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_00145	COG1025	O	Secreted/periplasmic Zn-dependent peptidases, insulinase-like	Ptr			1Q2L
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_00150	COG0152	F	Phosphoribosylaminoimidazole-succinocarboxamide synthase	PurC	Purine biosynthesis		1A48
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_00155	COG5571	R	Uncharacterized conserved protein YhjY, contains autotransporter beta-barrel domain	YhjY			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_00160	COG0075	EF	Archaeal aspartate aminotransferase or a related aminotransferase, includes purine catabolism protein PucG	PucG	Serine biosynthesis		3NNK
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_00165	COG0657	I	Acetyl esterase/lipase	Aes			1EVQ
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_00170	COG0380	G	Trehalose-6-phosphate synthase, GT20 family	OtsA		28830929	1UQT
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_00185	COG1506	E	Dipeptidyl aminopeptidase/acylaminoacyl peptidase	DAP2			2JBW
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_00220	COG2810	V	Predicted type IV restriction endonuclease				
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_00225	COG0188	L	DNA gyrase/topoisomerase IV, subunit A	GyrA			1SUU
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_00230	COG0617	J	tRNA nucleotidyltransferase/poly(A) polymerase	PcnB	tRNA modification		3WFR
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_00235	COG0494	V	8-oxo-dGTP pyrophosphatase MutT and related house-cleaning NTP pyrophosphohydrolases, NUDIX family	MutT			4V14
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_00255	COG4774	P	Outer membrane receptor for monomeric catechols	Fiu			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_00260	COG1060	H	2-iminoacetate synthase ThiH/Menaquinone biosynthesis enzymes MqnC and MqnE	ThiH	Thiamine biosynthesis	18801996	4WCX
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_00275	COG2819	R	Predicted hydrolase of the alpha/beta superfamily	YbbA			3GFF
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_00280	COG3409	M	Peptidoglycan-binding (PGRP) domain of peptidoglycan hydrolases	PGRP			4FET
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_00295	COG1012	I	Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase	AdhE	Proline degradation		1A4S
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_00310	COG1052	CHR	Lactate dehydrogenase or related 2-hydroxyacid dehydrogenase	LdhA	Pyridoxal phosphate biosynthesis		1DXY
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_00315	COG0004	P	Ammonia channel protein AmtB	AmtB			1U77
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_00335	COG0457	R	Tetratricopeptide (TPR) repeat	TPR			3AS4
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_00340	COG4206	H	Outer membrane cobalamin receptor protein BtuB	BtuB			1NQE
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_00350	COG4942	D	Septal ring factor EnvC, activator of murein hydrolases AmiA and AmiB	EnvC			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_00355	COG3908	S	Uncharacterized conserved protein, DUF2093 domain				
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_00360	COG1570	L	Exonuclease VII, large subunit	XseA			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_00365	COG0151	F	Phosphoribosylamine-glycine ligase	PurD	Purine biosynthesis		1GSO
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_00375	COG2524	K	Predicted transcriptional regulator, contains C-terminal CBS domains				
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_00390	COG1674	D	DNA segregation ATPase FtsK/SpoIIIE or related protein	FtsK			2IUT
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_00400	COG0708	L	Exonuclease III	XthA			1AKO
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_00405	COG0807	H	GTP cyclohydrolase II	RibA	Riboflavin/FAD biosynthesis		2BZ0
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_00410	COG2844	OT	UTP:GlnB (protein PII) uridylyltransferase	GlnD			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_00415	COG1020	Q	EntF, seryl-AMP synthase component  of non-ribosomal peptide synthetase	EntF			5ES5
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_00420	COG0682	M	Prolipoprotein diacylglyceryltransferase	Lgt			5AZB
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_00430	COG3218	R	ABC-type uncharacterized transport system, auxiliary component				2IQI
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_00435	COG5490	S	Predicted polyhydroxyalkanoate (PHA)-binding protein, phasin family	Phasin			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_00440	COG1117	P	ABC-type phosphate transport system, ATPase component	PstB			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_00445	COG0767	M	Permease subunit MlaE of the ABC-type intermembrane phospholipid transporter Mla	MlaE			6IC4
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_00450	COG0626	E	Cystathionine beta-lyase/cystathionine gamma-synthase	MetC	Methionine biosynthesis		1CL1
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_00455	COG1496	P	Copper oxidase (laccase) domain	YfiH			1RV9
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_00460	COG0308	E	Aminopeptidase N, contains DUF3458 domain	PepN		24123841	6ATK
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_00465	COG0451	M	Nucleoside-diphosphate-sugar epimerase	WcaG			2X4G
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_00470	COG0697	GER	Permease of the drug/metabolite transporter (DMT) superfamily	RhaT			5I20
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_00480	COG0447	H	1,4-Dihydroxy-2-naphthoyl-CoA synthase	MenB	Menaquinone biosynthesis		4ELS
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_00490	COG0203	J	Ribosomal protein L17	RplQ	Ribosome 50S subunit		1GD8
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_00495	COG0202	K	DNA-directed RNA polymerase, alpha subunit/40 kD subunit	RpoA	RNA polymerase		4KN7
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_00500	COG0100	J	Ribosomal protein S11	RpsK	Ribosome 30S subunit		4V4H
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_00510	COG1181	MR	D-alanine-D-alanine ligase or related ATP-grasp enzyme	DdlA	Mureine biosynthesis		1E4E
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_00515	COG1914	P	Mn2+ or Fe2+ transporter, NRAMP family	MntH			5KTE
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_00530	COG1984	E	5-oxoprolinase subunit C/Allophanate hydrolase subunit 2	PxpC		28830929	3MML
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_00535	COG0254	J	Ribosomal protein L31	RpmE	Ribosome 50S subunit		1VS6
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_00540	COG4706	I	Predicted 3-hydroxylacyl-ACP dehydratase, HotDog domain				
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_00550	COG0729	M	Outer membrane translocation and assembly module TamA	TamA			4BZA
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_00555	COG0265	O	Periplasmic serine protease, S1-C subfamily, contain C-terminal PDZ domain	DegQ		29686141	2HGA
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_00565	COG4674	R	ABC-type uncharacterized transport system, ATPase component			10686096	
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_00570	COG1073	T	Fermentation-respiration switch esterase FrsA, DUF1100 family	FrsA			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_00580	COG0747	E	ABC-type transport system, periplasmic component	DdpA			3RQT
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_00600	COG0157	H	Nicotinate-nucleotide pyrophosphorylase	NadC	NAD biosynthesis		1O4U
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_00615	COG0379	H	Quinolinate synthase	NadA	NAD biosynthesis	24498065	4HHE
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_00625	COG0491	R	Glyoxylase or a related metal-dependent hydrolase, beta-lactamase superfamily II	GloB		25670698	1QH3
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_00635	COG0278	O	Glutaredoxin-related protein	GrxD			1YKA
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_00645	COG5467	S	Uncharacterized conserved protein, DUF1476 domain			16468998	
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_00650	COG1062	C	Zn-dependent alcohol/formaldehyde dehydrogenase	FrmA			1A71
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_00655	COG3239	I	Fatty acid desaturase	DesA			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_00665	COG3386	G	Sugar lactone lactonase YvrE	YvrE	Non-phosphorylated Entner-Doudoroff pathway		1E1A
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_00675	COG1846	K	DNA-binding transcriptional regulator, MarR family	MarR			1JGS
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_00685	COG0592	L	DNA polymerase III sliding clamp (beta) subunit, PCNA homolog	DnaN			1JQJ
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_00695	COG0588	G	Phosphoglycerate mutase (BPG-dependent)	GpmA	Glycolysis		1E58
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_00705	COG0820	J	Adenine C2-methylase RlmN of 23S rRNA A2503 and tRNA A37	RlmN	23S rRNA modification		3RFA
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_00710	COG0412	Q	Dienelactone hydrolase	DLH			4ZV9
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_00715	COG2230	I	Cyclopropane fatty-acyl-phospholipid synthase and related methyltransferases	Cfa			5Z9O
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_00725	COG3710	K	DNA-binding winged helix-turn-helix (wHTH) domain	CadC1			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_00735	COG0367	E	Asparagine synthetase B (glutamine-hydrolyzing)	AsnB	Asparagine biosynthesis	25951518	2ETD
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_00740	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_00745	COG0784	T	CheY-like REC (receiver) domain, includes chemotaxis protein CheY  and sporulation regulator Spo0F	CheY			6QRJ
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_00750	COG2202	T	PAS domain	PAS			2MWG
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_00775	COG4544	S	Uncharacterized conserved protein				
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_00780	COG2827	L	Predicted endonuclease, GIY-YIG superfamily	YhbQ			1YWL
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_00785	COG3884	I	Acyl-ACP thioesterase	FatA			2ESS
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_00790	COG1506	E	Dipeptidyl aminopeptidase/acylaminoacyl peptidase	DAP2			2JBW
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_00795	COG0006	E	Xaa-Pro aminopeptidase	PepP			1A16
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_00810	COG0526	O	Thiol-disulfide isomerase or thioredoxin	TrxA			1XFL
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_00835	COG2253	V	Predicted nucleotidyltransferase component of viral defense system				4O8S
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_00845	COG4679	X	Phage-related protein				
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_00850	COG5606	R	Predicted DNA-binding protein, XRE-type HTH domain				
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_00865	COG5256	J	Translation elongation factor EF-1alpha (GTPase)	TEF1	Translation factors		1F60
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_00870	COG0532	J	Translation initiation factor IF-2, a GTPase	InfB	Translation factors		5ME0
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_00875	COG0051	J	Ribosomal protein S10	RpsJ	Ribosome 30S subunit		4V4H
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_00880	COG0087	J	Ribosomal protein L3	RplC	Ribosome 50S subunit		1VS6
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_00885	COG0088	J	Ribosomal protein L4	RplD	Ribosome 50S subunit		1VS6
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_00895	COG0090	J	Ribosomal protein L2	RplB	Ribosome 50S subunit		1VS6
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_00900	COG0185	J	Ribosomal protein S19	RpsS	Ribosome 30S subunit		4V4H
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_00910	COG0092	J	Ribosomal protein S3	RpsC	Ribosome 30S subunit		1VS6
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_00915	COG0197	J	Ribosomal protein L16/L10AE	RplP	Ribosome 50S subunit		1WKI
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_00920	COG0255	J	Ribosomal protein L29	RpmC	Ribosome 50S subunit		1VS6
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_00930	COG0093	J	Ribosomal protein L14	RplN	Ribosome 50S subunit		4V4H
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_00940	COG0094	J	Ribosomal protein L5	RplE	Ribosome 50S subunit		1VS6
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_00945	COG0199	J	Ribosomal protein S14	RpsN	Ribosome 30S subunit		4V4H
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_00950	COG0096	J	Ribosomal protein S8	RpsH	Ribosome 30S subunit		4V4H
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_00955	COG0097	J	Ribosomal protein L6P/L9E	RplF	Ribosome 50S subunit		1VS6
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_00965	COG0098	J	Ribosomal protein S5	RpsE	Ribosome 30S subunit		4V4H
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_00970	COG1841	J	Ribosomal protein L30/L7E	RpmD	Ribosome 50S subunit		1VS6
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_00980	COG0201	U	Preprotein translocase subunit SecY	SecY			1RH5
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_00990	COG0302	H	GTP cyclohydrolase I	FolE	Folate biosynthesis	19767425;30692671	1A8R
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_00995	COG1201	L	Lhr-like helicase	Lhr			5V9X
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_01010	COG0574	G	Phosphoenolpyruvate synthase/pyruvate phosphate dikinase	PpsA	Gluconeogenesis		5HV6
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_01030	COG0483	G	Archaeal fructose-1,6-bisphosphatase or related enzyme, inositol monophosphatase family	SuhB	Gluconeogenesis		1AWB
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_01035	COG0526	O	Thiol-disulfide isomerase or thioredoxin	TrxA			1XFL
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_01040	COG0303	H	Molybdopterin Mo-transferase (molybdopterin biosynthesis)	MoeA	Molybdopterin biosynthesis	18801996;32239579	2NQU
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_01045	COG2887	L	RecB family exonuclease	Slr0479			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_01050	COG1209	M	dTDP-glucose pyrophosphorylase	RmlA1			1FXO
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_01055	COG3173	R	Predicted  kinase, aminoglycoside phosphotransferase (APT) family	YcbJ			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_01060	COG1052	CHR	Lactate dehydrogenase or related 2-hydroxyacid dehydrogenase	LdhA	Pyridoxal phosphate biosynthesis		1DXY
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_01065	COG2852	L	Very-short-patch-repair endonuclease	YcjD			3HRL
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_01070	COG1012	I	Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase	AdhE	Proline degradation		1A4S
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_01085	COG3323	S	PII-like insert in the uncharacterized protein YqfO, YbgI/NIF3 family	YqfO		17187687;29625546;31118925	2GX8
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_01090	COG0227	J	Ribosomal protein L28	RpmB	Ribosome 50S subunit		2JZ6
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_01100	COG5050	I	sn-1,2-diacylglycerol ethanolamine- and cholinephosphotranferases	EPT1			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_01115	COG2131	F	Deoxycytidylate deaminase	ComEB		25746996;31954084	2HVV
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_01120	COG3947	TK	Two-component response regulator, SAPR family, consists of REC, wHTH and BTAD domains	SAPR			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_01125	COG0642	T	Signal transduction histidine kinase	BaeS			1JOY
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_01135	COG1733	K	DNA-binding transcriptional regulator, HxlR family	HxlR			1YYV
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_01145	COG0317	TK	(p)ppGpp synthase/hydrolase, HD superfamily	SpoT			1TDJ
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_01160	COG1197	LK	Transcription-repair coupling factor (superfamily II helicase)	Mfd			2EYQ
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_01165	COG1146	F	NAD-dependent dihydropyrimidine dehydrogenase, PreA subunit	PreA			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_01170	COG0522	J	Ribosomal protein S4 or related protein	RpsD	Ribosome 30S subunit		4V4H
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_01185	COG5256	J	Translation elongation factor EF-1alpha (GTPase)	TEF1	Translation factors		1F60
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_01190	COG0049	J	Ribosomal protein S7	RpsG	Ribosome 30S subunit		4V4H
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_01195	COG0048	J	Ribosomal protein S12	RpsL	Ribosome 30S subunit		4V4H
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_01205	COG0332	I	3-oxoacyl-[acyl-carrier-protein] synthase III	FabH	Fatty acid biosynthesis		1UB7
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_01210	COG4774	P	Outer membrane receptor for monomeric catechols	Fiu			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_01225	COG4206	H	Outer membrane cobalamin receptor protein BtuB	BtuB			1NQE
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_01230	COG1309	K	DNA-binding protein, AcrR family, includes nucleoid occlusion protein SlmA	AcrR			2QOP
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_01235	COG2207	K	AraC-type DNA-binding domain and AraC-containing proteins	AraC			1BL0
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_01245	COG0050	J	Translation elongation factor EF-Tu, a GTPase	TufA	Translation factors		1EFU
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_01255	COG3177	K	Fic family protein				3CUC
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_01265	COG2226	H	Ubiquinone/menaquinone biosynthesis C-methylase UbiE/MenG	UbiE	Biotin biosynthesis		4OBW
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_01270	COG1168	ER	Bifunctional PLP-dependent enzyme with beta-cystathionase and maltose regulon repressor activities	MalY			4DGT
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_01275	COG3243	I	Poly-beta-hydroxybutyrate synthase	PhaC			5XAV
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_01280	COG5490	S	Predicted polyhydroxyalkanoate (PHA)-binding protein, phasin family	Phasin			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_01285	COG2127	O	ATP-dependent Clp protease adapter protein ClpS	ClpS			1LZW
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_01290	COG0128	E	5-enolpyruvylshikimate-3-phosphate synthase	AroA	Aromatic amino acid biosynthesis		4N3P
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_01295	COG1225	O	Peroxiredoxin	Bcp			5IPH
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_01300	COG1249	C	Dihydrolipoamide dehydrogenase (E3) component of pyruvate/2-oxoglutarate dehydrogenase complex or glutathione oxidoreductase	Lpd	Glycine cleavagePyruvate oxidation		6QKG
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_01305	COG4774	P	Outer membrane receptor for monomeric catechols	Fiu			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_01310	COG0864	K	Metal-responsive transcriptional regulator, contains CopG/Arc/MetJ DNA-binding domain	NikR			1Q5V
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_01315	COG4321	R	Predicted DNA-binding protein, contains ribbon-helix-helix (RHH) domain				3KK4
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_01320	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_01325	COG0276	H	Protoheme ferro-lyase (ferrochelatase)	HemH	Heme biosynthesis		1AK1
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_01330	COG4631	F	Xanthine dehydrogenase, molybdopterin-binding subunit XdhB	XdhB			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_01335	COG1042	C	Acyl-CoA synthetase (NDP forming)	PatZN		26251518	4YAK
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_01340	COG1149	R	MinD superfamily P-loop ATPase, contains an inserted ferredoxin domain				
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_01350	COG2268	S	Uncharacterized membrane protein YqiK, contains Band7/PHB/SPFH domain	YqiK			1WIN
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_01355	COG0793	O	C-terminal processing protease CtpA/Prc, contains a PDZ domain	CtpA			6IQU
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_01365	COG0308	E	Aminopeptidase N, contains DUF3458 domain	PepN		24123841	6ATK
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_01370	COG0824	I	Acyl-CoA thioesterase FadM	FadM	Menaquinone biosynthesis		2FUJ
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_01375	COG0780	J	NADPH-dependent 7-cyano-7-deazaguanine reductase QueF, C-terminal domain, T-fold superfamily	QueFC	tRNA modification	14660578;17384645	3BP1
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_01390	COG0415	L	Deoxyribodipyrimidine photolyase	PhrB			1TEZ
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_01395	COG0607	P	Rhodanese-related sulfurtransferase	PspE	Urea cycle		1TQ1
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_01400	COG0626	E	Cystathionine beta-lyase/cystathionine gamma-synthase	MetC	Methionine biosynthesis		1CL1
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_01410	COG2154	H	Pterin-4a-carbinolamine dehydratase	PhhB			1DCH
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_01415	COG1120	PH	ABC-type cobalamin/Fe3+-siderophores transport system, ATPase component	FepC			2NQ2
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_01420	COG0313	J	16S rRNA C1402 (ribose-2'-O) methylase RsmI	RsmI	16S rRNA modification	24078611	3KWP
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_01425	COG3107	M	Outer membrane lipoprotein LpoA, binds and activates PBP1a	LpoA		21183074	2MHK
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_01435	COG0242	J	Peptide deformylase	Def			1BS4
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_01440	COG0353	L	Recombinational DNA repair protein RecR	RecR		26337406	2JGR
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_01445	COG0299	F	Folate-dependent phosphoribosylglycinamide formyltransferase PurN	PurN	Purine biosynthesis	25013077	1C2T
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_01450	COG0101	J	tRNA U38,U39,U40 pseudouridine synthase TruA	TruA	tRNA modification		1DJ0
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_01455	COG0034	F	Glutamine phosphoribosylpyrophosphate amidotransferase	PurF	Purine biosynthesis		1ECB
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_01465	COG0438	M	Glycosyltransferase involved in cell wall bisynthesis	RfaB			2IV7
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_01470	COG5653	N	Acetyltransferase involved in cellulose biosynthesis, CelD/BcsL family	BcsL			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_01475	COG0726	GM	Peptidoglycan/xylan/chitin deacetylase, PgdA/NodB/CDA1 family	CDA1			1NY1
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_01480	COG2842	X	Bacteriophage DNA transposition protein, AAA+ family ATPase				
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_01490	COG1192	DN	ParA-like ATPase involved in chromosome/plasmid partitioning or cellulose biosynthesis protein BcsQ	ParA			6NOO
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_01495	COG3206	M	Exopolysaccharide export protein/domain GumC/Wzc1	GumC		15003255;23089617	
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_01515	COG1061	KL	Superfamily II DNA or RNA helicase	SSL2			6JDE
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_01520	COG2176	L	DNA polymerase III, alpha subunit (gram-positive type)	PolC			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_01525	COG2856	O	Zn-dependent peptidase ImmA, M78 family	ImmA			3DTE
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_01530	COG1396	K	Transcriptional regulator, contains XRE-family HTH domain	HipB			1ADR
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_01545	COG1179	J	tRNA A37 threonylcarbamoyladenosine dehydratase	TcdA	tRNA modification	27913733	4D7A
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_01555	COG0606	O	Predicted Mg-chelatase, contains ChlI-like and ATPase domains, YifB family	YifB			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_01565	COG0305	L	Replicative DNA helicase	DnaB			1B79
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_01575	COG3757	M	Lyzozyme M1 (1,4-beta-N-acetylmuramidase), GH25 family	Acm			1H09
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_01585	COG0717	F	dCTP deaminase	Dcd	Thymidylate biosynthesis		1XS1
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_01590	COG2204	T	DNA-binding transcriptional response regulator, NtrC family, contains REC, AAA-type ATPase, and a Fis-type DNA-binding domains	AtoC			1ZY2
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_01600	COG1748	E	Saccharopine dehydrogenase, NADP-dependent	Lys9	Lysine biosynthesis		1E5L
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_01605	COG2259	S	Uncharacterized membrane protein YphA, DoxX/SURF4 family	DoxX			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_01610	COG1012	I	Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase	AdhE	Proline degradation		1A4S
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_01640	COG5317	S	Uncharacterized conserved protein, DUF1465 domain				3CTW
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_01655	COG3605	T	Signal transduction protein containing GAF and PtsI domains	PtsP			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_01660	COG1426	D	Cytoskeletal protein RodZ, contains Xre-like HTH and DUF4115 domains	RodZ			3FYM
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_01665	COG1729	D	Cell division protein CpoB, coordinates peptidoglycan biosynthesis and outer membrane constriction	CpoB		25951518	2WZ7
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_01675	COG0465	O	ATP-dependent Zn proteases	HflB			1LV7
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_01680	COG0457	R	Tetratricopeptide (TPR) repeat	TPR			3AS4
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_01685	COG1758	K	DNA-directed RNA polymerase, subunit K/omega	RpoZ	RNA polymerase		3LU0
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_01690	COG2133	G	Glucose/arabinose dehydrogenase, beta-propeller fold	YliI			1C9U
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_01710	COG0341	U	Preprotein translocase subunit SecF	SecF		28830929	2FYH
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_01715	COG0341	U	Preprotein translocase subunit SecF	SecF		28830929	2FYH
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_01720	COG1862	U	Protein translocase subunit YajC	YajC			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_01735	COG0431	C	NAD(P)H-dependent FMN reductase	SsuE			6DQI
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_01740	COG0665	E	Glycine/D-amino acid oxidase (deaminating)	DadA			3AWI
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_01750	COG0667	HR	Pyridoxal reductase PdxI or related oxidoreductase, aldo/keto reductase family	PdxI		32253339	1LQA
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_01775	COG2352	C	Phosphoenolpyruvate carboxylase	Ppc	Urea cycle		1FIY
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_01780	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_01785	COG1164	E	Oligoendopeptidase F	PepF			3CE2
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_01790	COG3845	F	ABC-type guanosine uptake system NupNOPQ, ATPase component NupO	NupO		21926227	
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_01795	COG0209	F	Ribonucleotide reductase alpha subunit	NrdA	Pyrimidine salvage		1R1R
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_01820	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_01825	COG5454	S	Predicted secreted protein				
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_01830	COG1236	J	RNA processing exonuclease, beta-lactamase fold, Cft2 family	YSH1			2DKF
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_01835	COG1070	G	Sugar (pentulose or hexulose) kinase	XylB	Non-phosphorylated Entner-Doudoroff pathway		4C23
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_01840	COG0340	H	Biotin-(acetyl-CoA carboxylase) ligase	BirA2	Biotin biosynthesis	32188788	1BIA
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_01845	COG1008	C	NADH:ubiquinone oxidoreductase subunit 4 (chain M)	NuoM	NADH dehydrogenase		6HUM
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_01850	COG1008	C	NADH:ubiquinone oxidoreductase subunit 4 (chain M)	NuoM	NADH dehydrogenase		6HUM
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_01855	COG1009	C	Membrane H+-translocase/NADH:ubiquinone oxidoreductase subunit 5 (chain L)/Multisubunit Na+/H+ antiporter, MnhA subunit	NuoL	NADH dehydrogenase		3RKO
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_01860	COG0713	C	NADH:ubiquinone oxidoreductase subunit 11 or 4L (chain K)	NuoK	NADH dehydrogenase		4HE8
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_01870	COG3383	R	Predicted molibdopterin-dependent oxidoreductase YjgC	YjgC			1AA6
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_01875	COG0650	C	Formate hydrogenlyase subunit HyfC	HyfC			6CFW
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_01885	COG1034	C	NADH dehydrogenase/NADH:ubiquinone oxidoreductase 75 kD subunit (chain G)	NuoG	NADH dehydrogenase		1C4A
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_01890	COG1894	C	NADH:ubiquinone oxidoreductase, NADH-binding 51 kD subunit (chain F)	NuoF	NADH dehydrogenase		2FUG
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_01900	COG1905	C	NADH:ubiquinone oxidoreductase 24 kD subunit (chain E)	NuoE	NADH dehydrogenase		5XF9
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_01905	COG0649	C	NADH:ubiquinone oxidoreductase 49 kD subunit (chain D)	NuoD	NADH dehydrogenase		2FUG
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_01910	COG3262	C	Ni,Fe-hydrogenase III component G	HycE1			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_01915	COG1941	C	Coenzyme F420-reducing hydrogenase, gamma subunit	FrhG			5ODC
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_01925	COG1218	P	3'-Phosphoadenosine 5'-phosphosulfate (PAPS) 3'-phosphatase	CysQ			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_01935	COG0231	J	Translation elongation factor P (EF-P)/translation initiation factor 5A (eIF-5A)	Efp	Translation factors		1UEB
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_01940	COG0739	M	Murein DD-endopeptidase MepM and murein hydrolase activator NlpD, contains LysM domain	NlpD			2GU1
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_01950	COG0352	H	Thiamine monophosphate synthase	ThiE	Thiamine biosynthesis	19060138	1G4T
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_01960	COG3393	R	Predicted acetyltransferase, GNAT family				
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_01965	COG0126	G	3-phosphoglycerate kinase	Pgk	Glycolysis		13PK
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_01970	COG0057	G	Glyceraldehyde-3-phosphate dehydrogenase/erythrose-4-phosphate dehydrogenase	GapA	Glycolysis		3ZDF
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_01975	COG0021	G	Transketolase	TktA	Pentose phosphate pathway		1AY0
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_01985	COG2081	R	Predicted flavoprotein YhiN	YhiN			3V76
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_01995	COG4206	H	Outer membrane cobalamin receptor protein BtuB	BtuB			1NQE
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_02015	COG0412	Q	Dienelactone hydrolase	DLH			4ZV9
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_02025	COG2234	OE	Zn-dependent amino- or carboxypeptidase, M28 family	Iap			1AMP
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_02030	COG1129	G	ABC-type sugar transport system, ATPase component	MglA			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_02045	COG1254	C	Acylphosphatase	AcyP			1APS
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_02055	COG0174	E	Glutamine synthetase	GlnA	Glutamine biosynthesis		1F1H
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_02060	COG1846	K	DNA-binding transcriptional regulator, MarR family	MarR			1JGS
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_02070	COG4635	H	Protoporphyrinogen IX oxidase, menaquinone-dependent (flavodoxin domain)	HemG		17873039	
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_02075	COG1187	J	Pseudouridylate synthase RsuA, specific for 16S rRNA U516  and 23S rRNA U2605	RsuA	16S rRNA modification		1KSK
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_02080	COG1186	J	Protein chain release factor PrfB	PrfB	Translation factors		1GQE
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_02085	COG2203	T	GAF domain	GAF			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_02100	COG0031	E	Cysteine synthase	CysK	Cysteine biosynthesis		1FCJ
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_02105	COG1023	G	6-phosphogluconate dehydrogenase (decarboxylating)	YqeC			4E21
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_02110	COG1228	Q	Imidazolonepropionase or related amidohydrolase	HutI			3OOQ
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_02120	COG0514	L	Superfamily II DNA helicase RecQ	RecQ			1OYW
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_02135	COG3658	C	Cytochrome b subunit of Ni2+-dependent hydrogenase	CytB			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_02140	COG3931	E	Predicted N-formylglutamate amidohydrolase	HutG2			2ODF
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_02145	COG2204	T	DNA-binding transcriptional response regulator, NtrC family, contains REC, AAA-type ATPase, and a Fis-type DNA-binding domains	AtoC			1ZY2
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_02165	COG1946	I	Acyl-CoA thioesterase	TesB			1C8U
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_02170	COG2227	H	2-polyprenyl-3-methyl-5-hydroxy-6-metoxy-1,4-benzoquinol methylase	UbiG	Ubiquinone biosynthesis		1BHJ
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_02180	COG3544	S	Uncharacterized conserved protein, DUF305 family				5FEJ
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_02185	COG0730	P	Sulfite exporter TauE/SafE/YfcA and related permeases, UPF0721 family	TauE		21183667;22797525	
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_02190	COG0607	P	Rhodanese-related sulfurtransferase	PspE	Urea cycle		1TQ1
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_02195	COG0640	K	DNA-binding transcriptional regulator, ArsR family	ArsR			3F6V
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_02200	COG0491	R	Glyoxylase or a related metal-dependent hydrolase, beta-lactamase superfamily II	GloB		25670698	1QH3
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_02205	COG3544	S	Uncharacterized conserved protein, DUF305 family				5FEJ
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_02230	COG0541	U	Signal recognition particle GTPase	Ffh			2V3C
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_02235	COG3706	TK	Two-component response regulator, PleD family, consists of two REC domains and a diguanylate cyclase (GGDEF) domain	PleD			1W25
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_02240	COG0253	E	Diaminopimelate epimerase	DapF	Lysine biosynthesis		1BWZ
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_02245	COG1032	R	Radical SAM superfamily enzyme YgiQ, UPF0313 family	YgiQ			6FD2
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_02250	COG0552	U	Signal recognition particle GTPase FtsY	FtsY			4AK9
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_02260	COG0556	L	Excinuclease UvrABC helicase subunit UvrB	UvrB			1C4O
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_02270	COG4233	OC	Thiol-disulfide interchange protein, contains DsbC and DsbD domains				
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_02280	COG2185	I	Methylmalonyl-CoA mutase, C-terminal domain/subunit (cobalamin-binding)	Sbm			1B1A
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_02285	COG0646	E	Methionine synthase I (cobalamin-dependent), methyltransferase domain	MetH1	Methionine biosynthesis		1LT7
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_02300	COG3064	M	Membrane protein TolA involved in colicin uptake	TolA			1S62
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_02405	COG1396	K	Transcriptional regulator, contains XRE-family HTH domain	HipB			1ADR
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_02420	COG0305	L	Replicative DNA helicase	DnaB			1B79
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_02450	COG3736	U	Type IV secretory pathway, component VirB8	VirB8			2BHM
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_02455	COG3504	U	Type IV secretory pathway, VirB9 components	VirB9			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_02465	COG2804	NUW	Type II secretory pathway ATPase GspE/PulE or T4P pilus assembly pathway ATPase PilB	PulE			4KSR
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_02480	COG1221	KT	Transcriptional regulators containing an AAA-type ATPase domain and a DNA-binding domain	PspF			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_02490	COG1078	R	HD superfamily phosphohydrolase	YdhJ			2HEK
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_02510	COG0210	L	Superfamily I DNA or RNA helicase	UvrD			6PPR
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_02520	COG1110	L	Reverse gyrase	TopG2			1GKU
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_02535	COG0358	L	DNA primase (bacterial type)	DnaG		28128549	3B39
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_02560	COG0209	F	Ribonucleotide reductase alpha subunit	NrdA	Pyrimidine salvage		1R1R
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_02570	COG0444	EP	ABC-type dipeptide/oligopeptide/nickel transport system, ATPase component	DppD			4FWI
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_02575	COG0600	P	ABC-type nitrate/sulfonate/bicarbonate transport system, permease component	TauC			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_02585	COG0177	L	Endonuclease III	Nth			4UOB
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_02590	COG0566	J	tRNA G18 (ribose-2'-O)-methylase SpoU	SpoU	tRNA modification		1GZ0
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_02600	COG2273	G	Beta-glucanase, GH16 family	BglS			1AJK
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_02605	COG1472	G	Periplasmic beta-glucosidase and related glycosidases	BglX			2X40
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_02620	COG1233	Q	Phytoene dehydrogenase-related protein				4REP
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_02625	COG1205	L	ATP-dependent helicase YprA,  contains C-terminal metal-binding DUF1998 domain	YprA			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_02635	COG1741	R	Redox-sensitive bicupin YhaK, pirin superfamily	YhaK		18561187	1J1L
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_02640	COG1506	E	Dipeptidyl aminopeptidase/acylaminoacyl peptidase	DAP2			2JBW
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_02645	COG0040	E	ATP phosphoribosyltransferase	HisG	Histidine biosynthesis		1H3D
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_02650	COG0141	E	Histidinol dehydrogenase	HisD	Histidine biosynthesis		1K75
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_02660	COG0309	O	Carbamoyl dehydratase HypE (hydrogenase maturation factor)	HypE		28618091	2I6R
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_02665	COG0143	J	Methionyl-tRNA synthetase	MetG	Aminoacyl-tRNA synthetases		1A8H
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_02670	COG0823	U	Periplasmic component TolB of the Tol biopolymer transport system	TolB			1C5K
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_02680	COG3827	D	Cell pole-organizing protein PopZ	PopZ			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_02685	COG1538	M	Outer membrane protein TolC	TolC			1EK9
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_02690	COG2519	J	tRNA A58 N-methylase Trm61	Gcd14	tRNA modification		1I9G
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_02710	COG1530	J	Ribonuclease G or E	CafA			1SLJ
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_02715	COG0424	Q	7-methyl-GTP pyrophosphatase and related NTP pyrophosphatases, Maf/HAM1 superfamily	Maf		24210219	2P5X
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_02720	COG0361	J	Translation initiation factor IF-1	InfA	Translation factors		5FIM
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_02730	COG1273	L	Non-homologous end joining protein Ku, dsDNA break repair	YkoV			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_02745	COG2205	T	K+-sensing histidine kinase KdpD	KdpD			2KSF
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_02750	COG0784	T	CheY-like REC (receiver) domain, includes chemotaxis protein CheY  and sporulation regulator Spo0F	CheY			6QRJ
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_02755	COG2148	M	Sugar transferase involved in LPS biosynthesis (colanic, teichoic acid)	WcaJ			5W7L
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_02760	COG2244	M	Membrane protein involved in the export of O-antigen and teichoic acid	RfbX			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_02765	COG1215	N	Glycosyltransferase, catalytic subunit of cellulose synthase and poly-beta-1,6-N-acetylglucosamine synthase	BcsA			4HG6
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_02770	COG1215	N	Glycosyltransferase, catalytic subunit of cellulose synthase and poly-beta-1,6-N-acetylglucosamine synthase	BcsA			4HG6
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_02785	COG3206	M	Exopolysaccharide export protein/domain GumC/Wzc1	GumC		15003255;23089617	
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_02800	COG0784	T	CheY-like REC (receiver) domain, includes chemotaxis protein CheY  and sporulation regulator Spo0F	CheY			6QRJ
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_02810	COG2951	M	Membrane-bound lytic murein transglycosylase B	MltB			1D0K
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_02820	COG2367	V	Beta-lactamase class A	PenP			6W34
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_02825	COG0194	F	Guanylate kinase	Gmk			1EX6
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_02830	COG0470	L	DNA polymerase III, delta prime subunit	HolB			1A5T
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_02840	COG0596	HR	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold	MenH	Menaquinone biosynthesis		4MYS
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_02845	COG1476	K	DNA-binding transcriptional regulator, XRE-family HTH domain	XRE			1UTX
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_02860	COG0442	J	Prolyl-tRNA synthetase	ProS	Aminoacyl-tRNA synthetases		5XIF
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_02865	COG0290	J	Translation initiation factor IF-3	InfC	Translation factors		2IFE
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_02870	COG0225	O	Peptide methionine sulfoxide reductase MsrA	MsrA			1FF3
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_02880	COG0115	EH	Branched-chain amino acid aminotransferase/4-amino-4-deoxychorismate lyase	IlvE	Isoleucine, leucine, valine biosynthesis		1A3G
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_02885	COG0441	J	Threonyl-tRNA synthetase	ThrS	Aminoacyl-tRNA synthetases		1NYQ
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_02895	COG2068	H	CTP:molybdopterin cytidylyltransferase MocA	MocA			2WAW
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_02900	COG1529	C	Aldehyde, CO or xanthine dehydrogenase, Mo-binding subunit	CoxL	Non-phosphorylated Entner-Doudoroff pathway	10095793	1DGJ
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_02905	COG1319	C	Aldehyde, CO, or xanthine dehydrogenase, FAD-binding subunit	CutB	Non-phosphorylated Entner-Doudoroff pathway		5Y6Q
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_02910	COG0479	C	Succinate dehydrogenase/fumarate reductase, Fe-S protein subunit	SdhB/FrdB	TCA cycle		6LUM
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_02915	COG0746	H	Molybdopterin-guanine dinucleotide biosynthesis protein A	MobA	Molybdopterin biosynthesis	32239579	1E5K
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_02920	COG1526	C	Formate dehydrogenase assembly factor FdhD, a sulfurtransferase	FdhD			2PW9
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_02925	COG0753	P	Catalase	KatE			6RJR
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_02930	COG0243	C	Anaerobic selenocysteine-containing dehydrogenase	BisC			1EU1
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_02935	COG0535	DH	Radical SAM superfamily maturase, SkfB/NifB/PqqE family	SkfB		23282011	6Q2P
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_02940	COG0845	MV	Multidrug efflux pump subunit AcrA (membrane-fusion protein)	AcrA			1T5E
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_02945	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_02950	COG0066	E	3-isopropylmalate dehydratase small subunit	LeuD	Isoleucine, leucine, valine biosynthesis		3Q3W
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_02970	COG0239	DP	Fluoride ion exporter CrcB/FEX, affects chromosome condensation	CrcB			5A40
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_02975	COG1187	J	Pseudouridylate synthase RsuA, specific for 16S rRNA U516  and 23S rRNA U2605	RsuA	16S rRNA modification		1KSK
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_03000	COG3709	G	Ribose 1,5-bisphosphate kinase PhnN	PhnN			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_03015	COG0015	F	Adenylosuccinate lyase	PurB	Purine biosynthesis		2HVG
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_03025	COG0131	E	Imidazoleglycerol phosphate dehydratase HisB	HisB2	Histidine biosynthesis		1RHY
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_03035	COG0504	F	CTP synthase (UTP-ammonia lyase)	PyrG	Pyrimidine biosynthesis		1S1M
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_03040	COG1823	E	L-cystine transporter TcyP, sodium:dicarboxylate symporter family	TcyP			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_03045	COG2902	E	NAD-specific glutamate dehydrogenase	Gdh2			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_03055	COG0841	V	Multidrug efflux pump subunit AcrB	AcrB			1IWG
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_03060	COG1566	V	Multidrug resistance efflux pump EmrA	EmrA			4TKO
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_03065	COG2261	R	Uncharacterized membrane protein YeaQ/YmgE, transglycosylase-associated protein family	YeaQ			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_03075	COG1606	R	ATP-utilizing enzyme, PP-loop superfamily				6B2O
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_03080	COG2202	T	PAS domain	PAS			2MWG
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_03100	COG0384	R	Predicted epimerase YddE/YHI9, PhzF superfamily	YHI9		24914732	1SDJ
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_03105	COG1230	P	Co/Zn/Cd efflux system component	CzcD			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_03110	COG3871	S	General stress protein 26 (function unknown)	YzzA			2I02
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_03115	COG2214	K	Curved DNA-binding protein CbpA, contains a DnaJ-like domain	CbpA			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_03120	COG1295	S	Uncharacterized membrane protein, BrkB/YihY/UPF0761 family (not an RNase)	BrkB			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_03125	COG1028	I	NAD(P)-dependent dehydrogenase, short-chain alcohol dehydrogenase family	FabG	Fatty acid biosynthesis		6L1H
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_03130	COG3153	R	Predicted N-acetyltransferase YhbS	yhbS			4ZBG
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_03140	COG5653	N	Acetyltransferase involved in cellulose biosynthesis, CelD/BcsL family	BcsL			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_03150	COG0069	E	Glutamate synthase domain 2	GltB2	Glutamine biosynthesis		1EA0
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_03155	COG3184	S	Uncharacterized conserved protein, contains DUF2059 domain			15741337	2X3O
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_03160	COG0492	O	Thioredoxin reductase	TrxB			3FBS
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_03165	COG1968	I	Undecaprenyl pyrophosphate phosphatase	UppP			5OON
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_03170	COG0451	M	Nucleoside-diphosphate-sugar epimerase	WcaG			2X4G
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_03180	COG0582	LX	Integrase/recombinase, includes phage integrase	FimB			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_03200	COG3440	V	Predicted restriction endonuclease				
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_03220	COG0732	V	Restriction endonuclease S subunit	HsdS			1YDX
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_03225	COG0610	V	Type I site-specific restriction-modification system, R (restriction) subunit and related helicases ...				2W00
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_03230	COG1451	R	UTP pyrophosphatase, metal-dependent hydrolase family	YgjP		27941785	4JIU
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_03240	COG0555	P	ABC-type sulfate transport system, permease component	CysU			3D31
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_03245	COG0226	P	ABC-type phosphate transport system, periplasmic component	PstS			2Q9T
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_03250	COG3852	T	Signal transduction histidine kinase NtrB, nitrogen specific	NtrB		23893111	
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_03265	COG0529	P	Adenylylsulfate kinase or related kinase	CysC	Cysteine biosynthesis		2GKS
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_03285	COG2009	C	Succinate dehydrogenase/fumarate reductase, cytochrome b subunit	SdhC		18511537	2WU2
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_03295	COG1053	C	Succinate dehydrogenase/fumarate reductase, flavoprotein subunit	SdhA	TCA cycle		1KF6
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_03300	COG0247	C	Fe-S cluster-containing oxidoreductase, includes glycolate oxidase subunit GlcF	GlpC			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_03305	COG0446	I	NADPH-dependent 2,4-dienoyl-CoA reductase, sulfur reductase, or a related oxidoreductase	FadH2			1VRQ
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_03325	COG1225	O	Peroxiredoxin	Bcp			5IPH
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_03330	COG0589	T	Nucleotide-binding universal stress protein,  UspA family	UspA			1JMV
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_03335	COG1038	C	Pyruvate carboxylase	PycA	Urea cycle		5VYW
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_03340	COG1607	I	Acyl-CoA hydrolase	YciA			5DM5
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_03345	COG0446	I	NADPH-dependent 2,4-dienoyl-CoA reductase, sulfur reductase, or a related oxidoreductase	FadH2			1VRQ
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_03360	COG1012	I	Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase	AdhE	Proline degradation		1A4S
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_03365	COG0784	T	CheY-like REC (receiver) domain, includes chemotaxis protein CheY  and sporulation regulator Spo0F	CheY			6QRJ
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_03370	COG0642	T	Signal transduction histidine kinase	BaeS			1JOY
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_03375	COG3346	O	Cytochrome oxidase assembly protein ShyY1	Shy1			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_03385	COG1845	C	Heme/copper-type cytochrome/quinol oxidase, subunit 3	CyoC			1QLE
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_03390	COG0843	C	Heme/copper-type cytochrome/quinol oxidase, subunit 1	CyoB			1AR1
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_03395	COG1622	C	Heme/copper-type cytochrome/quinol oxidase, subunit 2	CyoA			1CYW
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_03400	COG2814	G	Predicted arabinose efflux permease AraJ, MFS family	AraJ			4LDS
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_03405	COG4235	CO	Cytochrome c-type biogenesis protein CcmH/NrfG	NrfG			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_03410	COG4774	P	Outer membrane receptor for monomeric catechols	Fiu			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_03425	COG0801	H	7,8-dihydro-6-hydroxymethylpterin pyrophosphokinase (folate biosynthesis)	FolK	Folate biosynthesis		1CBK
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_03440	COG0815	M	Apolipoprotein N-acyltransferase	Lnt			6NWR
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_03445	COG2968	S	Uncharacterized conserved protein YggE, contains kinase-interacting SIMPL domain	YggE			4HVZ
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_03450	COG0676	G	D-hexose-6-phosphate mutarotase	YeaD			1JOV
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_03455	COG5001	T	Cyclic di-GMP metabolism protein, combines GGDEF and EAL domains with a 6TM membrane domain				
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_03470	COG2234	OE	Zn-dependent amino- or carboxypeptidase, M28 family	Iap			1AMP
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_03475	COG0522	J	Ribosomal protein S4 or related protein	RpsD	Ribosome 30S subunit		4V4H
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_03480	COG1605	E	Chorismate mutase	PheA	Aromatic amino acid biosynthesis		1ECM
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_03485	COG0219	J	tRNA(Leu) C34 or U34 (ribose-2'-O)-methylase TrmL, contains SPOUT domain	TrmL	tRNA modification		4JAK
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_03510	COG1106	R	ATPase/GTPase, AAA15 family				
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_03520	COG1123	O	ABC-type glutathione transport system ATPase component, contains duplicated ATPase domain	GsiA			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_03525	COG0769	M	UDP-N-acetylmuramyl tripeptide synthase	MurE	Mureine biosynthesis		1E8C
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_03530	COG0768	DM	Cell division protein FtsI, peptidoglycan transpeptidase (Penicillin-binding protein 2)	FtsI			6HZQ
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_03540	COG0275	J	16S rRNA C1402 N4-methylase RsmH	RmsH	16S rRNA modification		1M6Y
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_03545	COG2001	J	MraZ, DNA-binding transcriptional regulator and inhibitor of RsmH methyltransferase activity	MraZ			1N0E
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_03560	COG0498	E	Threonine synthase	ThrC	Threonine biosynthesis		1VB3
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_03570	COG0805	U	Twin-arginine protein secretion pathway component TatC	TatC			4B4A
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_03575	COG4172	Q	ABC-type microcin C transport system, duplicated ATPase component YejF	YejF		17873039	
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_03580	COG0577	V	ABC-type antimicrobial peptide transport system, permease component	SalY			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_03590	COG3920	T	Two-component sensor histidine kinase, HisKA and HATPase domains				4R39
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_03595	COG0784	T	CheY-like REC (receiver) domain, includes chemotaxis protein CheY  and sporulation regulator Spo0F	CheY			6QRJ
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_03600	COG0664	T	cAMP-binding domain of CRP or a regulatory subunit of cAMP-dependent protein kinases	Crp			1FT9
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_03610	COG0008	J	Glutamyl- or glutaminyl-tRNA synthetase	GlnS	Heme biosynthesis		1EUQ
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_03620	COG3185	ER	4-hydroxyphenylpyruvate dioxygenase and related hemolysins	HppD			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_03625	COG3508	Q	Homogentisate 1,2-dioxygenase	HmgA			1EY2
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_03640	COG2225	C	Malate synthase	AceB	TCA cycle, glyoxylate bypass		1D8C
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_03645	COG0148	G	Enolase	Eno	Glycolysis		1E9I
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_03650	COG0045	C	Succinyl-CoA synthetase, beta subunit	SucC	TCA cycle		1SCU
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_03675	COG3705	E	ATP phosphoribosyltransferase regulatory subunit HisZ	HisZ		9767141	3OD1
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_03680	COG1186	J	Protein chain release factor PrfB	PrfB	Translation factors		1GQE
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_03685	COG1233	Q	Phytoene dehydrogenase-related protein				4REP
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_03690	COG1309	K	DNA-binding protein, AcrR family, includes nucleoid occlusion protein SlmA	AcrR			2QOP
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_03705	COG0845	MV	Multidrug efflux pump subunit AcrA (membrane-fusion protein)	AcrA			1T5E
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_03710	COG1538	M	Outer membrane protein TolC	TolC			1EK9
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_03715	COG1414	K	DNA-binding transcriptional regulator, IclR family	IclR			1MKM
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_03725	COG0730	P	Sulfite exporter TauE/SafE/YfcA and related permeases, UPF0721 family	TauE		21183667;22797525	
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_03740	COG0525	J	Valyl-tRNA synthetase	ValS	Aminoacyl-tRNA synthetases		1GAX
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_03750	COG3963	I	Phosphatidylethanolamine N-methyltransferase				
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_03755	COG1937	K	DNA-binding transcriptional regulator, FrmR family	FrmR			2HH7
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_03760	COG0695	O	Glutaredoxin	GrxC			1AAZ
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_03785	COG4774	P	Outer membrane receptor for monomeric catechols	Fiu			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_03795	COG3182	S	PepSY-associated TM region	PiuB		15124630	
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_03800	COG1629	P	Outer membrane receptor protein, Fe transport	CirA			1BY3
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_03805	COG0553	KL	Superfamily II DNA or RNA helicase, SNF2 family	HepA			6UXV
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_03820	COG2378	K	Predicted DNA-binding transcriptional regulator YobV, contains HTH and WYL domains	YobV			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_03830	COG1401	V	5-methylcytosine-specific restriction endonuclease McrBC, GTP-binding regulatory subunit McrB	McrB			6HZ4
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_03835	COG3359	R	Uncharacterized conserved protein YprB, contains RNaseH-like and TPR domains	YprB			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_03860	COG0582	LX	Integrase/recombinase, includes phage integrase	FimB			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_03875	COG0842	V	ABC-type multidrug transport system, permease component	YadH			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_03890	COG0187	L	DNA gyrase/topoisomerase IV, subunit B	GyrB			1EI1
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_03895	COG2367	V	Beta-lactamase class A	PenP			6W34
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_03910	COG0626	E	Cystathionine beta-lyase/cystathionine gamma-synthase	MetC	Methionine biosynthesis		1CL1
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_03915	COG1928	O	Dolichyl-phosphate-mannose--protein O-mannosyl transferase	PMT1			1N4K
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_03925	COG0566	J	tRNA G18 (ribose-2'-O)-methylase SpoU	SpoU	tRNA modification		1GZ0
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_03940	COG0321	H	Lipoate-protein ligase B	LipB	Lipoate biosynthesis	19798051	2QHT
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_03950	COG1012	I	Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase	AdhE	Proline degradation		1A4S
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_03955	COG2323	S	Uncharacterized membrane protein YcaP, DUF421 family	YcaP			3C6F
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_03960	COG1541	H	Phenylacetate-coenzyme A ligase PaaK, adenylate-forming domain family	PaaK			2Y4O
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_03970	COG0297	G	Glycogen synthase	GlgA			1RZU
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_03975	COG1408	R	Predicted phosphohydrolase, MPP superfamily	YaeI			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_03980	COG2130	QR	NADPH-dependent curcumin reductase CurA	CurA		21467222	1V3T
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_03990	COG0542	O	ATP-dependent Clp protease, ATP-binding subunit ClpA	ClpA			1KSF
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_03995	COG0596	HR	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold	MenH	Menaquinone biosynthesis		4MYS
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_04000	COG0308	E	Aminopeptidase N, contains DUF3458 domain	PepN		24123841	6ATK
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_04005	COG0744	M	Penicillin-binding protein 1B/1F, peptidoglycan  transglycosylase/transpeptidase	MrcB			3FWL
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_04020	COG1514	J	RNA 2',3'-cyclic phosphodiesterase (2'-5' RNA ligase)	ThpR		25239919	1IUH
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_04025	COG4551	R	Predicted protein tyrosine phosphatase				
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_04030	COG2271	G	Sugar phosphate permease	UhpC			1PW4
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_04040	COG1360	N	Flagellar motor protein MotB	MotB			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_04060	COG5000	T	Signal transduction histidine kinase NtrY involved in nitrogen fixation and metabolism regulation	NtrY			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_04075	COG1764	V	Organic hydroperoxide reductase OsmC/OhrA	OsmC			1QWI
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_04090	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_04120	COG2130	QR	NADPH-dependent curcumin reductase CurA	CurA		21467222	1V3T
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_04125	COG2334	T	Ser/Thr protein kinase RdoA involved in Cpx stress response, MazF antagonist	SrkA	Threonine biosynthesis		1ZYL
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_04135	COG4221	C	NADP-dependent 3-hydroxy acid dehydrogenase YdfG	YdfG	Pyrimidine degradation		3P19
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_04140	COG0167	F	Dihydroorotate dehydrogenase	PyrD	Pyrimidine biosynthesis		1GT8
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_04145	COG2234	OE	Zn-dependent amino- or carboxypeptidase, M28 family	Iap			1AMP
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_04150	COG2274	V	ABC-type bacteriocin/lantibiotic exporters, contain an N-terminal double-glycine peptidase domain	SunT			3K8U
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_04170	COG0664	T	cAMP-binding domain of CRP or a regulatory subunit of cAMP-dependent protein kinases	Crp			1FT9
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_04175	COG5278	T	Extracytoplasmic sensor domain CHASE3 (specificity unknown)	CHASE3			3VA9
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_04190	COG3437	T	Response regulator c-di-GMP phosphodiesterase, RpfG family, contains REC and HD-GYP domains	RpfG			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_04195	COG0365	I	Acyl-coenzyme A synthetase/AMP-(fatty) acid ligase	Acs		14638756	4B2O
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_04200	COG1012	I	Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase	AdhE	Proline degradation		1A4S
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_04205	COG3829	KT	RocR-type transcriptional regulator, contains PAS, AAA-type ATPase, and DNA-binding Fis domains	RocR			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_04210	COG3243	I	Poly-beta-hydroxybutyrate synthase	PhaC			5XAV
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_04215	COG3339	S	Uncharacterized membrane protein YkvA, DUF1232 family	YkvA			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_04220	COG1670	JO	Protein N-acetyltransferase, RimJ/RimL family	RimL			1S7F
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_04225	COG0623	I	Enoyl-[acyl-carrier-protein] reductase FabI	FabI	Fatty acid biosynthesis		1C14
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_04230	COG3871	S	General stress protein 26 (function unknown)	YzzA			2I02
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_04245	COG0116	J	23S rRNA G2445 N2-methylase RlmL	RlmL	23S rRNA modification	22362734	3V97
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_04260	COG2195	E	Di- or tripeptidase	PepD2			2QYV
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_04265	COG0060	J	Isoleucyl-tRNA synthetase	IleS	Aminoacyl-tRNA synthetases		1FFY
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_04270	COG0550	L	DNA topoisomerase IA	TopA			1CY0
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_04280	COG0758	L	Predicted Rossmann fold nucleotide-binding protein DprA/Smf involved in DNA uptake	Smf			3MAJ
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_04285	COG0344	I	Phospholipid biosynthesis protein PlsY, probable glycerol-3-phosphate acyltransferase	PlsY		29684280	5XJ5
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_04290	COG2771	K	DNA-binding transcriptional regulator, CsgD family	CsgD			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_04295	COG1794	M	Amino acid racemase YgeA	RacX			5ELL
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_04300	COG0156	H	7-keto-8-aminopelargonate synthetase or related enzyme	BioF	Biotin biosynthesis		1BS0
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_04310	COG1416	P	Intracellular sulfur oxidation protein, DsrE/DsrF family			9695921	1L1S
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_04315	COG1236	J	RNA processing exonuclease, beta-lactamase fold, Cft2 family	YSH1			2DKF
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_04330	COG0028	EH	Acetolactate synthase large subunit or other thiamine pyrophosphate-requiring enzyme	IlvB	Isoleucine, leucine, valine biosynthesis		1BFD
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_04340	COG1014	C	Pyruvate:ferredoxin oxidoreductase or related 2-oxoacid:ferredoxin oxidoreductase, gamma subunit	PorG	Pyruvate oxidation		1B0P
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_04345	COG2272	I	Carboxylesterase type B	PnbA			1K4Y
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_04350	COG0494	V	8-oxo-dGTP pyrophosphatase MutT and related house-cleaning NTP pyrophosphohydrolases, NUDIX family	MutT			4V14
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_04355	COG3137	M	Putative salt-induced outer membrane protein YdiY	YdiY			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_04360	COG0457	R	Tetratricopeptide (TPR) repeat	TPR			3AS4
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_04365	COG0293	J	23S rRNA U2552 (ribose-2'-O)-methylase RlmE/FtsJ	RlmE	23S rRNA modification	10769117	1EIZ
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_04370	COG3061	D	Cell division protein YtfB/OapA (opacity-associated protein A)	OapA		29686141	
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_04380	COG0517	T	CBS domain	CBS			1B3O
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_04385	COG2221	P	Dissimilatory sulfite reductase (desulfoviridin), alpha and beta subunits	DsrA			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_04395	COG2243	H	Precorrin-2 methylase	CobF	Cobalamine/B12 biosynthesis		2QBU
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_04400	COG1012	I	Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase	AdhE	Proline degradation		1A4S
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_04435	COG1473	R	Metal-dependent amidase/aminoacylase/carboxypeptidase	AbgB	Lysine biosynthesis	17307853	3RAM
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_04440	COG0030	J	16S rRNA A1518 and A1519 N6-dimethyltransferase RsmA/KsgA/DIM1 (may also have DNA glycosylase/AP lyase activity)	RsmA	16S rRNA modification		1QYR
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_04450	COG0760	O	Peptidyl-prolyl isomerase, parvulin family	SurA			2ZR5
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_04455	COG1934	M	Lipopolysaccharide export system protein LptA	LptA			2R19
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_04460	COG0260	E	Leucyl aminopeptidase	PepB		19553197;23825549	3H8E
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_04465	COG2927	L	DNA polymerase III, chi subunit	HolC			1EM8
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_04470	COG0105	F	Nucleoside diphosphate kinase	Ndk	Pyrimidine biosynthesis		1B4S
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_04485	COG0223	J	Methionyl-tRNA formyltransferase	Fmt			1FMT
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_04490	COG0150	F	Phosphoribosylaminoimidazole (AIR) synthetase	PurM	Purine biosynthesis		1CLI
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_04500	COG0593	L	Chromosomal replication initiation ATPase DnaA	DnaA			1L8Q
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_04505	COG0855	P	Polyphosphate kinase	Ppk			1XDO
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_04515	COG0749	L	DNA polymerase I, 3'-5' exonuclease and polymerase domains	PolA			1D8Y
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_04520	COG0173	J	Aspartyl-tRNA synthetase	AspS	Aminoacyl-tRNA synthetases		1C0A
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_04535	COG3577	R	Predicted aspartyl protease				5C9F
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_04545	COG0385	R	Predicted Na+-dependent transporter YfeH	YfeH		21175741	4N7X
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_04550	COG0325	H	Pyridoxal 5'-phosphate homeostasis protein YggS, UPF0001 family	YggS		26872910	3SY1
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_04555	COG0352	H	Thiamine monophosphate synthase	ThiE	Thiamine biosynthesis	19060138	1G4T
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_04570	COG0143	J	Methionyl-tRNA synthetase	MetG	Aminoacyl-tRNA synthetases		1A8H
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_04575	COG5468	S	Predicted lipoprotein involved in lipopolysaccharide assembly				
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_04590	COG0744	M	Penicillin-binding protein 1B/1F, peptidoglycan  transglycosylase/transpeptidase	MrcB			3FWL
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_04595	COG1451	R	UTP pyrophosphatase, metal-dependent hydrolase family	YgjP		27941785	4JIU
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_04605	COG1225	O	Peroxiredoxin	Bcp			5IPH
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_04610	COG0666	T	Ankyrin repeat	ANKYR			6AUN
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_04625	COG5447	S	Uncharacterized conserved protein, DUF1491 domain				2KNR
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_04630	COG2050	Q	Acyl-CoA thioesterase PaaI, contains HGG motif	PaaI			1PSU
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_04635	COG4668	G	Mannitol/fructose-specific phosphotransferase system, IIA domain	MtlA2			1A3A
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_04640	COG1544	J	Ribosome-associated translation inhibitor RaiA	RaiA			1IMU
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_04645	COG2176	L	DNA polymerase III, alpha subunit (gram-positive type)	PolC			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_04650	COG3243	I	Poly-beta-hydroxybutyrate synthase	PhaC			5XAV
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_04655	COG1123	O	ABC-type glutathione transport system ATPase component, contains duplicated ATPase domain	GsiA			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_04660	COG2202	T	PAS domain	PAS			2MWG
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_04665	COG2204	T	DNA-binding transcriptional response regulator, NtrC family, contains REC, AAA-type ATPase, and a Fis-type DNA-binding domains	AtoC			1ZY2
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_04675	COG0848	U	Biopolymer transport protein ExbD	ExbD			2JWK
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_04680	COG0848	U	Biopolymer transport protein ExbD	ExbD			2JWK
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_04685	COG1291	N	Flagellar motor component MotA	MotA			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_04710	COG0638	O	20S proteasome, alpha and beta subunits	PRE1			1FNT
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_04725	COG2308	R	Circularly permuted ATP-grasp protein			20023723	3N6X
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_04735	COG2081	R	Predicted flavoprotein YhiN	YhiN			3V76
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_04740	COG1118	P	ABC-type sulfate/molybdate transport systems, ATPase component	CysA			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_04750	COG1846	K	DNA-binding transcriptional regulator, MarR family	MarR			1JGS
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_04790	COG2710	HP	Nitrogenase Mo-Fe protein NifD/coenzyme F430 biosynthesis subunit CfbD	NifD/CfbD		28225763	1FP4
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_04795	COG2710	HP	Nitrogenase Mo-Fe protein NifD/coenzyme F430 biosynthesis subunit CfbD	NifD/CfbD		28225763	1FP4
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_04800	COG1192	DN	ParA-like ATPase involved in chromosome/plasmid partitioning or cellulose biosynthesis protein BcsQ	ParA			6NOO
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_04805	COG1063	ER	Threonine dehydrogenase or related Zn-dependent dehydrogenase	Tdh	Non-phosphorylated Entner-Doudoroff pathway		4A2C
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_04815	COG3349	R	Uncharacterized protein, contains NAD-binding domain and a Fe-S cluster				5MOG
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_04825	COG0596	HR	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold	MenH	Menaquinone biosynthesis		4MYS
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_04830	COG4245	S	Uncharacterized conserved protein YegL, contains vWA domain of TerY type	TerY			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_04835	COG0606	O	Predicted Mg-chelatase, contains ChlI-like and ATPase domains, YifB family	YifB			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_04840	COG1538	M	Outer membrane protein TolC	TolC			1EK9
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_04845	COG0841	V	Multidrug efflux pump subunit AcrB	AcrB			1IWG
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_04850	COG0683	E	ABC-type branched-chain amino acid transport system, periplasmic component	LivK			1USG
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_04855	COG0007	H	Uroporphyrinogen-III methylase (siroheme synthase)	CysG	Cobalamine/B12 biosynthesis		1PJQ
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_04860	COG0792	L	Predicted endonuclease distantly related to archaeal Holliday junction resolvase, YraN/UPF0102 family	YraN			3FOV
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_04865	COG0189	EHJQ	Glutathione synthase, LysX or RimK-type ligase, ATP-grasp superfamily	LysX	Lysine biosynthesis		1GLV
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_04875	COG0400	R	Predicted esterase	YpfH			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_04900	COG2771	K	DNA-binding transcriptional regulator, CsgD family	CsgD			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_04910	COG1989	NU	Prepilin signal peptidase PulO (type II secretory pathway) or related peptidase	PulO			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_04935	COG4795	U	Type II secretory pathway, PulJ/GspJ component	PulJ			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_04940	COG4967	NW	Type IV pilus assembly protein PilV	PilV			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_04945	COG2165	NUW	Type II secretory pathway, pseudopilin PulG	PulG			1AY2
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_04950	COG2165	NUW	Type II secretory pathway, pseudopilin PulG	PulG			1AY2
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_04955	COG1459	NUW	Type II secretory pathway, component PulF	PulF			2VMA
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_04960	COG5008	NW	Type IV pilus assembly protein, ATPase PilU	PilU			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_04975	COG3031	U	Type II secretory pathway, component PulC	PulC			2LNV
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_04980	COG1629	P	Outer membrane receptor protein, Fe transport	CirA			1BY3
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_04990	COG1024	I	Enoyl-CoA hydratase/carnithine racemase	CaiD	Fatty acid biosynthesis		1DCI
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_04995	COG3706	TK	Two-component response regulator, PleD family, consists of two REC domains and a diguanylate cyclase (GGDEF) domain	PleD			1W25
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_05000	COG3437	T	Response regulator c-di-GMP phosphodiesterase, RpfG family, contains REC and HD-GYP domains	RpfG			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_05005	COG3263	CP	NhaP-type Na+/H+ and K+/H+ antiporter with C-terminal TrkAC and CorC domains	NhaP2			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_05010	COG2346	P	Truncated hemoglobin YjbI	YjbI			1DLW
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_05025	COG0840	T	Methyl-accepting chemotaxis protein (MCP)	Tar			1QU7
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_05030	COG0596	HR	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold	MenH	Menaquinone biosynthesis		4MYS
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_05035	COG0123	Q	Acetoin utilization deacetylase AcuC or a related deacetylase	AcuC			1C3P
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_05050	COG1160	J	Double Era-like domain GTPase Der	Der			1MKY
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_05065	COG1237	R	Metal-dependent hydrolase, beta-lactamase superfamily II				2P4Z
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_05070	COG1099	R	Predicted metal-dependent hydrolase, TIM-barrel fold				3GUW
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_05075	COG0525	J	Valyl-tRNA synthetase	ValS	Aminoacyl-tRNA synthetases		1GAX
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_05080	COG2812	L	DNA polymerase III, gamma/tau subunits	DnaX			1A5T
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_05085	COG1155	C	Archaeal/vacuolar-type H+-ATPase catalytic subunit A/Vma1	NtpA	A/V-type ATP synthase		3J9T
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_05090	COG0224	C	FoF1-type ATP synthase, gamma subunit	AtpG	FoF1-type ATP synthase	15326535	3OAA
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_05095	COG0056	C	FoF1-type ATP synthase, alpha subunit	AtpA	FoF1-type ATP synthase		3OAA
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_05100	COG0712	C	FoF1-type ATP synthase, delta subunit	AtpH	FoF1-type ATP synthase		1ABV
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_05105	COG2207	K	AraC-type DNA-binding domain and AraC-containing proteins	AraC			1BL0
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_05110	COG0265	O	Periplasmic serine protease, S1-C subfamily, contain C-terminal PDZ domain	DegQ		29686141	2HGA
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_05115	COG1198	L	Primosomal protein N' (replication factor Y) - superfamily II helicase	PriA			6DCR
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_05120	COG0556	L	Excinuclease UvrABC helicase subunit UvrB	UvrB			1C4O
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_05125	COG2938	O	Succinate dehydrogenase flavin-adding protein, antitoxin component of the CptAB toxin-antitoxin module	SdhE			1PUZ
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_05130	COG1200	L	RecG-like helicase	RecG			1GM5
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_05140	COG0162	J	Tyrosyl-tRNA synthetase	TyrS	Aminoacyl-tRNA synthetases		4OUD
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_05155	COG2850	J	Ribosomal protein L16 Arg81 hydroxylase, contains JmjC domain	RoxA			1VRB
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_05165	COG3552	S	Uncharacterized protein CoxE, contains von Willebrand factor type A (vWA) domain	CoxE			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_05170	COG1252	C	NADH dehydrogenase, FAD-containing subunit	Ndh			5NA4
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_05175	COG2860	S	Uncharacterized membrane protein YeiH	YadS			5WUC
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_05180	COG0632	L	Holliday junction resolvasome RuvABC DNA-binding subunit	RuvA			1BDX
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_05195	COG3668	X	Plasmid stabilization system protein ParE	ParE			3KXE
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_05200	COG2256	L	Replication-associated recombination protein RarA (DNA-dependent ATPase)	RarA			3PVS
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_05225	COG1506	E	Dipeptidyl aminopeptidase/acylaminoacyl peptidase	DAP2			2JBW
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_05230	COG1360	N	Flagellar motor protein MotB	MotB			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_05255	COG0415	L	Deoxyribodipyrimidine photolyase	PhrB			1TEZ
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_05260	COG4221	C	NADP-dependent 3-hydroxy acid dehydrogenase YdfG	YdfG	Pyrimidine degradation		3P19
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_05265	COG2813	J	16S rRNA G1207 methylase RsmC	RsmC	16S rRNA modification		1DUS
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_05285	COG1879	G	ABC-type sugar transport system, periplasmic component, contains N-terminal xre family HTH domain	RbsB			1BA2
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_05305	COG1506	E	Dipeptidyl aminopeptidase/acylaminoacyl peptidase	DAP2			2JBW
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_05315	COG4783	MO	Outer membrane protein chaperone/metalloprotease BepA/YfgC, contains M48 and TPR domains	BepA		24003122	6AIT
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_05325	COG2148	M	Sugar transferase involved in LPS biosynthesis (colanic, teichoic acid)	WcaJ			5W7L
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_05335	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_05340	COG0726	GM	Peptidoglycan/xylan/chitin deacetylase, PgdA/NodB/CDA1 family	CDA1			1NY1
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_05345	COG5653	N	Acetyltransferase involved in cellulose biosynthesis, CelD/BcsL family	BcsL			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_05350	COG2348	M	Lipid II:glycine glycyltransferase (Peptidoglycan interpeptide bridge formation enzyme)	FmhB			1LRZ
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_05360	COG0728	M	Lipid II flippase MurJ/MviN (peptidoglycan biosynthesis)	MurJ		25013077	5T77
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_05365	COG0297	G	Glycogen synthase	GlgA			1RZU
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_05375	COG3206	M	Exopolysaccharide export protein/domain GumC/Wzc1	GumC		15003255;23089617	
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_05390	COG5653	N	Acetyltransferase involved in cellulose biosynthesis, CelD/BcsL family	BcsL			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_05395	COG2140	G	Oxalate decarboxylase/archaeal phosphoglucose isomerase, cupin superfamily	OxdD	Glycolysis		2VQA
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_05405	COG3853	V	Uncharacterized conserved protein YaaN involved in tellurite resistance	YaaN			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_05415	COG1039	L	Ribonuclease HIII	RnhC			2D0A
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_05420	COG1041	J	tRNA G10 N-methylase Trm11	Trm11	tRNA modification		5E71
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_05430	COG2353	R	Polyisoprenoid-binding periplasmic protein YceI	YceI		15741337;20236316	1WUB
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_05460	COG0784	T	CheY-like REC (receiver) domain, includes chemotaxis protein CheY  and sporulation regulator Spo0F	CheY			6QRJ
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_05470	COG1064	G	D-arabinose 1-dehydrogenase, Zn-dependent alcohol dehydrogenase family	AdhP			5O8Q
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_05475	COG2335	R	Uncaracterized surface protein containing fasciclin (FAS1) repeats	FAS1			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_05485	COG1282	C	NAD/NADP transhydrogenase beta subunit	PntB			1D4O
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_05500	COG4965	UW	Flp pilus assembly protein TadB	TadB			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_05505	COG1459	NUW	Type II secretory pathway, component PulF	PulF			2VMA
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_05510	COG1149	R	MinD superfamily P-loop ATPase, contains an inserted ferredoxin domain				
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_05515	COG5461	W	Type IV pilus biogenesis protein CpaD/CtpE	CpaD		10880436	
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_05520	COG4964	UW	Flp pilus assembly protein, secretin CpaC	CpaC			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_05530	COG4960	OT	Flp pilus assembly protein, peptidase CpaA	CpaA		19493340	3S0X
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_05535	COG0596	HR	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold	MenH	Menaquinone biosynthesis		4MYS
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_05540	COG0579	G	L-2-hydroxyglutarate oxidase LhgO	LhgO			3DME
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_05545	COG0328	L	Ribonuclease HI	RnhA			1LAW
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_05550	COG2334	T	Ser/Thr protein kinase RdoA involved in Cpx stress response, MazF antagonist	SrkA	Threonine biosynthesis		1ZYL
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_05555	COG0761	I	4-Hydroxy-3-methylbut-2-enyl diphosphate reductase IspH	IspH	Isoprenoid biosynthesis		3DNF
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_05570	COG0018	J	Arginyl-tRNA synthetase	ArgS	Aminoacyl-tRNA synthetases		1BS2
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_05575	COG0596	HR	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold	MenH	Menaquinone biosynthesis		4MYS
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_05585	COG0065	E	Homoaconitase/3-isopropylmalate dehydratase large subunit	LeuC	Isoleucine, leucine, valine biosynthesis		4KP1
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_05595	COG3182	S	PepSY-associated TM region	PiuB		15124630	
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_05600	COG4206	H	Outer membrane cobalamin receptor protein BtuB	BtuB			1NQE
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_05605	COG4988	CO	ABC-type transport system involved in cytochrome bd biosynthesis, ATPase and permease components	CydD			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_05610	COG1277	O	ABC-type transport system involved in multi-copper enzyme maturation, permease component	NosY			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_05630	COG0582	LX	Integrase/recombinase, includes phage integrase	FimB			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_05655	COG0226	P	ABC-type phosphate transport system, periplasmic component	PstS			2Q9T
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_05660	COG1012	I	Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase	AdhE	Proline degradation		1A4S
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_05665	COG0435	C	Glutathionyl-hydroquinone reductase	ECM4			6GCA
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_05685	COG0664	T	cAMP-binding domain of CRP or a regulatory subunit of cAMP-dependent protein kinases	Crp			1FT9
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_05690	COG2801	X	Transposase InsO and inactivated derivatives	Tra5			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_05705	COG2203	T	GAF domain	GAF			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_05710	COG4976	R	Predicted methyltransferase, contains TPR repeat				
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_05720	COG1960	I	Acyl-CoA dehydrogenase related to the alkylation response protein AidB	CaiA	Fatty acid biosynthesis		1BUC
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_05725	COG1215	N	Glycosyltransferase, catalytic subunit of cellulose synthase and poly-beta-1,6-N-acetylglucosamine synthase	BcsA			4HG6
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_05730	COG3685	P	Ferritin-like metal-binding protein YciE	YciE			2GS4
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_05735	COG0753	P	Catalase	KatE			6RJR
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_05745	COG2226	H	Ubiquinone/menaquinone biosynthesis C-methylase UbiE/MenG	UbiE	Biotin biosynthesis		4OBW
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_05750	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_05755	COG1808	S	Uncharacterized membrane protein AF0785, contains DUF389 domain	AF0785			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_05780	COG3861	S	Stress response protein YsnF (function unknown)	YsnF			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_05785	COG3861	S	Stress response protein YsnF (function unknown)	YsnF			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_05800	COG1846	K	DNA-binding transcriptional regulator, MarR family	MarR			1JGS
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_05810	COG2135	L	ssDNA abasic site-binding protein YedK/HMCES, SRAP family	SRAP		30554877;31504793	1ZN6
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_05835	COG2072	P	Predicted flavoprotein CzcO associated with the cation diffusion facilitator CzcD	CzcO			4USQ
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_05840	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_05845	COG2512	R	Predicted transcriptional regulator, contains CW (cell wall-binding) repeats and an HTH domain				
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_05850	COG4973	L	Site-specific recombinase XerC	XerC			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_05855	COG0728	M	Lipid II flippase MurJ/MviN (peptidoglycan biosynthesis)	MurJ		25013077	5T77
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_05860	COG0436	E	Aspartate/methionine/tyrosine aminotransferase	AspB	Isoleucine, leucine, valine biosynthesis		2O0R
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_05885	COG4973	L	Site-specific recombinase XerC	XerC			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_05895	COG0053	P	Divalent metal cation (Fe/Co/Zn/Cd) efflux pump	FieF			2QFI
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_05900	COG1937	K	DNA-binding transcriptional regulator, FrmR family	FrmR			2HH7
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_05910	COG0582	LX	Integrase/recombinase, includes phage integrase	FimB			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_05925	COG0686	E	Alanine dehydrogenase (includes sporulation protein SpoVN)	Ald	Urea cycle		2EEZ
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_05935	COG0642	T	Signal transduction histidine kinase	BaeS			1JOY
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_05945	COG1508	K	DNA-directed RNA polymerase specialized sigma subunit, sigma54 homolog	RpoN	RNA polymerase		5BYH
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_05950	COG4175	E	ABC-type proline/glycine betaine transport system, ATPase component	ProV			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_05955	COG1934	M	Lipopolysaccharide export system protein LptA	LptA			2R19
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_05960	COG5375	S	Uncharacterized conserved protein				
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_05965	COG0749	L	DNA polymerase I, 3'-5' exonuclease and polymerase domains	PolA			1D8Y
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_05990	COG2119	R	Putative Ca2+/H+ antiporter, TMEM165/GDT1 family	Gdt1		23569283	
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_06005	COG4566	TK	DNA-binding response regulator, FixJ family, consists of REC and HTH domains	FixJ			1YIO
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_06015	COG0267	J	Ribosomal protein L33	RpmG	Ribosome 50S subunit		1VS6
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_06020	COG0784	T	CheY-like REC (receiver) domain, includes chemotaxis protein CheY  and sporulation regulator Spo0F	CheY			6QRJ
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_06035	COG0251	V	Enamine deaminase RidA, house cleaning of reactive enamine intermediates, YjgF/YER057c/UK114 family	RidA	Pyrimidine degradation	22094463;32205462	1J7H
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_06050	COG0355	C	FoF1-type ATP synthase, epsilon subunit	AtpC	FoF1-type ATP synthase	29149348;30304218	3OAA
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_06055	COG1807	M	PMT family glycosyltransferase ArnT/Agl22, involved in glycosylation of proteins and lipid IVA	ArnT		16226890;31233657;32706435	5EZM
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_06060	COG0697	GER	Permease of the drug/metabolite transporter (DMT) superfamily	RhaT			5I20
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_06065	COG2804	NUW	Type II secretory pathway ATPase GspE/PulE or T4P pilus assembly pathway ATPase PilB	PulE			4KSR
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_06075	COG0697	GER	Permease of the drug/metabolite transporter (DMT) superfamily	RhaT			5I20
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_06085	COG1003	E	Glycine cleavage system protein P (pyridoxal-binding), C-terminal domain	GcvP2	Glycine cleavage		4LGL
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_06095	COG0372	C	Citrate synthase	GltA	TCA cycle	25211225	3TQG
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_06100	COG0658	U	DNA uptake channel protein ComEC, N-terminal domain	ComEC			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_06105	COG1414	K	DNA-binding transcriptional regulator, IclR family	IclR			1MKM
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_06110	COG1058	L	ADP-ribose pyrophosphatase domain of DNA damage- and competence-inducible protein CinA	CinA		25313401	4CT9
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_06115	COG0315	H	Molybdenum cofactor biosynthesis enzyme MoaC	MoaC	Molybdopterin biosynthesis	32239579	1EKR
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_06120	COG0134	E	Indole-3-glycerol phosphate synthase	TrpC	Aromatic amino acid biosynthesis		6BMA
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_06125	COG0213	F	Thymidine phosphorylase	DeoA	Pyrimidine salvage		1AZY
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_06130	COG0518	F	GMP synthase, glutamine amidotransferase domain	GuaA1	Purine biosynthesis		4WIM
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_06140	COG4632	G	Sugar-P-sugar glycosidase (uncovering enzyme, UCE), NAGPA superfamily	NAGPA		23572527	3OHG
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_06145	COG0147	EH	Anthranilate/para-aminobenzoate synthases component I	TrpE	Aromatic amino acid biosynthesis		1I1Q
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_06150	COG0760	O	Peptidyl-prolyl isomerase, parvulin family	SurA			2ZR5
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_06155	COG0149	G	Triosephosphate isomerase	TpiA	Glycolysis		1HG3
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_06160	COG1314	U	Protein translocase subunit SecG	SecG			2AKH
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_06165	COG0504	F	CTP synthase (UTP-ammonia lyase)	PyrG	Pyrimidine biosynthesis		1S1M
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_06175	COG0577	V	ABC-type antimicrobial peptide transport system, permease component	SalY			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_06180	COG1117	P	ABC-type phosphate transport system, ATPase component	PstB			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_06190	COG2176	L	DNA polymerase III, alpha subunit (gram-positive type)	PolC			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_06195	COG0365	I	Acyl-coenzyme A synthetase/AMP-(fatty) acid ligase	Acs		14638756	4B2O
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_06200	COG5470	S	Uncharacterized conserved protein, DUF1330 family				
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_06205	COG2100	R	Uncharacterized Fe-S cluster-containing enzyme, radical SAM superfamily				
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_06210	COG1058	L	ADP-ribose pyrophosphatase domain of DNA damage- and competence-inducible protein CinA	CinA		25313401	4CT9
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_06215	COG0741	M	Soluble lytic murein transglycosylase or regulatory protein s ( may contain LysM/invasin domain)	MltE			153L
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_06225	COG2440	C	Ferredoxin-like protein FixX	FixX			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_06245	COG2070	R	NAD(P)H-dependent flavin oxidoreductase YrpB, nitropropane dioxygenase family	YrpB			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_06255	COG1647	Q	Esterase/lipase	YvaK			4DIU
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_06260	COG0397	O	Protein adenylyltransferase (AMPylase) SelO/YdiU (selenoprotein O)	SelO		30270044	6EAC
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_06270	COG1704	M	Magnetosome formation protein MamQ, lipoprotein antigen LemA family	LemA		14638756;20212111;26884433	2ETD
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_06295	COG0556	L	Excinuclease UvrABC helicase subunit UvrB	UvrB			1C4O
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_06310	COG1061	KL	Superfamily II DNA or RNA helicase	SSL2			6JDE
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_06315	COG0534	V	Na+-driven multidrug efflux pump, DinF/NorM/MATE family	NorM		29915058	3VVN
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_06335	COG3584	S	3D (Asp-Asp-Asp) domain, usually in lytic transglycosylases		3D	16139297	4WLK
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_06340	COG2840	L	DNA-nicking endonuclease, Smr domain	SmrA		12730195	3QD7
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_06345	COG1473	R	Metal-dependent amidase/aminoacylase/carboxypeptidase	AbgB	Lysine biosynthesis	17307853	3RAM
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_06350	COG0625	O	Glutathione S-transferase	GstA			1A0F
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_06355	COG1159	J	GTPase Era, involved in 16S rRNA processing	Era			1EGA
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_06365	COG1422	M	Archaeal YidC/Oxa1-related membrane protein, DUF106 family	YidC			5C8J
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_06375	COG0594	J	RNase P protein component	RnpA			1A6F
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_06380	COG0230	J	Ribosomal protein L34	RpmH	Ribosome 50S subunit		6SPB
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_06390	COG0175	EH	3'-phosphoadenosine 5'-phosphosulfate sulfotransferase (PAPS reductase)/FAD synthetase or related enzyme	CysD	Cysteine biosynthesis		1ZUN
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_06400	COG0155	P	Sulfite reductase, beta subunit (hemoprotein)	CysI	Cysteine biosynthesis		1AOP
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_06435	COG4200	V	Predicted lantabiotic-exporting membrane pepmease, EfiE/EfiG/ABC2 family	EfiE			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_06440	COG1117	P	ABC-type phosphate transport system, ATPase component	PstB			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_06445	COG0652	O	Peptidyl-prolyl cis-trans isomerase (rotamase) - cyclophilin family	PpiB			4DGD
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_06450	COG1253	R	Hemolysin-related protein, contains CBS domains, UPF0053 family	TlyC			2NQW
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_06460	COG2204	T	DNA-binding transcriptional response regulator, NtrC family, contains REC, AAA-type ATPase, and a Fis-type DNA-binding domains	AtoC			1ZY2
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_06465	COG0494	V	8-oxo-dGTP pyrophosphatase MutT and related house-cleaning NTP pyrophosphohydrolases, NUDIX family	MutT			4V14
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_06485	COG2335	R	Uncaracterized surface protein containing fasciclin (FAS1) repeats	FAS1			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_06495	COG0110	R	Acetyltransferase, isoleucine patch superfamily	WbbJ			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_06510	COG1028	I	NAD(P)-dependent dehydrogenase, short-chain alcohol dehydrogenase family	FabG	Fatty acid biosynthesis		6L1H
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_06515	COG1038	C	Pyruvate carboxylase	PycA	Urea cycle		5VYW
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_06525	COG0705	O	Membrane-associated serine protease, rhomboid family	GlpG			2IC8
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_06560	COG0567	C	2-oxoglutarate dehydrogenase complex, dehydrogenase (E1) component, and related enzymes	SucA	TCA cycle		2JGD
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_06565	COG1154	HI	Deoxyxylulose-5-phosphate synthase	Dxs	Pyridoxal phosphate biosynthesis		2O1S
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_06575	COG4961	UW	Flp pilus assembly protein TadG, includes N-terminal TadE domain	TadG		12010986	
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_06580	COG4961	UW	Flp pilus assembly protein TadG, includes N-terminal TadE domain	TadG		12010986	
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_06605	COG0450	V	Alkyl hydroperoxide reductase subunit AhpC (peroxiredoxin)	AhpC			2RII
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_06615	COG4942	D	Septal ring factor EnvC, activator of murein hydrolases AmiA and AmiB	EnvC			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_06625	COG3568	R	Metal-dependent hydrolase, endonuclease/exonuclease/phosphatase family	ElsH		15178340	
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_06645	COG0795	MN	Lipopolysaccharide export LptBFGC system, permease protein LptF	LptF			6S8H
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_06650	COG0795	MN	Lipopolysaccharide export LptBFGC system, permease protein LptF	LptF			6S8H
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_06655	COG4704	S	Uncharacterized conserved protein, DUF2141 family				
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_06660	COG0001	H	Glutamate-1-semialdehyde aminotransferase	HemL	Heme biosynthesis		2CFB
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_06665	COG0236	I	Acyl carrier protein	AcpP	Fatty acid biosynthesis		1ACP
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_06670	COG1088	M	dTDP-D-glucose 4,6-dehydratase	RfbB			1G1A
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_06675	COG0370	P	Fe2+ transporter FeoB	FeoB		32095817	3TAH
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_06680	COG1208	JM	NDP-sugar pyrophosphorylase, includes eIF-2Bgamma, eIF-2Bepsilon, and LPS biosynthesis protein s	GCD1			6JQ8
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_06685	COG0225	O	Peptide methionine sulfoxide reductase MsrA	MsrA			1FF3
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_06690	COG4783	MO	Outer membrane protein chaperone/metalloprotease BepA/YfgC, contains M48 and TPR domains	BepA		24003122	6AIT
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_06700	COG0726	GM	Peptidoglycan/xylan/chitin deacetylase, PgdA/NodB/CDA1 family	CDA1			1NY1
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_06705	COG0086	K	DNA-directed RNA polymerase, beta' subunit/160 kD subunit	RpoC	RNA polymerase		1NT9
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_06720	COG2003	L	DNA repair protein RadC, contains a helix-hairpin-helix DNA-binding motif	RadC		9695921	2QLC
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_06735	COG3784	S	Uncharacterized conserved protein YdbL, DUF1318 family	YdbL			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_06750	COG2962	R	Membrane protein RarD, contains two EamA domains, drug/metabolite transporter family	RarD		26335199	
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_06765	COG3981	R	Predicted acetyltransferase				
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_06770	COG0697	GER	Permease of the drug/metabolite transporter (DMT) superfamily	RhaT			5I20
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_06780	COG0123	Q	Acetoin utilization deacetylase AcuC or a related deacetylase	AcuC			1C3P
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_06785	COG3393	R	Predicted acetyltransferase, GNAT family				
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_06790	COG0821	I	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase IspG/GcpE	IspG	Isoprenoid biosynthesis		2Y0F
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_06795	COG0300	R	Short-chain dehydrogenase	YqjQ			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_06800	COG2067	I	Long-chain fatty acid transport protein	FadL			1T16
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_06815	COG4312	R	Predicted dithiol-disulfide oxidoreductase, DUF899 family				
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_06820	COG1164	E	Oligoendopeptidase F	PepF			3CE2
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_06825	COG1846	K	DNA-binding transcriptional regulator, MarR family	MarR			1JGS
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_06835	COG0526	O	Thiol-disulfide isomerase or thioredoxin	TrxA			1XFL
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_06840	COG0015	F	Adenylosuccinate lyase	PurB	Purine biosynthesis		2HVG
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_06850	COG0019	E	Diaminopimelate decarboxylase	LysA	Lysine biosynthesis		1D7K
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_06855	COG0007	H	Uroporphyrinogen-III methylase (siroheme synthase)	CysG	Cobalamine/B12 biosynthesis		1PJQ
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_06865	COG2050	Q	Acyl-CoA thioesterase PaaI, contains HGG motif	PaaI			1PSU
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_06870	COG2050	Q	Acyl-CoA thioesterase PaaI, contains HGG motif	PaaI			1PSU
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_06880	COG0154	J	Asp-tRNAAsn/Glu-tRNAGln amidotransferase A subunit or related amidase	GatA	Aminoacyl-tRNA synthetases		3H0L
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_06885	COG0345	E	Pyrroline-5-carboxylate reductase	ProC	Proline biosynthesis	22125496;26507882	3GT0
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_06900	COG3476	T	Tryptophan-rich sensory protein TspO/CrtK (mitochondrial benzodiazepine receptor homolog)	TspO			2MGY
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_06905	COG0480	J	Translation elongation factor EF-G, a GTPase	FusA	Translation factors		1DAR
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_06915	COG1435	F	Thymidine kinase	Tdk	Pyrimidine salvage		1W4R
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_06925	COG0130	J	tRNA U55 pseudouridine synthase TruB, may also work on U342 of tmRNA	TruB	tRNA modification		1K8W
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_06935	COG0689	J	Ribonuclease PH	Rph			1UDO
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_06940	COG1729	D	Cell division protein CpoB, coordinates peptidoglycan biosynthesis and outer membrane constriction	CpoB		25951518	2WZ7
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_06945	COG0497	L	DNA repair ATPase RecN	RecN			4AD8
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_06955	COG3824	O	Predicted Zn-dependent protease, minimal metalloprotease (MMP)-like domain				3E11
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_06960	COG2084	I	3-hydroxyisobutyrate dehydrogenase or related beta-hydroxyacid dehydrogenase	MmsB			1I36
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_06970	COG1529	C	Aldehyde, CO or xanthine dehydrogenase, Mo-binding subunit	CoxL	Non-phosphorylated Entner-Doudoroff pathway	10095793	1DGJ
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_06975	COG4630	F	Xanthine dehydrogenase, Fe-S cluster and FAD-binding subunit XdhA	XdhA			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_06980	COG0479	C	Succinate dehydrogenase/fumarate reductase, Fe-S protein subunit	SdhB/FrdB	TCA cycle		6LUM
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_06985	COG0823	U	Periplasmic component TolB of the Tol biopolymer transport system	TolB			1C5K
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_06990	COG0365	I	Acyl-coenzyme A synthetase/AMP-(fatty) acid ligase	Acs		14638756	4B2O
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_06995	COG1804	I	Crotonobetainyl-CoA:carnitine CoA-transferase CaiB and related acyl-CoA transferases	CaiB			1P5H
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_07005	COG1902	C	2,4-dienoyl-CoA reductase or related NADH-dependent reductase, Old Yellow Enzyme (OYE) family	FadH			1BWK
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_07015	COG1160	J	Double Era-like domain GTPase Der	Der			1MKY
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_07025	COG0284	F	Orotidine-5'-phosphate decarboxylase	PyrF	Pyrimidine biosynthesis		1DBT
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_07030	COG0135	E	Phosphoribosylanthranilate isomerase	TrpF	Aromatic amino acid biosynthesis		1DL3
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_07035	COG0133	E	Tryptophan synthase beta chain	TrpB	Aromatic amino acid biosynthesis		2DH5
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_07040	COG1646	I	Glycerol-1-phosphate heptaprenyltransferase	PcrB			1VIZ
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_07045	COG4799	I	Acetyl-CoA carboxylase, carboxyltransferase component	MmdA			1OD2
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_07065	COG0564	J	Pseudouridine synthase RluA, 23S rRNA- or tRNA-specific	RluA	23S rRNA modification		2I82
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_07075	COG2263	R	Predicted RNA methylase				6H2U
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_07085	COG0582	LX	Integrase/recombinase, includes phage integrase	FimB			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_07100	COG0815	M	Apolipoprotein N-acyltransferase	Lnt			6NWR
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_07105	COG0402	FR	Cytosine/adenosine deaminase or related metal-dependent hydrolase	SsnA	Pyrimidine salvage		3O7U
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_07115	COG1541	H	Phenylacetate-coenzyme A ligase PaaK, adenylate-forming domain family	PaaK			2Y4O
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_07120	COG3321	Q	Acyl transferase domain in polyketide synthase (PKS) enzymes	PksD			6IYO
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_07140	COG1012	I	Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase	AdhE	Proline degradation		1A4S
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_07145	COG2819	R	Predicted hydrolase of the alpha/beta superfamily	YbbA			3GFF
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_07150	COG0346	Q	Catechol 2,3-dioxygenase or related enzyme, vicinal oxygen chelate (VOC) family	GloA		11830595	3R4Q
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_07155	COG0223	J	Methionyl-tRNA formyltransferase	Fmt			1FMT
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_07160	COG1062	C	Zn-dependent alcohol/formaldehyde dehydrogenase	FrmA			1A71
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_07210	COG0582	LX	Integrase/recombinase, includes phage integrase	FimB			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_07240	COG4963	UW	Flp pilus assembly ATPase CpaE/TadZ, contains N-terminal REC/TadZ_N domain	CpaE			4LDA
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_07280	COG0693	V	Protein/nucleotide deglycase, PfpI/YajL/DJ-1 family (repair of methylglyoxal-glycated proteins and nucleic acids)	YajL		19028889;28596309;26678554	5SY4
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_07285	COG1475	D	Chromosome segregation protein Spo0J, contains ParB-like nuclease domain	Spo0J			1R71
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_07290	COG1475	D	Chromosome segregation protein Spo0J, contains ParB-like nuclease domain	Spo0J			1R71
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_07310	COG1061	KL	Superfamily II DNA or RNA helicase	SSL2			6JDE
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_07315	COG3668	X	Plasmid stabilization system protein ParE	ParE			3KXE
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_07330	COG1002	V	Type II restriction/modification system, endonuclease and methylase domains	YeeA			5HR4
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_07340	COG1396	K	Transcriptional regulator, contains XRE-family HTH domain	HipB			1ADR
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_07345	COG0582	LX	Integrase/recombinase, includes phage integrase	FimB			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_07355	COG0697	GER	Permease of the drug/metabolite transporter (DMT) superfamily	RhaT			5I20
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_07390	COG0422	H	4-amino-2-methyl-5-hydroxymethylpyrimidine (HMP) synthase ThiC	ThiC	Thiamine biosynthesis	15326535	3EPN
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_07420	COG1412	J	rRNA-processing protein FCF1	Fcf1			4MJ7
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_07425	COG4270	S	Uncharacterized membrane protein				
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_07430	COG0671	I	Membrane-associated phospholipid phosphatase	PgpB	Phospholipid biosynthesis		1D2T
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_07435	COG5531	B	DNA-binding SWIB/MDM2 domain	Rsc6			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_07460	COG2227	H	2-polyprenyl-3-methyl-5-hydroxy-6-metoxy-1,4-benzoquinol methylase	UbiG	Ubiquinone biosynthesis		1BHJ
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_07465	COG2814	G	Predicted arabinose efflux permease AraJ, MFS family	AraJ			4LDS
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_07495	COG0523	R	Zinc metallochaperone YeiR/ZagA and related GTPases, G3E family	YejR		19822009;31132310	1NIJ
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_07500	COG0520	E	Selenocysteine lyase/Cysteine desulfurase	CsdA			4LW2
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_07505	COG3223	R	Phosphate starvation-inducible membrane PsiE (function unknown)	PsiE			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_07510	COG2814	G	Predicted arabinose efflux permease AraJ, MFS family	AraJ			4LDS
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_07515	COG3791	S	Uncharacterized conserved protein				1X6M
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_07520	COG1846	K	DNA-binding transcriptional regulator, MarR family	MarR			1JGS
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_07530	COG0022	C	Pyruvate/2-oxoglutarate/acetoin dehydrogenase complex, dehydrogenase (E1) component, beta subunit	AcoB	Pyruvate oxidation		2OZL
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_07550	COG0196	H	FAD synthase	RibF	Riboflavin/FAD biosynthesis		1MRZ
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_07565	COG0041	F	Phosphoribosylcarboxyaminoimidazole (NCAIR) mutase	PurE	Purine biosynthesis		1D7A
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_07570	COG0406	G	Broad specificity phosphatase PhoE	PhoE			1EBB
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_07585	COG2085	R	Predicted dinucleotide-binding enzyme				2VNS
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_07590	COG1025	O	Secreted/periplasmic Zn-dependent peptidases, insulinase-like	Ptr			1Q2L
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_07610	COG1846	K	DNA-binding transcriptional regulator, MarR family	MarR			1JGS
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_07615	COG0447	H	1,4-Dihydroxy-2-naphthoyl-CoA synthase	MenB	Menaquinone biosynthesis		4ELS
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_07625	COG4206	H	Outer membrane cobalamin receptor protein BtuB	BtuB			1NQE
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_07630	COG0812	M	UDP-N-acetylenolpyruvoylglucosamine reductase	MurB	Mureine biosynthesis		2MBR
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_07635	COG1181	MR	D-alanine-D-alanine ligase or related ATP-grasp enzyme	DdlA	Mureine biosynthesis		1E4E
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_07645	COG4972	NW	Type IV pilus assembly protein, ATPase PilM	PilM			2YCH
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_07650	COG0206	D	Cell division GTPase FtsZ	FtsZ			1FSZ
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_07655	COG5010	UW	Flp pilus assembly protein TadD, contains TPR repeats	TadD			3WXX
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_07660	COG1078	R	HD superfamily phosphohydrolase	YdhJ			2HEK
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_07665	COG0354	O	Folate-binding protein YgfZ, synthesis and repair of Fe-S clusters	YgfZ		27941785;22081392	1NRK
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_07670	COG0509	E	Glycine cleavage system protein H (lipoate-binding)	GcvH	Glycine cleavage		1DXM
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_07685	COG1239	H	Mg-chelatase subunit ChlI	ChlI			1G8P
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_07690	COG1721	S	Uncharacterized conserved protein, DUF58 family, contains vWF domain	YeaD2			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_07700	COG1714	S	Uncharacterized membrane protein YckC, RDD family	YckC			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_07705	COG1250	I	3-hydroxyacyl-CoA dehydrogenase	FadB	Fatty acid biosynthesis		5ZQZ
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_07710	COG3434	T	c-di-GMP phosphodiesterase YuxH/PdeH, contains EAL and HDOD domains	YuxH		23893111	
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_07715	COG4206	H	Outer membrane cobalamin receptor protein BtuB	BtuB			1NQE
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_07720	COG0544	O	FKBP-type peptidyl-prolyl cis-trans isomerase (trigger factor)	Tig			5OWI
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_07735	COG3568	R	Metal-dependent hydrolase, endonuclease/exonuclease/phosphatase family	ElsH		15178340	
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_07740	COG0064	J	Asp-tRNAAsn/Glu-tRNAGln amidotransferase B subunit	GatB	Aminoacyl-tRNA synthetases		3H0M
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_07745	COG0154	J	Asp-tRNAAsn/Glu-tRNAGln amidotransferase A subunit or related amidase	GatA	Aminoacyl-tRNA synthetases		3H0L
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_07765	COG2316	R	Predicted hydrolase, HD superfamily				
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_07770	COG3326	S	Uncharacterized membrane protein YsdA, DUF1294 family	YsdA			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_07775	COG0540	F	Aspartate carbamoyltransferase, catalytic subunit	PyrB	Pyrimidine biosynthesis		1NBE
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_07780	COG0402	FR	Cytosine/adenosine deaminase or related metal-dependent hydrolase	SsnA	Pyrimidine salvage		3O7U
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_07790	COG0643	T	Chemotaxis protein histidine kinase CheA	CheA			1B3Q
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_07795	COG1525	L	Endonuclease YncB, thermonuclease family	YncB			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_07800	COG1506	E	Dipeptidyl aminopeptidase/acylaminoacyl peptidase	DAP2			2JBW
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_07815	COG0208	F	Ribonucleotide reductase beta subunit, ferritin-like domain	NrdB	Pyrimidine salvage		1AV8
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_07840	COG0209	F	Ribonucleotide reductase alpha subunit	NrdA	Pyrimidine salvage		1R1R
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_07850	COG1022	I	Long-chain acyl-CoA synthetase (AMP-forming)	FAA1			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_07855	COG0405	E	Gamma-glutamyltranspeptidase	Ggt		16618936	2Z8I
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_07860	COG2512	R	Predicted transcriptional regulator, contains CW (cell wall-binding) repeats and an HTH domain				
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_07865	COG1541	H	Phenylacetate-coenzyme A ligase PaaK, adenylate-forming domain family	PaaK			2Y4O
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_07870	COG0623	I	Enoyl-[acyl-carrier-protein] reductase FabI	FabI	Fatty acid biosynthesis		1C14
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_07875	COG1309	K	DNA-binding protein, AcrR family, includes nucleoid occlusion protein SlmA	AcrR			2QOP
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_07880	COG2814	G	Predicted arabinose efflux permease AraJ, MFS family	AraJ			4LDS
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_07895	COG1946	I	Acyl-CoA thioesterase	TesB			1C8U
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_07910	COG0005	F	Purine nucleoside phosphorylase	XapA	Purine salvage		1YQQ
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_07915	COG0164	L	Ribonuclease HII	RnhB			1EKE
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_07920	COG2240	H	Pyridoxal/pyridoxine/pyridoxamine kinase	PdxK	Pyridoxal phosphate biosynthesis	19096365;23189126	5ZW9
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_07925	COG0033	G	Phosphoglucomutase/phosphomannomutase	Pgm		30938049	1C47
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_07935	COG1453	R	Predicted oxidoreductase of the aldo/keto reductase family				
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_07940	COG4094	S	Uncharacterized membrane protein				
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_07945	COG1228	Q	Imidazolonepropionase or related amidohydrolase	HutI			3OOQ
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_07950	COG0044	F	Dihydroorotase or related cyclic amidohydrolase	AllB	Pyrimidine biosynthesis		1J79
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_07955	COG2271	G	Sugar phosphate permease	UhpC			1PW4
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_07960	COG0778	C	Nitroreductase	NfnB	Pyrimidine degradation		1F5V
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_07965	COG1725	K	DNA-binding transcriptional regulator YhcF, GntR family	YhcF			4R1H
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_07980	COG2070	R	NAD(P)H-dependent flavin oxidoreductase YrpB, nitropropane dioxygenase family	YrpB			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_07990	COG0297	G	Glycogen synthase	GlgA			1RZU
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_08000	COG0681	U	Signal peptidase I	LepB		1925027	1B12
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_08015	COG0856	F	Orotate phosphoribosyltransferase homolog	PyrE2			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_08020	COG1622	C	Heme/copper-type cytochrome/quinol oxidase, subunit 2	CyoA			1CYW
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_08040	COG3425	I	3-hydroxy-3-methylglutaryl CoA synthase	PksG	Isoprenoid biosynthesis		1TVZ
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_08065	COG1106	R	ATPase/GTPase, AAA15 family				
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_08080	COG0333	J	Ribosomal protein L32	RpmF	Ribosome 50S subunit	17114934	1VS6
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_08090	COG3425	I	3-hydroxy-3-methylglutaryl CoA synthase	PksG	Isoprenoid biosynthesis		1TVZ
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_08110	COG0346	Q	Catechol 2,3-dioxygenase or related enzyme, vicinal oxygen chelate (VOC) family	GloA		11830595	3R4Q
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_08140	COG4585	T	Signal transduction histidine kinase ComP	ComP			4GT8
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_08145	COG4753	TK	Two-component response regulator, YesN/AraC family, consists of REC and AraC-type DNA-binding domains	YesN			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_08150	COG0149	G	Triosephosphate isomerase	TpiA	Glycolysis		1HG3
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_08155	COG2104	H	Sulfur carrier protein ThiS (thiamine biosynthesis)	ThiS	Thiamine biosynthesis		1F0Z
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_08165	COG1038	C	Pyruvate carboxylase	PycA	Urea cycle		5VYW
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_08170	COG0458	EF	Carbamoylphosphate synthase large subunit	CarB	Arginine biosynthesis		1C30
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_08175	COG0667	HR	Pyridoxal reductase PdxI or related oxidoreductase, aldo/keto reductase family	PdxI		32253339	1LQA
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_08180	COG3917	Q	2-hydroxychromene-2-carboxylate isomerase	NahD			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_08205	COG1028	I	NAD(P)-dependent dehydrogenase, short-chain alcohol dehydrogenase family	FabG	Fatty acid biosynthesis		6L1H
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_08210	COG1530	J	Ribonuclease G or E	CafA			1SLJ
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_08215	COG0860	M	N-acetylmuramoyl-L-alanine amidase	AmiC			1JWQ
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_08220	COG0768	DM	Cell division protein FtsI, peptidoglycan transpeptidase (Penicillin-binding protein 2)	FtsI			6HZQ
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_08225	COG1230	P	Co/Zn/Cd efflux system component	CzcD			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_08260	COG1186	J	Protein chain release factor PrfB	PrfB	Translation factors		1GQE
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_08265	COG4798	R	Predicted methyltransferase				
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_08270	COG0646	E	Methionine synthase I (cobalamin-dependent), methyltransferase domain	MetH1	Methionine biosynthesis		1LT7
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_08275	COG0685	E	5,10-methylenetetrahydrofolate reductase	MetF			1B5T
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_08280	COG2226	H	Ubiquinone/menaquinone biosynthesis C-methylase UbiE/MenG	UbiE	Biotin biosynthesis		4OBW
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_08295	COG2367	V	Beta-lactamase class A	PenP			6W34
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_08320	COG1194	L	Adenine-specific DNA glycosylase, acts on AG and A-oxoG pairs	MutY			1KG2
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_08330	COG4651	P	Predicted Kef-type K+ transport protein, K+/H+ antiporter domain	RosB			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_08335	COG0815	M	Apolipoprotein N-acyltransferase	Lnt			6NWR
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_08340	COG0473	CE	Isocitrate/isopropylmalate dehydrogenase	LeuB	TCA cycle		1GC9
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_08345	COG0688	I	Phosphatidylserine decarboxylase	Psd	Phospholipid biosynthesis		6L06
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_08355	COG0052	J	Ribosomal protein S2	RpsB	Ribosome 30S subunit		4V4H
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_08360	COG0264	J	Translation elongation factor EF-Ts	Tsf	Translation factors		1EFU
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_08365	COG0527	E	Aspartate kinase	MetL1	Lysine biosynthesis		2CDQ
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_08370	COG0233	J	Ribosome recycling factor	Frr			1DD5
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_08375	COG0020	I	Undecaprenyl pyrophosphate synthase	UppS			1X07
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_08380	COG4589	R	Predicted CDP-diglyceride synthetase/phosphatidate cytidylyltransferase	YnbB			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_08390	COG0063	F	NAD(P)H-hydrate repair enzyme Nnr, NAD(P)H-hydrate dehydratase domain	Nnr2			1KYH
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_08415	COG1028	I	NAD(P)-dependent dehydrogenase, short-chain alcohol dehydrogenase family	FabG	Fatty acid biosynthesis		6L1H
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_08420	COG3022	L	DNA-binding protein YaaA associated with the oxidative stress response	YaaA		21378183;32796037	5CAJ
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_08430	COG2865	K	Predicted transcriptional regulator, contains HTH domain				3LMM
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_08455	COG1629	P	Outer membrane receptor protein, Fe transport	CirA			1BY3
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_08460	COG0614	P	ABC-type Fe3+-hydroxamate transport system, periplasmic component	FepB			1ESZ
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_08465	COG4605	P	ABC-type enterochelin transport system, permease component	CeuC			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_08470	COG4619	P	ABC-type iron transporter FetAB, ATPase component	FetA			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_08480	COG1249	C	Dihydrolipoamide dehydrogenase (E3) component of pyruvate/2-oxoglutarate dehydrogenase complex or glutathione oxidoreductase	Lpd	Glycine cleavagePyruvate oxidation		6QKG
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_08495	COG1969	C	Ni,Fe-hydrogenase I cytochrome b subunit	HyaC			4GD3
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_08500	COG0530	P	Ca2+/Na+ antiporter	ECM27			3V5S
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_08515	COG0603	J	7-cyano-7-deazaguanine synthase (queuosine biosynthesis)	QueC	tRNA modification	14660578;17384645	2PG3
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_08520	COG1558	N	Flagellar basal body rod protein FlgC	FlgC			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_08525	COG1815	N	Flagellar basal body rod protein FlgB	FlgB			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_08530	COG1291	N	Flagellar motor component MotA	MotA			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_08540	COG1261	N	Flagellar basal body P-ring formation protein FlgA	FlgA			3VJP
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_08545	COG2747	KN	Negative regulator of flagellin synthesis (anti-sigma28 factor)	FlgM			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_08560	COG1298	N	Flagellar biosynthesis protein FlhA	FlhA			6AI0
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_08565	COG4098	L	Superfamily II DNA/RNA helicase required for DNA uptake (late competence protein)	ComFA			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_08570	COG2199	T	GGDEF domain, diguanylate cyclase (c-di-GMP synthetase) or its enzymatically inactive variants	GGDEF			6D9M
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_08575	COG0061	H	NAD kinase	NadK			1SUW
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_08590	COG0653	U	Preprotein translocase subunit SecA (ATPase, RNA helicase)	SecA			2FSF
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_08600	COG0297	G	Glycogen synthase	GlgA			1RZU
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_08605	COG4982	I	3-oxoacyl-ACP reductase domain of yeast-type fatty acid synthase FAS1	FabG2			2UV8
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_08620	COG1974	KT	SOS-response transcriptional repressor LexA (RecA-mediated autopeptidase)	LexA			1AY9
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_08625	COG2333	U	DNA uptake channel protein ComEC C-terminal domain, metallo-beta-lactamase superfamily	ComEC			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_08630	COG3152	S	Uncharacterized membrane protein YhaH, DUF805 family	yhaH			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_08640	COG2234	OE	Zn-dependent amino- or carboxypeptidase, M28 family	Iap			1AMP
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_08645	COG4206	H	Outer membrane cobalamin receptor protein BtuB	BtuB			1NQE
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_08655	COG1226	P	Voltage-gated potassium channel Kch	Kch			3FWZ
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_08660	COG3706	TK	Two-component response regulator, PleD family, consists of two REC domains and a diguanylate cyclase (GGDEF) domain	PleD			1W25
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_08665	COG0446	I	NADPH-dependent 2,4-dienoyl-CoA reductase, sulfur reductase, or a related oxidoreductase	FadH2			1VRQ
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_08670	COG1113	E	L-asparagine transporter or related permease	AnsP			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_08685	COG0482	J	tRNA U34 2-thiouridine synthase MnmA/TrmU, contains the PP-loop ATPase domain	MnmA	tRNA modification	25825430	2HMA
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_08690	COG1180	O	Pyruvate-formate lyase-activating enzyme	PflA			3CAN
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_08700	COG5278	T	Extracytoplasmic sensor domain CHASE3 (specificity unknown)	CHASE3			3VA9
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_08705	COG0312	R	Zn-dependent protease PmbA/TldA or its inactivated homolog	TldD		12029038	3TV9
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_08710	COG0483	G	Archaeal fructose-1,6-bisphosphatase or related enzyme, inositol monophosphatase family	SuhB	Gluconeogenesis		1AWB
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_08715	COG1562	I	Phytoene/squalene synthetase	ERG9			3WEK
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_08725	COG2072	P	Predicted flavoprotein CzcO associated with the cation diffusion facilitator CzcD	CzcO			4USQ
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_08735	COG3000	I	Sterol desaturase/sphingolipid hydroxylase, fatty acid hydroxylase superfamily	ERG3			4ZR0
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_08740	COG4704	S	Uncharacterized conserved protein, DUF2141 family				
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_08785	COG0265	O	Periplasmic serine protease, S1-C subfamily, contain C-terminal PDZ domain	DegQ		29686141	2HGA
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_08790	COG4942	D	Septal ring factor EnvC, activator of murein hydrolases AmiA and AmiB	EnvC			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_08800	COG0799	J	Ribosomal silencing factor RsfS, regulates association of 30S and 50S subunits	RsfS			6SJ6
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_08805	COG1057	H	Nicotinate-nucleotide adenylyltransferase NadD	NadD	NAD biosynthesis		1YUM
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_08810	COG4942	D	Septal ring factor EnvC, activator of murein hydrolases AmiA and AmiB	EnvC			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_08820	COG0772	D	Peptodoglycan polymerase FtsW/RodA/SpoVE	FtsW		30692671	6BAR
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_08835	COG1734	K	RNA polymerase-binding transcription factor DksA	DksA			1TJL
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_08840	COG1902	C	2,4-dienoyl-CoA reductase or related NADH-dependent reductase, Old Yellow Enzyme (OYE) family	FadH			1BWK
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_08850	COG4774	P	Outer membrane receptor for monomeric catechols	Fiu			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_08855	COG3920	T	Two-component sensor histidine kinase, HisKA and HATPase domains				4R39
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_08860	COG3200	E	3-deoxy-D-arabino-heptulosonate 7-phosphate (DAHP) synthase, class II	AroG2	Aromatic amino acid biosynthesis		6BMC
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_08870	COG3840	H	ABC-type thiamine transport system, ATPase component ThiQ	ThiQ			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_08875	COG1283	P	Na+/phosphate symporter	NptA			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_08880	COG3437	T	Response regulator c-di-GMP phosphodiesterase, RpfG family, contains REC and HD-GYP domains	RpfG			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_08885	COG2204	T	DNA-binding transcriptional response regulator, NtrC family, contains REC, AAA-type ATPase, and a Fis-type DNA-binding domains	AtoC			1ZY2
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_08910	COG4799	I	Acetyl-CoA carboxylase, carboxyltransferase component	MmdA			1OD2
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_08920	COG1181	MR	D-alanine-D-alanine ligase or related ATP-grasp enzyme	DdlA	Mureine biosynthesis		1E4E
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_08935	COG0165	E	Argininosuccinate lyase	ArgH	Arginine biosynthesis		1AOS
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_08940	COG0606	O	Predicted Mg-chelatase, contains ChlI-like and ATPase domains, YifB family	YifB			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_08950	COG1842	KT	Phage shock protein A	PspA			4WHE
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_08985	COG0484	O	DnaJ-class molecular chaperone with C-terminal Zn finger domain	DnaJ			1BQ0
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_08995	COG0288	P	Carbonic anhydrase	CynT		22081392	1EKJ
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_09010	COG1352	T	Methylase of chemotaxis methyl-accepting proteins	CheR			1AF7
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_09020	COG2204	T	DNA-binding transcriptional response regulator, NtrC family, contains REC, AAA-type ATPase, and a Fis-type DNA-binding domains	AtoC			1ZY2
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_09025	COG0784	T	CheY-like REC (receiver) domain, includes chemotaxis protein CheY  and sporulation regulator Spo0F	CheY			6QRJ
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_09035	COG0642	T	Signal transduction histidine kinase	BaeS			1JOY
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_09040	COG1310	O	Proteasome lid subunit RPN8/RPN11, contains Jab1/MPN domain metalloenzyme (JAMM) motif	Rri1			2O95
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_09045	COG1187	J	Pseudouridylate synthase RsuA, specific for 16S rRNA U516  and 23S rRNA U2605	RsuA	16S rRNA modification		1KSK
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_09050	COG1191	K	DNA-directed RNA polymerase specialized sigma subunit	FliA	RNA polymerase		1RP3
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_09055	COG2226	H	Ubiquinone/menaquinone biosynthesis C-methylase UbiE/MenG	UbiE	Biotin biosynthesis		4OBW
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_09060	COG2021	E	Homoserine O-acetyltransferase	MET2	Methionine biosynthesis		2VAT
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_09065	COG1167	KE	DNA-binding transcriptional regulator, MocR family, contains an aminotransferase domain	ARO8	Lysine biosynthesis		2R2N
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_09070	COG0204	I	1-acyl-sn-glycerol-3-phosphate acyltransferase	PlsC	Phospholipid biosynthesis		1IUQ
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_09075	COG1434	M	Lipid carrier protein ElyC involved in cell wall biogenesis, DUF218 family	ElyC		24391520	3CA8
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_09080	COG2177	D	Cell division protein FtsX	FtsX			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_09085	COG3840	H	ABC-type thiamine transport system, ATPase component ThiQ	ThiQ			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_09105	COG2894	D	Septum site-determining ATPase MinD	MinD			4V02
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_09110	COG2813	J	16S rRNA G1207 methylase RsmC	RsmC	16S rRNA modification		1DUS
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_09115	COG1206	J	Folate-dependent tRNA-U54 methylase TrmFO/GidA	TrmFO	tRNA modification	16027442	
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_09120	COG1160	J	Double Era-like domain GTPase Der	Der			1MKY
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_09130	COG1506	E	Dipeptidyl aminopeptidase/acylaminoacyl peptidase	DAP2			2JBW
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_09135	COG0861	P	Tellurite resistance membrane protein TerC	TerC			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_09140	COG1157	NU	Flagellar biosynthesis/type III secretory pathway ATPase FliI	FliI			5B0O
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_09150	COG0407	H	Uroporphyrinogen-III decarboxylase HemE	HemE	Heme biosynthesis		2DG5
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_09175	COG2197	TK	DNA-binding response regulator, NarL/FixJ family, contains REC and HTH domains	CitB			1A04
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_09180	COG0643	T	Chemotaxis protein histidine kinase CheA	CheA			1B3Q
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_09185	COG0643	T	Chemotaxis protein histidine kinase CheA	CheA			1B3Q
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_09190	COG1511	S	Uncharacterized membrane protein YhgE, phage infection protein (PIP) family	YhgE			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_09200	COG1352	T	Methylase of chemotaxis methyl-accepting proteins	CheR			1AF7
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_09205	COG2197	TK	DNA-binding response regulator, NarL/FixJ family, contains REC and HTH domains	CitB			1A04
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_09220	COG3633	E	Na+/serine and Na+/threonine symporter SstT	SstT			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_09225	COG1914	P	Mn2+ or Fe2+ transporter, NRAMP family	MntH			5KTE
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_09240	COG2771	K	DNA-binding transcriptional regulator, CsgD family	CsgD			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_09280	COG0457	R	Tetratricopeptide (TPR) repeat	TPR			3AS4
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_09295	COG0436	E	Aspartate/methionine/tyrosine aminotransferase	AspB	Isoleucine, leucine, valine biosynthesis		2O0R
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_09300	COG3812	S	Uncharacterized conserved protein, DUF1993 domain				2OQM
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_09310	COG0054	H	6,7-dimethyl-8-ribityllumazine synthase (Riboflavin synthase beta chain)	RibE	Riboflavin/FAD biosynthesis		1C2Y
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_09320	COG2131	F	Deoxycytidylate deaminase	ComEB		25746996;31954084	2HVV
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_09335	COG3968	E	Glutamine synthetase type III	GlnA3			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_09345	COG1520	M	Outer membrane protein assembly factor BamB, contains PQQ-like beta-propeller repeat	PQQ			6TJG
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_09350	COG0024	J	Methionine aminopeptidase	Map			3J2I
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_09355	COG0521	H	Molybdopterin biosynthesis enzyme MoaB/MogA	MoaB	Molybdopterin biosynthesis	32239579	1DI6
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_09360	COG2386	O	ABC-type transport system involved in cytochrome c biogenesis, permease component	CcmB			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_09365	COG1131	V	ABC-type multidrug transport system, ATPase component	CcmA			5DO7
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_09375	COG1225	O	Peroxiredoxin	Bcp			5IPH
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_09385	COG0499	H	S-adenosylhomocysteine hydrolase	SAM1			1A7A
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_09390	COG4191	T	Signal transduction histidine kinase regulating C4-dicarboxylate transport system				4GCZ
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_09395	COG0488	R	ATPase components of ABC transporters with duplicated ATPase domains	Uup			5ZXD
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_09405	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_09420	COG0167	F	Dihydroorotate dehydrogenase	PyrD	Pyrimidine biosynthesis		1GT8
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_09430	COG5148	S	vWFA (von Willebrand factor type A) domain-containing protein				
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_09435	COG1053	C	Succinate dehydrogenase/fumarate reductase, flavoprotein subunit	SdhA	TCA cycle		1KF6
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_09440	COG2142	C	Succinate dehydrogenase, hydrophobic anchor subunit	SdhD			2WS3
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_09445	COG2009	C	Succinate dehydrogenase/fumarate reductase, cytochrome b subunit	SdhC		18511537	2WU2
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_09450	COG4372	S	Uncharacterized protein, contains DUF3084 domain				
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_09455	COG0300	R	Short-chain dehydrogenase	YqjQ			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_09465	COG1105	G	1-phosphofructokinase or 6-phosphofructokinase II	FruK			2ABQ
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_09470	COG2244	M	Membrane protein involved in the export of O-antigen and teichoic acid	RfbX			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_09475	COG0240	C	Glycerol-3-phosphate dehydrogenase	GpsA	Isoprenoid biosynthesis		1EVY
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_09480	COG0533	J	tRNA A37 threonylcarbamoyltransferase TsaD	TsaD	tRNA modification	23072323;21285948;32385138	3ENO
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_09485	COG0181	H	Porphobilinogen deaminase	HemC	Heme biosynthesis		1AH5
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_09490	COG1587	H	Uroporphyrinogen-III synthase	HemD	Heme biosynthesis		1JR2
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_09500	COG0607	P	Rhodanese-related sulfurtransferase	PspE	Urea cycle		1TQ1
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_09505	COG0625	O	Glutathione S-transferase	GstA			1A0F
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_09510	COG2008	E	Threonine aldolase	GLY1			4LNJ
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_09515	COG4805	S	Uncharacterized conserved protein, DUF885 family				3IUK
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_09520	COG3667	P	Uncharacterized conserved protein involved in copper resistance	PcoB			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_09535	COG5001	T	Cyclic di-GMP metabolism protein, combines GGDEF and EAL domains with a 6TM membrane domain				
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_09540	COG0210	L	Superfamily I DNA or RNA helicase	UvrD			6PPR
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_09555	COG0742	J	16S rRNA G966 N2-methylase RsmD	RsmD	16S rRNA modification		2IFT
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_09560	COG0104	F	Adenylosuccinate synthase	PurA	Purine biosynthesis		1ADE
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_09565	COG1453	R	Predicted oxidoreductase of the aldo/keto reductase family				
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_09575	COG0111	H	Phosphoglycerate dehydrogenase or related dehydrogenase	SerA	Serine biosynthesis		3OET
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_09580	COG0075	EF	Archaeal aspartate aminotransferase or a related aminotransferase, includes purine catabolism protein PucG	PucG	Serine biosynthesis		3NNK
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_09585	COG3706	TK	Two-component response regulator, PleD family, consists of two REC domains and a diguanylate cyclase (GGDEF) domain	PleD			1W25
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_09605	COG0553	KL	Superfamily II DNA or RNA helicase, SNF2 family	HepA			6UXV
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_09615	COG0210	L	Superfamily I DNA or RNA helicase	UvrD			6PPR
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_09620	COG1201	L	Lhr-like helicase	Lhr			5V9X
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_09625	COG0286	V	Type I restriction-modification system, DNA methylase subunit	HsdM		26872910	2AR0
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_09630	COG0553	KL	Superfamily II DNA or RNA helicase, SNF2 family	HepA			6UXV
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_09635	COG2378	K	Predicted DNA-binding transcriptional regulator YobV, contains HTH and WYL domains	YobV			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_09645	COG0681	U	Signal peptidase I	LepB		1925027	1B12
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_09670	COG3505	U	Type IV secretory pathway, VirD4 component, TraG/TraD family ATPase	VirD4			1GL6
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_09680	COG3000	I	Sterol desaturase/sphingolipid hydroxylase, fatty acid hydroxylase superfamily	ERG3			4ZR0
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_09685	COG2303	IR	Choline dehydrogenase or related flavoprotein	BetA	Non-phosphorylated Entner-Doudoroff pathway		1B4V
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_09695	COG1463	M	Periplasmic subunit MlaD of the ABC-type intermembrane phospholipid transporter Mla	MlaD			5UW8
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_09705	COG0526	O	Thiol-disulfide isomerase or thioredoxin	TrxA			1XFL
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_09710	COG2802	S	Uncharacterized conserved protein, LON_N-like domain, ASCH/PUA-like superfamily	LON/PUA			1ZBO
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_09715	COG4774	P	Outer membrane receptor for monomeric catechols	Fiu			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_09720	COG1566	V	Multidrug resistance efflux pump EmrA	EmrA			4TKO
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_09725	COG0841	V	Multidrug efflux pump subunit AcrB	AcrB			1IWG
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_09730	COG1538	M	Outer membrane protein TolC	TolC			1EK9
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_09735	COG0359	J	Ribosomal protein L9	RplI	Ribosome 50S subunit	27112601	1VS6
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_09750	COG2202	T	PAS domain	PAS			2MWG
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_09755	COG0773	M	UDP-N-acetylmuramate-alanine ligase MurC and related ligases, MurC/Mpl family	MurC	Mureine biosynthesis		
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_09760	COG0771	M	UDP-N-acetylmuramoylalanine-D-glutamate ligase	MurD	Mureine biosynthesis		1E0D
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_09770	COG2015	Q	Alkyl sulfatase BDS1 and related hydrolases, metallo-beta-lactamase superfamily	BDS1			2CFU
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_09775	COG1171	E	Threonine deaminase	IlvA	Isoleucine, leucine, valine biosynthesis		3IAU
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_09800	COG3311	KX	DNA-binding transcriptional regulator AlpA	AlpA			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_09810	COG3391	R	DNA-binding beta-propeller fold protein YncE	YncE		22120742;28628661	3VGZ
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_09815	COG3544	S	Uncharacterized conserved protein, DUF305 family				5FEJ
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_09830	COG1651	O	Protein thiol-disulfide isomerase DsbC	DsbG			2HI7
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_09840	COG1275	V	Tellurite resistance protein TehA and related permeases	TehA			3M71
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_09865	COG4454	R	Uncharacterized copper-binding protein, cupredoxin-like subfamily				
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_09870	COG1937	K	DNA-binding transcriptional regulator, FrmR family	FrmR			2HH7
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_09885	COG3019	S	Uncharacterized metal-binding protein, DUF411 family				
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_09890	COG2217	P	Cation-transporting P-type ATPase	ZntA			4BBJ
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_09900	COG0364	G	Glucose-6-phosphate 1-dehydrogenase	Zwf	Pentose phosphate pathway	18950999	5B7W
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_09905	COG0363	G	6-phosphogluconolactonase/Glucosamine-6-phosphate isomerase/deaminase	NagB	Pentose phosphate pathway	24163345	2RI0
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_09910	COG0129	EG	Dihydroxyacid dehydratase/phosphogluconate dehydratase	IlvD	Isoleucine, leucine, valine biosynthesis		2GP4
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_09925	COG0268	J	Ribosomal protein S20	RpsT	Ribosome 30S subunit		4V4H
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_09930	COG1484	L	DNA replication protein DnaC	DnaC			2QGZ
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_09940	COG0162	J	Tyrosyl-tRNA synthetase	TyrS	Aminoacyl-tRNA synthetases		4OUD
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_09945	COG2244	M	Membrane protein involved in the export of O-antigen and teichoic acid	RfbX			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_09955	COG4221	C	NADP-dependent 3-hydroxy acid dehydrogenase YdfG	YdfG	Pyrimidine degradation		3P19
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_09975	COG3655	K	DNA-binding transcriptional regulator, XRE family	YozG			3TYR
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_09985	COG0461	F	Orotate phosphoribosyltransferase	PyrE	Pyrimidine biosynthesis		4WML
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_09990	COG3741	E	N-formylglutamate amidohydrolase	HutG			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_10015	COG2360	O	Leu/Phe-tRNA-protein transferase	Aat			2CXA
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_10020	COG4765	S	Uncharacterized conserved protein, DUF2155 domain				
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_10030	COG1430	S	Uncharacterized conserved membrane protein, UPF0127 family				3M7A
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_10040	COG2137	O	SOS response regulatory protein OraA/RecX, interacts with RecA	RecX			3C1D
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_10045	COG1020	Q	EntF, seryl-AMP synthase component  of non-ribosomal peptide synthetase	EntF			5ES5
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_10050	COG5001	T	Cyclic di-GMP metabolism protein, combines GGDEF and EAL domains with a 6TM membrane domain				
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_10060	COG1044	M	UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase	LpxD	Lipid A biosynthesis		6P83
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_10065	COG0421	E	Spermidine synthase (polyamine aminopropyltransferase)	SpeE			6BQ2
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_10070	COG0113	H	Delta-aminolevulinic acid dehydratase, porphobilinogen synthase	HemB	Heme biosynthesis		1I8J
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_10075	COG4942	D	Septal ring factor EnvC, activator of murein hydrolases AmiA and AmiB	EnvC			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_10080	COG0367	E	Asparagine synthetase B (glutamine-hydrolyzing)	AsnB	Asparagine biosynthesis	25951518	2ETD
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_10095	COG0139	E	Phosphoribosyl-AMP cyclohydrolase	HisI1	Histidine biosynthesis		1ZPS
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_10105	COG0789	K	DNA-binding transcriptional regulator, MerR family	SoxR			2VZ4
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_10120	COG0457	R	Tetratricopeptide (TPR) repeat	TPR			3AS4
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_10130	COG1271	C	Cytochrome bd-type quinol oxidase, subunit 1	AppC			5DOQ
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_10135	COG1294	C	Cytochrome bd-type quinol oxidase, subunit 2	AppB			6RKO
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_10150	COG2814	G	Predicted arabinose efflux permease AraJ, MFS family	AraJ			4LDS
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_10160	COG4792	U	Type III secretory pathway, EscU/YscU component	EscU			2JLH
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_10165	COG4791	U	Type III secretory pathway, EscT/YscT component	EscT			6R6B
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_10185	COG1886	NU	Flagellar motor switch/type III secretory pathway protein FliN	FliN			1O9Y
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_10190	COG1868	N	Flagellar motor switch protein FliM	FliM			2HP7
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_10200	COG3144	N	Flagellar hook-length control protein FliK	FliK			2RRL
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_10210	COG1155	C	Archaeal/vacuolar-type H+-ATPase catalytic subunit A/Vma1	NtpA	A/V-type ATP synthase		3J9T
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_10220	COG1536	N	Flagellar motor switch protein FliG	FliG			4FHR
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_10225	COG1766	NU	Flagellar biosynthesis/type III secretory pathway M-ring protein FliF/YscJ	FliF			6SCN
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_10230	COG5031	H	Ubiquinone biosynthesis protein Coq4	COQ4	Ubiquinone biosynthesis		
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_10235	COG0778	C	Nitroreductase	NfnB	Pyrimidine degradation		1F5V
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_10240	COG2311	S	Uncharacterized membrane protein YeiB	YeiB			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_10250	COG1159	J	GTPase Era, involved in 16S rRNA processing	Era			1EGA
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_10255	COG1520	M	Outer membrane protein assembly factor BamB, contains PQQ-like beta-propeller repeat	PQQ			6TJG
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_10260	COG2976	T	Putative negative regulator of RcsB-dependent stress response, UPF0070 family	YfgM		23091052	
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_10265	COG3010	G	Putative N-acetylmannosamine-6-phosphate epimerase	NanE			1Y0E
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_10280	COG1722	L	Exonuclease VII small subunit	XseB			1VP7
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_10285	COG0142	H	Geranylgeranyl pyrophosphate synthase	IspA	Isoprenoid biosynthesis		2AZJ
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_10290	COG1057	H	Nicotinate-nucleotide adenylyltransferase NadD	NadD	NAD biosynthesis		1YUM
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_10295	COG0652	O	Peptidyl-prolyl cis-trans isomerase (rotamase) - cyclophilin family	PpiB			4DGD
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_10300	COG0809	J	S-adenosylmethionine:tRNA-ribosyltransferase-isomerase (queuine synthetase)	QueA	tRNA modification		1VKY
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_10305	COG1230	P	Co/Zn/Cd efflux system component	CzcD			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_10320	COG0343	J	Queuine/archaeosine tRNA-ribosyltransferase	Tgt	tRNA modification	15805528	1XW8
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_10330	COG1914	P	Mn2+ or Fe2+ transporter, NRAMP family	MntH			5KTE
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_10360	COG1138	CO	Cytochrome c biogenesis protein CcmF	CcmF			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_10365	COG0526	O	Thiol-disulfide isomerase or thioredoxin	TrxA			1XFL
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_10370	COG3088	CO	Cytochrome c-type biogenesis protein CcmH/NrfF	NrfF			2HL7
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_10375	COG5257	J	Translation initiation factor 2, gamma subunit (eIF-2gamma; GTPase)	GCD11	Translation factors		1KJZ
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_10380	COG0483	G	Archaeal fructose-1,6-bisphosphatase or related enzyme, inositol monophosphatase family	SuhB	Gluconeogenesis		1AWB
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_10390	COG0533	J	tRNA A37 threonylcarbamoyltransferase TsaD	TsaD	tRNA modification	23072323;21285948;32385138	3ENO
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_10395	COG0456	J	Ribosomal protein S18 acetylase RimI and related acetyltransferases	RimI			1GHE
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_10410	COG0204	I	1-acyl-sn-glycerol-3-phosphate acyltransferase	PlsC	Phospholipid biosynthesis		1IUQ
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_10415	COG1032	R	Radical SAM superfamily enzyme YgiQ, UPF0313 family	YgiQ			6FD2
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_10420	COG1702	T	Phosphate starvation-inducible protein PhoH, predicted ATPase	PhoH		8444794;12762842	3B85
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_10425	COG0319	J	ssRNA-specific RNase YbeY, 16S rRNA maturation enzyme	YbeY	16S rRNA modification	17407324;23543739	1XM5
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_10430	COG0517	T	CBS domain	CBS			1B3O
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_10435	COG2258	FV	N-hydroxylaminopurine reductase YiiM, contains MOSC domain	YiiM		18312271;29459651	1O65
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_10445	COG0297	G	Glycogen synthase	GlgA			1RZU
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_10450	COG2255	L	Holliday junction resolvasome RuvABC, ATP-dependent DNA helicase subunit RuvB	RuvB			1HQC
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_10455	COG1680	V	CubicO group peptidase, beta-lactamase class C family	AmpC			1BLS
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_10470	COG0297	G	Glycogen synthase	GlgA			1RZU
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_10475	COG0560	E	Phosphoserine phosphatase	SerB	Serine biosynthesis		3N28
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_10480	COG1216	G	Glycosyltransferase, GT2 family	WcaE			2Z86
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_10485	COG0707	M	UDP-N-acetylglucosamine:LPS N-acetylglucosamine transferase	MurG	Mureine biosynthesis		1F0K
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_10490	COG1038	C	Pyruvate carboxylase	PycA	Urea cycle		5VYW
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_10495	COG1071	C	TPP-dependent pyruvate or acetoin dehydrogenase subunit alpha	AcoA	Pyruvate oxidation		1DTW
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_10500	COG1042	C	Acyl-CoA synthetase (NDP forming)	PatZN		26251518	4YAK
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_10510	COG1250	I	3-hydroxyacyl-CoA dehydrogenase	FadB	Fatty acid biosynthesis		5ZQZ
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_10520	COG5653	N	Acetyltransferase involved in cellulose biosynthesis, CelD/BcsL family	BcsL			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_10525	COG3147	D	Cell division protein DedD (periplasmic protein involved in septation)	DedD			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_10530	COG4359	E	2-hydroxy-3-keto-5-methylthiopentenyl-1-phosphate phosphatase (methionine salvage)	MtnX			2FEA
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_10535	COG0572	F	Uridine kinase	Udk	Pyrimidine salvage		5B3F
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_10540	COG0059	EH	Ketol-acid reductoisomerase	IlvC	Isoleucine, leucine, valine biosynthesis		1NP3
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_10545	COG1047	O	Peptidyl-prolyl cis-trans isomerase, FKBP type	SlpA			2M2A
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_10550	COG0828	J	Ribosomal protein S21	RpsU	Ribosome 30S subunit		4V4H
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_10560	COG4889	R	Predicted helicase				5FFJ
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_10570	COG0261	J	Ribosomal protein L21	RplU	Ribosome 50S subunit		1VS6
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_10575	COG0211	J	Ribosomal protein L27	RpmA	Ribosome 50S subunit		1VS6
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_10580	COG1670	JO	Protein N-acetyltransferase, RimJ/RimL family	RimL			1S7F
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_10610	COG2814	G	Predicted arabinose efflux permease AraJ, MFS family	AraJ			4LDS
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_10615	COG1160	J	Double Era-like domain GTPase Der	Der			1MKY
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_10620	COG0571	K	dsRNA-specific ribonuclease	Rnc			1DI2
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_10625	COG0681	U	Signal peptidase I	LepB		1925027	1B12
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_10630	COG0166	G	Glucose-6-phosphate isomerase	Pgi	Glycolysis		1B0Z
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_10635	COG1249	C	Dihydrolipoamide dehydrogenase (E3) component of pyruvate/2-oxoglutarate dehydrogenase complex or glutathione oxidoreductase	Lpd	Glycine cleavagePyruvate oxidation		6QKG
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_10640	COG2335	R	Uncaracterized surface protein containing fasciclin (FAS1) repeats	FAS1			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_10660	COG1013	C	Pyruvate:ferredoxin oxidoreductase or related 2-oxoacid:ferredoxin oxidoreductase, beta subunit	PorB	Pyruvate oxidation		1B0P
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_10680	COG1233	Q	Phytoene dehydrogenase-related protein				4REP
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_10685	COG4604	P	ABC-type enterochelin transport system, ATPase component	CeuD			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_10695	COG0312	R	Zn-dependent protease PmbA/TldA or its inactivated homolog	TldD		12029038	3TV9
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_10710	COG0708	L	Exonuclease III	XthA			1AKO
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_10725	COG1485	D	Cell division protein ZapE (Z ring-associated ATPase), AFG1 superfamily	ZapE			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_10730	COG1607	I	Acyl-CoA hydrolase	YciA			5DM5
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_10735	COG0247	C	Fe-S cluster-containing oxidoreductase, includes glycolate oxidase subunit GlcF	GlpC			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_10740	COG1597	IR	Phosphatidylglycerol kinase, diacylglycerol kinase family	LCB5		17351295	2BON
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_10745	COG1409	T	3',5'-cyclic AMP phosphodiesterase CpdA	CpdA			2ZO9
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_10750	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_10755	COG0103	J	Ribosomal protein S9	RpsI	Ribosome 30S subunit		4V4H
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_10760	COG0102	J	Ribosomal protein L13	RplM	Ribosome 50S subunit		1VS6
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_10765	COG1324	P	Divalent cation tolerance protein CutA	CutA1			1NAQ
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_10770	COG1612	H	Heme A synthase	CtaA			6A2J
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_10775	COG0358	L	DNA primase (bacterial type)	DnaG		28128549	3B39
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_10780	COG2263	R	Predicted RNA methylase				6H2U
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_10795	COG0045	C	Succinyl-CoA synthetase, beta subunit	SucC	TCA cycle		1SCU
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_10805	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_10820	COG1475	D	Chromosome segregation protein Spo0J, contains ParB-like nuclease domain	Spo0J			1R71
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_10830	COG0142	H	Geranylgeranyl pyrophosphate synthase	IspA	Isoprenoid biosynthesis		2AZJ
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_10840	COG2197	TK	DNA-binding response regulator, NarL/FixJ family, contains REC and HTH domains	CitB			1A04
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_10850	COG0784	T	CheY-like REC (receiver) domain, includes chemotaxis protein CheY  and sporulation regulator Spo0F	CheY			6QRJ
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_10860	COG2197	TK	DNA-binding response regulator, NarL/FixJ family, contains REC and HTH domains	CitB			1A04
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_10865	COG1352	T	Methylase of chemotaxis methyl-accepting proteins	CheR			1AF7
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_10870	COG3290	T	Sensor histidine kinase DipB regulating citrate/malate metabolism	CitA			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_10875	COG0659	P	Sulfate permease or related transporter, MFS superfamily	SUL1			3NY7
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_10880	COG1506	E	Dipeptidyl aminopeptidase/acylaminoacyl peptidase	DAP2			2JBW
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_10895	COG0120	G	Ribose 5-phosphate isomerase	RpiA	Pentose phosphate pathway		1KS2
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_10900	COG0647	F	Ribonucleotide monophosphatase NagD, HAD superfamily	NagD			1PW5
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_10905	COG4670	I	Acyl CoA:acetate/3-ketoacid CoA transferase	YdiF			5VIT
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_10910	COG4257	V	Streptogramin lyase	Vgb			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_10920	COG0406	G	Broad specificity phosphatase PhoE	PhoE			1EBB
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_10925	COG1246	E	N-acetylglutamate synthase or related acetyltransferase, GNAT family	ArgA	Arginine biosynthesis		2R98
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_10940	COG0257	J	Ribosomal protein L36	RpmJ	Ribosome 50S subunit	21627333	1DFE
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_10945	COG1011	H	FMN and 5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YigB, HAD superfamily (riboflavin biosynthesis)	YigB		24123841	4JB3
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_10950	COG0469	G	Pyruvate kinase	PykF	Glycolysis		6QXL
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_10970	COG0217	KJ	Transcriptional and/or translational regulatory protein YebC/TACO1	TACO1			1KON
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_10975	COG0817	L	Holliday junction resolvasome RuvABC endonuclease subunit RuvC	RuvC			1HJR
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_10985	COG0616	O	Periplasmic serine protease, ClpP class	SppA			3BEZ
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_10995	COG1187	J	Pseudouridylate synthase RsuA, specific for 16S rRNA U516  and 23S rRNA U2605	RsuA	16S rRNA modification		1KSK
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_11000	COG3476	T	Tryptophan-rich sensory protein TspO/CrtK (mitochondrial benzodiazepine receptor homolog)	TspO			2MGY
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_11015	COG0580	G	Glycerol uptake facilitator or related aquaporin (Major Intrinsic protein Family)	GlpF			1FQY
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_11025	COG0530	P	Ca2+/Na+ antiporter	ECM27			3V5S
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_11030	COG0137	E	Argininosuccinate synthase	ArgG	Arginine biosynthesis		1J1Z
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_11040	COG0109	HI	Polyprenyltransferase (heme O synthase)	CyoE			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_11050	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_11060	COG1651	O	Protein thiol-disulfide isomerase DsbC	DsbG			2HI7
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_11070	COG1360	N	Flagellar motor protein MotB	MotB			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_11080	COG1026	O	Zn-dependent peptidase, M16 (insulinase) family	Cym1			2FGE
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_11095	COG1484	L	DNA replication protein DnaC	DnaC			2QGZ
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_11100	COG1233	Q	Phytoene dehydrogenase-related protein				4REP
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_11105	COG0640	K	DNA-binding transcriptional regulator, ArsR family	ArsR			3F6V
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_11110	COG2333	U	DNA uptake channel protein ComEC C-terminal domain, metallo-beta-lactamase superfamily	ComEC			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_11125	COG0659	P	Sulfate permease or related transporter, MFS superfamily	SUL1			3NY7
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_11130	COG0491	R	Glyoxylase or a related metal-dependent hydrolase, beta-lactamase superfamily II	GloB		25670698	1QH3
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_11135	COG2227	H	2-polyprenyl-3-methyl-5-hydroxy-6-metoxy-1,4-benzoquinol methylase	UbiG	Ubiquinone biosynthesis		1BHJ
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_11140	COG0271	KT	DNA-binding global transcriptional regulator BolA, affects cell shape, cell division and biofilm formation	BolA		19111750;2569159	2DHM
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_11145	COG0484	O	DnaJ-class molecular chaperone with C-terminal Zn finger domain	DnaJ			1BQ0
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_11155	COG1733	K	DNA-binding transcriptional regulator, HxlR family	HxlR			1YYV
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_11160	COG5271	J	Midasin, AAA ATPase with  vWA domain, involved in ribosome maturation	MDN1			6HYP
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_11170	COG0215	J	Cysteinyl-tRNA synthetase	CysS	Aminoacyl-tRNA synthetases		1LI5
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_11175	COG0744	M	Penicillin-binding protein 1B/1F, peptidoglycan  transglycosylase/transpeptidase	MrcB			3FWL
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_11190	COG0443	O	Molecular chaperone DnaK (HSP70)	DnaK			3I33
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_11195	COG0323	L	DNA mismatch repair ATPase MutL	MutL			1B62
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_11200	COG1249	C	Dihydrolipoamide dehydrogenase (E3) component of pyruvate/2-oxoglutarate dehydrogenase complex or glutathione oxidoreductase	Lpd	Glycine cleavagePyruvate oxidation		6QKG
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_11205	COG1012	I	Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase	AdhE	Proline degradation		1A4S
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_11225	COG1055	P	Na+/H+ antiporter NhaD or related arsenite permease	ArsB			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_11230	COG0082	E	Chorismate synthase	AroC	Aromatic amino acid biosynthesis		1Q1L
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_11240	COG2301	G	Citrate lyase beta subunit	CitE			4ROQ
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_11245	COG2268	S	Uncharacterized membrane protein YqiK, contains Band7/PHB/SPFH domain	YqiK			1WIN
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_11250	COG1585	O	Membrane protein implicated in regulation of membrane protease activity	YbbJ			2EXD
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_11260	COG2513	G	2-Methylisocitrate lyase and related enzymes, PEP mutase family	PrpB			1XG3
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_11290	COG1971	P	Putative Mn2+ efflux pump MntP	MntP			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_11295	COG1846	K	DNA-binding transcriptional regulator, MarR family	MarR			1JGS
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_11305	COG0668	M	Small-conductance mechanosensitive channel	MscS			2OAU
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_11310	COG1866	C	Phosphoenolpyruvate carboxykinase, ATP-dependent	PckA	Gluconeogenesis		1AQ2
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_11315	COG3437	T	Response regulator c-di-GMP phosphodiesterase, RpfG family, contains REC and HD-GYP domains	RpfG			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_11320	COG4191	T	Signal transduction histidine kinase regulating C4-dicarboxylate transport system				4GCZ
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_11325	COG1493	T	Serine kinase of the HPr protein, regulates carbohydrate metabolism	HprK			1JB1
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_11330	COG0249	L	DNA mismatch repair ATPase MutS	MutS			1E3M
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_11335	COG0778	C	Nitroreductase	NfnB	Pyrimidine degradation		1F5V
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_11340	COG3000	I	Sterol desaturase/sphingolipid hydroxylase, fatty acid hydroxylase superfamily	ERG3			4ZR0
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_11350	COG0596	HR	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold	MenH	Menaquinone biosynthesis		4MYS
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_11355	COG0457	R	Tetratricopeptide (TPR) repeat	TPR			3AS4
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_11360	COG0346	Q	Catechol 2,3-dioxygenase or related enzyme, vicinal oxygen chelate (VOC) family	GloA		11830595	3R4Q
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_11375	COG1020	Q	EntF, seryl-AMP synthase component  of non-ribosomal peptide synthetase	EntF			5ES5
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_11380	COG0405	E	Gamma-glutamyltranspeptidase	Ggt		16618936	2Z8I
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_11385	COG1042	C	Acyl-CoA synthetase (NDP forming)	PatZN		26251518	4YAK
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_11390	COG2025	C	Electron transfer flavoprotein, alpha subunit FixB	FixB			1EFP
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_11395	COG2025	C	Electron transfer flavoprotein, alpha subunit FixB	FixB			1EFP
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_11400	COG0846	O	NAD-dependent protein deacetylase, SIR2 family	SIR2			1M2N
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_11405	COG2872	J	Ser-tRNA(Ala) deacylase AlaX (editing enzyme)	AlaX			2E1B
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_11410	COG3324	R	Lactoylglutathione lyase-related enzyme, vicinal oxygen chelate (VOC) family	VOC		31710815	3OXH
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_11415	COG0024	J	Methionine aminopeptidase	Map			3J2I
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_11420	COG0468	L	RecA/RadA recombinase	RecA			1B22
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_11425	COG0784	T	CheY-like REC (receiver) domain, includes chemotaxis protein CheY  and sporulation regulator Spo0F	CheY			6QRJ
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_11430	COG3620	K	Predicted transcriptional regulator, contains an XRE-type HTH domain (archaeal members contain CBS pair)	AF2118			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_11435	COG0189	EHJQ	Glutathione synthase, LysX or RimK-type ligase, ATP-grasp superfamily	LysX	Lysine biosynthesis		1GLV
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_11445	COG3741	E	N-formylglutamate amidohydrolase	HutG			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_11450	COG0530	P	Ca2+/Na+ antiporter	ECM27			3V5S
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_11460	COG1087	M	UDP-glucose 4-epimerase	GalE			1A9Y
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_11465	COG0114	C	Fumarate hydratase class II	FumC	TCA cycle		1KQ7
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_11470	COG2242	H	Precorrin-6B methylase 2	CobL	Cobalamine/B12 biosynthesis		1F38
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_11480	COG2133	G	Glucose/arabinose dehydrogenase, beta-propeller fold	YliI			1C9U
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_11485	COG1629	P	Outer membrane receptor protein, Fe transport	CirA			1BY3
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_11490	COG2223	P	Nitrate/nitrite transporter NarK	NarK			4JR9
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_11505	COG5001	T	Cyclic di-GMP metabolism protein, combines GGDEF and EAL domains with a 6TM membrane domain				
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_11510	COG0843	C	Heme/copper-type cytochrome/quinol oxidase, subunit 1	CyoB			1AR1
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_11515	COG0382	H	4-hydroxybenzoate polyprenyltransferase	UbiA	Ubiquinone biosynthesis	28830929	4OD4
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_11530	COG1845	C	Heme/copper-type cytochrome/quinol oxidase, subunit 3	CyoC			1QLE
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_11535	COG3346	O	Cytochrome oxidase assembly protein ShyY1	Shy1			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_11540	COG0498	E	Threonine synthase	ThrC	Threonine biosynthesis		1VB3
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_11550	COG0496	L	Broad specificity polyphosphatase and 5'/3'-nucleotidase SurE	SurE			2V4N
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_11555	COG3858	D	Spore cortex hydrolase SleL/YaaH, N-acetylglucosaminidase of GH18 family	SleL			4S3J
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_11560	COG1226	P	Voltage-gated potassium channel Kch	Kch			3FWZ
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_11570	COG1032	R	Radical SAM superfamily enzyme YgiQ, UPF0313 family	YgiQ			6FD2
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_11580	COG1493	T	Serine kinase of the HPr protein, regulates carbohydrate metabolism	HprK			1JB1
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_11590	COG2893	G	Phosphotransferase system, mannose/fructose-specific component IIA	ManX			1PDO
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_11595	COG1925	TG	HPr or related phosphotransfer protein	PtsH			1CM2
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_11600	COG0219	J	tRNA(Leu) C34 or U34 (ribose-2'-O)-methylase TrmL, contains SPOUT domain	TrmL	tRNA modification		4JAK
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_11605	COG3187	O	Heat shock protein HslJ	HslJ			2KTS
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_11610	COG1579	R	Predicted nucleic acid-binding protein DR0291, contains C4-type Zn-ribbon domain	DR0291			4ILO
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_11615	COG0176	G	Transaldolase/fructose-6-phosphate aldolase	TalA	Pentose phosphate pathway		1F05
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_11630	COG0576	O	Molecular chaperone GrpE (heat shock protein HSP-70)	GrpE			1DKG
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_11635	COG2524	K	Predicted transcriptional regulator, contains C-terminal CBS domains				
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_11640	COG2123	U	Exosome complex RNA-binding protein Rrp42, RNase PH superfamily	Rrp42		23319881	4IFD
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_11645	COG0127	F	Inosine/xanthosine triphosphate pyrophosphatase, all-alpha NTP-PPase family	RdgB			1B78
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_11655	COG0784	T	CheY-like REC (receiver) domain, includes chemotaxis protein CheY  and sporulation regulator Spo0F	CheY			6QRJ
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_11670	COG2176	L	DNA polymerase III, alpha subunit (gram-positive type)	PolC			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_11680	COG0449	M	Glucosamine 6-phosphate synthetase, contains amidotransferase and phosphosugar isomerase domains	GlmS			2J6H
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_11695	COG2301	G	Citrate lyase beta subunit	CitE			4ROQ
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_11700	COG0073	J	tRNA-binding EMAP/Myf domain	EMAP			1MKH
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_11705	COG4992	E	Acetylornithine/succinyldiaminopimelate/putrescine aminotransferase	ArgD	Arginine biosynthesis		2E54
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_11710	COG0078	E	Ornithine carbamoyltransferase	ArgF	Arginine biosynthesis		1A1S
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_11720	COG1281	O	Redox-regulated molecular chaperone, HSP33 family	HslO			1HW7
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_11730	COG0482	J	tRNA U34 2-thiouridine synthase MnmA/TrmU, contains the PP-loop ATPase domain	MnmA	tRNA modification	25825430	2HMA
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_11745	COG1360	N	Flagellar motor protein MotB	MotB			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_11755	COG1344	N	Flagellin and related hook-associated protein FlgL	FlgL			1IO1
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_11765	COG3951	N	Rod binding protein domain	FlgJ1			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_11770	COG1706	N	Flagellar basal body P-ring protein FlgI	FlgI			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_11780	COG1558	N	Flagellar basal body rod protein FlgC	FlgC			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_11785	COG0807	H	GTP cyclohydrolase II	RibA	Riboflavin/FAD biosynthesis		2BZ0
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_11790	COG1064	G	D-arabinose 1-dehydrogenase, Zn-dependent alcohol dehydrogenase family	AdhP			5O8Q
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_11795	COG1067	O	Predicted ATP-dependent protease	LonB			3K1J
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_11800	COG1516	NU	Flagellin-specific chaperone FliS	FliS			1ORJ
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_11810	COG1377	N	Flagellar biosynthesis protein FlhB	FlhB			6S3L
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_11815	COG1202	L	Superfamily II helicase, archaea-specific				
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_11825	COG0033	G	Phosphoglucomutase/phosphomannomutase	Pgm		30938049	1C47
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_11835	COG1192	DN	ParA-like ATPase involved in chromosome/plasmid partitioning or cellulose biosynthesis protein BcsQ	ParA			6NOO
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_11840	COG0414	H	Panthothenate synthetase	PanC	Pantothenate/CoA biosynthesis	17968677	1DIN
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_11855	COG2226	H	Ubiquinone/menaquinone biosynthesis C-methylase UbiE/MenG	UbiE	Biotin biosynthesis		4OBW
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_11865	COG0031	E	Cysteine synthase	CysK	Cysteine biosynthesis		1FCJ
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_11870	COG3268	S	Uncharacterized conserved protein, related to short-chain dehydrogenases				
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_11875	COG2814	G	Predicted arabinose efflux permease AraJ, MFS family	AraJ			4LDS
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_11890	COG5331	S	Uncharacterized conserved protein				
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_11910	COG4637	R	Predicted ATPase				
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_11915	COG1409	T	3',5'-cyclic AMP phosphodiesterase CpdA	CpdA			2ZO9
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_11920	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_11935	COG1708	R	Predicted nucleotidyltransferase, MJ0604 family	MJ0604			5YEP
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_11940	COG3311	KX	DNA-binding transcriptional regulator AlpA	AlpA			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_11970	COG4973	L	Site-specific recombinase XerC	XerC			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_11995	COG0334	E	Glutamate dehydrogenase/leucine dehydrogenase	GdhA	Glutamine biosynthesis	24391520	1B3B
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_12000	COG2135	L	ssDNA abasic site-binding protein YedK/HMCES, SRAP family	SRAP		30554877;31504793	1ZN6
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_12010	COG1453	R	Predicted oxidoreductase of the aldo/keto reductase family				
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_12065	COG4974	L	Site-specific recombinase XerD	XerD			1A0P
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_12070	COG4974	L	Site-specific recombinase XerD	XerD			1A0P
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_12080	COG0465	O	ATP-dependent Zn proteases	HflB			1LV7
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_12090	COG0410	E	ABC-type branched-chain amino acid transport system, ATPase component LivF	LivF		26527648;32250026	1JI0
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_12095	COG0842	V	ABC-type multidrug transport system, permease component	YadH			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_12100	COG3851	T	Signal transduction histidine kinase UhpB, glucose-6-phosphate specific	UhpB			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_12105	COG4566	TK	DNA-binding response regulator, FixJ family, consists of REC and HTH domains	FixJ			1YIO
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_12110	COG1506	E	Dipeptidyl aminopeptidase/acylaminoacyl peptidase	DAP2			2JBW
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_12120	COG1360	N	Flagellar motor protein MotB	MotB			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_12135	COG2020	O	Protein-S-isoprenylcysteine O-methyltransferase Ste14	STE14			5V7P
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_12150	COG4770	I	Acetyl/propionyl-CoA carboxylase, alpha subunit	PccA			3U9S
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_12155	COG4799	I	Acetyl-CoA carboxylase, carboxyltransferase component	MmdA			1OD2
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_12165	COG2005	K	DNA-binding transcriptional regulator ModE (molybdenum-dependent)	ModE		19779461	1B9M
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_12195	COG4206	H	Outer membrane cobalamin receptor protein BtuB	BtuB			1NQE
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_12200	COG3226	K	DNA-binding transcriptional regulator YbjK	YbjK			5X5I
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_12205	COG1012	I	Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase	AdhE	Proline degradation		1A4S
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_12210	COG1541	H	Phenylacetate-coenzyme A ligase PaaK, adenylate-forming domain family	PaaK			2Y4O
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_12215	COG2857	C	Cytochrome c1	CYT1			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_12225	COG4783	MO	Outer membrane protein chaperone/metalloprotease BepA/YfgC, contains M48 and TPR domains	BepA		24003122	6AIT
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_12255	COG0741	M	Soluble lytic murein transglycosylase or regulatory protein s ( may contain LysM/invasin domain)	MltE			153L
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_12325	COG4959	OU	Type IV secretory pathway, protease TraF	TraF			1B12
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_12355	COG2319	R	WD40 repeat	WD40			3UVN
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_12360	COG4102	S	Uncharacterized conserved protein, DUF1501 family				
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_12375	COG2165	NUW	Type II secretory pathway, pseudopilin PulG	PulG			1AY2
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_12380	COG0666	T	Ankyrin repeat	ANKYR			6AUN
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_12390	COG0421	E	Spermidine synthase (polyamine aminopropyltransferase)	SpeE			6BQ2
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_12400	COG2814	G	Predicted arabinose efflux permease AraJ, MFS family	AraJ			4LDS
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_12405	COG0548	E	N-acetylglutamate kinase	ArgB	Arginine biosynthesis		3S6G
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_12425	COG5001	T	Cyclic di-GMP metabolism protein, combines GGDEF and EAL domains with a 6TM membrane domain				
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_12435	COG3182	S	PepSY-associated TM region	PiuB		15124630	
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_12450	COG2382	P	Enterochelin esterase or related enzyme	Fes			2B20
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_12455	COG4772	P	Outer membrane receptor for Fe3+-dicitrate	FecA			1KMP
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_12460	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_12475	COG2148	M	Sugar transferase involved in LPS biosynthesis (colanic, teichoic acid)	WcaJ			5W7L
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_12585	COG0629	L	Single-stranded DNA-binding protein	Ssb			1EQQ
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_12620	COG0582	LX	Integrase/recombinase, includes phage integrase	FimB			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_12625	COG1991	R	Uncharacterized conserved protein MJ0832_1, predicted component of type IV pili-like system, UPF0333 family	MJ0832			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_12645	COG2837	P	Periplasmic deferrochelatase/peroxidase EfeB	EfeB			2D3Q
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_12650	COG3884	I	Acyl-ACP thioesterase	FatA			2ESS
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_12660	COG0385	R	Predicted Na+-dependent transporter YfeH	YfeH		21175741	4N7X
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_12675	COG0640	K	DNA-binding transcriptional regulator, ArsR family	ArsR			3F6V
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_12680	COG0784	T	CheY-like REC (receiver) domain, includes chemotaxis protein CheY  and sporulation regulator Spo0F	CheY			6QRJ
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_12695	COG5000	T	Signal transduction histidine kinase NtrY involved in nitrogen fixation and metabolism regulation	NtrY			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_12715	COG2378	K	Predicted DNA-binding transcriptional regulator YobV, contains HTH and WYL domains	YobV			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_12720	COG2333	U	DNA uptake channel protein ComEC C-terminal domain, metallo-beta-lactamase superfamily	ComEC			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_12735	COG2852	L	Very-short-patch-repair endonuclease	YcjD			3HRL
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_12740	COG0210	L	Superfamily I DNA or RNA helicase	UvrD			6PPR
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_12750	COG1199	L	Rad3-related DNA helicase DinG	DinG			5H8W
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_12760	COG3640	O	CO dehydrogenase nickel-insertion accessory protein CooC1	CooC		15466042	
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_12765	COG1475	D	Chromosome segregation protein Spo0J, contains ParB-like nuclease domain	Spo0J			1R71
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_12795	COG1426	D	Cytoskeletal protein RodZ, contains Xre-like HTH and DUF4115 domains	RodZ			3FYM
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_12800	COG3550	T	Serine/threonine protein kinase HipA, toxin component of the HipAB toxin-antitoxin module	HipA			2WIU
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_12865	COG3673	S	Uncharacterized conserved protein, PA2063/DUF2235 family				
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_12875	COG4558	P	ABC-type hemin transport system, periplasmic component	ChuT			3MD9
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_12885	COG4774	P	Outer membrane receptor for monomeric catechols	Fiu			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_12895	COG3328	X	Transposase (or an inactivated derivative)	IS285			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_12900	COG3393	R	Predicted acetyltransferase, GNAT family				
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_12905	COG1276	P	Putative copper export protein	PcoD			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_12925	COG2217	P	Cation-transporting P-type ATPase	ZntA			4BBJ
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_12930	COG1087	M	UDP-glucose 4-epimerase	GalE			1A9Y
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_12940	COG1012	I	Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase	AdhE	Proline degradation		1A4S
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_12945	COG2130	QR	NADPH-dependent curcumin reductase CurA	CurA		21467222	1V3T
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_12950	COG3965	P	Predicted Co/Zn/Cd cation transporter, cation efflux family				
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_12955	COG1102	F	Cytidylate kinase	CmkB			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_12965	COG2217	P	Cation-transporting P-type ATPase	ZntA			4BBJ
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_12970	COG2608	P	Copper chaperone CopZ	CopZ			1AFI
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_12975	COG2801	X	Transposase InsO and inactivated derivatives	Tra5			
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_12980	COG2963	X	Transposase InsE and inactivated derivatives	InsE		23818957	2JN6
+Sphingorhabdus_sp_CPC54	GCA_002683755.1	LHBBGI_12985	COG2216	P	K+ transport ATPase, ATPase subunit KdpB	KdpB			5MRW

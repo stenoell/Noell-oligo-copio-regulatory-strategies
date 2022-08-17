@@ -1,0 +1,427 @@
+#prefix	assemid	query	COG	category	name	Gene	pathway	pmid	pdb_id
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_00005	COG0162	J	Tyrosyl-tRNA synthetase	TyrS	Aminoacyl-tRNA synthetases		4OUD
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_00030	COG0582	LX	Integrase/recombinase, includes phage integrase	FimB			
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_00055	COG2096	H	Cob(II)alamin adenosyltransferase	PduO	Cobalamine/B12 biosynthesis		1NOG
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_00060	COG0209	F	Ribonucleotide reductase alpha subunit	NrdA	Pyrimidine salvage		1R1R
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_00075	COG0768	DM	Cell division protein FtsI, peptidoglycan transpeptidase (Penicillin-binding protein 2)	FtsI			6HZQ
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_00080	COG0768	DM	Cell division protein FtsI, peptidoglycan transpeptidase (Penicillin-binding protein 2)	FtsI			6HZQ
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_00095	COG1052	CHR	Lactate dehydrogenase or related 2-hydroxyacid dehydrogenase	LdhA	Pyridoxal phosphate biosynthesis		1DXY
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_00135	COG4372	S	Uncharacterized protein, contains DUF3084 domain				
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_00145	COG1948	L	ERCC4-type crossover junction endonuclease	MUS81			1J22
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_00160	COG0534	V	Na+-driven multidrug efflux pump, DinF/NorM/MATE family	NorM		29915058	3VVN
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_00170	COG1961	L	Site-specific DNA recombinase SpoIVCA/DNA invertase PinE	SpoIVCA			1GDT
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_00190	COG1249	C	Dihydrolipoamide dehydrogenase (E3) component of pyruvate/2-oxoglutarate dehydrogenase complex or glutathione oxidoreductase	Lpd	Glycine cleavagePyruvate oxidation		6QKG
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_00230	COG1304	CIR	FMN-dependent dehydrogenase, includes L-lactate dehydrogenase and type II isopentenyl diphosphate isomerase	LldD	Isoprenoid biosynthesis		6AI7
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_00245	COG3613	F	Nucleoside 2-deoxyribosyltransferase	RCL			1F8X
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_00260	COG3773	DM	Cell wall hydrolase CwlJ, involved in spore germination	CwlJ			4F55
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_00285	COG0568	K	DNA-directed RNA polymerase, sigma subunit (sigma70/sigma32)	RpoD	RNA polymerase		1SIG
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_00295	COG0828	J	Ribosomal protein S21	RpsU	Ribosome 30S subunit		4V4H
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_00320	COG0024	J	Methionine aminopeptidase	Map			3J2I
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_00325	COG2110	J	O-acetyl-ADP-ribose deacetylase (regulator of RNase III), contains Macro domain	YmdB			1HJZ
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_00380	COG0593	L	Chromosomal replication initiation ATPase DnaA	DnaA			1L8Q
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_00395	COG4932	M	Clumping factor A-related surface protein, MSCRAMM (microbial surface components recognizing adhesive matrix molecules) family, DEv-IgG fold	ClfA		12485987	1N67
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_00505	COG3108	S	Uncharacterized conserved protein YcbK, DUF882 family	YcbK			
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_00510	COG0349	J	Ribonuclease D	Rnd		18821773	5C0Y
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_00530	COG2263	R	Predicted RNA methylase				6H2U
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_00560	COG1074	L	3-5 helicase subunit RecB of the DNA repair enzyme RecBCD (exonuclease V)	RecB		29901759;30601118	3U44
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_00660	COG1651	O	Protein thiol-disulfide isomerase DsbC	DsbG			2HI7
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_00665	COG1249	C	Dihydrolipoamide dehydrogenase (E3) component of pyruvate/2-oxoglutarate dehydrogenase complex or glutathione oxidoreductase	Lpd	Glycine cleavagePyruvate oxidation		6QKG
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_00670	COG0526	O	Thiol-disulfide isomerase or thioredoxin	TrxA			1XFL
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_00680	COG2761	O	Predicted dithiol-disulfide isomerase, DsbA/YjbH family (virulence, stress resistance)	FrnE			6GHB
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_00685	COG3695	K	Alkylated DNA nucleotide flippase Atl1, participates in nucleotide excision repair, Ada-like DNA-binding domain	Atl1		19516334	2KIF
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_00690	COG2340	DR	Spore germination protein YkwD and related proteins with CAP (CSP/antigen 5/PR1) domain	YkwD		31199835	1CFE
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_00700	COG0193	J	Peptidyl-tRNA hydrolase	Pth	Translation factors	11835511	1RYB
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_00705	COG0530	P	Ca2+/Na+ antiporter	ECM27			3V5S
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_00710	COG1793	L	ATP-dependent DNA ligase	CDC9			1A0I
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_00720	COG2184	T	Fido, protein-threonine AMPylation domain	FIDO		19503829	2F6S
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_00735	COG0142	H	Geranylgeranyl pyrophosphate synthase	IspA	Isoprenoid biosynthesis		2AZJ
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_00745	COG1437	TR	Adenylate cyclase class IV, CYTH domain (includes archaeal enzymes of unknown function)	CyaB			1YEM
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_00750	COG2227	H	2-polyprenyl-3-methyl-5-hydroxy-6-metoxy-1,4-benzoquinol methylase	UbiG	Ubiquinone biosynthesis		1BHJ
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_00755	COG0125	F	Thymidylate kinase	Tmk	Thymidylate biosynthesis		3LV8
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_00770	COG3593	L	Predicted ATP-dependent endonuclease of the OLD family, contains P-loop ATPase and TOPRIM domains	YbjD			
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_00775	COG0297	G	Glycogen synthase	GlgA			1RZU
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_00780	COG0322	L	Excinuclease UvrABC, nuclease subunit	UvrC		24513124	2NRT
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_00785	COG0465	O	ATP-dependent Zn proteases	HflB			1LV7
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_00800	COG0529	P	Adenylylsulfate kinase or related kinase	CysC	Cysteine biosynthesis		2GKS
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_00850	COG4741	F	Predicted secreted endonuclease distantly related to archaeal Holliday junction resolvase				
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_00870	COG0117	H	Riboflavin biosynthesis protein RibD, pyrimidine deaminase domain	RibD1	Riboflavin/FAD biosynthesis		2O7P
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_00940	COG0217	KJ	Transcriptional and/or translational regulatory protein YebC/TACO1	TACO1			1KON
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_00955	COG0582	LX	Integrase/recombinase, includes phage integrase	FimB			
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_00975	COG0187	L	DNA gyrase/topoisomerase IV, subunit B	GyrB			1EI1
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_00995	COG3764	M	Sortase (surface protein transpeptidase)	SrtA			1IJA
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_01005	COG2872	J	Ser-tRNA(Ala) deacylase AlaX (editing enzyme)	AlaX			2E1B
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_01015	COG1426	D	Cytoskeletal protein RodZ, contains Xre-like HTH and DUF4115 domains	RodZ			3FYM
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_01025	COG1674	D	DNA segregation ATPase FtsK/SpoIIIE or related protein	FtsK			2IUT
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_01040	COG1236	J	RNA processing exonuclease, beta-lactamase fold, Cft2 family	YSH1			2DKF
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_01050	COG2129	R	Predicted phosphoesterase, related to the Icc protein				2YVT
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_01055	COG2183	K	Transcriptional accessory protein Tex/SPT6	Tex			2OCE
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_01065	COG0618	FT	nanoRNase/pAp phosphatase, hydrolyzes c-di-AMP and oligoRNAs	NrnA			5O4Z
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_01070	COG0480	J	Translation elongation factor EF-G, a GTPase	FusA	Translation factors		1DAR
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_01090	COG2214	K	Curved DNA-binding protein CbpA, contains a DnaJ-like domain	CbpA			
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_01100	COG0443	O	Molecular chaperone DnaK (HSP70)	DnaK			3I33
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_01105	COG0576	O	Molecular chaperone GrpE (heat shock protein HSP-70)	GrpE			1DKG
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_01110	COG2524	K	Predicted transcriptional regulator, contains C-terminal CBS domains				
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_01115	COG0534	V	Na+-driven multidrug efflux pump, DinF/NorM/MATE family	NorM		29915058	3VVN
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_01125	COG3166	NW	Type IV pilus assembly protein PilN	PilN			
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_01155	COG4346	O	Predicted membrane-bound dolichyl-phosphate-mannose-protein mannosyltransferase				
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_01160	COG3290	T	Sensor histidine kinase DipB regulating citrate/malate metabolism	CitA			
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_01170	COG0210	L	Superfamily I DNA or RNA helicase	UvrD			6PPR
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_01180	COG2348	M	Lipid II:glycine glycyltransferase (Peptidoglycan interpeptide bridge formation enzyme)	FmhB			1LRZ
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_01195	COG2887	L	RecB family exonuclease	Slr0479			
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_01210	COG4496	R	Predicted DNA-binding transcriptional regulator YerC, contains ArsR-like HTH domain	YerC			3KOR
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_01215	COG0468	L	RecA/RadA recombinase	RecA			1B22
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_01235	COG0358	L	DNA primase (bacterial type)	DnaG		28128549	3B39
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_01250	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_01260	COG0516	F	IMP dehydrogenase/GMP reductase	GuaB	Purine biosynthesis		1B3O
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_01270	COG2176	L	DNA polymerase III, alpha subunit (gram-positive type)	PolC			
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_01285	COG0148	G	Enolase	Eno	Glycolysis		1E9I
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_01300	COG1010	H	Precorrin-3B methylase	CobJ	Cobalamine/B12 biosynthesis		2ZVB
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_01310	COG1914	P	Mn2+ or Fe2+ transporter, NRAMP family	MntH			5KTE
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_01320	COG0346	Q	Catechol 2,3-dioxygenase or related enzyme, vicinal oxygen chelate (VOC) family	GloA		11830595	3R4Q
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_01325	COG2345	K	Predicted transcriptional regulator, ArsR family				
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_01330	COG4098	L	Superfamily II DNA/RNA helicase required for DNA uptake (late competence protein)	ComFA			
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_01340	COG4988	CO	ABC-type transport system involved in cytochrome bd biosynthesis, ATPase and permease components	CydD			
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_01345	COG1305	O	Transglutaminase-like enzyme, putative cysteine protease	YebA			3ISR
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_01350	COG0556	L	Excinuclease UvrABC helicase subunit UvrB	UvrB			1C4O
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_01405	COG2085	R	Predicted dinucleotide-binding enzyme				2VNS
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_01465	COG3613	F	Nucleoside 2-deoxyribosyltransferase	RCL			1F8X
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_01470	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_01500	COG1082	G	Sugar phosphate isomerase/epimerase	YcjR		30742415	3KTC
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_01535	COG3173	R	Predicted  kinase, aminoglycoside phosphotransferase (APT) family	YcbJ			
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_01545	COG0494	V	8-oxo-dGTP pyrophosphatase MutT and related house-cleaning NTP pyrophosphohydrolases, NUDIX family	MutT			4V14
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_01580	COG0275	J	16S rRNA C1402 N4-methylase RsmH	RmsH	16S rRNA modification		1M6Y
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_01590	COG5009	M	Membrane carboxypeptidase/penicillin-binding protein	MrcA			3D0F
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_01595	COG0128	E	5-enolpyruvylshikimate-3-phosphate synthase	AroA	Aromatic amino acid biosynthesis		4N3P
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_01600	COG0472	M	UDP-N-acetylmuramyl pentapeptide phosphotransferase/UDP-N-acetylglucosamine-1-phosphate transferase	Rfe	Mureine biosynthesis		4J72
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_01605	COG0772	D	Peptodoglycan polymerase FtsW/RodA/SpoVE	FtsW		30692671	6BAR
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_01610	COG1819	G	UDP:flavonoid glycosyltransferase YjiC, YdhE family	YjiC		23974133	2ACV
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_01615	COG1589	D	Cell division septal protein FtsQ	FtsQ			1YR1
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_01620	COG4820	E	Ethanolamine utilization protein EutJ, possible chaperonin	EutJ			
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_01630	COG0206	D	Cell division GTPase FtsZ	FtsZ			1FSZ
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_01660	COG0770	M	UDP-N-acetylmuramyl pentapeptide synthase	MurF	Mureine biosynthesis		4CVK
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_01665	COG0769	M	UDP-N-acetylmuramyl tripeptide synthase	MurE	Mureine biosynthesis		1E8C
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_01670	COG1525	L	Endonuclease YncB, thermonuclease family	YncB			
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_01675	COG0332	I	3-oxoacyl-[acyl-carrier-protein] synthase III	FabH	Fatty acid biosynthesis		1UB7
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_01685	COG1805	C	Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrB	NqrB	Na+-translocating NADH dehydrogenase		4P6V
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_01690	COG1474	L	Cdc6-related protein, AAA superfamily ATPase	CDC6			1FNN
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_01695	COG3881	S	Uncharacterized conserved protein YrrD, contains PRC-barrel domain	YrrD			
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_01725	COG0420	L	DNA repair exonuclease SbcCD nuclease subunit	SbcD			6S85
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_01825	COG2340	DR	Spore germination protein YkwD and related proteins with CAP (CSP/antigen 5/PR1) domain	YkwD		31199835	1CFE
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_01830	COG2242	H	Precorrin-6B methylase 2	CobL	Cobalamine/B12 biosynthesis		1F38
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_01835	COG1430	S	Uncharacterized conserved membrane protein, UPF0127 family				3M7A
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_01860	COG0536	DL	GTPase involved in cell partioning and DNA repair	Obg			1LNZ
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_01880	COG5422
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_01885	COG0484	O	DnaJ-class molecular chaperone with C-terminal Zn finger domain	DnaJ			1BQ0
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_01895	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_01905	COG0468	L	RecA/RadA recombinase	RecA			1B22
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_01925	COG0358	L	DNA primase (bacterial type)	DnaG		28128549	3B39
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_01935	COG0494	V	8-oxo-dGTP pyrophosphatase MutT and related house-cleaning NTP pyrophosphohydrolases, NUDIX family	MutT			4V14
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_01940	COG3425	I	3-hydroxy-3-methylglutaryl CoA synthase	PksG	Isoprenoid biosynthesis		1TVZ
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_01945	COG2084	I	3-hydroxyisobutyrate dehydrogenase or related beta-hydroxyacid dehydrogenase	MmsB			1I36
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_01985	COG0442	J	Prolyl-tRNA synthetase	ProS	Aminoacyl-tRNA synthetases		5XIF
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_01990	COG0265	O	Periplasmic serine protease, S1-C subfamily, contain C-terminal PDZ domain	DegQ		29686141	2HGA
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_01995	COG0233	J	Ribosome recycling factor	Frr			1DD5
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_02005	COG0052	J	Ribosomal protein S2	RpsB	Ribosome 30S subunit		4V4H
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_02010	COG2268	S	Uncharacterized membrane protein YqiK, contains Band7/PHB/SPFH domain	YqiK			1WIN
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_02020	COG2133	G	Glucose/arabinose dehydrogenase, beta-propeller fold	YliI			1C9U
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_02035	COG0215	J	Cysteinyl-tRNA synthetase	CysS	Aminoacyl-tRNA synthetases		1LI5
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_02040	COG3177	K	Fic family protein				3CUC
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_02050	COG0353	L	Recombinational DNA repair protein RecR	RecR		26337406	2JGR
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_02060	COG2256	L	Replication-associated recombination protein RarA (DNA-dependent ATPase)	RarA			3PVS
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_02065	COG0319	J	ssRNA-specific RNase YbeY, 16S rRNA maturation enzyme	YbeY	16S rRNA modification	17407324;23543739	1XM5
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_02075	COG0537	FR	Purine nucleoside phosphoramidase/Ap4A hydrolase, histidine triade (HIT) family	HinT		20934431	1AV5
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_02080	COG0391	GH	Archaeal 2-phospho-L-lactate transferase/Bacterial gluconeogenesis factor, CofD/UPF0052 family	CofD		11888293;18252724	1ZX8
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_02125	COG1209	M	dTDP-glucose pyrophosphorylase	RmlA1			1FXO
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_02130	COG1091	M	dTDP-4-dehydrorhamnose reductase	RfbD			1KBZ
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_02145	COG0265	O	Periplasmic serine protease, S1-C subfamily, contain C-terminal PDZ domain	DegQ		29686141	2HGA
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_02155	COG0438	M	Glycosyltransferase involved in cell wall bisynthesis	RfaB			2IV7
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_02160	COG1022	I	Long-chain acyl-CoA synthetase (AMP-forming)	FAA1			
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_02185	COG0047	F	Phosphoribosylformylglycinamidine (FGAM) synthase, glutamine amidotransferase domain	PurL2	Purine biosynthesis		1T3T
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_02190	COG2062	T	Phosphohistidine phosphatase SixA	SixA			1UJB
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_02195	COG0630	NU	Type IV secretory pathway ATPase VirB11/Archaellum biosynthesis ATPase ArlI/FlaI	VirB11		32416640	1G6O
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_02200	COG1727	J	Ribosomal protein L18E	RPL18A	Archaeal ribosomal proteins		
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_02205	COG0201	U	Preprotein translocase subunit SecY	SecY			1RH5
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_02210	COG0125	F	Thymidylate kinase	Tmk	Thymidylate biosynthesis		3LV8
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_02215	COG0024	J	Methionine aminopeptidase	Map			3J2I
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_02220	COG0361	J	Translation initiation factor IF-1	InfA	Translation factors		5FIM
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_02230	COG0100	J	Ribosomal protein S11	RpsK	Ribosome 30S subunit		4V4H
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_02235	COG1189	J	Predicted rRNA methylase YqxC, contains S4 and FtsJ domains	YqxC			3OPN
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_02240	COG0202	K	DNA-directed RNA polymerase, alpha subunit/40 kD subunit	RpoA	RNA polymerase		4KN7
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_02250	COG0102	J	Ribosomal protein L13	RplM	Ribosome 50S subunit		1VS6
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_02260	COG0823	U	Periplasmic component TolB of the Tol biopolymer transport system	TolB			1C5K
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_02285	COG1474	L	Cdc6-related protein, AAA superfamily ATPase	CDC6			1FNN
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_02290	COG2137	O	SOS response regulatory protein OraA/RecX, interacts with RecA	RecX			3C1D
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_02295	COG2206	T	HD-GYP domain, c-di-GMP phosphodiesterase class II (or its inactivated variant)	HDGYP		23475961	5Z7C
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_02310	COG0324	J	tRNA A37 N6-isopentenylltransferase MiaA	MiaA	tRNA modification		2ZM5
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_02345	COG1239	H	Mg-chelatase subunit ChlI	ChlI			1G8P
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_02360	COG1566	V	Multidrug resistance efflux pump EmrA	EmrA			4TKO
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_02365	COG4107	P	ABC-type phosphonate transport system, ATPase component PhnK	PhnK		19516334	
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_02370	COG0577	V	ABC-type antimicrobial peptide transport system, permease component	SalY			
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_02380	COG0305	L	Replicative DNA helicase	DnaB			1B79
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_02400	COG0441	J	Threonyl-tRNA synthetase	ThrS	Aminoacyl-tRNA synthetases		1NYQ
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_02405	COG0697	GER	Permease of the drug/metabolite transporter (DMT) superfamily	RhaT			5I20
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_02410	COG5473	S	Uncharacterized membrane protein				
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_02415	COG0254	J	Ribosomal protein L31	RpmE	Ribosome 50S subunit		1VS6
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_02420	COG1186	J	Protein chain release factor PrfB	PrfB	Translation factors		1GQE
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_02430	COG0793	O	C-terminal processing protease CtpA/Prc, contains a PDZ domain	CtpA			6IQU
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_02435	COG0793	O	C-terminal processing protease CtpA/Prc, contains a PDZ domain	CtpA			6IQU
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_02445	COG2965	L	Primosomal replication protein N	PriB			2PNH
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_02455	COG0536	DL	GTPase involved in cell partioning and DNA repair	Obg			1LNZ
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_02475	COG2887	L	RecB family exonuclease	Slr0479			
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_02495	COG0818	I	Diacylglycerol kinase	DgkA			2KDC
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_02500	COG0671	I	Membrane-associated phospholipid phosphatase	PgpB	Phospholipid biosynthesis		1D2T
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_02505	COG1047	O	Peptidyl-prolyl cis-trans isomerase, FKBP type	SlpA			2M2A
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_02510	COG0449	M	Glucosamine 6-phosphate synthetase, contains amidotransferase and phosphosugar isomerase domains	GlmS			2J6H
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_02520	COG0012	J	Ribosome-binding ATPase YchF, GTP1/OBG family	GTP1		21527254	2DWQ
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_02535	COG3620	K	Predicted transcriptional regulator, contains an XRE-type HTH domain (archaeal members contain CBS pair)	AF2118			
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_02550	COG1577	I	Mevalonate kinase	ERG12	Isoprenoid biosynthesis		
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_02555	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_02560	COG1215	N	Glycosyltransferase, catalytic subunit of cellulose synthase and poly-beta-1,6-N-acetylglucosamine synthase	BcsA			4HG6
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_02565	COG0297	G	Glycogen synthase	GlgA			1RZU
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_02570	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_02575	COG1215	N	Glycosyltransferase, catalytic subunit of cellulose synthase and poly-beta-1,6-N-acetylglucosamine synthase	BcsA			4HG6
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_02580	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_02590	COG2244	M	Membrane protein involved in the export of O-antigen and teichoic acid	RfbX			
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_02600	COG1807	M	PMT family glycosyltransferase ArnT/Agl22, involved in glycosylation of proteins and lipid IVA	ArnT		16226890;31233657;32706435	5EZM
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_02605	COG1807	M	PMT family glycosyltransferase ArnT/Agl22, involved in glycosylation of proteins and lipid IVA	ArnT		16226890;31233657;32706435	5EZM
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_02610	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_02615	COG1807	M	PMT family glycosyltransferase ArnT/Agl22, involved in glycosylation of proteins and lipid IVA	ArnT		16226890;31233657;32706435	5EZM
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_02620	COG1227	C	Inorganic pyrophosphatase/exopolyphosphatase	PPX1			1I74
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_02635	COG1388	M	LysM repeat	LysM			1E0G
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_02665	COG3108	S	Uncharacterized conserved protein YcbK, DUF882 family	YcbK			
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_02670	COG0582	LX	Integrase/recombinase, includes phage integrase	FimB			
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_02685	COG1355	R	Predicted class III extradiol dioxygenase, MEMO1 family	Mho1			3BCZ
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_02690	COG1437	TR	Adenylate cyclase class IV, CYTH domain (includes archaeal enzymes of unknown function)	CyaB			1YEM
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_02695	COG1096	U	Exosome complex RNA-binding protein Csl4, contains S1 and Zn-ribbon domains	Csl4			2BA1
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_02760	COG0111	H	Phosphoglycerate dehydrogenase or related dehydrogenase	SerA	Serine biosynthesis		3OET
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_02775	COG0630	NU	Type IV secretory pathway ATPase VirB11/Archaellum biosynthesis ATPase ArlI/FlaI	VirB11		32416640	1G6O
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_02780	COG1459	NUW	Type II secretory pathway, component PulF	PulF			2VMA
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_02785	COG4221	C	NADP-dependent 3-hydroxy acid dehydrogenase YdfG	YdfG	Pyrimidine degradation		3P19
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_02795	COG1902	C	2,4-dienoyl-CoA reductase or related NADH-dependent reductase, Old Yellow Enzyme (OYE) family	FadH			1BWK
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_02810	COG0285	H	Folylpolyglutamate synthase/Dihydropteroate synthase	FolC	Folate biosynthesis		1W78
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_02825	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_02835	COG0702	R	Uncharacterized conserved protein YbjT, contains NAD(P)-binding and DUF2867 domains	YbjT			5L3Z
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_02850	COG4097	P	Predicted ferric reductase				
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_02870	COG1388	M	LysM repeat	LysM			1E0G
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_02885	COG2131	F	Deoxycytidylate deaminase	ComEB		25746996;31954084	2HVV
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_02890	COG1387	ER	Histidinol phosphatase or related hydrolase of the PHP family	HIS2	Histidine biosynthesis		1M65
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_02895	COG1704	M	Magnetosome formation protein MamQ, lipoprotein antigen LemA family	LemA		14638756;20212111;26884433	2ETD
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_02900	COG4783	MO	Outer membrane protein chaperone/metalloprotease BepA/YfgC, contains M48 and TPR domains	BepA		24003122	6AIT
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_02905	COG0721	J	Asp-tRNAAsn/Glu-tRNAGln amidotransferase C subunit	GatC	Aminoacyl-tRNA synthetases		3H0L
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_02910	COG0154	J	Asp-tRNAAsn/Glu-tRNAGln amidotransferase A subunit or related amidase	GatA	Aminoacyl-tRNA synthetases		3H0L
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_02915	COG2511	J	Archaeal Glu-tRNAGln amidotransferase subunit E, contains GAD domain	GatE			2D6F
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_02920	COG0613	F	5'-3' exoribonuclease TrpH/YciV (RNase AM), contains PHP domain	YciV		25871919	3E0F
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_02925	COG0335	J	Ribosomal protein L19	RplS	Ribosome 50S subunit	27941785	1VS6
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_02940	COG0124	J	Histidyl-tRNA synthetase	HisS	Aminoacyl-tRNA synthetases		1KMM
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_02955	COG2148	M	Sugar transferase involved in LPS biosynthesis (colanic, teichoic acid)	WcaJ			5W7L
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_02960	COG0297	G	Glycogen synthase	GlgA			1RZU
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_02975	COG0764	I	3-hydroxymyristoyl/3-hydroxydecanoyl-(acyl carrier protein) dehydratase	FabA	Fatty acid biosynthesis		1MKA
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_02985	COG0297	G	Glycogen synthase	GlgA			1RZU
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_02990	COG1215	N	Glycosyltransferase, catalytic subunit of cellulose synthase and poly-beta-1,6-N-acetylglucosamine synthase	BcsA			4HG6
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_03000	COG1807	M	PMT family glycosyltransferase ArnT/Agl22, involved in glycosylation of proteins and lipid IVA	ArnT		16226890;31233657;32706435	5EZM
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_03010	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_03020	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_03030	COG2227	H	2-polyprenyl-3-methyl-5-hydroxy-6-metoxy-1,4-benzoquinol methylase	UbiG	Ubiquinone biosynthesis		1BHJ
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_03035	COG2227	H	2-polyprenyl-3-methyl-5-hydroxy-6-metoxy-1,4-benzoquinol methylase	UbiG	Ubiquinone biosynthesis		1BHJ
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_03040	COG2227	H	2-polyprenyl-3-methyl-5-hydroxy-6-metoxy-1,4-benzoquinol methylase	UbiG	Ubiquinone biosynthesis		1BHJ
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_03055	COG2244	M	Membrane protein involved in the export of O-antigen and teichoic acid	RfbX			
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_03060	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_03065	COG0449	M	Glucosamine 6-phosphate synthetase, contains amidotransferase and phosphosugar isomerase domains	GlmS			2J6H
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_03070	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_03075	COG0297	G	Glycogen synthase	GlgA			1RZU
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_03080	COG1807	M	PMT family glycosyltransferase ArnT/Agl22, involved in glycosylation of proteins and lipid IVA	ArnT		16226890;31233657;32706435	5EZM
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_03085	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_03090	COG1807	M	PMT family glycosyltransferase ArnT/Agl22, involved in glycosylation of proteins and lipid IVA	ArnT		16226890;31233657;32706435	5EZM
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_03105	COG0533	J	tRNA A37 threonylcarbamoyltransferase TsaD	TsaD	tRNA modification	23072323;21285948;32385138	3ENO
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_03155	COG2452	X	Predicted site-specific integrase-resolvase				3ILX
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_03165	COG0189	EHJQ	Glutathione synthase, LysX or RimK-type ligase, ATP-grasp superfamily	LysX	Lysine biosynthesis		1GLV
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_03170	COG0189	EHJQ	Glutathione synthase, LysX or RimK-type ligase, ATP-grasp superfamily	LysX	Lysine biosynthesis		1GLV
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_03175	COG2226	H	Ubiquinone/menaquinone biosynthesis C-methylase UbiE/MenG	UbiE	Biotin biosynthesis		4OBW
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_03180	COG0222	J	Ribosomal protein L7/L12	RplL	Ribosome 50S subunit		1CTF
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_03185	COG0579	G	L-2-hydroxyglutarate oxidase LhgO	LhgO			3DME
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_03195	COG0080	J	Ribosomal protein L11	RplK	Ribosome 50S subunit		2E34
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_03210	COG0690	U	Preprotein translocase subunit SecE	SecE		29684280	5MG3
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_03215	COG4750	MI	CTP:phosphocholine cytidylyltransferase LicC	LicC			1JYK
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_03275	COG1994	O	Zn-dependent protease (includes sporulation protein SpoIVFB)	SpoIVFB			3B4R
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_03285	COG0299	F	Folate-dependent phosphoribosylglycinamide formyltransferase PurN	PurN	Purine biosynthesis	25013077	1C2T
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_03300	COG0242	J	Peptide deformylase	Def			1BS4
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_03305	COG0457	R	Tetratricopeptide (TPR) repeat	TPR			3AS4
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_03310	COG0849	D	Cell division ATPase FtsA	FtsA			3WT0
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_03325	COG1792	DZ	Cell shape-determining protein MreC	MreC			2J5U
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_03335	COG0744	M	Penicillin-binding protein 1B/1F, peptidoglycan  transglycosylase/transpeptidase	MrcB			3FWL
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_03345	COG0758	L	Predicted Rossmann fold nucleotide-binding protein DprA/Smf involved in DNA uptake	Smf			3MAJ
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_03355	COG0551	L	DNA topoisomerase I, ssDNA-binding Zn-finger and Zn-ribbon domains	YrdD			1YUA
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_03360	COG0717	F	dCTP deaminase	Dcd	Thymidylate biosynthesis		1XS1
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_03365	COG0717	F	dCTP deaminase	Dcd	Thymidylate biosynthesis		1XS1
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_03370	COG0125	F	Thymidylate kinase	Tmk	Thymidylate biosynthesis		3LV8
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_03380	COG0112	E	Glycine/serine hydroxymethyltransferase	GlyA	Serine biosynthesis		1BJ4
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_03385	COG0169	E	Shikimate 5-dehydrogenase	AroE	Aromatic amino acid biosynthesis		1NPD
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_03395	COG0788	F	Formyltetrahydrofolate hydrolase	PurU	Purine biosynthesis		3O1L
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_03400	COG0382	H	4-hydroxybenzoate polyprenyltransferase	UbiA	Ubiquinone biosynthesis	28830929	4OD4
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_03405	COG3103	R	Uncharacterized conserved protein YgiM, contains N-terminal SH3 domain, DUF1202 family	YgiM			2KQ8
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_03420	COG4942	D	Septal ring factor EnvC, activator of murein hydrolases AmiA and AmiB	EnvC			
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_03435	COG0459	O	Chaperonin GroEL (HSP60 family)	GroEL			1AON
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_03475	COG0560	E	Phosphoserine phosphatase	SerB	Serine biosynthesis		3N28
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_03480	COG0166	G	Glucose-6-phosphate isomerase	Pgi	Glycolysis		1B0Z
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_03500	COG3605	T	Signal transduction protein containing GAF and PtsI domains	PtsP			
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_03510	COG0769	M	UDP-N-acetylmuramyl tripeptide synthase	MurE	Mureine biosynthesis		1E8C
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_03520	COG0769	M	UDP-N-acetylmuramyl tripeptide synthase	MurE	Mureine biosynthesis		1E8C
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_03525	COG0458	EF	Carbamoylphosphate synthase large subunit	CarB	Arginine biosynthesis		1C30
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_03530	COG0769	M	UDP-N-acetylmuramyl tripeptide synthase	MurE	Mureine biosynthesis		1E8C
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_03550	COG3698	S	Uncharacterized conserved protein YigE, DUF2233 family	YigE			
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_03555	COG0450	V	Alkyl hydroperoxide reductase subunit AhpC (peroxiredoxin)	AhpC			2RII
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_03565	COG0172	J	Seryl-tRNA synthetase	SerS	Aminoacyl-tRNA synthetases		1SER
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_03580	COG0292	J	Ribosomal protein L20	RplT	Ribosome 50S subunit	30270044	1VS6
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_03585	COG0016	J	Phenylalanyl-tRNA synthetase alpha subunit	PheS	Aminoacyl-tRNA synthetases		3L4G
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_03590	COG3382	R	B3/B4 domain (DNA/RNA-binding domain of Phe-tRNA-synthetase)	B3/B4			
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_03595	COG0744	M	Penicillin-binding protein 1B/1F, peptidoglycan  transglycosylase/transpeptidase	MrcB			3FWL
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_03600	COG1189	J	Predicted rRNA methylase YqxC, contains S4 and FtsJ domains	YqxC			3OPN
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_03610	COG1197	LK	Transcription-repair coupling factor (superfamily II helicase)	Mfd			2EYQ
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_03625	COG1287	O	Asparagine N-glycosylation enzyme, membrane subunit Stt3	Stt3			2LGZ
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_03635	COG3318	S	Uncharacterized conserved protein YecA, UPF0149 family, contains C-terminal Zn-binding SEC-C motif	YecA			
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_03640	COG0421	E	Spermidine synthase (polyamine aminopropyltransferase)	SpeE			6BQ2
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_03645	COG1686	M	D-alanyl-D-alanine carboxypeptidase	DacC			1HD8
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_03650	COG0172	J	Seryl-tRNA synthetase	SerS	Aminoacyl-tRNA synthetases		1SER
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_03655	COG1713	TR	Diadenosine tetraphosphatase YqeK or a related HD superfamily phosphohydrolase	YqeK		32152217	2OGI
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_03660	COG1190	J	Lysyl-tRNA synthetase (class II)	LysU	Aminoacyl-tRNA synthetases		1BBU
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_03675	COG0724	J	RNA recognition motif (RRM) domain	RRM			1HL6
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_03680	COG1750	R	Predicted archaeal serine protease, S18 family				
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_03685	COG1376	M	Lipoprotein-anchoring transpeptidase ErfK/SrfK	ErfK			4LZH
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_03690	COG1968	I	Undecaprenyl pyrophosphate phosphatase	UppP			5OON
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_03695	COG3764	M	Sortase (surface protein transpeptidase)	SrtA			1IJA
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_03725	COG3276	J	Selenocysteine-specific translation elongation factor SelB	SelB	Translation factors		4ZU9
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_03730	COG4123	J	tRNA1(Val) A37 N6-methylase TrmN6	TrmN6	tRNA modification		
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_03735	COG0510	H	Thiamine kinase or a related kinase	CotS			3DXQ
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_03740	COG0566	J	tRNA G18 (ribose-2'-O)-methylase SpoU	SpoU	tRNA modification		1GZ0
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_03770	COG0008	J	Glutamyl- or glutaminyl-tRNA synthetase	GlnS	Heme biosynthesis		1EUQ
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_03800	COG1186	J	Protein chain release factor PrfB	PrfB	Translation factors		1GQE
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_03810	COG4152	R	ABC-type uncharacterized transport system, ATPase component	YhaQ			
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_03815	COG4591	M	ABC-type transport system involved in lipoprotein release, permease component LolC	LolE			6F49
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_03820	COG3883	S	Uncharacterized N-terminal coiled-coil domain of peptidoglycan hydrolase CwlO	CwlO1			4CGK
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_03830	COG0488	R	ATPase components of ABC transporters with duplicated ATPase domains	Uup			5ZXD
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_03835	COG0533	J	tRNA A37 threonylcarbamoyltransferase TsaD	TsaD	tRNA modification	23072323;21285948;32385138	3ENO
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_03840	COG1086	MO	NDP-sugar epimerase, includes UDP-GlcNAc-inverting 4,6-dehydratase FlaA1 and capsular polysaccharide biosynthesis protein EpsC	FlaA1			2GN4
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_03855	COG0448	G	Glucose-1-phosphate adenylyltransferase (ADP-glucose pyrophosphorylase)	GlgC		27545622	5MNI
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_03865	COG0336	J	tRNA G37 N-methylase TrmD	TrmD	tRNA modification		1P9P
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_03870	COG1091	M	dTDP-4-dehydrorhamnose reductase	RfbD			1KBZ
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_03875	COG1089	M	GDP-D-mannose dehydratase	Gmd			1DB3
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_03880	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_03885	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_03890	COG5542	G	Mannosyltransferase related to Gpi18				
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_03895	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_03900	COG1807	M	PMT family glycosyltransferase ArnT/Agl22, involved in glycosylation of proteins and lipid IVA	ArnT		16226890;31233657;32706435	5EZM
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_03920	COG0740	O	ATP-dependent protease ClpP, protease subunit	ClpP			1TG6
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_03925	COG0208	F	Ribonucleotide reductase beta subunit, ferritin-like domain	NrdB	Pyrimidine salvage		1AV8
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_03930	COG0209	F	Ribonucleotide reductase alpha subunit	NrdA	Pyrimidine salvage		1R1R
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_03940	COG2176	L	DNA polymerase III, alpha subunit (gram-positive type)	PolC			
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_03945	COG2176	L	DNA polymerase III, alpha subunit (gram-positive type)	PolC			
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_03975	COG3266	D	Cell division protein DamX, binds to the septal ring, contains C-terminal SPOR domain	DamX			
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_03980	COG0592	L	DNA polymerase III sliding clamp (beta) subunit, PCNA homolog	DnaN			1JQJ
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_03985	COG1484	L	DNA replication protein DnaC	DnaC			2QGZ
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_04050	COG0707	M	UDP-N-acetylglucosamine:LPS N-acetylglucosamine transferase	MurG	Mureine biosynthesis		1F0K
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_04075	COG0341	U	Preprotein translocase subunit SecF	SecF		28830929	2FYH
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_04080	COG0342	U	Preprotein translocase subunit SecD	SecD		26100040	3AQP
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_04090	COG3545	R	Predicted esterase of the alpha/beta hydrolase fold	YdeN		15159570	1UXO
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_04095	COG0617	J	tRNA nucleotidyltransferase/poly(A) polymerase	PcnB	tRNA modification		3WFR
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_04100	COG4043	R	ASC-1 homology (ASCH) domain, predicted RNA-binding domain	ASCH			1S04
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_04105	COG0618	FT	nanoRNase/pAp phosphatase, hydrolyzes c-di-AMP and oligoRNAs	NrnA			5O4Z
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_04120	COG2027	M	D-alanyl-D-alanine carboxypeptidase	DacB			1W5D
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_04130	COG4098	L	Superfamily II DNA/RNA helicase required for DNA uptake (late competence protein)	ComFA			
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_04135	COG1605	E	Chorismate mutase	PheA	Aromatic amino acid biosynthesis		1ECM
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_04145	COG0448	G	Glucose-1-phosphate adenylyltransferase (ADP-glucose pyrophosphorylase)	GlgC		27545622	5MNI
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_04150	COG0781	K	Transcription antitermination protein NusB	NusB		21652641	1EY1
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_04155	COG0236	I	Acyl carrier protein	AcpP	Fatty acid biosynthesis		1ACP
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_04160	COG0571	K	dsRNA-specific ribonuclease	Rnc			1DI2
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_04190	COG0849	D	Cell division ATPase FtsA	FtsA			3WT0
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_04210	COG4970	NW	Type IV pilus assembly protein FimT	FimT		17322192;28771515	
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_04215	COG2165	NUW	Type II secretory pathway, pseudopilin PulG	PulG			1AY2
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_04225	COG2165	NUW	Type II secretory pathway, pseudopilin PulG	PulG			1AY2
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_04230	COG1989	NU	Prepilin signal peptidase PulO (type II secretory pathway) or related peptidase	PulO			
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_04245	COG2165	NUW	Type II secretory pathway, pseudopilin PulG	PulG			1AY2
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_04250	COG1459	NUW	Type II secretory pathway, component PulF	PulF			2VMA
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_04255	COG0630	NU	Type IV secretory pathway ATPase VirB11/Archaellum biosynthesis ATPase ArlI/FlaI	VirB11		32416640	1G6O
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_04260	COG0630	NU	Type IV secretory pathway ATPase VirB11/Archaellum biosynthesis ATPase ArlI/FlaI	VirB11		32416640	1G6O
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_04265	COG2812	L	DNA polymerase III, gamma/tau subunits	DnaX			1A5T
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_04270	COG3760	R	Predicted aminoacyl-tRNA deacylase, YbaK-like aminoacyl-tRNA editing domain	ProX			5VXB
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_04275	COG4496	R	Predicted DNA-binding transcriptional regulator YerC, contains ArsR-like HTH domain	YerC			3KOR
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_04295	COG0309	O	Carbamoyl dehydratase HypE (hydrogenase maturation factor)	HypE		28618091	2I6R
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_04325	COG0197	J	Ribosomal protein L16/L10AE	RplP	Ribosome 50S subunit		1WKI
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_04330	COG0092	J	Ribosomal protein S3	RpsC	Ribosome 30S subunit		1VS6
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_04340	COG0185	J	Ribosomal protein S19	RpsS	Ribosome 30S subunit		4V4H
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_04345	COG0090	J	Ribosomal protein L2	RplB	Ribosome 50S subunit		1VS6
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_04350	COG0089	J	Ribosomal protein L23	RplW	Ribosome 50S subunit		1VS6
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_04355	COG0088	J	Ribosomal protein L4	RplD	Ribosome 50S subunit		1VS6
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_04360	COG0087	J	Ribosomal protein L3	RplC	Ribosome 50S subunit		1VS6
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_04370	COG0051	J	Ribosomal protein S10	RpsJ	Ribosome 30S subunit		4V4H
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_04375	COG0480	J	Translation elongation factor EF-G, a GTPase	FusA	Translation factors		1DAR
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_04380	COG0480	J	Translation elongation factor EF-G, a GTPase	FusA	Translation factors		1DAR
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_04400	COG0049	J	Ribosomal protein S7	RpsG	Ribosome 30S subunit		4V4H
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_04410	COG0086	K	DNA-directed RNA polymerase, beta' subunit/160 kD subunit	RpoC	RNA polymerase		1NT9
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_04455	COG0019	E	Diaminopimelate decarboxylase	LysA	Lysine biosynthesis		1D7K
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_04470	COG3409	M	Peptidoglycan-binding (PGRP) domain of peptidoglycan hydrolases	PGRP			4FET
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_04490	COG1272	U	Predicted membrane channel-forming protein YqfA, hemolysin III family	YqfA			3WXV
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_04495	COG0443	O	Molecular chaperone DnaK (HSP70)	DnaK			3I33
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_04505	COG1475	D	Chromosome segregation protein Spo0J, contains ParB-like nuclease domain	Spo0J			1R71
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_04510	COG0863	L	DNA modification methylase	YhdJ			1BOO
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_04530	COG3108	S	Uncharacterized conserved protein YcbK, DUF882 family	YcbK			
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_04535	COG1047	O	Peptidyl-prolyl cis-trans isomerase, FKBP type	SlpA			2M2A
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_04540	COG0594	J	RNase P protein component	RnpA			1A6F
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_04565	COG2244	M	Membrane protein involved in the export of O-antigen and teichoic acid	RfbX			
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_04570	COG0328	L	Ribonuclease HI	RnhA			1LAW
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_04575	COG1088	M	dTDP-D-glucose 4,6-dehydratase	RfbB			1G1A
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_04580	COG1825	J	Ribosomal protein L25 (general stress protein Ctc)	RplY	Ribosome 50S subunit		1B75
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_04585	COG0525	J	Valyl-tRNA synthetase	ValS	Aminoacyl-tRNA synthetases		1GAX
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_04590	COG0533	J	tRNA A37 threonylcarbamoyltransferase TsaD	TsaD	tRNA modification	23072323;21285948;32385138	3ENO
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_04600	COG2182	G	Maltose-binding periplasmic protein MalE	MalE			1T0K
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_04625	COG1807	M	PMT family glycosyltransferase ArnT/Agl22, involved in glycosylation of proteins and lipid IVA	ArnT		16226890;31233657;32706435	5EZM
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_04630	COG1807	M	PMT family glycosyltransferase ArnT/Agl22, involved in glycosylation of proteins and lipid IVA	ArnT		16226890;31233657;32706435	5EZM
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_04635	COG4745	R	Predicted membrane-bound mannosyltransferase, involved in protein glycosylation	PMT		32706435	
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_04640	COG1807	M	PMT family glycosyltransferase ArnT/Agl22, involved in glycosylation of proteins and lipid IVA	ArnT		16226890;31233657;32706435	5EZM
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_04645	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_04650	COG0297	G	Glycogen synthase	GlgA			1RZU
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_04655	COG5542	G	Mannosyltransferase related to Gpi18				
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_04660	COG2244	M	Membrane protein involved in the export of O-antigen and teichoic acid	RfbX			
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_04665	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_04675	COG0297	G	Glycogen synthase	GlgA			1RZU
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_04685	COG0143	J	Methionyl-tRNA synthetase	MetG	Aminoacyl-tRNA synthetases		1A8H
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_04695	COG0658	U	DNA uptake channel protein ComEC, N-terminal domain	ComEC			
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_04700	COG0595	J	mRNA degradation ribonuclease J1/J2	RnjA			3T3N
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_04710	COG1026	O	Zn-dependent peptidase, M16 (insulinase) family	Cym1			2FGE
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_04735	COG0443	O	Molecular chaperone DnaK (HSP70)	DnaK			3I33
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_04740	COG0297	G	Glycogen synthase	GlgA			1RZU
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_04755	COG0202	K	DNA-directed RNA polymerase, alpha subunit/40 kD subunit	RpoA	RNA polymerase		4KN7
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_04770	COG3327	K	DNA-binding transcriptional regulator PaaX (phenylacetic acid degradation)	PaaX			
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_04780	COG5010	UW	Flp pilus assembly protein TadD, contains TPR repeats	TadD			3WXX
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_04785	COG0524	G	Sugar or nucleoside kinase, ribokinase family	RbsK	Glycolysis		2QCV
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_04795	COG0022	C	Pyruvate/2-oxoglutarate/acetoin dehydrogenase complex, dehydrogenase (E1) component, beta subunit	AcoB	Pyruvate oxidation		2OZL
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_04805	COG2609	C	Pyruvate dehydrogenase complex, dehydrogenase (E1) component	AceE	Pyruvate oxidation		1L8A
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_04815	COG0269	G	3-keto-L-gulonate-6-phosphate decarboxylase	UlaD			3F4W
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_04820	COG0057	G	Glyceraldehyde-3-phosphate dehydrogenase/erythrose-4-phosphate dehydrogenase	GapA	Glycolysis		3ZDF
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_04835	COG0698	G	Ribose 5-phosphate isomerase RpiB	RpiB	Pentose phosphate pathway		1NN4
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_04850	COG4454	R	Uncharacterized copper-binding protein, cupredoxin-like subfamily				
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_04870	COG3427	C	Carbon monoxide dehydrogenase subunit CoxG	CoxG			2NS9
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_04875	COG4232	O	Thiol:disulfide interchange protein DsbD	DsbD			1JPE
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_04885	COG4925	S	Uncharacterized conserved protein				
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_04890	COG0428	P	Zinc transporter ZupT	ZupT			5TSA
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_04915	COG2103	M	N-acetylmuramic acid 6-phosphate (MurNAc-6-P) etherase	MurQ		10095793	4S12
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_04925	COG1205	L	ATP-dependent helicase YprA,  contains C-terminal metal-binding DUF1998 domain	YprA			
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_04935	COG0330	O	Regulator of protease activity HflC, stomatin/prohibitin superfamily	HflC			
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_04940	COG2940	R	SET domain-containing protein (function unknown)	SET			6BX3
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_04955	COG0457	R	Tetratricopeptide (TPR) repeat	TPR			3AS4
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_04960	COG1807	M	PMT family glycosyltransferase ArnT/Agl22, involved in glycosylation of proteins and lipid IVA	ArnT		16226890;31233657;32706435	5EZM
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_04965	COG0607	P	Rhodanese-related sulfurtransferase	PspE	Urea cycle		1TQ1
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_04975	COG4232	O	Thiol:disulfide interchange protein DsbD	DsbD			1JPE
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_04990	COG1715	V	Restriction endonuclease Mrr	Mrr			
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_05005	COG0568	K	DNA-directed RNA polymerase, sigma subunit (sigma70/sigma32)	RpoD	RNA polymerase		1SIG
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_05010	COG0358	L	DNA primase (bacterial type)	DnaG		28128549	3B39
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_05055	COG0856	F	Orotate phosphoribosyltransferase homolog	PyrE2			
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_05060	COG0691	O	tmRNA-binding protein	SmpB		26251518	1J1H
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_05085	COG2385	M	Peptidoglycan hydrolase (amidase) enhancer domain SpoIID	SpoIID			
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_05105	COG0020	I	Undecaprenyl pyrophosphate synthase	UppS			1X07
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_05190	COG1783	X	Phage terminase large subunit	XtmB			4IDH
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_05265	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_05275	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_05285	COG4122	J	tRNA 5-hydroxyU34 O-methylase TrmR/YrrM	TrmR	tRNA modification	29982645	1H1D
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_05300	COG1091	M	dTDP-4-dehydrorhamnose reductase	RfbD			1KBZ
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_05315	COG0677	M	UDP-N-acetyl-D-mannosaminuronate dehydrogenase	WecC			3OJL
+Woesebacteria_bacterium_ARS1183	GCA_002686465.1	JNKGEC_05320	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
