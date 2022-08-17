@@ -1,0 +1,1107 @@
+#prefix	assemid	query	COG	category	name	Gene	pathway	pmid	pdb_id
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_00010	COG1159	J	GTPase Era, involved in 16S rRNA processing	Era			1EGA
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_00015	COG2010	C	Cytochrome c, mono- and diheme variants	CccA			1A2S
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_00025	COG5001	T	Cyclic di-GMP metabolism protein, combines GGDEF and EAL domains with a 6TM membrane domain				
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_00035	COG1064	G	D-arabinose 1-dehydrogenase, Zn-dependent alcohol dehydrogenase family	AdhP			5O8Q
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_00040	COG3288	C	NAD/NADP transhydrogenase alpha subunit	PntA			1F8G
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_00055	COG0404	E	Glycine cleavage system protein T (aminomethyltransferase)	GcvT	Glycine cleavage	25433025;25505271	2GAH
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_00060	COG1003	E	Glycine cleavage system protein P (pyridoxal-binding), C-terminal domain	GcvP2	Glycine cleavage		4LGL
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_00070	COG2010	C	Cytochrome c, mono- and diheme variants	CccA			1A2S
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_00075	COG0210	L	Superfamily I DNA or RNA helicase	UvrD			6PPR
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_00080	COG0784	T	CheY-like REC (receiver) domain, includes chemotaxis protein CheY  and sporulation regulator Spo0F	CheY			6QRJ
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_00100	COG0004	P	Ammonia channel protein AmtB	AmtB			1U77
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_00115	COG1011	H	FMN and 5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YigB, HAD superfamily (riboflavin biosynthesis)	YigB		24123841	4JB3
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_00120	COG0582	LX	Integrase/recombinase, includes phage integrase	FimB			
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_00130	COG0253	E	Diaminopimelate epimerase	DapF	Lysine biosynthesis		1BWZ
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_00135	COG0019	E	Diaminopimelate decarboxylase	LysA	Lysine biosynthesis		1D7K
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_00145	COG0165	E	Argininosuccinate lyase	ArgH	Arginine biosynthesis		1AOS
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_00150	COG0181	H	Porphobilinogen deaminase	HemC	Heme biosynthesis		1AH5
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_00155	COG1587	H	Uroporphyrinogen-III synthase	HemD	Heme biosynthesis		1JR2
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_00180	COG2141	HR	Flavin-dependent oxidoreductase, luciferase family (includes alkanesulfonate monooxygenase SsuD and methylene tetrahydromethanopterin reductase)	SsuD	Pyrimidine degradation		1BRL
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_00185	COG1600	J	Epoxyqueuosine reductase QueG (queuosine biosynthesis)	QueG	tRNA modification	2150253	5D08
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_00190	COG0802	J	tRNA A37 threonylcarbamoyladenosine biosynthesis protein TsaE	TsaE	tRNA modification		1FL9
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_00195	COG1388	M	LysM repeat	LysM			1E0G
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_00200	COG0323	L	DNA mismatch repair ATPase MutL	MutL			1B62
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_00205	COG0324	J	tRNA A37 N6-isopentenylltransferase MiaA	MiaA	tRNA modification		2ZM5
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_00220	COG1160	J	Double Era-like domain GTPase Der	Der			1MKY
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_00240	COG3705	E	ATP phosphoribosyltransferase regulatory subunit HisZ	HisZ		9767141	3OD1
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_00245	COG0104	F	Adenylosuccinate synthase	PurA	Purine biosynthesis		1ADE
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_00265	COG0622	R	Predicted phosphodiesterase, calcineurin family	YfcE		17586769	1SU1
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_00270	COG1012	I	Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase	AdhE	Proline degradation		1A4S
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_00280	COG1028	I	NAD(P)-dependent dehydrogenase, short-chain alcohol dehydrogenase family	FabG	Fatty acid biosynthesis		6L1H
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_00285	COG3545	R	Predicted esterase of the alpha/beta hydrolase fold	YdeN		15159570	1UXO
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_00295	COG4922	R	Predicted SnoaL-like aldol condensation-catalyzing enzyme			15071504	
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_00300	COG5285	Q	Ectoine hydroxylase-related dioxygenase, phytanoyl-CoA dioxygenase (PhyH) family	PhyH			2A1X
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_00305	COG1087	M	UDP-glucose 4-epimerase	GalE			1A9Y
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_00310	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_00320	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_00325	COG1232	H	Protoporphyrinogen oxidase HemY/PPOX	HemY	Heme biosynthesis		3LOV
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_00330	COG3178	R	Predicted phosphotransferase, aminoglycoside/choline kinase (APH/ChoK) family				
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_00350	COG0044	F	Dihydroorotase or related cyclic amidohydrolase	AllB	Pyrimidine biosynthesis		1J79
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_00360	COG0044	F	Dihydroorotase or related cyclic amidohydrolase	AllB	Pyrimidine biosynthesis		1J79
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_00370	COG0568	K	DNA-directed RNA polymerase, sigma subunit (sigma70/sigma32)	RpoD	RNA polymerase		1SIG
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_00375	COG0358	L	DNA primase (bacterial type)	DnaG		28128549	3B39
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_00385	COG0828	J	Ribosomal protein S21	RpsU	Ribosome 30S subunit		4V4H
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_00390	COG3133	M	Outer membrane lipoprotein SlyB	SlyB			
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_00395	COG0533	J	tRNA A37 threonylcarbamoyltransferase TsaD	TsaD	tRNA modification	23072323;21285948;32385138	3ENO
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_00400	COG1539	H	Dihydroneopterin aldolase	FolB	Folate biosynthesis		1B9L
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_00405	COG0617	J	tRNA nucleotidyltransferase/poly(A) polymerase	PcnB	tRNA modification		3WFR
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_00410	COG0639	T	Diadenosine tetraphosphatase ApaH/serine/threonine protein phosphatase, PP2A family	ApaH			1AUI
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_00420	COG0030	J	16S rRNA A1518 and A1519 N6-dimethyltransferase RsmA/KsgA/DIM1 (may also have DNA glycosylase/AP lyase activity)	RsmA	16S rRNA modification		1QYR
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_00425	COG1995	H	4-hydroxy-L-threonine phosphate dehydrogenase PdxA	PdxA	Pyridoxal phosphate biosynthesis		1PS6
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_00430	COG0760	O	Peptidyl-prolyl isomerase, parvulin family	SurA			2ZR5
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_00440	COG3173	R	Predicted  kinase, aminoglycoside phosphotransferase (APT) family	YcbJ			
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_00445	COG1213	I	Choline kinase				4MND
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_00455	COG0269	G	3-keto-L-gulonate-6-phosphate decarboxylase	UlaD			3F4W
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_00460	COG0147	EH	Anthranilate/para-aminobenzoate synthases component I	TrpE	Aromatic amino acid biosynthesis		1I1Q
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_00465	COG0505	EF	Carbamoylphosphate synthase small subunit	CarA	Arginine biosynthesis		1C30
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_00470	COG0213	F	Thymidine phosphorylase	DeoA	Pyrimidine salvage		1AZY
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_00475	COG0134	E	Indole-3-glycerol phosphate synthase	TrpC	Aromatic amino acid biosynthesis		6BMA
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_00480	COG2512	R	Predicted transcriptional regulator, contains CW (cell wall-binding) repeats and an HTH domain				
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_00490	COG0346	Q	Catechol 2,3-dioxygenase or related enzyme, vicinal oxygen chelate (VOC) family	GloA		11830595	3R4Q
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_00500	COG0742	J	16S rRNA G966 N2-methylase RsmD	RsmD	16S rRNA modification		2IFT
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_00505	COG0560	E	Phosphoserine phosphatase	SerB	Serine biosynthesis		3N28
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_00510	COG0494	V	8-oxo-dGTP pyrophosphatase MutT and related house-cleaning NTP pyrophosphohydrolases, NUDIX family	MutT			4V14
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_00515	COG3605	T	Signal transduction protein containing GAF and PtsI domains	PtsP			
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_00520	COG0730	P	Sulfite exporter TauE/SafE/YfcA and related permeases, UPF0721 family	TauE		21183667;22797525	
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_00525	COG0682	M	Prolipoprotein diacylglyceryltransferase	Lgt			5AZB
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_00530	COG0207	F	Thymidylate synthase	ThyA	Thymidylate biosynthesis		1AN5
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_00535	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_00540	COG1291	N	Flagellar motor component MotA	MotA			
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_00550	COG0848	U	Biopolymer transport protein ExbD	ExbD			2JWK
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_00560	COG3071	S	Uncharacterized protein HemY, contains HemY_N domain and TPR repeats (unrelated to protoporphyrinogen oxidase HemY)	HemYx			
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_00565	COG0129	EG	Dihydroxyacid dehydratase/phosphogluconate dehydratase	IlvD	Isoleucine, leucine, valine biosynthesis		2GP4
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_00570	COG3470	MI	Uncharacterized conserved protein probably involved in high-affinity Fe2+ transport	Tpd		18456808	2O6C
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_00580	COG4638	PR	Phenylpropionate dioxygenase or related ring-hydroxylating dioxygenase, large terminal subunit	HcaE			4QDC
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_00585	COG2010	C	Cytochrome c, mono- and diheme variants	CccA			1A2S
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_00610	COG1022	I	Long-chain acyl-CoA synthetase (AMP-forming)	FAA1			
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_00615	COG1087	M	UDP-glucose 4-epimerase	GalE			1A9Y
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_00625	COG4424	M	LPS sulfotransferase NodH	LpsS			1TEX
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_00635	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_00640	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_00650	COG1858	O	Cytochrome c peroxidase	MauG			1EB7
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_00675	COG0730	P	Sulfite exporter TauE/SafE/YfcA and related permeases, UPF0721 family	TauE		21183667;22797525	
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_00680	COG1513	P	Cyanate lyase	CynS			1DW9
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_00685	COG1773	P	Flavorubredoxin	NorV			4D02
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_00690	COG1960	I	Acyl-CoA dehydrogenase related to the alkylation response protein AidB	CaiA	Fatty acid biosynthesis		1BUC
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_00700	COG2203	T	GAF domain	GAF			
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_00705	COG4986	P	ABC-type anion transport system, duplicated permease component				
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_00715	COG4618	U	ABC-type protease/lipase transport system, ATPase and permease components	ArpD			5L22
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_00720	COG0365	I	Acyl-coenzyme A synthetase/AMP-(fatty) acid ligase	Acs		14638756	4B2O
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_00725	COG0613	F	5'-3' exoribonuclease TrpH/YciV (RNase AM), contains PHP domain	YciV		25871919	3E0F
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_00730	COG0365	I	Acyl-coenzyme A synthetase/AMP-(fatty) acid ligase	Acs		14638756	4B2O
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_00735	COG1012	I	Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase	AdhE	Proline degradation		1A4S
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_00740	COG0491	R	Glyoxylase or a related metal-dependent hydrolase, beta-lactamase superfamily II	GloB		25670698	1QH3
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_00745	COG1541	H	Phenylacetate-coenzyme A ligase PaaK, adenylate-forming domain family	PaaK			2Y4O
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_00750	COG0659	P	Sulfate permease or related transporter, MFS superfamily	SUL1			3NY7
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_00755	COG0154	J	Asp-tRNAAsn/Glu-tRNAGln amidotransferase A subunit or related amidase	GatA	Aminoacyl-tRNA synthetases		3H0L
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_00765	COG1309	K	DNA-binding protein, AcrR family, includes nucleoid occlusion protein SlmA	AcrR			2QOP
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_00770	COG1228	Q	Imidazolonepropionase or related amidohydrolase	HutI			3OOQ
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_00780	COG0730	P	Sulfite exporter TauE/SafE/YfcA and related permeases, UPF0721 family	TauE		21183667;22797525	
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_00785	COG1104	E	Cysteine desulfurase/Cysteine sulfinate desulfinase IscS or related enzyme, NifS family	NifS		22773787;25825430	4IXO
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_00790	COG1473	R	Metal-dependent amidase/aminoacylase/carboxypeptidase	AbgB	Lysine biosynthesis	17307853	3RAM
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_00800	COG1228	Q	Imidazolonepropionase or related amidohydrolase	HutI			3OOQ
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_00815	COG3195	F	2-oxo-4-hydroxy-4-carboxy--5-ureidoimidazoline (OHCU) decarboxylase (uric acid degradation)	PucL			2O70
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_00825	COG1529	C	Aldehyde, CO or xanthine dehydrogenase, Mo-binding subunit	CoxL	Non-phosphorylated Entner-Doudoroff pathway	10095793	1DGJ
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_00830	COG1319	C	Aldehyde, CO, or xanthine dehydrogenase, FAD-binding subunit	CutB	Non-phosphorylated Entner-Doudoroff pathway		5Y6Q
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_00840	COG4774	P	Outer membrane receptor for monomeric catechols	Fiu			
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_00845	COG2233	F	Xanthine/uracil permease	UraA	Pyrimidine degradation		3QE7
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_00860	COG2236	H	Hypoxanthine phosphoribosyltransferase	Hpt1	Purine salvage		2JKZ
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_00865	COG0300	R	Short-chain dehydrogenase	YqjQ			
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_00870	COG3173	R	Predicted  kinase, aminoglycoside phosphotransferase (APT) family	YcbJ			
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_00875	COG4062	H	Tetrahydromethanopterin S-methyltransferase, subunit B	MtrB			
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_00880	COG0657	I	Acetyl esterase/lipase	Aes			1EVQ
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_00885	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_00900	COG0420	L	DNA repair exonuclease SbcCD nuclease subunit	SbcD			6S85
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_00905	COG1846	K	DNA-binding transcriptional regulator, MarR family	MarR			1JGS
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_00910	COG1292	M	Choline-glycine betaine transporter	BetT			2WIT
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_00915	COG4206	H	Outer membrane cobalamin receptor protein BtuB	BtuB			1NQE
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_00920	COG4235	CO	Cytochrome c-type biogenesis protein CcmH/NrfG	NrfG			
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_00925	COG0289	E	4-hydroxy-tetrahydrodipicolinate reductase	DapB	Lysine biosynthesis	29684280	1ARZ
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_00930	COG4319	R	Ketosteroid isomerase homolog YybH	YybH			2GXF
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_00955	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_00970	COG0623	I	Enoyl-[acyl-carrier-protein] reductase FabI	FabI	Fatty acid biosynthesis		1C14
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_00975	COG1309	K	DNA-binding protein, AcrR family, includes nucleoid occlusion protein SlmA	AcrR			2QOP
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_00985	COG4774	P	Outer membrane receptor for monomeric catechols	Fiu			
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_01040	COG4974	L	Site-specific recombinase XerD	XerD			1A0P
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_01100	COG0592	L	DNA polymerase III sliding clamp (beta) subunit, PCNA homolog	DnaN			1JQJ
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_01155	COG0557	K	Exoribonuclease R	VacB			6H25
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_01160	COG2159	G	5-carboxyvanillate decarboxylase LigW (lignin degradation), amidohydro domain	LigW		26714575	2DVT
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_01165	COG0623	I	Enoyl-[acyl-carrier-protein] reductase FabI	FabI	Fatty acid biosynthesis		1C14
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_01180	COG4221	C	NADP-dependent 3-hydroxy acid dehydrogenase YdfG	YdfG	Pyrimidine degradation		3P19
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_01190	COG2814	G	Predicted arabinose efflux permease AraJ, MFS family	AraJ			4LDS
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_01195	COG1030	O	Membrane-bound serine protease NfeD, ClpP class	NfeD			2DEO
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_01205	COG0565	J	tRNA C32,U32 (ribose-2'-O)-methylase TrmJ or a related methyltransferase	TrmJ	tRNA modification		3ONP
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_01215	COG2226	H	Ubiquinone/menaquinone biosynthesis C-methylase UbiE/MenG	UbiE	Biotin biosynthesis		4OBW
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_01225	COG4106	C	Trans-aconitate methyltransferase	Tam			2P35
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_01235	COG5470	S	Uncharacterized conserved protein, DUF1330 family				
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_01245	COG0536	DL	GTPase involved in cell partioning and DNA repair	Obg			1LNZ
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_01250	COG0193	J	Peptidyl-tRNA hydrolase	Pth	Translation factors	11835511	1RYB
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_01260	COG0462	F	Phosphoribosylpyrophosphate synthetase	PrsA	Histidine biosynthesis, Purine biosynthesis		1DKR
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_01270	COG0083	E	Homoserine kinase	ThrB	Threonine biosynthesis		1FWK
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_01275	COG3017	M	Outer membrane lipoprotein LolB, involved in outer membrane biogenesis	LolB			1IWM
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_01280	COG5010	UW	Flp pilus assembly protein TadD, contains TPR repeats	TadD			3WXX
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_01285	COG0169	E	Shikimate 5-dehydrogenase	AroE	Aromatic amino acid biosynthesis		1NPD
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_01290	COG0216	J	Protein chain release factor RF1	PrfA	Translation factors		1RQ0
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_01295	COG4123	J	tRNA1(Val) A37 N6-methylase TrmN6	TrmN6	tRNA modification		
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_01300	COG2204	T	DNA-binding transcriptional response regulator, NtrC family, contains REC, AAA-type ATPase, and a Fis-type DNA-binding domains	AtoC			1ZY2
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_01305	COG2202	T	PAS domain	PAS			2MWG
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_01310	COG0514	L	Superfamily II DNA helicase RecQ	RecQ			1OYW
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_01315	COG2193	P	Bacterioferritin (cytochrome b1)	Bfr			4E6K
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_01325	COG0847	L	DNA polymerase III, epsilon subunit or related 3'-5' exonuclease	DnaQ			1J53
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_01330	COG0044	F	Dihydroorotase or related cyclic amidohydrolase	AllB	Pyrimidine biosynthesis		1J79
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_01335	COG1360	N	Flagellar motor protein MotB	MotB			
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_01340	COG0137	E	Argininosuccinate synthase	ArgG	Arginine biosynthesis		1J1Z
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_01345	COG1011	H	FMN and 5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YigB, HAD superfamily (riboflavin biosynthesis)	YigB		24123841	4JB3
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_01350	COG4143	H	ABC-type thiamine transport system, periplasmic component TbpA	TbpA			2QRY
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_01355	COG1177	E	ABC-type spermidine/putrescine transport system, permease component II	PotC			
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_01360	COG3845	F	ABC-type guanosine uptake system NupNOPQ, ATPase component NupO	NupO		21926227	
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_01370	COG1028	I	NAD(P)-dependent dehydrogenase, short-chain alcohol dehydrogenase family	FabG	Fatty acid biosynthesis		6L1H
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_01390	COG4108	J	Peptide chain release factor RF-3	PrfC	Translation factors		3UOQ
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_01395	COG0840	T	Methyl-accepting chemotaxis protein (MCP)	Tar			1QU7
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_01400	COG0397	O	Protein adenylyltransferase (AMPylase) SelO/YdiU (selenoprotein O)	SelO		30270044	6EAC
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_01405	COG0441	J	Threonyl-tRNA synthetase	ThrS	Aminoacyl-tRNA synthetases		1NYQ
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_01415	COG2331	R	Predicted nucleic acid-binding protein, contains Zn-ribbon domain				
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_01420	COG0173	J	Aspartyl-tRNA synthetase	AspS	Aminoacyl-tRNA synthetases		1C0A
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_01425	COG0817	L	Holliday junction resolvasome RuvABC endonuclease subunit RuvC	RuvC			1HJR
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_01430	COG0632	L	Holliday junction resolvasome RuvABC DNA-binding subunit	RuvA			1BDX
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_01435	COG2256	L	Replication-associated recombination protein RarA (DNA-dependent ATPase)	RarA			3PVS
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_01445	COG1291	N	Flagellar motor component MotA	MotA			
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_01455	COG3064	M	Membrane protein TolA involved in colicin uptake	TolA			1S62
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_01460	COG2319	R	WD40 repeat	WD40			3UVN
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_01465	COG1360	N	Flagellar motor protein MotB	MotB			
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_01470	COG4105	M	Outer membrane protein assembly factor BamD, BamD/ComL family	BamD			2YHC
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_01475	COG1180	O	Pyruvate-formate lyase-activating enzyme	PflA			3CAN
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_01480	COG0482	J	tRNA U34 2-thiouridine synthase MnmA/TrmU, contains the PP-loop ATPase domain	MnmA	tRNA modification	25825430	2HMA
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_01495	COG1029	C	Formylmethanofuran dehydrogenase subunit B	FwdB			5T5I
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_01505	COG0057	G	Glyceraldehyde-3-phosphate dehydrogenase/erythrose-4-phosphate dehydrogenase	GapA	Glycolysis		3ZDF
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_01510	COG0794	GM	D-arabinose 5-phosphate isomerase GutQ	GutQ			5UQI
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_01520	COG1541	H	Phenylacetate-coenzyme A ligase PaaK, adenylate-forming domain family	PaaK			2Y4O
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_01530	COG0623	I	Enoyl-[acyl-carrier-protein] reductase FabI	FabI	Fatty acid biosynthesis		1C14
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_01535	COG0379	H	Quinolinate synthase	NadA	NAD biosynthesis	24498065	4HHE
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_01540	COG0501	O	Zn-dependent protease with chaperone function	HtpX			2YPT
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_01550	COG3959	G	Transketolase, N-terminal subunit	TktA1			
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_01555	COG1038	C	Pyruvate carboxylase	PycA	Urea cycle		5VYW
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_01560	COG0172	J	Seryl-tRNA synthetase	SerS	Aminoacyl-tRNA synthetases		1SER
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_01570	COG0008	J	Glutamyl- or glutaminyl-tRNA synthetase	GlnS	Heme biosynthesis		1EUQ
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_01595	COG0346	Q	Catechol 2,3-dioxygenase or related enzyme, vicinal oxygen chelate (VOC) family	GloA		11830595	3R4Q
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_01610	COG0623	I	Enoyl-[acyl-carrier-protein] reductase FabI	FabI	Fatty acid biosynthesis		1C14
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_01630	COG2141	HR	Flavin-dependent oxidoreductase, luciferase family (includes alkanesulfonate monooxygenase SsuD and methylene tetrahydromethanopterin reductase)	SsuD	Pyrimidine degradation		1BRL
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_01635	COG0300	R	Short-chain dehydrogenase	YqjQ			
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_01640	COG0346	Q	Catechol 2,3-dioxygenase or related enzyme, vicinal oxygen chelate (VOC) family	GloA		11830595	3R4Q
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_01645	COG0412	Q	Dienelactone hydrolase	DLH			4ZV9
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_01655	COG0190	H	5,10-methylene-tetrahydrofolate dehydrogenase/Methenyl tetrahydrofolate cyclohydrolase	FolD			1A4I
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_01660	COG1029	C	Formylmethanofuran dehydrogenase subunit B	FwdB			5T5I
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_01670	COG0652	O	Peptidyl-prolyl cis-trans isomerase (rotamase) - cyclophilin family	PpiB			4DGD
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_01675	COG3103	R	Uncharacterized conserved protein YgiM, contains N-terminal SH3 domain, DUF1202 family	YgiM			2KQ8
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_01685	COG4648	S	Uncharacterized membrane protein				
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_01690	COG1387	ER	Histidinol phosphatase or related hydrolase of the PHP family	HIS2	Histidine biosynthesis		1M65
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_01695	COG0009	J	tRNA A37 threonylcarbamoyladenosine synthetase subunit TsaC/SUA5/YrdC	TsaC	tRNA modification		1HRU
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_01705	COG1386	K	Chromosome segregation and condensation protein ScpB	ScpB			1T6S
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_01710	COG0564	J	Pseudouridine synthase RluA, 23S rRNA- or tRNA-specific	RluA	23S rRNA modification		2I82
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_01715	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_01720	COG4638	PR	Phenylpropionate dioxygenase or related ring-hydroxylating dioxygenase, large terminal subunit	HcaE			4QDC
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_01725	COG5517	Q	3-phenylpropionate/cinnamic acid dioxygenase, small subunit	HcaF			
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_01730	COG1473	R	Metal-dependent amidase/aminoacylase/carboxypeptidase	AbgB	Lysine biosynthesis	17307853	3RAM
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_01735	COG4221	C	NADP-dependent 3-hydroxy acid dehydrogenase YdfG	YdfG	Pyrimidine degradation		3P19
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_01745	COG1478	H	F420-0:Gamma-glutamyl ligase (F420 biosynthesis)	CofE			2G9I
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_01755	COG0502	H	Biotin synthase or related enzyme	BioB	Biotin biosynthesis		1R30
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_01760	COG1608	I	Isopentenyl phosphate kinase			16621811	3LKK
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_01765	COG0012	J	Ribosome-binding ATPase YchF, GTP1/OBG family	GTP1		21527254	2DWQ
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_01770	COG0211	J	Ribosomal protein L27	RpmA	Ribosome 50S subunit		1VS6
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_01775	COG0261	J	Ribosomal protein L21	RplU	Ribosome 50S subunit		1VS6
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_01780	COG0268	J	Ribosomal protein S20	RpsT	Ribosome 30S subunit		4V4H
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_01785	COG0303	H	Molybdopterin Mo-transferase (molybdopterin biosynthesis)	MoeA	Molybdopterin biosynthesis	18801996;32239579	2NQU
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_01790	COG1058	L	ADP-ribose pyrophosphatase domain of DNA damage- and competence-inducible protein CinA	CinA		25313401	4CT9
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_01795	COG0304	IQ	3-oxoacyl-(acyl-carrier-protein) synthase	FabB	Fatty acid biosynthesis	21652641	2UV8
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_01805	COG0836	M	Mannose-1-phosphate guanylyltransferase	CpsB			2QH5
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_01810	COG0448	G	Glucose-1-phosphate adenylyltransferase (ADP-glucose pyrophosphorylase)	GlgC		27545622	5MNI
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_01815	COG1109	G	Phosphomannomutase	ManB			6MNV
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_01820	COG0166	G	Glucose-6-phosphate isomerase	Pgi	Glycolysis		1B0Z
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_01825	COG0142	H	Geranylgeranyl pyrophosphate synthase	IspA	Isoprenoid biosynthesis		2AZJ
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_01830	COG3398	K	Predicted transcriptional regulator, contains two HTH domains				
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_01835	COG0119	E	Isopropylmalate/homocitrate/citramalate synthases	LeuA	Isoleucine, leucine, valine biosynthesis		4JN6
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_01845	COG0456	J	Ribosomal protein S18 acetylase RimI and related acetyltransferases	RimI			1GHE
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_01875	COG4657	C	Na+-translocating ferredoxin:NAD+ oxidoreductase RNF, RnfA subunit	RnfA	Na+-translocating Fd:NADH oxidoreductase		
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_01880	COG2869	C	Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrC	NqrC	Na+-translocating NADH dehydrogenase		4P6V
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_01885	COG1805	C	Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrB	NqrB	Na+-translocating NADH dehydrogenase		4P6V
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_01890	COG0247	C	Fe-S cluster-containing oxidoreductase, includes glycolate oxidase subunit GlcF	GlpC			
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_01895	COG1149	R	MinD superfamily P-loop ATPase, contains an inserted ferredoxin domain				
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_01900	COG1347	C	Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrD	NqrD	Na+-translocating NADH dehydrogenase		4P6V
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_01905	COG0073	J	tRNA-binding EMAP/Myf domain	EMAP			1MKH
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_01930	COG0372	C	Citrate synthase	GltA	TCA cycle	25211225	3TQG
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_01935	COG1053	C	Succinate dehydrogenase/fumarate reductase, flavoprotein subunit	SdhA	TCA cycle		1KF6
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_01940	COG0479	C	Succinate dehydrogenase/fumarate reductase, Fe-S protein subunit	SdhB/FrdB	TCA cycle		6LUM
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_01945	COG1071	C	TPP-dependent pyruvate or acetoin dehydrogenase subunit alpha	AcoA	Pyruvate oxidation		1DTW
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_01950	COG0508	C	Pyruvate/2-oxoglutarate dehydrogenase complex, dihydrolipoamide acyltransferase (E2) component	AceF	Pyruvate oxidation		1B5S
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_01955	COG0446	I	NADPH-dependent 2,4-dienoyl-CoA reductase, sulfur reductase, or a related oxidoreductase	FadH2			1VRQ
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_01960	COG0045	C	Succinyl-CoA synthetase, beta subunit	SucC	TCA cycle		1SCU
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_01965	COG1042	C	Acyl-CoA synthetase (NDP forming)	PatZN		26251518	4YAK
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_01970	COG0451	M	Nucleoside-diphosphate-sugar epimerase	WcaG			2X4G
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_01975	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_01980	COG1020	Q	EntF, seryl-AMP synthase component  of non-ribosomal peptide synthetase	EntF			5ES5
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_01985	COG0346	Q	Catechol 2,3-dioxygenase or related enzyme, vicinal oxygen chelate (VOC) family	GloA		11830595	3R4Q
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_01990	COG0574	G	Phosphoenolpyruvate synthase/pyruvate phosphate dikinase	PpsA	Gluconeogenesis		5HV6
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_02000	COG0623	I	Enoyl-[acyl-carrier-protein] reductase FabI	FabI	Fatty acid biosynthesis		1C14
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_02005	COG0697	GER	Permease of the drug/metabolite transporter (DMT) superfamily	RhaT			5I20
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_02010	COG0812	M	UDP-N-acetylenolpyruvoylglucosamine reductase	MurB	Mureine biosynthesis		2MBR
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_02015	COG3971	Q	2-keto-4-pentenoate hydratase	MhpD			1SV6
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_02025	COG2524	K	Predicted transcriptional regulator, contains C-terminal CBS domains				
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_02035	COG1087	M	UDP-glucose 4-epimerase	GalE			1A9Y
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_02055	COG0778	C	Nitroreductase	NfnB	Pyrimidine degradation		1F5V
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_02060	COG1925	TG	HPr or related phosphotransfer protein	PtsH			1CM2
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_02070	COG4668	G	Mannitol/fructose-specific phosphotransferase system, IIA domain	MtlA2			1A3A
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_02080	COG1508	K	DNA-directed RNA polymerase specialized sigma subunit, sigma54 homolog	RpoN	RNA polymerase		5BYH
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_02085	COG4608	E	ABC-type oligopeptide transport system, ATPase component	AppF			
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_02090	COG1934	M	Lipopolysaccharide export system protein LptA	LptA			2R19
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_02095	COG3117	M	Lipopolysaccharide export system protein LptC	YrbK			3MY2
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_02100	COG0560	E	Phosphoserine phosphatase	SerB	Serine biosynthesis		3N28
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_02105	COG0517	T	CBS domain	CBS			1B3O
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_02110	COG0530	P	Ca2+/Na+ antiporter	ECM27			3V5S
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_02115	COG2854	M	Periplasmic subunit MlaC of the ABC-type intermembrane phospholipid transporter Mla	MlaC		19383799	2QGU
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_02125	COG0128	E	5-enolpyruvylshikimate-3-phosphate synthase	AroA	Aromatic amino acid biosynthesis		4N3P
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_02130	COG0040	E	ATP phosphoribosyltransferase	HisG	Histidine biosynthesis		1H3D
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_02135	COG0141	E	Histidinol dehydrogenase	HisD	Histidine biosynthesis		1K75
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_02140	COG1167	KE	DNA-binding transcriptional regulator, MocR family, contains an aminotransferase domain	ARO8	Lysine biosynthesis		2R2N
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_02145	COG4993	G	Glucose dehydrogenase, PQQ-dependent	Gcd			1FLG
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_02150	COG2001	J	MraZ, DNA-binding transcriptional regulator and inhibitor of RsmH methyltransferase activity	MraZ			1N0E
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_02155	COG0275	J	16S rRNA C1402 N4-methylase RsmH	RmsH	16S rRNA modification		1M6Y
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_02160	COG3116	D	Cell division protein FtsL, interacts with FtsB and FtsQ	FtsL			
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_02165	COG0768	DM	Cell division protein FtsI, peptidoglycan transpeptidase (Penicillin-binding protein 2)	FtsI			6HZQ
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_02170	COG0771	M	UDP-N-acetylmuramoylalanine-D-glutamate ligase	MurD	Mureine biosynthesis		1E0D
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_02175	COG0771	M	UDP-N-acetylmuramoylalanine-D-glutamate ligase	MurD	Mureine biosynthesis		1E0D
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_02180	COG0472	M	UDP-N-acetylmuramyl pentapeptide phosphotransferase/UDP-N-acetylglucosamine-1-phosphate transferase	Rfe	Mureine biosynthesis		4J72
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_02185	COG0770	M	UDP-N-acetylmuramyl pentapeptide synthase	MurF	Mureine biosynthesis		4CVK
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_02190	COG0772	D	Peptodoglycan polymerase FtsW/RodA/SpoVE	FtsW		30692671	6BAR
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_02195	COG1819	G	UDP:flavonoid glycosyltransferase YjiC, YdhE family	YjiC		23974133	2ACV
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_02200	COG0770	M	UDP-N-acetylmuramyl pentapeptide synthase	MurF	Mureine biosynthesis		4CVK
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_02205	COG0439	I	Biotin carboxylase	AccC	Fatty acid biosynthesis		1BNC
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_02210	COG1589	D	Cell division septal protein FtsQ	FtsQ			1YR1
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_02215	COG1077	DZ	Cell shape-determining ATPase MreB, actin-like superfamily	MreB			1JCE
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_02220	COG0206	D	Cell division GTPase FtsZ	FtsZ			1FSZ
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_02225	COG0774	M	UDP-3-O-acyl-N-acetylglucosamine deacetylase	LpxC	Lipid A biosynthesis		1P42
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_02230	COG4942	D	Septal ring factor EnvC, activator of murein hydrolases AmiA and AmiB	EnvC			
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_02235	COG3318	S	Uncharacterized conserved protein YecA, UPF0149 family, contains C-terminal Zn-binding SEC-C motif	YecA			
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_02245	COG0494	V	8-oxo-dGTP pyrophosphatase MutT and related house-cleaning NTP pyrophosphohydrolases, NUDIX family	MutT			4V14
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_02255	COG0572	F	Uridine kinase	Udk	Pyrimidine salvage		5B3F
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_02265	COG0534	V	Na+-driven multidrug efflux pump, DinF/NorM/MATE family	NorM		29915058	3VVN
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_02270	COG0196	H	FAD synthase	RibF	Riboflavin/FAD biosynthesis		1MRZ
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_02275	COG0143	J	Methionyl-tRNA synthetase	MetG	Aminoacyl-tRNA synthetases		1A8H
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_02285	COG0545	O	FKBP-type peptidyl-prolyl cis-trans isomerase	FkpA			1A7X
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_02290	COG0761	I	4-Hydroxy-3-methylbut-2-enyl diphosphate reductase IspH	IspH	Isoprenoid biosynthesis		3DNF
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_02295	COG0519	F	GMP synthase, PP-ATPase domain/subunit	GuaA2	Purine biosynthesis		4WIM
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_02300	COG0400	R	Predicted esterase	YpfH			
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_02305	COG1496	P	Copper oxidase (laccase) domain	YfiH			1RV9
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_02310	COG1187	J	Pseudouridylate synthase RsuA, specific for 16S rRNA U516  and 23S rRNA U2605	RsuA	16S rRNA modification		1KSK
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_02315	COG1729	D	Cell division protein CpoB, coordinates peptidoglycan biosynthesis and outer membrane constriction	CpoB		25951518	2WZ7
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_02320	COG5271	J	Midasin, AAA ATPase with  vWA domain, involved in ribosome maturation	MDN1			6HYP
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_02325	COG0028	EH	Acetolactate synthase large subunit or other thiamine pyrophosphate-requiring enzyme	IlvB	Isoleucine, leucine, valine biosynthesis		1BFD
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_02330	COG4747	R	ACT domain-containing protein	ACTx2			
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_02335	COG0059	EH	Ketol-acid reductoisomerase	IlvC	Isoleucine, leucine, valine biosynthesis		1NP3
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_02345	COG1183	I	Phosphatidylserine synthase	PssA			
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_02355	COG2717	C	Heme-binding membrane subunit of periplasmic DMSO/TMAO and protein-methionine-sulfoxide reductases	MsrQ		26641313	
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_02370	COG0809	J	S-adenosylmethionine:tRNA-ribosyltransferase-isomerase (queuine synthetase)	QueA	tRNA modification		1VKY
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_02375	COG0343	J	Queuine/archaeosine tRNA-ribosyltransferase	Tgt	tRNA modification	15805528	1XW8
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_02390	COG0110	R	Acetyltransferase, isoleucine patch superfamily	WbbJ			
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_02400	COG4536	P	Mg2+ and Co2+ transporter CorB, contains DUF21, CBS pair, and CorC-HlyC domains	CorB		1779764	
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_02410	COG0541	U	Signal recognition particle GTPase	Ffh			2V3C
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_02415	COG0042	J	tRNA-dihydrouridine synthase	DusA	tRNA modification		1VHN
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_02420	COG0042	J	tRNA-dihydrouridine synthase	DusA	tRNA modification		1VHN
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_02425	COG1053	C	Succinate dehydrogenase/fumarate reductase, flavoprotein subunit	SdhA	TCA cycle		1KF6
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_02435	COG0806	J	Ribosomal 30S subunit maturation factor RimM, required for 16S rRNA processing	RimM	16S rRNA modification		2QGG
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_02440	COG0336	J	tRNA G37 N-methylase TrmD	TrmD	tRNA modification		1P9P
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_02475	COG0582	LX	Integrase/recombinase, includes phage integrase	FimB			
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_02480	COG1651	O	Protein thiol-disulfide isomerase DsbC	DsbG			2HI7
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_02485	COG0673	R	Predicted dehydrogenase	MviM			3UUW
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_02490	COG0498	E	Threonine synthase	ThrC	Threonine biosynthesis		1VB3
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_02495	COG0618	FT	nanoRNase/pAp phosphatase, hydrolyzes c-di-AMP and oligoRNAs	NrnA			5O4Z
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_02500	COG4728	S	Uncharacterized conserved protein, DUF1653 family				3BE3
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_02515	COG3318	S	Uncharacterized conserved protein YecA, UPF0149 family, contains C-terminal Zn-binding SEC-C motif	YecA			
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_02525	COG1199	L	Rad3-related DNA helicase DinG	DinG			5H8W
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_02545	COG3128	R	Predicted 2-oxoglutarate- and Fe(II)-dependent dioxygenase YbiX	PiuC			3DKQ
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_02550	COG0110	R	Acetyltransferase, isoleucine patch superfamily	WbbJ			
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_02560	COG1088	M	dTDP-D-glucose 4,6-dehydratase	RfbB			1G1A
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_02570	COG1088	M	dTDP-D-glucose 4,6-dehydratase	RfbB			1G1A
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_02580	COG0513	L	Superfamily II DNA and RNA helicase	SrmB			3RRM
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_02590	COG5406
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_02595	COG0483	G	Archaeal fructose-1,6-bisphosphatase or related enzyme, inositol monophosphatase family	SuhB	Gluconeogenesis		1AWB
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_02600	COG0219	J	tRNA(Leu) C34 or U34 (ribose-2'-O)-methylase TrmL, contains SPOUT domain	TrmL	tRNA modification		4JAK
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_02610	COG0075	EF	Archaeal aspartate aminotransferase or a related aminotransferase, includes purine catabolism protein PucG	PucG	Serine biosynthesis		3NNK
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_02625	COG1076	O	DnaJ domain-containing protein	DjlA		15489435;11106641	
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_02630	COG1077	DZ	Cell shape-determining ATPase MreB, actin-like superfamily	MreB			1JCE
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_02635	COG0633	C	Ferredoxin	Fdx			1KRH
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_02650	COG0821	I	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase IspG/GcpE	IspG	Isoprenoid biosynthesis		2Y0F
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_02655	COG0105	F	Nucleoside diphosphate kinase	Ndk	Pyrimidine biosynthesis		1B4S
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_02660	COG0820	J	Adenine C2-methylase RlmN of 23S rRNA A2503 and tRNA A37	RlmN	23S rRNA modification		3RFA
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_02665	COG1426	D	Cytoskeletal protein RodZ, contains Xre-like HTH and DUF4115 domains	RodZ			3FYM
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_02670	COG0124	J	Histidyl-tRNA synthetase	HisS	Aminoacyl-tRNA synthetases		1KMM
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_02685	COG0370	P	Fe2+ transporter FeoB	FeoB		32095817	3TAH
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_02690	COG0818	I	Diacylglycerol kinase	DgkA			2KDC
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_02695	COG1804	I	Crotonobetainyl-CoA:carnitine CoA-transferase CaiB and related acyl-CoA transferases	CaiB			1P5H
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_02700	COG0778	C	Nitroreductase	NfnB	Pyrimidine degradation		1F5V
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_02715	COG0332	I	3-oxoacyl-[acyl-carrier-protein] synthase III	FabH	Fatty acid biosynthesis		1UB7
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_02730	COG0673	R	Predicted dehydrogenase	MviM			3UUW
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_02735	COG1146	F	NAD-dependent dihydropyrimidine dehydrogenase, PreA subunit	PreA			
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_02755	COG4771	P	Outer membrane receptor for ferrienterochelin and colicins	FepA		16468998	2HDF
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_02760	COG2017	G	Galactose mutarotase or related enzyme	GalM			1LUR
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_02765	COG0176	G	Transaldolase/fructose-6-phosphate aldolase	TalA	Pentose phosphate pathway		1F05
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_02775	COG1070	G	Sugar (pentulose or hexulose) kinase	XylB	Non-phosphorylated Entner-Doudoroff pathway		4C23
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_02780	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_02790	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_02795	COG1629	P	Outer membrane receptor protein, Fe transport	CirA			1BY3
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_02805	COG5002	T	Sensor histidine kinase WalK	WalK			4I5S
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_02810	COG2204	T	DNA-binding transcriptional response regulator, NtrC family, contains REC, AAA-type ATPase, and a Fis-type DNA-binding domains	AtoC			1ZY2
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_02820	COG3507	G	Beta-xylosidase	XynB2			1Y7B
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_02825	COG2223	P	Nitrate/nitrite transporter NarK	NarK			4JR9
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_02830	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_02835	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_02845	COG2109	H	ATP:corrinoid adenosyltransferase	BtuR	Cobalamine/B12 biosynthesis		4HUT
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_02850	COG4606	P	ABC-type enterochelin transport system, permease component	CeuB			
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_02855	COG1126	E	ABC-type polar amino acid transport system, ATPase component	GlnQ			4YMS
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_02860	COG4558	P	ABC-type hemin transport system, periplasmic component	ChuT			3MD9
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_02865	COG3178	R	Predicted phosphotransferase, aminoglycoside/choline kinase (APH/ChoK) family				
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_02870	COG1960	I	Acyl-CoA dehydrogenase related to the alkylation response protein AidB	CaiA	Fatty acid biosynthesis		1BUC
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_02880	COG0300	R	Short-chain dehydrogenase	YqjQ			
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_02890	COG0673	R	Predicted dehydrogenase	MviM			3UUW
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_02900	COG2021	E	Homoserine O-acetyltransferase	MET2	Methionine biosynthesis		2VAT
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_02905	COG4148	P	ABC-type molybdate transport system, ATPase component ModC	ModC	Molybdopterin biosynthesis		
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_02915	COG1451	R	UTP pyrophosphatase, metal-dependent hydrolase family	YgjP		27941785	4JIU
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_02925	COG0447	H	1,4-Dihydroxy-2-naphthoyl-CoA synthase	MenB	Menaquinone biosynthesis		4ELS
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_02930	COG1309	K	DNA-binding protein, AcrR family, includes nucleoid occlusion protein SlmA	AcrR			2QOP
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_02935	COG0521	H	Molybdopterin biosynthesis enzyme MoaB/MogA	MoaB	Molybdopterin biosynthesis	32239579	1DI6
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_02940	COG5626	S	Uncharacterized protein Ssr3000, DUF2288 family	Ssr3000			
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_02945	COG0795	MN	Lipopolysaccharide export LptBFGC system, permease protein LptF	LptF			6S8H
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_02950	COG0795	MN	Lipopolysaccharide export LptBFGC system, permease protein LptF	LptF			6S8H
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_02955	COG1714	S	Uncharacterized membrane protein YckC, RDD family	YckC			
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_02965	COG2204	T	DNA-binding transcriptional response regulator, NtrC family, contains REC, AAA-type ATPase, and a Fis-type DNA-binding domains	AtoC			1ZY2
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_02970	COG2205	T	K+-sensing histidine kinase KdpD	KdpD			2KSF
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_02980	COG0039	C	Malate/lactate dehydrogenase	Mdh	TCA cycle		4WLO
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_02985	COG0271	KT	DNA-binding global transcriptional regulator BolA, affects cell shape, cell division and biofilm formation	BolA		19111750;2569159	2DHM
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_02990	COG0607	P	Rhodanese-related sulfurtransferase	PspE	Urea cycle		1TQ1
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_02995	COG3706	TK	Two-component response regulator, PleD family, consists of two REC domains and a diguanylate cyclase (GGDEF) domain	PleD			1W25
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_03005	COG1053	C	Succinate dehydrogenase/fumarate reductase, flavoprotein subunit	SdhA	TCA cycle		1KF6
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_03010	COG0400	R	Predicted esterase	YpfH			
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_03015	COG0179	Q	2-keto-4-pentenoate hydratase/2-oxohepta-3-ene-1,7-dioic acid hydratase (catechol pathway)	YcgM			1GTT
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_03020	COG3791	S	Uncharacterized conserved protein				1X6M
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_03025	COG2814	G	Predicted arabinose efflux permease AraJ, MFS family	AraJ			4LDS
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_03035	COG2207	K	AraC-type DNA-binding domain and AraC-containing proteins	AraC			1BL0
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_03040	COG0447	H	1,4-Dihydroxy-2-naphthoyl-CoA synthase	MenB	Menaquinone biosynthesis		4ELS
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_03055	COG3007	I	Trans-2-enoyl-CoA reductase				3S8M
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_03060	COG0491	R	Glyoxylase or a related metal-dependent hydrolase, beta-lactamase superfamily II	GloB		25670698	1QH3
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_03065	COG2827	L	Predicted endonuclease, GIY-YIG superfamily	YhbQ			1YWL
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_03070	COG1541	H	Phenylacetate-coenzyme A ligase PaaK, adenylate-forming domain family	PaaK			2Y4O
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_03105	COG3706	TK	Two-component response regulator, PleD family, consists of two REC domains and a diguanylate cyclase (GGDEF) domain	PleD			1W25
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_03110	COG3706	TK	Two-component response regulator, PleD family, consists of two REC domains and a diguanylate cyclase (GGDEF) domain	PleD			1W25
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_03115	COG3437	T	Response regulator c-di-GMP phosphodiesterase, RpfG family, contains REC and HD-GYP domains	RpfG			
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_03125	COG1570	L	Exonuclease VII, large subunit	XseA			
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_03130	COG0517	T	CBS domain	CBS			1B3O
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_03135	COG0512	EH	Anthranilate/para-aminobenzoate synthase component II (glutamine amidotransferase)	PabA	Aromatic amino acid biosynthesis		1I1Q
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_03145	COG3752	R	Steroid 5-alpha reductase family enzyme				
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_03150	COG0580	G	Glycerol uptake facilitator or related aquaporin (Major Intrinsic protein Family)	GlpF			1FQY
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_03155	COG1607	I	Acyl-CoA hydrolase	YciA			5DM5
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_03160	COG1167	KE	DNA-binding transcriptional regulator, MocR family, contains an aminotransferase domain	ARO8	Lysine biosynthesis		2R2N
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_03165	COG0229	O	Peptide methionine sulfoxide reductase MsrB	MsrB			1L1D
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_03175	COG2818	L	3-methyladenine DNA glycosylase Tag	Tag			1LMZ
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_03180	COG2050	Q	Acyl-CoA thioesterase PaaI, contains HGG motif	PaaI			1PSU
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_03195	COG2021	E	Homoserine O-acetyltransferase	MET2	Methionine biosynthesis		2VAT
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_03210	COG1360	N	Flagellar motor protein MotB	MotB			
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_03220	COG3054	R	Predicted transcriptional regulator YtfJ	YtfJ			
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_03225	COG2154	H	Pterin-4a-carbinolamine dehydratase	PhhB			1DCH
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_03230	COG2520	J	tRNA G37 N-methylase Trm5	Trm5	tRNA modification		2YX1
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_03235	COG1089	M	GDP-D-mannose dehydratase	Gmd			1DB3
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_03240	COG0547	E	Anthranilate phosphoribosyltransferase, glycosyltransferase domain	TrpD	Aromatic amino acid biosynthesis		1KGZ
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_03250	COG0815	M	Apolipoprotein N-acyltransferase	Lnt			6NWR
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_03270	COG0652	O	Peptidyl-prolyl cis-trans isomerase (rotamase) - cyclophilin family	PpiB			4DGD
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_03285	COG1530	J	Ribonuclease G or E	CafA			1SLJ
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_03295	COG0564	J	Pseudouridine synthase RluA, 23S rRNA- or tRNA-specific	RluA	23S rRNA modification		2I82
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_03300	COG0637	G	Beta-phosphoglucomutase, HAD superfamily	YcjU		29684280	3E58
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_03305	COG1030	O	Membrane-bound serine protease NfeD, ClpP class	NfeD			2DEO
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_03310	COG2205	T	K+-sensing histidine kinase KdpD	KdpD			2KSF
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_03315	COG0784	T	CheY-like REC (receiver) domain, includes chemotaxis protein CheY  and sporulation regulator Spo0F	CheY			6QRJ
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_03320	COG0424	Q	7-methyl-GTP pyrophosphatase and related NTP pyrophosphatases, Maf/HAM1 superfamily	Maf		24210219	2P5X
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_03325	COG1399	J	23S rRNA accumulation protein YceD (essential in plants, uncharacterized in bacteria)	YceD		27574185	
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_03330	COG0333	J	Ribosomal protein L32	RpmF	Ribosome 50S subunit	17114934	1VS6
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_03335	COG0280	C	Phosphotransacetylase (includes Pta, EutD and phosphobutyryltransferase)	Pta		28754323	1QZT
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_03340	COG0331	I	Malonyl CoA-acyl carrier protein transacylase	FabD	Fatty acid biosynthesis		1YXC
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_03345	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_03350	COG0236	I	Acyl carrier protein	AcpP	Fatty acid biosynthesis		1ACP
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_03355	COG0304	IQ	3-oxoacyl-(acyl-carrier-protein) synthase	FabB	Fatty acid biosynthesis	21652641	2UV8
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_03365	COG1559	M	Endolytic transglycosylase MltG, terminates peptidoglycan polymerization	MltG		26507882	2R1F
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_03370	COG0125	F	Thymidylate kinase	Tmk	Thymidylate biosynthesis		3LV8
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_03375	COG0470	L	DNA polymerase III, delta prime subunit	HolB			1A5T
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_03390	COG0447	H	1,4-Dihydroxy-2-naphthoyl-CoA synthase	MenB	Menaquinone biosynthesis		4ELS
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_03405	COG0544	O	FKBP-type peptidyl-prolyl cis-trans isomerase (trigger factor)	Tig			5OWI
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_03410	COG0616	O	Periplasmic serine protease, ClpP class	SppA			3BEZ
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_03415	COG1219	O	ATP-dependent protease Clp, ATPase subunit ClpX	ClpX			3HTE
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_03420	COG0714	R	MoxR-like ATPase	MoxR	Cobalamine/B12 biosynthesis		2R44
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_03430	COG0760	O	Peptidyl-prolyl isomerase, parvulin family	SurA			2ZR5
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_03435	COG0111	H	Phosphoglycerate dehydrogenase or related dehydrogenase	SerA	Serine biosynthesis		3OET
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_03445	COG3816	S	Uncharacterized conserved protein, DUF1285 family				2RA9
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_03450	COG0579	G	L-2-hydroxyglutarate oxidase LhgO	LhgO			3DME
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_03455	COG3424	Q	Predicted naringenin-chalcone synthase	BH0617			1BI5
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_03465	COG2086	C	Electron transfer flavoprotein, alpha and beta subunits	FixA			5OL2
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_03470	COG2025	C	Electron transfer flavoprotein, alpha subunit FixB	FixB			1EFP
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_03475	COG1507	S	Uncharacterized conserved protein, DUF501 family				
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_03485	COG1033	R	Predicted exporter protein, RND superfamily	MMPL			5KHN
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_03490	COG1566	V	Multidrug resistance efflux pump EmrA	EmrA			4TKO
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_03505	COG1012	I	Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase	AdhE	Proline degradation		1A4S
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_03515	COG0468	L	RecA/RadA recombinase	RecA			1B22
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_03520	COG2137	O	SOS response regulatory protein OraA/RecX, interacts with RecA	RecX			3C1D
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_03525	COG2169	L	Methylphosphotriester-DNA--protein-cysteine methyltransferase (N-terminal fragment of Ada), contains Zn-binding and two AraC-type DNA-binding domains	AdaA			1ADN
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_03530	COG3321	Q	Acyl transferase domain in polyketide synthase (PKS) enzymes	PksD			6IYO
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_03535	COG0778	C	Nitroreductase	NfnB	Pyrimidine degradation		1F5V
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_03555	COG0582	LX	Integrase/recombinase, includes phage integrase	FimB			
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_03560	COG3513	V	CRISPR-Cas system type-II protein Cas9	Cas9	CRISPR-Cas system		4OGC
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_03590	COG0480	J	Translation elongation factor EF-G, a GTPase	FusA	Translation factors		1DAR
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_03595	COG0480	J	Translation elongation factor EF-G, a GTPase	FusA	Translation factors		1DAR
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_03600	COG4108	J	Peptide chain release factor RF-3	PrfC	Translation factors		3UOQ
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_03615	COG0300	R	Short-chain dehydrogenase	YqjQ			
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_03625	COG0051	J	Ribosomal protein S10	RpsJ	Ribosome 30S subunit		4V4H
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_03630	COG0087	J	Ribosomal protein L3	RplC	Ribosome 50S subunit		1VS6
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_03635	COG0088	J	Ribosomal protein L4	RplD	Ribosome 50S subunit		1VS6
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_03640	COG0089	J	Ribosomal protein L23	RplW	Ribosome 50S subunit		1VS6
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_03645	COG0090	J	Ribosomal protein L2	RplB	Ribosome 50S subunit		1VS6
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_03660	COG0092	J	Ribosomal protein S3	RpsC	Ribosome 30S subunit		1VS6
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_03665	COG2186	K	DNA-binding transcriptional regulator, FadR family	FadR			1E2X
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_03670	COG0255	J	Ribosomal protein L29	RpmC	Ribosome 50S subunit		1VS6
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_03680	COG0093	J	Ribosomal protein L14	RplN	Ribosome 50S subunit		4V4H
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_03685	COG0198	J	Ribosomal protein L24	RplX	Ribosome 50S subunit		1VS6
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_03690	COG0094	J	Ribosomal protein L5	RplE	Ribosome 50S subunit		1VS6
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_03695	COG0199	J	Ribosomal protein S14	RpsN	Ribosome 30S subunit		4V4H
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_03700	COG0096	J	Ribosomal protein S8	RpsH	Ribosome 30S subunit		4V4H
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_03705	COG0097	J	Ribosomal protein L6P/L9E	RplF	Ribosome 50S subunit		1VS6
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_03715	COG0098	J	Ribosomal protein S5	RpsE	Ribosome 30S subunit		4V4H
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_03720	COG1841	J	Ribosomal protein L30/L7E	RpmD	Ribosome 50S subunit		1VS6
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_03730	COG0201	U	Preprotein translocase subunit SecY	SecY			1RH5
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_03740	COG0100	J	Ribosomal protein S11	RpsK	Ribosome 30S subunit		4V4H
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_03745	COG2302	R	RNA-binding protein YlmH, contains S4-like domain	YlmH			
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_03750	COG0202	K	DNA-directed RNA polymerase, alpha subunit/40 kD subunit	RpoA	RNA polymerase		4KN7
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_03755	COG0203	J	Ribosomal protein L17	RplQ	Ribosome 50S subunit		1GD8
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_03760	COG1121	P	ABC-type Mn2+/Zn2+ transport system, ATPase component	ZnuC			
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_03770	COG2365	T	Protein tyrosine/serine phosphatase Oca4	Oca4			1XRI
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_03805	COG0500	QR	SAM-dependent methyltransferase	SmtA			5DNK
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_03810	COG2227	H	2-polyprenyl-3-methyl-5-hydroxy-6-metoxy-1,4-benzoquinol methylase	UbiG	Ubiquinone biosynthesis		1BHJ
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_03815	COG0623	I	Enoyl-[acyl-carrier-protein] reductase FabI	FabI	Fatty acid biosynthesis		1C14
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_03820	COG1506	E	Dipeptidyl aminopeptidase/acylaminoacyl peptidase	DAP2			2JBW
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_03825	COG1053	C	Succinate dehydrogenase/fumarate reductase, flavoprotein subunit	SdhA	TCA cycle		1KF6
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_03845	COG3695	K	Alkylated DNA nucleotide flippase Atl1, participates in nucleotide excision repair, Ada-like DNA-binding domain	Atl1		19516334	2KIF
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_03850	COG0848	U	Biopolymer transport protein ExbD	ExbD			2JWK
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_03855	COG1033	R	Predicted exporter protein, RND superfamily	MMPL			5KHN
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_03860	COG1566	V	Multidrug resistance efflux pump EmrA	EmrA			4TKO
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_03875	COG0329	EM	4-hydroxy-tetrahydrodipicolinate synthase/N-acetylneuraminate lyase	DapA	Lysine biosynthesis	27574185	2R91
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_03880	COG3317	M	Outer membrane beta-barrel protein assembly factor BamC	BamC		21823654;28760846	2LAE
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_03885	COG1236	J	RNA processing exonuclease, beta-lactamase fold, Cft2 family	YSH1			2DKF
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_03910	COG4221	C	NADP-dependent 3-hydroxy acid dehydrogenase YdfG	YdfG	Pyrimidine degradation		3P19
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_03915	COG1053	C	Succinate dehydrogenase/fumarate reductase, flavoprotein subunit	SdhA	TCA cycle		1KF6
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_03920	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_03930	COG2010	C	Cytochrome c, mono- and diheme variants	CccA			1A2S
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_03935	COG0346	Q	Catechol 2,3-dioxygenase or related enzyme, vicinal oxygen chelate (VOC) family	GloA		11830595	3R4Q
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_03940	COG0152	F	Phosphoribosylaminoimidazole-succinocarboxamide synthase	PurC	Purine biosynthesis		1A48
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_03945	COG2258	FV	N-hydroxylaminopurine reductase YiiM, contains MOSC domain	YiiM		18312271;29459651	1O65
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_03950	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_03955	COG1148	C	Heterodisulfide reductase, subunit A (polyferredoxin)	HdrA			5ODC
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_03960	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_03965	COG2272	I	Carboxylesterase type B	PnbA			1K4Y
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_03970	COG2816	F	NADH pyrophosphatase NudC, Nudix superfamily	NPY1			
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_03985	COG1063	ER	Threonine dehydrogenase or related Zn-dependent dehydrogenase	Tdh	Non-phosphorylated Entner-Doudoroff pathway		4A2C
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_03990	COG2814	G	Predicted arabinose efflux permease AraJ, MFS family	AraJ			4LDS
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_04010	COG0243	C	Anaerobic selenocysteine-containing dehydrogenase	BisC			1EU1
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_04025	COG3145	L	Alkylated DNA repair dioxygenase AlkB	AlkB			3KHC
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_04030	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_04035	COG1011	H	FMN and 5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YigB, HAD superfamily (riboflavin biosynthesis)	YigB		24123841	4JB3
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_04040	COG0500	QR	SAM-dependent methyltransferase	SmtA			5DNK
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_04045	COG1228	Q	Imidazolonepropionase or related amidohydrolase	HutI			3OOQ
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_04055	COG0075	EF	Archaeal aspartate aminotransferase or a related aminotransferase, includes purine catabolism protein PucG	PucG	Serine biosynthesis		3NNK
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_04060	COG1605	E	Chorismate mutase	PheA	Aromatic amino acid biosynthesis		1ECM
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_04065	COG0436	E	Aspartate/methionine/tyrosine aminotransferase	AspB	Isoleucine, leucine, valine biosynthesis		2O0R
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_04070	COG1893	H	Ketopantoate reductase	PanE	Pantothenate/CoA biosynthesis		1BG6
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_04075	COG0128	E	5-enolpyruvylshikimate-3-phosphate synthase	AroA	Aromatic amino acid biosynthesis		4N3P
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_04080	COG1102	F	Cytidylate kinase	CmkB			
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_04085	COG2183	K	Transcriptional accessory protein Tex/SPT6	Tex			2OCE
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_04105	COG0284	F	Orotidine-5'-phosphate decarboxylase	PyrF	Pyrimidine biosynthesis		1DBT
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_04115	COG1055	P	Na+/H+ antiporter NhaD or related arsenite permease	ArsB			
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_04135	COG2268	S	Uncharacterized membrane protein YqiK, contains Band7/PHB/SPFH domain	YqiK			1WIN
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_04175	COG0513	L	Superfamily II DNA and RNA helicase	SrmB			3RRM
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_04185	COG0240	C	Glycerol-3-phosphate dehydrogenase	GpsA	Isoprenoid biosynthesis		1EVY
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_04190	COG1988	R	Membrane-bound metal-dependent hydrolase YbcI, DUF457 family	YbcI			
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_04210	COG2207	K	AraC-type DNA-binding domain and AraC-containing proteins	AraC			1BL0
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_04220	COG1053	C	Succinate dehydrogenase/fumarate reductase, flavoprotein subunit	SdhA	TCA cycle		1KF6
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_04235	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_04245	COG0064	J	Asp-tRNAAsn/Glu-tRNAGln amidotransferase B subunit	GatB	Aminoacyl-tRNA synthetases		3H0M
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_04250	COG0154	J	Asp-tRNAAsn/Glu-tRNAGln amidotransferase A subunit or related amidase	GatA	Aminoacyl-tRNA synthetases		3H0L
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_04255	COG0721	J	Asp-tRNAAsn/Glu-tRNAGln amidotransferase C subunit	GatC	Aminoacyl-tRNA synthetases		3H0L
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_04260	COG0443	O	Molecular chaperone DnaK (HSP70)	DnaK			3I33
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_04265	COG1792	DZ	Cell shape-determining protein MreC	MreC			2J5U
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_04275	COG3164	S	Uncharacterized conserved protein YhdP, contains DUF3971 and AsmA2 domains	YhdR			
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_04280	COG0451	M	Nucleoside-diphosphate-sugar epimerase	WcaG			2X4G
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_04285	COG2902	E	NAD-specific glutamate dehydrogenase	Gdh2			
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_04290	COG0793	O	C-terminal processing protease CtpA/Prc, contains a PDZ domain	CtpA			6IQU
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_04295	COG3105	S	Uncharacterized membrane-anchored protein YhcB, DUF1043 family	YhcB			
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_04300	COG1485	D	Cell division protein ZapE (Z ring-associated ATPase), AFG1 superfamily	ZapE			
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_04310	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_04315	COG0102	J	Ribosomal protein L13	RplM	Ribosome 50S subunit		1VS6
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_04320	COG0103	J	Ribosomal protein S9	RpsI	Ribosome 30S subunit		4V4H
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_04330	COG1290	C	Cytochrome b subunit of the bc complex	QcrB/PetB			1VF5
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_04340	COG3814	O	SspB-like protein, predicted to bind SsrA peptide	SspB2			
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_04350	COG0279	G	Phosphoheptose isomerase	GmhA			1G76
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_04360	COG0683	E	ABC-type branched-chain amino acid transport system, periplasmic component	LivK			1USG
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_04365	COG2243	H	Precorrin-2 methylase	CobF	Cobalamine/B12 biosynthesis		2QBU
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_04405	COG1141	C	Ferredoxin	Fer			1IQZ
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_04410	COG1088	M	dTDP-D-glucose 4,6-dehydratase	RfbB			1G1A
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_04435	COG4786	N	Flagellar basal body rod protein FlgG	FlgG			6JZR
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_04440	COG4786	N	Flagellar basal body rod protein FlgG	FlgG			6JZR
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_04445	COG1843	N	Flagellar hook-capping protein FlgD	FlgD			6IEF
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_04450	COG4786	N	Flagellar basal body rod protein FlgG	FlgG			6JZR
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_04455	COG1749	N	Flagellar hook protein FlgE	FlgE			3A69
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_04460	COG1558	N	Flagellar basal body rod protein FlgC	FlgC			
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_04470	COG1706	N	Flagellar basal body P-ring protein FlgI	FlgI			
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_04475	COG3951	N	Rod binding protein domain	FlgJ1			
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_04480	COG1749	N	Flagellar hook protein FlgE	FlgE			3A69
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_04510	COG2204	T	DNA-binding transcriptional response regulator, NtrC family, contains REC, AAA-type ATPase, and a Fis-type DNA-binding domains	AtoC			1ZY2
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_04515	COG5002	T	Sensor histidine kinase WalK	WalK			4I5S
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_04520	COG0745	TK	DNA-binding response regulator, OmpR family, contains REC and winged-helix (wHTH) domain	OmpR			1XHF
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_04540	COG1278	K	Cold shock protein, CspA family	CspC			1C9O
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_04565	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_04575	COG0436	E	Aspartate/methionine/tyrosine aminotransferase	AspB	Isoleucine, leucine, valine biosynthesis		2O0R
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_04585	COG0208	F	Ribonucleotide reductase beta subunit, ferritin-like domain	NrdB	Pyrimidine salvage		1AV8
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_04590	COG0209	F	Ribonucleotide reductase alpha subunit	NrdA	Pyrimidine salvage		1R1R
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_04595	COG0554	C	Glycerol kinase	GlpK			2ZF5
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_04600	COG0078	E	Ornithine carbamoyltransferase	ArgF	Arginine biosynthesis		1A1S
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_04605	COG4992	E	Acetylornithine/succinyldiaminopimelate/putrescine aminotransferase	ArgD	Arginine biosynthesis		2E54
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_04610	COG0278	O	Glutaredoxin-related protein	GrxD			1YKA
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_04615	COG0441	J	Threonyl-tRNA synthetase	ThrS	Aminoacyl-tRNA synthetases		1NYQ
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_04620	COG0290	J	Translation initiation factor IF-3	InfC	Translation factors		2IFE
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_04625	COG0291	J	Ribosomal protein L35	RpmI	Ribosome 50S subunit	28373563	1VS6
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_04630	COG0292	J	Ribosomal protein L20	RplT	Ribosome 50S subunit	30270044	1VS6
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_04635	COG0016	J	Phenylalanyl-tRNA synthetase alpha subunit	PheS	Aminoacyl-tRNA synthetases		3L4G
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_04640	COG0072	J	Phenylalanyl-tRNA synthetase beta subunit	PheT	Aminoacyl-tRNA synthetases		3L4G
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_04650	COG0789	K	DNA-binding transcriptional regulator, MerR family	SoxR			2VZ4
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_04675	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_04695	COG4642	S	Uncharacterized conserved protein				
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_04700	COG3440	V	Predicted restriction endonuclease				
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_04705	COG3440	V	Predicted restriction endonuclease				
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_04730	COG3774	M	Mannosyltransferase OCH1 or related enzyme	OCH1			
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_04735	COG1011	H	FMN and 5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YigB, HAD superfamily (riboflavin biosynthesis)	YigB		24123841	4JB3
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_04755	COG2329	H	Heme-degrading monooxygenase HmoA and related ABM domain proteins	HmoA		21873409	1IUJ
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_04765	COG1225	O	Peroxiredoxin	Bcp			5IPH
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_04770	COG0446	I	NADPH-dependent 2,4-dienoyl-CoA reductase, sulfur reductase, or a related oxidoreductase	FadH2			1VRQ
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_04775	COG1073	T	Fermentation-respiration switch esterase FrsA, DUF1100 family	FrsA			
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_04780	COG3706	TK	Two-component response regulator, PleD family, consists of two REC domains and a diguanylate cyclase (GGDEF) domain	PleD			1W25
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_04785	COG0210	L	Superfamily I DNA or RNA helicase	UvrD			6PPR
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_04790	COG4663	Q	TRAP-type mannitol/chloroaromatic compound transport system, periplasmic component	FcbT1			2HZK
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_04800	COG1607	I	Acyl-CoA hydrolase	YciA			5DM5
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_04820	COG3022	L	DNA-binding protein YaaA associated with the oxidative stress response	YaaA		21378183;32796037	5CAJ
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_04830	COG1678	K	Putative transcriptional regulator, AlgH/UPF0301 family	AlgH			2AJ2
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_04840	COG0325	H	Pyridoxal 5'-phosphate homeostasis protein YggS, UPF0001 family	YggS		26872910	3SY1
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_04845	COG0287	E	Prephenate dehydrogenase	TyrA	Aromatic amino acid biosynthesis		2F1K
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_04850	COG0762	O	Cytochrome b6 maturation protein CCB3/Ycf19 and related maturases, YggT family	Ycf19			
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_04855	COG2271	G	Sugar phosphate permease	UhpC			1PW4
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_04860	COG0346	Q	Catechol 2,3-dioxygenase or related enzyme, vicinal oxygen chelate (VOC) family	GloA		11830595	3R4Q
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_04865	COG1053	C	Succinate dehydrogenase/fumarate reductase, flavoprotein subunit	SdhA	TCA cycle		1KF6
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_04875	COG0109	HI	Polyprenyltransferase (heme O synthase)	CyoE			
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_04885	COG1252	C	NADH dehydrogenase, FAD-containing subunit	Ndh			5NA4
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_04895	COG1301	C	Na+/H+-dicarboxylate symporter	GltP			1XFH
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_04905	COG0386	VI	Thioredoxin/glutathione peroxidase BtuE, reduces lipid peroxides	BtuE		22931285	2P5Q
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_04910	COG2912	T	Regulator of sirC expression, contains transglutaminase-like and TPR domains	SirB1			
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_04930	COG0514	L	Superfamily II DNA helicase RecQ	RecQ			1OYW
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_04940	COG5001	T	Cyclic di-GMP metabolism protein, combines GGDEF and EAL domains with a 6TM membrane domain				
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_04945	COG1535	Q	Isochorismate hydrolase	EntB1			3TB4
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_04950	COG1748	E	Saccharopine dehydrogenase, NADP-dependent	Lys9	Lysine biosynthesis		1E5L
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_04970	COG0523	R	Zinc metallochaperone YeiR/ZagA and related GTPases, G3E family	YejR		19822009;31132310	1NIJ
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_05005	COG0846	O	NAD-dependent protein deacetylase, SIR2 family	SIR2			1M2N
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_05010	COG3011	R	Predicted thiol-disulfide oxidoreductase YuxK, DCC family	YuxK		15236740	
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_05020	COG2231	L	3-Methyladenine DNA glycosylase, HhH-GPD/Endo3 superfamily	HP0602		14517230;20410075	1PU6
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_05025	COG2982	M	Uncharacterized conserved protein AsmA involved in outer membrane biogenesis	AsmA			
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_05030	COG2062	T	Phosphohistidine phosphatase SixA	SixA			1UJB
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_05035	COG0131	E	Imidazoleglycerol phosphate dehydratase HisB	HisB2	Histidine biosynthesis		1RHY
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_05040	COG0518	F	GMP synthase, glutamine amidotransferase domain	GuaA1	Purine biosynthesis		4WIM
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_05045	COG1411	R	Uncharacterized conserved protein related to proFAR isomerase (HisA)				
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_05050	COG1411	R	Uncharacterized conserved protein related to proFAR isomerase (HisA)				
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_05060	COG0265	O	Periplasmic serine protease, S1-C subfamily, contain C-terminal PDZ domain	DegQ		29686141	2HGA
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_05065	COG0739	M	Murein DD-endopeptidase MepM and murein hydrolase activator NlpD, contains LysM domain	NlpD			2GU1
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_05070	COG0607	P	Rhodanese-related sulfurtransferase	PspE	Urea cycle		1TQ1
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_05075	COG0695	O	Glutaredoxin	GrxC			1AAZ
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_05080	COG1952	U	Preprotein translocase subunit SecB	SecB			1OZB
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_05085	COG2327	M	Polysaccharide pyruvyl transferase family protein WcaK (colanic acid biosynthesis)	WcaK			
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_05090	COG0566	J	tRNA G18 (ribose-2'-O)-methylase SpoU	SpoU	tRNA modification		1GZ0
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_05095	COG0784	T	CheY-like REC (receiver) domain, includes chemotaxis protein CheY  and sporulation regulator Spo0F	CheY			6QRJ
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_05100	COG2205	T	K+-sensing histidine kinase KdpD	KdpD			2KSF
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_05105	COG3577	R	Predicted aspartyl protease				5C9F
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_05115	COG3968	E	Glutamine synthetase type III	GlnA3			
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_05120	COG1519	M	3-deoxy-D-manno-octulosonic-acid transferase	KdtA	Lipid A biosynthesis		2XCI
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_05125	COG1538	M	Outer membrane protein TolC	TolC			1EK9
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_05130	COG3151	S	Uncharacterized conserved protein YqiB, DUF1249 family	yqiB			
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_05135	COG0420	L	DNA repair exonuclease SbcCD nuclease subunit	SbcD			6S85
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_05140	COG0596	HR	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold	MenH	Menaquinone biosynthesis		4MYS
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_05145	COG0187	L	DNA gyrase/topoisomerase IV, subunit B	GyrB			1EI1
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_05150	COG0451	M	Nucleoside-diphosphate-sugar epimerase	WcaG			2X4G
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_05155	COG1804	I	Crotonobetainyl-CoA:carnitine CoA-transferase CaiB and related acyl-CoA transferases	CaiB			1P5H
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_05175	COG5434	G	Polygalacturonase	Pgu1			1BHE
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_05180	COG2223	P	Nitrate/nitrite transporter NarK	NarK			4JR9
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_05185	COG1508	K	DNA-directed RNA polymerase specialized sigma subunit, sigma54 homolog	RpoN	RNA polymerase		5BYH
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_05200	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_05205	COG1472	G	Periplasmic beta-glucosidase and related glycosidases	BglX			2X40
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_05215	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_05225	COG2814	G	Predicted arabinose efflux permease AraJ, MFS family	AraJ			4LDS
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_05240	COG0657	I	Acetyl esterase/lipase	Aes			1EVQ
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_05245	COG1231	E	Monoamine oxidase	YobN			1B37
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_05250	COG2259	S	Uncharacterized membrane protein YphA, DoxX/SURF4 family	DoxX			
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_05255	COG1228	Q	Imidazolonepropionase or related amidohydrolase	HutI			3OOQ
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_05270	COG0217	KJ	Transcriptional and/or translational regulatory protein YebC/TACO1	TACO1			1KON
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_05280	COG3318	S	Uncharacterized conserved protein YecA, UPF0149 family, contains C-terminal Zn-binding SEC-C motif	YecA			
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_05305	COG1629	P	Outer membrane receptor protein, Fe transport	CirA			1BY3
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_05315	COG1064	G	D-arabinose 1-dehydrogenase, Zn-dependent alcohol dehydrogenase family	AdhP			5O8Q
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_05325	COG0404	E	Glycine cleavage system protein T (aminomethyltransferase)	GcvT	Glycine cleavage	25433025;25505271	2GAH
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_05330	COG2938	O	Succinate dehydrogenase flavin-adding protein, antitoxin component of the CptAB toxin-antitoxin module	SdhE			1PUZ
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_05335	COG0029	H	Aspartate oxidase	NadB	NAD biosynthesis		1KNP
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_05340	COG4941	K	Predicted RNA polymerase sigma factor, contains C-terminal TPR domain				
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_05355	COG3086	T	RseC, positive regulator of sigma E activity	RseC			
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_05360	COG5256	J	Translation elongation factor EF-1alpha (GTPase)	TEF1	Translation factors		1F60
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_05365	COG0681	U	Signal peptidase I	LepB		1925027	1B12
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_05370	COG0571	K	dsRNA-specific ribonuclease	Rnc			1DI2
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_05375	COG1160	J	Double Era-like domain GTPase Der	Der			1MKY
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_05385	COG1171	E	Threonine deaminase	IlvA	Isoleucine, leucine, valine biosynthesis		3IAU
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_05390	COG0317	TK	(p)ppGpp synthase/hydrolase, HD superfamily	SpoT			1TDJ
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_05395	COG1694	V	NTP pyrophosphatase, house-cleaning of non-canonical NTPs	MazG			1VMG
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_05400	COG1102	F	Cytidylate kinase	CmkB			
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_05410	COG2266	H	GTP:adenosylcobinamide-phosphate guanylyltransferase		Cobalamine/B12 biosynthesis	16895922	2MZB
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_05415	COG0533	J	tRNA A37 threonylcarbamoyltransferase TsaD	TsaD	tRNA modification	23072323;21285948;32385138	3ENO
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_05420	COG1968	I	Undecaprenyl pyrophosphate phosphatase	UppP			5OON
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_05430	COG1363	EG	Putative aminopeptidase FrvX	FrvX			1VHE
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_05435	COG0438	M	Glycosyltransferase involved in cell wall bisynthesis	RfaB			2IV7
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_05440	COG1472	G	Periplasmic beta-glucosidase and related glycosidases	BglX			2X40
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_05450	COG0288	P	Carbonic anhydrase	CynT		22081392	1EKJ
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_05455	COG1233	Q	Phytoene dehydrogenase-related protein				4REP
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_05460	COG1028	I	NAD(P)-dependent dehydrogenase, short-chain alcohol dehydrogenase family	FabG	Fatty acid biosynthesis		6L1H
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_05475	COG0415	L	Deoxyribodipyrimidine photolyase	PhrB			1TEZ
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_05480	COG0162	J	Tyrosyl-tRNA synthetase	TyrS	Aminoacyl-tRNA synthetases		4OUD
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_05490	COG4651	P	Predicted Kef-type K+ transport protein, K+/H+ antiporter domain	RosB			
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_05500	COG1251	C	NAD(P)H-nitrite reductase, large subunit	NirB			
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_05515	COG2040	E	Homocysteine/selenocysteine methylase (S-methylmethionine-dependent)	MHT1			5DML
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_05520	COG0316	O	Fe-S cluster assembly iron-binding protein IscA	IscA			1R94
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_05535	COG0243	C	Anaerobic selenocysteine-containing dehydrogenase	BisC			1EU1
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_05540	COG1029	C	Formylmethanofuran dehydrogenase subunit B	FwdB			5T5I
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_05545	COG1232	H	Protoporphyrinogen oxidase HemY/PPOX	HemY	Heme biosynthesis		3LOV
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_05555	COG0143	J	Methionyl-tRNA synthetase	MetG	Aminoacyl-tRNA synthetases		1A8H
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_05565	COG0260	E	Leucyl aminopeptidase	PepB		19553197;23825549	3H8E
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_05570	COG1186	J	Protein chain release factor PrfB	PrfB	Translation factors		1GQE
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_05575	COG1190	J	Lysyl-tRNA synthetase (class II)	LysU	Aminoacyl-tRNA synthetases		1BBU
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_05605	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_05610	COG1232	H	Protoporphyrinogen oxidase HemY/PPOX	HemY	Heme biosynthesis		3LOV
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_05620	COG2518	O	Protein-L-isoaspartate O-methyltransferase	Pcm		24909784	3LBF
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_05630	COG0415	L	Deoxyribodipyrimidine photolyase	PhrB			1TEZ
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_05640	COG2030	I	Acyl-CoA dehydratase PaaZ	MaoC			5ZY8
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_05645	COG5402	S	Uncharacterized protein, contains DUF1214 domain				
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_05650	COG0320	H	Lipoate synthase	LipA	Lipoate biosynthesis	27941785	4U0O
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_05660	COG0332	I	3-oxoacyl-[acyl-carrier-protein] synthase III	FabH	Fatty acid biosynthesis		1UB7
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_05670	COG4327	S	Uncharacterized membrane protein, DUF4212 domain				
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_05675	COG4145	H	Na+/panthothenate symporter	PanF			
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_05680	COG4771	P	Outer membrane receptor for ferrienterochelin and colicins	FepA		16468998	2HDF
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_05685	COG1249	C	Dihydrolipoamide dehydrogenase (E3) component of pyruvate/2-oxoglutarate dehydrogenase complex or glutathione oxidoreductase	Lpd	Glycine cleavagePyruvate oxidation		6QKG
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_05700	COG3782	S	Uncharacterized conserved protein, DUF1853 domain				
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_05705	COG3199	F	NAD kinase				
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_05710	COG0705	O	Membrane-associated serine protease, rhomboid family	GlpG			2IC8
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_05715	COG3139	S	Uncharacterized conserved protein YeaC, DUF1315 family	yeaC			
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_05725	COG0308	E	Aminopeptidase N, contains DUF3458 domain	PepN		24123841	6ATK
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_05730	COG3173	R	Predicted  kinase, aminoglycoside phosphotransferase (APT) family	YcbJ			
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_05745	COG0504	F	CTP synthase (UTP-ammonia lyase)	PyrG	Pyrimidine biosynthesis		1S1M
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_05750	COG2877	M	3-deoxy-D-manno-octulosonic acid (KDO) 8-phosphate synthase	KdsA	Lipid A biosynthesis		1G7U
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_05755	COG0148	G	Enolase	Eno	Glycolysis		1E9I
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_05765	COG2068	H	CTP:molybdopterin cytidylyltransferase MocA	MocA			2WAW
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_05780	COG4122	J	tRNA 5-hydroxyU34 O-methylase TrmR/YrrM	TrmR	tRNA modification	29982645	1H1D
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_05790	COG1049	C	Aconitase B	AcnB	TCA cycle		1L5J
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_05795	COG0066	E	3-isopropylmalate dehydratase small subunit	LeuD	Isoleucine, leucine, valine biosynthesis		3Q3W
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_05800	COG0136	E	Aspartate-semialdehyde dehydrogenase	Asd	Lysine biosynthesis		1BRM
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_05805	COG0101	J	tRNA U38,U39,U40 pseudouridine synthase TruA	TruA	tRNA modification		1DJ0
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_05810	COG0135	E	Phosphoribosylanthranilate isomerase	TrpF	Aromatic amino acid biosynthesis		1DL3
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_05815	COG1171	E	Threonine deaminase	IlvA	Isoleucine, leucine, valine biosynthesis		3IAU
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_05820	COG0434	M	Membrane biogenesis protein, BtpA/SgcQ family	BtpA			
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_05825	COG4799	I	Acetyl-CoA carboxylase, carboxyltransferase component	MmdA			1OD2
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_05830	COG0285	H	Folylpolyglutamate synthase/Dihydropteroate synthase	FolC	Folate biosynthesis		1W78
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_05835	COG3147	D	Cell division protein DedD (periplasmic protein involved in septation)	DedD			
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_05840	COG1286	FM	Colicin V production accessory protein CvpA, regulator of purF expression and biofilm formation	CvpA		27795353	
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_05845	COG0449	M	Glucosamine 6-phosphate synthetase, contains amidotransferase and phosphosugar isomerase domains	GlmS			2J6H
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_05850	COG0520	E	Selenocysteine lyase/Cysteine desulfurase	CsdA			4LW2
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_05865	COG1029	C	Formylmethanofuran dehydrogenase subunit B	FwdB			5T5I
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_05870	COG2814	G	Predicted arabinose efflux permease AraJ, MFS family	AraJ			4LDS
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_05880	COG0457	R	Tetratricopeptide (TPR) repeat	TPR			3AS4
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_05885	COG1240	H	vWFA (von Willebrand factor type A) domain of Mg and Co chelatases	ChlD			
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_05890	COG3300	T	MHYT domain, NO-binding membrane sensor	MHYT			
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_05895	COG1721	S	Uncharacterized conserved protein, DUF58 family, contains vWF domain	YeaD2			
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_05900	COG1239	H	Mg-chelatase subunit ChlI	ChlI			1G8P
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_05915	COG2256	L	Replication-associated recombination protein RarA (DNA-dependent ATPase)	RarA			3PVS
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_05920	COG0718	K	DNA-binding nucleoid-associated protein YbaB/EfbC	YbaB		19594923;22544270	1J8B
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_05925	COG0353	L	Recombinational DNA repair protein RecR	RecR		26337406	2JGR
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_05930	COG0349	J	Ribonuclease D	Rnd		18821773	5C0Y
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_05935	COG3100	S	Uncharacterized conserved protein YcgL, UPF0745 family	YcgL		17221885	2H7A
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_05940	COG2983	R	Uncharacterized cysteine cluster protein YcgN, CxxCxxCC family	YcgN			
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_05955	COG5271	J	Midasin, AAA ATPase with  vWA domain, involved in ribosome maturation	MDN1			6HYP
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_05960	COG3552	S	Uncharacterized protein CoxE, contains von Willebrand factor type A (vWA) domain	CoxE			
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_05965	COG0219	J	tRNA(Leu) C34 or U34 (ribose-2'-O)-methylase TrmL, contains SPOUT domain	TrmL	tRNA modification		4JAK
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_05970	COG0004	P	Ammonia channel protein AmtB	AmtB			1U77
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_05975	COG1249	C	Dihydrolipoamide dehydrogenase (E3) component of pyruvate/2-oxoglutarate dehydrogenase complex or glutathione oxidoreductase	Lpd	Glycine cleavagePyruvate oxidation		6QKG
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_05985	COG2015	Q	Alkyl sulfatase BDS1 and related hydrolases, metallo-beta-lactamase superfamily	BDS1			2CFU
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_06020	COG1506	E	Dipeptidyl aminopeptidase/acylaminoacyl peptidase	DAP2			2JBW
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_06045	COG0332	I	3-oxoacyl-[acyl-carrier-protein] synthase III	FabH	Fatty acid biosynthesis		1UB7
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_06060	COG1029	C	Formylmethanofuran dehydrogenase subunit B	FwdB			5T5I
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_06065	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_06095	COG5031	H	Ubiquinone biosynthesis protein Coq4	COQ4	Ubiquinone biosynthesis		
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_06130	COG1541	H	Phenylacetate-coenzyme A ligase PaaK, adenylate-forming domain family	PaaK			2Y4O
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_06135	COG5524	CT	Bacteriorhodopsin				
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_06145	COG1232	H	Protoporphyrinogen oxidase HemY/PPOX	HemY	Heme biosynthesis		3LOV
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_06150	COG1562	I	Phytoene/squalene synthetase	ERG9			3WEK
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_06165	COG0400	R	Predicted esterase	YpfH			
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_06170	COG2130	QR	NADPH-dependent curcumin reductase CurA	CurA		21467222	1V3T
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_06175	COG0623	I	Enoyl-[acyl-carrier-protein] reductase FabI	FabI	Fatty acid biosynthesis		1C14
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_06195	COG0044	F	Dihydroorotase or related cyclic amidohydrolase	AllB	Pyrimidine biosynthesis		1J79
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_06205	COG2941	H	Demethoxyubiquinone hydroxylase, CLK1/Coq7/Cat5 family (ubiquinone biosynthesis)	Coq7	Ubiquinone biosynthesis		
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_06210	COG1249	C	Dihydrolipoamide dehydrogenase (E3) component of pyruvate/2-oxoglutarate dehydrogenase complex or glutathione oxidoreductase	Lpd	Glycine cleavagePyruvate oxidation		6QKG
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_06215	COG3173	R	Predicted  kinase, aminoglycoside phosphotransferase (APT) family	YcbJ			
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_06230	COG0378	O	Hydrogenase/urease maturation factor HypB, Ni2+-binding GTPase	HypB		24338018;23899293	2HF8
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_06235	COG4319	R	Ketosteroid isomerase homolog YybH	YybH			2GXF
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_06240	COG2159	G	5-carboxyvanillate decarboxylase LigW (lignin degradation), amidohydro domain	LigW		26714575	2DVT
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_06255	COG1153	C	Formylmethanofuran dehydrogenase subunit D	FwdD			2KI8
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_06260	COG1028	I	NAD(P)-dependent dehydrogenase, short-chain alcohol dehydrogenase family	FabG	Fatty acid biosynthesis		6L1H
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_06265	COG0625	O	Glutathione S-transferase	GstA			1A0F
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_06280	COG1357	S	Uncharacterized conserved protein YjbI, contains pentapeptide repeats	YjbI			2BM4
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_06290	COG0623	I	Enoyl-[acyl-carrier-protein] reductase FabI	FabI	Fatty acid biosynthesis		1C14
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_06310	COG1357	S	Uncharacterized conserved protein YjbI, contains pentapeptide repeats	YjbI			2BM4
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_06325	COG0671	I	Membrane-associated phospholipid phosphatase	PgpB	Phospholipid biosynthesis		1D2T
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_06330	COG1819	G	UDP:flavonoid glycosyltransferase YjiC, YdhE family	YjiC		23974133	2ACV
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_06340	COG0494	V	8-oxo-dGTP pyrophosphatase MutT and related house-cleaning NTP pyrophosphohydrolases, NUDIX family	MutT			4V14
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_06345	COG1357	S	Uncharacterized conserved protein YjbI, contains pentapeptide repeats	YjbI			2BM4
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_06355	COG2608	P	Copper chaperone CopZ	CopZ			1AFI
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_06365	COG1937	K	DNA-binding transcriptional regulator, FrmR family	FrmR			2HH7
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_06375	COG0420	L	DNA repair exonuclease SbcCD nuclease subunit	SbcD			6S85
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_06390	COG1902	C	2,4-dienoyl-CoA reductase or related NADH-dependent reductase, Old Yellow Enzyme (OYE) family	FadH			1BWK
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_06400	COG0369	FP	Flavoprotein (flavin reductase) subunit CysJ of sulfite and N-hydroxylaminopurine reductases	CysJ	Cysteine biosynthesis	20118259	1YKG
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_06410	COG0733	R	Na+-dependent transporter, SNF family	YocR			2A65
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_06415	COG2070	R	NAD(P)H-dependent flavin oxidoreductase YrpB, nitropropane dioxygenase family	YrpB			
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_06420	COG0532	J	Translation initiation factor IF-2, a GTPase	InfB	Translation factors		5ME0
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_06425	COG1490	J	D-aminoacyl-tRNA deacylase	Dtd		10918062;16902403;24302572	1J7G
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_06440	COG0188	L	DNA gyrase/topoisomerase IV, subunit A	GyrA			1SUU
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_06445	COG2217	P	Cation-transporting P-type ATPase	ZntA			4BBJ
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_06455	COG0231	J	Translation elongation factor P (EF-P)/translation initiation factor 5A (eIF-5A)	Efp	Translation factors		1UEB
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_06470	COG0688	I	Phosphatidylserine decarboxylase	Psd	Phospholipid biosynthesis		6L06
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_06475	COG2897	P	3-mercaptopyruvate sulfurtransferase SseA, contains two rhodanese domains	SseA			1BOH
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_06480	COG0218	D	GTP-binding protein EngB required for normal cell division	EngB			5UCV
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_06485	COG1949	A	Oligoribonuclease (3'-5' exoribonuclease)	Orn			1YTA
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_06490	COG4638	PR	Phenylpropionate dioxygenase or related ring-hydroxylating dioxygenase, large terminal subunit	HcaE			4QDC
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_06505	COG0365	I	Acyl-coenzyme A synthetase/AMP-(fatty) acid ligase	Acs		14638756	4B2O
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_06510	COG0043	H	3-polyprenyl-4-hydroxybenzoate decarboxylase	UbiD	Ubiquinone biosynthesis	28057757	2IDB
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_06515	COG1157	NU	Flagellar biosynthesis/type III secretory pathway ATPase FliI	FliI			5B0O
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_06520	COG0526	O	Thiol-disulfide isomerase or thioredoxin	TrxA			1XFL
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_06535	COG5589	S	Uncharacterized conserved protein, DUF2390 domain				
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_06540	COG1047	O	Peptidyl-prolyl cis-trans isomerase, FKBP type	SlpA			2M2A
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_06545	COG2319	R	WD40 repeat	WD40			3UVN
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_06565	COG2370	O	Hydrogenase/urease accessory protein HupE	HupE			
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_06575	COG0151	F	Phosphoribosylamine-glycine ligase	PurD	Purine biosynthesis		1GSO
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_06580	COG0138	F	AICAR transformylase/IMP cyclohydrolase PurH	PurH	Purine biosynthesis		1G8M
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_06585	COG2204	T	DNA-binding transcriptional response regulator, NtrC family, contains REC, AAA-type ATPase, and a Fis-type DNA-binding domains	AtoC			1ZY2
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_06590	COG0106	E	Phosphoribosylformimino-5-aminoimidazole carboxamide ribonucleotide (ProFAR) isomerase	HisA	Histidine biosynthesis		4U28
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_06595	COG2263	R	Predicted RNA methylase				6H2U
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_06600	COG0458	EF	Carbamoylphosphate synthase large subunit	CarB	Arginine biosynthesis		1C30
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_06605	COG1038	C	Pyruvate carboxylase	PycA	Urea cycle		5VYW
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_06620	COG2847	P	Copper(I)-binding protein				1X9L
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_06630	COG0722	E	3-deoxy-D-arabino-heptulosonate 7-phosphate (DAHP) synthase	AroG1	Aromatic amino acid biosynthesis		6U8J
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_06635	COG0623	I	Enoyl-[acyl-carrier-protein] reductase FabI	FabI	Fatty acid biosynthesis		1C14
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_06645	COG1309	K	DNA-binding protein, AcrR family, includes nucleoid occlusion protein SlmA	AcrR			2QOP
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_06660	COG1105	G	1-phosphofructokinase or 6-phosphofructokinase II	FruK			2ABQ
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_06665	COG0494	V	8-oxo-dGTP pyrophosphatase MutT and related house-cleaning NTP pyrophosphohydrolases, NUDIX family	MutT			4V14
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_06675	COG2818	L	3-methyladenine DNA glycosylase Tag	Tag			1LMZ
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_06680	COG0231	J	Translation elongation factor P (EF-P)/translation initiation factor 5A (eIF-5A)	Efp	Translation factors		1UEB
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_06685	COG0537	FR	Purine nucleoside phosphoramidase/Ap4A hydrolase, histidine triade (HIT) family	HinT		20934431	1AV5
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_06695	COG0535	DH	Radical SAM superfamily maturase, SkfB/NifB/PqqE family	SkfB		23282011	6Q2P
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_06705	COG1055	P	Na+/H+ antiporter NhaD or related arsenite permease	ArsB			
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_06710	COG1225	O	Peroxiredoxin	Bcp			5IPH
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_06715	COG0553	KL	Superfamily II DNA or RNA helicase, SNF2 family	HepA			6UXV
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_06725	COG1071	C	TPP-dependent pyruvate or acetoin dehydrogenase subunit alpha	AcoA	Pyruvate oxidation		1DTW
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_06730	COG0057	G	Glyceraldehyde-3-phosphate dehydrogenase/erythrose-4-phosphate dehydrogenase	GapA	Glycolysis		3ZDF
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_06735	COG0126	G	3-phosphoglycerate kinase	Pgk	Glycolysis		13PK
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_06740	COG0596	HR	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold	MenH	Menaquinone biosynthesis		4MYS
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_06750	COG0120	G	Ribose 5-phosphate isomerase	RpiA	Pentose phosphate pathway		1KS2
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_06775	COG3079	S	Uncharacterized conserved protein YgfB, UPF0149 family	YgfB			1IZM
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_06780	COG0024	J	Methionine aminopeptidase	Map			3J2I
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_06785	COG0579	G	L-2-hydroxyglutarate oxidase LhgO	LhgO			3DME
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_06790	COG2303	IR	Choline dehydrogenase or related flavoprotein	BetA	Non-phosphorylated Entner-Doudoroff pathway		1B4V
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_06800	COG1520	M	Outer membrane protein assembly factor BamB, contains PQQ-like beta-propeller repeat	PQQ			6TJG
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_06805	COG0509	E	Glycine cleavage system protein H (lipoate-binding)	GcvH	Glycine cleavage		1DXM
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_06810	COG2242	H	Precorrin-6B methylase 2	CobL	Cobalamine/B12 biosynthesis		1F38
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_06815	COG4270	S	Uncharacterized membrane protein				
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_06825	COG0300	R	Short-chain dehydrogenase	YqjQ			
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_06830	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_06845	COG2409	R	Predicted lipid transporter YdfJ, MMPL/SSD domain, RND superfamily	YdfJ		10694977;15941986	
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_06850	COG0001	H	Glutamate-1-semialdehyde aminotransferase	HemL	Heme biosynthesis		2CFB
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_06865	COG0300	R	Short-chain dehydrogenase	YqjQ			
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_06875	COG0596	HR	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold	MenH	Menaquinone biosynthesis		4MYS
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_06880	COG1574	R	Predicted amidohydrolase YtcJ	YtcJ			3ICJ
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_06885	COG0365	I	Acyl-coenzyme A synthetase/AMP-(fatty) acid ligase	Acs		14638756	4B2O
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_06890	COG2175	Q	Taurine dioxygenase, alpha-ketoglutarate-dependent	TauD			1DRT
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_06895	COG0512	EH	Anthranilate/para-aminobenzoate synthase component II (glutamine amidotransferase)	PabA	Aromatic amino acid biosynthesis		1I1Q
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_06900	COG4230	E	Delta 1-pyrroline-5-carboxylate dehydrogenase	PutA2			5KF6
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_06915	COG2873	E	O-acetylhomoserine/O-acetylserine sulfhydrylase, pyridoxal phosphate-dependent	MET17	Methionine biosynthesis		2CTZ
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_06920	COG0204	I	1-acyl-sn-glycerol-3-phosphate acyltransferase	PlsC	Phospholipid biosynthesis		1IUQ
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_06925	COG0548	E	N-acetylglutamate kinase	ArgB	Arginine biosynthesis		3S6G
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_06930	COG1473	R	Metal-dependent amidase/aminoacylase/carboxypeptidase	AbgB	Lysine biosynthesis	17307853	3RAM
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_06945	COG1560	I	Palmitoleoyl-ACP: Kdo2-lipid-IV acyltransferase (lipid A biosynthesis)	LpxP	Lipid A biosynthesis	11830595	5F2T
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_06960	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_06970	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_06980	COG0411	E	ABC-type branched-chain amino acid transport system, ATPase component LivG	LivG		29514851	1G9X
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_06985	COG0297	G	Glycogen synthase	GlgA			1RZU
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_06990	COG2226	H	Ubiquinone/menaquinone biosynthesis C-methylase UbiE/MenG	UbiE	Biotin biosynthesis		4OBW
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_07000	COG4122	J	tRNA 5-hydroxyU34 O-methylase TrmR/YrrM	TrmR	tRNA modification	29982645	1H1D
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_07005	COG0805	U	Twin-arginine protein secretion pathway component TatC	TatC			4B4A
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_07010	COG1826	U	Twin-arginine protein secretion pathway components TatA and TatB	TatA			2L16
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_07015	COG1826	U	Twin-arginine protein secretion pathway components TatA and TatB	TatA			2L16
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_07025	COG0139	E	Phosphoribosyl-AMP cyclohydrolase	HisI1	Histidine biosynthesis		1ZPS
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_07030	COG0661	HT	Predicted protein kinase regulating ubiquinone biosynthesis, AarF/ABC1/UbiB family	AarF	Ubiquinone biosynthesis		4PED
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_07035	COG3154	H	Ubiquinone biosynthesis accessory factor UbiT, lipid carrier SCP2 domain	UbiT		31289180	1C44
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_07040	COG0500	QR	SAM-dependent methyltransferase	SmtA			5DNK
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_07045	COG3686	S	Uncharacterized conserved protein, MAPEG superfamily				
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_07060	COG1220	O	ATP-dependent protease HslVU (ClpYQ), ATPase subunit HslU	HslU			1DO0
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_07065	COG0638	O	20S proteasome, alpha and beta subunits	PRE1			1FNT
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_07070	COG3087	D	Cell division protein FtsN	FtsN			1UTA
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_07075	COG0018	J	Arginyl-tRNA synthetase	ArgS	Aminoacyl-tRNA synthetases		1BS2
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_07080	COG1198	L	Primosomal protein N' (replication factor Y) - superfamily II helicase	PriA			6DCR
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_07090	COG0281	C	Malic enzyme	SfcA	Urea cycle		1DO8
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_07095	COG0768	DM	Cell division protein FtsI, peptidoglycan transpeptidase (Penicillin-binding protein 2)	FtsI			6HZQ
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_07100	COG4796	U	Type II secretory pathway, component HofQ	HofQ			4AV2
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_07105	COG1450	U	Type II secretory pathway component GspD/PulD (secretin)	PulD			5TCQ
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_07110	COG0283	F	Cytidylate kinase	Cmk		19111750;25691594;28928205	3R20
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_07115	COG0371	C	Glycerol dehydrogenase or related enzyme, iron-containing ADH family	GldA	Isoprenoid biosynthesis	20688982	3S99
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_07120	COG3266	D	Cell division protein DamX, binds to the septal ring, contains C-terminal SPOR domain	DamX			
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_07125	COG0069	E	Glutamate synthase domain 2	GltB2	Glutamine biosynthesis		1EA0
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_07130	COG0716	C	Flavodoxin	FldA	Heme biosynthesis		1AG9
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_07135	COG0407	H	Uroporphyrinogen-III decarboxylase HemE	HemE	Heme biosynthesis		2DG5
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_07140	COG0110	R	Acetyltransferase, isoleucine patch superfamily	WbbJ			
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_07145	COG0220	J	tRNA G46 N7-methylase TrmB	TrmB	tRNA modification	19373903;16600901	1YZH
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_07150	COG0663	R	Carbonic anhydrase or acetyltransferase, isoleucine patch superfamily	PaaY			6IVE
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_07155	COG4191	T	Signal transduction histidine kinase regulating C4-dicarboxylate transport system				4GCZ
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_07160	COG2984	R	ABC-type uncharacterized transport system, periplasmic component				3LFT
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_07165	COG0028	EH	Acetolactate synthase large subunit or other thiamine pyrophosphate-requiring enzyme	IlvB	Isoleucine, leucine, valine biosynthesis		1BFD
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_07170	COG4772	P	Outer membrane receptor for Fe3+-dicitrate	FecA			1KMP
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_07175	COG0372	C	Citrate synthase	GltA	TCA cycle	25211225	3TQG
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_07185	COG2204	T	DNA-binding transcriptional response regulator, NtrC family, contains REC, AAA-type ATPase, and a Fis-type DNA-binding domains	AtoC			1ZY2
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_07195	COG4987	CO	ABC-type transport system involved in cytochrome bd biosynthesis, fused ATPase and permease components	CydC			
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_07200	COG1178	P	ABC-type Fe3+ transport system, permease component	FbpB			
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_07210	COG1060	H	2-iminoacetate synthase ThiH/Menaquinone biosynthesis enzymes MqnC and MqnE	ThiH	Thiamine biosynthesis	18801996	4WCX
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_07215	COG0399	M	dTDP-4-amino-4,6-dideoxygalactose transaminase	WecE		15271350	4PIW
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_07220	COG0596	HR	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold	MenH	Menaquinone biosynthesis		4MYS
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_07225	COG0857	R	BioD-like N-terminal domain of phosphotransacetylase	PtaN			2IOJ
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_07235	COG3137	M	Putative salt-induced outer membrane protein YdiY	YdiY			
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_07240	COG0498	E	Threonine synthase	ThrC	Threonine biosynthesis		1VB3
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_07250	COG2030	I	Acyl-CoA dehydratase PaaZ	MaoC			5ZY8
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_07260	COG4221	C	NADP-dependent 3-hydroxy acid dehydrogenase YdfG	YdfG	Pyrimidine degradation		3P19
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_07270	COG4774	P	Outer membrane receptor for monomeric catechols	Fiu			
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_07290	COG0596	HR	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold	MenH	Menaquinone biosynthesis		4MYS
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_07300	COG1028	I	NAD(P)-dependent dehydrogenase, short-chain alcohol dehydrogenase family	FabG	Fatty acid biosynthesis		6L1H
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_07310	COG2159	G	5-carboxyvanillate decarboxylase LigW (lignin degradation), amidohydro domain	LigW		26714575	2DVT
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_07320	COG4221	C	NADP-dependent 3-hydroxy acid dehydrogenase YdfG	YdfG	Pyrimidine degradation		3P19
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_07330	COG0815	M	Apolipoprotein N-acyltransferase	Lnt			6NWR
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_07335	COG1253	R	Hemolysin-related protein, contains CBS domains, UPF0053 family	TlyC			2NQW
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_07340	COG0319	J	ssRNA-specific RNase YbeY, 16S rRNA maturation enzyme	YbeY	16S rRNA modification	17407324;23543739	1XM5
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_07345	COG1702	T	Phosphate starvation-inducible protein PhoH, predicted ATPase	PhoH		8444794;12762842	3B85
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_07350	COG2272	I	Carboxylesterase type B	PnbA			1K4Y
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_07360	COG1032	R	Radical SAM superfamily enzyme YgiQ, UPF0313 family	YgiQ			6FD2
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_07370	COG0436	E	Aspartate/methionine/tyrosine aminotransferase	AspB	Isoleucine, leucine, valine biosynthesis		2O0R
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_07385	COG1063	ER	Threonine dehydrogenase or related Zn-dependent dehydrogenase	Tdh	Non-phosphorylated Entner-Doudoroff pathway		4A2C
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_07400	COG0238	J	Ribosomal protein S18	RpsR	Ribosome 30S subunit		4V4H
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_07410	COG0359	J	Ribosomal protein L9	RplI	Ribosome 50S subunit	27112601	1VS6
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_07415	COG0305	L	Replicative DNA helicase	DnaB			1B79
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_07420	COG2017	G	Galactose mutarotase or related enzyme	GalM			1LUR
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_07435	COG0467	T	RecA-superfamily ATPase, KaiC/GvpD/RAD55 family	RAD55			1TF7
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_07440	COG4559	P	ABC-type hemin transport system, ATPase component				4G1U
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_07445	COG0112	E	Glycine/serine hydroxymethyltransferase	GlyA	Serine biosynthesis		1BJ4
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_07450	COG1327	K	Transcriptional regulator NrdR, contains Zn-ribbon and ATP-cone domains	NrdR			
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_07455	COG0117	H	Riboflavin biosynthesis protein RibD, pyrimidine deaminase domain	RibD1	Riboflavin/FAD biosynthesis		2O7P
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_07460	COG0307	H	Riboflavin synthase alpha chain	RibC	Riboflavin/FAD biosynthesis		1I8D
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_07465	COG0108	H	3,4-dihydroxy-2-butanone 4-phosphate synthase	RibB	Riboflavin/FAD biosynthesis		1G57
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_07470	COG0054	H	6,7-dimethyl-8-ribityllumazine synthase (Riboflavin synthase beta chain)	RibE	Riboflavin/FAD biosynthesis		1C2Y
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_07480	COG0309	O	Carbamoyl dehydratase HypE (hydrogenase maturation factor)	HypE		28618091	2I6R
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_07495	COG3109	T	sRNA-binding protein ProQ	ProQ			1DVO
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_07500	COG4308	Q	Limonene-1,2-epoxide hydrolase LimA/EphG	LimA			1NU3
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_07505	COG0607	P	Rhodanese-related sulfurtransferase	PspE	Urea cycle		1TQ1
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_07510	COG3173	R	Predicted  kinase, aminoglycoside phosphotransferase (APT) family	YcbJ			
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_07515	COG3201	H	Nicotinamide riboside transporter PnuC	PnuC			4QTN
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_07525	COG4774	P	Outer membrane receptor for monomeric catechols	Fiu			
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_07540	COG0807	H	GTP cyclohydrolase II	RibA	Riboflavin/FAD biosynthesis		2BZ0
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_07545	COG1154	HI	Deoxyxylulose-5-phosphate synthase	Dxs	Pyridoxal phosphate biosynthesis		2O1S
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_07550	COG0142	H	Geranylgeranyl pyrophosphate synthase	IspA	Isoprenoid biosynthesis		2AZJ
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_07555	COG1722	L	Exonuclease VII small subunit	XseB			1VP7
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_07565	COG2885	M	Outer membrane protein OmpA and related peptidoglycan-associated (lipo)proteins	OmpA			1OAP
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_07570	COG1193	L	dsDNA-specific endonuclease/ATPase MutS2	MutS2			
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_07575	COG0240	C	Glycerol-3-phosphate dehydrogenase	GpsA	Isoprenoid biosynthesis		1EVY
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_07590	COG0136	E	Aspartate-semialdehyde dehydrogenase	Asd	Lysine biosynthesis		1BRM
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_07600	COG1664	Z	Cytoskeletal protein CcmA, bactofilin family	CcmA			2N3D
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_07610	COG2377	M	1,6-Anhydro-N-acetylmuramate kinase	AnmK		15901686	3CQY
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_07615	COG4942	D	Septal ring factor EnvC, activator of murein hydrolases AmiA and AmiB	EnvC			
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_07620	COG0162	J	Tyrosyl-tRNA synthetase	TyrS	Aminoacyl-tRNA synthetases		4OUD
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_07625	COG1357	S	Uncharacterized conserved protein YjbI, contains pentapeptide repeats	YjbI			2BM4
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_07645	COG0638	O	20S proteasome, alpha and beta subunits	PRE1			1FNT
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_07655	COG2308	R	Circularly permuted ATP-grasp protein			20023723	3N6X
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_07675	COG1357	S	Uncharacterized conserved protein YjbI, contains pentapeptide repeats	YjbI			2BM4
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_07695	COG1309	K	DNA-binding protein, AcrR family, includes nucleoid occlusion protein SlmA	AcrR			2QOP
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_07700	COG1600	J	Epoxyqueuosine reductase QueG (queuosine biosynthesis)	QueG	tRNA modification	2150253	5D08
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_07730	COG4221	C	NADP-dependent 3-hydroxy acid dehydrogenase YdfG	YdfG	Pyrimidine degradation		3P19
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_07745	COG0491	R	Glyoxylase or a related metal-dependent hydrolase, beta-lactamase superfamily II	GloB		25670698	1QH3
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_07750	COG1545	R	Uncharacterized OB-fold protein, contains Zn-ribbon domain				3IRB
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_07765	COG0623	I	Enoyl-[acyl-carrier-protein] reductase FabI	FabI	Fatty acid biosynthesis		1C14
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_07770	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_07775	COG1012	I	Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase	AdhE	Proline degradation		1A4S
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_07780	COG1023	G	6-phosphogluconate dehydrogenase (decarboxylating)	YqeC			4E21
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_07785	COG1846	K	DNA-binding transcriptional regulator, MarR family	MarR			1JGS
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_07790	COG3000	I	Sterol desaturase/sphingolipid hydroxylase, fatty acid hydroxylase superfamily	ERG3			4ZR0
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_07795	COG3000	I	Sterol desaturase/sphingolipid hydroxylase, fatty acid hydroxylase superfamily	ERG3			4ZR0
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_07805	COG4559	P	ABC-type hemin transport system, ATPase component				4G1U
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_07810	COG0842	V	ABC-type multidrug transport system, permease component	YadH			
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_07815	COG0780	J	NADPH-dependent 7-cyano-7-deazaguanine reductase QueF, C-terminal domain, T-fold superfamily	QueFC	tRNA modification	14660578;17384645	3BP1
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_07825	COG1209	M	dTDP-glucose pyrophosphorylase	RmlA1			1FXO
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_07835	COG1047	O	Peptidyl-prolyl cis-trans isomerase, FKBP type	SlpA			2M2A
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_07840	COG0315	H	Molybdenum cofactor biosynthesis enzyme MoaC	MoaC	Molybdopterin biosynthesis	32239579	1EKR
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_07845	COG1977	H	Molybdopterin synthase sulfur carrier subunit MoaD	MoaD	Molybdopterin biosynthesis	32239579	1FM0
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_07850	COG0314	H	Molybdopterin synthase catalytic subunit MoaE	MoaE	Molybdopterin biosynthesis	32239579	1FM0
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_07860	COG1051	F	ADP-ribose pyrophosphatase YjhB, NUDIX family	YjhB			3GZ5
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_07870	COG0450	V	Alkyl hydroperoxide reductase subunit AhpC (peroxiredoxin)	AhpC			2RII
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_07885	COG4964	UW	Flp pilus assembly protein, secretin CpaC	CpaC			
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_07890	COG3031	U	Type II secretory pathway, component PulC	PulC			2LNV
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_07895	COG0630	NU	Type IV secretory pathway ATPase VirB11/Archaellum biosynthesis ATPase ArlI/FlaI	VirB11		32416640	1G6O
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_07900	COG1459	NUW	Type II secretory pathway, component PulF	PulF			2VMA
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_07905	COG2165	NUW	Type II secretory pathway, pseudopilin PulG	PulG			1AY2
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_07915	COG2165	NUW	Type II secretory pathway, pseudopilin PulG	PulG			1AY2
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_07920	COG4795	U	Type II secretory pathway, PulJ/GspJ component	PulJ			
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_07930	COG3297	U	Type II secretory pathway, component PulL	PulL		11679764	2W7V
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_07935	COG3149	U	Type II secretory pathway, component PulM	PulM			1UV7
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_07940	COG1474	L	Cdc6-related protein, AAA superfamily ATPase	CDC6			1FNN
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_07955	COG1102	F	Cytidylate kinase	CmkB			
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_07960	COG4123	J	tRNA1(Val) A37 N6-methylase TrmN6	TrmN6	tRNA modification		
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_07965	COG0113	H	Delta-aminolevulinic acid dehydratase, porphobilinogen synthase	HemB	Heme biosynthesis		1I8J
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_07970	COG3591	O	V8-like Glu-specific endopeptidase	eMpr			
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_07975	COG2968	S	Uncharacterized conserved protein YggE, contains kinase-interacting SIMPL domain	YggE			4HVZ
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_07980	COG0421	E	Spermidine synthase (polyamine aminopropyltransferase)	SpeE			6BQ2
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_07985	COG0175	EH	3'-phosphoadenosine 5'-phosphosulfate sulfotransferase (PAPS reductase)/FAD synthetase or related enzyme	CysD	Cysteine biosynthesis		1ZUN
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_07990	COG0015	F	Adenylosuccinate lyase	PurB	Purine biosynthesis		2HVG
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_07995	COG0482	J	tRNA U34 2-thiouridine synthase MnmA/TrmU, contains the PP-loop ATPase domain	MnmA	tRNA modification	25825430	2HMA
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_08000	COG0494	V	8-oxo-dGTP pyrophosphatase MutT and related house-cleaning NTP pyrophosphohydrolases, NUDIX family	MutT			4V14
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_08005	COG0564	J	Pseudouridine synthase RluA, 23S rRNA- or tRNA-specific	RluA	23S rRNA modification		2I82
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_08010	COG0538	C	Isocitrate dehydrogenase	Icd	TCA cycle		1IDD
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_08015	COG1278	K	Cold shock protein, CspA family	CspC			1C9O
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_08020	COG2127	O	ATP-dependent Clp protease adapter protein ClpS	ClpS			1LZW
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_08025	COG0542	O	ATP-dependent Clp protease, ATP-binding subunit ClpA	ClpA			1KSF
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_08045	COG2360	O	Leu/Phe-tRNA-protein transferase	Aat			2CXA
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_08050	COG1249	C	Dihydrolipoamide dehydrogenase (E3) component of pyruvate/2-oxoglutarate dehydrogenase complex or glutathione oxidoreductase	Lpd	Glycine cleavagePyruvate oxidation		6QKG
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_08055	COG1674	D	DNA segregation ATPase FtsK/SpoIIIE or related protein	FtsK			2IUT
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_08065	COG2255	L	Holliday junction resolvasome RuvABC, ATP-dependent DNA helicase subunit RuvB	RuvB			1HQC
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_08075	COG0441	J	Threonyl-tRNA synthetase	ThrS	Aminoacyl-tRNA synthetases		1NYQ
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_08080	COG1010	H	Precorrin-3B methylase	CobJ	Cobalamine/B12 biosynthesis		2ZVB
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_08090	COG1251	C	NAD(P)H-nitrite reductase, large subunit	NirB			
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_08095	COG0793	O	C-terminal processing protease CtpA/Prc, contains a PDZ domain	CtpA			6IQU
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_08100	COG3030	R	FxsA protein affecting phage T7 exclusion by the F plasmid, UPF0716 family	FxsA			
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_08110	COG0459	O	Chaperonin GroEL (HSP60 family)	GroEL			1AON
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_08115	COG3748	S	Uncharacterized membrane protein				
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_08120	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_08125	COG1951	C	Tartrate dehydratase alpha subunit/Fumarate hydratase class I, N-terminal domain	TtdA	TCA cycle	15613473	5L2R
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_08145	COG2274	V	ABC-type bacteriocin/lantibiotic exporters, contain an N-terminal double-glycine peptidase domain	SunT			3K8U
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_08150	COG0787	M	Alanine racemase	Alr	Mureine biosynthesis		1BD0
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_08155	COG2334	T	Ser/Thr protein kinase RdoA involved in Cpx stress response, MazF antagonist	SrkA	Threonine biosynthesis		1ZYL
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_08170	COG4087	R	Soluble P-type ATPase				
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_08175	COG0147	EH	Anthranilate/para-aminobenzoate synthases component I	TrpE	Aromatic amino acid biosynthesis		1I1Q
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_08185	COG1038	C	Pyruvate carboxylase	PycA	Urea cycle		5VYW
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_08190	COG1884	I	Methylmalonyl-CoA mutase, N-terminal domain/subunit	Sbm			6OXC
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_08195	COG0003	P	Anion-transporting ATPase, ArsA/GET3 family	ArsA			1F48
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_08200	COG0784	T	CheY-like REC (receiver) domain, includes chemotaxis protein CheY  and sporulation regulator Spo0F	CheY			6QRJ
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_08205	COG1794	M	Amino acid racemase YgeA	RacX			5ELL
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_08210	COG0708	L	Exonuclease III	XthA			1AKO
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_08215	COG0057	G	Glyceraldehyde-3-phosphate dehydrogenase/erythrose-4-phosphate dehydrogenase	GapA	Glycolysis		3ZDF
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_08225	COG1805	C	Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrB	NqrB	Na+-translocating NADH dehydrogenase		4P6V
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_08230	COG4659	C	Na+-translocating ferredoxin:NAD+ oxidoreductase RNF, RnfG subunit	RnfG	Na+-translocating Fd:NADH oxidoreductase		
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_08235	COG2209	C	Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrE	NqrE	Na+-translocating NADH dehydrogenase		4P6V
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_08240	COG4660	C	Na+-translocating ferredoxin:NAD+ oxidoreductase  RNF, RnfE subunit	RnfE	Na+-translocating Fd:NADH oxidoreductase		
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_08245	COG4097	P	Predicted ferric reductase				
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_08250	COG1477	HO	FAD:protein FMN transferase ApbE	ApbE		23558683;30154099	1VRM
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_08260	COG1194	L	Adenine-specific DNA glycosylase, acts on AG and A-oxoG pairs	MutY			1KG2
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_08275	COG0556	L	Excinuclease UvrABC helicase subunit UvrB	UvrB			1C4O
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_08280	COG4206	H	Outer membrane cobalamin receptor protein BtuB	BtuB			1NQE
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_08295	COG4221	C	NADP-dependent 3-hydroxy acid dehydrogenase YdfG	YdfG	Pyrimidine degradation		3P19
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_08300	COG0326	O	Molecular chaperone, HSP90 family	HtpG		30150682	1Y4S
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_08305	COG1893	H	Ketopantoate reductase	PanE	Pantothenate/CoA biosynthesis		1BG6
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_08310	COG2062	T	Phosphohistidine phosphatase SixA	SixA			1UJB
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_08315	COG0596	HR	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold	MenH	Menaquinone biosynthesis		4MYS
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_08325	COG2716	E	Glycine cleavage system regulator GcvR	GcvR			1U8S
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_08335	COG0425	JHO	Sulfur carrier protein TusA (tRNA thiolation, molybdenum cofactor biosynthesis)	TusA		23894086	1DCJ
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_08350	COG0117	H	Riboflavin biosynthesis protein RibD, pyrimidine deaminase domain	RibD1	Riboflavin/FAD biosynthesis		2O7P
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_08355	COG0834	ET	ABC-type amino acid transport/signal transduction system, periplasmic component/domain	HisJ			1GGG
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_08360	COG0046	F	Phosphoribosylformylglycinamidine (FGAM) synthase, synthetase domain	PurL1	Purine biosynthesis		3VIU
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_08365	COG0341	U	Preprotein translocase subunit SecF	SecF		28830929	2FYH
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_08370	COG0342	U	Preprotein translocase subunit SecD	SecD		26100040	3AQP
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_08385	COG0526	O	Thiol-disulfide isomerase or thioredoxin	TrxA			1XFL
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_08395	COG0426	C	Flavorubredoxin	NorV			4JHC
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_08400	COG3308	S	Uncharacterized membrane protein				
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_08405	COG0607	P	Rhodanese-related sulfurtransferase	PspE	Urea cycle		1TQ1
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_08410	COG1121	P	ABC-type Mn2+/Zn2+ transport system, ATPase component	ZnuC			
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_08415	COG2257	U	Type III secretion system substrate exporter, FlhB-like	YlqH			
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_08425	COG0488	R	ATPase components of ABC transporters with duplicated ATPase domains	Uup			5ZXD
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_08445	COG2332	CO	Cytochrome c biogenesis protein CcmE	CcmE			1J6Q
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_08450	COG1138	CO	Cytochrome c biogenesis protein CcmF	CcmF			
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_08455	COG0526	O	Thiol-disulfide isomerase or thioredoxin	TrxA			1XFL
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_08465	COG4235	CO	Cytochrome c-type biogenesis protein CcmH/NrfG	NrfG			
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_08470	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_08480	COG0272	L	NAD-dependent DNA ligase	Lig			5TT5
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_08500	COG0577	V	ABC-type antimicrobial peptide transport system, permease component	SalY			
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_08505	COG4559	P	ABC-type hemin transport system, ATPase component				4G1U
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_08510	COG0577	V	ABC-type antimicrobial peptide transport system, permease component	SalY			
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_08520	COG1861	M	Spore coat polysaccharide biosynthesis protein SpsF, cytidylyltransferase family	SpsF			
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_08540	COG3848	T	Phosphohistidine swiveling domain of PEP-utilizing enzymes	PykA2			2E28
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_08550	COG2030	I	Acyl-CoA dehydratase PaaZ	MaoC			5ZY8
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_08555	COG4964	UW	Flp pilus assembly protein, secretin CpaC	CpaC			
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_08565	COG0477	GEPR	MFS family permease, includes anhydromuropeptide permease AmpG	ProP		12426329	
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_08570	COG0082	E	Chorismate synthase	AroC	Aromatic amino acid biosynthesis		1Q1L
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_08575	COG4123	J	tRNA1(Val) A37 N6-methylase TrmN6	TrmN6	tRNA modification		
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_08580	COG3203	M	Outer membrane porin OmpC/OmpF/PhoE	OmpC			1PHO
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_08585	COG1283	P	Na+/phosphate symporter	NptA			
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_08590	COG4555	CP	ABC-type Na+ transport system, ATPase component NatA	NatA			
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_08595	COG4149	P	ABC-type molybdate transport system, permease component ModB	ModB	Molybdopterin biosynthesis		
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_08600	COG0555	P	ABC-type sulfate transport system, permease component	CysU			3D31
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_08605	COG0226	P	ABC-type phosphate transport system, periplasmic component	PstS			2Q9T
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_08610	COG5000	T	Signal transduction histidine kinase NtrY involved in nitrogen fixation and metabolism regulation	NtrY			
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_08635	COG2197	TK	DNA-binding response regulator, NarL/FixJ family, contains REC and HTH domains	CitB			1A04
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_08640	COG0469	G	Pyruvate kinase	PykF	Glycolysis		6QXL
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_08645	COG0800	G	2-keto-3-deoxy-6-phosphogluconate aldolase	Eda	Entner-Doudoroff pathway		2V81
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_08650	COG0364	G	Glucose-6-phosphate 1-dehydrogenase	Zwf	Pentose phosphate pathway	18950999	5B7W
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_08655	COG0363	G	6-phosphogluconolactonase/Glucosamine-6-phosphate isomerase/deaminase	NagB	Pentose phosphate pathway	24163345	2RI0
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_08660	COG0129	EG	Dihydroxyacid dehydratase/phosphogluconate dehydratase	IlvD	Isoleucine, leucine, valine biosynthesis		2GP4
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_08670	COG0738	G	Fucose permease	FucP			3O7P
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_08675	COG0050	J	Translation elongation factor EF-Tu, a GTPase	TufA	Translation factors		1EFU
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_08685	COG0690	U	Preprotein translocase subunit SecE	SecE		29684280	5MG3
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_08695	COG0080	J	Ribosomal protein L11	RplK	Ribosome 50S subunit		2E34
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_08700	COG0081	J	Ribosomal protein L1	RplA	Ribosome 50S subunit		3J65
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_08720	COG0086	K	DNA-directed RNA polymerase, beta' subunit/160 kD subunit	RpoC	RNA polymerase		1NT9
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_08725	COG1210	M	UTP-glucose-1-phosphate uridylyltransferase	GalU			2E3D
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_08730	COG1898	M	dTDP-4-dehydrorhamnose 3,5-epimerase or related enzyme	RfbC			1DZR
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_08735	COG0451	M	Nucleoside-diphosphate-sugar epimerase	WcaG			2X4G
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_08740	COG1089	M	GDP-D-mannose dehydratase	Gmd			1DB3
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_08755	COG1215	N	Glycosyltransferase, catalytic subunit of cellulose synthase and poly-beta-1,6-N-acetylglucosamine synthase	BcsA			4HG6
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_08770	COG0438	M	Glycosyltransferase involved in cell wall bisynthesis	RfaB			2IV7
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_08785	COG1216	G	Glycosyltransferase, GT2 family	WcaE			2Z86
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_08795	COG1596	M	Periplasmic protein Wza involved in polysaccharide export, contains SLBB domain of the beta-grasp fold	Wza		17250770	2J58
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_08800	COG0842	V	ABC-type multidrug transport system, permease component	YadH			
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_08805	COG1122	PR	Energy-coupling factor transporter ATP-binding protein EcfA2	EcfA2			4HUQ
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_08810	COG3206	M	Exopolysaccharide export protein/domain GumC/Wzc1	GumC		15003255;23089617	
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_08815	COG3774	M	Mannosyltransferase OCH1 or related enzyme	OCH1			
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_08830	COG3321	Q	Acyl transferase domain in polyketide synthase (PKS) enzymes	PksD			6IYO
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_08835	COG0520	E	Selenocysteine lyase/Cysteine desulfurase	CsdA			4LW2
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_08840	COG0223	J	Methionyl-tRNA formyltransferase	Fmt			1FMT
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_08845	COG4221	C	NADP-dependent 3-hydroxy acid dehydrogenase YdfG	YdfG	Pyrimidine degradation		3P19
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_08850	COG3563	M	Capsule polysaccharide export protein KpsC/LpsZ	KpsC			5FA0
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_08860	COG0044	F	Dihydroorotase or related cyclic amidohydrolase	AllB	Pyrimidine biosynthesis		1J79
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_08865	COG0048	J	Ribosomal protein S12	RpsL	Ribosome 30S subunit		4V4H
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_08870	COG0049	J	Ribosomal protein S7	RpsG	Ribosome 30S subunit		4V4H
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_08875	COG5256	J	Translation elongation factor EF-1alpha (GTPase)	TEF1	Translation factors		1F60
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_08880	COG0050	J	Translation elongation factor EF-Tu, a GTPase	TufA	Translation factors		1EFU
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_08910	COG0322	L	Excinuclease UvrABC, nuclease subunit	UvrC		24513124	2NRT
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_08915	COG0784	T	CheY-like REC (receiver) domain, includes chemotaxis protein CheY  and sporulation regulator Spo0F	CheY			6QRJ
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_08920	COG0024	J	Methionine aminopeptidase	Map			3J2I
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_08925	COG2844	OT	UTP:GlnB (protein PII) uridylyltransferase	GlnD			
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_08930	COG1168	ER	Bifunctional PLP-dependent enzyme with beta-cystathionase and maltose regulon repressor activities	MalY			4DGT
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_08935	COG0528	F	Uridylate kinase	PyrH	Pyrimidine biosynthesis		2BND
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_08940	COG1551	T	sRNA-binding carbon storage regulator CsrA	CsrA			1T3O
+Cellvibrionales_bacterium_MED776	GCA_002704615.1	MMJHCJ_08945	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ

@@ -1,0 +1,997 @@
+#prefix	assemid	query	COG	category	name	Gene	pathway	pmid	pdb_id
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_00005	COG1180	O	Pyruvate-formate lyase-activating enzyme	PflA			3CAN
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_00010	COG4105	M	Outer membrane protein assembly factor BamD, BamD/ComL family	BamD			2YHC
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_00015	COG1360	N	Flagellar motor protein MotB	MotB			
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_00020	COG1506	E	Dipeptidyl aminopeptidase/acylaminoacyl peptidase	DAP2			2JBW
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_00025	COG3064	M	Membrane protein TolA involved in colicin uptake	TolA			1S62
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_00035	COG0591	E	Na+/proline symporter	PutP			5NVA
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_00040	COG0477	GEPR	MFS family permease, includes anhydromuropeptide permease AmpG	ProP		12426329	
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_00045	COG0441	J	Threonyl-tRNA synthetase	ThrS	Aminoacyl-tRNA synthetases		1NYQ
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_00050	COG0459	O	Chaperonin GroEL (HSP60 family)	GroEL			1AON
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_00060	COG1049	C	Aconitase B	AcnB	TCA cycle		1L5J
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_00070	COG0517	T	CBS domain	CBS			1B3O
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_00075	COG1038	C	Pyruvate carboxylase	PycA	Urea cycle		5VYW
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_00080	COG0439	I	Biotin carboxylase	AccC	Fatty acid biosynthesis		1BNC
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_00085	COG3897	O	Protein N-terminal and lysine N-methylase, NNT1/EFM7 family	Nnt1		23349634;26545399	3BZB
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_00095	COG1021	Q	EntE, 2,3-dihydroxybenzoate-AMP synthase component of non-ribosomal peptide synthetase	EntE			3RG2
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_00100	COG2423	E	Ornithine cyclodeaminase/archaeal alanine dehydrogenase, mu-crystallin family	OCDMu	Proline biosynthesis		2I99
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_00105	COG0560	E	Phosphoserine phosphatase	SerB	Serine biosynthesis		3N28
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_00115	COG0111	H	Phosphoglycerate dehydrogenase or related dehydrogenase	SerA	Serine biosynthesis		3OET
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_00120	COG0008	J	Glutamyl- or glutaminyl-tRNA synthetase	GlnS	Heme biosynthesis		1EUQ
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_00125	COG2901	K	DNA-binding protein Fis (factor for inversion stimulation)	Fis			1ETK
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_00130	COG0138	F	AICAR transformylase/IMP cyclohydrolase PurH	PurH	Purine biosynthesis		1G8M
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_00135	COG0151	F	Phosphoribosylamine-glycine ligase	PurD	Purine biosynthesis		1GSO
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_00140	COG3455	U	Type VI protein secretion system component TssL/VasF/DotU	DotU		25471186	3U66
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_00150	COG4964	UW	Flp pilus assembly protein, secretin CpaC	CpaC			
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_00155	COG3359	R	Uncharacterized conserved protein YprB, contains RNaseH-like and TPR domains	YprB			
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_00160	COG0328	L	Ribonuclease HI	RnhA			1LAW
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_00175	COG2067	I	Long-chain fatty acid transport protein	FadL			1T16
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_00190	COG0493	ER	NADPH-dependent glutamate synthase beta chain or related oxidoreductase	GltD	Glutamine biosynthesis		1H7X
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_00195	COG0407	H	Uroporphyrinogen-III decarboxylase HemE	HemE	Heme biosynthesis		2DG5
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_00205	COG0812	M	UDP-N-acetylenolpyruvoylglucosamine reductase	MurB	Mureine biosynthesis		2MBR
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_00210	COG2827	L	Predicted endonuclease, GIY-YIG superfamily	YhbQ			1YWL
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_00215	COG0841	V	Multidrug efflux pump subunit AcrB	AcrB			1IWG
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_00220	COG1566	V	Multidrug resistance efflux pump EmrA	EmrA			4TKO
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_00235	COG0717	F	dCTP deaminase	Dcd	Thymidylate biosynthesis		1XS1
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_00240	COG0455	DN	MinD-like ATPase FlhG/YlxH, activator of the FlhF-type GTPase	FlhG			1G3Q
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_00245	COG0143	J	Methionyl-tRNA synthetase	MetG	Aminoacyl-tRNA synthetases		1A8H
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_00250	COG1149	R	MinD superfamily P-loop ATPase, contains an inserted ferredoxin domain				
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_00255	COG2231	L	3-Methyladenine DNA glycosylase, HhH-GPD/Endo3 superfamily	HP0602		14517230;20410075	1PU6
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_00285	COG1485	D	Cell division protein ZapE (Z ring-associated ATPase), AFG1 superfamily	ZapE			
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_00290	COG3249	S	Uncharacterized conserved protein, DUF2066 domain				
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_00295	COG0309	O	Carbamoyl dehydratase HypE (hydrogenase maturation factor)	HypE		28618091	2I6R
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_00300	COG0223	J	Methionyl-tRNA formyltransferase	Fmt			1FMT
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_00310	COG0266	L	Formamidopyrimidine-DNA glycosylase	Nei			1EE8
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_00320	COG1143	C	Formate hydrogenlyase subunit 6/NADH:ubiquinone oxidoreductase 23 kD subunit (chain I)	NuoI	NADH dehydrogenase		1B0P
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_00325	COG1057	H	Nicotinate-nucleotide adenylyltransferase NadD	NadD	NAD biosynthesis		1YUM
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_00330	COG0801	H	7,8-dihydro-6-hydroxymethylpterin pyrophosphokinase (folate biosynthesis)	FolK	Folate biosynthesis		1CBK
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_00335	COG0617	J	tRNA nucleotidyltransferase/poly(A) polymerase	PcnB	tRNA modification		3WFR
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_00340	COG2226	H	Ubiquinone/menaquinone biosynthesis C-methylase UbiE/MenG	UbiE	Biotin biosynthesis		4OBW
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_00345	COG2333	U	DNA uptake channel protein ComEC C-terminal domain, metallo-beta-lactamase superfamily	ComEC			
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_00350	COG1388	M	LysM repeat	LysM			1E0G
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_00355	COG0190	H	5,10-methylene-tetrahydrofolate dehydrogenase/Methenyl tetrahydrofolate cyclohydrolase	FolD			1A4I
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_00360	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_00365	COG2271	G	Sugar phosphate permease	UhpC			1PW4
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_00370	COG0326	O	Molecular chaperone, HSP90 family	HtpG		30150682	1Y4S
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_00405	COG1200	L	RecG-like helicase	RecG			1GM5
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_00410	COG0317	TK	(p)ppGpp synthase/hydrolase, HD superfamily	SpoT			1TDJ
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_00415	COG1758	K	DNA-directed RNA polymerase, subunit K/omega	RpoZ	RNA polymerase		3LU0
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_00420	COG3709	G	Ribose 1,5-bisphosphate kinase PhnN	PhnN			
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_00430	COG2123	U	Exosome complex RNA-binding protein Rrp42, RNase PH superfamily	Rrp42		23319881	4IFD
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_00435	COG3568	R	Metal-dependent hydrolase, endonuclease/exonuclease/phosphatase family	ElsH		15178340	
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_00440	COG0859	M	ADP-heptose:LPS heptosyltransferase	RfaF			1PSW
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_00445	COG0856	F	Orotate phosphoribosyltransferase homolog	PyrE2			
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_00450	COG3221	P	ABC-type phosphate/phosphonate transport system, periplasmic component	PhnD			3S4U
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_00460	COG0498	E	Threonine synthase	ThrC	Threonine biosynthesis		1VB3
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_00470	COG0033	G	Phosphoglucomutase/phosphomannomutase	Pgm		30938049	1C47
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_00475	COG0717	F	dCTP deaminase	Dcd	Thymidylate biosynthesis		1XS1
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_00480	COG0227	J	Ribosomal protein L28	RpmB	Ribosome 50S subunit		2JZ6
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_00485	COG0267	J	Ribosomal protein L33	RpmG	Ribosome 50S subunit		1VS6
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_00490	COG1055	P	Na+/H+ antiporter NhaD or related arsenite permease	ArsB			
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_00495	COG1123	O	ABC-type glutathione transport system ATPase component, contains duplicated ATPase domain	GsiA			
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_00500	COG0738	G	Fucose permease	FucP			3O7P
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_00525	COG3960	Q	Glyoxylate carboligase	Gcl			
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_00560	COG1039	L	Ribonuclease HIII	RnhC			2D0A
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_00570	COG0321	H	Lipoate-protein ligase B	LipB	Lipoate biosynthesis	19798051	2QHT
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_00575	COG1190	J	Lysyl-tRNA synthetase (class II)	LysU	Aminoacyl-tRNA synthetases		1BBU
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_00590	COG4667	I	Predicted phospholipase, patatin/cPLA2 family	YjjU			
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_00605	COG4942	D	Septal ring factor EnvC, activator of murein hydrolases AmiA and AmiB	EnvC			
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_00610	COG0780	J	NADPH-dependent 7-cyano-7-deazaguanine reductase QueF, C-terminal domain, T-fold superfamily	QueFC	tRNA modification	14660578;17384645	3BP1
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_00640	COG0327	H	Putative GTP cyclohydrolase 1 type 2, NIF3 family	NIF3	Folate biosynthesis	24435797;26385509	3SY1
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_00645	COG0128	E	5-enolpyruvylshikimate-3-phosphate synthase	AroA	Aromatic amino acid biosynthesis		4N3P
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_00650	COG0517	T	CBS domain	CBS			1B3O
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_00655	COG0560	E	Phosphoserine phosphatase	SerB	Serine biosynthesis		3N28
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_00660	COG3117	M	Lipopolysaccharide export system protein LptC	YrbK			3MY2
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_00665	COG3845	F	ABC-type guanosine uptake system NupNOPQ, ATPase component NupO	NupO		21926227	
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_00670	COG1544	J	Ribosome-associated translation inhibitor RaiA	RaiA			1IMU
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_00675	COG1762	GT	Phosphotransferase system mannitol/fructose-specific IIA domain (Ntr-type)	PtsN			2OQ3
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_00685	COG3642	J	tRNA A-37 threonylcarbamoyl transferase component Bud32	Bud32	tRNA modification		2VWB
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_00690	COG0564	J	Pseudouridine synthase RluA, 23S rRNA- or tRNA-specific	RluA	23S rRNA modification		2I82
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_00695	COG1386	K	Chromosome segregation and condensation protein ScpB	ScpB			1T6S
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_00705	COG0009	J	tRNA A37 threonylcarbamoyladenosine synthetase subunit TsaC/SUA5/YrdC	TsaC	tRNA modification		1HRU
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_00710	COG2917	D	Intracellular septation protein A	YciB			
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_00715	COG2350	QR	YciI superfamily enzyme, includes 5-CHQ dehydrochlorinase, contains active-site pHis	YciI		15779043;23955343	1MWQ
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_00730	COG0175	EH	3'-phosphoadenosine 5'-phosphosulfate sulfotransferase (PAPS reductase)/FAD synthetase or related enzyme	CysD	Cysteine biosynthesis		1ZUN
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_00735	COG0596	HR	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold	MenH	Menaquinone biosynthesis		4MYS
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_00760	COG1122	PR	Energy-coupling factor transporter ATP-binding protein EcfA2	EcfA2			4HUQ
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_00770	COG0488	R	ATPase components of ABC transporters with duplicated ATPase domains	Uup			5ZXD
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_00785	COG1225	O	Peroxiredoxin	Bcp			5IPH
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_00795	COG0738	G	Fucose permease	FucP			3O7P
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_00805	COG0646	E	Methionine synthase I (cobalamin-dependent), methyltransferase domain	MetH1	Methionine biosynthesis		1LT7
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_00810	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_00830	COG5522	S	Uncharacterized membrane protein YwaF	YwaF			
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_00840	COG0477	GEPR	MFS family permease, includes anhydromuropeptide permease AmpG	ProP		12426329	
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_00845	COG0042	J	tRNA-dihydrouridine synthase	DusA	tRNA modification		1VHN
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_00850	COG0449	M	Glucosamine 6-phosphate synthetase, contains amidotransferase and phosphosugar isomerase domains	GlmS			2J6H
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_00855	COG1286	FM	Colicin V production accessory protein CvpA, regulator of purF expression and biofilm formation	CvpA		27795353	
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_00860	COG3147	D	Cell division protein DedD (periplasmic protein involved in septation)	DedD			
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_00865	COG0769	M	UDP-N-acetylmuramyl tripeptide synthase	MurE	Mureine biosynthesis		1E8C
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_00870	COG4799	I	Acetyl-CoA carboxylase, carboxyltransferase component	MmdA			1OD2
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_00875	COG0101	J	tRNA U38,U39,U40 pseudouridine synthase TruA	TruA	tRNA modification		1DJ0
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_00885	COG2813	J	16S rRNA G1207 methylase RsmC	RsmC	16S rRNA modification		1DUS
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_00890	COG2357	FT	ppGpp synthetase catalytic domain (RelA/SpoT-type nucleotidyltranferase)	YjbM			5F2V
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_00895	COG0442	J	Prolyl-tRNA synthetase	ProS	Aminoacyl-tRNA synthetases		5XIF
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_00915	COG0473	CE	Isocitrate/isopropylmalate dehydrogenase	LeuB	TCA cycle		1GC9
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_00925	COG0336	J	tRNA G37 N-methylase TrmD	TrmD	tRNA modification		1P9P
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_00930	COG0793	O	C-terminal processing protease CtpA/Prc, contains a PDZ domain	CtpA			6IQU
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_00935	COG0253	E	Diaminopimelate epimerase	DapF	Lysine biosynthesis		1BWZ
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_00945	COG2814	G	Predicted arabinose efflux permease AraJ, MFS family	AraJ			4LDS
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_00960	COG2154	H	Pterin-4a-carbinolamine dehydratase	PhhB			1DCH
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_00965	COG0793	O	C-terminal processing protease CtpA/Prc, contains a PDZ domain	CtpA			6IQU
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_00970	COG1496	P	Copper oxidase (laccase) domain	YfiH			1RV9
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_00975	COG1187	J	Pseudouridylate synthase RsuA, specific for 16S rRNA U516  and 23S rRNA U2605	RsuA	16S rRNA modification		1KSK
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_00980	COG1729	D	Cell division protein CpoB, coordinates peptidoglycan biosynthesis and outer membrane constriction	CpoB		25951518	2WZ7
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_00995	COG1606	R	ATP-utilizing enzyme, PP-loop superfamily				6B2O
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_01000	COG3737	S	Uncharacterized protein, contains Mth938-like domain				
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_01010	COG0238	J	Ribosomal protein S18	RpsR	Ribosome 30S subunit		4V4H
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_01020	COG0359	J	Ribosomal protein L9	RplI	Ribosome 50S subunit	27112601	1VS6
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_01025	COG0305	L	Replicative DNA helicase	DnaB			1B79
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_01030	COG0787	M	Alanine racemase	Alr	Mureine biosynthesis		1BD0
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_01075	COG3451	U	Type IV secretory pathway, VirB4 component	VirB4			
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_01090	COG3704	U	Type IV secretory pathway, VirB6 component	VirB6			
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_01095	COG3736	U	Type IV secretory pathway, component VirB8	VirB8			2BHM
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_01100	COG3504	U	Type IV secretory pathway, VirB9 components	VirB9			
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_01110	COG2804	NUW	Type II secretory pathway ATPase GspE/PulE or T4P pilus assembly pathway ATPase PilB	PulE			4KSR
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_01115	COG3961	GHR	TPP-dependent 2-oxoacid decarboxylase, includes indolepyruvate decarboxylase	PDC1	Pyruvate oxidation		1PYD
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_01125	COG5422
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_01145	COG1538	M	Outer membrane protein TolC	TolC			1EK9
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_01150	COG0841	V	Multidrug efflux pump subunit AcrB	AcrB			1IWG
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_01155	COG0596	HR	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold	MenH	Menaquinone biosynthesis		4MYS
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_01165	COG2814	G	Predicted arabinose efflux permease AraJ, MFS family	AraJ			4LDS
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_01170	COG2887	L	RecB family exonuclease	Slr0479			
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_01175	COG3893	L	Inactivated superfamily I helicase				
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_01200	COG5524	CT	Bacteriorhodopsin				
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_01210	COG0223	J	Methionyl-tRNA formyltransferase	Fmt			1FMT
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_01225	COG1021	Q	EntE, 2,3-dihydroxybenzoate-AMP synthase component of non-ribosomal peptide synthetase	EntE			3RG2
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_01230	COG1055	P	Na+/H+ antiporter NhaD or related arsenite permease	ArsB			
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_01235	COG1514	J	RNA 2',3'-cyclic phosphodiesterase (2'-5' RNA ligase)	ThpR		25239919	1IUH
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_01245	COG1705	MN	Flagellum-specific peptidoglycan hydrolase FlgJ	FlgJ			2ZYC
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_01255	COG0324	J	tRNA A37 N6-isopentenylltransferase MiaA	MiaA	tRNA modification		2ZM5
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_01265	COG4517	S	Uncharacterized conserved protein, DUF1820 domain				
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_01270	COG3264	M	Small-conductance mechanosensitive channel MscK	MscK			
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_01275	COG2065	F	Pyrimidine operon attenuation protein PyrR/uracil phosphoribosyltransferase	PyrR	Pyrimidine salvage		1A3C
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_01285	COG2814	G	Predicted arabinose efflux permease AraJ, MFS family	AraJ			4LDS
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_01295	COG1243	J	tRNA U34 5-carboxymethylaminomethylation enzyme Elp3 (RNA elongator complex protein 3), contains radical SAM and acetyltransferase domains	ELP3		25151136;27455459	6IA8
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_01305	COG0494	V	8-oxo-dGTP pyrophosphatase MutT and related house-cleaning NTP pyrophosphohydrolases, NUDIX family	MutT			4V14
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_01310	COG0483	G	Archaeal fructose-1,6-bisphosphatase or related enzyme, inositol monophosphatase family	SuhB	Gluconeogenesis		1AWB
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_01345	COG0450	V	Alkyl hydroperoxide reductase subunit AhpC (peroxiredoxin)	AhpC			2RII
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_01350	COG0457	R	Tetratricopeptide (TPR) repeat	TPR			3AS4
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_01355	COG0457	R	Tetratricopeptide (TPR) repeat	TPR			3AS4
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_01360	COG1426	D	Cytoskeletal protein RodZ, contains Xre-like HTH and DUF4115 domains	RodZ			3FYM
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_01365	COG0124	J	Histidyl-tRNA synthetase	HisS	Aminoacyl-tRNA synthetases		1KMM
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_01370	COG4649	S	TPR-like repeat domain	TPR1			
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_01425	COG2818	L	3-methyladenine DNA glycosylase Tag	Tag			1LMZ
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_01430	COG0300	R	Short-chain dehydrogenase	YqjQ			
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_01435	COG0642	T	Signal transduction histidine kinase	BaeS			1JOY
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_01475	COG0010	E	Arginase/agmatinase family enzyme	SpeB	Urea cycle		1CEV
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_01480	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_01485	COG2176	L	DNA polymerase III, alpha subunit (gram-positive type)	PolC			
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_01495	COG0004	P	Ammonia channel protein AmtB	AmtB			1U77
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_01500	COG3968	E	Glutamine synthetase type III	GlnA3			
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_01505	COG1409	T	3',5'-cyclic AMP phosphodiesterase CpdA	CpdA			2ZO9
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_01510	COG0215	J	Cysteinyl-tRNA synthetase	CysS	Aminoacyl-tRNA synthetases		1LI5
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_01515	COG4232	O	Thiol:disulfide interchange protein DsbD	DsbD			1JPE
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_01520	COG2268	S	Uncharacterized membrane protein YqiK, contains Band7/PHB/SPFH domain	YqiK			1WIN
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_01545	COG0438	M	Glycosyltransferase involved in cell wall bisynthesis	RfaB			2IV7
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_01550	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_01555	COG0420	L	DNA repair exonuclease SbcCD nuclease subunit	SbcD			6S85
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_01565	COG1204	L	Replicative superfamily II helicase	BRR2			2VA8
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_01640	COG1057	H	Nicotinate-nucleotide adenylyltransferase NadD	NadD	NAD biosynthesis		1YUM
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_01670	COG2236	H	Hypoxanthine phosphoribosyltransferase	Hpt1	Purine salvage		2JKZ
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_01695	COG2029	S	Uncharacterized conserved protein, DUF366 domain				2DDZ
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_01750	COG3621	R	Patatin-like phospholipase/acyl hydrolase, includes sporulation protein CotR	PATA			1OXW
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_01770	COG4318	S	Uncharacterized conserved protein				2HWJ
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_01785	COG2271	G	Sugar phosphate permease	UhpC			1PW4
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_01790	COG2812	L	DNA polymerase III, gamma/tau subunits	DnaX			1A5T
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_01800	COG1004	M	UDP-glucose 6-dehydrogenase	Ugd			1DLI
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_01805	COG0379	H	Quinolinate synthase	NadA	NAD biosynthesis	24498065	4HHE
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_01810	COG0157	H	Nicotinate-nucleotide pyrophosphorylase	NadC	NAD biosynthesis		1O4U
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_01815	COG1252	C	NADH dehydrogenase, FAD-containing subunit	Ndh			5NA4
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_01835	COG0707	M	UDP-N-acetylglucosamine:LPS N-acetylglucosamine transferase	MurG	Mureine biosynthesis		1F0K
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_01840	COG0034	F	Glutamine phosphoribosylpyrophosphate amidotransferase	PurF	Purine biosynthesis		1ECB
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_01855	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_01860	COG0534	V	Na+-driven multidrug efflux pump, DinF/NorM/MATE family	NorM		29915058	3VVN
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_01865	COG0436	E	Aspartate/methionine/tyrosine aminotransferase	AspB	Isoleucine, leucine, valine biosynthesis		2O0R
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_01870	COG0110	R	Acetyltransferase, isoleucine patch superfamily	WbbJ			
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_01880	COG1089	M	GDP-D-mannose dehydratase	Gmd			1DB3
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_01885	COG0448	G	Glucose-1-phosphate adenylyltransferase (ADP-glucose pyrophosphorylase)	GlgC		27545622	5MNI
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_01895	COG1089	M	GDP-D-mannose dehydratase	Gmd			1DB3
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_01900	COG0250	K	Transcription termination/antitermination protein NusG	NusG		19500594	3EWG
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_01905	COG3206	M	Exopolysaccharide export protein/domain GumC/Wzc1	GumC		15003255;23089617	
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_01910	COG0436	E	Aspartate/methionine/tyrosine aminotransferase	AspB	Isoleucine, leucine, valine biosynthesis		2O0R
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_01915	COG0165	E	Argininosuccinate lyase	ArgH	Arginine biosynthesis		1AOS
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_01920	COG0424	Q	7-methyl-GTP pyrophosphatase and related NTP pyrophosphatases, Maf/HAM1 superfamily	Maf		24210219	2P5X
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_01925	COG0239	DP	Fluoride ion exporter CrcB/FEX, affects chromosome condensation	CrcB			5A40
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_01945	COG0515	T	Serine/threonine protein kinase	SPS1			6G4J
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_01950	COG2176	L	DNA polymerase III, alpha subunit (gram-positive type)	PolC			
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_01955	COG0026	F	Phosphoribosylaminoimidazole carboxylase (NCAIR synthetase)	PurK	Purine biosynthesis		1B6R
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_01960	COG1039	L	Ribonuclease HIII	RnhC			2D0A
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_01965	COG1748	E	Saccharopine dehydrogenase, NADP-dependent	Lys9	Lysine biosynthesis		1E5L
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_01975	COG1428	F	Deoxyadenosine/deoxycytidine kinase	Dck			1J90
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_01980	COG1040	R	DNA utilization protein ComFC/GntX, contains phosphoribosyltransferase domain	ComFC		28618091	
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_02010	COG0173	J	Aspartyl-tRNA synthetase	AspS	Aminoacyl-tRNA synthetases		1C0A
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_02015	COG0850	D	Septum site-determining protein MinC	MinC			1HF2
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_02020	COG1149	R	MinD superfamily P-loop ATPase, contains an inserted ferredoxin domain				
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_02025	COG0851	D	Septum formation topological specificity factor MinE	MinE			1EV0
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_02030	COG0697	GER	Permease of the drug/metabolite transporter (DMT) superfamily	RhaT			5I20
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_02035	COG1289	S	Uncharacterized membrane protein YccC	YccC			
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_02050	COG5522	S	Uncharacterized membrane protein YwaF	YwaF			
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_02060	COG3156	U	Type II secretory pathway, component PulK	PulK			5VTM
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_02065	COG4795	U	Type II secretory pathway, PulJ/GspJ component	PulJ			
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_02070	COG4795	U	Type II secretory pathway, PulJ/GspJ component	PulJ			
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_02075	COG2271	G	Sugar phosphate permease	UhpC			1PW4
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_02080	COG0842	V	ABC-type multidrug transport system, permease component	YadH			
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_02085	COG1134	G	ABC-type polysaccharide/polyol phosphate transport system, ATPase component	TagH			6JBH
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_02100	COG0821	I	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase IspG/GcpE	IspG	Isoprenoid biosynthesis		2Y0F
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_02110	COG1663	M	Tetraacyldisaccharide-1-P 4'-kinase (Lipid A 4'-kinase)	LpxK	Lipid A biosynthesis		4EHW
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_02115	COG0410	E	ABC-type branched-chain amino acid transport system, ATPase component LivF	LivF		26527648;32250026	1JI0
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_02120	COG3977	E	Alanine-alpha-ketoisovalerate (or valine-pyruvate) aminotransferase	AvtA			3G7Q
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_02125	COG2333	U	DNA uptake channel protein ComEC C-terminal domain, metallo-beta-lactamase superfamily	ComEC			
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_02135	COG0539	J	Ribosomal protein S1	RpsA	Ribosome 30S subunit		4NNH
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_02145	COG0372	C	Citrate synthase	GltA	TCA cycle	25211225	3TQG
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_02150	COG2771	K	DNA-binding transcriptional regulator, CsgD family	CsgD			
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_02155	COG1396	K	Transcriptional regulator, contains XRE-family HTH domain	HipB			1ADR
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_02165	COG3642	J	tRNA A-37 threonylcarbamoyl transferase component Bud32	Bud32	tRNA modification		2VWB
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_02170	COG1042	C	Acyl-CoA synthetase (NDP forming)	PatZN		26251518	4YAK
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_02175	COG0045	C	Succinyl-CoA synthetase, beta subunit	SucC	TCA cycle		1SCU
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_02180	COG0508	C	Pyruvate/2-oxoglutarate dehydrogenase complex, dihydrolipoamide acyltransferase (E2) component	AceF	Pyruvate oxidation		1B5S
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_02185	COG0567	C	2-oxoglutarate dehydrogenase complex, dehydrogenase (E1) component, and related enzymes	SucA	TCA cycle		2JGD
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_02190	COG1150	C	Heterodisulfide reductase, subunit C	HdrC			5ODC
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_02195	COG1053	C	Succinate dehydrogenase/fumarate reductase, flavoprotein subunit	SdhA	TCA cycle		1KF6
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_02215	COG0566	J	tRNA G18 (ribose-2'-O)-methylase SpoU	SpoU	tRNA modification		1GZ0
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_02220	COG2050	Q	Acyl-CoA thioesterase PaaI, contains HGG motif	PaaI			1PSU
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_02245	COG1105	G	1-phosphofructokinase or 6-phosphofructokinase II	FruK			2ABQ
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_02250	COG1087	M	UDP-glucose 4-epimerase	GalE			1A9Y
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_02255	COG0126	G	3-phosphoglycerate kinase	Pgk	Glycolysis		13PK
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_02260	COG0469	G	Pyruvate kinase	PykF	Glycolysis		6QXL
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_02275	COG1539	H	Dihydroneopterin aldolase	FolB	Folate biosynthesis		1B9L
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_02285	COG0253	E	Diaminopimelate epimerase	DapF	Lysine biosynthesis		1BWZ
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_02290	COG3137	M	Putative salt-induced outer membrane protein YdiY	YdiY			
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_02300	COG3509	G	Acetyl xylan esterase AxeA and related esterases, LpqC family	LpqC		9291122	2D80
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_02305	COG1209	M	dTDP-glucose pyrophosphorylase	RmlA1			1FXO
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_02310	COG2334	T	Ser/Thr protein kinase RdoA involved in Cpx stress response, MazF antagonist	SrkA	Threonine biosynthesis		1ZYL
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_02320	COG0760	O	Peptidyl-prolyl isomerase, parvulin family	SurA			2ZR5
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_02325	COG1565	R	SAM-dependent methyltransferase, MidA family	MidA			1ZKD
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_02330	COG0589	T	Nucleotide-binding universal stress protein,  UspA family	UspA			1JMV
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_02335	COG0740	O	ATP-dependent protease ClpP, protease subunit	ClpP			1TG6
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_02340	COG1409	T	3',5'-cyclic AMP phosphodiesterase CpdA	CpdA			2ZO9
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_02350	COG0241	E	Histidinol phosphatase/D-glycero-mannoheptose bisphosphatephosphatase, HAD superfamily	HisB1/GmhB	Histidine biosynthesis	20050615;20050614	2GMW
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_02355	COG0299	F	Folate-dependent phosphoribosylglycinamide formyltransferase PurN	PurN	Purine biosynthesis	25013077	1C2T
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_02360	COG0758	L	Predicted Rossmann fold nucleotide-binding protein DprA/Smf involved in DNA uptake	Smf			3MAJ
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_02370	COG0550	L	DNA topoisomerase IA	TopA			1CY0
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_02375	COG1691	F	NCAIR mutase (PurE)-related protein				
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_02380	COG0009	J	tRNA A37 threonylcarbamoyladenosine synthetase subunit TsaC/SUA5/YrdC	TsaC	tRNA modification		1HRU
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_02405	COG5002	T	Sensor histidine kinase WalK	WalK			4I5S
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_02410	COG2197	TK	DNA-binding response regulator, NarL/FixJ family, contains REC and HTH domains	CitB			1A04
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_02420	COG0018	J	Arginyl-tRNA synthetase	ArgS	Aminoacyl-tRNA synthetases		1BS2
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_02430	COG3087	D	Cell division protein FtsN	FtsN			1UTA
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_02435	COG0638	O	20S proteasome, alpha and beta subunits	PRE1			1FNT
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_02440	COG1220	O	ATP-dependent protease HslVU (ClpYQ), ATPase subunit HslU	HslU			1DO0
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_02445	COG3588	G	Fructose-bisphosphate aldolase class 1	Fba1	Glycolysis		
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_02450	COG1159	J	GTPase Era, involved in 16S rRNA processing	Era			1EGA
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_02455	COG0600	P	ABC-type nitrate/sulfonate/bicarbonate transport system, permease component	TauC			
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_02460	COG1129	G	ABC-type sugar transport system, ATPase component	MglA			
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_02465	COG0521	H	Molybdopterin biosynthesis enzyme MoaB/MogA	MoaB	Molybdopterin biosynthesis	32239579	1DI6
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_02470	COG0412	Q	Dienelactone hydrolase	DLH			4ZV9
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_02475	COG0815	M	Apolipoprotein N-acyltransferase	Lnt			6NWR
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_02485	COG1160	J	Double Era-like domain GTPase Der	Der			1MKY
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_02510	COG0102	J	Ribosomal protein L13	RplM	Ribosome 50S subunit		1VS6
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_02515	COG0103	J	Ribosomal protein S9	RpsI	Ribosome 30S subunit		4V4H
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_02535	COG0724	J	RNA recognition motif (RRM) domain	RRM			1HL6
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_02545	COG1635	GH	Thiazole synthase/Archaeal ribulose 1,5-bisphosphate synthetase	THI4		15375115	3FPZ
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_02555	COG0024	J	Methionine aminopeptidase	Map			3J2I
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_02580	COG0187	L	DNA gyrase/topoisomerase IV, subunit B	GyrB			1EI1
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_02585	COG1519	M	3-deoxy-D-manno-octulosonic-acid transferase	KdtA	Lipid A biosynthesis		2XCI
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_02590	COG3845	F	ABC-type guanosine uptake system NupNOPQ, ATPase component NupO	NupO		21926227	
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_02595	COG1566	V	Multidrug resistance efflux pump EmrA	EmrA			4TKO
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_02600	COG1538	M	Outer membrane protein TolC	TolC			1EK9
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_02610	COG1307	I	Fatty acid-binding protein DegV (function unknown)	DegV			1MGP
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_02615	COG1538	M	Outer membrane protein TolC	TolC			1EK9
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_02620	COG0001	H	Glutamate-1-semialdehyde aminotransferase	HemL	Heme biosynthesis		2CFB
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_02625	COG1773	P	Flavorubredoxin	NorV			4D02
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_02650	COG0484	O	DnaJ-class molecular chaperone with C-terminal Zn finger domain	DnaJ			1BQ0
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_02655	COG0352	H	Thiamine monophosphate synthase	ThiE	Thiamine biosynthesis	19060138	1G4T
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_02660	COG0518	F	GMP synthase, glutamine amidotransferase domain	GuaA1	Purine biosynthesis		4WIM
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_02665	COG1396	K	Transcriptional regulator, contains XRE-family HTH domain	HipB			1ADR
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_02670	COG0188	L	DNA gyrase/topoisomerase IV, subunit A	GyrA			1SUU
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_02690	COG2977	Q	4'-phosphopantetheinyl transferase EntD (siderophore biosynthesis)	EntD			4QJK
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_02710	COG0050	J	Translation elongation factor EF-Tu, a GTPase	TufA	Translation factors		1EFU
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_02720	COG4520	M	Surface antigen	LipA17			
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_02725	COG3263	CP	NhaP-type Na+/H+ and K+/H+ antiporter with C-terminal TrkAC and CorC domains	NhaP2			
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_02735	COG2367	V	Beta-lactamase class A	PenP			6W34
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_02740	COG2921	T	Putative lipoate-binding regulatory protein, UPF0250 family	YbeD		15547281	1RWU
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_02755	COG0321	H	Lipoate-protein ligase B	LipB	Lipoate biosynthesis	19798051	2QHT
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_02760	COG0502	H	Biotin synthase or related enzyme	BioB	Biotin biosynthesis		1R30
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_02765	COG0671	I	Membrane-associated phospholipid phosphatase	PgpB	Phospholipid biosynthesis		1D2T
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_02770	COG0697	GER	Permease of the drug/metabolite transporter (DMT) superfamily	RhaT			5I20
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_02790	COG0214	H	Pyridoxal 5'-phosphate synthase subunit PdxS	PdxS	Pyridoxal phosphate biosynthesis		2NV2
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_02810	COG1404	O	Serine protease, subtilisin family	AprE			1SCJ
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_02815	COG0688	I	Phosphatidylserine decarboxylase	Psd	Phospholipid biosynthesis		6L06
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_02820	COG0617	J	tRNA nucleotidyltransferase/poly(A) polymerase	PcnB	tRNA modification		3WFR
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_02825	COG3863	S	Uncharacterized conserved protein YycO, NlpC/P60 family	YycO			
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_02830	COG2271	G	Sugar phosphate permease	UhpC			1PW4
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_02860	COG2271	G	Sugar phosphate permease	UhpC			1PW4
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_02870	COG0344	I	Phospholipid biosynthesis protein PlsY, probable glycerol-3-phosphate acyltransferase	PlsY		29684280	5XJ5
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_02875	COG0533	J	tRNA A37 threonylcarbamoyltransferase TsaD	TsaD	tRNA modification	23072323;21285948;32385138	3ENO
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_02880	COG2062	T	Phosphohistidine phosphatase SixA	SixA			1UJB
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_02890	COG1651	O	Protein thiol-disulfide isomerase DsbC	DsbG			2HI7
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_02895	COG0580	G	Glycerol uptake facilitator or related aquaporin (Major Intrinsic protein Family)	GlpF			1FQY
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_02900	COG1045	E	Serine acetyltransferase	CysE	Cysteine biosynthesis		1T3D
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_02905	COG0451	M	Nucleoside-diphosphate-sugar epimerase	WcaG			2X4G
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_02915	COG0665	E	Glycine/D-amino acid oxidase (deaminating)	DadA			3AWI
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_02920	COG3221	P	ABC-type phosphate/phosphonate transport system, periplasmic component	PhnD			3S4U
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_02925	COG0554	C	Glycerol kinase	GlpK			2ZF5
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_02940	COG0451	M	Nucleoside-diphosphate-sugar epimerase	WcaG			2X4G
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_02945	COG1846	K	DNA-binding transcriptional regulator, MarR family	MarR			1JGS
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_02950	COG2814	G	Predicted arabinose efflux permease AraJ, MFS family	AraJ			4LDS
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_02965	COG0702	R	Uncharacterized conserved protein YbjT, contains NAD(P)-binding and DUF2867 domains	YbjT			5L3Z
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_02985	COG1193	L	dsDNA-specific endonuclease/ATPase MutS2	MutS2			
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_02990	COG4123	J	tRNA1(Val) A37 N6-methylase TrmN6	TrmN6	tRNA modification		
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_02995	COG0082	E	Chorismate synthase	AroC	Aromatic amino acid biosynthesis		1Q1L
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_03000	COG0002	E	N-acetyl-gamma-glutamylphosphate reductase	ArgC	Arginine biosynthesis		3DR3
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_03005	COG0452	H	Phosphopantothenoylcysteine synthetase/decarboxylase CoaBC	CoaBC	Pantothenate/CoA biosynthesis		3QJG
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_03010	COG2259	S	Uncharacterized membrane protein YphA, DoxX/SURF4 family	DoxX			
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_03025	COG5133
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_03040	COG1103	J	Archaeal Cys-tRNA synthase (O-phospho-L-seryl-tRNA:Cys-tRNA synthase)				2E7I
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_03045	COG0719	O	Fe-S cluster assembly scaffold protein SufB	SufB			1VH4
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_03050	COG1124	EP	ABC-type dipeptide/oligopeptide/nickel transport system, ATPase component	DppF			
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_03055	COG0719	O	Fe-S cluster assembly scaffold protein SufB	SufB			1VH4
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_03065	COG1205	L	ATP-dependent helicase YprA,  contains C-terminal metal-binding DUF1998 domain	YprA			
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_03070	COG3965	P	Predicted Co/Zn/Cd cation transporter, cation efflux family				
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_03075	COG2176	L	DNA polymerase III, alpha subunit (gram-positive type)	PolC			
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_03090	COG0568	K	DNA-directed RNA polymerase, sigma subunit (sigma70/sigma32)	RpoD	RNA polymerase		1SIG
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_03095	COG0358	L	DNA primase (bacterial type)	DnaG		28128549	3B39
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_03100	COG1610	R	Uncharacterized conserved protein YqeY, may have tRNA amino acid amidase activity	YqeY			1NG6
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_03105	COG0828	J	Ribosomal protein S21	RpsU	Ribosome 30S subunit		4V4H
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_03110	COG2179	R	Predicted phosphohydrolase YqeG, HAD superfamily	YqeG			
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_03115	COG3263	CP	NhaP-type Na+/H+ and K+/H+ antiporter with C-terminal TrkAC and CorC domains	NhaP2			
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_03120	COG0413	H	Ketopantoate hydroxymethyltransferase	PanB	Pantothenate/CoA biosynthesis		3VAV
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_03125	COG0414	H	Panthothenate synthetase	PanC	Pantothenate/CoA biosynthesis	17968677	1DIN
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_03135	COG1521	H	Pantothenate kinase type III	CoaX			2F9T
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_03140	COG3004	CP	Na+/H+ antiporter NhaA	NhaA		25746996	1ZCD
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_03145	COG0308	E	Aminopeptidase N, contains DUF3458 domain	PepN		24123841	6ATK
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_03160	COG0061	H	NAD kinase	NadK			1SUW
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_03165	COG1011	H	FMN and 5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YigB, HAD superfamily (riboflavin biosynthesis)	YigB		24123841	4JB3
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_03170	COG2230	I	Cyclopropane fatty-acyl-phospholipid synthase and related methyltransferases	Cfa			5Z9O
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_03180	COG1030	O	Membrane-bound serine protease NfeD, ClpP class	NfeD			2DEO
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_03185	COG1304	CIR	FMN-dependent dehydrogenase, includes L-lactate dehydrogenase and type II isopentenyl diphosphate isomerase	LldD	Isoprenoid biosynthesis		6AI7
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_03195	COG1283	P	Na+/phosphate symporter	NptA			
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_03215	COG0504	F	CTP synthase (UTP-ammonia lyase)	PyrG	Pyrimidine biosynthesis		1S1M
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_03220	COG0196	H	FAD synthase	RibF	Riboflavin/FAD biosynthesis		1MRZ
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_03225	COG0534	V	Na+-driven multidrug efflux pump, DinF/NorM/MATE family	NorM		29915058	3VVN
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_03230	COG0268	J	Ribosomal protein S20	RpsT	Ribosome 30S subunit		4V4H
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_03235	COG1163	J	Ribosome-interacting GTPase RBG1	Rbg1			4A9A
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_03240	COG0211	J	Ribosomal protein L27	RpmA	Ribosome 50S subunit		1VS6
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_03245	COG0261	J	Ribosomal protein L21	RplU	Ribosome 50S subunit		1VS6
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_03250	COG0142	H	Geranylgeranyl pyrophosphate synthase	IspA	Isoprenoid biosynthesis		2AZJ
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_03260	COG0180	J	Tryptophanyl-tRNA synthetase	TrpS	Aminoacyl-tRNA synthetases		3N9I
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_03265	COG4942	D	Septal ring factor EnvC, activator of murein hydrolases AmiA and AmiB	EnvC			
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_03270	COG2377	M	1,6-Anhydro-N-acetylmuramate kinase	AnmK		15901686	3CQY
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_03280	COG2771	K	DNA-binding transcriptional regulator, CsgD family	CsgD			
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_03290	COG2165	NUW	Type II secretory pathway, pseudopilin PulG	PulG			1AY2
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_03300	COG0630	NU	Type IV secretory pathway ATPase VirB11/Archaellum biosynthesis ATPase ArlI/FlaI	VirB11		32416640	1G6O
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_03320	COG0494	V	8-oxo-dGTP pyrophosphatase MutT and related house-cleaning NTP pyrophosphohydrolases, NUDIX family	MutT			4V14
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_03325	COG3318	S	Uncharacterized conserved protein YecA, UPF0149 family, contains C-terminal Zn-binding SEC-C motif	YecA			
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_03330	COG4701	S	Uncharacterized conserved protein				
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_03335	COG0774	M	UDP-3-O-acyl-N-acetylglucosamine deacetylase	LpxC	Lipid A biosynthesis		1P42
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_03340	COG0206	D	Cell division GTPase FtsZ	FtsZ			1FSZ
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_03345	COG4820	E	Ethanolamine utilization protein EutJ, possible chaperonin	EutJ			
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_03355	COG0769	M	UDP-N-acetylmuramyl tripeptide synthase	MurE	Mureine biosynthesis		1E8C
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_03360	COG1819	G	UDP:flavonoid glycosyltransferase YjiC, YdhE family	YjiC		23974133	2ACV
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_03365	COG0772	D	Peptodoglycan polymerase FtsW/RodA/SpoVE	FtsW		30692671	6BAR
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_03370	COG0285	H	Folylpolyglutamate synthase/Dihydropteroate synthase	FolC	Folate biosynthesis		1W78
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_03375	COG0472	M	UDP-N-acetylmuramyl pentapeptide phosphotransferase/UDP-N-acetylglucosamine-1-phosphate transferase	Rfe	Mureine biosynthesis		4J72
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_03380	COG0771	M	UDP-N-acetylmuramoylalanine-D-glutamate ligase	MurD	Mureine biosynthesis		1E0D
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_03385	COG0773	M	UDP-N-acetylmuramate-alanine ligase MurC and related ligases, MurC/Mpl family	MurC	Mureine biosynthesis		
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_03395	COG0768	DM	Cell division protein FtsI, peptidoglycan transpeptidase (Penicillin-binding protein 2)	FtsI			6HZQ
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_03400	COG3116	D	Cell division protein FtsL, interacts with FtsB and FtsQ	FtsL			
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_03405	COG0275	J	16S rRNA C1402 N4-methylase RsmH	RmsH	16S rRNA modification		1M6Y
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_03430	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_03480	COG4388	X	Mu-like prophage I protein				
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_03500	COG2114	T	Adenylate cyclase, class 3	AcyC			1AB8
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_03505	COG2131	F	Deoxycytidylate deaminase	ComEB		25746996;31954084	2HVV
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_03550	COG4064	H	Tetrahydromethanopterin S-methyltransferase, subunit G	MtrG			
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_03555	COG0629	L	Single-stranded DNA-binding protein	Ssb			1EQQ
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_03565	COG1484	L	DNA replication protein DnaC	DnaC			2QGZ
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_03600	COG4106	C	Trans-aconitate methyltransferase	Tam			2P35
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_03620	COG0556	L	Excinuclease UvrABC helicase subunit UvrB	UvrB			1C4O
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_03630	COG0534	V	Na+-driven multidrug efflux pump, DinF/NorM/MATE family	NorM		29915058	3VVN
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_03635	COG2211	G	Na+/melibiose symporter or related transporter	MelB			4M64
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_03645	COG2924	PO	Fe-S cluster biosynthesis and repair protein YggX	YggX		24421039	1T07
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_03650	COG1194	L	Adenine-specific DNA glycosylase, acts on AG and A-oxoG pairs	MutY			1KG2
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_03655	COG0220	J	tRNA G46 N7-methylase TrmB	TrmB	tRNA modification	19373903;16600901	1YZH
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_03660	COG0724	J	RNA recognition motif (RRM) domain	RRM			1HL6
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_03675	COG4974	L	Site-specific recombinase XerD	XerD			1A0P
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_03685	COG5522	S	Uncharacterized membrane protein YwaF	YwaF			
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_03690	COG3176	R	Putative hemolysin				
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_03695	COG1167	KE	DNA-binding transcriptional regulator, MocR family, contains an aminotransferase domain	ARO8	Lysine biosynthesis		2R2N
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_03700	COG2085	R	Predicted dinucleotide-binding enzyme				2VNS
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_03705	COG2877	M	3-deoxy-D-manno-octulosonic acid (KDO) 8-phosphate synthase	KdsA	Lipid A biosynthesis		1G7U
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_03710	COG1116	P	ABC-type nitrate/sulfonate/bicarbonate transport system, ATPase component	TauB			
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_03720	COG1694	V	NTP pyrophosphatase, house-cleaning of non-canonical NTPs	MazG			1VMG
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_03730	COG0809	J	S-adenosylmethionine:tRNA-ribosyltransferase-isomerase (queuine synthetase)	QueA	tRNA modification		1VKY
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_03735	COG2896	H	GTP 3',8-cyclase (molybdenum cofactor biosynthesis protein MoaA)	MoaA	Molybdopterin biosynthesis		1TV7
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_03740	COG0142	H	Geranylgeranyl pyrophosphate synthase	IspA	Isoprenoid biosynthesis		2AZJ
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_03745	COG0358	L	DNA primase (bacterial type)	DnaG		28128549	3B39
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_03750	COG4566	TK	DNA-binding response regulator, FixJ family, consists of REC and HTH domains	FixJ			1YIO
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_03755	COG0171	H	NH3-dependent NAD+ synthetase	NadE	NAD biosynthesis		3HMQ
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_03785	COG0566	J	tRNA G18 (ribose-2'-O)-methylase SpoU	SpoU	tRNA modification		1GZ0
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_03790	COG2131	F	Deoxycytidylate deaminase	ComEB		25746996;31954084	2HVV
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_03795	COG0531	E	Serine transporter YbeC, amino acid:H+ symporter family	PotE			3LRB
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_03805	COG0108	H	3,4-dihydroxy-2-butanone 4-phosphate synthase	RibB	Riboflavin/FAD biosynthesis		1G57
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_03810	COG0054	H	6,7-dimethyl-8-ribityllumazine synthase (Riboflavin synthase beta chain)	RibE	Riboflavin/FAD biosynthesis		1C2Y
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_03850	COG0225	O	Peptide methionine sulfoxide reductase MsrA	MsrA			1FF3
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_03855	COG2211	G	Na+/melibiose symporter or related transporter	MelB			4M64
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_03875	COG0652	O	Peptidyl-prolyl cis-trans isomerase (rotamase) - cyclophilin family	PpiB			4DGD
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_03880	COG2144	R	Selenophosphate synthetase-related protein				
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_03890	COG1047	O	Peptidyl-prolyl cis-trans isomerase, FKBP type	SlpA			2M2A
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_03895	COG0117	H	Riboflavin biosynthesis protein RibD, pyrimidine deaminase domain	RibD1	Riboflavin/FAD biosynthesis		2O7P
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_03900	COG3266	D	Cell division protein DamX, binds to the septal ring, contains C-terminal SPOR domain	DamX			
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_03905	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_03915	COG0272	L	NAD-dependent DNA ligase	Lig			5TT5
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_03920	COG5485	R	Predicted ester cyclase				3EHC
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_03935	COG1473	R	Metal-dependent amidase/aminoacylase/carboxypeptidase	AbgB	Lysine biosynthesis	17307853	3RAM
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_03940	COG1044	M	UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase	LpxD	Lipid A biosynthesis		6P83
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_03970	COG2072	P	Predicted flavoprotein CzcO associated with the cation diffusion facilitator CzcD	CzcO			4USQ
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_03980	COG5009	M	Membrane carboxypeptidase/penicillin-binding protein	MrcA			3D0F
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_03990	COG3166	NW	Type IV pilus assembly protein PilN	PilN			
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_04000	COG4964	UW	Flp pilus assembly protein, secretin CpaC	CpaC			
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_04005	COG0703	E	Shikimate kinase	AroK	Aromatic amino acid biosynthesis		1E6C
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_04025	COG0203	J	Ribosomal protein L17	RplQ	Ribosome 50S subunit		1GD8
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_04030	COG0202	K	DNA-directed RNA polymerase, alpha subunit/40 kD subunit	RpoA	RNA polymerase		4KN7
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_04035	COG1189	J	Predicted rRNA methylase YqxC, contains S4 and FtsJ domains	YqxC			3OPN
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_04040	COG0100	J	Ribosomal protein S11	RpsK	Ribosome 30S subunit		4V4H
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_04050	COG0201	U	Preprotein translocase subunit SecY	SecY			1RH5
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_04060	COG1841	J	Ribosomal protein L30/L7E	RpmD	Ribosome 50S subunit		1VS6
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_04065	COG0098	J	Ribosomal protein S5	RpsE	Ribosome 30S subunit		4V4H
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_04075	COG0097	J	Ribosomal protein L6P/L9E	RplF	Ribosome 50S subunit		1VS6
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_04080	COG0096	J	Ribosomal protein S8	RpsH	Ribosome 30S subunit		4V4H
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_04085	COG0199	J	Ribosomal protein S14	RpsN	Ribosome 30S subunit		4V4H
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_04090	COG0094	J	Ribosomal protein L5	RplE	Ribosome 50S subunit		1VS6
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_04100	COG0093	J	Ribosomal protein L14	RplN	Ribosome 50S subunit		4V4H
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_04105	COG0186	J	Ribosomal protein S17	RpsQ	Ribosome 30S subunit		4V4H
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_04110	COG0255	J	Ribosomal protein L29	RpmC	Ribosome 50S subunit		1VS6
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_04115	COG0197	J	Ribosomal protein L16/L10AE	RplP	Ribosome 50S subunit		1WKI
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_04120	COG0092	J	Ribosomal protein S3	RpsC	Ribosome 30S subunit		1VS6
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_04130	COG0185	J	Ribosomal protein S19	RpsS	Ribosome 30S subunit		4V4H
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_04135	COG0090	J	Ribosomal protein L2	RplB	Ribosome 50S subunit		1VS6
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_04140	COG0089	J	Ribosomal protein L23	RplW	Ribosome 50S subunit		1VS6
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_04145	COG0088	J	Ribosomal protein L4	RplD	Ribosome 50S subunit		1VS6
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_04150	COG0087	J	Ribosomal protein L3	RplC	Ribosome 50S subunit		1VS6
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_04155	COG0051	J	Ribosomal protein S10	RpsJ	Ribosome 30S subunit		4V4H
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_04160	COG0480	J	Translation elongation factor EF-G, a GTPase	FusA	Translation factors		1DAR
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_04180	COG2130	QR	NADPH-dependent curcumin reductase CurA	CurA		21467222	1V3T
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_04210	COG0833	E	Amino acid permease	LysP			
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_04225	COG0770	M	UDP-N-acetylmuramyl pentapeptide synthase	MurF	Mureine biosynthesis		4CVK
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_04305	COG2951	M	Membrane-bound lytic murein transglycosylase B	MltB			1D0K
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_04315	COG2949	M	Uncharacterized periplasmic protein SanA, affects membrane permeability for vancomycin	SanA			
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_04330	COG2951	M	Membrane-bound lytic murein transglycosylase B	MltB			1D0K
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_04355	COG1099	R	Predicted metal-dependent hydrolase, TIM-barrel fold				3GUW
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_04360	COG0470	L	DNA polymerase III, delta prime subunit	HolB			1A5T
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_04365	COG1428	F	Deoxyadenosine/deoxycytidine kinase	Dck			1J90
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_04375	COG0304	IQ	3-oxoacyl-(acyl-carrier-protein) synthase	FabB	Fatty acid biosynthesis	21652641	2UV8
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_04380	COG0236	I	Acyl carrier protein	AcpP	Fatty acid biosynthesis		1ACP
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_04385	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_04390	COG0331	I	Malonyl CoA-acyl carrier protein transacylase	FabD	Fatty acid biosynthesis		1YXC
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_04395	COG3425	I	3-hydroxy-3-methylglutaryl CoA synthase	PksG	Isoprenoid biosynthesis		1TVZ
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_04400	COG0416	I	Acyl-ACP:phosphate acyltransferase (fatty acid/phospholipid biosynthesis)	PlsX		18992246	2GK3
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_04405	COG0333	J	Ribosomal protein L32	RpmF	Ribosome 50S subunit	17114934	1VS6
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_04410	COG1399	J	23S rRNA accumulation protein YceD (essential in plants, uncharacterized in bacteria)	YceD		27574185	
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_04415	COG1187	J	Pseudouridylate synthase RsuA, specific for 16S rRNA U516  and 23S rRNA U2605	RsuA	16S rRNA modification		1KSK
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_04420	COG1530	J	Ribonuclease G or E	CafA			1SLJ
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_04435	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_04445	COG2814	G	Predicted arabinose efflux permease AraJ, MFS family	AraJ			4LDS
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_04450	COG1546	H	Nicotinamide mononucleotide (NMN) deamidase PncC	PncC	NAD biosynthesis		2A9S
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_04455	COG0468	L	RecA/RadA recombinase	RecA			1B22
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_04460	COG2137	O	SOS response regulatory protein OraA/RecX, interacts with RecA	RecX			3C1D
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_04465	COG0441	J	Threonyl-tRNA synthetase	ThrS	Aminoacyl-tRNA synthetases		1NYQ
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_04470	COG0528	F	Uridylate kinase	PyrH	Pyrimidine biosynthesis		2BND
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_04485	COG5371	F	Nucleoside diphosphatase, GDA1/CD39 family	GDA1		8391537	3AAP
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_04490	COG0064	J	Asp-tRNAAsn/Glu-tRNAGln amidotransferase B subunit	GatB	Aminoacyl-tRNA synthetases		3H0M
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_04495	COG0154	J	Asp-tRNAAsn/Glu-tRNAGln amidotransferase A subunit or related amidase	GatA	Aminoacyl-tRNA synthetases		3H0L
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_04500	COG0721	J	Asp-tRNAAsn/Glu-tRNAGln amidotransferase C subunit	GatC	Aminoacyl-tRNA synthetases		3H0L
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_04505	COG0849	D	Cell division ATPase FtsA	FtsA			3WT0
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_04510	COG0837	G	Glucokinase	Glk	Glycolysis		1Q18
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_04515	COG1792	DZ	Cell shape-determining protein MreC	MreC			2J5U
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_04525	COG0312	R	Zn-dependent protease PmbA/TldA or its inactivated homolog	TldD		12029038	3TV9
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_04530	COG2814	G	Predicted arabinose efflux permease AraJ, MFS family	AraJ			4LDS
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_04540	COG0780	J	NADPH-dependent 7-cyano-7-deazaguanine reductase QueF, C-terminal domain, T-fold superfamily	QueFC	tRNA modification	14660578;17384645	3BP1
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_04545	COG2814	G	Predicted arabinose efflux permease AraJ, MFS family	AraJ			4LDS
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_04550	COG0845	MV	Multidrug efflux pump subunit AcrA (membrane-fusion protein)	AcrA			1T5E
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_04560	COG0456	J	Ribosomal protein S18 acetylase RimI and related acetyltransferases	RimI			1GHE
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_04565	COG4107	P	ABC-type phosphonate transport system, ATPase component PhnK	PhnK		19516334	
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_04570	COG0581	P	ABC-type phosphate transport system, permease component	PstA			
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_04580	COG0119	E	Isopropylmalate/homocitrate/citramalate synthases	LeuA	Isoleucine, leucine, valine biosynthesis		4JN6
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_04610	COG4168	V	ABC-type antimicrobial peptide export system, permease component SapB	SapB			
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_04615	COG4239	Q	ABC-type microcin C transport system, permease component YejE	YejE			
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_04620	COG4555	CP	ABC-type Na+ transport system, ATPase component NatA	NatA			
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_04635	COG1163	J	Ribosome-interacting GTPase RBG1	Rbg1			4A9A
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_04640	COG0193	J	Peptidyl-tRNA hydrolase	Pth	Translation factors	11835511	1RYB
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_04670	COG2608	P	Copper chaperone CopZ	CopZ			1AFI
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_04695	COG2021	E	Homoserine O-acetyltransferase	MET2	Methionine biosynthesis		2VAT
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_04705	COG2814	G	Predicted arabinose efflux permease AraJ, MFS family	AraJ			4LDS
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_04715	COG0673	R	Predicted dehydrogenase	MviM			3UUW
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_04725	COG1146	F	NAD-dependent dihydropyrimidine dehydrogenase, PreA subunit	PreA			
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_04735	COG0278	O	Glutaredoxin-related protein	GrxD			1YKA
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_04745	COG1252	C	NADH dehydrogenase, FAD-containing subunit	Ndh			5NA4
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_04755	COG4852	S	Uncharacterized membrane protein				
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_04760	COG0607	P	Rhodanese-related sulfurtransferase	PspE	Urea cycle		1TQ1
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_04780	COG0833	E	Amino acid permease	LysP			
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_04785	COG3007	I	Trans-2-enoyl-CoA reductase				3S8M
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_04790	COG0015	F	Adenylosuccinate lyase	PurB	Purine biosynthesis		2HVG
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_04800	COG1566	V	Multidrug resistance efflux pump EmrA	EmrA			4TKO
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_04805	COG0841	V	Multidrug efflux pump subunit AcrB	AcrB			1IWG
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_04815	COG1579	R	Predicted nucleic acid-binding protein DR0291, contains C4-type Zn-ribbon domain	DR0291			4ILO
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_04820	COG4278	S	Uncharacterized conserved protein				
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_04830	COG4774	P	Outer membrane receptor for monomeric catechols	Fiu			
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_04860	COG0014	E	Gamma-glutamyl phosphate reductase	ProA	Proline biosynthesis		4GHK
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_04870	COG1622	C	Heme/copper-type cytochrome/quinol oxidase, subunit 2	CyoA			1CYW
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_04875	COG0843	C	Heme/copper-type cytochrome/quinol oxidase, subunit 1	CyoB			1AR1
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_04880	COG1845	C	Heme/copper-type cytochrome/quinol oxidase, subunit 3	CyoC			1QLE
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_04895	COG0668	M	Small-conductance mechanosensitive channel	MscS			2OAU
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_04900	COG0815	M	Apolipoprotein N-acyltransferase	Lnt			6NWR
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_04905	COG0517	T	CBS domain	CBS			1B3O
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_04910	COG0319	J	ssRNA-specific RNase YbeY, 16S rRNA maturation enzyme	YbeY	16S rRNA modification	17407324;23543739	1XM5
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_04915	COG1702	T	Phosphate starvation-inducible protein PhoH, predicted ATPase	PhoH		8444794;12762842	3B85
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_04920	COG1032	R	Radical SAM superfamily enzyme YgiQ, UPF0313 family	YgiQ			6FD2
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_04935	COG0304	IQ	3-oxoacyl-(acyl-carrier-protein) synthase	FabB	Fatty acid biosynthesis	21652641	2UV8
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_04940	COG0447	H	1,4-Dihydroxy-2-naphthoyl-CoA synthase	MenB	Menaquinone biosynthesis		4ELS
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_04950	COG2814	G	Predicted arabinose efflux permease AraJ, MFS family	AraJ			4LDS
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_04980	COG1502	I	Phosphatidylserine/phosphatidylglycerophosphate/cardiolipin synthase	Cls	Phospholipid biosynthesis		1BYR
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_04990	COG0730	P	Sulfite exporter TauE/SafE/YfcA and related permeases, UPF0721 family	TauE		21183667;22797525	
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_05020	COG0415	L	Deoxyribodipyrimidine photolyase	PhrB			1TEZ
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_05025	COG0415	L	Deoxyribodipyrimidine photolyase	PhrB			1TEZ
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_05030	COG0415	L	Deoxyribodipyrimidine photolyase	PhrB			1TEZ
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_05055	COG1232	H	Protoporphyrinogen oxidase HemY/PPOX	HemY	Heme biosynthesis		3LOV
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_05060	COG0322	L	Excinuclease UvrABC, nuclease subunit	UvrC		24513124	2NRT
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_05065	COG3871	S	General stress protein 26 (function unknown)	YzzA			2I02
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_05070	COG0578	C	Glycerol-3-phosphate dehydrogenase	GlpA	Isoprenoid biosynthesis		2RGH
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_05095	COG2224	C	Isocitrate lyase	AceA	TCA cycle, glyoxylate bypass		1DQU
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_05100	COG0372	C	Citrate synthase	GltA	TCA cycle	25211225	3TQG
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_05105	COG2079	G	2-methylcitrate dehydratase PrpD	PrpD			1SZQ
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_05110	COG1181	MR	D-alanine-D-alanine ligase or related ATP-grasp enzyme	DdlA	Mureine biosynthesis		1E4E
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_05125	COG2940	R	SET domain-containing protein (function unknown)	SET			6BX3
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_05130	COG4638	PR	Phenylpropionate dioxygenase or related ring-hydroxylating dioxygenase, large terminal subunit	HcaE			4QDC
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_05145	COG5406
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_05150	COG1404	O	Serine protease, subtilisin family	AprE			1SCJ
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_05165	COG0833	E	Amino acid permease	LysP			
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_05170	COG3276	J	Selenocysteine-specific translation elongation factor SelB	SelB	Translation factors		4ZU9
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_05175	COG0105	F	Nucleoside diphosphate kinase	Ndk	Pyrimidine biosynthesis		1B4S
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_05180	COG1032	R	Radical SAM superfamily enzyme YgiQ, UPF0313 family	YgiQ			6FD2
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_05200	COG1205	L	ATP-dependent helicase YprA,  contains C-terminal metal-binding DUF1998 domain	YprA			
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_05210	COG0526	O	Thiol-disulfide isomerase or thioredoxin	TrxA			1XFL
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_05215	COG5016	C	Pyruvate/oxaloacetate carboxyltransferase	OadA1	Urea cycle	18681940	2NX9
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_05220	COG4942	D	Septal ring factor EnvC, activator of murein hydrolases AmiA and AmiB	EnvC			
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_05230	COG0486	J	tRNA U34 5-carboxymethylaminomethyl modifying GTPase MnmE/TrmE	MnmE	tRNA modification		
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_05235	COG0859	M	ADP-heptose:LPS heptosyltransferase	RfaF			1PSW
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_05240	COG0668	M	Small-conductance mechanosensitive channel	MscS			2OAU
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_05245	COG0833	E	Amino acid permease	LysP			
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_05250	COG1216	G	Glycosyltransferase, GT2 family	WcaE			2Z86
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_05265	COG0686	E	Alanine dehydrogenase (includes sporulation protein SpoVN)	Ald	Urea cycle		2EEZ
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_05275	COG3203	M	Outer membrane porin OmpC/OmpF/PhoE	OmpC			1PHO
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_05280	COG0741	M	Soluble lytic murein transglycosylase or regulatory protein s ( may contain LysM/invasin domain)	MltE			153L
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_05295	COG3038	C	Cytochrome b561	CybB			5OC0
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_05305	COG0523	R	Zinc metallochaperone YeiR/ZagA and related GTPases, G3E family	YejR		19822009;31132310	1NIJ
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_05310	COG2319	R	WD40 repeat	WD40			3UVN
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_05315	COG3021	R	Uncharacterized conserved protein YafD, endonuclease/exonuclease/phosphatase (EEP) superfamily	YafD			
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_05330	COG0666	T	Ankyrin repeat	ANKYR			6AUN
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_05345	COG1183	I	Phosphatidylserine synthase	PssA			
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_05360	COG0530	P	Ca2+/Na+ antiporter	ECM27			3V5S
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_05370	COG0666	T	Ankyrin repeat	ANKYR			6AUN
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_05380	COG1983	KT	Phage shock protein PspC (stress-responsive transcriptional regulator)	PspC			
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_05385	COG3022	L	DNA-binding protein YaaA associated with the oxidative stress response	YaaA		21378183;32796037	5CAJ
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_05405	COG1289	S	Uncharacterized membrane protein YccC	YccC			
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_05420	COG2519	J	tRNA A58 N-methylase Trm61	Gcd14	tRNA modification		1I9G
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_05425	COG0217	KJ	Transcriptional and/or translational regulatory protein YebC/TACO1	TACO1			1KON
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_05430	COG1215	N	Glycosyltransferase, catalytic subunit of cellulose synthase and poly-beta-1,6-N-acetylglucosamine synthase	BcsA			4HG6
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_05435	COG3952	R	Uncharacterized N-terminal domain of lipid-A-disaccharide synthase	LABN			
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_05440	COG1807	M	PMT family glycosyltransferase ArnT/Agl22, involved in glycosylation of proteins and lipid IVA	ArnT		16226890;31233657;32706435	5EZM
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_05445	COG0671	I	Membrane-associated phospholipid phosphatase	PgpB	Phospholipid biosynthesis		1D2T
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_05465	COG0059	EH	Ketol-acid reductoisomerase	IlvC	Isoleucine, leucine, valine biosynthesis		1NP3
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_05475	COG0632	L	Holliday junction resolvasome RuvABC DNA-binding subunit	RuvA			1BDX
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_05480	COG2256	L	Replication-associated recombination protein RarA (DNA-dependent ATPase)	RarA			3PVS
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_05490	COG1291	N	Flagellar motor component MotA	MotA			
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_05510	COG0426	C	Flavorubredoxin	NorV			4JHC
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_05515	COG1485	D	Cell division protein ZapE (Z ring-associated ATPase), AFG1 superfamily	ZapE			
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_05535	COG1607	I	Acyl-CoA hydrolase	YciA			5DM5
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_05550	COG0450	V	Alkyl hydroperoxide reductase subunit AhpC (peroxiredoxin)	AhpC			2RII
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_05565	COG0127	F	Inosine/xanthosine triphosphate pyrophosphatase, all-alpha NTP-PPase family	RdgB			1B78
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_05570	COG1438	K	Arginine repressor	ArgR			1AOY
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_05580	COG4123	J	tRNA1(Val) A37 N6-methylase TrmN6	TrmN6	tRNA modification		
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_05585	COG0216	J	Protein chain release factor RF1	PrfA	Translation factors		1RQ0
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_05590	COG2423	E	Ornithine cyclodeaminase/archaeal alanine dehydrogenase, mu-crystallin family	OCDMu	Proline biosynthesis		2I99
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_05600	COG0083	E	Homoserine kinase	ThrB	Threonine biosynthesis		1FWK
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_05610	COG0462	F	Phosphoribosylpyrophosphate synthetase	PrsA	Histidine biosynthesis, Purine biosynthesis		1DKR
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_05620	COG0084	N	3'->5' ssDNA/RNA exonuclease TatD	TatD		10747959;25114049	1J6O
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_05635	COG1021	Q	EntE, 2,3-dihydroxybenzoate-AMP synthase component of non-ribosomal peptide synthetase	EntE			3RG2
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_05640	COG0508	C	Pyruvate/2-oxoglutarate dehydrogenase complex, dihydrolipoamide acyltransferase (E2) component	AceF	Pyruvate oxidation		1B5S
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_05645	COG0022	C	Pyruvate/2-oxoglutarate/acetoin dehydrogenase complex, dehydrogenase (E1) component, beta subunit	AcoB	Pyruvate oxidation		2OZL
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_05650	COG1071	C	TPP-dependent pyruvate or acetoin dehydrogenase subunit alpha	AcoA	Pyruvate oxidation		1DTW
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_05655	COG1063	ER	Threonine dehydrogenase or related Zn-dependent dehydrogenase	Tdh	Non-phosphorylated Entner-Doudoroff pathway		4A2C
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_05665	COG3357	K	Predicted transcriptional regulator, contains HTH and Zn-ribbon domains				2GMG
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_05680	COG2309	E	Leucyl aminopeptidase (aminopeptidase T)	AmpS			1ZJC
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_05695	COG0019	E	Diaminopimelate decarboxylase	LysA	Lysine biosynthesis		1D7K
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_05700	COG0019	E	Diaminopimelate decarboxylase	LysA	Lysine biosynthesis		1D7K
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_05725	COG0671	I	Membrane-associated phospholipid phosphatase	PgpB	Phospholipid biosynthesis		1D2T
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_05770	COG0399	M	dTDP-4-amino-4,6-dideoxygalactose transaminase	WecE		15271350	4PIW
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_05775	COG0025	P	NhaP-type Na+/H+ or K+/H+ antiporter	NhaP			4CZB
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_05780	COG0513	L	Superfamily II DNA and RNA helicase	SrmB			3RRM
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_05790	COG1566	V	Multidrug resistance efflux pump EmrA	EmrA			4TKO
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_05795	COG0841	V	Multidrug efflux pump subunit AcrB	AcrB			1IWG
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_05805	COG0681	U	Signal peptidase I	LepB		1925027	1B12
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_05815	COG3265	G	Gluconate kinase	GntK	Non-phosphorylated Entner-Doudoroff pathway		1KO4
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_05840	COG0766	M	UDP-N-acetylglucosamine enolpyruvyl transferase	MurA	Mureine biosynthesis		1A2N
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_05855	COG0371	C	Glycerol dehydrogenase or related enzyme, iron-containing ADH family	GldA	Isoprenoid biosynthesis	20688982	3S99
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_05860	COG0240	C	Glycerol-3-phosphate dehydrogenase	GpsA	Isoprenoid biosynthesis		1EVY
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_05870	COG0031	E	Cysteine synthase	CysK	Cysteine biosynthesis		1FCJ
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_05900	COG3494	S	Uncharacterized conserved protein, DUF1009 family				4GGM
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_05910	COG0451	M	Nucleoside-diphosphate-sugar epimerase	WcaG			2X4G
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_05915	COG4221	C	NADP-dependent 3-hydroxy acid dehydrogenase YdfG	YdfG	Pyrimidine degradation		3P19
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_05920	COG2223	P	Nitrate/nitrite transporter NarK	NarK			4JR9
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_05935	COG0342	U	Preprotein translocase subunit SecD	SecD		26100040	3AQP
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_05940	COG0341	U	Preprotein translocase subunit SecF	SecF		28830929	2FYH
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_05950	COG0343	J	Queuine/archaeosine tRNA-ribosyltransferase	Tgt	tRNA modification	15805528	1XW8
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_05970	COG0470	L	DNA polymerase III, delta prime subunit	HolB			1A5T
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_05980	COG0632	L	Holliday junction resolvasome RuvABC DNA-binding subunit	RuvA			1BDX
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_06035	COG0557	K	Exoribonuclease R	VacB			6H25
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_06045	COG2081	R	Predicted flavoprotein YhiN	YhiN			3V76
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_06060	COG0534	V	Na+-driven multidrug efflux pump, DinF/NorM/MATE family	NorM		29915058	3VVN
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_06085	COG0397	O	Protein adenylyltransferase (AMPylase) SelO/YdiU (selenoprotein O)	SelO		30270044	6EAC
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_06100	COG0493	ER	NADPH-dependent glutamate synthase beta chain or related oxidoreductase	GltD	Glutamine biosynthesis		1H7X
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_06110	COG1278	K	Cold shock protein, CspA family	CspC			1C9O
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_06130	COG0439	I	Biotin carboxylase	AccC	Fatty acid biosynthesis		1BNC
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_06135	COG0607	P	Rhodanese-related sulfurtransferase	PspE	Urea cycle		1TQ1
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_06155	COG2814	G	Predicted arabinose efflux permease AraJ, MFS family	AraJ			4LDS
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_06165	COG0104	F	Adenylosuccinate synthase	PurA	Purine biosynthesis		1ADE
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_06175	COG2268	S	Uncharacterized membrane protein YqiK, contains Band7/PHB/SPFH domain	YqiK			1WIN
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_06185	COG0536	DL	GTPase involved in cell partioning and DNA repair	Obg			1LNZ
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_06190	COG1119	P	ABC-type molybdenum transport system, ATPase component ModF/photorepair protein PhrA	ModF			2IHY
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_06195	COG0577	V	ABC-type antimicrobial peptide transport system, permease component	SalY			
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_06215	COG1183	I	Phosphatidylserine synthase	PssA			
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_06220	COG0322	L	Excinuclease UvrABC, nuclease subunit	UvrC		24513124	2NRT
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_06225	COG4753	TK	Two-component response regulator, YesN/AraC family, consists of REC and AraC-type DNA-binding domains	YesN			
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_06235	COG0172	J	Seryl-tRNA synthetase	SerS	Aminoacyl-tRNA synthetases		1SER
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_06245	COG1674	D	DNA segregation ATPase FtsK/SpoIIIE or related protein	FtsK			2IUT
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_06250	COG1249	C	Dihydrolipoamide dehydrogenase (E3) component of pyruvate/2-oxoglutarate dehydrogenase complex or glutathione oxidoreductase	Lpd	Glycine cleavagePyruvate oxidation		6QKG
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_06260	COG0542	O	ATP-dependent Clp protease, ATP-binding subunit ClpA	ClpA			1KSF
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_06270	COG0809	J	S-adenosylmethionine:tRNA-ribosyltransferase-isomerase (queuine synthetase)	QueA	tRNA modification		1VKY
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_06280	COG0152	F	Phosphoribosylaminoimidazole-succinocarboxamide synthase	PurC	Purine biosynthesis		1A48
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_06285	COG3317	M	Outer membrane beta-barrel protein assembly factor BamC	BamC		21823654;28760846	2LAE
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_06290	COG0329	EM	4-hydroxy-tetrahydrodipicolinate synthase/N-acetylneuraminate lyase	DapA	Lysine biosynthesis	27574185	2R91
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_06295	COG3956	R	Uncharacterized conserved protein YabN, contains tetrapyrrole methylase and MazG-like pyrophosphatase domain	YabN			
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_06305	COG1121	P	ABC-type Mn2+/Zn2+ transport system, ATPase component	ZnuC			
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_06310	COG0596	HR	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold	MenH	Menaquinone biosynthesis		4MYS
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_06345	COG0075	EF	Archaeal aspartate aminotransferase or a related aminotransferase, includes purine catabolism protein PucG	PucG	Serine biosynthesis		3NNK
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_06355	COG0219	J	tRNA(Leu) C34 or U34 (ribose-2'-O)-methylase TrmL, contains SPOUT domain	TrmL	tRNA modification		4JAK
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_06360	COG0483	G	Archaeal fructose-1,6-bisphosphatase or related enzyme, inositol monophosphatase family	SuhB	Gluconeogenesis		1AWB
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_06365	COG0565	J	tRNA C32,U32 (ribose-2'-O)-methylase TrmJ or a related methyltransferase	TrmJ	tRNA modification		3ONP
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_06370	COG3087	D	Cell division protein FtsN	FtsN			1UTA
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_06375	COG0692	L	Uracil-DNA glycosylase	Ung		16237021	1AKZ
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_06380	COG0242	J	Peptide deformylase	Def			1BS4
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_06395	COG0143	J	Methionyl-tRNA synthetase	MetG	Aminoacyl-tRNA synthetases		1A8H
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_06400	COG2980	M	Outer membrane lipoprotein LptE/RlpB (LPS assembly)	LptE			2JXP
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_06405	COG1466	L	DNA polymerase III, delta subunit	HolA			3ZH9
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_06410	COG1057	H	Nicotinate-nucleotide adenylyltransferase NadD	NadD	NAD biosynthesis		1YUM
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_06415	COG0236	I	Acyl carrier protein	AcpP	Fatty acid biosynthesis		1ACP
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_06420	COG1541	H	Phenylacetate-coenzyme A ligase PaaK, adenylate-forming domain family	PaaK			2Y4O
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_06435	COG5113
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_06455	COG3687	R	Predicted metal-dependent hydrolase				
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_06460	COG0572	F	Uridine kinase	Udk	Pyrimidine salvage		5B3F
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_06475	COG0167	F	Dihydroorotate dehydrogenase	PyrD	Pyrimidine biosynthesis		1GT8
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_06495	COG4799	I	Acetyl-CoA carboxylase, carboxyltransferase component	MmdA			1OD2
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_06520	COG2814	G	Predicted arabinose efflux permease AraJ, MFS family	AraJ			4LDS
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_06530	COG4932	M	Clumping factor A-related surface protein, MSCRAMM (microbial surface components recognizing adhesive matrix molecules) family, DEv-IgG fold	ClfA		12485987	1N67
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_06540	COG0446	I	NADPH-dependent 2,4-dienoyl-CoA reductase, sulfur reductase, or a related oxidoreductase	FadH2			1VRQ
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_06555	COG0512	EH	Anthranilate/para-aminobenzoate synthase component II (glutamine amidotransferase)	PabA	Aromatic amino acid biosynthesis		1I1Q
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_06560	COG0517	T	CBS domain	CBS			1B3O
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_06570	COG1109	G	Phosphomannomutase	ManB			6MNV
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_06580	COG0465	O	ATP-dependent Zn proteases	HflB			1LV7
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_06585	COG0293	J	23S rRNA U2552 (ribose-2'-O)-methylase RlmE/FtsJ	RlmE	23S rRNA modification	10769117	1EIZ
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_06590	COG1534	J	RNA-binding protein YhbY	YhbY			1JO0
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_06595	COG0482	J	tRNA U34 2-thiouridine synthase MnmA/TrmU, contains the PP-loop ATPase domain	MnmA	tRNA modification	25825430	2HMA
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_06600	COG1414	K	DNA-binding transcriptional regulator, IclR family	IclR			1MKM
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_06630	COG2902	E	NAD-specific glutamate dehydrogenase	Gdh2			
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_06635	COG0784	T	CheY-like REC (receiver) domain, includes chemotaxis protein CheY  and sporulation regulator Spo0F	CheY			6QRJ
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_06640	COG4191	T	Signal transduction histidine kinase regulating C4-dicarboxylate transport system				4GCZ
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_06645	COG3218	R	ABC-type uncharacterized transport system, auxiliary component				2IQI
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_06650	COG1511	S	Uncharacterized membrane protein YhgE, phage infection protein (PIP) family	YhgE			
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_06655	COG1129	G	ABC-type sugar transport system, ATPase component	MglA			
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_06660	COG0767	M	Permease subunit MlaE of the ABC-type intermembrane phospholipid transporter Mla	MlaE			6IC4
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_06705	COG0761	I	4-Hydroxy-3-methylbut-2-enyl diphosphate reductase IspH	IspH	Isoprenoid biosynthesis		3DNF
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_06715	COG0143	J	Methionyl-tRNA synthetase	MetG	Aminoacyl-tRNA synthetases		1A8H
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_06720	COG0130	J	tRNA U55 pseudouridine synthase TruB, may also work on U342 of tmRNA	TruB	tRNA modification		1K8W
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_06725	COG0858	J	Ribosome-binding factor RbfA	RbfA			1JOS
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_06730	COG3276	J	Selenocysteine-specific translation elongation factor SelB	SelB	Translation factors		4ZU9
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_06735	COG2251	R	Predicted nuclease, RecB family				
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_06740	COG0779	J	Ribosome maturation factor RimP	RimP			1IB8
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_06755	COG1007	C	NADH:ubiquinone oxidoreductase subunit 2 (chain N)	NuoN	NADH dehydrogenase		4HE8
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_06760	COG1008	C	NADH:ubiquinone oxidoreductase subunit 4 (chain M)	NuoM	NADH dehydrogenase		6HUM
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_06765	COG1008	C	NADH:ubiquinone oxidoreductase subunit 4 (chain M)	NuoM	NADH dehydrogenase		6HUM
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_06780	COG1149	R	MinD superfamily P-loop ATPase, contains an inserted ferredoxin domain				
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_06785	COG1005	C	NADH:ubiquinone oxidoreductase subunit 1 (chain H)	NuoH	NADH dehydrogenase		6HUM
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_06790	COG0243	C	Anaerobic selenocysteine-containing dehydrogenase	BisC			1EU1
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_06795	COG4656	C	Na+-translocating ferredoxin:NAD+ oxidoreductase  RNF, RnfC subunit	RnfC	Na+-translocating Fd:NADH oxidoreductase		
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_06805	COG0649	C	NADH:ubiquinone oxidoreductase 49 kD subunit (chain D)	NuoD	NADH dehydrogenase		2FUG
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_06810	COG3262	C	Ni,Fe-hydrogenase III component G	HycE1			
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_06815	COG1941	C	Coenzyme F420-reducing hydrogenase, gamma subunit	FrhG			5ODC
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_06830	COG1314	U	Protein translocase subunit SecG	SecG			2AKH
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_06835	COG0149	G	Triosephosphate isomerase	TpiA	Glycolysis		1HG3
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_06840	COG0760	O	Peptidyl-prolyl isomerase, parvulin family	SurA			2ZR5
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_06865	COG1846	K	DNA-binding transcriptional regulator, MarR family	MarR			1JGS
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_06870	COG2913	M	Outer membrane protein assembly factor BamE, lipoprotein component of the BamABCDE complex	BamE			2KM7
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_06875	COG2914	V	Putative antitoxin component PasI (RatB) of the RatAB toxin-antitoxin module, ubiquitin-RnfH superfamily	PasI		23055930	2HJ1
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_06885	COG0691	O	tmRNA-binding protein	SmpB		26251518	1J1H
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_06895	COG1819	G	UDP:flavonoid glycosyltransferase YjiC, YdhE family	YjiC		23974133	2ACV
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_06905	COG0340	H	Biotin-(acetyl-CoA carboxylase) ligase	BirA2	Biotin biosynthesis	32188788	1BIA
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_06910	COG0405	E	Gamma-glutamyltranspeptidase	Ggt		16618936	2Z8I
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_06915	COG0705	O	Membrane-associated serine protease, rhomboid family	GlpG			2IC8
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_06925	COG2331	R	Predicted nucleic acid-binding protein, contains Zn-ribbon domain				
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_06935	COG0173	J	Aspartyl-tRNA synthetase	AspS	Aminoacyl-tRNA synthetases		1C0A
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_06965	COG2948	U	Type IV secretory pathway, VirB10 component	VirB10			2BHV
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_06985	COG2885	M	Outer membrane protein OmpA and related peptidoglycan-associated (lipo)proteins	OmpA			1OAP
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_07035	COG0630	NU	Type IV secretory pathway ATPase VirB11/Archaellum biosynthesis ATPase ArlI/FlaI	VirB11		32416640	1G6O
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_07045	COG0607	P	Rhodanese-related sulfurtransferase	PspE	Urea cycle		1TQ1
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_07085	COG0568	K	DNA-directed RNA polymerase, sigma subunit (sigma70/sigma32)	RpoD	RNA polymerase		1SIG
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_07090	COG4254	R	Uncharacterized peptidoglycan binding protein, contains LysM and FecR  domains				
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_07095	COG0496	L	Broad specificity polyphosphatase and 5'/3'-nucleotidase SurE	SurE			2V4N
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_07100	COG0814	E	Amino acid permease	SdaC			
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_07130	COG0008	J	Glutamyl- or glutaminyl-tRNA synthetase	GlnS	Heme biosynthesis		1EUQ
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_07135	COG0572	F	Uridine kinase	Udk	Pyrimidine salvage		5B3F
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_07155	COG1105	G	1-phosphofructokinase or 6-phosphofructokinase II	FruK			2ABQ
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_07165	COG1301	C	Na+/H+-dicarboxylate symporter	GltP			1XFH
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_07170	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_07190	COG0769	M	UDP-N-acetylmuramyl tripeptide synthase	MurE	Mureine biosynthesis		1E8C
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_07195	COG0265	O	Periplasmic serine protease, S1-C subfamily, contain C-terminal PDZ domain	DegQ		29686141	2HGA
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_07200	COG3883	S	Uncharacterized N-terminal coiled-coil domain of peptidoglycan hydrolase CwlO	CwlO1			4CGK
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_07205	COG1564	H	Thiamine pyrophosphokinase	ThiN	Thiamine biosynthesis		1IG0
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_07215	COG1012	I	Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase	AdhE	Proline degradation		1A4S
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_07220	COG0607	P	Rhodanese-related sulfurtransferase	PspE	Urea cycle		1TQ1
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_07225	COG0695	O	Glutaredoxin	GrxC			1AAZ
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_07230	COG1952	U	Preprotein translocase subunit SecB	SecB			1OZB
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_07235	COG0240	C	Glycerol-3-phosphate dehydrogenase	GpsA	Isoprenoid biosynthesis		1EVY
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_07245	COG0608	L	ssDNA-specific exonuclease RecJ, DHH superfamily, may be involved in archaeal DNA replication intiation	RecJ			1IR6
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_07255	COG2973	K	Trp operon repressor	TrpR			1CO0
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_07260	COG4799	I	Acetyl-CoA carboxylase, carboxyltransferase component	MmdA			1OD2
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_07280	COG0532	J	Translation initiation factor IF-2, a GTPase	InfB	Translation factors		5ME0
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_07285	COG0571	K	dsRNA-specific ribonuclease	Rnc			1DI2
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_07290	COG1160	J	Double Era-like domain GTPase Der	Der			1MKY
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_07305	COG0475	P	Kef-type K+ transport system, membrane component KefB	KefB			4BWZ
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_07310	COG3725	V	Membrane protein AmpE required for beta-lactamase induction	AmpE			
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_07315	COG3959	G	Transketolase, N-terminal subunit	TktA1			
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_07320	COG1038	C	Pyruvate carboxylase	PycA	Urea cycle		5VYW
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_07325	COG0492	O	Thioredoxin reductase	TrxB			3FBS
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_07345	COG3476	T	Tryptophan-rich sensory protein TspO/CrtK (mitochondrial benzodiazepine receptor homolog)	TspO			2MGY
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_07350	COG0515	T	Serine/threonine protein kinase	SPS1			6G4J
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_07355	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_07360	COG3199	F	NAD kinase				
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_07380	COG1116	P	ABC-type nitrate/sulfonate/bicarbonate transport system, ATPase component	TauB			
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_07385	COG2877	M	3-deoxy-D-manno-octulosonic acid (KDO) 8-phosphate synthase	KdsA	Lipid A biosynthesis		1G7U
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_07390	COG0148	G	Enolase	Eno	Glycolysis		1E9I
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_07400	COG2068	H	CTP:molybdopterin cytidylyltransferase MocA	MocA			2WAW
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_07405	COG0245	I	2C-methyl-D-erythritol 2,4-cyclodiphosphate synthase	IspF	Isoprenoid biosynthesis		1GX1
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_07415	COG0106	E	Phosphoribosylformimino-5-aminoimidazole carboxamide ribonucleotide (ProFAR) isomerase	HisA	Histidine biosynthesis		4U28
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_07420	COG1186	J	Protein chain release factor PrfB	PrfB	Translation factors		1GQE
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_07430	COG1190	J	Lysyl-tRNA synthetase (class II)	LysU	Aminoacyl-tRNA synthetases		1BBU
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_07435	COG1450	U	Type II secretory pathway component GspD/PulD (secretin)	PulD			5TCQ
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_07440	COG2130	QR	NADPH-dependent curcumin reductase CurA	CurA		21467222	1V3T
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_07445	COG0404	E	Glycine cleavage system protein T (aminomethyltransferase)	GcvT	Glycine cleavage	25433025;25505271	2GAH
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_07450	COG2223	P	Nitrate/nitrite transporter NarK	NarK			4JR9
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_07460	COG0336	J	tRNA G37 N-methylase TrmD	TrmD	tRNA modification		1P9P
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_07465	COG0806	J	Ribosomal 30S subunit maturation factor RimM, required for 16S rRNA processing	RimM	16S rRNA modification		2QGG
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_07475	COG0541	U	Signal recognition particle GTPase	Ffh			2V3C
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_07480	COG4536	P	Mg2+ and Co2+ transporter CorB, contains DUF21, CBS pair, and CorC-HlyC domains	CorB		1779764	
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_07485	COG4970	NW	Type IV pilus assembly protein FimT	FimT		17322192;28771515	
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_07490	COG1102	F	Cytidylate kinase	CmkB			
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_07495	COG3118	O	Chaperedoxin CnoX, contains thioredoxin-like and TPR-like domains, YbbN/TrxSC family	CnoX		21498507;29754824	3QDN
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_07505	COG4989	R	Predicted oxidoreductase YdhF	YdhF			1UR3
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_07510	COG0024	J	Methionine aminopeptidase	Map			3J2I
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_07515	COG0052	J	Ribosomal protein S2	RpsB	Ribosome 30S subunit		4V4H
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_07520	COG0264	J	Translation elongation factor EF-Ts	Tsf	Translation factors		1EFU
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_07525	COG0527	E	Aspartate kinase	MetL1	Lysine biosynthesis		2CDQ
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_07530	COG0233	J	Ribosome recycling factor	Frr			1DD5
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_07535	COG0020	I	Undecaprenyl pyrophosphate synthase	UppS			1X07
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_07540	COG4589	R	Predicted CDP-diglyceride synthetase/phosphatidate cytidylyltransferase	YnbB			
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_07545	COG0743	I	1-deoxy-D-xylulose 5-phosphate reductoisomerase	Dxr	Isoprenoid biosynthesis		1JVS
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_07550	COG0729	M	Outer membrane translocation and assembly module TamA	TamA			4BZA
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_07560	COG1043	M	Acyl-[acyl carrier protein]--UDP-N-acetylglucosamine O-acyltransferase	LpxA	Lipid A biosynthesis		1J2Z
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_07570	COG1044	M	UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase	LpxD	Lipid A biosynthesis		6P83
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_07585	COG0281	C	Malic enzyme	SfcA	Urea cycle		1DO8
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_07600	COG2226	H	Ubiquinone/menaquinone biosynthesis C-methylase UbiE/MenG	UbiE	Biotin biosynthesis		4OBW
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_07630	COG1551	T	sRNA-binding carbon storage regulator CsrA	CsrA			1T3O
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_07640	COG1083	M	CMP-N-acetylneuraminic acid synthetase, NeuA/PseF family	NeuA			1EYR
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_07645	COG2835	J	RNA methyltransferase activator Trm112/YbaR	Trm112		27986851;30010922	2KPI
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_07655	COG0789	K	DNA-binding transcriptional regulator, MerR family	SoxR			2VZ4
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_07665	COG0072	J	Phenylalanyl-tRNA synthetase beta subunit	PheT	Aminoacyl-tRNA synthetases		3L4G
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_07670	COG0016	J	Phenylalanyl-tRNA synthetase alpha subunit	PheS	Aminoacyl-tRNA synthetases		3L4G
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_07675	COG0292	J	Ribosomal protein L20	RplT	Ribosome 50S subunit	30270044	1VS6
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_07685	COG0290	J	Translation initiation factor IF-3	InfC	Translation factors		2IFE
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_07690	COG0441	J	Threonyl-tRNA synthetase	ThrS	Aminoacyl-tRNA synthetases		1NYQ
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_07715	COG4108	J	Peptide chain release factor RF-3	PrfC	Translation factors		3UOQ
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_07720	COG0795	MN	Lipopolysaccharide export LptBFGC system, permease protein LptF	LptF			6S8H
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_07725	COG0795	MN	Lipopolysaccharide export LptBFGC system, permease protein LptF	LptF			6S8H
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_07730	COG0143	J	Methionyl-tRNA synthetase	MetG	Aminoacyl-tRNA synthetases		1A8H
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_07740	COG0572	F	Uridine kinase	Udk	Pyrimidine salvage		5B3F
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_07750	COG2814	G	Predicted arabinose efflux permease AraJ, MFS family	AraJ			4LDS
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_07760	COG1038	C	Pyruvate carboxylase	PycA	Urea cycle		5VYW
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_07765	COG0512	EH	Anthranilate/para-aminobenzoate synthase component II (glutamine amidotransferase)	PabA	Aromatic amino acid biosynthesis		1I1Q
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_07770	COG1113	E	L-asparagine transporter or related permease	AnsP			
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_07775	COG2207	K	AraC-type DNA-binding domain and AraC-containing proteins	AraC			1BL0
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_07785	COG0207	F	Thymidylate synthase	ThyA	Thymidylate biosynthesis		1AN5
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_07795	COG0682	M	Prolipoprotein diacylglyceryltransferase	Lgt			5AZB
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_07800	COG0730	P	Sulfite exporter TauE/SafE/YfcA and related permeases, UPF0721 family	TauE		21183667;22797525	
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_07805	COG3605	T	Signal transduction protein containing GAF and PtsI domains	PtsP			
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_07810	COG0494	V	8-oxo-dGTP pyrophosphatase MutT and related house-cleaning NTP pyrophosphohydrolases, NUDIX family	MutT			4V14
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_07815	COG1328	F	Anaerobic ribonucleoside-triphosphate reductase	NrdD	Thymidylate biosynthesis		4COI
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_07820	COG0208	F	Ribonucleotide reductase beta subunit, ferritin-like domain	NrdB	Pyrimidine salvage		1AV8
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_07850	COG5002	T	Sensor histidine kinase WalK	WalK			4I5S
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_07865	COG0166	G	Glucose-6-phosphate isomerase	Pgi	Glycolysis		1B0Z
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_07870	COG1207	M	Bifunctional protein GlmU, N-acetylglucosamine-1-phosphate-uridyltransferase/glucosamine-1-phosphate-acetyltransferase	GlmU			3FWW
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_07875	COG2814	G	Predicted arabinose efflux permease AraJ, MFS family	AraJ			4LDS
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_07885	COG0616	O	Periplasmic serine protease, ClpP class	SppA			3BEZ
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_07890	COG1223	R	Predicted ATPase, AAA+ superfamily				
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_07905	COG0564	J	Pseudouridine synthase RluA, 23S rRNA- or tRNA-specific	RluA	23S rRNA modification		2I82
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_07915	COG0616	O	Periplasmic serine protease, ClpP class	SppA			3BEZ
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_07920	COG0125	F	Thymidylate kinase	Tmk	Thymidylate biosynthesis		3LV8
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_07925	COG0566	J	tRNA G18 (ribose-2'-O)-methylase SpoU	SpoU	tRNA modification		1GZ0
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_07930	COG0171	H	NH3-dependent NAD+ synthetase	NadE	NAD biosynthesis		3HMQ
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_07935	COG0706	M	Membrane protein insertase Oxa1/YidC/SpoIIIJ	YidC			3WO6
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_07940	COG0504	F	CTP synthase (UTP-ammonia lyase)	PyrG	Pyrimidine biosynthesis		1S1M
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_07945	COG1388	M	LysM repeat	LysM			1E0G
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_07950	COG0512	EH	Anthranilate/para-aminobenzoate synthase component II (glutamine amidotransferase)	PabA	Aromatic amino acid biosynthesis		1I1Q
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_07960	COG1032	R	Radical SAM superfamily enzyme YgiQ, UPF0313 family	YgiQ			6FD2
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_07965	COG1419	N	Flagellar biosynthesis GTPase FlhF	FlhF			3SYN
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_07975	COG0231	J	Translation elongation factor P (EF-P)/translation initiation factor 5A (eIF-5A)	Efp	Translation factors		1UEB
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_07990	COG0057	G	Glyceraldehyde-3-phosphate dehydrogenase/erythrose-4-phosphate dehydrogenase	GapA	Glycolysis		3ZDF
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_07995	COG2609	C	Pyruvate dehydrogenase complex, dehydrogenase (E1) component	AceE	Pyruvate oxidation		1L8A
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_08000	COG0449	M	Glucosamine 6-phosphate synthetase, contains amidotransferase and phosphosugar isomerase domains	GlmS			2J6H
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_08010	COG1392	P	Phosphate transport regulator YkaA, distantly related to PhoU, UPF0111/DUF47 family	YkaA			2IIU
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_08015	COG0005	F	Purine nucleoside phosphorylase	XapA	Purine salvage		1YQQ
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_08025	COG0306	P	Phosphate/sulfate permease	PitA		31358606	
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_08030	COG3555	O	Aspartyl/asparaginyl beta-hydroxylase, cupin superfamily	LpxO2			
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_08070	COG1385	J	16S rRNA U1498 N3-methylase RsmE	RsmE	16S rRNA modification		1NXZ
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_08075	COG2068	H	CTP:molybdopterin cytidylyltransferase MocA	MocA			2WAW
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_08085	COG0055	C	FoF1-type ATP synthase, beta subunit	AtpD	FoF1-type ATP synthase		3OAA
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_08090	COG0224	C	FoF1-type ATP synthase, gamma subunit	AtpG	FoF1-type ATP synthase	15326535	3OAA
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_08095	COG0056	C	FoF1-type ATP synthase, alpha subunit	AtpA	FoF1-type ATP synthase		3OAA
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_08100	COG0712	C	FoF1-type ATP synthase, delta subunit	AtpH	FoF1-type ATP synthase		1ABV
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_08110	COG0636	C	FoF1-type ATP synthase, membrane subunit c/Archaeal/vacuolar-type H+-ATPase, subunit K	AtpE	FoF1-type ATP synthase		1C17
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_08115	COG0356	C	FoF1-type ATP synthase, membrane subunit a	AtpB	FoF1-type ATP synthase	22931285	
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_08135	COG2894	D	Septum site-determining ATPase MinD	MinD			4V02
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_08140	COG0357	J	16S rRNA G527 N7-methylase RsmG (former glucose-inhibited division protein B)	RsmG	16S rRNA modification	15375115;22031445	1XDZ
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_08145	COG1802	K	DNA-binding transcriptional regulator, GntR family	GntR			3FMS
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_08165	COG2271	G	Sugar phosphate permease	UhpC			1PW4
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_08170	COG1435	F	Thymidine kinase	Tdk	Pyrimidine salvage		1W4R
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_08180	COG0204	I	1-acyl-sn-glycerol-3-phosphate acyltransferase	PlsC	Phospholipid biosynthesis		1IUQ
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_08185	COG0181	H	Porphobilinogen deaminase	HemC	Heme biosynthesis		1AH5
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_08190	COG1324	P	Divalent cation tolerance protein CutA	CutA1			1NAQ
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_08195	COG1587	H	Uroporphyrinogen-III synthase	HemD	Heme biosynthesis		1JR2
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_08200	COG2959	R	Proteobacterial HemX domain, involved in 2-ketogluconate production (unrelated to B. subtilis HemX, COG0755, no evidence of involvement in heme biosynthesis)	HemX		26256849	
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_08215	COG3710	K	DNA-binding winged helix-turn-helix (wHTH) domain	CadC1			
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_08220	COG1158	K	Transcription termination factor Rho	Rho			1PVO
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_08225	COG0526	O	Thiol-disulfide isomerase or thioredoxin	TrxA			1XFL
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_08230	COG0762	O	Cytochrome b6 maturation protein CCB3/Ycf19 and related maturases, YggT family	Ycf19			
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_08235	COG0019	E	Diaminopimelate decarboxylase	LysA	Lysine biosynthesis		1D7K
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_08255	COG1484	L	DNA replication protein DnaC	DnaC			2QGZ
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_08260	COG0592	L	DNA polymerase III sliding clamp (beta) subunit, PCNA homolog	DnaN			1JQJ
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_08275	COG0334	E	Glutamate dehydrogenase/leucine dehydrogenase	GdhA	Glutamine biosynthesis	24391520	1B3B
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_08280	COG1092	J	23S rRNA G2069 N7-methylase RlmK or C1962 C5-methylase RlmI	RlmK	23S rRNA modification		2B78
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_08285	COG1026	O	Zn-dependent peptidase, M16 (insulinase) family	Cym1			2FGE
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_08290	COG1025	O	Secreted/periplasmic Zn-dependent peptidases, insulinase-like	Ptr			1Q2L
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_08295	COG1419	N	Flagellar biosynthesis GTPase FlhF	FlhF			3SYN
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_08300	COG4170	V	ABC-type antimicrobial peptide export system, ATPase component SapD	SapD			
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_08305	COG0577	V	ABC-type antimicrobial peptide transport system, permease component	SalY			
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_08310	COG0568	K	DNA-directed RNA polymerase, sigma subunit (sigma70/sigma32)	RpoD	RNA polymerase		1SIG
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_08315	COG2761	O	Predicted dithiol-disulfide isomerase, DsbA/YjbH family (virulence, stress resistance)	FrnE			6GHB
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_08320	COG0752	J	Glycyl-tRNA synthetase, alpha subunit	GlyQ	Aminoacyl-tRNA synthetases		1J5W
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_08325	COG0751	J	Glycyl-tRNA synthetase, beta subunit	GlyS	Aminoacyl-tRNA synthetases		
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_08330	COG2519	J	tRNA A58 N-methylase Trm61	Gcd14	tRNA modification		1I9G
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_08340	COG1181	MR	D-alanine-D-alanine ligase or related ATP-grasp enzyme	DdlA	Mureine biosynthesis		1E4E
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_08345	COG3852	T	Signal transduction histidine kinase NtrB, nitrogen specific	NtrB		23893111	
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_08355	COG0230	J	Ribosomal protein L34	RpmH	Ribosome 50S subunit		6SPB
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_08360	COG0594	J	RNase P protein component	RnpA			1A6F
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_08370	COG0706	M	Membrane protein insertase Oxa1/YidC/SpoIIIJ	YidC			3WO6
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_08375	COG1159	J	GTPase Era, involved in 16S rRNA processing	Era			1EGA
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_08385	COG0436	E	Aspartate/methionine/tyrosine aminotransferase	AspB	Isoleucine, leucine, valine biosynthesis		2O0R
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_08395	COG0192	H	S-adenosylmethionine synthetase	MetK	Methionine biosynthesis		1FUG
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_08400	COG0499	H	S-adenosylhomocysteine hydrolase	SAM1			1A7A
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_08410	COG0162	J	Tyrosyl-tRNA synthetase	TyrS	Aminoacyl-tRNA synthetases		4OUD
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_08415	COG0210	L	Superfamily I DNA or RNA helicase	UvrD			6PPR
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_08420	COG0498	E	Threonine synthase	ThrC	Threonine biosynthesis		1VB3
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_08430	COG0606	O	Predicted Mg-chelatase, contains ChlI-like and ATPase domains, YifB family	YifB			
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_08440	COG0109	HI	Polyprenyltransferase (heme O synthase)	CyoE			
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_08445	COG0784	T	CheY-like REC (receiver) domain, includes chemotaxis protein CheY  and sporulation regulator Spo0F	CheY			6QRJ
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_08455	COG0661	HT	Predicted protein kinase regulating ubiquinone biosynthesis, AarF/ABC1/UbiB family	AarF	Ubiquinone biosynthesis		4PED
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_08465	COG0500	QR	SAM-dependent methyltransferase	SmtA			5DNK
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_08470	COG0742	J	16S rRNA G966 N2-methylase RsmD	RsmD	16S rRNA modification		2IFT
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_08480	COG0542	O	ATP-dependent Clp protease, ATP-binding subunit ClpA	ClpA			1KSF
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_08485	COG3221	P	ABC-type phosphate/phosphonate transport system, periplasmic component	PhnD			3S4U
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_08505	COG0508	C	Pyruvate/2-oxoglutarate dehydrogenase complex, dihydrolipoamide acyltransferase (E2) component	AceF	Pyruvate oxidation		1B5S
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_08510	COG0666	T	Ankyrin repeat	ANKYR			6AUN
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_08515	COG4106	C	Trans-aconitate methyltransferase	Tam			2P35
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_08520	COG1225	O	Peroxiredoxin	Bcp			5IPH
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_08525	COG1154	HI	Deoxyxylulose-5-phosphate synthase	Dxs	Pyridoxal phosphate biosynthesis		2O1S
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_08530	COG0142	H	Geranylgeranyl pyrophosphate synthase	IspA	Isoprenoid biosynthesis		2AZJ
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_08535	COG1722	L	Exonuclease VII small subunit	XseB			1VP7
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_08550	COG1570	L	Exonuclease VII, large subunit	XseA			
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_08555	COG0467	T	RecA-superfamily ATPase, KaiC/GvpD/RAD55 family	RAD55			1TF7
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_08565	COG0112	E	Glycine/serine hydroxymethyltransferase	GlyA	Serine biosynthesis		1BJ4
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_08570	COG5349	S	Uncharacterized conserved protein, DUF983 family				
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_08585	COG1047	O	Peptidyl-prolyl cis-trans isomerase, FKBP type	SlpA			2M2A
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_08590	COG0616	O	Periplasmic serine protease, ClpP class	SppA			3BEZ
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_08595	COG1219	O	ATP-dependent protease Clp, ATPase subunit ClpX	ClpX			3HTE
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_08600	COG0714	R	MoxR-like ATPase	MoxR	Cobalamine/B12 biosynthesis		2R44
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_08605	COG0312	R	Zn-dependent protease PmbA/TldA or its inactivated homolog	TldD		12029038	3TV9
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_08615	COG0454	KR	N-acetyltransferase, GNAT superfamily (includes histone acetyltransferase HPA2)	PhnO			
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_08620	COG0787	M	Alanine racemase	Alr	Mureine biosynthesis		1BD0
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_08650	COG0607	P	Rhodanese-related sulfurtransferase	PspE	Urea cycle		1TQ1
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_08660	COG0323	L	DNA mismatch repair ATPase MutL	MutL			1B62
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_08665	COG1388	M	LysM repeat	LysM			1E0G
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_08670	COG0523	R	Zinc metallochaperone YeiR/ZagA and related GTPases, G3E family	YejR		19822009;31132310	1NIJ
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_08675	COG0063	F	NAD(P)H-hydrate repair enzyme Nnr, NAD(P)H-hydrate dehydratase domain	Nnr2			1KYH
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_08680	COG1600	J	Epoxyqueuosine reductase QueG (queuosine biosynthesis)	QueG	tRNA modification	2150253	5D08
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_08695	COG1021	Q	EntE, 2,3-dihydroxybenzoate-AMP synthase component of non-ribosomal peptide synthetase	EntE			3RG2
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_08705	COG0477	GEPR	MFS family permease, includes anhydromuropeptide permease AmpG	ProP		12426329	
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_08710	COG0515	T	Serine/threonine protein kinase	SPS1			6G4J
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_08715	COG0284	F	Orotidine-5'-phosphate decarboxylase	PyrF	Pyrimidine biosynthesis		1DBT
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_08720	COG0457	R	Tetratricopeptide (TPR) repeat	TPR			3AS4
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_08730	COG2183	K	Transcriptional accessory protein Tex/SPT6	Tex			2OCE
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_08735	COG1102	F	Cytidylate kinase	CmkB			
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_08740	COG1932	HE	Phosphoserine aminotransferase	SerC	Serine biosynthesis		1BJN
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_08750	COG0030	J	16S rRNA A1518 and A1519 N6-dimethyltransferase RsmA/KsgA/DIM1 (may also have DNA glycosylase/AP lyase activity)	RsmA	16S rRNA modification		1QYR
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_08755	COG0705	O	Membrane-associated serine protease, rhomboid family	GlpG			2IC8
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_08760	COG0457	R	Tetratricopeptide (TPR) repeat	TPR			3AS4
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_08765	COG0799	J	Ribosomal silencing factor RsfS, regulates association of 30S and 50S subunits	RsfS			6SJ6
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_08770	COG1576	J	23S rRNA pseudoU1915 N3-methylase RlmH	RlmH	23S rRNA modification		1NS5
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_08775	COG0768	DM	Cell division protein FtsI, peptidoglycan transpeptidase (Penicillin-binding protein 2)	FtsI			6HZQ
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_08780	COG0783	PV	DNA-binding ferritin-like protein (oxidative damage protectant)	Dps			1DPS
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_08785	COG0772	D	Peptodoglycan polymerase FtsW/RodA/SpoVE	FtsW		30692671	6BAR
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_08790	COG2951	M	Membrane-bound lytic murein transglycosylase B	MltB			1D0K
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_08795	COG3063	NW	Type IV pilus assembly protein PilF/PilW	PilF		16403447	2VQ2
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_08810	COG3960	Q	Glyoxylate carboligase	Gcl			
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_08815	COG0402	FR	Cytosine/adenosine deaminase or related metal-dependent hydrolase	SsnA	Pyrimidine salvage		3O7U
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_08840	COG2814	G	Predicted arabinose efflux permease AraJ, MFS family	AraJ			4LDS
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_08845	COG0735	P	Fe2+ or Zn2+ uptake regulation protein Fur/Zur	Fur			1MZB
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_08860	COG0378	O	Hydrogenase/urease maturation factor HypB, Ni2+-binding GTPase	HypB		24338018;23899293	2HF8
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_08870	COG1020	Q	EntF, seryl-AMP synthase component  of non-ribosomal peptide synthetase	EntF			5ES5
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_08905	COG2032	P	Cu/Zn superoxide dismutase	SodC			1ESO
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_08910	COG1010	H	Precorrin-3B methylase	CobJ	Cobalamine/B12 biosynthesis		2ZVB
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_08915	COG0683	E	ABC-type branched-chain amino acid transport system, periplasmic component	LivK			1USG
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_08920	COG0792	L	Predicted endonuclease distantly related to archaeal Holliday junction resolvase, YraN/UPF0102 family	YraN			3FOV
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_08925	COG0794	GM	D-arabinose 5-phosphate isomerase GutQ	GutQ			5UQI
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_08935	COG1994	O	Zn-dependent protease (includes sporulation protein SpoIVFB)	SpoIVFB			3B4R
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_08945	COG2077	O	Peroxiredoxin	Tpx			4AF2
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_08950	COG0847	L	DNA polymerase III, epsilon subunit or related 3'-5' exonuclease	DnaQ			1J53
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_08955	COG0044	F	Dihydroorotase or related cyclic amidohydrolase	AllB	Pyrimidine biosynthesis		1J79
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_08965	COG3266	D	Cell division protein DamX, binds to the septal ring, contains C-terminal SPOR domain	DamX			
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_08975	COG1686	M	D-alanyl-D-alanine carboxypeptidase	DacC			1HD8
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_08980	COG1043	M	Acyl-[acyl carrier protein]--UDP-N-acetylglucosamine O-acyltransferase	LpxA	Lipid A biosynthesis		1J2Z
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_08985	COG0339	O	Zn-dependent oligopeptidase, M3 family	Dcp		25239919;31422053	5L43
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_08990	COG1551	T	sRNA-binding carbon storage regulator CsrA	CsrA			1T3O
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_09000	COG0120	G	Ribose 5-phosphate isomerase	RpiA	Pentose phosphate pathway		1KS2
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_09005	COG0749	L	DNA polymerase I, 3'-5' exonuclease and polymerase domains	PolA			1D8Y
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_09010	COG0833	E	Amino acid permease	LysP			
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_09015	COG1607	I	Acyl-CoA hydrolase	YciA			5DM5
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_09020	COG0168	P	Trk-type K+ transport system, membrane component	TrkG			3PJZ
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_09025	COG1226	P	Voltage-gated potassium channel Kch	Kch			3FWZ
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_09030	COG4591	M	ABC-type transport system involved in lipoprotein release, permease component LolC	LolE			6F49
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_09035	COG4555	CP	ABC-type Na+ transport system, ATPase component NatA	NatA			
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_09040	COG0845	MV	Multidrug efflux pump subunit AcrA (membrane-fusion protein)	AcrA			1T5E
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_09045	COG1538	M	Outer membrane protein TolC	TolC			1EK9
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_09050	COG1198	L	Primosomal protein N' (replication factor Y) - superfamily II helicase	PriA			6DCR
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_09055	COG0697	GER	Permease of the drug/metabolite transporter (DMT) superfamily	RhaT			5I20
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_09060	COG0050	J	Translation elongation factor EF-Tu, a GTPase	TufA	Translation factors		1EFU
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_09075	COG0080	J	Ribosomal protein L11	RplK	Ribosome 50S subunit		2E34
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_09080	COG0081	J	Ribosomal protein L1	RplA	Ribosome 50S subunit		3J65
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_09095	COG0303	H	Molybdopterin Mo-transferase (molybdopterin biosynthesis)	MoeA	Molybdopterin biosynthesis	18801996;32239579	2NQU
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_09100	COG0086	K	DNA-directed RNA polymerase, beta' subunit/160 kD subunit	RpoC	RNA polymerase		1NT9
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_09105	COG0048	J	Ribosomal protein S12	RpsL	Ribosome 30S subunit		4V4H
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_09110	COG0049	J	Ribosomal protein S7	RpsG	Ribosome 30S subunit		4V4H
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_09115	COG5256	J	Translation elongation factor EF-1alpha (GTPase)	TEF1	Translation factors		1F60
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_09120	COG0050	J	Translation elongation factor EF-Tu, a GTPase	TufA	Translation factors		1EFU
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_09135	COG0004	P	Ammonia channel protein AmtB	AmtB			1U77
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_09145	COG0004	P	Ammonia channel protein AmtB	AmtB			1U77
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_09155	COG2331	R	Predicted nucleic acid-binding protein, contains Zn-ribbon domain				
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_09160	COG1941	C	Coenzyme F420-reducing hydrogenase, gamma subunit	FrhG			5ODC
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_09165	COG3262	C	Ni,Fe-hydrogenase III component G	HycE1			
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_09170	COG0649	C	NADH:ubiquinone oxidoreductase 49 kD subunit (chain D)	NuoD	NADH dehydrogenase		2FUG
+Coxiellaceae_bacterium_NP1046	GCA_002731975.1	EGNIIF_09235	COG5434	G	Polygalacturonase	Pgu1			1BHE

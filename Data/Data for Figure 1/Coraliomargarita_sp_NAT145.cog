@@ -1,0 +1,992 @@
+#prefix	assemid	query	COG	category	name	Gene	pathway	pmid	pdb_id
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_00010	COG0399	M	dTDP-4-amino-4,6-dideoxygalactose transaminase	WecE		15271350	4PIW
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_00020	COG0695	O	Glutaredoxin	GrxC			1AAZ
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_00025	COG1121	P	ABC-type Mn2+/Zn2+ transport system, ATPase component	ZnuC			
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_00035	COG4172	Q	ABC-type microcin C transport system, duplicated ATPase component YejF	YejF		17873039	
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_00045	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_00075	COG3128	R	Predicted 2-oxoglutarate- and Fe(II)-dependent dioxygenase YbiX	PiuC			3DKQ
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_00125	COG4618	U	ABC-type protease/lipase transport system, ATPase and permease components	ArpD			5L22
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_00135	COG1484	L	DNA replication protein DnaC	DnaC			2QGZ
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_00145	COG0500	QR	SAM-dependent methyltransferase	SmtA			5DNK
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_00155	COG0776	L	Bacterial nucleoid DNA-binding protein IHF-alpha	HimA			1B8Z
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_00160	COG0442	J	Prolyl-tRNA synthetase	ProS	Aminoacyl-tRNA synthetases		5XIF
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_00165	COG0438	M	Glycosyltransferase involved in cell wall bisynthesis	RfaB			2IV7
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_00175	COG2814	G	Predicted arabinose efflux permease AraJ, MFS family	AraJ			4LDS
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_00180	COG1057	H	Nicotinate-nucleotide adenylyltransferase NadD	NadD	NAD biosynthesis		1YUM
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_00185	COG4108	J	Peptide chain release factor RF-3	PrfC	Translation factors		3UOQ
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_00190	COG0491	R	Glyoxylase or a related metal-dependent hydrolase, beta-lactamase superfamily II	GloB		25670698	1QH3
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_00195	COG2967	P	Uncharacterized conserved protein ApaG affecting Mg2+/Co2+ transport	ApaG			1TZA
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_00200	COG0367	E	Asparagine synthetase B (glutamine-hydrolyzing)	AsnB	Asparagine biosynthesis	25951518	2ETD
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_00205	COG0138	F	AICAR transformylase/IMP cyclohydrolase PurH	PurH	Purine biosynthesis		1G8M
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_00210	COG0501	O	Zn-dependent protease with chaperone function	HtpX			2YPT
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_00220	COG0624	E	Acetylornithine deacetylase/Succinyl-diaminopimelate desuccinylase or related deacylase	ArgE	Arginine biosynthesis		1CG2
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_00240	COG0002	E	N-acetyl-gamma-glutamylphosphate reductase	ArgC	Arginine biosynthesis		3DR3
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_00255	COG4959	OU	Type IV secretory pathway, protease TraF	TraF			1B12
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_00260	COG5256	J	Translation elongation factor EF-1alpha (GTPase)	TEF1	Translation factors		1F60
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_00265	COG0331	I	Malonyl CoA-acyl carrier protein transacylase	FabD	Fatty acid biosynthesis		1YXC
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_00270	COG0110	R	Acetyltransferase, isoleucine patch superfamily	WbbJ			
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_00275	COG3263	CP	NhaP-type Na+/H+ and K+/H+ antiporter with C-terminal TrkAC and CorC domains	NhaP2			
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_00300	COG0514	L	Superfamily II DNA helicase RecQ	RecQ			1OYW
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_00305	COG2511	J	Archaeal Glu-tRNAGln amidotransferase subunit E, contains GAD domain	GatE			2D6F
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_00310	COG0154	J	Asp-tRNAAsn/Glu-tRNAGln amidotransferase A subunit or related amidase	GatA	Aminoacyl-tRNA synthetases		3H0L
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_00315	COG0721	J	Asp-tRNAAsn/Glu-tRNAGln amidotransferase C subunit	GatC	Aminoacyl-tRNA synthetases		3H0L
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_00320	COG0072	J	Phenylalanyl-tRNA synthetase beta subunit	PheT	Aminoacyl-tRNA synthetases		3L4G
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_00325	COG0016	J	Phenylalanyl-tRNA synthetase alpha subunit	PheS	Aminoacyl-tRNA synthetases		3L4G
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_00330	COG0784	T	CheY-like REC (receiver) domain, includes chemotaxis protein CheY  and sporulation regulator Spo0F	CheY			6QRJ
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_00345	COG0669	H	Phosphopantetheine adenylyltransferase	CoaD	Pantothenate/CoA biosynthesis		3F3M
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_00355	COG0155	P	Sulfite reductase, beta subunit (hemoprotein)	CysI	Cysteine biosynthesis		1AOP
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_00360	COG0716	C	Flavodoxin	FldA	Heme biosynthesis		1AG9
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_00365	COG1524	T	c-di-AMP phosphodiesterase AtaC or nucleotide pyrophosphatase, AlkP superfamily	AtaC		32188788	1EI6
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_00370	COG0229	O	Peptide methionine sulfoxide reductase MsrB	MsrB			1L1D
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_00380	COG0470	L	DNA polymerase III, delta prime subunit	HolB			1A5T
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_00400	COG1103	J	Archaeal Cys-tRNA synthase (O-phospho-L-seryl-tRNA:Cys-tRNA synthase)				2E7I
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_00405	COG1187	J	Pseudouridylate synthase RsuA, specific for 16S rRNA U516  and 23S rRNA U2605	RsuA	16S rRNA modification		1KSK
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_00420	COG0482	J	tRNA U34 2-thiouridine synthase MnmA/TrmU, contains the PP-loop ATPase domain	MnmA	tRNA modification	25825430	2HMA
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_00425	COG0001	H	Glutamate-1-semialdehyde aminotransferase	HemL	Heme biosynthesis		2CFB
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_00430	COG1506	E	Dipeptidyl aminopeptidase/acylaminoacyl peptidase	DAP2			2JBW
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_00440	COG2010	C	Cytochrome c, mono- and diheme variants	CccA			1A2S
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_00450	COG0843	C	Heme/copper-type cytochrome/quinol oxidase, subunit 1	CyoB			1AR1
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_00470	COG2010	C	Cytochrome c, mono- and diheme variants	CccA			1A2S
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_00480	COG5557	C	Ni/Fe-hydrogenase 2 integral membrane subunit HybB	HybB			
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_00485	COG1142	C	Fe-S-cluster-containing hydrogenase component 2	HycB			
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_00500	COG0474	P	Magnesium-transporting ATPase (P-type)	MgtA			1IWO
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_00510	COG1451	R	UTP pyrophosphatase, metal-dependent hydrolase family	YgjP		27941785	4JIU
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_00515	COG1694	V	NTP pyrophosphatase, house-cleaning of non-canonical NTPs	MazG			1VMG
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_00520	COG1393	P	Arsenate reductase or related protein, glutaredoxin family	ArsC			1I9D
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_00525	COG0582	LX	Integrase/recombinase, includes phage integrase	FimB			
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_00530	COG0454	KR	N-acetyltransferase, GNAT superfamily (includes histone acetyltransferase HPA2)	PhnO			
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_00540	COG2977	Q	4'-phosphopantetheinyl transferase EntD (siderophore biosynthesis)	EntD			4QJK
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_00550	COG0624	E	Acetylornithine deacetylase/Succinyl-diaminopimelate desuccinylase or related deacylase	ArgE	Arginine biosynthesis		1CG2
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_00555	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_00565	COG1011	H	FMN and 5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YigB, HAD superfamily (riboflavin biosynthesis)	YigB		24123841	4JB3
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_00570	COG0269	G	3-keto-L-gulonate-6-phosphate decarboxylase	UlaD			3F4W
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_00580	COG3978	E	Acetolactate synthase small subunit, contains ACT domain	IlvM			
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_00585	COG0059	EH	Ketol-acid reductoisomerase	IlvC	Isoleucine, leucine, valine biosynthesis		1NP3
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_00595	COG1010	H	Precorrin-3B methylase	CobJ	Cobalamine/B12 biosynthesis		2ZVB
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_00600	COG0652	O	Peptidyl-prolyl cis-trans isomerase (rotamase) - cyclophilin family	PpiB			4DGD
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_00605	COG0596	HR	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold	MenH	Menaquinone biosynthesis		4MYS
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_00615	COG1409	T	3',5'-cyclic AMP phosphodiesterase CpdA	CpdA			2ZO9
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_00620	COG0152	F	Phosphoribosylaminoimidazole-succinocarboxamide synthase	PurC	Purine biosynthesis		1A48
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_00630	COG0329	EM	4-hydroxy-tetrahydrodipicolinate synthase/N-acetylneuraminate lyase	DapA	Lysine biosynthesis	27574185	2R91
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_00635	COG0289	E	4-hydroxy-tetrahydrodipicolinate reductase	DapB	Lysine biosynthesis	29684280	1ARZ
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_00640	COG0632	L	Holliday junction resolvasome RuvABC DNA-binding subunit	RuvA			1BDX
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_00660	COG1579	R	Predicted nucleic acid-binding protein DR0291, contains C4-type Zn-ribbon domain	DR0291			4ILO
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_00665	COG5010	UW	Flp pilus assembly protein TadD, contains TPR repeats	TadD			3WXX
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_00670	COG4799	I	Acetyl-CoA carboxylase, carboxyltransferase component	MmdA			1OD2
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_00675	COG1237	R	Metal-dependent hydrolase, beta-lactamase superfamily II				2P4Z
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_00680	COG3568	R	Metal-dependent hydrolase, endonuclease/exonuclease/phosphatase family	ElsH		15178340	
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_00685	COG0501	O	Zn-dependent protease with chaperone function	HtpX			2YPT
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_00690	COG1459	NUW	Type II secretory pathway, component PulF	PulF			2VMA
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_00695	COG0630	NU	Type IV secretory pathway ATPase VirB11/Archaellum biosynthesis ATPase ArlI/FlaI	VirB11		32416640	1G6O
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_00700	COG0630	NU	Type IV secretory pathway ATPase VirB11/Archaellum biosynthesis ATPase ArlI/FlaI	VirB11		32416640	1G6O
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_00705	COG0630	NU	Type IV secretory pathway ATPase VirB11/Archaellum biosynthesis ATPase ArlI/FlaI	VirB11		32416640	1G6O
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_00710	COG1157	NU	Flagellar biosynthesis/type III secretory pathway ATPase FliI	FliI			5B0O
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_00715	COG1936	F	Broad-specificity NMP kinase	Fap7			1RKB
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_00720	COG0606	O	Predicted Mg-chelatase, contains ChlI-like and ATPase domains, YifB family	YifB			
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_00735	COG2885	M	Outer membrane protein OmpA and related peptidoglycan-associated (lipo)proteins	OmpA			1OAP
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_00740	COG1055	P	Na+/H+ antiporter NhaD or related arsenite permease	ArsB			
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_00750	COG0143	J	Methionyl-tRNA synthetase	MetG	Aminoacyl-tRNA synthetases		1A8H
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_00765	COG1060	H	2-iminoacetate synthase ThiH/Menaquinone biosynthesis enzymes MqnC and MqnE	ThiH	Thiamine biosynthesis	18801996	4WCX
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_00770	COG3536	S	Uncharacterized conserved protein, DUF971 family				2L6N
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_00780	COG1023	G	6-phosphogluconate dehydrogenase (decarboxylating)	YqeC			4E21
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_00785	COG4638	PR	Phenylpropionate dioxygenase or related ring-hydroxylating dioxygenase, large terminal subunit	HcaE			4QDC
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_00790	COG4147	C	Na+(or H+)/acetate symporter ActP	ActP			
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_00795	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_00825	COG0728	M	Lipid II flippase MurJ/MviN (peptidoglycan biosynthesis)	MurJ		25013077	5T77
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_00830	COG3970	R	Fumarylacetoacetate (FAA) hydrolase family protein				2Q18
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_00835	COG2252	F	Xanthine/guanine/uracil/vitamin C permease GhxP/GhxQ, nucleobase:cation symporter 2 ( NCS2) family	NCS2		24169576;24214977	
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_00850	COG0590	J	tRNA(Arg) A34 adenosine deaminase TadA	TadA	Pyrimidine salvagetRNA modification		2A8N
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_00855	COG0005	F	Purine nucleoside phosphorylase	XapA	Purine salvage		1YQQ
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_00870	COG2236	H	Hypoxanthine phosphoribosyltransferase	Hpt1	Purine salvage		2JKZ
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_00880	COG0402	FR	Cytosine/adenosine deaminase or related metal-dependent hydrolase	SsnA	Pyrimidine salvage		3O7U
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_00885	COG0798	P	Arsenite efflux pump ArsB, ACR3 family	ACR3			
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_00890	COG0154	J	Asp-tRNAAsn/Glu-tRNAGln amidotransferase A subunit or related amidase	GatA	Aminoacyl-tRNA synthetases		3H0L
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_00895	COG0402	FR	Cytosine/adenosine deaminase or related metal-dependent hydrolase	SsnA	Pyrimidine salvage		3O7U
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_00900	COG1473	R	Metal-dependent amidase/aminoacylase/carboxypeptidase	AbgB	Lysine biosynthesis	17307853	3RAM
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_00915	COG0697	GER	Permease of the drug/metabolite transporter (DMT) superfamily	RhaT			5I20
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_00920	COG0662	G	Mannose-6-phosphate isomerase, cupin superfamily	ManC			1IPJ
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_00935	COG0608	L	ssDNA-specific exonuclease RecJ, DHH superfamily, may be involved in archaeal DNA replication intiation	RecJ			1IR6
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_00940	COG0342	U	Preprotein translocase subunit SecD	SecD		26100040	3AQP
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_00945	COG1862	U	Protein translocase subunit YajC	YajC			
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_00955	COG1209	M	dTDP-glucose pyrophosphorylase	RmlA1			1FXO
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_00960	COG0520	E	Selenocysteine lyase/Cysteine desulfurase	CsdA			4LW2
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_00965	COG0354	O	Folate-binding protein YgfZ, synthesis and repair of Fe-S clusters	YgfZ		27941785;22081392	1NRK
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_00970	COG0793	O	C-terminal processing protease CtpA/Prc, contains a PDZ domain	CtpA			6IQU
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_00980	COG5113
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_00990	COG1824	P	Permease, similar to cation transporters	MgtE2			
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_00995	COG0494	V	8-oxo-dGTP pyrophosphatase MutT and related house-cleaning NTP pyrophosphohydrolases, NUDIX family	MutT			4V14
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_01000	COG0772	D	Peptodoglycan polymerase FtsW/RodA/SpoVE	FtsW		30692671	6BAR
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_01005	COG1530	J	Ribonuclease G or E	CafA			1SLJ
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_01025	COG1385	J	16S rRNA U1498 N3-methylase RsmE	RsmE	16S rRNA modification		1NXZ
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_01035	COG1124	EP	ABC-type dipeptide/oligopeptide/nickel transport system, ATPase component	DppF			
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_01040	COG0719	O	Fe-S cluster assembly scaffold protein SufB	SufB			1VH4
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_01045	COG0719	O	Fe-S cluster assembly scaffold protein SufB	SufB			1VH4
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_01060	COG1070	G	Sugar (pentulose or hexulose) kinase	XylB	Non-phosphorylated Entner-Doudoroff pathway		4C23
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_01065	COG2165	NUW	Type II secretory pathway, pseudopilin PulG	PulG			1AY2
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_01075	COG1477	HO	FAD:protein FMN transferase ApbE	ApbE		23558683;30154099	1VRM
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_01080	COG4745	R	Predicted membrane-bound mannosyltransferase, involved in protein glycosylation	PMT		32706435	
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_01085	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_01095	COG1524	T	c-di-AMP phosphodiesterase AtaC or nucleotide pyrophosphatase, AlkP superfamily	AtaC		32188788	1EI6
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_01100	COG5038
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_01105	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_01110	COG1524	T	c-di-AMP phosphodiesterase AtaC or nucleotide pyrophosphatase, AlkP superfamily	AtaC		32188788	1EI6
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_01115	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_01120	COG1649	S	Uncharacterized lipoprotein YddW, UPF0748 family	YddW			5OQ2
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_01125	COG4145	H	Na+/panthothenate symporter	PanF			
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_01135	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_01150	COG0673	R	Predicted dehydrogenase	MviM			3UUW
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_01160	COG0738	G	Fucose permease	FucP			3O7P
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_01165	COG0673	R	Predicted dehydrogenase	MviM			3UUW
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_01190	COG0848	U	Biopolymer transport protein ExbD	ExbD			2JWK
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_01205	COG1729	D	Cell division protein CpoB, coordinates peptidoglycan biosynthesis and outer membrane constriction	CpoB		25951518	2WZ7
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_01210	COG0615	M	Glycerol-3-phosphate cytidylyltransferase, cytidylyltransferase family	TagD	Riboflavin/FAD biosynthesis		2B7L
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_01215	COG2407	G	L-fucose isomerase or related protein	FucI		22865846	1FUI
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_01220	COG0579	G	L-2-hydroxyglutarate oxidase LhgO	LhgO			3DME
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_01225	COG0554	C	Glycerol kinase	GlpK			2ZF5
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_01230	COG1349	KG	DNA-binding transcriptional regulator of sugar metabolism, DeoR/GlpR family	GlpR			
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_01235	COG4221	C	NADP-dependent 3-hydroxy acid dehydrogenase YdfG	YdfG	Pyrimidine degradation		3P19
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_01245	COG3828	R	Type 1 glutamine amidotransferase (GATase1)-like domain				
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_01250	COG0673	R	Predicted dehydrogenase	MviM			3UUW
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_01270	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_01275	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_01290	COG2273	G	Beta-glucanase, GH16 family	BglS			1AJK
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_01295	COG2813	J	16S rRNA G1207 methylase RsmC	RsmC	16S rRNA modification		1DUS
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_01305	COG2185	I	Methylmalonyl-CoA mutase, C-terminal domain/subunit (cobalamin-binding)	Sbm			1B1A
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_01315	COG3709	G	Ribose 1,5-bisphosphate kinase PhnN	PhnN			
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_01330	COG3711	K	Transcriptional antiterminator	BglG			1AUU
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_01335	COG1521	H	Pantothenate kinase type III	CoaX			2F9T
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_01340	COG0355	C	FoF1-type ATP synthase, epsilon subunit	AtpC	FoF1-type ATP synthase	29149348;30304218	3OAA
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_01345	COG1155	C	Archaeal/vacuolar-type H+-ATPase catalytic subunit A/Vma1	NtpA	A/V-type ATP synthase		3J9T
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_01350	COG0224	C	FoF1-type ATP synthase, gamma subunit	AtpG	FoF1-type ATP synthase	15326535	3OAA
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_01355	COG0055	C	FoF1-type ATP synthase, beta subunit	AtpD	FoF1-type ATP synthase		3OAA
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_01365	COG0711	C	FoF1-type ATP synthase, membrane subunit b or b'	AtpF	FoF1-type ATP synthase		1B9U
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_01370	COG0636	C	FoF1-type ATP synthase, membrane subunit c/Archaeal/vacuolar-type H+-ATPase, subunit K	AtpE	FoF1-type ATP synthase		1C17
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_01385	COG0500	QR	SAM-dependent methyltransferase	SmtA			5DNK
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_01390	COG1206	J	Folate-dependent tRNA-U54 methylase TrmFO/GidA	TrmFO	tRNA modification	16027442	
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_01395	COG1159	J	GTPase Era, involved in 16S rRNA processing	Era			1EGA
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_01400	COG2874	N	Archaellum biogenesis ATPase ArlH/FlaH	FlaH		32416640	4WIA
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_01415	COG4221	C	NADP-dependent 3-hydroxy acid dehydrogenase YdfG	YdfG	Pyrimidine degradation		3P19
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_01420	COG2755	DI	Lysophospholipase L1 or related esterase. Includes spore coat protein LipC/YcsK	TesA			1BWP
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_01425	COG1032	R	Radical SAM superfamily enzyme YgiQ, UPF0313 family	YgiQ			6FD2
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_01440	COG1183	I	Phosphatidylserine synthase	PssA			
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_01445	COG0592	L	DNA polymerase III sliding clamp (beta) subunit, PCNA homolog	DnaN			1JQJ
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_01455	COG0362	G	6-phosphogluconate dehydrogenase	Gnd	Pentose phosphate pathway	25329577	2ZYA
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_01460	COG0216	J	Protein chain release factor RF1	PrfA	Translation factors		1RQ0
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_01465	COG4123	J	tRNA1(Val) A37 N6-methylase TrmN6	TrmN6	tRNA modification		
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_01470	COG0793	O	C-terminal processing protease CtpA/Prc, contains a PDZ domain	CtpA			6IQU
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_01485	COG0168	P	Trk-type K+ transport system, membrane component	TrkG			3PJZ
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_01490	COG1748	E	Saccharopine dehydrogenase, NADP-dependent	Lys9	Lysine biosynthesis		1E5L
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_01495	COG2017	G	Galactose mutarotase or related enzyme	GalM			1LUR
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_01500	COG0616	O	Periplasmic serine protease, ClpP class	SppA			3BEZ
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_01505	COG1030	O	Membrane-bound serine protease NfeD, ClpP class	NfeD			2DEO
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_01510	COG3064	M	Membrane protein TolA involved in colicin uptake	TolA			1S62
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_01515	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_01520	COG1426	D	Cytoskeletal protein RodZ, contains Xre-like HTH and DUF4115 domains	RodZ			3FYM
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_01525	COG2263	R	Predicted RNA methylase				6H2U
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_01530	COG0223	J	Methionyl-tRNA formyltransferase	Fmt			1FMT
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_01535	COG2214	K	Curved DNA-binding protein CbpA, contains a DnaJ-like domain	CbpA			
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_01540	COG0576	O	Molecular chaperone GrpE (heat shock protein HSP-70)	GrpE			1DKG
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_01545	COG1674	D	DNA segregation ATPase FtsK/SpoIIIE or related protein	FtsK			2IUT
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_01560	COG0249	L	DNA mismatch repair ATPase MutS	MutS			1E3M
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_01565	COG1647	Q	Esterase/lipase	YvaK			4DIU
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_01570	COG0142	H	Geranylgeranyl pyrophosphate synthase	IspA	Isoprenoid biosynthesis		2AZJ
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_01595	COG0845	MV	Multidrug efflux pump subunit AcrA (membrane-fusion protein)	AcrA			1T5E
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_01600	COG0577	V	ABC-type antimicrobial peptide transport system, permease component	SalY			
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_01605	COG4555	CP	ABC-type Na+ transport system, ATPase component NatA	NatA			
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_01620	COG0079	E	Histidinol-phosphate/aromatic aminotransferase or cobyric acid decarboxylase	HisC	Cobalamine/B12 biosynthesis		4R2N
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_01625	COG1060	H	2-iminoacetate synthase ThiH/Menaquinone biosynthesis enzymes MqnC and MqnE	ThiH	Thiamine biosynthesis	18801996	4WCX
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_01630	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_01635	COG3321	Q	Acyl transferase domain in polyketide synthase (PKS) enzymes	PksD			6IYO
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_01645	COG0236	I	Acyl carrier protein	AcpP	Fatty acid biosynthesis		1ACP
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_01650	COG0343	J	Queuine/archaeosine tRNA-ribosyltransferase	Tgt	tRNA modification	15805528	1XW8
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_01665	COG0771	M	UDP-N-acetylmuramoylalanine-D-glutamate ligase	MurD	Mureine biosynthesis		1E0D
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_01670	COG0371	C	Glycerol dehydrogenase or related enzyme, iron-containing ADH family	GldA	Isoprenoid biosynthesis	20688982	3S99
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_01675	COG0793	O	C-terminal processing protease CtpA/Prc, contains a PDZ domain	CtpA			6IQU
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_01680	COG0462	F	Phosphoribosylpyrophosphate synthetase	PrsA	Histidine biosynthesis, Purine biosynthesis		1DKR
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_01685	COG1043	M	Acyl-[acyl carrier protein]--UDP-N-acetylglucosamine O-acyltransferase	LpxA	Lipid A biosynthesis		1J2Z
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_01695	COG2831	U	Hemolysin activation/secretion protein	FhaC			2MHJ
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_01700	COG0305	L	Replicative DNA helicase	DnaB			1B79
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_01705	COG0359	J	Ribosomal protein L9	RplI	Ribosome 50S subunit	27112601	1VS6
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_01710	COG2965	L	Primosomal replication protein N	PriB			2PNH
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_01720	COG0193	J	Peptidyl-tRNA hydrolase	Pth	Translation factors	11835511	1RYB
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_01725	COG1825	J	Ribosomal protein L25 (general stress protein Ctc)	RplY	Ribosome 50S subunit		1B75
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_01730	COG0019	E	Diaminopimelate decarboxylase	LysA	Lysine biosynthesis		1D7K
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_01755	COG1388	M	LysM repeat	LysM			1E0G
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_01765	COG1209	M	dTDP-glucose pyrophosphorylase	RmlA1			1FXO
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_01770	COG0449	M	Glucosamine 6-phosphate synthetase, contains amidotransferase and phosphosugar isomerase domains	GlmS			2J6H
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_01790	COG4771	P	Outer membrane receptor for ferrienterochelin and colicins	FepA		16468998	2HDF
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_01795	COG1021	Q	EntE, 2,3-dihydroxybenzoate-AMP synthase component of non-ribosomal peptide synthetase	EntE			3RG2
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_01800	COG1087	M	UDP-glucose 4-epimerase	GalE			1A9Y
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_01805	COG0219	J	tRNA(Leu) C34 or U34 (ribose-2'-O)-methylase TrmL, contains SPOUT domain	TrmL	tRNA modification		4JAK
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_01810	COG2227	H	2-polyprenyl-3-methyl-5-hydroxy-6-metoxy-1,4-benzoquinol methylase	UbiG	Ubiquinone biosynthesis		1BHJ
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_01815	COG0828	J	Ribosomal protein S21	RpsU	Ribosome 30S subunit		4V4H
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_01825	COG0052	J	Ribosomal protein S2	RpsB	Ribosome 30S subunit		4V4H
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_01835	COG1210	M	UTP-glucose-1-phosphate uridylyltransferase	GalU			2E3D
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_01845	COG0659	P	Sulfate permease or related transporter, MFS superfamily	SUL1			3NY7
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_01850	COG1218	P	3'-Phosphoadenosine 5'-phosphosulfate (PAPS) 3'-phosphatase	CysQ			
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_01855	COG2176	L	DNA polymerase III, alpha subunit (gram-positive type)	PolC			
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_01860	COG0299	F	Folate-dependent phosphoribosylglycinamide formyltransferase PurN	PurN	Purine biosynthesis	25013077	1C2T
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_01865	COG0701	S	Uncharacterized membrane protein YraQ, UPF0718 family	YraQ			
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_01880	COG1026	O	Zn-dependent peptidase, M16 (insulinase) family	Cym1			2FGE
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_01890	COG0019	E	Diaminopimelate decarboxylase	LysA	Lysine biosynthesis		1D7K
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_01895	COG0169	E	Shikimate 5-dehydrogenase	AroE	Aromatic amino acid biosynthesis		1NPD
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_01900	COG4960	OT	Flp pilus assembly protein, peptidase CpaA	CpaA		19493340	3S0X
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_01915	COG0767	M	Permease subunit MlaE of the ABC-type intermembrane phospholipid transporter Mla	MlaE			6IC4
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_01920	COG0488	R	ATPase components of ABC transporters with duplicated ATPase domains	Uup			5ZXD
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_01930	COG2854	M	Periplasmic subunit MlaC of the ABC-type intermembrane phospholipid transporter Mla	MlaC		19383799	2QGU
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_01940	COG2166	O	Sulfur transfer protein SufE, Fe-S cluster assembly	SufE			1MZG
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_01945	COG0148	G	Enolase	Eno	Glycolysis		1E9I
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_01950	COG5116
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_01955	COG0223	J	Methionyl-tRNA formyltransferase	Fmt			1FMT
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_01960	COG0439	I	Biotin carboxylase	AccC	Fatty acid biosynthesis		1BNC
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_01970	COG3633	E	Na+/serine and Na+/threonine symporter SstT	SstT			
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_01975	COG2518	O	Protein-L-isoaspartate O-methyltransferase	Pcm		24909784	3LBF
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_01980	COG0269	G	3-keto-L-gulonate-6-phosphate decarboxylase	UlaD			3F4W
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_01995	COG1524	T	c-di-AMP phosphodiesterase AtaC or nucleotide pyrophosphatase, AlkP superfamily	AtaC		32188788	1EI6
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_02035	COG3236	HV	N-glycosidase YbiA/RibX (riboflavin biosynthesis, damage control), NADAR superfamily	RibX		22399070;25431972	2B3W
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_02065	COG0630	NU	Type IV secretory pathway ATPase VirB11/Archaellum biosynthesis ATPase ArlI/FlaI	VirB11		32416640	1G6O
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_02070	COG0177	L	Endonuclease III	Nth			4UOB
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_02085	COG2308	R	Circularly permuted ATP-grasp protein			20023723	3N6X
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_02090	COG0164	L	Ribonuclease HII	RnhB			1EKE
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_02100	COG0164	L	Ribonuclease HII	RnhB			1EKE
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_02110	COG2895	P	Sulfate adenylyltransferase subunit 1, EFTu-like GTPase family	CysN	Cysteine biosynthesis		1ZUN
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_02120	COG0690	U	Preprotein translocase subunit SecE	SecE		29684280	5MG3
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_02130	COG0080	J	Ribosomal protein L11	RplK	Ribosome 50S subunit		2E34
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_02135	COG0081	J	Ribosomal protein L1	RplA	Ribosome 50S subunit		3J65
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_02155	COG0086	K	DNA-directed RNA polymerase, beta' subunit/160 kD subunit	RpoC	RNA polymerase		1NT9
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_02160	COG0048	J	Ribosomal protein S12	RpsL	Ribosome 30S subunit		4V4H
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_02165	COG0049	J	Ribosomal protein S7	RpsG	Ribosome 30S subunit		4V4H
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_02170	COG0480	J	Translation elongation factor EF-G, a GTPase	FusA	Translation factors		1DAR
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_02175	COG0051	J	Ribosomal protein S10	RpsJ	Ribosome 30S subunit		4V4H
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_02180	COG0087	J	Ribosomal protein L3	RplC	Ribosome 50S subunit		1VS6
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_02185	COG0088	J	Ribosomal protein L4	RplD	Ribosome 50S subunit		1VS6
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_02190	COG0089	J	Ribosomal protein L23	RplW	Ribosome 50S subunit		1VS6
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_02195	COG0090	J	Ribosomal protein L2	RplB	Ribosome 50S subunit		1VS6
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_02200	COG0185	J	Ribosomal protein S19	RpsS	Ribosome 30S subunit		4V4H
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_02215	COG1847	R	Predicted RNA-binding protein Jag (SpoIIIJ-associated), conains KH and R3H domains	Jag			3GKU
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_02220	COG0197	J	Ribosomal protein L16/L10AE	RplP	Ribosome 50S subunit		1WKI
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_02225	COG0255	J	Ribosomal protein L29	RpmC	Ribosome 50S subunit		1VS6
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_02230	COG0186	J	Ribosomal protein S17	RpsQ	Ribosome 30S subunit		4V4H
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_02235	COG0093	J	Ribosomal protein L14	RplN	Ribosome 50S subunit		4V4H
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_02240	COG0198	J	Ribosomal protein L24	RplX	Ribosome 50S subunit		1VS6
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_02245	COG0094	J	Ribosomal protein L5	RplE	Ribosome 50S subunit		1VS6
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_02250	COG0199	J	Ribosomal protein S14	RpsN	Ribosome 30S subunit		4V4H
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_02255	COG0096	J	Ribosomal protein S8	RpsH	Ribosome 30S subunit		4V4H
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_02260	COG0097	J	Ribosomal protein L6P/L9E	RplF	Ribosome 50S subunit		1VS6
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_02270	COG0098	J	Ribosomal protein S5	RpsE	Ribosome 30S subunit		4V4H
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_02275	COG1727	J	Ribosomal protein L18E	RPL18A	Archaeal ribosomal proteins		
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_02280	COG0201	U	Preprotein translocase subunit SecY	SecY			1RH5
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_02285	COG5406
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_02295	COG0100	J	Ribosomal protein S11	RpsK	Ribosome 30S subunit		4V4H
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_02300	COG1189	J	Predicted rRNA methylase YqxC, contains S4 and FtsJ domains	YqxC			3OPN
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_02305	COG0202	K	DNA-directed RNA polymerase, alpha subunit/40 kD subunit	RpoA	RNA polymerase		4KN7
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_02310	COG0203	J	Ribosomal protein L17	RplQ	Ribosome 50S subunit		1GD8
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_02315	COG0436	E	Aspartate/methionine/tyrosine aminotransferase	AspB	Isoleucine, leucine, valine biosynthesis		2O0R
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_02320	COG1091	M	dTDP-4-dehydrorhamnose reductase	RfbD			1KBZ
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_02325	COG1173	EP	ABC-type dipeptide/oligopeptide/nickel transport system, permease component	DppC			
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_02330	COG1173	EP	ABC-type dipeptide/oligopeptide/nickel transport system, permease component	DppC			
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_02335	COG4533	K	DNA-binding transcriptional regulator SgrR of sgrS sRNA, contains a MarR-type HTH domain and a periplasmic-type solute-binding domain	SgrR			
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_02350	COG1566	V	Multidrug resistance efflux pump EmrA	EmrA			4TKO
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_02360	COG1519	M	3-deoxy-D-manno-octulosonic-acid transferase	KdtA	Lipid A biosynthesis		2XCI
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_02365	COG3280	G	Maltooligosyltrehalose synthase	TreY			
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_02385	COG1609	K	DNA-binding transcriptional regulator, LacI/PurR family	PurR			1BDH
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_02395	COG2165	NUW	Type II secretory pathway, pseudopilin PulG	PulG			1AY2
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_02410	COG0296	G	1,4-alpha-glucan branching enzyme	GlgB		25871919	4LPC
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_02415	COG1729	D	Cell division protein CpoB, coordinates peptidoglycan biosynthesis and outer membrane constriction	CpoB		25951518	2WZ7
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_02425	COG1291	N	Flagellar motor component MotA	MotA			
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_02430	COG0848	U	Biopolymer transport protein ExbD	ExbD			2JWK
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_02450	COG2211	G	Na+/melibiose symporter or related transporter	MelB			4M64
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_02465	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_02485	COG0577	V	ABC-type antimicrobial peptide transport system, permease component	SalY			
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_02490	COG4555	CP	ABC-type Na+ transport system, ATPase component NatA	NatA			
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_02495	COG0211	J	Ribosomal protein L27	RpmA	Ribosome 50S subunit		1VS6
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_02500	COG0261	J	Ribosomal protein L21	RplU	Ribosome 50S subunit		1VS6
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_02510	COG5010	UW	Flp pilus assembly protein TadD, contains TPR repeats	TadD			3WXX
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_02515	COG1198	L	Primosomal protein N' (replication factor Y) - superfamily II helicase	PriA			6DCR
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_02520	COG1154	HI	Deoxyxylulose-5-phosphate synthase	Dxs	Pyridoxal phosphate biosynthesis		2O1S
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_02525	COG1722	L	Exonuclease VII small subunit	XseB			1VP7
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_02530	COG2165	NUW	Type II secretory pathway, pseudopilin PulG	PulG			1AY2
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_02540	COG2165	NUW	Type II secretory pathway, pseudopilin PulG	PulG			1AY2
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_02545	COG4967	NW	Type IV pilus assembly protein PilV	PilV			
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_02550	COG4966	NW	Type IV pilus assembly protein PilW	PilW			
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_02565	COG0785	CO	Cytochrome c biogenesis protein CcdA	CcdA			5VKV
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_02570	COG1225	O	Peroxiredoxin	Bcp			5IPH
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_02580	COG5652	S	VanZ-like family protein (function unknown)	VanZ			
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_02585	COG5002	T	Sensor histidine kinase WalK	WalK			4I5S
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_02595	COG1047	O	Peptidyl-prolyl cis-trans isomerase, FKBP type	SlpA			2M2A
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_02600	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_02605	COG0508	C	Pyruvate/2-oxoglutarate dehydrogenase complex, dihydrolipoamide acyltransferase (E2) component	AceF	Pyruvate oxidation		1B5S
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_02610	COG1154	HI	Deoxyxylulose-5-phosphate synthase	Dxs	Pyridoxal phosphate biosynthesis		2O1S
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_02615	COG3959	G	Transketolase, N-terminal subunit	TktA1			
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_02620	COG0215	J	Cysteinyl-tRNA synthetase	CysS	Aminoacyl-tRNA synthetases		1LI5
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_02630	COG0800	G	2-keto-3-deoxy-6-phosphogluconate aldolase	Eda	Entner-Doudoroff pathway		2V81
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_02650	COG5010	UW	Flp pilus assembly protein TadD, contains TPR repeats	TadD			3WXX
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_02660	COG1185	J	Polyribonucleotide nucleotidyltransferase (polynucleotide phosphorylase)	Pnp			1E3P
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_02665	COG1972	F	Nucleoside permease NupC	NupC			3TIJ
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_02670	COG1044	M	UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase	LpxD	Lipid A biosynthesis		6P83
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_02675	COG4706	I	Predicted 3-hydroxylacyl-ACP dehydratase, HotDog domain				
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_02680	COG1419	N	Flagellar biosynthesis GTPase FlhF	FlhF			3SYN
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_02690	COG0509	E	Glycine cleavage system protein H (lipoate-binding)	GcvH	Glycine cleavage		1DXM
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_02700	COG4535	P	Mg2+ and Co2+ transporter CorC, contains CBS pair and CorC-HlyC domains	CorC		1779764	4HG0
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_02705	COG0113	H	Delta-aminolevulinic acid dehydratase, porphobilinogen synthase	HemB	Heme biosynthesis		1I8J
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_02710	COG0143	J	Methionyl-tRNA synthetase	MetG	Aminoacyl-tRNA synthetases		1A8H
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_02715	COG4257	V	Streptogramin lyase	Vgb			
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_02720	COG0441	J	Threonyl-tRNA synthetase	ThrS	Aminoacyl-tRNA synthetases		1NYQ
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_02735	COG1190	J	Lysyl-tRNA synthetase (class II)	LysU	Aminoacyl-tRNA synthetases		1BBU
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_02740	COG1199	L	Rad3-related DNA helicase DinG	DinG			5H8W
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_02745	COG5010	UW	Flp pilus assembly protein TadD, contains TPR repeats	TadD			3WXX
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_02750	COG2887	L	RecB family exonuclease	Slr0479			
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_02755	COG0210	L	Superfamily I DNA or RNA helicase	UvrD			6PPR
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_02760	COG3007	I	Trans-2-enoyl-CoA reductase				3S8M
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_02765	COG1893	H	Ketopantoate reductase	PanE	Pantothenate/CoA biosynthesis		1BG6
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_02770	COG0450	V	Alkyl hydroperoxide reductase subunit AhpC (peroxiredoxin)	AhpC			2RII
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_02780	COG4099	R	Predicted peptidase				3DOH
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_02785	COG0441	J	Threonyl-tRNA synthetase	ThrS	Aminoacyl-tRNA synthetases		1NYQ
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_02795	COG0172	J	Seryl-tRNA synthetase	SerS	Aminoacyl-tRNA synthetases		1SER
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_02805	COG0297	G	Glycogen synthase	GlgA			1RZU
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_02810	COG1179	J	tRNA A37 threonylcarbamoyladenosine dehydratase	TcdA	tRNA modification	27913733	4D7A
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_02815	COG0535	DH	Radical SAM superfamily maturase, SkfB/NifB/PqqE family	SkfB		23282011	6Q2P
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_02820	COG1058	L	ADP-ribose pyrophosphatase domain of DNA damage- and competence-inducible protein CinA	CinA		25313401	4CT9
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_02825	COG0315	H	Molybdenum cofactor biosynthesis enzyme MoaC	MoaC	Molybdopterin biosynthesis	32239579	1EKR
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_02830	COG2068	H	CTP:molybdopterin cytidylyltransferase MocA	MocA			2WAW
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_02835	COG1977	H	Molybdopterin synthase sulfur carrier subunit MoaD	MoaD	Molybdopterin biosynthesis	32239579	1FM0
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_02840	COG0314	H	Molybdopterin synthase catalytic subunit MoaE	MoaE	Molybdopterin biosynthesis	32239579	1FM0
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_02845	COG0730	P	Sulfite exporter TauE/SafE/YfcA and related permeases, UPF0721 family	TauE		21183667;22797525	
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_02850	COG0230	J	Ribosomal protein L34	RpmH	Ribosome 50S subunit		6SPB
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_02855	COG0594	J	RNase P protein component	RnpA			1A6F
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_02865	COG0706	M	Membrane protein insertase Oxa1/YidC/SpoIIIJ	YidC			3WO6
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_02870	COG0217	KJ	Transcriptional and/or translational regulatory protein YebC/TACO1	TACO1			1KON
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_02880	COG3386	G	Sugar lactone lactonase YvrE	YvrE	Non-phosphorylated Entner-Doudoroff pathway		1E1A
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_02900	COG2723	G	Beta-glucosidase/6-phospho-beta-glucosidase/beta-galactosidase	BglB			4HZ6
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_02905	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_02910	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_02920	COG2270	R	MFS-type transporter involved in bile tolerance, Atg22 family	BtlA		12583894	
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_02930	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_02935	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_02940	COG0421	E	Spermidine synthase (polyamine aminopropyltransferase)	SpeE			6BQ2
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_02955	COG0004	P	Ammonia channel protein AmtB	AmtB			1U77
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_02965	COG0004	P	Ammonia channel protein AmtB	AmtB			1U77
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_02975	COG2331	R	Predicted nucleic acid-binding protein, contains Zn-ribbon domain				
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_02980	COG1941	C	Coenzyme F420-reducing hydrogenase, gamma subunit	FrhG			5ODC
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_02985	COG3262	C	Ni,Fe-hydrogenase III component G	HycE1			
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_02990	COG0649	C	NADH:ubiquinone oxidoreductase 49 kD subunit (chain D)	NuoD	NADH dehydrogenase		2FUG
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_03000	COG4656	C	Na+-translocating ferredoxin:NAD+ oxidoreductase  RNF, RnfC subunit	RnfC	Na+-translocating Fd:NADH oxidoreductase		
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_03005	COG3383	R	Predicted molibdopterin-dependent oxidoreductase YjgC	YjgC			1AA6
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_03010	COG1005	C	NADH:ubiquinone oxidoreductase subunit 1 (chain H)	NuoH	NADH dehydrogenase		6HUM
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_03015	COG1600	J	Epoxyqueuosine reductase QueG (queuosine biosynthesis)	QueG	tRNA modification	2150253	5D08
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_03020	COG0839	C	NADH:ubiquinone oxidoreductase subunit 6 (chain J)	NuoJ	NADH dehydrogenase		4HE8
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_03030	COG1009	C	Membrane H+-translocase/NADH:ubiquinone oxidoreductase subunit 5 (chain L)/Multisubunit Na+/H+ antiporter, MnhA subunit	NuoL	NADH dehydrogenase		3RKO
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_03035	COG1007	C	NADH:ubiquinone oxidoreductase subunit 2 (chain N)	NuoN	NADH dehydrogenase		4HE8
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_03040	COG1007	C	NADH:ubiquinone oxidoreductase subunit 2 (chain N)	NuoN	NADH dehydrogenase		4HE8
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_03045	COG2873	E	O-acetylhomoserine/O-acetylserine sulfhydrylase, pyridoxal phosphate-dependent	MET17	Methionine biosynthesis		2CTZ
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_03060	COG0024	J	Methionine aminopeptidase	Map			3J2I
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_03070	COG0547	E	Anthranilate phosphoribosyltransferase, glycosyltransferase domain	TrpD	Aromatic amino acid biosynthesis		1KGZ
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_03080	COG4551	R	Predicted protein tyrosine phosphatase				
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_03085	COG0106	E	Phosphoribosylformimino-5-aminoimidazole carboxamide ribonucleotide (ProFAR) isomerase	HisA	Histidine biosynthesis		4U28
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_03095	COG4145	H	Na+/panthothenate symporter	PanF			
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_03100	COG0784	T	CheY-like REC (receiver) domain, includes chemotaxis protein CheY  and sporulation regulator Spo0F	CheY			6QRJ
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_03105	COG0040	E	ATP phosphoribosyltransferase	HisG	Histidine biosynthesis		1H3D
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_03110	COG0815	M	Apolipoprotein N-acyltransferase	Lnt			6NWR
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_03115	COG1834	E	N-Dimethylarginine dimethylaminohydrolase	DdaH			6LRH
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_03120	COG0253	E	Diaminopimelate epimerase	DapF	Lysine biosynthesis		1BWZ
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_03125	COG0119	E	Isopropylmalate/homocitrate/citramalate synthases	LeuA	Isoleucine, leucine, valine biosynthesis		4JN6
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_03130	COG1036	C	Archaeal flavoprotein	AfpA			3WIS
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_03145	COG2894	D	Septum site-determining ATPase MinD	MinD			4V02
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_03150	COG0582	LX	Integrase/recombinase, includes phage integrase	FimB			
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_03155	COG0755	O	ABC-type transport system involved in cytochrome c biogenesis, permease component	CcmC			
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_03170	COG0536	DL	GTPase involved in cell partioning and DNA repair	Obg			1LNZ
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_03180	COG1186	J	Protein chain release factor PrfB	PrfB	Translation factors		1GQE
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_03190	COG0058	G	Glucan phosphorylase	GlgP			1A8I
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_03215	COG4774	P	Outer membrane receptor for monomeric catechols	Fiu			
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_03225	COG0004	P	Ammonia channel protein AmtB	AmtB			1U77
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_03235	COG1472	G	Periplasmic beta-glucosidase and related glycosidases	BglX			2X40
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_03240	COG0595	J	mRNA degradation ribonuclease J1/J2	RnjA			3T3N
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_03245	COG1252	C	NADH dehydrogenase, FAD-containing subunit	Ndh			5NA4
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_03255	COG0658	U	DNA uptake channel protein ComEC, N-terminal domain	ComEC			
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_03260	COG0254	J	Ribosomal protein L31	RpmE	Ribosome 50S subunit		1VS6
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_03265	COG0257	J	Ribosomal protein L36	RpmJ	Ribosome 50S subunit	21627333	1DFE
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_03270	COG0117	H	Riboflavin biosynthesis protein RibD, pyrimidine deaminase domain	RibD1	Riboflavin/FAD biosynthesis		2O7P
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_03290	COG1729	D	Cell division protein CpoB, coordinates peptidoglycan biosynthesis and outer membrane constriction	CpoB		25951518	2WZ7
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_03305	COG0009	J	tRNA A37 threonylcarbamoyladenosine synthetase subunit TsaC/SUA5/YrdC	TsaC	tRNA modification		1HRU
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_03310	COG3944	M	Capsular polysaccharide biosynthesis protein YveK	YveK			
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_03315	COG1596	M	Periplasmic protein Wza involved in polysaccharide export, contains SLBB domain of the beta-grasp fold	Wza		17250770	2J58
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_03330	COG1253	R	Hemolysin-related protein, contains CBS domains, UPF0053 family	TlyC			2NQW
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_03335	COG1167	KE	DNA-binding transcriptional regulator, MocR family, contains an aminotransferase domain	ARO8	Lysine biosynthesis		2R2N
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_03340	COG1087	M	UDP-glucose 4-epimerase	GalE			1A9Y
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_03345	COG0095	H	Lipoate-protein ligase A	LplA	Lipoate biosynthesis		4TVW
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_03350	COG1387	ER	Histidinol phosphatase or related hydrolase of the PHP family	HIS2	Histidine biosynthesis		1M65
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_03360	COG1163	J	Ribosome-interacting GTPase RBG1	Rbg1			4A9A
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_03370	COG1187	J	Pseudouridylate synthase RsuA, specific for 16S rRNA U516  and 23S rRNA U2605	RsuA	16S rRNA modification		1KSK
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_03375	COG0196	H	FAD synthase	RibF	Riboflavin/FAD biosynthesis		1MRZ
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_03380	COG0130	J	tRNA U55 pseudouridine synthase TruB, may also work on U342 of tmRNA	TruB	tRNA modification		1K8W
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_03385	COG1227	C	Inorganic pyrophosphatase/exopolyphosphatase	PPX1			1I74
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_03390	COG0858	J	Ribosome-binding factor RbfA	RbfA			1JOS
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_03395	COG0480	J	Translation elongation factor EF-G, a GTPase	FusA	Translation factors		1DAR
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_03405	COG1606	R	ATP-utilizing enzyme, PP-loop superfamily				6B2O
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_03415	COG1180	O	Pyruvate-formate lyase-activating enzyme	PflA			3CAN
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_03420	COG1047	O	Peptidyl-prolyl cis-trans isomerase, FKBP type	SlpA			2M2A
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_03435	COG1459	NUW	Type II secretory pathway, component PulF	PulF			2VMA
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_03440	COG0137	E	Argininosuccinate synthase	ArgG	Arginine biosynthesis		1J1Z
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_03445	COG3203	M	Outer membrane porin OmpC/OmpF/PhoE	OmpC			1PHO
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_03450	COG0824	I	Acyl-CoA thioesterase FadM	FadM	Menaquinone biosynthesis		2FUJ
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_03465	COG0112	E	Glycine/serine hydroxymethyltransferase	GlyA	Serine biosynthesis		1BJ4
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_03475	COG4656	C	Na+-translocating ferredoxin:NAD+ oxidoreductase  RNF, RnfC subunit	RnfC	Na+-translocating Fd:NADH oxidoreductase		
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_03490	COG0504	F	CTP synthase (UTP-ammonia lyase)	PyrG	Pyrimidine biosynthesis		1S1M
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_03500	COG0776	L	Bacterial nucleoid DNA-binding protein IHF-alpha	HimA			1B8Z
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_03505	COG1049	C	Aconitase B	AcnB	TCA cycle		1L5J
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_03520	COG0848	U	Biopolymer transport protein ExbD	ExbD			2JWK
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_03525	COG0279	G	Phosphoheptose isomerase	GmhA			1G76
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_03530	COG0679	R	Predicted permease, AEC (auxin efflux carrier) family	YfdV			
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_03535	COG0031	E	Cysteine synthase	CysK	Cysteine biosynthesis		1FCJ
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_03540	COG0500	QR	SAM-dependent methyltransferase	SmtA			5DNK
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_03545	COG2135	L	ssDNA abasic site-binding protein YedK/HMCES, SRAP family	SRAP		30554877;31504793	1ZN6
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_03550	COG2812	L	DNA polymerase III, gamma/tau subunits	DnaX			1A5T
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_03555	COG0125	F	Thymidylate kinase	Tmk	Thymidylate biosynthesis		3LV8
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_03565	COG1291	N	Flagellar motor component MotA	MotA			
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_03580	COG1846	K	DNA-binding transcriptional regulator, MarR family	MarR			1JGS
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_03585	COG1117	P	ABC-type phosphate transport system, ATPase component	PstB			
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_03590	COG2144	R	Selenophosphate synthetase-related protein				
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_03595	COG0708	L	Exonuclease III	XthA			1AKO
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_03600	COG1606	R	ATP-utilizing enzyme, PP-loop superfamily				6B2O
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_03610	COG0438	M	Glycosyltransferase involved in cell wall bisynthesis	RfaB			2IV7
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_03615	COG1340	S	Uncharacterized coiled-coil protein, contains DUF342 domain				
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_03620	COG0057	G	Glyceraldehyde-3-phosphate dehydrogenase/erythrose-4-phosphate dehydrogenase	GapA	Glycolysis		3ZDF
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_03625	COG0126	G	3-phosphoglycerate kinase	Pgk	Glycolysis		13PK
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_03630	COG0149	G	Triosephosphate isomerase	TpiA	Glycolysis		1HG3
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_03635	COG0566	J	tRNA G18 (ribose-2'-O)-methylase SpoU	SpoU	tRNA modification		1GZ0
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_03640	COG0697	GER	Permease of the drug/metabolite transporter (DMT) superfamily	RhaT			5I20
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_03655	COG0326	O	Molecular chaperone, HSP90 family	HtpG		30150682	1Y4S
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_03660	COG0457	R	Tetratricopeptide (TPR) repeat	TPR			3AS4
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_03670	COG1721	S	Uncharacterized conserved protein, DUF58 family, contains vWF domain	YeaD2			
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_03675	COG1240	H	vWFA (von Willebrand factor type A) domain of Mg and Co chelatases	ChlD			
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_03685	COG1721	S	Uncharacterized conserved protein, DUF58 family, contains vWF domain	YeaD2			
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_03690	COG1239	H	Mg-chelatase subunit ChlI	ChlI			1G8P
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_03695	COG4566	TK	DNA-binding response regulator, FixJ family, consists of REC and HTH domains	FixJ			1YIO
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_03700	COG0226	P	ABC-type phosphate transport system, periplasmic component	PstS			2Q9T
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_03710	COG3970	R	Fumarylacetoacetate (FAA) hydrolase family protein				2Q18
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_03720	COG0724	J	RNA recognition motif (RRM) domain	RRM			1HL6
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_03725	COG4286	S	Uncharacterized conserved protein, UPF0160 family				
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_03730	COG0480	J	Translation elongation factor EF-G, a GTPase	FusA	Translation factors		1DAR
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_03735	COG0451	M	Nucleoside-diphosphate-sugar epimerase	WcaG			2X4G
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_03740	COG0119	E	Isopropylmalate/homocitrate/citramalate synthases	LeuA	Isoleucine, leucine, valine biosynthesis		4JN6
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_03745	COG0434	M	Membrane biogenesis protein, BtpA/SgcQ family	BtpA			
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_03750	COG5010	UW	Flp pilus assembly protein TadD, contains TPR repeats	TadD			3WXX
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_03760	COG0848	U	Biopolymer transport protein ExbD	ExbD			2JWK
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_03765	COG1291	N	Flagellar motor component MotA	MotA			
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_03775	COG3675	I	Predicted lipase	Lip2			1DT3
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_03860	COG5434	G	Polygalacturonase	Pgu1			1BHE
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_03885	COG0792	L	Predicted endonuclease distantly related to archaeal Holliday junction resolvase, YraN/UPF0102 family	YraN			3FOV
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_03890	COG0364	G	Glucose-6-phosphate 1-dehydrogenase	Zwf	Pentose phosphate pathway	18950999	5B7W
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_03900	COG3958	G	Transketolase, C-terminal subunit	TktA2			
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_03905	COG2217	P	Cation-transporting P-type ATPase	ZntA			4BBJ
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_03915	COG0469	G	Pyruvate kinase	PykF	Glycolysis		6QXL
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_03920	COG0491	R	Glyoxylase or a related metal-dependent hydrolase, beta-lactamase superfamily II	GloB		25670698	1QH3
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_03930	COG1443	I	Isopentenyldiphosphate isomerase	Idi	Isoprenoid biosynthesis		1NFS
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_03935	COG4567	TK	DNA-binding response regulator, ActR/RegA family, consists of REC and Fis-type HTH domains				3RQI
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_03950	COG2897	P	3-mercaptopyruvate sulfurtransferase SseA, contains two rhodanese domains	SseA			1BOH
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_03970	COG0856	F	Orotate phosphoribosyltransferase homolog	PyrE2			
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_03975	COG0795	MN	Lipopolysaccharide export LptBFGC system, permease protein LptF	LptF			6S8H
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_03980	COG0147	EH	Anthranilate/para-aminobenzoate synthases component I	TrpE	Aromatic amino acid biosynthesis		1I1Q
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_04000	COG0801	H	7,8-dihydro-6-hydroxymethylpterin pyrophosphokinase (folate biosynthesis)	FolK	Folate biosynthesis		1CBK
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_04020	COG0735	P	Fe2+ or Zn2+ uptake regulation protein Fur/Zur	Fur			1MZB
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_04025	COG4594	P	ABC-type Fe3+-citrate transport system, periplasmic component	FecB			
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_04035	COG0324	J	tRNA A37 N6-isopentenylltransferase MiaA	MiaA	tRNA modification		2ZM5
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_04040	COG1403	V	5-methylcytosine-specific restriction endonuclease McrA	McrA			
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_04065	COG1134	G	ABC-type polysaccharide/polyol phosphate transport system, ATPase component	TagH			6JBH
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_04075	COG4973	L	Site-specific recombinase XerC	XerC			
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_04080	COG0613	F	5'-3' exoribonuclease TrpH/YciV (RNase AM), contains PHP domain	YciV		25871919	3E0F
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_04085	COG2206	T	HD-GYP domain, c-di-GMP phosphodiesterase class II (or its inactivated variant)	HDGYP		23475961	5Z7C
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_04115	COG2143	O	Thioredoxin-related protein SoxW	SoxW			4FYB
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_04125	COG1205	L	ATP-dependent helicase YprA,  contains C-terminal metal-binding DUF1998 domain	YprA			
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_04135	COG4206	H	Outer membrane cobalamin receptor protein BtuB	BtuB			1NQE
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_04140	COG0725	P	ABC-type molybdate transport system, periplasmic Mo-binding protein ModA	ModA	Molybdopterin biosynthesis		1AMF
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_04145	COG1177	E	ABC-type spermidine/putrescine transport system, permease component II	PotC			
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_04150	COG4988	CO	ABC-type transport system involved in cytochrome bd biosynthesis, ATPase and permease components	CydD			
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_04155	COG2207	K	AraC-type DNA-binding domain and AraC-containing proteins	AraC			1BL0
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_04160	COG0446	I	NADPH-dependent 2,4-dienoyl-CoA reductase, sulfur reductase, or a related oxidoreductase	FadH2			1VRQ
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_04165	COG1092	J	23S rRNA G2069 N7-methylase RlmK or C1962 C5-methylase RlmI	RlmK	23S rRNA modification		2B78
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_04170	COG2876	E	3-deoxy-D-arabino-heptulosonate 7-phosphate (DAHP) synthase	AroGA	Aromatic amino acid biosynthesis		5J6F
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_04180	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_04190	COG1099	R	Predicted metal-dependent hydrolase, TIM-barrel fold				3GUW
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_04195	COG1249	C	Dihydrolipoamide dehydrogenase (E3) component of pyruvate/2-oxoglutarate dehydrogenase complex or glutathione oxidoreductase	Lpd	Glycine cleavagePyruvate oxidation		6QKG
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_04205	COG1387	ER	Histidinol phosphatase or related hydrolase of the PHP family	HIS2	Histidine biosynthesis		1M65
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_04210	COG1538	M	Outer membrane protein TolC	TolC			1EK9
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_04215	COG1566	V	Multidrug resistance efflux pump EmrA	EmrA			4TKO
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_04220	COG4778	P	Alpha-D-ribose 1-methylphosphonate 5-triphosphate synthase subunit PhnL	PhnL			
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_04225	COG2177	D	Cell division protein FtsX	FtsX			
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_04235	COG3296	R	Uncharacterized Tic20-related protein, DUF4870 domain	Tic20a		9817756;20100520	
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_04265	COG5013	CP	Nitrate reductase alpha subunit	NarG			1Q16
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_04270	COG3216	S	Uncharacterized conserved protein, DUF2062 family				
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_04290	COG3199	F	NAD kinase				
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_04300	COG1523	G	Pullulanase/glycogen debranching enzyme	PulA			2WSK
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_04305	COG1452	M	LPS assembly outer membrane protein LptD (organic solvent tolerance protein OstA)	LptD			4N4R
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_04325	COG0526	O	Thiol-disulfide isomerase or thioredoxin	TrxA			1XFL
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_04335	COG0165	E	Argininosuccinate lyase	ArgH	Arginine biosynthesis		1AOS
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_04340	COG4962	UW	Pilus assembly protein, ATPase of CpaF family	CpaF			
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_04345	COG1331	R	Uncharacterized conserved protein YyaL, SSP411 family, contains thoiredoxin and six-hairpin glycosidase-like domains	YyaL			3IRA
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_04350	COG0323	L	DNA mismatch repair ATPase MutL	MutL			1B62
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_04355	COG0462	F	Phosphoribosylpyrophosphate synthetase	PrsA	Histidine biosynthesis, Purine biosynthesis		1DKR
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_04360	COG0005	F	Purine nucleoside phosphorylase	XapA	Purine salvage		1YQQ
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_04365	COG0547	E	Anthranilate phosphoribosyltransferase, glycosyltransferase domain	TrpD	Aromatic amino acid biosynthesis		1KGZ
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_04385	COG1535	Q	Isochorismate hydrolase	EntB1			3TB4
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_04390	COG0349	J	Ribonuclease D	Rnd		18821773	5C0Y
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_04415	COG3456	TU	Predicted component of the type VI protein secretion system, contains a FHA domain			16698547	1DMZ
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_04420	COG1091	M	dTDP-4-dehydrorhamnose reductase	RfbD			1KBZ
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_04425	COG0408	H	Coproporphyrinogen-III oxidase HemH, oxygen-dependent	HemF	Heme biosynthesis		3E8J
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_04430	COG0407	H	Uroporphyrinogen-III decarboxylase HemE	HemE	Heme biosynthesis		2DG5
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_04435	COG2907	R	Predicted flavin-containing amine oxidase	Ppro0129			
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_04445	COG0050	J	Translation elongation factor EF-Tu, a GTPase	TufA	Translation factors		1EFU
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_04450	COG0603	J	7-cyano-7-deazaguanine synthase (queuosine biosynthesis)	QueC	tRNA modification	14660578;17384645	2PG3
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_04455	COG3265	G	Gluconate kinase	GntK	Non-phosphorylated Entner-Doudoroff pathway		1KO4
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_04465	COG0860	M	N-acetylmuramoyl-L-alanine amidase	AmiC			1JWQ
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_04470	COG0290	J	Translation initiation factor IF-3	InfC	Translation factors		2IFE
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_04490	COG3688	J	EndoRNase involved in mRNA decay, NYN (Nedd4-BP1/Rae1/YacP nuclease) family,  contains PIN domain	Rae1		28363943	5MQ8
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_04495	COG0266	L	Formamidopyrimidine-DNA glycosylase	Nei			1EE8
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_04500	COG0623	I	Enoyl-[acyl-carrier-protein] reductase FabI	FabI	Fatty acid biosynthesis		1C14
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_04510	COG1161	J	Ribosome biogenesis GTPase RbgA	RbgA			6G14
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_04520	COG2309	E	Leucyl aminopeptidase (aminopeptidase T)	AmpS			1ZJC
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_04540	COG1110	L	Reverse gyrase	TopG2			1GKU
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_04545	COG0075	EF	Archaeal aspartate aminotransferase or a related aminotransferase, includes purine catabolism protein PucG	PucG	Serine biosynthesis		3NNK
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_04565	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_04570	COG1524	T	c-di-AMP phosphodiesterase AtaC or nucleotide pyrophosphatase, AlkP superfamily	AtaC		32188788	1EI6
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_04575	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_04580	COG4774	P	Outer membrane receptor for monomeric catechols	Fiu			
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_04590	COG2211	G	Na+/melibiose symporter or related transporter	MelB			4M64
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_04595	COG2273	G	Beta-glucanase, GH16 family	BglS			1AJK
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_04600	COG4145	H	Na+/panthothenate symporter	PanF			
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_04620	COG2771	K	DNA-binding transcriptional regulator, CsgD family	CsgD			
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_04640	COG4989	R	Predicted oxidoreductase YdhF	YdhF			1UR3
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_04645	COG2130	QR	NADPH-dependent curcumin reductase CurA	CurA		21467222	1V3T
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_04650	COG1869	G	D-ribose pyranose/furanose isomerase RbsD	RbsD			1OGC
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_04655	COG2207	K	AraC-type DNA-binding domain and AraC-containing proteins	AraC			1BL0
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_04665	COG0482	J	tRNA U34 2-thiouridine synthase MnmA/TrmU, contains the PP-loop ATPase domain	MnmA	tRNA modification	25825430	2HMA
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_04670	COG1641	H	CTP-dependent cyclometallase, nickel-pincer nucleotide (NPN) cofactor biosynthesis	LarC		29887527	3C19
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_04675	COG0041	F	Phosphoribosylcarboxyaminoimidazole (NCAIR) mutase	PurE	Purine biosynthesis		1D7A
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_04680	COG1453	R	Predicted oxidoreductase of the aldo/keto reductase family				
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_04695	COG4145	H	Na+/panthothenate symporter	PanF			
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_04700	COG0696	G	Phosphoglycerate mutase (BPG-independent), AlkP superfamily	GpmI	Glycolysis		1EJJ
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_04705	COG0530	P	Ca2+/Na+ antiporter	ECM27			3V5S
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_04710	COG1435	F	Thymidine kinase	Tdk	Pyrimidine salvage		1W4R
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_04715	COG1012	I	Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase	AdhE	Proline degradation		1A4S
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_04720	COG0274	F	Deoxyribose-phosphate aldolase	DeoC			1J2W
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_04725	COG0143	J	Methionyl-tRNA synthetase	MetG	Aminoacyl-tRNA synthetases		1A8H
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_04730	COG1734	K	RNA polymerase-binding transcription factor DksA	DksA			1TJL
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_04740	COG0688	I	Phosphatidylserine decarboxylase	Psd	Phospholipid biosynthesis		6L06
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_04745	COG0239	DP	Fluoride ion exporter CrcB/FEX, affects chromosome condensation	CrcB			5A40
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_04750	COG0239	DP	Fluoride ion exporter CrcB/FEX, affects chromosome condensation	CrcB			5A40
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_04760	COG0749	L	DNA polymerase I, 3'-5' exonuclease and polymerase domains	PolA			1D8Y
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_04770	COG0060	J	Isoleucyl-tRNA synthetase	IleS	Aminoacyl-tRNA synthetases		1FFY
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_04790	COG2123	U	Exosome complex RNA-binding protein Rrp42, RNase PH superfamily	Rrp42		23319881	4IFD
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_04795	COG1136	M	ABC-type lipoprotein export system, ATPase component	LolD			5GKO
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_04810	COG1225	O	Peroxiredoxin	Bcp			5IPH
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_04815	COG0206	D	Cell division GTPase FtsZ	FtsZ			1FSZ
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_04820	COG1077	DZ	Cell shape-determining ATPase MreB, actin-like superfamily	MreB			1JCE
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_04825	COG1589	D	Cell division septal protein FtsQ	FtsQ			1YR1
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_04830	COG1181	MR	D-alanine-D-alanine ligase or related ATP-grasp enzyme	DdlA	Mureine biosynthesis		1E4E
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_04835	COG0771	M	UDP-N-acetylmuramoylalanine-D-glutamate ligase	MurD	Mureine biosynthesis		1E0D
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_04840	COG1819	G	UDP:flavonoid glycosyltransferase YjiC, YdhE family	YjiC		23974133	2ACV
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_04845	COG0772	D	Peptodoglycan polymerase FtsW/RodA/SpoVE	FtsW		30692671	6BAR
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_04850	COG1388	M	LysM repeat	LysM			1E0G
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_04855	COG0769	M	UDP-N-acetylmuramyl tripeptide synthase	MurE	Mureine biosynthesis		1E8C
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_04860	COG0472	M	UDP-N-acetylmuramyl pentapeptide phosphotransferase/UDP-N-acetylglucosamine-1-phosphate transferase	Rfe	Mureine biosynthesis		4J72
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_04865	COG0769	M	UDP-N-acetylmuramyl tripeptide synthase	MurE	Mureine biosynthesis		1E8C
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_04870	COG0773	M	UDP-N-acetylmuramate-alanine ligase MurC and related ligases, MurC/Mpl family	MurC	Mureine biosynthesis		
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_04875	COG0768	DM	Cell division protein FtsI, peptidoglycan transpeptidase (Penicillin-binding protein 2)	FtsI			6HZQ
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_04900	COG2001	J	MraZ, DNA-binding transcriptional regulator and inhibitor of RsmH methyltransferase activity	MraZ			1N0E
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_04935	COG1846	K	DNA-binding transcriptional regulator, MarR family	MarR			1JGS
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_04940	COG4974	L	Site-specific recombinase XerD	XerD			1A0P
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_04955	COG5108	K	Mitochondrial DNA-directed RNA polymerase	RPO41			
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_04970	COG0358	L	DNA primase (bacterial type)	DnaG		28128549	3B39
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_05000	COG0209	F	Ribonucleotide reductase alpha subunit	NrdA	Pyrimidine salvage		1R1R
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_05075	COG5002	T	Sensor histidine kinase WalK	WalK			4I5S
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_05090	COG2121	S	Uncharacterized conserved protein, lysophospholipid acyltransferase (LPLAT) superfamily				
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_05095	COG1072	H	Panthothenate kinase	CoaA	Pantothenate/CoA biosynthesis		2GA8
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_05105	COG2423	E	Ornithine cyclodeaminase/archaeal alanine dehydrogenase, mu-crystallin family	OCDMu	Proline biosynthesis		2I99
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_05110	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_05115	COG2165	NUW	Type II secretory pathway, pseudopilin PulG	PulG			1AY2
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_05120	COG2003	L	DNA repair protein RadC, contains a helix-hairpin-helix DNA-binding motif	RadC		9695921	2QLC
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_05130	COG0303	H	Molybdopterin Mo-transferase (molybdopterin biosynthesis)	MoeA	Molybdopterin biosynthesis	18801996;32239579	2NQU
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_05140	COG0015	F	Adenylosuccinate lyase	PurB	Purine biosynthesis		2HVG
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_05150	COG1428	F	Deoxyadenosine/deoxycytidine kinase	Dck			1J90
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_05155	COG3201	H	Nicotinamide riboside transporter PnuC	PnuC			4QTN
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_05165	COG0560	E	Phosphoserine phosphatase	SerB	Serine biosynthesis		3N28
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_05175	COG1021	Q	EntE, 2,3-dihydroxybenzoate-AMP synthase component of non-ribosomal peptide synthetase	EntE			3RG2
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_05180	COG4221	C	NADP-dependent 3-hydroxy acid dehydrogenase YdfG	YdfG	Pyrimidine degradation		3P19
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_05190	COG2148	M	Sugar transferase involved in LPS biosynthesis (colanic, teichoic acid)	WcaJ			5W7L
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_05195	COG2309	E	Leucyl aminopeptidase (aminopeptidase T)	AmpS			1ZJC
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_05200	COG2227	H	2-polyprenyl-3-methyl-5-hydroxy-6-metoxy-1,4-benzoquinol methylase	UbiG	Ubiquinone biosynthesis		1BHJ
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_05215	COG0516	F	IMP dehydrogenase/GMP reductase	GuaB	Purine biosynthesis		1B3O
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_05220	COG1441	H	O-succinylbenzoate synthase	MenC	Menaquinone biosynthesis		1FHU
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_05225	COG1021	Q	EntE, 2,3-dihydroxybenzoate-AMP synthase component of non-ribosomal peptide synthetase	EntE			3RG2
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_05230	COG1010	H	Precorrin-3B methylase	CobJ	Cobalamine/B12 biosynthesis		2ZVB
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_05245	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_05250	COG0166	G	Glucose-6-phosphate isomerase	Pgi	Glycolysis		1B0Z
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_05255	COG0129	EG	Dihydroxyacid dehydratase/phosphogluconate dehydratase	IlvD	Isoleucine, leucine, valine biosynthesis		2GP4
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_05260	COG1386	K	Chromosome segregation and condensation protein ScpB	ScpB			1T6S
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_05265	COG1605	E	Chorismate mutase	PheA	Aromatic amino acid biosynthesis		1ECM
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_05270	COG0514	L	Superfamily II DNA helicase RecQ	RecQ			1OYW
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_05275	COG1061	KL	Superfamily II DNA or RNA helicase	SSL2			6JDE
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_05285	COG0327	H	Putative GTP cyclohydrolase 1 type 2, NIF3 family	NIF3	Folate biosynthesis	24435797;26385509	3SY1
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_05290	COG1748	E	Saccharopine dehydrogenase, NADP-dependent	Lys9	Lysine biosynthesis		1E5L
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_05295	COG0178	L	Excinuclease UvrABC ATPase subunit	UvrA			2R6F
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_05310	COG0415	L	Deoxyribodipyrimidine photolyase	PhrB			1TEZ
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_05330	COG0707	M	UDP-N-acetylglucosamine:LPS N-acetylglucosamine transferase	MurG	Mureine biosynthesis		1F0K
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_05335	COG0420	L	DNA repair exonuclease SbcCD nuclease subunit	SbcD			6S85
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_05345	COG0297	G	Glycogen synthase	GlgA			1RZU
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_05350	COG0492	O	Thioredoxin reductase	TrxB			3FBS
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_05355	COG0069	E	Glutamate synthase domain 2	GltB2	Glutamine biosynthesis		1EA0
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_05375	COG1302	S	Uncharacterized conserved protein YloU, alkaline shock protein (Asp23) family	YloU			
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_05380	COG0439	I	Biotin carboxylase	AccC	Fatty acid biosynthesis		1BNC
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_05385	COG1038	C	Pyruvate carboxylase	PycA	Urea cycle		5VYW
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_05390	COG3425	I	3-hydroxy-3-methylglutaryl CoA synthase	PksG	Isoprenoid biosynthesis		1TVZ
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_05400	COG0300	R	Short-chain dehydrogenase	YqjQ			
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_05405	COG0110	R	Acetyltransferase, isoleucine patch superfamily	WbbJ			
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_05415	COG0457	R	Tetratricopeptide (TPR) repeat	TPR			3AS4
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_05425	COG0607	P	Rhodanese-related sulfurtransferase	PspE	Urea cycle		1TQ1
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_05430	COG1861	M	Spore coat polysaccharide biosynthesis protein SpsF, cytidylyltransferase family	SpsF			
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_05435	COG3264	M	Small-conductance mechanosensitive channel MscK	MscK			
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_05440	COG0133	E	Tryptophan synthase beta chain	TrpB	Aromatic amino acid biosynthesis		2DH5
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_05445	COG0518	F	GMP synthase, glutamine amidotransferase domain	GuaA1	Purine biosynthesis		4WIM
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_05470	COG0236	I	Acyl carrier protein	AcpP	Fatty acid biosynthesis		1ACP
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_05475	COG0304	IQ	3-oxoacyl-(acyl-carrier-protein) synthase	FabB	Fatty acid biosynthesis	21652641	2UV8
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_05480	COG1089	M	GDP-D-mannose dehydratase	Gmd			1DB3
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_05485	COG0596	HR	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold	MenH	Menaquinone biosynthesis		4MYS
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_05490	COG2226	H	Ubiquinone/menaquinone biosynthesis C-methylase UbiE/MenG	UbiE	Biotin biosynthesis		4OBW
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_05495	COG5010	UW	Flp pilus assembly protein TadD, contains TPR repeats	TadD			3WXX
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_05500	COG1033	R	Predicted exporter protein, RND superfamily	MMPL			5KHN
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_05505	COG1566	V	Multidrug resistance efflux pump EmrA	EmrA			4TKO
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_05510	COG1538	M	Outer membrane protein TolC	TolC			1EK9
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_05515	COG1925	TG	HPr or related phosphotransfer protein	PtsH			1CM2
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_05520	COG1119	P	ABC-type molybdenum transport system, ATPase component ModF/photorepair protein PhrA	ModF			2IHY
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_05585	COG3513	V	CRISPR-Cas system type-II protein Cas9	Cas9	CRISPR-Cas system		4OGC
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_05620	COG1092	J	23S rRNA G2069 N7-methylase RlmK or C1962 C5-methylase RlmI	RlmK	23S rRNA modification		2B78
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_05625	COG0558	I	Phosphatidylglycerophosphate synthase	PgsA	Phospholipid biosynthesis		4MND
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_05635	COG0394	T	Protein-tyrosine-phosphatase	Wzb		26641313	4D74
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_05640	COG0458	EF	Carbamoylphosphate synthase large subunit	CarB	Arginine biosynthesis		1C30
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_05645	COG0770	M	UDP-N-acetylmuramyl pentapeptide synthase	MurF	Mureine biosynthesis		4CVK
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_05650	COG2159	G	5-carboxyvanillate decarboxylase LigW (lignin degradation), amidohydro domain	LigW		26714575	2DVT
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_05655	COG0107	E	Imidazole glycerol phosphate synthase subunit HisF	HisF	Histidine biosynthesis		1OX4
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_05665	COG0365	I	Acyl-coenzyme A synthetase/AMP-(fatty) acid ligase	Acs		14638756	4B2O
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_05675	COG0322	L	Excinuclease UvrABC, nuclease subunit	UvrC		24513124	2NRT
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_05685	COG5271	J	Midasin, AAA ATPase with  vWA domain, involved in ribosome maturation	MDN1			6HYP
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_05700	COG1159	J	GTPase Era, involved in 16S rRNA processing	Era			1EGA
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_05705	COG1208	JM	NDP-sugar pyrophosphorylase, includes eIF-2Bgamma, eIF-2Bepsilon, and LPS biosynthesis protein s	GCD1			6JQ8
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_05710	COG0637	G	Beta-phosphoglucomutase, HAD superfamily	YcjU		29684280	3E58
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_05715	COG1011	H	FMN and 5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YigB, HAD superfamily (riboflavin biosynthesis)	YigB		24123841	4JB3
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_05725	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_05735	COG2211	G	Na+/melibiose symporter or related transporter	MelB			4M64
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_05740	COG2207	K	AraC-type DNA-binding domain and AraC-containing proteins	AraC			1BL0
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_05755	COG3693	G	Endo-1,4-beta-xylanase, GH35 family	XynA			1B30
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_05760	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_05770	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_05775	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_05785	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_05795	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_05800	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_05810	COG0400	R	Predicted esterase	YpfH			
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_05820	COG4099	R	Predicted peptidase				3DOH
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_05830	COG1757	C	Na+/H+ antiporter NhaC/MleN	NhaC			
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_05835	COG0491	R	Glyoxylase or a related metal-dependent hydrolase, beta-lactamase superfamily II	GloB		25670698	1QH3
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_05840	COG0192	H	S-adenosylmethionine synthetase	MetK	Methionine biosynthesis		1FUG
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_05845	COG0499	H	S-adenosylhomocysteine hydrolase	SAM1			1A7A
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_05850	COG1362	E	Aspartyl aminopeptidase	LAP4			1Y7E
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_05855	COG1252	C	NADH dehydrogenase, FAD-containing subunit	Ndh			5NA4
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_05870	COG0082	E	Chorismate synthase	AroC	Aromatic amino acid biosynthesis		1Q1L
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_05880	COG0458	EF	Carbamoylphosphate synthase large subunit	CarB	Arginine biosynthesis		1C30
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_05890	COG0330	O	Regulator of protease activity HflC, stomatin/prohibitin superfamily	HflC			
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_05895	COG2221	P	Dissimilatory sulfite reductase (desulfoviridin), alpha and beta subunits	DsrA			
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_05910	COG0207	F	Thymidylate synthase	ThyA	Thymidylate biosynthesis		1AN5
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_05925	COG5626	S	Uncharacterized protein Ssr3000, DUF2288 family	Ssr3000			
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_05930	COG1185	J	Polyribonucleotide nucleotidyltransferase (polynucleotide phosphorylase)	Pnp			1E3P
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_05935	COG1061	KL	Superfamily II DNA or RNA helicase	SSL2			6JDE
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_05940	COG2226	H	Ubiquinone/menaquinone biosynthesis C-methylase UbiE/MenG	UbiE	Biotin biosynthesis		4OBW
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_05945	COG2226	H	Ubiquinone/menaquinone biosynthesis C-methylase UbiE/MenG	UbiE	Biotin biosynthesis		4OBW
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_05950	COG1032	R	Radical SAM superfamily enzyme YgiQ, UPF0313 family	YgiQ			6FD2
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_05955	COG0014	E	Gamma-glutamyl phosphate reductase	ProA	Proline biosynthesis		4GHK
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_05960	COG1105	G	1-phosphofructokinase or 6-phosphofructokinase II	FruK			2ABQ
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_05970	COG1570	L	Exonuclease VII, large subunit	XseA			
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_05975	COG0494	V	8-oxo-dGTP pyrophosphatase MutT and related house-cleaning NTP pyrophosphohydrolases, NUDIX family	MutT			4V14
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_05980	COG4774	P	Outer membrane receptor for monomeric catechols	Fiu			
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_05985	COG4747	R	ACT domain-containing protein	ACTx2			
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_05995	COG1266	O	Membrane protease YdiL, CAAX protease family	YdiL			
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_06000	COG3964	R	Predicted amidohydrolase				2OGJ
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_06005	COG0540	F	Aspartate carbamoyltransferase, catalytic subunit	PyrB	Pyrimidine biosynthesis		1NBE
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_06015	COG1087	M	UDP-glucose 4-epimerase	GalE			1A9Y
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_06020	COG2814	G	Predicted arabinose efflux permease AraJ, MFS family	AraJ			4LDS
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_06025	COG0379	H	Quinolinate synthase	NadA	NAD biosynthesis	24498065	4HHE
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_06030	COG3958	G	Transketolase, C-terminal subunit	TktA2			
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_06045	COG4105	M	Outer membrane protein assembly factor BamD, BamD/ComL family	BamD			2YHC
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_06050	COG3424	Q	Predicted naringenin-chalcone synthase	BH0617			1BI5
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_06060	COG0333	J	Ribosomal protein L32	RpmF	Ribosome 50S subunit	17114934	1VS6
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_06070	COG0213	F	Thymidine phosphorylase	DeoA	Pyrimidine salvage		1AZY
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_06075	COG1109	G	Phosphomannomutase	ManB			6MNV
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_06095	COG0564	J	Pseudouridine synthase RluA, 23S rRNA- or tRNA-specific	RluA	23S rRNA modification		2I82
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_06105	COG0293	J	23S rRNA U2552 (ribose-2'-O)-methylase RlmE/FtsJ	RlmE	23S rRNA modification	10769117	1EIZ
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_06110	COG1747	S	Uncharacterized N-terminal domain of the transcription elongation factor GreA				
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_06115	COG3379	R	Predicted phosphohydrolase or phosphomutase, AlkP superfamily				
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_06155	COG4353	R	Acetyltransferase superfamily protein, DUF1122 family				2ARH
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_06165	COG1357	S	Uncharacterized conserved protein YjbI, contains pentapeptide repeats	YjbI			2BM4
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_06175	COG0147	EH	Anthranilate/para-aminobenzoate synthases component I	TrpE	Aromatic amino acid biosynthesis		1I1Q
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_06190	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_06195	COG1524	T	c-di-AMP phosphodiesterase AtaC or nucleotide pyrophosphatase, AlkP superfamily	AtaC		32188788	1EI6
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_06200	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_06205	COG2270	R	MFS-type transporter involved in bile tolerance, Atg22 family	BtlA		12583894	
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_06210	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_06220	COG5492	R	Uncharacterized conserved protein YjdB, contains Ig-like domain	YjdB			
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_06255	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_06260	COG1012	I	Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase	AdhE	Proline degradation		1A4S
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_06270	COG0800	G	2-keto-3-deoxy-6-phosphogluconate aldolase	Eda	Entner-Doudoroff pathway		2V81
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_06285	COG1874	G	Beta-galactosidase GanA	GanA			1KWG
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_06290	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_06300	COG0673	R	Predicted dehydrogenase	MviM			3UUW
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_06315	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_06320	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_06325	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_06345	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_06350	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_06355	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_06360	COG1506	E	Dipeptidyl aminopeptidase/acylaminoacyl peptidase	DAP2			2JBW
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_06365	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_06370	COG2207	K	AraC-type DNA-binding domain and AraC-containing proteins	AraC			1BL0
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_06375	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_06395	COG2274	V	ABC-type bacteriocin/lantibiotic exporters, contain an N-terminal double-glycine peptidase domain	SunT			3K8U
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_06420	COG4206	H	Outer membrane cobalamin receptor protein BtuB	BtuB			1NQE
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_06425	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_06430	COG1193	L	dsDNA-specific endonuclease/ATPase MutS2	MutS2			
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_06435	COG0653	U	Preprotein translocase subunit SecA (ATPase, RNA helicase)	SecA			2FSF
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_06455	COG0568	K	DNA-directed RNA polymerase, sigma subunit (sigma70/sigma32)	RpoD	RNA polymerase		1SIG
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_06460	COG0147	EH	Anthranilate/para-aminobenzoate synthases component I	TrpE	Aromatic amino acid biosynthesis		1I1Q
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_06465	COG0458	EF	Carbamoylphosphate synthase large subunit	CarB	Arginine biosynthesis		1C30
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_06470	COG1691	F	NCAIR mutase (PurE)-related protein				
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_06480	COG0553	KL	Superfamily II DNA or RNA helicase, SNF2 family	HepA			6UXV
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_06485	COG1509	E	L-lysine 2,3-aminomutase (EF-P beta-lysylation pathway)	EpmB			2A5H
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_06490	COG0640	K	DNA-binding transcriptional regulator, ArsR family	ArsR			3F6V
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_06495	COG0512	EH	Anthranilate/para-aminobenzoate synthase component II (glutamine amidotransferase)	PabA	Aromatic amino acid biosynthesis		1I1Q
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_06500	COG4651	P	Predicted Kef-type K+ transport protein, K+/H+ antiporter domain	RosB			
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_06505	COG4651	P	Predicted Kef-type K+ transport protein, K+/H+ antiporter domain	RosB			
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_06510	COG0769	M	UDP-N-acetylmuramyl tripeptide synthase	MurE	Mureine biosynthesis		1E8C
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_06515	COG4799	I	Acetyl-CoA carboxylase, carboxyltransferase component	MmdA			1OD2
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_06520	COG0462	F	Phosphoribosylpyrophosphate synthetase	PrsA	Histidine biosynthesis, Purine biosynthesis		1DKR
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_06525	COG0101	J	tRNA U38,U39,U40 pseudouridine synthase TruA	TruA	tRNA modification		1DJ0
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_06545	COG1028	I	NAD(P)-dependent dehydrogenase, short-chain alcohol dehydrogenase family	FabG	Fatty acid biosynthesis		6L1H
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_06550	COG0744	M	Penicillin-binding protein 1B/1F, peptidoglycan  transglycosylase/transpeptidase	MrcB			3FWL
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_06560	COG1792	DZ	Cell shape-determining protein MreC	MreC			2J5U
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_06565	COG0849	D	Cell division ATPase FtsA	FtsA			3WT0
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_06570	COG2203	T	GAF domain	GAF			
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_06575	COG0659	P	Sulfate permease or related transporter, MFS superfamily	SUL1			3NY7
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_06580	COG0066	E	3-isopropylmalate dehydratase small subunit	LeuD	Isoleucine, leucine, valine biosynthesis		3Q3W
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_06585	COG0450	V	Alkyl hydroperoxide reductase subunit AhpC (peroxiredoxin)	AhpC			2RII
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_06590	COG0180	J	Tryptophanyl-tRNA synthetase	TrpS	Aminoacyl-tRNA synthetases		3N9I
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_06595	COG0219	J	tRNA(Leu) C34 or U34 (ribose-2'-O)-methylase TrmL, contains SPOUT domain	TrmL	tRNA modification		4JAK
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_06605	COG2256	L	Replication-associated recombination protein RarA (DNA-dependent ATPase)	RarA			3PVS
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_06610	COG0128	E	5-enolpyruvylshikimate-3-phosphate synthase	AroA	Aromatic amino acid biosynthesis		4N3P
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_06620	COG4508	F	Dimeric dUTPase, all-alpha-NTP-PPase (MazG) superfamily	Dut2	Thymidylate biosynthesis		
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_06635	COG1388	M	LysM repeat	LysM			1E0G
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_06640	COG0076	E	Glutamate or tyrosine decarboxylase or a related PLP-dependent protein	GadA	Pantothenate/CoA biosynthesis		1XEY
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_06645	COG1106	R	ATPase/GTPase, AAA15 family				
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_06650	COG0494	V	8-oxo-dGTP pyrophosphatase MutT and related house-cleaning NTP pyrophosphohydrolases, NUDIX family	MutT			4V14
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_06660	COG4972	NW	Type IV pilus assembly protein, ATPase PilM	PilM			2YCH
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_06675	COG4964	UW	Flp pilus assembly protein, secretin CpaC	CpaC			
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_06690	COG3437	T	Response regulator c-di-GMP phosphodiesterase, RpfG family, contains REC and HD-GYP domains	RpfG			
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_06695	COG5000	T	Signal transduction histidine kinase NtrY involved in nitrogen fixation and metabolism regulation	NtrY			
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_06705	COG4774	P	Outer membrane receptor for monomeric catechols	Fiu			
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_06740	COG0268	J	Ribosomal protein S20	RpsT	Ribosome 30S subunit		4V4H
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_06745	COG0564	J	Pseudouridine synthase RluA, 23S rRNA- or tRNA-specific	RluA	23S rRNA modification		2I82
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_06755	COG0517	T	CBS domain	CBS			1B3O
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_06760	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_06765	COG0512	EH	Anthranilate/para-aminobenzoate synthase component II (glutamine amidotransferase)	PabA	Aromatic amino acid biosynthesis		1I1Q
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_06770	COG0141	E	Histidinol dehydrogenase	HisD	Histidine biosynthesis		1K75
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_06775	COG1167	KE	DNA-binding transcriptional regulator, MocR family, contains an aminotransferase domain	ARO8	Lysine biosynthesis		2R2N
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_06780	COG0131	E	Imidazoleglycerol phosphate dehydratase HisB	HisB2	Histidine biosynthesis		1RHY
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_06785	COG0311	H	Pyridoxal 5'-phosphate synthase subunit PdxT (glutamine amidotransferase)	PdxT	Pyridoxal phosphate biosynthesis	18801996;24083939	2NV0
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_06790	COG0372	C	Citrate synthase	GltA	TCA cycle	25211225	3TQG
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_06800	COG0452	H	Phosphopantothenoylcysteine synthetase/decarboxylase CoaBC	CoaBC	Pantothenate/CoA biosynthesis		3QJG
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_06805	COG2205	T	K+-sensing histidine kinase KdpD	KdpD			2KSF
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_06810	COG0169	E	Shikimate 5-dehydrogenase	AroE	Aromatic amino acid biosynthesis		1NPD
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_06815	COG4137	R	ABC-type uncharacterized transport system, permease component	YpjD			
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_06820	COG0276	H	Protoheme ferro-lyase (ferrochelatase)	HemH	Heme biosynthesis		1AK1
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_06830	COG0062	F	NAD(P)H-hydrate repair enzyme Nnr, NAD(P)H-hydrate epimerase domain	Nnr1			3RRB
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_06835	COG0758	L	Predicted Rossmann fold nucleotide-binding protein DprA/Smf involved in DNA uptake	Smf			3MAJ
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_06840	COG3123	F	Pyrimidine/purine nucleoside phosphorylase YaiE/PpnP, UPF0345/DUF1255 family	PpnP		27941785	2OYZ
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_06845	COG4319	R	Ketosteroid isomerase homolog YybH	YybH			2GXF
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_06850	COG1168	ER	Bifunctional PLP-dependent enzyme with beta-cystathionase and maltose regulon repressor activities	MalY			4DGT
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_06855	COG0414	H	Panthothenate synthetase	PanC	Pantothenate/CoA biosynthesis	17968677	1DIN
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_06860	COG0029	H	Aspartate oxidase	NadB	NAD biosynthesis		1KNP
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_06865	COG1893	H	Ketopantoate reductase	PanE	Pantothenate/CoA biosynthesis		1BG6
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_06870	COG1194	L	Adenine-specific DNA glycosylase, acts on AG and A-oxoG pairs	MutY			1KG2
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_06890	COG0033	G	Phosphoglucomutase/phosphomannomutase	Pgm		30938049	1C47
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_06895	COG3560	R	Fatty acid repression mutant protein (predicted oxidoreductase)	FMR2			2WQF
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_06900	COG0415	L	Deoxyribodipyrimidine photolyase	PhrB			1TEZ
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_06905	COG0451	M	Nucleoside-diphosphate-sugar epimerase	WcaG			2X4G
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_06910	COG1233	Q	Phytoene dehydrogenase-related protein				4REP
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_06920	COG1028	I	NAD(P)-dependent dehydrogenase, short-chain alcohol dehydrogenase family	FabG	Fatty acid biosynthesis		6L1H
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_06930	COG1067	O	Predicted ATP-dependent protease	LonB			3K1J
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_06935	COG3425	I	3-hydroxy-3-methylglutaryl CoA synthase	PksG	Isoprenoid biosynthesis		1TVZ
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_06945	COG1522	K	DNA-binding transcriptional regulator, Lrp family	Lrp			1I1G
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_06950	COG0626	E	Cystathionine beta-lyase/cystathionine gamma-synthase	MetC	Methionine biosynthesis		1CL1
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_06970	COG2165	NUW	Type II secretory pathway, pseudopilin PulG	PulG			1AY2
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_06975	COG2165	NUW	Type II secretory pathway, pseudopilin PulG	PulG			1AY2
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_06980	COG1459	NUW	Type II secretory pathway, component PulF	PulF			2VMA
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_07005	COG0210	L	Superfamily I DNA or RNA helicase	UvrD			6PPR
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_07015	COG0659	P	Sulfate permease or related transporter, MFS superfamily	SUL1			3NY7
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_07020	COG0589	T	Nucleotide-binding universal stress protein,  UspA family	UspA			1JMV
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_07025	COG2017	G	Galactose mutarotase or related enzyme	GalM			1LUR
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_07030	COG1135	E	ABC-type methionine transport system, ATPase component	AbcC			6CVL
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_07040	COG0795	MN	Lipopolysaccharide export LptBFGC system, permease protein LptF	LptF			6S8H
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_07060	COG1080	G	Phosphoenolpyruvate-protein kinase (PTS system EI component in bacteria)	PtsA			1EZA
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_07065	COG0083	E	Homoserine kinase	ThrB	Threonine biosynthesis		1FWK
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_07070	COG0269	G	3-keto-L-gulonate-6-phosphate decarboxylase	UlaD			3F4W
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_07075	COG0746	H	Molybdopterin-guanine dinucleotide biosynthesis protein A	MobA	Molybdopterin biosynthesis	32239579	1E5K
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_07080	COG0513	L	Superfamily II DNA and RNA helicase	SrmB			3RRM
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_07085	COG0108	H	3,4-dihydroxy-2-butanone 4-phosphate synthase	RibB	Riboflavin/FAD biosynthesis		1G57
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_07100	COG1071	C	TPP-dependent pyruvate or acetoin dehydrogenase subunit alpha	AcoA	Pyruvate oxidation		1DTW
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_07105	COG0508	C	Pyruvate/2-oxoglutarate dehydrogenase complex, dihydrolipoamide acyltransferase (E2) component	AceF	Pyruvate oxidation		1B5S
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_07110	COG0492	O	Thioredoxin reductase	TrxB			3FBS
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_07115	COG0272	L	NAD-dependent DNA ligase	Lig			5TT5
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_07130	COG0142	H	Geranylgeranyl pyrophosphate synthase	IspA	Isoprenoid biosynthesis		2AZJ
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_07150	COG0533	J	tRNA A37 threonylcarbamoyltransferase TsaD	TsaD	tRNA modification	23072323;21285948;32385138	3ENO
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_07170	COG2081	R	Predicted flavoprotein YhiN	YhiN			3V76
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_07180	COG1612	H	Heme A synthase	CtaA			6A2J
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_07195	COG1622	C	Heme/copper-type cytochrome/quinol oxidase, subunit 2	CyoA			1CYW
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_07200	COG0843	C	Heme/copper-type cytochrome/quinol oxidase, subunit 1	CyoB			1AR1
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_07205	COG1845	C	Heme/copper-type cytochrome/quinol oxidase, subunit 3	CyoC			1QLE
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_07220	COG1055	P	Na+/H+ antiporter NhaD or related arsenite permease	ArsB			
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_07230	COG0187	L	DNA gyrase/topoisomerase IV, subunit B	GyrB			1EI1
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_07245	COG0263	E	Glutamate 5-kinase	ProB	Proline biosynthesis		2W21
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_07250	COG0233	J	Ribosome recycling factor	Frr			1DD5
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_07255	COG0548	E	N-acetylglutamate kinase	ArgB	Arginine biosynthesis		3S6G
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_07260	COG1061	KL	Superfamily II DNA or RNA helicase	SSL2			6JDE
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_07265	COG3011	R	Predicted thiol-disulfide oxidoreductase YuxK, DCC family	YuxK		15236740	
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_07285	COG1748	E	Saccharopine dehydrogenase, NADP-dependent	Lys9	Lysine biosynthesis		1E5L
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_07290	COG0175	EH	3'-phosphoadenosine 5'-phosphosulfate sulfotransferase (PAPS reductase)/FAD synthetase or related enzyme	CysD	Cysteine biosynthesis		1ZUN
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_07295	COG0020	I	Undecaprenyl pyrophosphate synthase	UppS			1X07
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_07300	COG4589	R	Predicted CDP-diglyceride synthetase/phosphatidate cytidylyltransferase	YnbB			
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_07305	COG0460	E	Homoserine dehydrogenase	ThrA	Methionine biosynthesis	29124164	5AVO
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_07310	COG0265	O	Periplasmic serine protease, S1-C subfamily, contain C-terminal PDZ domain	DegQ		29686141	2HGA
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_07320	COG0127	F	Inosine/xanthosine triphosphate pyrophosphatase, all-alpha NTP-PPase family	RdgB			1B78
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_07325	COG0590	J	tRNA(Arg) A34 adenosine deaminase TadA	TadA	Pyrimidine salvagetRNA modification		2A8N
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_07335	COG5010	UW	Flp pilus assembly protein TadD, contains TPR repeats	TadD			3WXX
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_07340	COG0534	V	Na+-driven multidrug efflux pump, DinF/NorM/MATE family	NorM		29915058	3VVN
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_07345	COG0280	C	Phosphotransacetylase (includes Pta, EutD and phosphobutyryltransferase)	Pta		28754323	1QZT
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_07350	COG1797	H	Cobyrinic acid a,c-diamide synthase	CobB	Cobalamine/B12 biosynthesis		
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_07360	COG0135	E	Phosphoribosylanthranilate isomerase	TrpF	Aromatic amino acid biosynthesis		1DL3
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_07365	COG4606	P	ABC-type enterochelin transport system, permease component	CeuB			
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_07370	COG4619	P	ABC-type iron transporter FetAB, ATPase component	FetA			
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_07375	COG1025	O	Secreted/periplasmic Zn-dependent peptidases, insulinase-like	Ptr			1Q2L
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_07395	COG1203	V	CRISPR-Cas type I system-associated endonuclease/helicase Cas3	Cas3	CRISPR-Cas system		
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_07400	COG2206	T	HD-GYP domain, c-di-GMP phosphodiesterase class II (or its inactivated variant)	HDGYP		23475961	5Z7C
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_07415	COG1223	R	Predicted ATPase, AAA+ superfamily				
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_07420	COG0616	O	Periplasmic serine protease, ClpP class	SppA			3BEZ
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_07425	COG0544	O	FKBP-type peptidyl-prolyl cis-trans isomerase (trigger factor)	Tig			5OWI
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_07445	COG0645	R	Predicted kinase, contains AAA domain				2RHM
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_07455	COG1902	C	2,4-dienoyl-CoA reductase or related NADH-dependent reductase, Old Yellow Enzyme (OYE) family	FadH			1BWK
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_07460	COG0045	C	Succinyl-CoA synthetase, beta subunit	SucC	TCA cycle		1SCU
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_07465	COG1042	C	Acyl-CoA synthetase (NDP forming)	PatZN		26251518	4YAK
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_07470	COG0304	IQ	3-oxoacyl-(acyl-carrier-protein) synthase	FabB	Fatty acid biosynthesis	21652641	2UV8
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_07475	COG0236	I	Acyl carrier protein	AcpP	Fatty acid biosynthesis		1ACP
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_07480	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_07485	COG0564	J	Pseudouridine synthase RluA, 23S rRNA- or tRNA-specific	RluA	23S rRNA modification		2I82
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_07495	COG0190	H	5,10-methylene-tetrahydrofolate dehydrogenase/Methenyl tetrahydrofolate cyclohydrolase	FolD			1A4I
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_07500	COG1714	S	Uncharacterized membrane protein YckC, RDD family	YckC			
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_07505	COG3437	T	Response regulator c-di-GMP phosphodiesterase, RpfG family, contains REC and HD-GYP domains	RpfG			
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_07510	COG0345	E	Pyrroline-5-carboxylate reductase	ProC	Proline biosynthesis	22125496;26507882	3GT0
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_07520	COG0459	O	Chaperonin GroEL (HSP60 family)	GroEL			1AON
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_07530	COG0443	O	Molecular chaperone DnaK (HSP70)	DnaK			3I33
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_07540	COG0466	O	ATP-dependent Lon protease, bacterial type	Lon			6ON2
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_07550	COG0668	M	Small-conductance mechanosensitive channel	MscS			2OAU
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_07560	COG1199	L	Rad3-related DNA helicase DinG	DinG			5H8W
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_07565	COG0571	K	dsRNA-specific ribonuclease	Rnc			1DI2
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_07570	COG4098	L	Superfamily II DNA/RNA helicase required for DNA uptake (late competence protein)	ComFA			
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_07575	COG0760	O	Peptidyl-prolyl isomerase, parvulin family	SurA			2ZR5
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_07580	COG0447	H	1,4-Dihydroxy-2-naphthoyl-CoA synthase	MenB	Menaquinone biosynthesis		4ELS
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_07585	COG0028	EH	Acetolactate synthase large subunit or other thiamine pyrophosphate-requiring enzyme	IlvB	Isoleucine, leucine, valine biosynthesis		1BFD
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_07595	COG3457	E	Predicted amino acid racemase	YhfX		23091052	4KBX
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_07600	COG1624	T	c-di-AMP synthetase, contains DisA_N domain	DisA			2FB5
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_07605	COG0838	C	NADH:ubiquinone oxidoreductase subunit 3 (chain A)	NuoA	NADH dehydrogenase		3RKO
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_07615	COG3118	O	Chaperedoxin CnoX, contains thioredoxin-like and TPR-like domains, YbbN/TrxSC family	CnoX		21498507;29754824	3QDN
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_07620	COG0358	L	DNA primase (bacterial type)	DnaG		28128549	3B39
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_07625	COG0568	K	DNA-directed RNA polymerase, sigma subunit (sigma70/sigma32)	RpoD	RNA polymerase		1SIG
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_07635	COG1826	U	Twin-arginine protein secretion pathway components TatA and TatB	TatA			2L16
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_07640	COG1218	P	3'-Phosphoadenosine 5'-phosphosulfate (PAPS) 3'-phosphatase	CysQ			
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_07655	COG4525	P	ABC-type taurine transport system, ATPase component	TauB			
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_07660	COG1254	C	Acylphosphatase	AcyP			1APS
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_07675	COG3540	P	Phosphodiesterase/alkaline phosphatase D	PhoD			2YEQ
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_07680	COG0823	U	Periplasmic component TolB of the Tol biopolymer transport system	TolB			1C5K
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_07685	COG0455	DN	MinD-like ATPase FlhG/YlxH, activator of the FlhF-type GTPase	FlhG			1G3Q
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_07695	COG0267	J	Ribosomal protein L33	RpmG	Ribosome 50S subunit		1VS6
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_07700	COG0698	G	Ribose 5-phosphate isomerase RpiB	RpiB	Pentose phosphate pathway		1NN4
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_07705	COG0616	O	Periplasmic serine protease, ClpP class	SppA			3BEZ
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_07710	COG0292	J	Ribosomal protein L20	RplT	Ribosome 50S subunit	30270044	1VS6
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_07725	COG0165	E	Argininosuccinate lyase	ArgH	Arginine biosynthesis		1AOS
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_07730	COG4841	S	Uncharacterized conserved protein YneR, related to HesB/YadR/YfhF family	YneR			
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_07735	COG1508	K	DNA-directed RNA polymerase specialized sigma subunit, sigma54 homolog	RpoN	RNA polymerase		5BYH
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_07745	COG1243	J	tRNA U34 5-carboxymethylaminomethylation enzyme Elp3 (RNA elongator complex protein 3), contains radical SAM and acetyltransferase domains	ELP3		25151136;27455459	6IA8
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_07755	COG5265	O	ABC-type transport system involved in Fe-S cluster assembly, permease and ATPase components	ATM1			4MRN
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_07765	COG4148	P	ABC-type molybdate transport system, ATPase component ModC	ModC	Molybdopterin biosynthesis		
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_07770	COG1173	EP	ABC-type dipeptide/oligopeptide/nickel transport system, permease component	DppC			
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_07775	COG4533	K	DNA-binding transcriptional regulator SgrR of sgrS sRNA, contains a MarR-type HTH domain and a periplasmic-type solute-binding domain	SgrR			
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_07780	COG1974	KT	SOS-response transcriptional repressor LexA (RecA-mediated autopeptidase)	LexA			1AY9
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_07785	COG0346	Q	Catechol 2,3-dioxygenase or related enzyme, vicinal oxygen chelate (VOC) family	GloA		11830595	3R4Q
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_07795	COG0105	F	Nucleoside diphosphate kinase	Ndk	Pyrimidine biosynthesis		1B4S
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_07800	COG2165	NUW	Type II secretory pathway, pseudopilin PulG	PulG			1AY2
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_07805	COG2165	NUW	Type II secretory pathway, pseudopilin PulG	PulG			1AY2
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_07810	COG4795	U	Type II secretory pathway, PulJ/GspJ component	PulJ			
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_07815	COG2165	NUW	Type II secretory pathway, pseudopilin PulG	PulG			1AY2
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_07820	COG3156	U	Type II secretory pathway, component PulK	PulK			5VTM
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_07825	COG3166	NW	Type IV pilus assembly protein PilN	PilN			
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_07835	COG4964	UW	Flp pilus assembly protein, secretin CpaC	CpaC			
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_07850	COG0502	H	Biotin synthase or related enzyme	BioB	Biotin biosynthesis		1R30
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_07855	COG0167	F	Dihydroorotate dehydrogenase	PyrD	Pyrimidine biosynthesis		1GT8
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_07865	COG2836	S	Uncharacterized membrane protein, DsbD domain	DsbD		17768248	
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_07870	COG4566	TK	DNA-binding response regulator, FixJ family, consists of REC and HTH domains	FixJ			1YIO
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_07875	COG0209	F	Ribonucleotide reductase alpha subunit	NrdA	Pyrimidine salvage		1R1R
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_07880	COG0208	F	Ribonucleotide reductase beta subunit, ferritin-like domain	NrdB	Pyrimidine salvage		1AV8
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_07900	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_07905	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_07925	COG4977	K	Transcriptional regulator GlxA, contains an amidase domain and an AraC-type DNA-binding HTH domain	GlxA			
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_07940	COG2270	R	MFS-type transporter involved in bile tolerance, Atg22 family	BtlA		12583894	
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_07945	COG2730	G	Aryl-phospho-beta-D-glucosidase BglC, GH1 family	BglC			
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_07960	COG0554	C	Glycerol kinase	GlpK			2ZF5
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_07965	COG0557	K	Exoribonuclease R	VacB			6H25
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_07970	COG0421	E	Spermidine synthase (polyamine aminopropyltransferase)	SpeE			6BQ2
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_07975	COG0079	E	Histidinol-phosphate/aromatic aminotransferase or cobyric acid decarboxylase	HisC	Cobalamine/B12 biosynthesis		4R2N
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_07980	COG2302	R	RNA-binding protein YlmH, contains S4-like domain	YlmH			
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_07990	COG0498	E	Threonine synthase	ThrC	Threonine biosynthesis		1VB3
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_07995	COG0528	F	Uridylate kinase	PyrH	Pyrimidine biosynthesis		2BND
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_08000	COG4492	R	ACT domain-containing protein, UPF0735 family	PheB			
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_08010	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_08015	COG0111	H	Phosphoglycerate dehydrogenase or related dehydrogenase	SerA	Serine biosynthesis		3OET
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_08030	COG5271	J	Midasin, AAA ATPase with  vWA domain, involved in ribosome maturation	MDN1			6HYP
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_08045	COG5398	H	Heme oxygenase				1DVE
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_08050	COG2127	O	ATP-dependent Clp protease adapter protein ClpS	ClpS			1LZW
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_08055	COG0071	O	Small heat shock protein IbpA, HSP20 family	IbpA			1GME
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_08065	COG1304	CIR	FMN-dependent dehydrogenase, includes L-lactate dehydrogenase and type II isopentenyl diphosphate isomerase	LldD	Isoprenoid biosynthesis		6AI7
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_08075	COG0828	J	Ribosomal protein S21	RpsU	Ribosome 30S subunit		4V4H
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_08085	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_08105	COG2992	R	Uncharacterized FlgJ-related protein	Bax			
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_08155	COG0181	H	Porphobilinogen deaminase	HemC	Heme biosynthesis		1AH5
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_08170	COG3284	K	Transcriptional regulator DhaR of acetoin/glycerol metabolism	AcoR			4LRX
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_08175	COG1240	H	vWFA (von Willebrand factor type A) domain of Mg and Co chelatases	ChlD			
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_08185	COG0349	J	Ribonuclease D	Rnd		18821773	5C0Y
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_08200	COG2826	X	Transposase and inactivated derivatives, IS30 family	Tra8			
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_08265	COG0486	J	tRNA U34 5-carboxymethylaminomethyl modifying GTPase MnmE/TrmE	MnmE	tRNA modification		
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_08270	COG0605	P	Superoxide dismutase	SodA			1AP5
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_08275	COG0117	H	Riboflavin biosynthesis protein RibD, pyrimidine deaminase domain	RibD1	Riboflavin/FAD biosynthesis		2O7P
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_08280	COG0361	J	Translation initiation factor IF-1	InfA	Translation factors		5FIM
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_08285	COG0498	E	Threonine synthase	ThrC	Threonine biosynthesis		1VB3
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_08300	COG0580	G	Glycerol uptake facilitator or related aquaporin (Major Intrinsic protein Family)	GlpF			1FQY
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_08305	COG0394	T	Protein-tyrosine-phosphatase	Wzb		26641313	4D74
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_08315	COG1078	R	HD superfamily phosphohydrolase	YdhJ			2HEK
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_08325	COG1233	Q	Phytoene dehydrogenase-related protein				4REP
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_08330	COG0809	J	S-adenosylmethionine:tRNA-ribosyltransferase-isomerase (queuine synthetase)	QueA	tRNA modification		1VKY
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_08340	COG0465	O	ATP-dependent Zn proteases	HflB			1LV7
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_08345	COG0780	J	NADPH-dependent 7-cyano-7-deazaguanine reductase QueF, C-terminal domain, T-fold superfamily	QueFC	tRNA modification	14660578;17384645	3BP1
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_08350	COG0265	O	Periplasmic serine protease, S1-C subfamily, contain C-terminal PDZ domain	DegQ		29686141	2HGA
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_08360	COG0225	O	Peptide methionine sulfoxide reductase MsrA	MsrA			1FF3
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_08365	COG2921	T	Putative lipoate-binding regulatory protein, UPF0250 family	YbeD		15547281	1RWU
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_08370	COG1524	T	c-di-AMP phosphodiesterase AtaC or nucleotide pyrophosphatase, AlkP superfamily	AtaC		32188788	1EI6
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_08380	COG0436	E	Aspartate/methionine/tyrosine aminotransferase	AspB	Isoleucine, leucine, valine biosynthesis		2O0R
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_08390	COG0707	M	UDP-N-acetylglucosamine:LPS N-acetylglucosamine transferase	MurG	Mureine biosynthesis		1F0K
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_08405	COG0546	C	Phosphoglycolate phosphatase, HAD superfamily	Gph			2NYV
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_08410	COG0574	G	Phosphoenolpyruvate synthase/pyruvate phosphate dikinase	PpsA	Gluconeogenesis		5HV6
+Coraliomargarita_sp_NAT145	GCA_002699365.1	HFHOBA_08415	COG1807	M	PMT family glycosyltransferase ArnT/Agl22, involved in glycosylation of proteins and lipid IVA	ArnT		16226890;31233657;32706435	5EZM

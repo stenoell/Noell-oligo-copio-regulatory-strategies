@@ -1,0 +1,602 @@
+#prefix	assemid	query	COG	category	name	Gene	pathway	pmid	pdb_id
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_00005	COG0638	O	20S proteasome, alpha and beta subunits	PRE1			1FNT
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_00010	COG0508	C	Pyruvate/2-oxoglutarate dehydrogenase complex, dihydrolipoamide acyltransferase (E2) component	AceF	Pyruvate oxidation		1B5S
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_00015	COG2135	L	ssDNA abasic site-binding protein YedK/HMCES, SRAP family	SRAP		30554877;31504793	1ZN6
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_00020	COG3425	I	3-hydroxy-3-methylglutaryl CoA synthase	PksG	Isoprenoid biosynthesis		1TVZ
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_00025	COG2849	V	Antitoxin component YwqK of the YwqJK toxin-antitoxin module	YwqK			
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_00030	COG1102	F	Cytidylate kinase	CmkB			
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_00040	COG1805	C	Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrB	NqrB	Na+-translocating NADH dehydrogenase		4P6V
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_00045	COG4659	C	Na+-translocating ferredoxin:NAD+ oxidoreductase RNF, RnfG subunit	RnfG	Na+-translocating Fd:NADH oxidoreductase		
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_00050	COG4657	C	Na+-translocating ferredoxin:NAD+ oxidoreductase RNF, RnfA subunit	RnfA	Na+-translocating Fd:NADH oxidoreductase		
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_00055	COG4660	C	Na+-translocating ferredoxin:NAD+ oxidoreductase  RNF, RnfE subunit	RnfE	Na+-translocating Fd:NADH oxidoreductase		
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_00060	COG2928	S	Uncharacterized membrane protein			19363116	
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_00065	COG0607	P	Rhodanese-related sulfurtransferase	PspE	Urea cycle		1TQ1
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_00090	COG3434	T	c-di-GMP phosphodiesterase YuxH/PdeH, contains EAL and HDOD domains	YuxH		23893111	
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_00095	COG0106	E	Phosphoribosylformimino-5-aminoimidazole carboxamide ribonucleotide (ProFAR) isomerase	HisA	Histidine biosynthesis		4U28
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_00100	COG1862	U	Protein translocase subunit YajC	YajC			
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_00105	COG0788	F	Formyltetrahydrofolate hydrolase	PurU	Purine biosynthesis		3O1L
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_00110	COG2815	M	PASTA domain, binds beta-lactams	PASTA			
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_00115	COG0269	G	3-keto-L-gulonate-6-phosphate decarboxylase	UlaD			3F4W
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_00135	COG0591	E	Na+/proline symporter	PutP			5NVA
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_00140	COG2231	L	3-Methyladenine DNA glycosylase, HhH-GPD/Endo3 superfamily	HP0602		14517230;20410075	1PU6
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_00160	COG0823	U	Periplasmic component TolB of the Tol biopolymer transport system	TolB			1C5K
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_00165	COG4447	R	Uncharacterized conserved protein related to plant photosystem II stability/assembly factor				2XBG
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_00170	COG1228	Q	Imidazolonepropionase or related amidohydrolase	HutI			3OOQ
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_00175	COG0591	E	Na+/proline symporter	PutP			5NVA
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_00180	COG0749	L	DNA polymerase I, 3'-5' exonuclease and polymerase domains	PolA			1D8Y
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_00185	COG0031	E	Cysteine synthase	CysK	Cysteine biosynthesis		1FCJ
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_00210	COG1004	M	UDP-glucose 6-dehydrogenase	Ugd			1DLI
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_00220	COG0673	R	Predicted dehydrogenase	MviM			3UUW
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_00230	COG0789	K	DNA-binding transcriptional regulator, MerR family	SoxR			2VZ4
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_00235	COG4942	D	Septal ring factor EnvC, activator of murein hydrolases AmiA and AmiB	EnvC			
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_00240	COG2872	J	Ser-tRNA(Ala) deacylase AlaX (editing enzyme)	AlaX			2E1B
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_00245	COG1225	O	Peroxiredoxin	Bcp			5IPH
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_00250	COG1607	I	Acyl-CoA hydrolase	YciA			5DM5
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_00260	COG1999	O	Cytochrome oxidase Cu insertion factor, SCO1/SenC/PrrC family	Sco1			1ON4
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_00265	COG0671	I	Membrane-associated phospholipid phosphatase	PgpB	Phospholipid biosynthesis		1D2T
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_00270	COG0219	J	tRNA(Leu) C34 or U34 (ribose-2'-O)-methylase TrmL, contains SPOUT domain	TrmL	tRNA modification		4JAK
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_00280	COG1738	J	Queuosine precursor transporter YhhQ, DUF165 family	YhhQ		31481610	
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_00285	COG1366	T	Anti-anti-sigma regulatory factor (antagonist of anti-sigma factor)	SpoIIAA			1AUZ
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_00290	COG0152	F	Phosphoribosylaminoimidazole-succinocarboxamide synthase	PurC	Purine biosynthesis		1A48
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_00300	COG2425	S	Uncharacterized conserved protein, contains a von Willebrand factor type A (vWA) domain	ViaA			
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_00315	COG4447	R	Uncharacterized conserved protein related to plant photosystem II stability/assembly factor				2XBG
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_00320	COG2755	DI	Lysophospholipase L1 or related esterase. Includes spore coat protein LipC/YcsK	TesA			1BWP
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_00350	COG0550	L	DNA topoisomerase IA	TopA			1CY0
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_00365	COG0464	MDT	AAA+-type ATPase, SpoVK/Ycf46/Vps4 family	SpoVK			3SYL
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_00375	COG1451	R	UTP pyrophosphatase, metal-dependent hydrolase family	YgjP		27941785	4JIU
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_00385	COG4270	S	Uncharacterized membrane protein				
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_00390	COG5522	S	Uncharacterized membrane protein YwaF	YwaF			
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_00410	COG2259	S	Uncharacterized membrane protein YphA, DoxX/SURF4 family	DoxX			
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_00415	COG4242	QR	Cyanophycinase and related exopeptidases	CphB			3EN0
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_00425	COG1484	L	DNA replication protein DnaC	DnaC			2QGZ
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_00430	COG0369	FP	Flavoprotein (flavin reductase) subunit CysJ of sulfite and N-hydroxylaminopurine reductases	CysJ	Cysteine biosynthesis	20118259	1YKG
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_00435	COG0367	E	Asparagine synthetase B (glutamine-hydrolyzing)	AsnB	Asparagine biosynthesis	25951518	2ETD
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_00445	COG0309	O	Carbamoyl dehydratase HypE (hydrogenase maturation factor)	HypE		28618091	2I6R
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_00455	COG1028	I	NAD(P)-dependent dehydrogenase, short-chain alcohol dehydrogenase family	FabG	Fatty acid biosynthesis		6L1H
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_00475	COG4105	M	Outer membrane protein assembly factor BamD, BamD/ComL family	BamD			2YHC
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_00480	COG1934	M	Lipopolysaccharide export system protein LptA	LptA			2R19
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_00485	COG0482	J	tRNA U34 2-thiouridine synthase MnmA/TrmU, contains the PP-loop ATPase domain	MnmA	tRNA modification	25825430	2HMA
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_00495	COG5018	T	3'-5' exonuclease KapD, inhibitor of KinA-controlled sporulation	KapD			
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_00505	COG0449	M	Glucosamine 6-phosphate synthetase, contains amidotransferase and phosphosugar isomerase domains	GlmS			2J6H
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_00540	COG0173	J	Aspartyl-tRNA synthetase	AspS	Aminoacyl-tRNA synthetases		1C0A
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_00545	COG1702	T	Phosphate starvation-inducible protein PhoH, predicted ATPase	PhoH		8444794;12762842	3B85
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_00550	COG3321	Q	Acyl transferase domain in polyketide synthase (PKS) enzymes	PksD			6IYO
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_00555	COG1250	I	3-hydroxyacyl-CoA dehydrogenase	FadB	Fatty acid biosynthesis		5ZQZ
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_00575	COG2131	F	Deoxycytidylate deaminase	ComEB		25746996;31954084	2HVV
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_00580	COG2203	T	GAF domain	GAF			
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_00590	COG0334	E	Glutamate dehydrogenase/leucine dehydrogenase	GdhA	Glutamine biosynthesis	24391520	1B3B
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_00595	COG4589	R	Predicted CDP-diglyceride synthetase/phosphatidate cytidylyltransferase	YnbB			
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_00600	COG1266	O	Membrane protease YdiL, CAAX protease family	YdiL			
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_00605	COG1902	C	2,4-dienoyl-CoA reductase or related NADH-dependent reductase, Old Yellow Enzyme (OYE) family	FadH			1BWK
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_00610	COG0697	GER	Permease of the drug/metabolite transporter (DMT) superfamily	RhaT			5I20
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_00625	COG3828	R	Type 1 glutamine amidotransferase (GATase1)-like domain				
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_00635	COG0491	R	Glyoxylase or a related metal-dependent hydrolase, beta-lactamase superfamily II	GloB		25670698	1QH3
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_00645	COG0520	E	Selenocysteine lyase/Cysteine desulfurase	CsdA			4LW2
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_00650	COG4942	D	Septal ring factor EnvC, activator of murein hydrolases AmiA and AmiB	EnvC			
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_00655	COG0785	CO	Cytochrome c biogenesis protein CcdA	CcdA			5VKV
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_00660	COG0624	E	Acetylornithine deacetylase/Succinyl-diaminopimelate desuccinylase or related deacylase	ArgE	Arginine biosynthesis		1CG2
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_00670	COG0149	G	Triosephosphate isomerase	TpiA	Glycolysis		1HG3
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_00675	COG1121	P	ABC-type Mn2+/Zn2+ transport system, ATPase component	ZnuC			
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_00685	COG1020	Q	EntF, seryl-AMP synthase component  of non-ribosomal peptide synthetase	EntF			5ES5
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_00690	COG0607	P	Rhodanese-related sulfurtransferase	PspE	Urea cycle		1TQ1
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_00705	COG1674	D	DNA segregation ATPase FtsK/SpoIIIE or related protein	FtsK			2IUT
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_00710	COG0167	F	Dihydroorotate dehydrogenase	PyrD	Pyrimidine biosynthesis		1GT8
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_00715	COG0582	LX	Integrase/recombinase, includes phage integrase	FimB			
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_00725	COG0328	L	Ribonuclease HI	RnhA			1LAW
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_00730	COG1070	G	Sugar (pentulose or hexulose) kinase	XylB	Non-phosphorylated Entner-Doudoroff pathway		4C23
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_00735	COG0210	L	Superfamily I DNA or RNA helicase	UvrD			6PPR
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_00740	COG2355	OE	Zn-dependent dipeptidase, microsomal dipeptidase homolog			14499931	1ITQ
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_00745	COG4221	C	NADP-dependent 3-hydroxy acid dehydrogenase YdfG	YdfG	Pyrimidine degradation		3P19
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_00750	COG1104	E	Cysteine desulfurase/Cysteine sulfinate desulfinase IscS or related enzyme, NifS family	NifS		22773787;25825430	4IXO
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_00755	COG1154	HI	Deoxyxylulose-5-phosphate synthase	Dxs	Pyridoxal phosphate biosynthesis		2O1S
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_00765	COG0105	F	Nucleoside diphosphate kinase	Ndk	Pyrimidine biosynthesis		1B4S
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_00770	COG1227	C	Inorganic pyrophosphatase/exopolyphosphatase	PPX1			1I74
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_00775	COG1047	O	Peptidyl-prolyl cis-trans isomerase, FKBP type	SlpA			2M2A
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_00785	COG0545	O	FKBP-type peptidyl-prolyl cis-trans isomerase	FkpA			1A7X
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_00790	COG0127	F	Inosine/xanthosine triphosphate pyrophosphatase, all-alpha NTP-PPase family	RdgB			1B78
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_00795	COG1072	H	Panthothenate kinase	CoaA	Pantothenate/CoA biosynthesis		2GA8
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_00800	COG0341	U	Preprotein translocase subunit SecF	SecF		28830929	2FYH
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_00810	COG1233	Q	Phytoene dehydrogenase-related protein				4REP
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_00815	COG2353	R	Polyisoprenoid-binding periplasmic protein YceI	YceI		15741337;20236316	1WUB
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_00820	COG0415	L	Deoxyribodipyrimidine photolyase	PhrB			1TEZ
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_00825	COG0001	H	Glutamate-1-semialdehyde aminotransferase	HemL	Heme biosynthesis		2CFB
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_00830	COG0113	H	Delta-aminolevulinic acid dehydratase, porphobilinogen synthase	HemB	Heme biosynthesis		1I8J
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_00835	COG1233	Q	Phytoene dehydrogenase-related protein				4REP
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_00850	COG0407	H	Uroporphyrinogen-III decarboxylase HemE	HemE	Heme biosynthesis		2DG5
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_00855	COG1587	H	Uroporphyrinogen-III synthase	HemD	Heme biosynthesis		1JR2
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_00860	COG0181	H	Porphobilinogen deaminase	HemC	Heme biosynthesis		1AH5
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_00865	COG0169	E	Shikimate 5-dehydrogenase	AroE	Aromatic amino acid biosynthesis		1NPD
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_00880	COG2226	H	Ubiquinone/menaquinone biosynthesis C-methylase UbiE/MenG	UbiE	Biotin biosynthesis		4OBW
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_00885	COG2230	I	Cyclopropane fatty-acyl-phospholipid synthase and related methyltransferases	Cfa			5Z9O
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_00895	COG2255	L	Holliday junction resolvasome RuvABC, ATP-dependent DNA helicase subunit RuvB	RuvB			1HQC
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_00900	COG1477	HO	FAD:protein FMN transferase ApbE	ApbE		23558683;30154099	1VRM
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_00910	COG0209	F	Ribonucleotide reductase alpha subunit	NrdA	Pyrimidine salvage		1R1R
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_00915	COG0208	F	Ribonucleotide reductase beta subunit, ferritin-like domain	NrdB	Pyrimidine salvage		1AV8
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_00925	COG0211	J	Ribosomal protein L27	RpmA	Ribosome 50S subunit		1VS6
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_00930	COG0142	H	Geranylgeranyl pyrophosphate synthase	IspA	Isoprenoid biosynthesis		2AZJ
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_00935	COG0557	K	Exoribonuclease R	VacB			6H25
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_00960	COG0101	J	tRNA U38,U39,U40 pseudouridine synthase TruA	TruA	tRNA modification		1DJ0
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_00965	COG4608	E	ABC-type oligopeptide transport system, ATPase component	AppF			
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_00970	COG1137	M	ABC-type lipopolysaccharide export system, ATPase component	LptB		12029038	5L75
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_00975	COG0771	M	UDP-N-acetylmuramoylalanine-D-glutamate ligase	MurD	Mureine biosynthesis		1E0D
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_00980	COG0781	K	Transcription antitermination protein NusB	NusB		21652641	1EY1
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_00995	COG1862	U	Protein translocase subunit YajC	YajC			
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_01015	COG0799	J	Ribosomal silencing factor RsfS, regulates association of 30S and 50S subunits	RsfS			6SJ6
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_01020	COG3164	S	Uncharacterized conserved protein YhdP, contains DUF3971 and AsmA2 domains	YhdR			
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_01025	COG0815	M	Apolipoprotein N-acyltransferase	Lnt			6NWR
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_01030	COG0312	R	Zn-dependent protease PmbA/TldA or its inactivated homolog	TldD		12029038	3TV9
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_01035	COG0312	R	Zn-dependent protease PmbA/TldA or its inactivated homolog	TldD		12029038	3TV9
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_01040	COG1007	C	NADH:ubiquinone oxidoreductase subunit 2 (chain N)	NuoN	NADH dehydrogenase		4HE8
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_01050	COG0651	CP	Formate hydrogenlyase subunit 3/Multisubunit Na+/H+ antiporter, MnhD subunit	HyfB			6CFW
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_01055	COG0651	CP	Formate hydrogenlyase subunit 3/Multisubunit Na+/H+ antiporter, MnhD subunit	HyfB			6CFW
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_01060	COG1006	P	Multisubunit Na+/H+ antiporter, MnhC subunit	MnhC			6CFW
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_01065	COG2111	P	Multisubunit Na+/H+ antiporter, MnhB subunit	MnhB			
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_01070	COG1563	R	Uncharacterized MnhB-related membrane protein				6CFW
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_01090	COG0157	H	Nicotinate-nucleotide pyrophosphorylase	NadC	NAD biosynthesis		1O4U
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_01095	COG1845	C	Heme/copper-type cytochrome/quinol oxidase, subunit 3	CyoC			1QLE
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_01100	COG0672	P	High-affinity Fe2+/Pb2+ permease	FTR1			
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_01115	COG1622	C	Heme/copper-type cytochrome/quinol oxidase, subunit 2	CyoA			1CYW
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_01135	COG3011	R	Predicted thiol-disulfide oxidoreductase YuxK, DCC family	YuxK		15236740	
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_01145	COG1419	N	Flagellar biosynthesis GTPase FlhF	FlhF			3SYN
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_01155	COG1226	P	Voltage-gated potassium channel Kch	Kch			3FWZ
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_01160	COG0168	P	Trk-type K+ transport system, membrane component	TrkG			3PJZ
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_01170	COG2425	S	Uncharacterized conserved protein, contains a von Willebrand factor type A (vWA) domain	ViaA			
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_01185	COG0402	FR	Cytosine/adenosine deaminase or related metal-dependent hydrolase	SsnA	Pyrimidine salvage		3O7U
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_01190	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_01195	COG1770	E	Protease II	PtrB			4BP9
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_01200	COG0794	GM	D-arabinose 5-phosphate isomerase GutQ	GutQ			5UQI
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_01205	COG0488	R	ATPase components of ABC transporters with duplicated ATPase domains	Uup			5ZXD
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_01230	COG1466	L	DNA polymerase III, delta subunit	HolA			3ZH9
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_01235	COG4941	K	Predicted RNA polymerase sigma factor, contains C-terminal TPR domain				
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_01250	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_01255	COG0438	M	Glycosyltransferase involved in cell wall bisynthesis	RfaB			2IV7
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_01260	COG1215	N	Glycosyltransferase, catalytic subunit of cellulose synthase and poly-beta-1,6-N-acetylglucosamine synthase	BcsA			4HG6
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_01265	COG4147	C	Na+(or H+)/acetate symporter ActP	ActP			
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_01270	COG0156	H	7-keto-8-aminopelargonate synthetase or related enzyme	BioF	Biotin biosynthesis		1BS0
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_01275	COG1012	I	Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase	AdhE	Proline degradation		1A4S
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_01280	COG3191	E	L-aminopeptidase/D-esterase	DmpA			1B65
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_01305	COG1983	KT	Phage shock protein PspC (stress-responsive transcriptional regulator)	PspC			
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_01325	COG1026	O	Zn-dependent peptidase, M16 (insulinase) family	Cym1			2FGE
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_01330	COG1026	O	Zn-dependent peptidase, M16 (insulinase) family	Cym1			2FGE
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_01335	COG1012	I	Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase	AdhE	Proline degradation		1A4S
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_01360	COG4341	R	Predicted HD phosphohydrolase				4MLN
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_01400	COG0554	C	Glycerol kinase	GlpK			2ZF5
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_01410	COG2812	L	DNA polymerase III, gamma/tau subunits	DnaX			1A5T
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_01420	COG1088	M	dTDP-D-glucose 4,6-dehydratase	RfbB			1G1A
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_01430	COG1032	R	Radical SAM superfamily enzyme YgiQ, UPF0313 family	YgiQ			6FD2
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_01440	COG2072	P	Predicted flavoprotein CzcO associated with the cation diffusion facilitator CzcD	CzcO			4USQ
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_01455	COG4121	J	tRNA U34 5-methylaminomethyl-2-thiouridine-forming methyltransferase MnmC	MnmC	tRNA modification		3AWI
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_01460	COG0245	I	2C-methyl-D-erythritol 2,4-cyclodiphosphate synthase	IspF	Isoprenoid biosynthesis		1GX1
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_01465	COG2259	S	Uncharacterized membrane protein YphA, DoxX/SURF4 family	DoxX			
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_01470	COG3959	G	Transketolase, N-terminal subunit	TktA1			
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_01475	COG0210	L	Superfamily I DNA or RNA helicase	UvrD			6PPR
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_01485	COG0128	E	5-enolpyruvylshikimate-3-phosphate synthase	AroA	Aromatic amino acid biosynthesis		4N3P
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_01520	COG0749	L	DNA polymerase I, 3'-5' exonuclease and polymerase domains	PolA			1D8Y
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_01525	COG1126	E	ABC-type polar amino acid transport system, ATPase component	GlnQ			4YMS
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_01530	COG0842	V	ABC-type multidrug transport system, permease component	YadH			
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_01535	COG2971	G	BadF-type ATPase, related to human N-acetylglucosamine kinase	BadF		17954692;12761179;12761179	
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_01540	COG0787	M	Alanine racemase	Alr	Mureine biosynthesis		1BD0
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_01545	COG1472	G	Periplasmic beta-glucosidase and related glycosidases	BglX			2X40
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_01550	COG4145	H	Na+/panthothenate symporter	PanF			
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_01570	COG4133	O	ABC-type transport system involved in cytochrome c biogenesis, ATPase component	CcmA			
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_01575	COG0577	V	ABC-type antimicrobial peptide transport system, permease component	SalY			
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_01580	COG0577	V	ABC-type antimicrobial peptide transport system, permease component	SalY			
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_01590	COG4270	S	Uncharacterized membrane protein				
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_01630	COG0117	H	Riboflavin biosynthesis protein RibD, pyrimidine deaminase domain	RibD1	Riboflavin/FAD biosynthesis		2O7P
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_01640	COG0322	L	Excinuclease UvrABC, nuclease subunit	UvrC		24513124	2NRT
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_01645	COG4276	R	Ligand-binding SRPBCC domain	SRPBCC			
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_01650	COG0300	R	Short-chain dehydrogenase	YqjQ			
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_01660	COG0415	L	Deoxyribodipyrimidine photolyase	PhrB			1TEZ
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_01695	COG1522	K	DNA-binding transcriptional regulator, Lrp family	Lrp			1I1G
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_01725	COG1115	E	Na+/alanine symporter	AlsT			6CSE
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_01730	COG0483	G	Archaeal fructose-1,6-bisphosphatase or related enzyme, inositol monophosphatase family	SuhB	Gluconeogenesis		1AWB
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_01740	COG0046	F	Phosphoribosylformylglycinamidine (FGAM) synthase, synthetase domain	PurL1	Purine biosynthesis		3VIU
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_01745	COG0399	M	dTDP-4-amino-4,6-dideoxygalactose transaminase	WecE		15271350	4PIW
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_01770	COG5256	J	Translation elongation factor EF-1alpha (GTPase)	TEF1	Translation factors		1F60
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_01775	COG0457	R	Tetratricopeptide (TPR) repeat	TPR			3AS4
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_01780	COG0514	L	Superfamily II DNA helicase RecQ	RecQ			1OYW
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_01790	COG0607	P	Rhodanese-related sulfurtransferase	PspE	Urea cycle		1TQ1
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_01805	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_01820	COG1760	E	L-serine deaminase	SdaA			4RQO
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_01825	COG1252	C	NADH dehydrogenase, FAD-containing subunit	Ndh			5NA4
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_01830	COG0508	C	Pyruvate/2-oxoglutarate dehydrogenase complex, dihydrolipoamide acyltransferase (E2) component	AceF	Pyruvate oxidation		1B5S
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_01835	COG0021	G	Transketolase	TktA	Pentose phosphate pathway		1AY0
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_01845	COG0397	O	Protein adenylyltransferase (AMPylase) SelO/YdiU (selenoprotein O)	SelO		30270044	6EAC
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_01860	COG0260	E	Leucyl aminopeptidase	PepB		19553197;23825549	3H8E
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_01865	COG4221	C	NADP-dependent 3-hydroxy acid dehydrogenase YdfG	YdfG	Pyrimidine degradation		3P19
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_01870	COG1154	HI	Deoxyxylulose-5-phosphate synthase	Dxs	Pyridoxal phosphate biosynthesis		2O1S
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_01880	COG0446	I	NADPH-dependent 2,4-dienoyl-CoA reductase, sulfur reductase, or a related oxidoreductase	FadH2			1VRQ
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_01885	COG0780	J	NADPH-dependent 7-cyano-7-deazaguanine reductase QueF, C-terminal domain, T-fold superfamily	QueFC	tRNA modification	14660578;17384645	3BP1
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_01915	COG3470	MI	Uncharacterized conserved protein probably involved in high-affinity Fe2+ transport	Tpd		18456808	2O6C
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_01920	COG0672	P	High-affinity Fe2+/Pb2+ permease	FTR1			
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_01940	COG0269	G	3-keto-L-gulonate-6-phosphate decarboxylase	UlaD			3F4W
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_01945	COG1606	R	ATP-utilizing enzyme, PP-loop superfamily				6B2O
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_01955	COG0500	QR	SAM-dependent methyltransferase	SmtA			5DNK
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_01975	COG1291	N	Flagellar motor component MotA	MotA			
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_01995	COG2214	K	Curved DNA-binding protein CbpA, contains a DnaJ-like domain	CbpA			
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_02000	COG0576	O	Molecular chaperone GrpE (heat shock protein HSP-70)	GrpE			1DKG
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_02005	COG0012	J	Ribosome-binding ATPase YchF, GTP1/OBG family	GTP1		21527254	2DWQ
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_02010	COG1102	F	Cytidylate kinase	CmkB			
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_02015	COG0524	G	Sugar or nucleoside kinase, ribokinase family	RbsK	Glycolysis		2QCV
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_02020	COG0520	E	Selenocysteine lyase/Cysteine desulfurase	CsdA			4LW2
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_02025	COG0632	L	Holliday junction resolvasome RuvABC DNA-binding subunit	RuvA			1BDX
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_02030	COG0591	E	Na+/proline symporter	PutP			5NVA
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_02040	COG3695	K	Alkylated DNA nucleotide flippase Atl1, participates in nucleotide excision repair, Ada-like DNA-binding domain	Atl1		19516334	2KIF
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_02050	COG2095	E	Small neutral amino acid transporter SnatA, MarC family	MarC		17954692;12761179	
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_02055	COG0771	M	UDP-N-acetylmuramoylalanine-D-glutamate ligase	MurD	Mureine biosynthesis		1E0D
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_02060	COG0242	J	Peptide deformylase	Def			1BS4
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_02070	COG2846	O	Iron-sulfur cluster repair protein YtfE, RIC family, contains ScdAN and hemerythrin domains	RIC			5FNN
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_02075	COG1157	NU	Flagellar biosynthesis/type III secretory pathway ATPase FliI	FliI			5B0O
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_02080	COG0441	J	Threonyl-tRNA synthetase	ThrS	Aminoacyl-tRNA synthetases		1NYQ
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_02090	COG1232	H	Protoporphyrinogen oxidase HemY/PPOX	HemY	Heme biosynthesis		3LOV
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_02115	COG1129	G	ABC-type sugar transport system, ATPase component	MglA			
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_02125	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_02145	COG0495	J	Leucyl-tRNA synthetase	LeuS	Aminoacyl-tRNA synthetases		6LPF
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_02150	COG1159	J	GTPase Era, involved in 16S rRNA processing	Era			1EGA
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_02155	COG4447	R	Uncharacterized conserved protein related to plant photosystem II stability/assembly factor				2XBG
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_02165	COG0207	F	Thymidylate synthase	ThyA	Thymidylate biosynthesis		1AN5
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_02170	COG1538	M	Outer membrane protein TolC	TolC			1EK9
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_02180	COG0156	H	7-keto-8-aminopelargonate synthetase or related enzyme	BioF	Biotin biosynthesis		1BS0
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_02195	COG5275	R	BRCT domain type II				
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_02200	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_02210	COG0111	H	Phosphoglycerate dehydrogenase or related dehydrogenase	SerA	Serine biosynthesis		3OET
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_02215	COG0560	E	Phosphoserine phosphatase	SerB	Serine biosynthesis		3N28
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_02220	COG1702	T	Phosphate starvation-inducible protein PhoH, predicted ATPase	PhoH		8444794;12762842	3B85
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_02235	COG2262	J	50S ribosomal subunit-associated GTPase HflX	HflX		22905870	2QTF
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_02260	COG0436	E	Aspartate/methionine/tyrosine aminotransferase	AspB	Isoleucine, leucine, valine biosynthesis		2O0R
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_02265	COG1499	J	NMD protein affecting ribosome stability and mRNA decay	NMD3			
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_02270	COG4987	CO	ABC-type transport system involved in cytochrome bd biosynthesis, fused ATPase and permease components	CydC			
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_02275	COG0719	O	Fe-S cluster assembly scaffold protein SufB	SufB			1VH4
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_02285	COG0365	I	Acyl-coenzyme A synthetase/AMP-(fatty) acid ligase	Acs		14638756	4B2O
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_02290	COG3474	C	Cytochrome c2	Cyc7			1YEA
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_02295	COG1142	C	Fe-S-cluster-containing hydrogenase component 2	HycB			
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_02300	COG5557	C	Ni/Fe-hydrogenase 2 integral membrane subunit HybB	HybB			
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_02310	COG2010	C	Cytochrome c, mono- and diheme variants	CccA			1A2S
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_02320	COG0484	O	DnaJ-class molecular chaperone with C-terminal Zn finger domain	DnaJ			1BQ0
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_02325	COG0642	T	Signal transduction histidine kinase	BaeS			1JOY
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_02330	COG0055	C	FoF1-type ATP synthase, beta subunit	AtpD	FoF1-type ATP synthase		3OAA
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_02340	COG0443	O	Molecular chaperone DnaK (HSP70)	DnaK			3I33
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_02345	COG1190	J	Lysyl-tRNA synthetase (class II)	LysU	Aminoacyl-tRNA synthetases		1BBU
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_02350	COG1508	K	DNA-directed RNA polymerase specialized sigma subunit, sigma54 homolog	RpoN	RNA polymerase		5BYH
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_02375	COG0365	I	Acyl-coenzyme A synthetase/AMP-(fatty) acid ligase	Acs		14638756	4B2O
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_02380	COG1702	T	Phosphate starvation-inducible protein PhoH, predicted ATPase	PhoH		8444794;12762842	3B85
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_02390	COG0758	L	Predicted Rossmann fold nucleotide-binding protein DprA/Smf involved in DNA uptake	Smf			3MAJ
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_02395	COG3119	P	Arylsulfatase A or related enzyme, AlkP superfamily	AslA			1E1Z
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_02440	COG2353	R	Polyisoprenoid-binding periplasmic protein YceI	YceI		15741337;20236316	1WUB
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_02450	COG0057	G	Glyceraldehyde-3-phosphate dehydrogenase/erythrose-4-phosphate dehydrogenase	GapA	Glycolysis		3ZDF
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_02460	COG1488	H	Nicotinic acid phosphoribosyltransferase	PncB	NAD biosynthesis		1VLP
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_02465	COG0697	GER	Permease of the drug/metabolite transporter (DMT) superfamily	RhaT			5I20
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_02470	COG4987	CO	ABC-type transport system involved in cytochrome bd biosynthesis, fused ATPase and permease components	CydC			
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_02475	COG0045	C	Succinyl-CoA synthetase, beta subunit	SucC	TCA cycle		1SCU
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_02495	COG1225	O	Peroxiredoxin	Bcp			5IPH
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_02505	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_02510	COG4772	P	Outer membrane receptor for Fe3+-dicitrate	FecA			1KMP
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_02530	COG0169	E	Shikimate 5-dehydrogenase	AroE	Aromatic amino acid biosynthesis		1NPD
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_02535	COG0181	H	Porphobilinogen deaminase	HemC	Heme biosynthesis		1AH5
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_02540	COG1587	H	Uroporphyrinogen-III synthase	HemD	Heme biosynthesis		1JR2
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_02545	COG0113	H	Delta-aminolevulinic acid dehydratase, porphobilinogen synthase	HemB	Heme biosynthesis		1I8J
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_02555	COG0231	J	Translation elongation factor P (EF-P)/translation initiation factor 5A (eIF-5A)	Efp	Translation factors		1UEB
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_02560	COG3425	I	3-hydroxy-3-methylglutaryl CoA synthase	PksG	Isoprenoid biosynthesis		1TVZ
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_02565	COG0333	J	Ribosomal protein L32	RpmF	Ribosome 50S subunit	17114934	1VS6
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_02570	COG1399	J	23S rRNA accumulation protein YceD (essential in plants, uncharacterized in bacteria)	YceD		27574185	
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_02580	COG3963	I	Phosphatidylethanolamine N-methyltransferase				
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_02585	COG1824	P	Permease, similar to cation transporters	MgtE2			
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_02595	COG0537	FR	Purine nucleoside phosphoramidase/Ap4A hydrolase, histidine triade (HIT) family	HinT		20934431	1AV5
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_02605	COG1099	R	Predicted metal-dependent hydrolase, TIM-barrel fold				3GUW
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_02620	COG0591	E	Na+/proline symporter	PutP			5NVA
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_02625	COG2020	O	Protein-S-isoprenylcysteine O-methyltransferase Ste14	STE14			5V7P
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_02635	COG1409	T	3',5'-cyclic AMP phosphodiesterase CpdA	CpdA			2ZO9
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_02640	COG0841	V	Multidrug efflux pump subunit AcrB	AcrB			1IWG
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_02645	COG1566	V	Multidrug resistance efflux pump EmrA	EmrA			4TKO
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_02650	COG1538	M	Outer membrane protein TolC	TolC			1EK9
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_02655	COG1309	K	DNA-binding protein, AcrR family, includes nucleoid occlusion protein SlmA	AcrR			2QOP
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_02670	COG0462	F	Phosphoribosylpyrophosphate synthetase	PrsA	Histidine biosynthesis, Purine biosynthesis		1DKR
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_02675	COG1825	J	Ribosomal protein L25 (general stress protein Ctc)	RplY	Ribosome 50S subunit		1B75
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_02680	COG0193	J	Peptidyl-tRNA hydrolase	Pth	Translation factors	11835511	1RYB
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_02685	COG0143	J	Methionyl-tRNA synthetase	MetG	Aminoacyl-tRNA synthetases		1A8H
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_02690	COG0300	R	Short-chain dehydrogenase	YqjQ			
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_02700	COG0633	C	Ferredoxin	Fdx			1KRH
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_02765	COG0626	E	Cystathionine beta-lyase/cystathionine gamma-synthase	MetC	Methionine biosynthesis		1CL1
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_02770	COG0034	F	Glutamine phosphoribosylpyrophosphate amidotransferase	PurF	Purine biosynthesis		1ECB
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_02775	COG0405	E	Gamma-glutamyltranspeptidase	Ggt		16618936	2Z8I
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_02790	COG1360	N	Flagellar motor protein MotB	MotB			
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_02795	COG0111	H	Phosphoglycerate dehydrogenase or related dehydrogenase	SerA	Serine biosynthesis		3OET
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_02800	COG4146	R	Uncharacterized membrane permease YidK, sodium:solute symporter family	YidK			2XQ2
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_02805	COG0019	E	Diaminopimelate decarboxylase	LysA	Lysine biosynthesis		1D7K
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_02810	COG4591	M	ABC-type transport system involved in lipoprotein release, permease component LolC	LolE			6F49
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_02820	COG0698	G	Ribose 5-phosphate isomerase RpiB	RpiB	Pentose phosphate pathway		1NN4
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_02825	COG0805	U	Twin-arginine protein secretion pathway component TatC	TatC			4B4A
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_02830	COG0112	E	Glycine/serine hydroxymethyltransferase	GlyA	Serine biosynthesis		1BJ4
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_02835	COG1605	E	Chorismate mutase	PheA	Aromatic amino acid biosynthesis		1ECM
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_02840	COG1187	J	Pseudouridylate synthase RsuA, specific for 16S rRNA U516  and 23S rRNA U2605	RsuA	16S rRNA modification		1KSK
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_02845	COG1694	V	NTP pyrophosphatase, house-cleaning of non-canonical NTPs	MazG			1VMG
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_02855	COG1109	G	Phosphomannomutase	ManB			6MNV
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_02860	COG0520	E	Selenocysteine lyase/Cysteine desulfurase	CsdA			4LW2
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_02870	COG1236	J	RNA processing exonuclease, beta-lactamase fold, Cft2 family	YSH1			2DKF
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_02875	COG2303	IR	Choline dehydrogenase or related flavoprotein	BetA	Non-phosphorylated Entner-Doudoroff pathway		1B4V
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_02880	COG0823	U	Periplasmic component TolB of the Tol biopolymer transport system	TolB			1C5K
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_02890	COG0810	M	Periplasmic protein TonB, links inner and outer membranes	TonB			1IHR
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_02900	COG1253	R	Hemolysin-related protein, contains CBS domains, UPF0053 family	TlyC			2NQW
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_02920	COG0160	E	Acetylornithine aminotransferase/4-aminobutyrate aminotransferase	ArgD	Arginine biosynthesis		1SF2
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_02925	COG3019	S	Uncharacterized metal-binding protein, DUF411 family				
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_02930	COG5337	M	Spore coat protein CotH	CotH			5JD9
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_02960	COG0044	F	Dihydroorotase or related cyclic amidohydrolase	AllB	Pyrimidine biosynthesis		1J79
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_02970	COG0538	C	Isocitrate dehydrogenase	Icd	TCA cycle		1IDD
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_02975	COG0119	E	Isopropylmalate/homocitrate/citramalate synthases	LeuA	Isoleucine, leucine, valine biosynthesis		4JN6
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_02980	COG0065	E	Homoaconitase/3-isopropylmalate dehydratase large subunit	LeuC	Isoleucine, leucine, valine biosynthesis		4KP1
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_02985	COG1048	C	Aconitase A	AcnA	Lysine biosynthesisTCA cycle		1ACO
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_02990	COG0473	CE	Isocitrate/isopropylmalate dehydrogenase	LeuB	TCA cycle		1GC9
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_03000	COG1807	M	PMT family glycosyltransferase ArnT/Agl22, involved in glycosylation of proteins and lipid IVA	ArnT		16226890;31233657;32706435	5EZM
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_03015	COG2065	F	Pyrimidine operon attenuation protein PyrR/uracil phosphoribosyltransferase	PyrR	Pyrimidine salvage		1A3C
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_03030	COG0616	O	Periplasmic serine protease, ClpP class	SppA			3BEZ
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_03075	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_03095	COG4570	L	Holliday junction resolvase RusA (prophage-encoded endonuclease)	RusA			1Q8R
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_03100	COG0270	L	DNA-cytosine methylase	Dcm			3LX6
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_03110	COG0358	L	DNA primase (bacterial type)	DnaG		28128549	3B39
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_03125	COG0593	L	Chromosomal replication initiation ATPase DnaA	DnaA			1L8Q
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_03145	COG0686	E	Alanine dehydrogenase (includes sporulation protein SpoVN)	Ald	Urea cycle		2EEZ
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_03150	COG1154	HI	Deoxyxylulose-5-phosphate synthase	Dxs	Pyridoxal phosphate biosynthesis		2O1S
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_03160	COG1331	R	Uncharacterized conserved protein YyaL, SSP411 family, contains thoiredoxin and six-hairpin glycosidase-like domains	YyaL			3IRA
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_03170	COG0533	J	tRNA A37 threonylcarbamoyltransferase TsaD	TsaD	tRNA modification	23072323;21285948;32385138	3ENO
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_03175	COG0691	O	tmRNA-binding protein	SmpB		26251518	1J1H
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_03180	COG1012	I	Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase	AdhE	Proline degradation		1A4S
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_03185	COG0239	DP	Fluoride ion exporter CrcB/FEX, affects chromosome condensation	CrcB			5A40
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_03190	COG0229	O	Peptide methionine sulfoxide reductase MsrB	MsrB			1L1D
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_03215	COG0488	R	ATPase components of ABC transporters with duplicated ATPase domains	Uup			5ZXD
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_03220	COG4149	P	ABC-type molybdate transport system, permease component ModB	ModB	Molybdopterin biosynthesis		
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_03225	COG4143	H	ABC-type thiamine transport system, periplasmic component TbpA	TbpA			2QRY
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_03230	COG0114	C	Fumarate hydratase class II	FumC	TCA cycle		1KQ7
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_03235	COG0024	J	Methionine aminopeptidase	Map			3J2I
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_03245	COG1101	R	ABC-type uncharacterized transport system, ATPase component	PhnK			
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_03255	COG0520	E	Selenocysteine lyase/Cysteine desulfurase	CsdA			4LW2
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_03265	COG0028	EH	Acetolactate synthase large subunit or other thiamine pyrophosphate-requiring enzyme	IlvB	Isoleucine, leucine, valine biosynthesis		1BFD
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_03270	COG2716	E	Glycine cleavage system regulator GcvR	GcvR			1U8S
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_03275	COG2085	R	Predicted dinucleotide-binding enzyme				2VNS
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_03280	COG0809	J	S-adenosylmethionine:tRNA-ribosyltransferase-isomerase (queuine synthetase)	QueA	tRNA modification		1VKY
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_03285	COG0009	J	tRNA A37 threonylcarbamoyladenosine synthetase subunit TsaC/SUA5/YrdC	TsaC	tRNA modification		1HRU
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_03300	COG0795	MN	Lipopolysaccharide export LptBFGC system, permease protein LptF	LptF			6S8H
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_03305	COG0343	J	Queuine/archaeosine tRNA-ribosyltransferase	Tgt	tRNA modification	15805528	1XW8
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_03315	COG0357	J	16S rRNA G527 N7-methylase RsmG (former glucose-inhibited division protein B)	RsmG	16S rRNA modification	15375115;22031445	1XDZ
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_03320	COG0847	L	DNA polymerase III, epsilon subunit or related 3'-5' exonuclease	DnaQ			1J53
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_03325	COG0526	O	Thiol-disulfide isomerase or thioredoxin	TrxA			1XFL
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_03330	COG2887	L	RecB family exonuclease	Slr0479			
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_03350	COG1232	H	Protoporphyrinogen oxidase HemY/PPOX	HemY	Heme biosynthesis		3LOV
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_03380	COG0615	M	Glycerol-3-phosphate cytidylyltransferase, cytidylyltransferase family	TagD	Riboflavin/FAD biosynthesis		2B7L
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_03385	COG2207	K	AraC-type DNA-binding domain and AraC-containing proteins	AraC			1BL0
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_03405	COG0653	U	Preprotein translocase subunit SecA (ATPase, RNA helicase)	SecA			2FSF
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_03425	COG0336	J	tRNA G37 N-methylase TrmD	TrmD	tRNA modification		1P9P
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_03445	COG0673	R	Predicted dehydrogenase	MviM			3UUW
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_03450	COG2270	R	MFS-type transporter involved in bile tolerance, Atg22 family	BtlA		12583894	
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_03455	COG0673	R	Predicted dehydrogenase	MviM			3UUW
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_03465	COG2519	J	tRNA A58 N-methylase Trm61	Gcd14	tRNA modification		1I9G
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_03470	COG0024	J	Methionine aminopeptidase	Map			3J2I
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_03475	COG0264	J	Translation elongation factor EF-Ts	Tsf	Translation factors		1EFU
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_03480	COG0052	J	Ribosomal protein S2	RpsB	Ribosome 30S subunit		4V4H
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_03485	COG0103	J	Ribosomal protein S9	RpsI	Ribosome 30S subunit		4V4H
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_03490	COG0102	J	Ribosomal protein L13	RplM	Ribosome 50S subunit		1VS6
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_03495	COG5000	T	Signal transduction histidine kinase NtrY involved in nitrogen fixation and metabolism regulation	NtrY			
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_03500	COG2204	T	DNA-binding transcriptional response regulator, NtrC family, contains REC, AAA-type ATPase, and a Fis-type DNA-binding domains	AtoC			1ZY2
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_03510	COG2874	N	Archaellum biogenesis ATPase ArlH/FlaH	FlaH		32416640	4WIA
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_03515	COG4591	M	ABC-type transport system involved in lipoprotein release, permease component LolC	LolE			6F49
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_03520	COG0809	J	S-adenosylmethionine:tRNA-ribosyltransferase-isomerase (queuine synthetase)	QueA	tRNA modification		1VKY
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_03525	COG1213	I	Choline kinase				4MND
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_03545	COG2517	R	Predicted RNA-binding protein, contains C-terminal EMAP domain			17114934	2E8G
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_03555	COG4774	P	Outer membrane receptor for monomeric catechols	Fiu			
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_03565	COG1981	H	Protoporphyrinogen oxidase HemJ (unrelated to HemG or HemY)	HemJ		20823222;21642412;25108393;29925590	
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_03570	COG0276	H	Protoheme ferro-lyase (ferrochelatase)	HemH	Heme biosynthesis		1AK1
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_03575	COG1032	R	Radical SAM superfamily enzyme YgiQ, UPF0313 family	YgiQ			6FD2
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_03580	COG0407	H	Uroporphyrinogen-III decarboxylase HemE	HemE	Heme biosynthesis		2DG5
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_03585	COG0001	H	Glutamate-1-semialdehyde aminotransferase	HemL	Heme biosynthesis		2CFB
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_03590	COG0113	H	Delta-aminolevulinic acid dehydratase, porphobilinogen synthase	HemB	Heme biosynthesis		1I8J
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_03610	COG3593	L	Predicted ATP-dependent endonuclease of the OLD family, contains P-loop ATPase and TOPRIM domains	YbjD			
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_03620	COG0733	R	Na+-dependent transporter, SNF family	YocR			2A65
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_03625	COG4591	M	ABC-type transport system involved in lipoprotein release, permease component LolC	LolE			6F49
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_03630	COG3968	E	Glutamine synthetase type III	GlnA3			
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_03635	COG0225	O	Peptide methionine sulfoxide reductase MsrA	MsrA			1FF3
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_03640	COG4783	MO	Outer membrane protein chaperone/metalloprotease BepA/YfgC, contains M48 and TPR domains	BepA		24003122	6AIT
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_03655	COG1160	J	Double Era-like domain GTPase Der	Der			1MKY
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_03670	COG4535	P	Mg2+ and Co2+ transporter CorC, contains CBS pair and CorC-HlyC domains	CorC		1779764	4HG0
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_03675	COG2050	Q	Acyl-CoA thioesterase PaaI, contains HGG motif	PaaI			1PSU
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_03690	COG3119	P	Arylsulfatase A or related enzyme, AlkP superfamily	AslA			1E1Z
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_03725	COG2236	H	Hypoxanthine phosphoribosyltransferase	Hpt1	Purine salvage		2JKZ
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_03745	COG0564	J	Pseudouridine synthase RluA, 23S rRNA- or tRNA-specific	RluA	23S rRNA modification		2I82
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_03760	COG0702	R	Uncharacterized conserved protein YbjT, contains NAD(P)-binding and DUF2867 domains	YbjT			5L3Z
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_03775	COG0412	Q	Dienelactone hydrolase	DLH			4ZV9
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_03800	COG2273	G	Beta-glucanase, GH16 family	BglS			1AJK
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_03810	COG0158	G	Fructose-1,6-bisphosphatase	Fbp	Gluconeogenesis		1BK4
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_03825	COG1866	C	Phosphoenolpyruvate carboxykinase, ATP-dependent	PckA	Gluconeogenesis		1AQ2
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_03830	COG4447	R	Uncharacterized conserved protein related to plant photosystem II stability/assembly factor				2XBG
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_03835	COG0568	K	DNA-directed RNA polymerase, sigma subunit (sigma70/sigma32)	RpoD	RNA polymerase		1SIG
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_03840	COG0633	C	Ferredoxin	Fdx			1KRH
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_03845	COG0015	F	Adenylosuccinate lyase	PurB	Purine biosynthesis		2HVG
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_03850	COG2226	H	Ubiquinone/menaquinone biosynthesis C-methylase UbiE/MenG	UbiE	Biotin biosynthesis		4OBW
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_03855	COG1215	N	Glycosyltransferase, catalytic subunit of cellulose synthase and poly-beta-1,6-N-acetylglucosamine synthase	BcsA			4HG6
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_03865	COG0219	J	tRNA(Leu) C34 or U34 (ribose-2'-O)-methylase TrmL, contains SPOUT domain	TrmL	tRNA modification		4JAK
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_03870	COG1989	NU	Prepilin signal peptidase PulO (type II secretory pathway) or related peptidase	PulO			
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_03875	COG1459	NUW	Type II secretory pathway, component PulF	PulF			2VMA
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_03880	COG0630	NU	Type IV secretory pathway ATPase VirB11/Archaellum biosynthesis ATPase ArlI/FlaI	VirB11		32416640	1G6O
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_03890	COG4964	UW	Flp pilus assembly protein, secretin CpaC	CpaC			
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_03925	COG3568	R	Metal-dependent hydrolase, endonuclease/exonuclease/phosphatase family	ElsH		15178340	
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_03945	COG0122	L	3-methyladenine DNA glycosylase/8-oxoguanine DNA glycosylase	AlkA			1DIZ
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_03950	COG0457	R	Tetratricopeptide (TPR) repeat	TPR			3AS4
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_03955	COG0219	J	tRNA(Leu) C34 or U34 (ribose-2'-O)-methylase TrmL, contains SPOUT domain	TrmL	tRNA modification		4JAK
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_03960	COG0615	M	Glycerol-3-phosphate cytidylyltransferase, cytidylyltransferase family	TagD	Riboflavin/FAD biosynthesis		2B7L
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_03965	COG0151	F	Phosphoribosylamine-glycine ligase	PurD	Purine biosynthesis		1GSO
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_03995	COG0696	G	Phosphoglycerate mutase (BPG-independent), AlkP superfamily	GpmI	Glycolysis		1EJJ
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_04010	COG2137	O	SOS response regulatory protein OraA/RecX, interacts with RecA	RecX			3C1D
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_04020	COG1010	H	Precorrin-3B methylase	CobJ	Cobalamine/B12 biosynthesis		2ZVB
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_04025	COG2154	H	Pterin-4a-carbinolamine dehydratase	PhhB			1DCH
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_04035	COG0760	O	Peptidyl-prolyl isomerase, parvulin family	SurA			2ZR5
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_04040	COG1253	R	Hemolysin-related protein, contains CBS domains, UPF0053 family	TlyC			2NQW
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_04070	COG1587	H	Uroporphyrinogen-III synthase	HemD	Heme biosynthesis		1JR2
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_04080	COG1243	J	tRNA U34 5-carboxymethylaminomethylation enzyme Elp3 (RNA elongator complex protein 3), contains radical SAM and acetyltransferase domains	ELP3		25151136;27455459	6IA8
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_04085	COG4988	CO	ABC-type transport system involved in cytochrome bd biosynthesis, ATPase and permease components	CydD			
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_04090	COG0451	M	Nucleoside-diphosphate-sugar epimerase	WcaG			2X4G
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_04100	COG1239	H	Mg-chelatase subunit ChlI	ChlI			1G8P
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_04120	COG3265	G	Gluconate kinase	GntK	Non-phosphorylated Entner-Doudoroff pathway		1KO4
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_04130	COG1748	E	Saccharopine dehydrogenase, NADP-dependent	Lys9	Lysine biosynthesis		1E5L
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_04135	COG0766	M	UDP-N-acetylglucosamine enolpyruvyl transferase	MurA	Mureine biosynthesis		1A2N
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_04140	COG0518	F	GMP synthase, glutamine amidotransferase domain	GuaA1	Purine biosynthesis		4WIM
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_04145	COG1022	I	Long-chain acyl-CoA synthetase (AMP-forming)	FAA1			
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_04150	COG4948	MR	L-alanine-DL-glutamate epimerase or related enzyme of enolase superfamily	RspA	Non-phosphorylated Entner-Doudoroff pathway		1BKH
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_04160	COG0447	H	1,4-Dihydroxy-2-naphthoyl-CoA synthase	MenB	Menaquinone biosynthesis		4ELS
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_04170	COG0078	E	Ornithine carbamoyltransferase	ArgF	Arginine biosynthesis		1A1S
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_04175	COG0634	F	Hypoxanthine-guanine phosphoribosyltransferase	HptA	Purine salvage		1G9S
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_04185	COG0859	M	ADP-heptose:LPS heptosyltransferase	RfaF			1PSW
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_04190	COG0588	G	Phosphoglycerate mutase (BPG-dependent)	GpmA	Glycolysis		1E58
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_04195	COG1221	KT	Transcriptional regulators containing an AAA-type ATPase domain and a DNA-binding domain	PspF			
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_04215	COG0458	EF	Carbamoylphosphate synthase large subunit	CarB	Arginine biosynthesis		1C30
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_04230	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_04240	COG1159	J	GTPase Era, involved in 16S rRNA processing	Era			1EGA
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_04250	COG1160	J	Double Era-like domain GTPase Der	Der			1MKY
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_04255	COG1757	C	Na+/H+ antiporter NhaC/MleN	NhaC			
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_04260	COG4638	PR	Phenylpropionate dioxygenase or related ring-hydroxylating dioxygenase, large terminal subunit	HcaE			4QDC
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_04265	COG0287	E	Prephenate dehydrogenase	TyrA	Aromatic amino acid biosynthesis		2F1K
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_04270	COG1186	J	Protein chain release factor PrfB	PrfB	Translation factors		1GQE
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_04280	COG4107	P	ABC-type phosphonate transport system, ATPase component PhnK	PhnK		19516334	
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_04285	COG0861	P	Tellurite resistance membrane protein TerC	TerC			
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_04365	COG1075	I	Triacylglycerol esterase/lipase EstA, alpha/beta hydrolase fold	EstA			1I6W
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_04370	COG0582	LX	Integrase/recombinase, includes phage integrase	FimB			
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_04390	COG1360	N	Flagellar motor protein MotB	MotB			
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_04400	COG2048	C	Heterodisulfide reductase, subunit B	HdrB			5ODC
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_04405	COG0247	C	Fe-S cluster-containing oxidoreductase, includes glycolate oxidase subunit GlcF	GlpC			
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_04415	COG2076	V	Multidrug transporter EmrE and related cation transporters	EmrE			2I68
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_04420	COG0363	G	6-phosphogluconolactonase/Glucosamine-6-phosphate isomerase/deaminase	NagB	Pentose phosphate pathway	24163345	2RI0
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_04430	COG0564	J	Pseudouridine synthase RluA, 23S rRNA- or tRNA-specific	RluA	23S rRNA modification		2I82
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_04435	COG1386	K	Chromosome segregation and condensation protein ScpB	ScpB			1T6S
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_04445	COG0480	J	Translation elongation factor EF-G, a GTPase	FusA	Translation factors		1DAR
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_04455	COG0215	J	Cysteinyl-tRNA synthetase	CysS	Aminoacyl-tRNA synthetases		1LI5
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_04465	COG3633	E	Na+/serine and Na+/threonine symporter SstT	SstT			
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_04470	COG0082	E	Chorismate synthase	AroC	Aromatic amino acid biosynthesis		1Q1L
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_04480	COG2878	C	Na+-translocating ferredoxin:NAD+ oxidoreductase RNF, RnfB subunit	RnfB	Na+-translocating Fd:NADH oxidoreductase	24045950	
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_04485	COG2255	L	Holliday junction resolvasome RuvABC, ATP-dependent DNA helicase subunit RuvB	RuvB			1HQC
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_04490	COG2133	G	Glucose/arabinose dehydrogenase, beta-propeller fold	YliI			1C9U
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_04495	COG5663	R	Uncharacterized conserved protein YqfW, HAD superfamily	YqfW			
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_04505	COG0512	EH	Anthranilate/para-aminobenzoate synthase component II (glutamine amidotransferase)	PabA	Aromatic amino acid biosynthesis		1I1Q
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_04510	COG0683	E	ABC-type branched-chain amino acid transport system, periplasmic component	LivK			1USG
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_04515	COG0616	O	Periplasmic serine protease, ClpP class	SppA			3BEZ
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_04520	COG1861	M	Spore coat polysaccharide biosynthesis protein SpsF, cytidylyltransferase family	SpsF			
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_04525	COG0616	O	Periplasmic serine protease, ClpP class	SppA			3BEZ
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_04530	COG1388	M	LysM repeat	LysM			1E0G
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_04540	COG0503	F	Adenine/guanine phosphoribosyltransferase or related PRPP-binding protein	Apt	Purine salvage		1QB7
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_04545	COG0494	V	8-oxo-dGTP pyrophosphatase MutT and related house-cleaning NTP pyrophosphohydrolases, NUDIX family	MutT			4V14
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_04550	COG0075	EF	Archaeal aspartate aminotransferase or a related aminotransferase, includes purine catabolism protein PucG	PucG	Serine biosynthesis		3NNK
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_04555	COG0833	E	Amino acid permease	LysP			
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_04560	COG1069	G	Ribulose kinase	AraB			3QDK
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_04570	COG1757	C	Na+/H+ antiporter NhaC/MleN	NhaC			
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_04575	COG0412	Q	Dienelactone hydrolase	DLH			4ZV9
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_04580	COG0791	M	Cell wall-associated hydrolase, NlpC_P60 family	NlpC			2EVR
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_04585	COG0526	O	Thiol-disulfide isomerase or thioredoxin	TrxA			1XFL
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_04590	COG2608	P	Copper chaperone CopZ	CopZ			1AFI
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_04605	COG0016	J	Phenylalanyl-tRNA synthetase alpha subunit	PheS	Aminoacyl-tRNA synthetases		3L4G
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_04615	COG3265	G	Gluconate kinase	GntK	Non-phosphorylated Entner-Doudoroff pathway		1KO4
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_04620	COG2386	O	ABC-type transport system involved in cytochrome c biogenesis, permease component	CcmB			
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_04635	COG2332	CO	Cytochrome c biogenesis protein CcmE	CcmE			1J6Q
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_04645	COG0223	J	Methionyl-tRNA formyltransferase	Fmt			1FMT
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_04650	COG0138	F	AICAR transformylase/IMP cyclohydrolase PurH	PurH	Purine biosynthesis		1G8M
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_04655	COG0849	D	Cell division ATPase FtsA	FtsA			3WT0
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_04660	COG1792	DZ	Cell shape-determining protein MreC	MreC			2J5U
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_04670	COG0744	M	Penicillin-binding protein 1B/1F, peptidoglycan  transglycosylase/transpeptidase	MrcB			3FWL
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_04690	COG1381	L	Recombinational DNA repair protein RecO (RecF pathway)	RecO			1U5K
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_04715	COG0729	M	Outer membrane translocation and assembly module TamA	TamA			4BZA
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_04720	COG1957	F	Inosine-uridine nucleoside N-ribohydrolase	URH1	Pyrimidine salvage		1EZR
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_04725	COG2870	M	ADP-heptose synthase, bifunctional sugar kinase/adenylyltransferase	RfaE			5X9Q
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_04730	COG1409	T	3',5'-cyclic AMP phosphodiesterase CpdA	CpdA			2ZO9
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_04740	COG3470	MI	Uncharacterized conserved protein probably involved in high-affinity Fe2+ transport	Tpd		18456808	2O6C
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_04755	COG0498	E	Threonine synthase	ThrC	Threonine biosynthesis		1VB3
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_04760	COG1577	I	Mevalonate kinase	ERG12	Isoprenoid biosynthesis		
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_04770	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_04785	COG0322	L	Excinuclease UvrABC, nuclease subunit	UvrC		24513124	2NRT
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_04790	COG0768	DM	Cell division protein FtsI, peptidoglycan transpeptidase (Penicillin-binding protein 2)	FtsI			6HZQ
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_04800	COG0739	M	Murein DD-endopeptidase MepM and murein hydrolase activator NlpD, contains LysM domain	NlpD			2GU1
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_04820	COG0636	C	FoF1-type ATP synthase, membrane subunit c/Archaeal/vacuolar-type H+-ATPase, subunit K	AtpE	FoF1-type ATP synthase		1C17
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_04825	COG0711	C	FoF1-type ATP synthase, membrane subunit b or b'	AtpF	FoF1-type ATP synthase		1B9U
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_04835	COG0056	C	FoF1-type ATP synthase, alpha subunit	AtpA	FoF1-type ATP synthase		3OAA
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_04840	COG0224	C	FoF1-type ATP synthase, gamma subunit	AtpG	FoF1-type ATP synthase	15326535	3OAA
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_04855	COG0119	E	Isopropylmalate/homocitrate/citramalate synthases	LeuA	Isoleucine, leucine, valine biosynthesis		4JN6
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_04870	COG0025	P	NhaP-type Na+/H+ or K+/H+ antiporter	NhaP			4CZB
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_04875	COG0124	J	Histidyl-tRNA synthetase	HisS	Aminoacyl-tRNA synthetases		1KMM
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_04880	COG0841	V	Multidrug efflux pump subunit AcrB	AcrB			1IWG
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_04885	COG0060	J	Isoleucyl-tRNA synthetase	IleS	Aminoacyl-tRNA synthetases		1FFY
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_04890	COG0597	MU	Lipoprotein signal peptidase	LspA			5DIR
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_04900	COG3593	L	Predicted ATP-dependent endonuclease of the OLD family, contains P-loop ATPase and TOPRIM domains	YbjD			
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_04905	COG1071	C	TPP-dependent pyruvate or acetoin dehydrogenase subunit alpha	AcoA	Pyruvate oxidation		1DTW
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_04915	COG1731	H	Archaeal riboflavin synthase	RibC2	Riboflavin/FAD biosynthesis		5IM5
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_04940	COG0156	H	7-keto-8-aminopelargonate synthetase or related enzyme	BioF	Biotin biosynthesis		1BS0
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_04955	COG4447	R	Uncharacterized conserved protein related to plant photosystem II stability/assembly factor				2XBG
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_04985	COG0472	M	UDP-N-acetylmuramyl pentapeptide phosphotransferase/UDP-N-acetylglucosamine-1-phosphate transferase	Rfe	Mureine biosynthesis		4J72
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_04990	COG0773	M	UDP-N-acetylmuramate-alanine ligase MurC and related ligases, MurC/Mpl family	MurC	Mureine biosynthesis		
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_04995	COG2815	M	PASTA domain, binds beta-lactams	PASTA			
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_05015	COG0142	H	Geranylgeranyl pyrophosphate synthase	IspA	Isoprenoid biosynthesis		2AZJ
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_05040	COG1929	G	Glycerate kinase	GlxK	Non-phosphorylated Entner-Doudoroff pathway		1TO6
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_05045	COG1110	L	Reverse gyrase	TopG2			1GKU
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_05055	COG0372	C	Citrate synthase	GltA	TCA cycle	25211225	3TQG
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_05060	COG2268	S	Uncharacterized membrane protein YqiK, contains Band7/PHB/SPFH domain	YqiK			1WIN
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_05065	COG0162	J	Tyrosyl-tRNA synthetase	TyrS	Aminoacyl-tRNA synthetases		4OUD
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_05075	COG1729	D	Cell division protein CpoB, coordinates peptidoglycan biosynthesis and outer membrane constriction	CpoB		25951518	2WZ7
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_05080	COG4981	I	Enoyl reductase domain of yeast-type fatty acid synthase				2UV8
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_05095	COG1070	G	Sugar (pentulose or hexulose) kinase	XylB	Non-phosphorylated Entner-Doudoroff pathway		4C23
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_05100	COG4206	H	Outer membrane cobalamin receptor protein BtuB	BtuB			1NQE
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_05105	COG1102	F	Cytidylate kinase	CmkB			
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_05120	COG0159	E	Tryptophan synthase alpha chain	TrpA	Aromatic amino acid biosynthesis		6HUL
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_05125	COG0031	E	Cysteine synthase	CysK	Cysteine biosynthesis		1FCJ
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_05130	COG0135	E	Phosphoribosylanthranilate isomerase	TrpF	Aromatic amino acid biosynthesis		1DL3
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_05135	COG0134	E	Indole-3-glycerol phosphate synthase	TrpC	Aromatic amino acid biosynthesis		6BMA
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_05140	COG0547	E	Anthranilate phosphoribosyltransferase, glycosyltransferase domain	TrpD	Aromatic amino acid biosynthesis		1KGZ
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_05145	COG0518	F	GMP synthase, glutamine amidotransferase domain	GuaA1	Purine biosynthesis		4WIM
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_05150	COG0147	EH	Anthranilate/para-aminobenzoate synthases component I	TrpE	Aromatic amino acid biosynthesis		1I1Q
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_05175	COG4170	V	ABC-type antimicrobial peptide export system, ATPase component SapD	SapD			
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_05180	COG3063	NW	Type IV pilus assembly protein PilF/PilW	PilF		16403447	2VQ2
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_05185	COG0617	J	tRNA nucleotidyltransferase/poly(A) polymerase	PcnB	tRNA modification		3WFR
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_05190	COG0504	F	CTP synthase (UTP-ammonia lyase)	PyrG	Pyrimidine biosynthesis		1S1M
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_05195	COG0706	M	Membrane protein insertase Oxa1/YidC/SpoIIIJ	YidC			3WO6
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_05200	COG0455	DN	MinD-like ATPase FlhG/YlxH, activator of the FlhF-type GTPase	FlhG			1G3Q
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_05215	COG0681	U	Signal peptidase I	LepB		1925027	1B12
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_05225	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_05235	COG0238	J	Ribosomal protein S18	RpsR	Ribosome 30S subunit		4V4H
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_05240	COG0359	J	Ribosomal protein L9	RplI	Ribosome 50S subunit	27112601	1VS6
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_05250	COG0496	L	Broad specificity polyphosphatase and 5'/3'-nucleotidase SurE	SurE			2V4N
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_05260	COG0108	H	3,4-dihydroxy-2-butanone 4-phosphate synthase	RibB	Riboflavin/FAD biosynthesis		1G57
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_05270	COG3616	E	D-serine deaminase, pyridoxal phosphate-dependent	Dsd1			3ANU
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_05305	COG0124	J	Histidyl-tRNA synthetase	HisS	Aminoacyl-tRNA synthetases		1KMM
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_05315	COG0718	K	DNA-binding nucleoid-associated protein YbaB/EfbC	YbaB		19594923;22544270	1J8B
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_05320	COG1215	N	Glycosyltransferase, catalytic subunit of cellulose synthase and poly-beta-1,6-N-acetylglucosamine synthase	BcsA			4HG6
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_05325	COG2976	T	Putative negative regulator of RcsB-dependent stress response, UPF0070 family	YfgM		23091052	
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_05330	COG1154	HI	Deoxyxylulose-5-phosphate synthase	Dxs	Pyridoxal phosphate biosynthesis		2O1S
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_05335	COG1419	N	Flagellar biosynthesis GTPase FlhF	FlhF			3SYN
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_05385	COG2269	J	Elongation factor P--beta-lysine ligase (EF-P beta-lysylation pathway)	EpmA		20729861	3A5Z
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_05390	COG4591	M	ABC-type transport system involved in lipoprotein release, permease component LolC	LolE			6F49
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_05395	COG4591	M	ABC-type transport system involved in lipoprotein release, permease component LolC	LolE			6F49
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_05400	COG4555	CP	ABC-type Na+ transport system, ATPase component NatA	NatA			
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_05405	COG0542	O	ATP-dependent Clp protease, ATP-binding subunit ClpA	ClpA			1KSF
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_05410	COG0443	O	Molecular chaperone DnaK (HSP70)	DnaK			3I33
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_05415	COG0540	F	Aspartate carbamoyltransferase, catalytic subunit	PyrB	Pyrimidine biosynthesis		1NBE
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_05425	COG4771	P	Outer membrane receptor for ferrienterochelin and colicins	FepA		16468998	2HDF
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_05435	COG1193	L	dsDNA-specific endonuclease/ATPase MutS2	MutS2			
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_05440	COG3165	H	Ubiquinone biosynthesis protein UbiJ, contains SCP2 domain	UbiJ		24142253;28559279	
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_05455	COG0592	L	DNA polymerase III sliding clamp (beta) subunit, PCNA homolog	DnaN			1JQJ
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_05460	COG0206	D	Cell division GTPase FtsZ	FtsZ			1FSZ
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_05465	COG1077	DZ	Cell shape-determining ATPase MreB, actin-like superfamily	MreB			1JCE
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_05470	COG1589	D	Cell division septal protein FtsQ	FtsQ			1YR1
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_05475	COG1819	G	UDP:flavonoid glycosyltransferase YjiC, YdhE family	YjiC		23974133	2ACV
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_05480	COG0772	D	Peptodoglycan polymerase FtsW/RodA/SpoVE	FtsW		30692671	6BAR
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_05485	COG0472	M	UDP-N-acetylmuramyl pentapeptide phosphotransferase/UDP-N-acetylglucosamine-1-phosphate transferase	Rfe	Mureine biosynthesis		4J72
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_05490	COG0769	M	UDP-N-acetylmuramyl tripeptide synthase	MurE	Mureine biosynthesis		1E8C
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_05495	COG1231	E	Monoamine oxidase	YobN			1B37
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_05500	COG3239	I	Fatty acid desaturase	DesA			
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_05505	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_05530	COG0791	M	Cell wall-associated hydrolase, NlpC_P60 family	NlpC			2EVR
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_05535	COG2227	H	2-polyprenyl-3-methyl-5-hydroxy-6-metoxy-1,4-benzoquinol methylase	UbiG	Ubiquinone biosynthesis		1BHJ
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_05540	COG1228	Q	Imidazolonepropionase or related amidohydrolase	HutI			3OOQ
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_05545	COG0173	J	Aspartyl-tRNA synthetase	AspS	Aminoacyl-tRNA synthetases		1C0A
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_05550	COG0117	H	Riboflavin biosynthesis protein RibD, pyrimidine deaminase domain	RibD1	Riboflavin/FAD biosynthesis		2O7P
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_05555	COG0605	P	Superoxide dismutase	SodA			1AP5
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_05560	COG0673	R	Predicted dehydrogenase	MviM			3UUW
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_05565	COG0513	L	Superfamily II DNA and RNA helicase	SrmB			3RRM
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_05570	COG0169	E	Shikimate 5-dehydrogenase	AroE	Aromatic amino acid biosynthesis		1NPD
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_05575	COG2035	S	Uncharacterized membrane protein, DUF368 family				
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_05585	COG0457	R	Tetratricopeptide (TPR) repeat	TPR			3AS4
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_05595	COG0457	R	Tetratricopeptide (TPR) repeat	TPR			3AS4
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_05605	COG0640	K	DNA-binding transcriptional regulator, ArsR family	ArsR			3F6V
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_05610	COG1012	I	Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase	AdhE	Proline degradation		1A4S
+Cytophagia_bacterium_NP1152	GCA_002731895.1	EKAJNH_05615	COG3000	I	Sterol desaturase/sphingolipid hydroxylase, fatty acid hydroxylase superfamily	ERG3			4ZR0

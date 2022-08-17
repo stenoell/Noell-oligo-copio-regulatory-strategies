@@ -1,0 +1,1476 @@
+#prefix	assemid	query	COG	category	name	Gene	pathway	pmid	pdb_id
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_00005	COG0210	L	Superfamily I DNA or RNA helicase	UvrD			6PPR
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_00015	COG1083	M	CMP-N-acetylneuraminic acid synthetase, NeuA/PseF family	NeuA			1EYR
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_00020	COG0204	I	1-acyl-sn-glycerol-3-phosphate acyltransferase	PlsC	Phospholipid biosynthesis		1IUQ
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_00030	COG0217	KJ	Transcriptional and/or translational regulatory protein YebC/TACO1	TACO1			1KON
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_00045	COG2154	H	Pterin-4a-carbinolamine dehydratase	PhhB			1DCH
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_00050	COG1091	M	dTDP-4-dehydrorhamnose reductase	RfbD			1KBZ
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_00055	COG2066	E	Glutaminase	GlsA			1MKI
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_00060	COG0354	O	Folate-binding protein YgfZ, synthesis and repair of Fe-S clusters	YgfZ		27941785;22081392	1NRK
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_00065	COG2145	H	Hydroxyethylthiazole kinase, sugar kinase family	ThiM	Thiamine biosynthesis		1C3Q
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_00070	COG0526	O	Thiol-disulfide isomerase or thioredoxin	TrxA			1XFL
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_00075	COG2986	E	Histidine ammonia-lyase	HutH			1B8F
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_00085	COG2226	H	Ubiquinone/menaquinone biosynthesis C-methylase UbiE/MenG	UbiE	Biotin biosynthesis		4OBW
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_00095	COG0542	O	ATP-dependent Clp protease, ATP-binding subunit ClpA	ClpA			1KSF
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_00100	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_00105	COG4783	MO	Outer membrane protein chaperone/metalloprotease BepA/YfgC, contains M48 and TPR domains	BepA		24003122	6AIT
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_00110	COG0791	M	Cell wall-associated hydrolase, NlpC_P60 family	NlpC			2EVR
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_00115	COG0304	IQ	3-oxoacyl-(acyl-carrier-protein) synthase	FabB	Fatty acid biosynthesis	21652641	2UV8
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_00120	COG2206	T	HD-GYP domain, c-di-GMP phosphodiesterase class II (or its inactivated variant)	HDGYP		23475961	5Z7C
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_00125	COG0579	G	L-2-hydroxyglutarate oxidase LhgO	LhgO			3DME
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_00190	COG1385	J	16S rRNA U1498 N3-methylase RsmE	RsmE	16S rRNA modification		1NXZ
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_00200	COG0533	J	tRNA A37 threonylcarbamoyltransferase TsaD	TsaD	tRNA modification	23072323;21285948;32385138	3ENO
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_00205	COG2911	U	Autotransporter translocation and assembly protein TamB	TamB			5VTG
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_00215	COG1452	M	LPS assembly outer membrane protein LptD (organic solvent tolerance protein OstA)	LptD			4N4R
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_00220	COG0860	M	N-acetylmuramoyl-L-alanine amidase	AmiC			1JWQ
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_00225	COG1511	S	Uncharacterized membrane protein YhgE, phage infection protein (PIP) family	YhgE			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_00230	COG0247	C	Fe-S cluster-containing oxidoreductase, includes glycolate oxidase subunit GlcF	GlpC			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_00235	COG0647	F	Ribonucleotide monophosphatase NagD, HAD superfamily	NagD			1PW5
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_00240	COG2048	C	Heterodisulfide reductase, subunit B	HdrB			5ODC
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_00250	COG1472	G	Periplasmic beta-glucosidase and related glycosidases	BglX			2X40
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_00255	COG0297	G	Glycogen synthase	GlgA			1RZU
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_00270	COG1145	C	Ferredoxin	NapF			6FAH
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_00275	COG1409	T	3',5'-cyclic AMP phosphodiesterase CpdA	CpdA			2ZO9
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_00280	COG0082	E	Chorismate synthase	AroC	Aromatic amino acid biosynthesis		1Q1L
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_00285	COG3633	E	Na+/serine and Na+/threonine symporter SstT	SstT			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_00295	COG0189	EHJQ	Glutathione synthase, LysX or RimK-type ligase, ATP-grasp superfamily	LysX	Lysine biosynthesis		1GLV
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_00300	COG3741	E	N-formylglutamate amidohydrolase	HutG			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_00315	COG3228	T	Mlc titration factor MtfA, regulates ptsG expression	MtfA		16855233	3DL1
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_00325	COG1538	M	Outer membrane protein TolC	TolC			1EK9
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_00335	COG0845	MV	Multidrug efflux pump subunit AcrA (membrane-fusion protein)	AcrA			1T5E
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_00340	COG3696	P	Cu/Ag efflux pump CusA	CusA			3K07
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_00355	COG1522	K	DNA-binding transcriptional regulator, Lrp family	Lrp			1I1G
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_00400	COG3505	U	Type IV secretory pathway, VirD4 component, TraG/TraD family ATPase	VirD4			1GL6
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_00405	COG1074	L	3-5 helicase subunit RecB of the DNA repair enzyme RecBCD (exonuclease V)	RecB		29901759;30601118	3U44
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_00410	COG4637	R	Predicted ATPase				
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_00450	COG3451	U	Type IV secretory pathway, VirB4 component	VirB4			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_00465	COG0860	M	N-acetylmuramoyl-L-alanine amidase	AmiC			1JWQ
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_00490	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_00505	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_00515	COG1484	L	DNA replication protein DnaC	DnaC			2QGZ
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_00535	COG2771	K	DNA-binding transcriptional regulator, CsgD family	CsgD			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_00545	COG4974	L	Site-specific recombinase XerD	XerD			1A0P
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_00555	COG1607	I	Acyl-CoA hydrolase	YciA			5DM5
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_00570	COG2214	K	Curved DNA-binding protein CbpA, contains a DnaJ-like domain	CbpA			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_00585	COG0436	E	Aspartate/methionine/tyrosine aminotransferase	AspB	Isoleucine, leucine, valine biosynthesis		2O0R
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_00590	COG0108	H	3,4-dihydroxy-2-butanone 4-phosphate synthase	RibB	Riboflavin/FAD biosynthesis		1G57
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_00595	COG0795	MN	Lipopolysaccharide export LptBFGC system, permease protein LptF	LptF			6S8H
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_00605	COG1674	D	DNA segregation ATPase FtsK/SpoIIIE or related protein	FtsK			2IUT
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_00615	COG1240	H	vWFA (von Willebrand factor type A) domain of Mg and Co chelatases	ChlD			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_00620	COG0818	I	Diacylglycerol kinase	DgkA			2KDC
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_00625	COG1225	O	Peroxiredoxin	Bcp			5IPH
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_00630	COG1225	O	Peroxiredoxin	Bcp			5IPH
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_00635	COG1757	C	Na+/H+ antiporter NhaC/MleN	NhaC			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_00640	COG0626	E	Cystathionine beta-lyase/cystathionine gamma-synthase	MetC	Methionine biosynthesis		1CL1
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_00645	COG2207	K	AraC-type DNA-binding domain and AraC-containing proteins	AraC			1BL0
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_00655	COG1033	R	Predicted exporter protein, RND superfamily	MMPL			5KHN
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_00660	COG1566	V	Multidrug resistance efflux pump EmrA	EmrA			4TKO
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_00680	COG2217	P	Cation-transporting P-type ATPase	ZntA			4BBJ
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_00690	COG0640	K	DNA-binding transcriptional regulator, ArsR family	ArsR			3F6V
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_00695	COG2608	P	Copper chaperone CopZ	CopZ			1AFI
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_00700	COG1251	C	NAD(P)H-nitrite reductase, large subunit	NirB			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_00715	COG2608	P	Copper chaperone CopZ	CopZ			1AFI
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_00720	COG2217	P	Cation-transporting P-type ATPase	ZntA			4BBJ
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_00775	COG0847	L	DNA polymerase III, epsilon subunit or related 3'-5' exonuclease	DnaQ			1J53
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_00810	COG4570	L	Holliday junction resolvase RusA (prophage-encoded endonuclease)	RusA			1Q8R
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_00830	COG0847	L	DNA polymerase III, epsilon subunit or related 3'-5' exonuclease	DnaQ			1J53
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_00855	COG3063	NW	Type IV pilus assembly protein PilF/PilW	PilF		16403447	2VQ2
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_00865	COG1039	L	Ribonuclease HIII	RnhC			2D0A
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_00880	COG2377	M	1,6-Anhydro-N-acetylmuramate kinase	AnmK		15901686	3CQY
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_00890	COG0169	E	Shikimate 5-dehydrogenase	AroE	Aromatic amino acid biosynthesis		1NPD
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_00900	COG1291	N	Flagellar motor component MotA	MotA			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_00915	COG0769	M	UDP-N-acetylmuramyl tripeptide synthase	MurE	Mureine biosynthesis		1E8C
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_00920	COG0768	DM	Cell division protein FtsI, peptidoglycan transpeptidase (Penicillin-binding protein 2)	FtsI			6HZQ
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_00935	COG0771	M	UDP-N-acetylmuramoylalanine-D-glutamate ligase	MurD	Mureine biosynthesis		1E0D
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_00940	COG1262	O	Formylglycine-generating enzyme, required for sulfatase activity, contains SUMF1/FGE domain	YfmG			2AFT
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_00955	COG0249	L	DNA mismatch repair ATPase MutS	MutS			1E3M
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_01005	COG1974	KT	SOS-response transcriptional repressor LexA (RecA-mediated autopeptidase)	LexA			1AY9
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_01025	COG0436	E	Aspartate/methionine/tyrosine aminotransferase	AspB	Isoleucine, leucine, valine biosynthesis		2O0R
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_01030	COG1089	M	GDP-D-mannose dehydratase	Gmd			1DB3
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_01035	COG0402	FR	Cytosine/adenosine deaminase or related metal-dependent hydrolase	SsnA	Pyrimidine salvage		3O7U
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_01045	COG0331	I	Malonyl CoA-acyl carrier protein transacylase	FabD	Fatty acid biosynthesis		1YXC
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_01050	COG3871	S	General stress protein 26 (function unknown)	YzzA			2I02
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_01055	COG3173	R	Predicted  kinase, aminoglycoside phosphotransferase (APT) family	YcbJ			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_01070	COG1104	E	Cysteine desulfurase/Cysteine sulfinate desulfinase IscS or related enzyme, NifS family	NifS		22773787;25825430	4IXO
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_01100	COG0207	F	Thymidylate synthase	ThyA	Thymidylate biosynthesis		1AN5
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_01115	COG3880	O	Protein-arginine kinase activator protein McsA	McsA			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_01120	COG2025	C	Electron transfer flavoprotein, alpha subunit FixB	FixB			1EFP
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_01125	COG2025	C	Electron transfer flavoprotein, alpha subunit FixB	FixB			1EFP
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_01135	COG0022	C	Pyruvate/2-oxoglutarate/acetoin dehydrogenase complex, dehydrogenase (E1) component, beta subunit	AcoB	Pyruvate oxidation		2OZL
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_01155	COG1285	P	Magnesium uptake protein YhiD/SapB, involved in acid resistance	SapB		19798051	
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_01170	COG0125	F	Thymidylate kinase	Tmk	Thymidylate biosynthesis		3LV8
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_01230	COG2234	OE	Zn-dependent amino- or carboxypeptidase, M28 family	Iap			1AMP
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_01245	COG0455	DN	MinD-like ATPase FlhG/YlxH, activator of the FlhF-type GTPase	FlhG			1G3Q
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_01260	COG2085	R	Predicted dinucleotide-binding enzyme				2VNS
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_01265	COG0681	U	Signal peptidase I	LepB		1925027	1B12
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_01275	COG3568	R	Metal-dependent hydrolase, endonuclease/exonuclease/phosphatase family	ElsH		15178340	
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_01280	COG0705	O	Membrane-associated serine protease, rhomboid family	GlpG			2IC8
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_01285	COG0705	O	Membrane-associated serine protease, rhomboid family	GlpG			2IC8
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_01290	COG0323	L	DNA mismatch repair ATPase MutL	MutL			1B62
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_01300	COG0054	H	6,7-dimethyl-8-ribityllumazine synthase (Riboflavin synthase beta chain)	RibE	Riboflavin/FAD biosynthesis		1C2Y
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_01305	COG1729	D	Cell division protein CpoB, coordinates peptidoglycan biosynthesis and outer membrane constriction	CpoB		25951518	2WZ7
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_01310	COG3593	L	Predicted ATP-dependent endonuclease of the OLD family, contains P-loop ATPase and TOPRIM domains	YbjD			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_01325	COG0105	F	Nucleoside diphosphate kinase	Ndk	Pyrimidine biosynthesis		1B4S
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_01330	COG3887	T	Cyclic di-AMP phosphodiesterase GdpP, contains GGDEF-like and DHH domains	GdpP			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_01335	COG1047	O	Peptidyl-prolyl cis-trans isomerase, FKBP type	SlpA			2M2A
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_01340	COG1047	O	Peptidyl-prolyl cis-trans isomerase, FKBP type	SlpA			2M2A
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_01370	COG0219	J	tRNA(Leu) C34 or U34 (ribose-2'-O)-methylase TrmL, contains SPOUT domain	TrmL	tRNA modification		4JAK
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_01375	COG4219	T	Signal transducer regulating beta-lactamase production, contains metallopeptidase domain	MecR1			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_01385	COG0735	P	Fe2+ or Zn2+ uptake regulation protein Fur/Zur	Fur			1MZB
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_01390	COG0104	F	Adenylosuccinate synthase	PurA	Purine biosynthesis		1ADE
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_01395	COG1452	M	LPS assembly outer membrane protein LptD (organic solvent tolerance protein OstA)	LptD			4N4R
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_01400	COG4992	E	Acetylornithine/succinyldiaminopimelate/putrescine aminotransferase	ArgD	Arginine biosynthesis		2E54
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_01405	COG3063	NW	Type IV pilus assembly protein PilF/PilW	PilF		16403447	2VQ2
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_01410	COG2035	S	Uncharacterized membrane protein, DUF368 family				
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_01420	COG0169	E	Shikimate 5-dehydrogenase	AroE	Aromatic amino acid biosynthesis		1NPD
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_01425	COG3064	M	Membrane protein TolA involved in colicin uptake	TolA			1S62
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_01430	COG2227	H	2-polyprenyl-3-methyl-5-hydroxy-6-metoxy-1,4-benzoquinol methylase	UbiG	Ubiquinone biosynthesis		1BHJ
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_01435	COG1694	V	NTP pyrophosphatase, house-cleaning of non-canonical NTPs	MazG			1VMG
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_01445	COG0242	J	Peptide deformylase	Def			1BS4
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_01455	COG1045	E	Serine acetyltransferase	CysE	Cysteine biosynthesis		1T3D
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_01460	COG0859	M	ADP-heptose:LPS heptosyltransferase	RfaF			1PSW
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_01465	COG0520	E	Selenocysteine lyase/Cysteine desulfurase	CsdA			4LW2
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_01470	COG3425	I	3-hydroxy-3-methylglutaryl CoA synthase	PksG	Isoprenoid biosynthesis		1TVZ
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_01485	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_01500	COG4674	R	ABC-type uncharacterized transport system, ATPase component			10686096	
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_01510	COG3180	R	Uncharacterized membrane protein AbrB, regulator of aidB expression	AbrB			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_01515	COG1211	I	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase	IspD	Isoprenoid biosynthesis		1H3M
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_01520	COG3091	R	Predicted Zn-dependent metalloprotease, SprT family	SprT			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_01525	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_01530	COG0508	C	Pyruvate/2-oxoglutarate dehydrogenase complex, dihydrolipoamide acyltransferase (E2) component	AceF	Pyruvate oxidation		1B5S
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_01535	COG0028	EH	Acetolactate synthase large subunit or other thiamine pyrophosphate-requiring enzyme	IlvB	Isoleucine, leucine, valine biosynthesis		1BFD
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_01545	COG2067	I	Long-chain fatty acid transport protein	FadL			1T16
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_01550	COG1228	Q	Imidazolonepropionase or related amidohydrolase	HutI			3OOQ
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_01555	COG1820	G	N-acetylglucosamine-6-phosphate deacetylase	NagA			1O12
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_01560	COG1269	C	Archaeal/vacuolar-type H+-ATPase subunit I/STV1	NtpI	A/V-type ATP synthase		2JTW
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_01570	COG0624	E	Acetylornithine deacetylase/Succinyl-diaminopimelate desuccinylase or related deacylase	ArgE	Arginine biosynthesis		1CG2
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_01575	COG0156	H	7-keto-8-aminopelargonate synthetase or related enzyme	BioF	Biotin biosynthesis		1BS0
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_01590	COG1186	J	Protein chain release factor PrfB	PrfB	Translation factors		1GQE
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_01615	COG0114	C	Fumarate hydratase class II	FumC	TCA cycle		1KQ7
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_01620	COG0076	E	Glutamate or tyrosine decarboxylase or a related PLP-dependent protein	GadA	Pantothenate/CoA biosynthesis		1XEY
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_01625	COG1138	CO	Cytochrome c biogenesis protein CcmF	CcmF			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_01630	COG2346	P	Truncated hemoglobin YjbI	YjbI			1DLW
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_01635	COG5495	R	Predicted oxidoreductase, contains short-chain dehydrogenase (SDR) and DUF2520 domains				
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_01640	COG0560	E	Phosphoserine phosphatase	SerB	Serine biosynthesis		3N28
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_01645	COG0382	H	4-hydroxybenzoate polyprenyltransferase	UbiA	Ubiquinone biosynthesis	28830929	4OD4
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_01660	COG0668	M	Small-conductance mechanosensitive channel	MscS			2OAU
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_01670	COG4146	R	Uncharacterized membrane permease YidK, sodium:solute symporter family	YidK			2XQ2
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_01680	COG0457	R	Tetratricopeptide (TPR) repeat	TPR			3AS4
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_01685	COG0580	G	Glycerol uptake facilitator or related aquaporin (Major Intrinsic protein Family)	GlpF			1FQY
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_01695	COG4276	R	Ligand-binding SRPBCC domain	SRPBCC			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_01700	COG0300	R	Short-chain dehydrogenase	YqjQ			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_01705	COG0415	L	Deoxyribodipyrimidine photolyase	PhrB			1TEZ
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_01710	COG3592	S	Uncharacterized Fe-S cluster protein YjdI	YjdI			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_01720	COG0128	E	5-enolpyruvylshikimate-3-phosphate synthase	AroA	Aromatic amino acid biosynthesis		4N3P
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_01730	COG2921	T	Putative lipoate-binding regulatory protein, UPF0250 family	YbeD		15547281	1RWU
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_01735	COG0630	NU	Type IV secretory pathway ATPase VirB11/Archaellum biosynthesis ATPase ArlI/FlaI	VirB11		32416640	1G6O
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_01740	COG1205	L	ATP-dependent helicase YprA,  contains C-terminal metal-binding DUF1998 domain	YprA			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_01745	COG0299	F	Folate-dependent phosphoribosylglycinamide formyltransferase PurN	PurN	Purine biosynthesis	25013077	1C2T
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_01775	COG0441	J	Threonyl-tRNA synthetase	ThrS	Aminoacyl-tRNA synthetases		1NYQ
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_01780	COG4591	M	ABC-type transport system involved in lipoprotein release, permease component LolC	LolE			6F49
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_01790	COG0359	J	Ribosomal protein L9	RplI	Ribosome 50S subunit	27112601	1VS6
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_01795	COG0238	J	Ribosomal protein S18	RpsR	Ribosome 30S subunit		4V4H
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_01800	COG0360	J	Ribosomal protein S6	RpsF	Ribosome 30S subunit		4V4H
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_01805	COG3947	TK	Two-component response regulator, SAPR family, consists of REC, wHTH and BTAD domains	SAPR			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_01810	COG1198	L	Primosomal protein N' (replication factor Y) - superfamily II helicase	PriA			6DCR
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_01830	COG0036	G	Pentose-5-phosphate-3-epimerase	Rpe	Pentose phosphate pathway		1H1Y
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_01835	COG1576	J	23S rRNA pseudoU1915 N3-methylase RlmH	RlmH	23S rRNA modification		1NS5
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_01845	COG1012	I	Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase	AdhE	Proline degradation		1A4S
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_01855	COG0514	L	Superfamily II DNA helicase RecQ	RecQ			1OYW
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_01865	COG0127	F	Inosine/xanthosine triphosphate pyrophosphatase, all-alpha NTP-PPase family	RdgB			1B78
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_01870	COG3324	R	Lactoylglutathione lyase-related enzyme, vicinal oxygen chelate (VOC) family	VOC		31710815	3OXH
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_01880	COG3828	R	Type 1 glutamine amidotransferase (GATase1)-like domain				
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_01895	COG0119	E	Isopropylmalate/homocitrate/citramalate synthases	LeuA	Isoleucine, leucine, valine biosynthesis		4JN6
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_01905	COG2070	R	NAD(P)H-dependent flavin oxidoreductase YrpB, nitropropane dioxygenase family	YrpB			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_01910	COG0624	E	Acetylornithine deacetylase/Succinyl-diaminopimelate desuccinylase or related deacylase	ArgE	Arginine biosynthesis		1CG2
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_01915	COG1862	U	Protein translocase subunit YajC	YajC			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_01925	COG0781	K	Transcription antitermination protein NusB	NusB		21652641	1EY1
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_01930	COG4221	C	NADP-dependent 3-hydroxy acid dehydrogenase YdfG	YdfG	Pyrimidine degradation		3P19
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_01935	COG1101	R	ABC-type uncharacterized transport system, ATPase component	PhnK			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_01950	COG0517	T	CBS domain	CBS			1B3O
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_01955	COG3608	R	Predicted deacylase				3CDX
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_01960	COG0659	P	Sulfate permease or related transporter, MFS superfamily	SUL1			3NY7
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_01970	COG3264	M	Small-conductance mechanosensitive channel MscK	MscK			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_01975	COG0073	J	tRNA-binding EMAP/Myf domain	EMAP			1MKH
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_01985	COG1225	O	Peroxiredoxin	Bcp			5IPH
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_01995	COG1047	O	Peptidyl-prolyl cis-trans isomerase, FKBP type	SlpA			2M2A
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_02000	COG0513	L	Superfamily II DNA and RNA helicase	SrmB			3RRM
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_02005	COG0517	T	CBS domain	CBS			1B3O
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_02010	COG0805	U	Twin-arginine protein secretion pathway component TatC	TatC			4B4A
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_02025	COG1754	S	Uncharacterized C-terminal domain of topoisomerase IA				
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_02035	COG1032	R	Radical SAM superfamily enzyme YgiQ, UPF0313 family	YgiQ			6FD2
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_02040	COG1067	O	Predicted ATP-dependent protease	LonB			3K1J
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_02070	COG0459	O	Chaperonin GroEL (HSP60 family)	GroEL			1AON
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_02090	COG2608	P	Copper chaperone CopZ	CopZ			1AFI
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_02095	COG1629	P	Outer membrane receptor protein, Fe transport	CirA			1BY3
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_02100	COG1538	M	Outer membrane protein TolC	TolC			1EK9
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_02105	COG3696	P	Cu/Ag efflux pump CusA	CusA			3K07
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_02110	COG1566	V	Multidrug resistance efflux pump EmrA	EmrA			4TKO
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_02115	COG3544	S	Uncharacterized conserved protein, DUF305 family				5FEJ
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_02120	COG2217	P	Cation-transporting P-type ATPase	ZntA			4BBJ
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_02145	COG4083	U	Exosortase/Archaeosortase			22037399	
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_02150	COG2203	T	GAF domain	GAF			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_02155	COG4591	M	ABC-type transport system involved in lipoprotein release, permease component LolC	LolE			6F49
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_02160	COG0138	F	AICAR transformylase/IMP cyclohydrolase PurH	PurH	Purine biosynthesis		1G8M
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_02165	COG0443	O	Molecular chaperone DnaK (HSP70)	DnaK			3I33
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_02175	COG1171	E	Threonine deaminase	IlvA	Isoleucine, leucine, valine biosynthesis		3IAU
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_02180	COG0135	E	Phosphoribosylanthranilate isomerase	TrpF	Aromatic amino acid biosynthesis		1DL3
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_02185	COG0134	E	Indole-3-glycerol phosphate synthase	TrpC	Aromatic amino acid biosynthesis		6BMA
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_02190	COG0213	F	Thymidine phosphorylase	DeoA	Pyrimidine salvage		1AZY
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_02195	COG0518	F	GMP synthase, glutamine amidotransferase domain	GuaA1	Purine biosynthesis		4WIM
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_02200	COG0147	EH	Anthranilate/para-aminobenzoate synthases component I	TrpE	Aromatic amino acid biosynthesis		1I1Q
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_02205	COG2353	R	Polyisoprenoid-binding periplasmic protein YceI	YceI		15741337;20236316	1WUB
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_02210	COG1846	K	DNA-binding transcriptional regulator, MarR family	MarR			1JGS
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_02215	COG0526	O	Thiol-disulfide isomerase or thioredoxin	TrxA			1XFL
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_02220	COG1225	O	Peroxiredoxin	Bcp			5IPH
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_02225	COG0607	P	Rhodanese-related sulfurtransferase	PspE	Urea cycle		1TQ1
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_02230	COG2897	P	3-mercaptopyruvate sulfurtransferase SseA, contains two rhodanese domains	SseA			1BOH
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_02245	COG2849	V	Antitoxin component YwqK of the YwqJK toxin-antitoxin module	YwqK			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_02250	COG0744	M	Penicillin-binding protein 1B/1F, peptidoglycan  transglycosylase/transpeptidase	MrcB			3FWL
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_02255	COG4670	I	Acyl CoA:acetate/3-ketoacid CoA transferase	YdiF			5VIT
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_02260	COG0120	G	Ribose 5-phosphate isomerase	RpiA	Pentose phosphate pathway		1KS2
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_02265	COG4559	P	ABC-type hemin transport system, ATPase component				4G1U
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_02275	COG3979	G	Chitodextrinase				1WVU
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_02285	COG0417	L	DNA polymerase B elongation subunit	PolB			6P1H
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_02295	COG3695	K	Alkylated DNA nucleotide flippase Atl1, participates in nucleotide excision repair, Ada-like DNA-binding domain	Atl1		19516334	2KIF
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_02300	COG4535	P	Mg2+ and Co2+ transporter CorC, contains CBS pair and CorC-HlyC domains	CorC		1779764	4HG0
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_02315	COG2318	Q	Bacillithiol/mycothiol S-transferase BstA/DinB, DinB/YfiT family (unrelated to E. coli DinB)	DinB		22059487;24821014	2QE9
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_02330	COG0113	H	Delta-aminolevulinic acid dehydratase, porphobilinogen synthase	HemB	Heme biosynthesis		1I8J
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_02340	COG2981	EP	Sulfate transporter CysZ	CysZ		24657232	3TX3
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_02350	COG0407	H	Uroporphyrinogen-III decarboxylase HemE	HemE	Heme biosynthesis		2DG5
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_02355	COG1587	H	Uroporphyrinogen-III synthase	HemD	Heme biosynthesis		1JR2
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_02360	COG0181	H	Porphobilinogen deaminase	HemC	Heme biosynthesis		1AH5
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_02415	COG3740	X	Phage head maturation protease				
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_02475	COG0414	H	Panthothenate synthetase	PanC	Pantothenate/CoA biosynthesis	17968677	1DIN
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_02480	COG0297	G	Glycogen synthase	GlgA			1RZU
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_02490	COG0449	M	Glucosamine 6-phosphate synthetase, contains amidotransferase and phosphosugar isomerase domains	GlmS			2J6H
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_02505	COG0055	C	FoF1-type ATP synthase, beta subunit	AtpD	FoF1-type ATP synthase		3OAA
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_02520	COG0520	E	Selenocysteine lyase/Cysteine desulfurase	CsdA			4LW2
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_02530	COG0161	H	Adenosylmethionine-8-amino-7-oxononanoate aminotransferase	BioA	Biotin biosynthesis		1MLY
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_02540	COG3321	Q	Acyl transferase domain in polyketide synthase (PKS) enzymes	PksD			6IYO
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_02545	COG1060	H	2-iminoacetate synthase ThiH/Menaquinone biosynthesis enzymes MqnC and MqnE	ThiH	Thiamine biosynthesis	18801996	4WCX
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_02550	COG3979	G	Chitodextrinase				1WVU
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_02560	COG2137	O	SOS response regulatory protein OraA/RecX, interacts with RecA	RecX			3C1D
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_02570	COG1530	J	Ribonuclease G or E	CafA			1SLJ
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_02575	COG0776	L	Bacterial nucleoid DNA-binding protein IHF-alpha	HimA			1B8Z
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_02580	COG0177	L	Endonuclease III	Nth			4UOB
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_02590	COG2524	K	Predicted transcriptional regulator, contains C-terminal CBS domains				
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_02605	COG0261	J	Ribosomal protein L21	RplU	Ribosome 50S subunit		1VS6
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_02610	COG0211	J	Ribosomal protein L27	RpmA	Ribosome 50S subunit		1VS6
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_02615	COG1305	O	Transglutaminase-like enzyme, putative cysteine protease	YebA			3ISR
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_02625	COG0499	H	S-adenosylhomocysteine hydrolase	SAM1			1A7A
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_02630	COG2091	H	Phosphopantetheinyl transferase	Sfp			1QR0
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_02635	COG0106	E	Phosphoribosylformimino-5-aminoimidazole carboxamide ribonucleotide (ProFAR) isomerase	HisA	Histidine biosynthesis		4U28
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_02645	COG3201	H	Nicotinamide riboside transporter PnuC	PnuC			4QTN
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_02660	COG1186	J	Protein chain release factor PrfB	PrfB	Translation factors		1GQE
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_02665	COG4774	P	Outer membrane receptor for monomeric catechols	Fiu			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_02690	COG2205	T	K+-sensing histidine kinase KdpD	KdpD			2KSF
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_02710	COG2360	O	Leu/Phe-tRNA-protein transferase	Aat			2CXA
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_02725	COG2818	L	3-methyladenine DNA glycosylase Tag	Tag			1LMZ
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_02735	COG0130	J	tRNA U55 pseudouridine synthase TruB, may also work on U342 of tmRNA	TruB	tRNA modification		1K8W
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_02740	COG1968	I	Undecaprenyl pyrophosphate phosphatase	UppP			5OON
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_02755	COG4591	M	ABC-type transport system involved in lipoprotein release, permease component LolC	LolE			6F49
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_02760	COG0495	J	Leucyl-tRNA synthetase	LeuS	Aminoacyl-tRNA synthetases		6LPF
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_02770	COG0673	R	Predicted dehydrogenase	MviM			3UUW
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_02775	COG2363	S	Uncharacterized membrane protein YgdD, TMEM256/DUF423 family	YgdD			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_02780	COG1866	C	Phosphoenolpyruvate carboxykinase, ATP-dependent	PckA	Gluconeogenesis		1AQ2
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_02785	COG1587	H	Uroporphyrinogen-III synthase	HemD	Heme biosynthesis		1JR2
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_02795	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_02800	COG0402	FR	Cytosine/adenosine deaminase or related metal-dependent hydrolase	SsnA	Pyrimidine salvage		3O7U
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_02810	COG3320	Q	Thioester reductase domain of alpha aminoadipate reductase Lys2 and NRPSs	Lys2b	Lysine biosynthesis		5MSP
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_02815	COG0162	J	Tyrosyl-tRNA synthetase	TyrS	Aminoacyl-tRNA synthetases		4OUD
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_02840	COG1948	L	ERCC4-type crossover junction endonuclease	MUS81			1J22
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_02860	COG3183	V	Predicted restriction endonuclease, HNH family				6GHC
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_02905	COG2256	L	Replication-associated recombination protein RarA (DNA-dependent ATPase)	RarA			3PVS
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_03000	COG0476	H	Molybdopterin or thiamine biosynthesis adenylyltransferase	ThiF	Molybdopterin biosynthesis	32239579	1ZUD
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_03030	COG0209	F	Ribonucleotide reductase alpha subunit	NrdA	Pyrimidine salvage		1R1R
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_03210	COG2887	L	RecB family exonuclease	Slr0479			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_03245	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_03260	COG3628	X	Phage baseplate assembly protein W				2IA7
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_03325	COG1215	N	Glycosyltransferase, catalytic subunit of cellulose synthase and poly-beta-1,6-N-acetylglucosamine synthase	BcsA			4HG6
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_03335	COG0438	M	Glycosyltransferase involved in cell wall bisynthesis	RfaB			2IV7
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_03340	COG0009	J	tRNA A37 threonylcarbamoyladenosine synthetase subunit TsaC/SUA5/YrdC	TsaC	tRNA modification		1HRU
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_03345	COG2206	T	HD-GYP domain, c-di-GMP phosphodiesterase class II (or its inactivated variant)	HDGYP		23475961	5Z7C
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_03350	COG1612	H	Heme A synthase	CtaA			6A2J
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_03365	COG4172	Q	ABC-type microcin C transport system, duplicated ATPase component YejF	YejF		17873039	
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_03370	COG1277	O	ABC-type transport system involved in multi-copper enzyme maturation, permease component	NosY			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_03390	COG0513	L	Superfamily II DNA and RNA helicase	SrmB			3RRM
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_03405	COG0564	J	Pseudouridine synthase RluA, 23S rRNA- or tRNA-specific	RluA	23S rRNA modification		2I82
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_03410	COG0071	O	Small heat shock protein IbpA, HSP20 family	IbpA			1GME
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_03435	COG1061	KL	Superfamily II DNA or RNA helicase	SSL2			6JDE
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_03445	COG0270	L	DNA-cytosine methylase	Dcm			3LX6
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_03465	COG4565	KT	DNA-binding response regulator DpiB of citrate/malate metabolism	CitB			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_03470	COG3851	T	Signal transduction histidine kinase UhpB, glucose-6-phosphate specific	UhpB			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_03480	COG1721	S	Uncharacterized conserved protein, DUF58 family, contains vWF domain	YeaD2			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_03490	COG0616	O	Periplasmic serine protease, ClpP class	SppA			3BEZ
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_03495	COG0526	O	Thiol-disulfide isomerase or thioredoxin	TrxA			1XFL
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_03500	COG0847	L	DNA polymerase III, epsilon subunit or related 3'-5' exonuclease	DnaQ			1J53
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_03520	COG0806	J	Ribosomal 30S subunit maturation factor RimM, required for 16S rRNA processing	RimM	16S rRNA modification		2QGG
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_03525	COG2813	J	16S rRNA G1207 methylase RsmC	RsmC	16S rRNA modification		1DUS
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_03530	COG1113	E	L-asparagine transporter or related permease	AnsP			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_03550	COG0622	R	Predicted phosphodiesterase, calcineurin family	YfcE		17586769	1SU1
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_03555	COG0633	C	Ferredoxin	Fdx			1KRH
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_03560	COG1249	C	Dihydrolipoamide dehydrogenase (E3) component of pyruvate/2-oxoglutarate dehydrogenase complex or glutathione oxidoreductase	Lpd	Glycine cleavagePyruvate oxidation		6QKG
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_03570	COG2894	D	Septum site-determining ATPase MinD	MinD			4V02
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_03575	COG3695	K	Alkylated DNA nucleotide flippase Atl1, participates in nucleotide excision repair, Ada-like DNA-binding domain	Atl1		19516334	2KIF
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_03590	COG1819	G	UDP:flavonoid glycosyltransferase YjiC, YdhE family	YjiC		23974133	2ACV
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_03595	COG3852	T	Signal transduction histidine kinase NtrB, nitrogen specific	NtrB		23893111	
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_03600	COG2204	T	DNA-binding transcriptional response regulator, NtrC family, contains REC, AAA-type ATPase, and a Fis-type DNA-binding domains	AtoC			1ZY2
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_03620	COG0623	I	Enoyl-[acyl-carrier-protein] reductase FabI	FabI	Fatty acid biosynthesis		1C14
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_03625	COG0332	I	3-oxoacyl-[acyl-carrier-protein] synthase III	FabH	Fatty acid biosynthesis		1UB7
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_03630	COG2227	H	2-polyprenyl-3-methyl-5-hydroxy-6-metoxy-1,4-benzoquinol methylase	UbiG	Ubiquinone biosynthesis		1BHJ
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_03635	COG0654	HC	2-polyprenyl-6-methoxyphenol hydroxylase and related FAD-dependent oxidoreductases	UbiH	Ubiquinone biosynthesis		1BF3
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_03640	COG1360	N	Flagellar motor protein MotB	MotB			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_03650	COG5487	S	Uncharacterized membrane protein YtjA, UPF0391 family	YtjA			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_03655	COG0022	C	Pyruvate/2-oxoglutarate/acetoin dehydrogenase complex, dehydrogenase (E1) component, beta subunit	AcoB	Pyruvate oxidation		2OZL
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_03665	COG0683	E	ABC-type branched-chain amino acid transport system, periplasmic component	LivK			1USG
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_03675	COG2358	R	TRAP-type uncharacterized transport system, periplasmic component	Imp			1US4
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_03685	COG0692	L	Uracil-DNA glycosylase	Ung		16237021	1AKZ
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_03690	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_03695	COG3011	R	Predicted thiol-disulfide oxidoreductase YuxK, DCC family	YuxK		15236740	
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_03700	COG3852	T	Signal transduction histidine kinase NtrB, nitrogen specific	NtrB		23893111	
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_03705	COG0784	T	CheY-like REC (receiver) domain, includes chemotaxis protein CheY  and sporulation regulator Spo0F	CheY			6QRJ
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_03720	COG1028	I	NAD(P)-dependent dehydrogenase, short-chain alcohol dehydrogenase family	FabG	Fatty acid biosynthesis		6L1H
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_03725	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_03735	COG1036	C	Archaeal flavoprotein	AfpA			3WIS
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_03745	COG4105	M	Outer membrane protein assembly factor BamD, BamD/ComL family	BamD			2YHC
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_03750	COG0329	EM	4-hydroxy-tetrahydrodipicolinate synthase/N-acetylneuraminate lyase	DapA	Lysine biosynthesis	27574185	2R91
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_03760	COG0272	L	NAD-dependent DNA ligase	Lig			5TT5
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_03770	COG2813	J	16S rRNA G1207 methylase RsmC	RsmC	16S rRNA modification		1DUS
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_03775	COG1670	JO	Protein N-acetyltransferase, RimJ/RimL family	RimL			1S7F
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_03780	COG2131	F	Deoxycytidylate deaminase	ComEB		25746996;31954084	2HVV
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_03785	COG0697	GER	Permease of the drug/metabolite transporter (DMT) superfamily	RhaT			5I20
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_03790	COG1739	R	Putative translation regulator, IMPACT (imprinted ancient) protein family	YIH1		15126500	1VI7
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_03800	COG1484	L	DNA replication protein DnaC	DnaC			2QGZ
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_03850	COG0400	R	Predicted esterase	YpfH			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_03865	COG1075	I	Triacylglycerol esterase/lipase EstA, alpha/beta hydrolase fold	EstA			1I6W
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_03870	COG4319	R	Ketosteroid isomerase homolog YybH	YybH			2GXF
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_03875	COG0582	LX	Integrase/recombinase, includes phage integrase	FimB			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_03905	COG0665	E	Glycine/D-amino acid oxidase (deaminating)	DadA			3AWI
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_03915	COG4988	CO	ABC-type transport system involved in cytochrome bd biosynthesis, ATPase and permease components	CydD			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_03925	COG1566	V	Multidrug resistance efflux pump EmrA	EmrA			4TKO
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_03930	COG0841	V	Multidrug efflux pump subunit AcrB	AcrB			1IWG
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_03935	COG1538	M	Outer membrane protein TolC	TolC			1EK9
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_03970	COG0476	H	Molybdopterin or thiamine biosynthesis adenylyltransferase	ThiF	Molybdopterin biosynthesis	32239579	1ZUD
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_03995	COG2452	X	Predicted site-specific integrase-resolvase				3ILX
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_04005	COG2217	P	Cation-transporting P-type ATPase	ZntA			4BBJ
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_04020	COG1566	V	Multidrug resistance efflux pump EmrA	EmrA			4TKO
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_04025	COG0841	V	Multidrug efflux pump subunit AcrB	AcrB			1IWG
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_04035	COG0582	LX	Integrase/recombinase, includes phage integrase	FimB			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_04045	COG0415	L	Deoxyribodipyrimidine photolyase	PhrB			1TEZ
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_04060	COG0589	T	Nucleotide-binding universal stress protein,  UspA family	UspA			1JMV
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_04065	COG0779	J	Ribosome maturation factor RimP	RimP			1IB8
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_04075	COG0480	J	Translation elongation factor EF-G, a GTPase	FusA	Translation factors		1DAR
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_04095	COG1075	I	Triacylglycerol esterase/lipase EstA, alpha/beta hydrolase fold	EstA			1I6W
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_04105	COG3474	C	Cytochrome c2	Cyc7			1YEA
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_04110	COG1142	C	Fe-S-cluster-containing hydrogenase component 2	HycB			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_04115	COG5557	C	Ni/Fe-hydrogenase 2 integral membrane subunit HybB	HybB			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_04125	COG2010	C	Cytochrome c, mono- and diheme variants	CccA			1A2S
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_04135	COG4858	S	Uncharacterized membrane-anchored protein				
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_04140	COG0843	C	Heme/copper-type cytochrome/quinol oxidase, subunit 1	CyoB			1AR1
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_04145	COG1225	O	Peroxiredoxin	Bcp			5IPH
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_04150	COG2256	L	Replication-associated recombination protein RarA (DNA-dependent ATPase)	RarA			3PVS
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_04155	COG1143	C	Formate hydrogenlyase subunit 6/NADH:ubiquinone oxidoreductase 23 kD subunit (chain I)	NuoI	NADH dehydrogenase		1B0P
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_04160	COG0281	C	Malic enzyme	SfcA	Urea cycle		1DO8
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_04165	COG0632	L	Holliday junction resolvasome RuvABC DNA-binding subunit	RuvA			1BDX
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_04175	COG0509	E	Glycine cleavage system protein H (lipoate-binding)	GcvH	Glycine cleavage		1DXM
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_04180	COG5652	S	VanZ-like family protein (function unknown)	VanZ			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_04205	COG0491	R	Glyoxylase or a related metal-dependent hydrolase, beta-lactamase superfamily II	GloB		25670698	1QH3
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_04210	COG0382	H	4-hydroxybenzoate polyprenyltransferase	UbiA	Ubiquinone biosynthesis	28830929	4OD4
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_04215	COG1845	C	Heme/copper-type cytochrome/quinol oxidase, subunit 3	CyoC			1QLE
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_04220	COG1845	C	Heme/copper-type cytochrome/quinol oxidase, subunit 3	CyoC			1QLE
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_04235	COG0526	O	Thiol-disulfide isomerase or thioredoxin	TrxA			1XFL
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_04250	COG1538	M	Outer membrane protein TolC	TolC			1EK9
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_04255	COG1038	C	Pyruvate carboxylase	PycA	Urea cycle		5VYW
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_04260	COG0533	J	tRNA A37 threonylcarbamoyltransferase TsaD	TsaD	tRNA modification	23072323;21285948;32385138	3ENO
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_04275	COG1331	R	Uncharacterized conserved protein YyaL, SSP411 family, contains thoiredoxin and six-hairpin glycosidase-like domains	YyaL			3IRA
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_04285	COG0694	O	Fe-S cluster biogenesis protein NfuA, 4Fe-4S-binding domain	NifU			2Z51
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_04300	COG0154	J	Asp-tRNAAsn/Glu-tRNAGln amidotransferase A subunit or related amidase	GatA	Aminoacyl-tRNA synthetases		3H0L
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_04305	COG0784	T	CheY-like REC (receiver) domain, includes chemotaxis protein CheY  and sporulation regulator Spo0F	CheY			6QRJ
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_04310	COG3851	T	Signal transduction histidine kinase UhpB, glucose-6-phosphate specific	UhpB			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_04320	COG3850	T	Signal transduction histidine kinase NarQ, nitrate/nitrite-specific	NarQ			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_04325	COG4642	S	Uncharacterized conserved protein				
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_04330	COG4642	S	Uncharacterized conserved protein				
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_04355	COG2872	J	Ser-tRNA(Ala) deacylase AlaX (editing enzyme)	AlaX			2E1B
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_04420	COG1074	L	3-5 helicase subunit RecB of the DNA repair enzyme RecBCD (exonuclease V)	RecB		29901759;30601118	3U44
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_04530	COG1159	J	GTPase Era, involved in 16S rRNA processing	Era			1EGA
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_04550	COG2166	O	Sulfur transfer protein SufE, Fe-S cluster assembly	SufE			1MZG
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_04555	COG3187	O	Heat shock protein HslJ	HslJ			2KTS
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_04560	COG3844	E	Kynureninase	Bna5			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_04565	COG0719	O	Fe-S cluster assembly scaffold protein SufB	SufB			1VH4
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_04570	COG4987	CO	ABC-type transport system involved in cytochrome bd biosynthesis, fused ATPase and permease components	CydC			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_04580	COG0719	O	Fe-S cluster assembly scaffold protein SufB	SufB			1VH4
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_04605	COG5276	S	Uncharacterized secreted protein, contains LVIVD repeats, choice-of-anchor domain				
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_04610	COG5276	S	Uncharacterized secreted protein, contains LVIVD repeats, choice-of-anchor domain				
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_04615	COG2144	R	Selenophosphate synthetase-related protein				
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_04630	COG3208	Q	Surfactin synthase thioesterase subunit	GrsT			6VAP
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_04640	COG0024	J	Methionine aminopeptidase	Map			3J2I
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_04655	COG1233	Q	Phytoene dehydrogenase-related protein				4REP
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_04660	COG1143	C	Formate hydrogenlyase subunit 6/NADH:ubiquinone oxidoreductase 23 kD subunit (chain I)	NuoI	NADH dehydrogenase		1B0P
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_04665	COG2204	T	DNA-binding transcriptional response regulator, NtrC family, contains REC, AAA-type ATPase, and a Fis-type DNA-binding domains	AtoC			1ZY2
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_04670	COG0399	M	dTDP-4-amino-4,6-dideoxygalactose transaminase	WecE		15271350	4PIW
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_04680	COG0666	T	Ankyrin repeat	ANKYR			6AUN
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_04685	COG0815	M	Apolipoprotein N-acyltransferase	Lnt			6NWR
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_04695	COG2236	H	Hypoxanthine phosphoribosyltransferase	Hpt1	Purine salvage		2JKZ
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_04715	COG4935	O	Regulatory P domain of the subtilisin-like proprotein convertases and other proteases				1OT5
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_04725	COG3568	R	Metal-dependent hydrolase, endonuclease/exonuclease/phosphatase family	ElsH		15178340	
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_04730	COG4334	S	Uncharacterized conserved protein, DUF2255 domain				
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_04735	COG2885	M	Outer membrane protein OmpA and related peptidoglycan-associated (lipo)proteins	OmpA			1OAP
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_04740	COG4989	R	Predicted oxidoreductase YdhF	YdhF			1UR3
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_04750	COG1066	L	DNA repair protein RadA/Sms, contains AAA+ ATPase domain	Sms		30877841	5LKM
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_04755	COG3850	T	Signal transduction histidine kinase NarQ, nitrate/nitrite-specific	NarQ			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_04760	COG4753	TK	Two-component response regulator, YesN/AraC family, consists of REC and AraC-type DNA-binding domains	YesN			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_04765	COG2819	R	Predicted hydrolase of the alpha/beta superfamily	YbbA			3GFF
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_04775	COG0853	H	Aspartate 1-decarboxylase	PanD	Pantothenate/CoA biosynthesis		1AW8
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_04825	COG3064	M	Membrane protein TolA involved in colicin uptake	TolA			1S62
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_04855	COG1405	K	Transcription initiation factor TFIIIB, Brf1 subunit/Transcription initiation factor TFIIB	SUA7			1DL6
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_04880	COG2222	M	Fructoselysine-6-P-deglycase FrlB or related protein, duplicated sugar isomerase (SIS) domain	AgaS		16153181	3C3J
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_04905	COG0336	J	tRNA G37 N-methylase TrmD	TrmD	tRNA modification		1P9P
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_04915	COG3000	I	Sterol desaturase/sphingolipid hydroxylase, fatty acid hydroxylase superfamily	ERG3			4ZR0
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_04930	COG2816	F	NADH pyrophosphatase NudC, Nudix superfamily	NPY1			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_04940	COG0691	O	tmRNA-binding protein	SmpB		26251518	1J1H
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_04945	COG0406	G	Broad specificity phosphatase PhoE	PhoE			1EBB
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_04950	COG3237	S	Uncharacterized conserved protein YjbJ, UPF0337 family	yjbJ			1RYK
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_04970	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_04975	COG0526	O	Thiol-disulfide isomerase or thioredoxin	TrxA			1XFL
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_04990	COG0112	E	Glycine/serine hydroxymethyltransferase	GlyA	Serine biosynthesis		1BJ4
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_04995	COG1670	JO	Protein N-acetyltransferase, RimJ/RimL family	RimL			1S7F
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_05000	COG1278	K	Cold shock protein, CspA family	CspC			1C9O
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_05030	COG0451	M	Nucleoside-diphosphate-sugar epimerase	WcaG			2X4G
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_05035	COG0176	G	Transaldolase/fructose-6-phosphate aldolase	TalA	Pentose phosphate pathway		1F05
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_05040	COG0450	V	Alkyl hydroperoxide reductase subunit AhpC (peroxiredoxin)	AhpC			2RII
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_05045	COG3638	P	ABC-type phosphate/phosphonate transport system, ATPase component	PhnC			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_05080	COG4753	TK	Two-component response regulator, YesN/AraC family, consists of REC and AraC-type DNA-binding domains	YesN			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_05085	COG1045	E	Serine acetyltransferase	CysE	Cysteine biosynthesis		1T3D
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_05090	COG1794	M	Amino acid racemase YgeA	RacX			5ELL
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_05105	COG2831	U	Hemolysin activation/secretion protein	FhaC			2MHJ
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_05110	COG0020	I	Undecaprenyl pyrophosphate synthase	UppS			1X07
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_05120	COG0061	H	NAD kinase	NadK			1SUW
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_05135	COG1647	Q	Esterase/lipase	YvaK			4DIU
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_05160	COG0616	O	Periplasmic serine protease, ClpP class	SppA			3BEZ
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_05165	COG1223	R	Predicted ATPase, AAA+ superfamily				
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_05195	COG0125	F	Thymidylate kinase	Tmk	Thymidylate biosynthesis		3LV8
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_05200	COG0219	J	tRNA(Leu) C34 or U34 (ribose-2'-O)-methylase TrmL, contains SPOUT domain	TrmL	tRNA modification		4JAK
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_05205	COG0249	L	DNA mismatch repair ATPase MutS	MutS			1E3M
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_05215	COG0219	J	tRNA(Leu) C34 or U34 (ribose-2'-O)-methylase TrmL, contains SPOUT domain	TrmL	tRNA modification		4JAK
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_05220	COG0846	O	NAD-dependent protein deacetylase, SIR2 family	SIR2			1M2N
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_05230	COG0015	F	Adenylosuccinate lyase	PurB	Purine biosynthesis		2HVG
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_05255	COG0793	O	C-terminal processing protease CtpA/Prc, contains a PDZ domain	CtpA			6IQU
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_05265	COG4774	P	Outer membrane receptor for monomeric catechols	Fiu			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_05275	COG4605	P	ABC-type enterochelin transport system, permease component	CeuC			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_05280	COG0411	E	ABC-type branched-chain amino acid transport system, ATPase component LivG	LivG		29514851	1G9X
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_05285	COG4372	S	Uncharacterized protein, contains DUF3084 domain				
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_05310	COG1038	C	Pyruvate carboxylase	PycA	Urea cycle		5VYW
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_05320	COG0526	O	Thiol-disulfide isomerase or thioredoxin	TrxA			1XFL
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_05345	COG1032	R	Radical SAM superfamily enzyme YgiQ, UPF0313 family	YgiQ			6FD2
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_05355	COG4533	K	DNA-binding transcriptional regulator SgrR of sgrS sRNA, contains a MarR-type HTH domain and a periplasmic-type solute-binding domain	SgrR			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_05365	COG1807	M	PMT family glycosyltransferase ArnT/Agl22, involved in glycosylation of proteins and lipid IVA	ArnT		16226890;31233657;32706435	5EZM
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_05370	COG0671	I	Membrane-associated phospholipid phosphatase	PgpB	Phospholipid biosynthesis		1D2T
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_05380	COG0728	M	Lipid II flippase MurJ/MviN (peptidoglycan biosynthesis)	MurJ		25013077	5T77
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_05390	COG2234	OE	Zn-dependent amino- or carboxypeptidase, M28 family	Iap			1AMP
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_05400	COG2197	TK	DNA-binding response regulator, NarL/FixJ family, contains REC and HTH domains	CitB			1A04
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_05415	COG1668	CP	ABC-type Na+ efflux pump, permease component NatB	NatB			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_05420	COG4608	E	ABC-type oligopeptide transport system, ATPase component	AppF			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_05425	COG2214	K	Curved DNA-binding protein CbpA, contains a DnaJ-like domain	CbpA			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_05430	COG0576	O	Molecular chaperone GrpE (heat shock protein HSP-70)	GrpE			1DKG
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_05435	COG2353	R	Polyisoprenoid-binding periplasmic protein YceI	YceI		15741337;20236316	1WUB
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_05440	COG0451	M	Nucleoside-diphosphate-sugar epimerase	WcaG			2X4G
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_05445	COG4121	J	tRNA U34 5-methylaminomethyl-2-thiouridine-forming methyltransferase MnmC	MnmC	tRNA modification		3AWI
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_05460	COG4696	F	NTP pyrophosphatase, MazG superfamily	MazG2			3NL9
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_05480	COG0239	DP	Fluoride ion exporter CrcB/FEX, affects chromosome condensation	CrcB			5A40
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_05490	COG2814	G	Predicted arabinose efflux permease AraJ, MFS family	AraJ			4LDS
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_05495	COG0693	V	Protein/nucleotide deglycase, PfpI/YajL/DJ-1 family (repair of methylglyoxal-glycated proteins and nucleic acids)	YajL		19028889;28596309;26678554	5SY4
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_05505	COG0640	K	DNA-binding transcriptional regulator, ArsR family	ArsR			3F6V
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_05515	COG3509	G	Acetyl xylan esterase AxeA and related esterases, LpqC family	LpqC		9291122	2D80
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_05520	COG1884	I	Methylmalonyl-CoA mutase, N-terminal domain/subunit	Sbm			6OXC
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_05535	COG0500	QR	SAM-dependent methyltransferase	SmtA			5DNK
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_05540	COG2263	R	Predicted RNA methylase				6H2U
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_05555	COG2263	R	Predicted RNA methylase				6H2U
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_05560	COG4992	E	Acetylornithine/succinyldiaminopimelate/putrescine aminotransferase	ArgD	Arginine biosynthesis		2E54
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_05590	COG0075	EF	Archaeal aspartate aminotransferase or a related aminotransferase, includes purine catabolism protein PucG	PucG	Serine biosynthesis		3NNK
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_05600	COG4942	D	Septal ring factor EnvC, activator of murein hydrolases AmiA and AmiB	EnvC			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_05620	COG2206	T	HD-GYP domain, c-di-GMP phosphodiesterase class II (or its inactivated variant)	HDGYP		23475961	5Z7C
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_05625	COG4989	R	Predicted oxidoreductase YdhF	YdhF			1UR3
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_05630	COG0582	LX	Integrase/recombinase, includes phage integrase	FimB			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_05660	COG0492	O	Thioredoxin reductase	TrxB			3FBS
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_05665	COG0229	O	Peptide methionine sulfoxide reductase MsrB	MsrB			1L1D
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_05670	COG0229	O	Peptide methionine sulfoxide reductase MsrB	MsrB			1L1D
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_05705	COG0750	OK	Membrane-associated protease RseP, regulator of RpoE activity	RseP			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_05720	COG1087	M	UDP-glucose 4-epimerase	GalE			1A9Y
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_05735	COG0451	M	Nucleoside-diphosphate-sugar epimerase	WcaG			2X4G
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_05740	COG0624	E	Acetylornithine deacetylase/Succinyl-diaminopimelate desuccinylase or related deacylase	ArgE	Arginine biosynthesis		1CG2
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_05745	COG0517	T	CBS domain	CBS			1B3O
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_05750	COG1846	K	DNA-binding transcriptional regulator, MarR family	MarR			1JGS
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_05775	COG0060	J	Isoleucyl-tRNA synthetase	IleS	Aminoacyl-tRNA synthetases		1FFY
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_05790	COG0597	MU	Lipoprotein signal peptidase	LspA			5DIR
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_05795	COG3290	T	Sensor histidine kinase DipB regulating citrate/malate metabolism	CitA			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_05810	COG2988	E	Succinylglutamate desuccinylase	AstE			1YW4
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_05815	COG0439	I	Biotin carboxylase	AccC	Fatty acid biosynthesis		1BNC
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_05820	COG4067	S	Uncharacterized conserved protein				
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_05825	COG1181	MR	D-alanine-D-alanine ligase or related ATP-grasp enzyme	DdlA	Mureine biosynthesis		1E4E
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_05830	COG0322	L	Excinuclease UvrABC, nuclease subunit	UvrC		24513124	2NRT
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_05835	COG4667	I	Predicted phospholipase, patatin/cPLA2 family	YjjU			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_05865	COG4942	D	Septal ring factor EnvC, activator of murein hydrolases AmiA and AmiB	EnvC			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_05870	COG4774	P	Outer membrane receptor for monomeric catechols	Fiu			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_05880	COG0784	T	CheY-like REC (receiver) domain, includes chemotaxis protein CheY  and sporulation regulator Spo0F	CheY			6QRJ
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_05885	COG3290	T	Sensor histidine kinase DipB regulating citrate/malate metabolism	CitA			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_05890	COG0784	T	CheY-like REC (receiver) domain, includes chemotaxis protein CheY  and sporulation regulator Spo0F	CheY			6QRJ
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_05910	COG1360	N	Flagellar motor protein MotB	MotB			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_05925	COG0502	H	Biotin synthase or related enzyme	BioB	Biotin biosynthesis		1R30
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_05930	COG0057	G	Glyceraldehyde-3-phosphate dehydrogenase/erythrose-4-phosphate dehydrogenase	GapA	Glycolysis		3ZDF
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_05935	COG2204	T	DNA-binding transcriptional response regulator, NtrC family, contains REC, AAA-type ATPase, and a Fis-type DNA-binding domains	AtoC			1ZY2
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_05945	COG0327	H	Putative GTP cyclohydrolase 1 type 2, NIF3 family	NIF3	Folate biosynthesis	24435797;26385509	3SY1
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_05950	COG1579	R	Predicted nucleic acid-binding protein DR0291, contains C4-type Zn-ribbon domain	DR0291			4ILO
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_05955	COG0225	O	Peptide methionine sulfoxide reductase MsrA	MsrA			1FF3
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_05960	COG2227	H	2-polyprenyl-3-methyl-5-hydroxy-6-metoxy-1,4-benzoquinol methylase	UbiG	Ubiquinone biosynthesis		1BHJ
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_05965	COG5038
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_05970	COG2388	R	Predicted acetyltransferase, GNAT superfamily	YidJ			1R57
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_05975	COG3592	S	Uncharacterized Fe-S cluster protein YjdI	YjdI			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_05990	COG0075	EF	Archaeal aspartate aminotransferase or a related aminotransferase, includes purine catabolism protein PucG	PucG	Serine biosynthesis		3NNK
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_05995	COG1233	Q	Phytoene dehydrogenase-related protein				4REP
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_06005	COG1012	I	Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase	AdhE	Proline degradation		1A4S
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_06010	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_06015	COG2159	G	5-carboxyvanillate decarboxylase LigW (lignin degradation), amidohydro domain	LigW		26714575	2DVT
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_06020	COG2518	O	Protein-L-isoaspartate O-methyltransferase	Pcm		24909784	3LBF
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_06025	COG4753	TK	Two-component response regulator, YesN/AraC family, consists of REC and AraC-type DNA-binding domains	YesN			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_06030	COG3851	T	Signal transduction histidine kinase UhpB, glucose-6-phosphate specific	UhpB			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_06045	COG0671	I	Membrane-associated phospholipid phosphatase	PgpB	Phospholipid biosynthesis		1D2T
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_06055	COG0308	E	Aminopeptidase N, contains DUF3458 domain	PepN		24123841	6ATK
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_06075	COG4242	QR	Cyanophycinase and related exopeptidases	CphB			3EN0
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_06080	COG1670	JO	Protein N-acetyltransferase, RimJ/RimL family	RimL			1S7F
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_06085	COG1876	M	LD-carboxypeptidase LdcB, LAS superfamily	LdcB		24909784	4D0Y
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_06090	COG0501	O	Zn-dependent protease with chaperone function	HtpX			2YPT
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_06095	COG0251	V	Enamine deaminase RidA, house cleaning of reactive enamine intermediates, YjgF/YER057c/UK114 family	RidA	Pyrimidine degradation	22094463;32205462	1J7H
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_06100	COG0696	G	Phosphoglycerate mutase (BPG-independent), AlkP superfamily	GpmI	Glycolysis		1EJJ
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_06105	COG0241	E	Histidinol phosphatase/D-glycero-mannoheptose bisphosphatephosphatase, HAD superfamily	HisB1/GmhB	Histidine biosynthesis	20050615;20050614	2GMW
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_06110	COG0024	J	Methionine aminopeptidase	Map			3J2I
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_06115	COG2226	H	Ubiquinone/menaquinone biosynthesis C-methylase UbiE/MenG	UbiE	Biotin biosynthesis		4OBW
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_06120	COG1477	HO	FAD:protein FMN transferase ApbE	ApbE		23558683;30154099	1VRM
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_06135	COG1018	C	Flavodoxin/ferredoxin--NADP reductase	Fpr			3OZU
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_06140	COG4660	C	Na+-translocating ferredoxin:NAD+ oxidoreductase  RNF, RnfE subunit	RnfE	Na+-translocating Fd:NADH oxidoreductase		
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_06145	COG4657	C	Na+-translocating ferredoxin:NAD+ oxidoreductase RNF, RnfA subunit	RnfA	Na+-translocating Fd:NADH oxidoreductase		
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_06150	COG4659	C	Na+-translocating ferredoxin:NAD+ oxidoreductase RNF, RnfG subunit	RnfG	Na+-translocating Fd:NADH oxidoreductase		
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_06155	COG1289	S	Uncharacterized membrane protein YccC	YccC			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_06170	COG1404	O	Serine protease, subtilisin family	AprE			1SCJ
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_06200	COG4753	TK	Two-component response regulator, YesN/AraC family, consists of REC and AraC-type DNA-binding domains	YesN			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_06205	COG3332	R	Uncharacterized stress-responsive protein, TANGO2 (Transport and Golgi organisation 2) family, contains NRDE motif	Tango2		26631869	
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_06210	COG1012	I	Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase	AdhE	Proline degradation		1A4S
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_06215	COG0526	O	Thiol-disulfide isomerase or thioredoxin	TrxA			1XFL
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_06225	COG2813	J	16S rRNA G1207 methylase RsmC	RsmC	16S rRNA modification		1DUS
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_06235	COG3977	E	Alanine-alpha-ketoisovalerate (or valine-pyruvate) aminotransferase	AvtA			3G7Q
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_06240	COG1181	MR	D-alanine-D-alanine ligase or related ATP-grasp enzyme	DdlA	Mureine biosynthesis		1E4E
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_06260	COG1221	KT	Transcriptional regulators containing an AAA-type ATPase domain and a DNA-binding domain	PspF			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_06305	COG0241	E	Histidinol phosphatase/D-glycero-mannoheptose bisphosphatephosphatase, HAD superfamily	HisB1/GmhB	Histidine biosynthesis	20050615;20050614	2GMW
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_06325	COG0520	E	Selenocysteine lyase/Cysteine desulfurase	CsdA			4LW2
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_06330	COG1088	M	dTDP-D-glucose 4,6-dehydratase	RfbB			1G1A
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_06335	COG1670	JO	Protein N-acetyltransferase, RimJ/RimL family	RimL			1S7F
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_06345	COG1216	G	Glycosyltransferase, GT2 family	WcaE			2Z86
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_06350	COG2227	H	2-polyprenyl-3-methyl-5-hydroxy-6-metoxy-1,4-benzoquinol methylase	UbiG	Ubiquinone biosynthesis		1BHJ
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_06365	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_06370	COG0438	M	Glycosyltransferase involved in cell wall bisynthesis	RfaB			2IV7
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_06405	COG1253	R	Hemolysin-related protein, contains CBS domains, UPF0053 family	TlyC			2NQW
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_06410	COG0760	O	Peptidyl-prolyl isomerase, parvulin family	SurA			2ZR5
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_06415	COG1577	I	Mevalonate kinase	ERG12	Isoprenoid biosynthesis		
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_06425	COG0412	Q	Dienelactone hydrolase	DLH			4ZV9
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_06435	COG2143	O	Thioredoxin-related protein SoxW	SoxW			4FYB
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_06450	COG4370	S	Uncharacterized conserved protein				
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_06460	COG0496	L	Broad specificity polyphosphatase and 5'/3'-nucleotidase SurE	SurE			2V4N
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_06465	COG0793	O	C-terminal processing protease CtpA/Prc, contains a PDZ domain	CtpA			6IQU
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_06470	COG0600	P	ABC-type nitrate/sulfonate/bicarbonate transport system, permease component	TauC			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_06485	COG0772	D	Peptodoglycan polymerase FtsW/RodA/SpoVE	FtsW		30692671	6BAR
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_06490	COG0768	DM	Cell division protein FtsI, peptidoglycan transpeptidase (Penicillin-binding protein 2)	FtsI			6HZQ
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_06500	COG1792	DZ	Cell shape-determining protein MreC	MreC			2J5U
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_06510	COG1216	G	Glycosyltransferase, GT2 family	WcaE			2Z86
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_06515	COG4856	T	Cyclic di-AMP synthase regulator CdaR, YbbR domain	YbbR		26527648	2KQ1
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_06520	COG1102	F	Cytidylate kinase	CmkB			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_06525	COG5000	T	Signal transduction histidine kinase NtrY involved in nitrogen fixation and metabolism regulation	NtrY			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_06530	COG2197	TK	DNA-binding response regulator, NarL/FixJ family, contains REC and HTH domains	CitB			1A04
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_06535	COG0324	J	tRNA A37 N6-isopentenylltransferase MiaA	MiaA	tRNA modification		2ZM5
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_06540	COG1226	P	Voltage-gated potassium channel Kch	Kch			3FWZ
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_06545	COG0322	L	Excinuclease UvrABC, nuclease subunit	UvrC		24513124	2NRT
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_06550	COG0787	M	Alanine racemase	Alr	Mureine biosynthesis		1BD0
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_06560	COG1748	E	Saccharopine dehydrogenase, NADP-dependent	Lys9	Lysine biosynthesis		1E5L
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_06565	COG0673	R	Predicted dehydrogenase	MviM			3UUW
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_06570	COG2242	H	Precorrin-6B methylase 2	CobL	Cobalamine/B12 biosynthesis		1F38
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_06590	COG0534	V	Na+-driven multidrug efflux pump, DinF/NorM/MATE family	NorM		29915058	3VVN
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_06615	COG0297	G	Glycogen synthase	GlgA			1RZU
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_06630	COG1004	M	UDP-glucose 6-dehydrogenase	Ugd			1DLI
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_06635	COG1089	M	GDP-D-mannose dehydratase	Gmd			1DB3
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_06640	COG2148	M	Sugar transferase involved in LPS biosynthesis (colanic, teichoic acid)	WcaJ			5W7L
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_06645	COG0438	M	Glycosyltransferase involved in cell wall bisynthesis	RfaB			2IV7
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_06650	COG0381	M	UDP-N-acetylglucosamine 2-epimerase	WecB		26641313;30389844	1F6D
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_06660	COG0439	I	Biotin carboxylase	AccC	Fatty acid biosynthesis		1BNC
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_06680	COG0859	M	ADP-heptose:LPS heptosyltransferase	RfaF			1PSW
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_06685	COG4097	P	Predicted ferric reductase				
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_06710	COG0370	P	Fe2+ transporter FeoB	FeoB		32095817	3TAH
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_06735	COG1137	M	ABC-type lipopolysaccharide export system, ATPase component	LptB		12029038	5L75
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_06740	COG4531	P	ABC-type Zn2+ transport system, periplasmic component/surface adhesin ZnuA	ZnuA			2OGW
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_06750	COG1846	K	DNA-binding transcriptional regulator, MarR family	MarR			1JGS
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_06755	COG0484	O	DnaJ-class molecular chaperone with C-terminal Zn finger domain	DnaJ			1BQ0
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_06760	COG1055	P	Na+/H+ antiporter NhaD or related arsenite permease	ArsB			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_06765	COG0568	K	DNA-directed RNA polymerase, sigma subunit (sigma70/sigma32)	RpoD	RNA polymerase		1SIG
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_06785	COG1476	K	DNA-binding transcriptional regulator, XRE-family HTH domain	XRE			1UTX
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_06790	COG4807	S	Uncharacterized conserved protein YehS, DUF1456 family	YehS			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_06840	COG1204	L	Replicative superfamily II helicase	BRR2			2VA8
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_06845	COG4447	R	Uncharacterized conserved protein related to plant photosystem II stability/assembly factor				2XBG
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_06860	COG0697	GER	Permease of the drug/metabolite transporter (DMT) superfamily	RhaT			5I20
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_06865	COG0265	O	Periplasmic serine protease, S1-C subfamily, contain C-terminal PDZ domain	DegQ		29686141	2HGA
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_06870	COG2234	OE	Zn-dependent amino- or carboxypeptidase, M28 family	Iap			1AMP
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_06900	COG1052	CHR	Lactate dehydrogenase or related 2-hydroxyacid dehydrogenase	LdhA	Pyridoxal phosphate biosynthesis		1DXY
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_06910	COG4604	P	ABC-type enterochelin transport system, ATPase component	CeuD			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_06915	COG0577	V	ABC-type antimicrobial peptide transport system, permease component	SalY			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_06975	COG3852	T	Signal transduction histidine kinase NtrB, nitrogen specific	NtrB		23893111	
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_07030	COG3832	I	Chalcone/flavanone-binding protein YndB, AHSA1/START/SRPBCC domain	YndB		20818668	2KTE
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_07085	COG0450	V	Alkyl hydroperoxide reductase subunit AhpC (peroxiredoxin)	AhpC			2RII
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_07090	COG1194	L	Adenine-specific DNA glycosylase, acts on AG and A-oxoG pairs	MutY			1KG2
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_07105	COG1121	P	ABC-type Mn2+/Zn2+ transport system, ATPase component	ZnuC			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_07125	COG0438	M	Glycosyltransferase involved in cell wall bisynthesis	RfaB			2IV7
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_07150	COG1167	KE	DNA-binding transcriptional regulator, MocR family, contains an aminotransferase domain	ARO8	Lysine biosynthesis		2R2N
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_07155	COG1171	E	Threonine deaminase	IlvA	Isoleucine, leucine, valine biosynthesis		3IAU
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_07160	COG1770	E	Protease II	PtrB			4BP9
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_07195	COG1695	K	DNA-binding transcriptional regulator, PadR family	PadR		19096365	1XMA
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_07220	COG3655	K	DNA-binding transcriptional regulator, XRE family	YozG			3TYR
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_07230	COG1309	K	DNA-binding protein, AcrR family, includes nucleoid occlusion protein SlmA	AcrR			2QOP
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_07235	COG1917	R	Cupin domain protein related to quercetin dioxygenase	QdoI			2H0V
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_07255	COG2234	OE	Zn-dependent amino- or carboxypeptidase, M28 family	Iap			1AMP
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_07260	COG0784	T	CheY-like REC (receiver) domain, includes chemotaxis protein CheY  and sporulation regulator Spo0F	CheY			6QRJ
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_07315	COG2771	K	DNA-binding transcriptional regulator, CsgD family	CsgD			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_07320	COG0526	O	Thiol-disulfide isomerase or thioredoxin	TrxA			1XFL
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_07325	COG1190	J	Lysyl-tRNA synthetase (class II)	LysU	Aminoacyl-tRNA synthetases		1BBU
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_07335	COG3979	G	Chitodextrinase				1WVU
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_07350	COG0001	H	Glutamate-1-semialdehyde aminotransferase	HemL	Heme biosynthesis		2CFB
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_07355	COG1388	M	LysM repeat	LysM			1E0G
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_07375	COG0086	K	DNA-directed RNA polymerase, beta' subunit/160 kD subunit	RpoC	RNA polymerase		1NT9
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_07395	COG5256	J	Translation elongation factor EF-1alpha (GTPase)	TEF1	Translation factors		1F60
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_07400	COG5316	S	Uncharacterized protein, contains DUF4139 domain				
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_07405	COG1240	H	vWFA (von Willebrand factor type A) domain of Mg and Co chelatases	ChlD			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_07420	COG4941	K	Predicted RNA polymerase sigma factor, contains C-terminal TPR domain				
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_07445	COG4941	K	Predicted RNA polymerase sigma factor, contains C-terminal TPR domain				
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_07460	COG0653	U	Preprotein translocase subunit SecA (ATPase, RNA helicase)	SecA			2FSF
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_07470	COG2096	H	Cob(II)alamin adenosyltransferase	PduO	Cobalamine/B12 biosynthesis		1NOG
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_07480	COG5265	O	ABC-type transport system involved in Fe-S cluster assembly, permease and ATPase components	ATM1			4MRN
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_07485	COG4122	J	tRNA 5-hydroxyU34 O-methylase TrmR/YrrM	TrmR	tRNA modification	29982645	1H1D
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_07490	COG1127	M	ATPase subunit MlaF of the ABC-type intermembrane phospholipid transporter Mla	MlaF			6IC4
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_07500	COG3206	M	Exopolysaccharide export protein/domain GumC/Wzc1	GumC		15003255;23089617	
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_07510	COG2084	I	3-hydroxyisobutyrate dehydrogenase or related beta-hydroxyacid dehydrogenase	MmsB			1I36
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_07515	COG1086	MO	NDP-sugar epimerase, includes UDP-GlcNAc-inverting 4,6-dehydratase FlaA1 and capsular polysaccharide biosynthesis protein EpsC	FlaA1			2GN4
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_07520	COG0480	J	Translation elongation factor EF-G, a GTPase	FusA	Translation factors		1DAR
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_07550	COG0582	LX	Integrase/recombinase, includes phage integrase	FimB			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_07555	COG0828	J	Ribosomal protein S21	RpsU	Ribosome 30S subunit		4V4H
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_07580	COG1226	P	Voltage-gated potassium channel Kch	Kch			3FWZ
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_07600	COG1171	E	Threonine deaminase	IlvA	Isoleucine, leucine, valine biosynthesis		3IAU
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_07605	COG0577	V	ABC-type antimicrobial peptide transport system, permease component	SalY			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_07615	COG0727	R	Uncharacterized protein YkgJ, contains CxxCxxCC motif	YkgJ			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_07620	COG2227	H	2-polyprenyl-3-methyl-5-hydroxy-6-metoxy-1,4-benzoquinol methylase	UbiG	Ubiquinone biosynthesis		1BHJ
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_07625	COG3184	S	Uncharacterized conserved protein, contains DUF2059 domain			15741337	2X3O
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_07635	COG1228	Q	Imidazolonepropionase or related amidohydrolase	HutI			3OOQ
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_07640	COG4774	P	Outer membrane receptor for monomeric catechols	Fiu			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_07645	COG1729	D	Cell division protein CpoB, coordinates peptidoglycan biosynthesis and outer membrane constriction	CpoB		25951518	2WZ7
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_07655	COG3840	H	ABC-type thiamine transport system, ATPase component ThiQ	ThiQ			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_07660	COG1404	O	Serine protease, subtilisin family	AprE			1SCJ
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_07665	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_07670	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_07675	COG1898	M	dTDP-4-dehydrorhamnose 3,5-epimerase or related enzyme	RfbC			1DZR
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_07685	COG0438	M	Glycosyltransferase involved in cell wall bisynthesis	RfaB			2IV7
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_07690	COG1044	M	UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase	LpxD	Lipid A biosynthesis		6P83
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_07695	COG0110	R	Acetyltransferase, isoleucine patch superfamily	WbbJ			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_07700	COG2244	M	Membrane protein involved in the export of O-antigen and teichoic acid	RfbX			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_07710	COG0520	E	Selenocysteine lyase/Cysteine desulfurase	CsdA			4LW2
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_07735	COG5256	J	Translation elongation factor EF-1alpha (GTPase)	TEF1	Translation factors		1F60
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_07740	COG1880	C	CO dehydrogenase/acetyl-CoA synthase epsilon subunit	CdhB			1YTL
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_07745	COG5649	S	Uncharacterized conserved protein, DUF1801 domain				
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_07755	COG1846	K	DNA-binding transcriptional regulator, MarR family	MarR			1JGS
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_07760	COG5031	H	Ubiquinone biosynthesis protein Coq4	COQ4	Ubiquinone biosynthesis		
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_07765	COG0697	GER	Permease of the drug/metabolite transporter (DMT) superfamily	RhaT			5I20
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_07820	COG0582	LX	Integrase/recombinase, includes phage integrase	FimB			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_07825	COG1239	H	Mg-chelatase subunit ChlI	ChlI			1G8P
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_07830	COG4566	TK	DNA-binding response regulator, FixJ family, consists of REC and HTH domains	FixJ			1YIO
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_07835	COG3850	T	Signal transduction histidine kinase NarQ, nitrate/nitrite-specific	NarQ			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_07850	COG0166	G	Glucose-6-phosphate isomerase	Pgi	Glycolysis		1B0Z
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_07855	COG2971	G	BadF-type ATPase, related to human N-acetylglucosamine kinase	BadF		17954692;12761179;12761179	
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_07860	COG0057	G	Glyceraldehyde-3-phosphate dehydrogenase/erythrose-4-phosphate dehydrogenase	GapA	Glycolysis		3ZDF
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_07865	COG0205	G	6-phosphofructokinase	PfkA	Glycolysis		1KZH
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_07875	COG0785	CO	Cytochrome c biogenesis protein CcdA	CcdA			5VKV
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_07885	COG0147	EH	Anthranilate/para-aminobenzoate synthases component I	TrpE	Aromatic amino acid biosynthesis		1I1Q
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_07890	COG1182	C	FMN-dependent NADH-azoreductase	AzoR			1TIK
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_07900	COG1251	C	NAD(P)H-nitrite reductase, large subunit	NirB			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_07905	COG3398	K	Predicted transcriptional regulator, contains two HTH domains				
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_07910	COG0436	E	Aspartate/methionine/tyrosine aminotransferase	AspB	Isoleucine, leucine, valine biosynthesis		2O0R
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_07920	COG2202	T	PAS domain	PAS			2MWG
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_07925	COG3263	CP	NhaP-type Na+/H+ and K+/H+ antiporter with C-terminal TrkAC and CorC domains	NhaP2			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_07930	COG0486	J	tRNA U34 5-carboxymethylaminomethyl modifying GTPase MnmE/TrmE	MnmE	tRNA modification		
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_07945	COG1159	J	GTPase Era, involved in 16S rRNA processing	Era			1EGA
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_07960	COG1512	S	Uncharacterized membrane protein YgcG, contains a TPM-fold domain	YgcG			2KW7
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_07965	COG3762	S	Uncharacterized membrane protein				
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_07970	COG1704	M	Magnetosome formation protein MamQ, lipoprotein antigen LemA family	LemA		14638756;20212111;26884433	2ETD
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_07975	COG0789	K	DNA-binding transcriptional regulator, MerR family	SoxR			2VZ4
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_07980	COG4942	D	Septal ring factor EnvC, activator of murein hydrolases AmiA and AmiB	EnvC			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_07985	COG0013	J	Alanyl-tRNA synthetase	AlaS	Aminoacyl-tRNA synthetases		2ZZE
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_07990	COG0488	R	ATPase components of ABC transporters with duplicated ATPase domains	Uup			5ZXD
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_08000	COG4799	I	Acetyl-CoA carboxylase, carboxyltransferase component	MmdA			1OD2
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_08005	COG2271	G	Sugar phosphate permease	UhpC			1PW4
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_08010	COG2259	S	Uncharacterized membrane protein YphA, DoxX/SURF4 family	DoxX			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_08015	COG0006	E	Xaa-Pro aminopeptidase	PepP			1A16
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_08020	COG1240	H	vWFA (von Willebrand factor type A) domain of Mg and Co chelatases	ChlD			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_08025	COG0318	I	O-succinylbenzoic acid-CoA ligase MenE or related acyl-CoA synthetase (AMP-forming)	MenE/FadK	Menaquinone biosynthesis	25151136;27455459	5EY9
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_08030	COG1266	O	Membrane protease YdiL, CAAX protease family	YdiL			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_08040	COG2333	U	DNA uptake channel protein ComEC C-terminal domain, metallo-beta-lactamase superfamily	ComEC			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_08050	COG2259	S	Uncharacterized membrane protein YphA, DoxX/SURF4 family	DoxX			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_08065	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_08070	COG2885	M	Outer membrane protein OmpA and related peptidoglycan-associated (lipo)proteins	OmpA			1OAP
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_08075	COG1360	N	Flagellar motor protein MotB	MotB			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_08090	COG1647	Q	Esterase/lipase	YvaK			4DIU
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_08095	COG0009	J	tRNA A37 threonylcarbamoyladenosine synthetase subunit TsaC/SUA5/YrdC	TsaC	tRNA modification		1HRU
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_08105	COG0657	I	Acetyl esterase/lipase	Aes			1EVQ
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_08110	COG0210	L	Superfamily I DNA or RNA helicase	UvrD			6PPR
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_08115	COG0624	E	Acetylornithine deacetylase/Succinyl-diaminopimelate desuccinylase or related deacylase	ArgE	Arginine biosynthesis		1CG2
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_08120	COG2070	R	NAD(P)H-dependent flavin oxidoreductase YrpB, nitropropane dioxygenase family	YrpB			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_08125	COG2197	TK	DNA-binding response regulator, NarL/FixJ family, contains REC and HTH domains	CitB			1A04
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_08130	COG1340	S	Uncharacterized coiled-coil protein, contains DUF342 domain				
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_08145	COG4667	I	Predicted phospholipase, patatin/cPLA2 family	YjjU			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_08150	COG0308	E	Aminopeptidase N, contains DUF3458 domain	PepN		24123841	6ATK
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_08155	COG1200	L	RecG-like helicase	RecG			1GM5
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_08160	COG4166	E	ABC-type oligopeptide transport system, periplasmic component	OppA			1B05
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_08165	COG1225	O	Peroxiredoxin	Bcp			5IPH
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_08170	COG0072	J	Phenylalanyl-tRNA synthetase beta subunit	PheT	Aminoacyl-tRNA synthetases		3L4G
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_08175	COG2335	R	Uncaracterized surface protein containing fasciclin (FAS1) repeats	FAS1			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_08180	COG2335	R	Uncaracterized surface protein containing fasciclin (FAS1) repeats	FAS1			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_08195	COG0142	H	Geranylgeranyl pyrophosphate synthase	IspA	Isoprenoid biosynthesis		2AZJ
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_08215	COG0358	L	DNA primase (bacterial type)	DnaG		28128549	3B39
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_08220	COG4753	TK	Two-component response regulator, YesN/AraC family, consists of REC and AraC-type DNA-binding domains	YesN			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_08225	COG0301	HJ	Adenylyl- and sulfurtransferase ThiI (thiamine and tRNA 4-thiouridine biosynthesis)	ThiI	Thiamine biosynthesis	22773787	1VBK
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_08240	COG1161	J	Ribosome biogenesis GTPase RbgA	RbgA			6G14
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_08245	COG1647	Q	Esterase/lipase	YvaK			4DIU
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_08255	COG2242	H	Precorrin-6B methylase 2	CobL	Cobalamine/B12 biosynthesis		1F38
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_08265	COG2815	M	PASTA domain, binds beta-lactams	PASTA			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_08270	COG0285	H	Folylpolyglutamate synthase/Dihydropteroate synthase	FolC	Folate biosynthesis		1W78
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_08275	COG0472	M	UDP-N-acetylmuramyl pentapeptide phosphotransferase/UDP-N-acetylglucosamine-1-phosphate transferase	Rfe	Mureine biosynthesis		4J72
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_08280	COG0285	H	Folylpolyglutamate synthase/Dihydropteroate synthase	FolC	Folate biosynthesis		1W78
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_08285	COG0772	D	Peptodoglycan polymerase FtsW/RodA/SpoVE	FtsW		30692671	6BAR
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_08290	COG0763	M	Lipid A disaccharide synthetase	LpxB	Lipid A biosynthesis		5W8N
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_08295	COG0771	M	UDP-N-acetylmuramoylalanine-D-glutamate ligase	MurD	Mureine biosynthesis		1E0D
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_08300	COG1589	D	Cell division septal protein FtsQ	FtsQ			1YR1
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_08305	COG4972	NW	Type IV pilus assembly protein, ATPase PilM	PilM			2YCH
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_08310	COG0206	D	Cell division GTPase FtsZ	FtsZ			1FSZ
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_08325	COG4753	TK	Two-component response regulator, YesN/AraC family, consists of REC and AraC-type DNA-binding domains	YesN			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_08335	COG0670	P	Integral membrane protein YbhL, putative Ca2+ regulator, Bax inhibitor (BI-1)/TMBIM family	YbhL		28064000	4PGR
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_08340	COG3228	T	Mlc titration factor MtfA, regulates ptsG expression	MtfA		16855233	3DL1
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_08345	COG2319	R	WD40 repeat	WD40			3UVN
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_08350	COG2207	K	AraC-type DNA-binding domain and AraC-containing proteins	AraC			1BL0
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_08355	COG0269	G	3-keto-L-gulonate-6-phosphate decarboxylase	UlaD			3F4W
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_08370	COG0568	K	DNA-directed RNA polymerase, sigma subunit (sigma70/sigma32)	RpoD	RNA polymerase		1SIG
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_08385	COG1185	J	Polyribonucleotide nucleotidyltransferase (polynucleotide phosphorylase)	Pnp			1E3P
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_08390	COG0184	J	Ribosomal protein S15P/S13E	RpsO	Ribosome 30S subunit		4V4H
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_08400	COG4799	I	Acetyl-CoA carboxylase, carboxyltransferase component	MmdA			1OD2
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_08410	COG0729	M	Outer membrane translocation and assembly module TamA	TamA			4BZA
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_08415	COG0219	J	tRNA(Leu) C34 or U34 (ribose-2'-O)-methylase TrmL, contains SPOUT domain	TrmL	tRNA modification		4JAK
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_08425	COG0500	QR	SAM-dependent methyltransferase	SmtA			5DNK
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_08430	COG1226	P	Voltage-gated potassium channel Kch	Kch			3FWZ
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_08435	COG0168	P	Trk-type K+ transport system, membrane component	TrkG			3PJZ
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_08440	COG0412	Q	Dienelactone hydrolase	DLH			4ZV9
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_08445	COG3425	I	3-hydroxy-3-methylglutaryl CoA synthase	PksG	Isoprenoid biosynthesis		1TVZ
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_08455	COG1832	R	Predicted CoA-binding protein	YccU			1IUK
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_08465	COG4447	R	Uncharacterized conserved protein related to plant photosystem II stability/assembly factor				2XBG
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_08470	COG0353	L	Recombinational DNA repair protein RecR	RecR		26337406	2JGR
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_08475	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_08480	COG0508	C	Pyruvate/2-oxoglutarate dehydrogenase complex, dihydrolipoamide acyltransferase (E2) component	AceF	Pyruvate oxidation		1B5S
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_08490	COG2176	L	DNA polymerase III, alpha subunit (gram-positive type)	PolC			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_08495	COG0179	Q	2-keto-4-pentenoate hydratase/2-oxohepta-3-ene-1,7-dioic acid hydratase (catechol pathway)	YcgM			1GTT
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_08505	COG0303	H	Molybdopterin Mo-transferase (molybdopterin biosynthesis)	MoeA	Molybdopterin biosynthesis	18801996;32239579	2NQU
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_08510	COG0227	J	Ribosomal protein L28	RpmB	Ribosome 50S subunit		2JZ6
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_08515	COG0267	J	Ribosomal protein L33	RpmG	Ribosome 50S subunit		1VS6
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_08525	COG1419	N	Flagellar biosynthesis GTPase FlhF	FlhF			3SYN
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_08530	COG2940	R	SET domain-containing protein (function unknown)	SET			6BX3
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_08535	COG1032	R	Radical SAM superfamily enzyme YgiQ, UPF0313 family	YgiQ			6FD2
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_08555	COG2067	I	Long-chain fatty acid transport protein	FadL			1T16
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_08565	COG0441	J	Threonyl-tRNA synthetase	ThrS	Aminoacyl-tRNA synthetases		1NYQ
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_08575	COG0268	J	Ribosomal protein S20	RpsT	Ribosome 30S subunit		4V4H
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_08580	COG1056	H	Nicotinamide mononucleotide adenylyltransferase	NadR	NAD biosynthesis		1LW7
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_08585	COG0458	EF	Carbamoylphosphate synthase large subunit	CarB	Arginine biosynthesis		1C30
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_08590	COG2815	M	PASTA domain, binds beta-lactams	PASTA			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_08595	COG1187	J	Pseudouridylate synthase RsuA, specific for 16S rRNA U516  and 23S rRNA U2605	RsuA	16S rRNA modification		1KSK
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_08600	COG3022	L	DNA-binding protein YaaA associated with the oxidative stress response	YaaA		21378183;32796037	5CAJ
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_08605	COG3663	L	G:T/U-mismatch repair DNA glycosylase	Mug			1MTL
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_08620	COG4935	O	Regulatory P domain of the subtilisin-like proprotein convertases and other proteases				1OT5
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_08625	COG0589	T	Nucleotide-binding universal stress protein,  UspA family	UspA			1JMV
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_08640	COG0491	R	Glyoxylase or a related metal-dependent hydrolase, beta-lactamase superfamily II	GloB		25670698	1QH3
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_08645	COG0730	P	Sulfite exporter TauE/SafE/YfcA and related permeases, UPF0721 family	TauE		21183667;22797525	
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_08650	COG0664	T	cAMP-binding domain of CRP or a regulatory subunit of cAMP-dependent protein kinases	Crp			1FT9
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_08665	COG0678	O	Peroxiredoxin	AHP1			1H4O
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_08680	COG2133	G	Glucose/arabinose dehydrogenase, beta-propeller fold	YliI			1C9U
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_08685	COG2010	C	Cytochrome c, mono- and diheme variants	CccA			1A2S
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_08690	COG1072	H	Panthothenate kinase	CoaA	Pantothenate/CoA biosynthesis		2GA8
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_08705	COG1884	I	Methylmalonyl-CoA mutase, N-terminal domain/subunit	Sbm			6OXC
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_08710	COG1670	JO	Protein N-acetyltransferase, RimJ/RimL family	RimL			1S7F
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_08715	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_08725	COG1183	I	Phosphatidylserine synthase	PssA			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_08740	COG1086	MO	NDP-sugar epimerase, includes UDP-GlcNAc-inverting 4,6-dehydratase FlaA1 and capsular polysaccharide biosynthesis protein EpsC	FlaA1			2GN4
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_08760	COG0297	G	Glycogen synthase	GlgA			1RZU
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_08770	COG0707	M	UDP-N-acetylglucosamine:LPS N-acetylglucosamine transferase	MurG	Mureine biosynthesis		1F0K
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_08780	COG1167	KE	DNA-binding transcriptional regulator, MocR family, contains an aminotransferase domain	ARO8	Lysine biosynthesis		2R2N
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_08785	COG0299	F	Folate-dependent phosphoribosylglycinamide formyltransferase PurN	PurN	Purine biosynthesis	25013077	1C2T
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_08790	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_08795	COG1861	M	Spore coat polysaccharide biosynthesis protein SpsF, cytidylyltransferase family	SpsF			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_08810	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_08815	COG1216	G	Glycosyltransferase, GT2 family	WcaE			2Z86
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_08820	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_08825	COG4122	J	tRNA 5-hydroxyU34 O-methylase TrmR/YrrM	TrmR	tRNA modification	29982645	1H1D
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_08830	COG0297	G	Glycogen synthase	GlgA			1RZU
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_08835	COG3774	M	Mannosyltransferase OCH1 or related enzyme	OCH1			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_08840	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_08860	COG3290	T	Sensor histidine kinase DipB regulating citrate/malate metabolism	CitA			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_08865	COG5002	T	Sensor histidine kinase WalK	WalK			4I5S
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_08875	COG4619	P	ABC-type iron transporter FetAB, ATPase component	FetA			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_08880	COG2831	U	Hemolysin activation/secretion protein	FhaC			2MHJ
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_08885	COG0225	O	Peptide methionine sulfoxide reductase MsrA	MsrA			1FF3
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_08890	COG0780	J	NADPH-dependent 7-cyano-7-deazaguanine reductase QueF, C-terminal domain, T-fold superfamily	QueFC	tRNA modification	14660578;17384645	3BP1
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_08925	COG5403	S	Uncharacterized conserved protein, DUF937 domain				
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_08930	COG0111	H	Phosphoglycerate dehydrogenase or related dehydrogenase	SerA	Serine biosynthesis		3OET
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_08935	COG0075	EF	Archaeal aspartate aminotransferase or a related aminotransferase, includes purine catabolism protein PucG	PucG	Serine biosynthesis		3NNK
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_08945	COG1143	C	Formate hydrogenlyase subunit 6/NADH:ubiquinone oxidoreductase 23 kD subunit (chain I)	NuoI	NADH dehydrogenase		1B0P
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_08955	COG1073	T	Fermentation-respiration switch esterase FrsA, DUF1100 family	FrsA			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_08960	COG1073	T	Fermentation-respiration switch esterase FrsA, DUF1100 family	FrsA			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_08970	COG1163	J	Ribosome-interacting GTPase RBG1	Rbg1			4A9A
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_08975	COG0671	I	Membrane-associated phospholipid phosphatase	PgpB	Phospholipid biosynthesis		1D2T
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_08980	COG1807	M	PMT family glycosyltransferase ArnT/Agl22, involved in glycosylation of proteins and lipid IVA	ArnT		16226890;31233657;32706435	5EZM
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_09000	COG0784	T	CheY-like REC (receiver) domain, includes chemotaxis protein CheY  and sporulation regulator Spo0F	CheY			6QRJ
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_09010	COG0861	P	Tellurite resistance membrane protein TerC	TerC			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_09025	COG2866	M	Murein tripeptide amidase MpaA	MpaA			1ARL
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_09030	COG1846	K	DNA-binding transcriptional regulator, MarR family	MarR			1JGS
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_09040	COG0047	F	Phosphoribosylformylglycinamidine (FGAM) synthase, glutamine amidotransferase domain	PurL2	Purine biosynthesis		1T3T
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_09060	COG4753	TK	Two-component response regulator, YesN/AraC family, consists of REC and AraC-type DNA-binding domains	YesN			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_09070	COG1063	ER	Threonine dehydrogenase or related Zn-dependent dehydrogenase	Tdh	Non-phosphorylated Entner-Doudoroff pathway		4A2C
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_09085	COG0703	E	Shikimate kinase	AroK	Aromatic amino acid biosynthesis		1E6C
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_09090	COG2204	T	DNA-binding transcriptional response regulator, NtrC family, contains REC, AAA-type ATPase, and a Fis-type DNA-binding domains	AtoC			1ZY2
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_09095	COG4341	R	Predicted HD phosphohydrolase				4MLN
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_09100	COG1043	M	Acyl-[acyl carrier protein]--UDP-N-acetylglucosamine O-acyltransferase	LpxA	Lipid A biosynthesis		1J2Z
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_09105	COG4706	I	Predicted 3-hydroxylacyl-ACP dehydratase, HotDog domain				
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_09110	COG1207	M	Bifunctional protein GlmU, N-acetylglucosamine-1-phosphate-uridyltransferase/glucosamine-1-phosphate-acetyltransferase	GlmU			3FWW
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_09115	COG0231	J	Translation elongation factor P (EF-P)/translation initiation factor 5A (eIF-5A)	Efp	Translation factors		1UEB
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_09120	COG2226	H	Ubiquinone/menaquinone biosynthesis C-methylase UbiE/MenG	UbiE	Biotin biosynthesis		4OBW
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_09125	COG1207	M	Bifunctional protein GlmU, N-acetylglucosamine-1-phosphate-uridyltransferase/glucosamine-1-phosphate-acetyltransferase	GlmU			3FWW
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_09135	COG1042	C	Acyl-CoA synthetase (NDP forming)	PatZN		26251518	4YAK
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_09140	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_09150	COG0330	O	Regulator of protease activity HflC, stomatin/prohibitin superfamily	HflC			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_09155	COG4145	H	Na+/panthothenate symporter	PanF			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_09165	COG2885	M	Outer membrane protein OmpA and related peptidoglycan-associated (lipo)proteins	OmpA			1OAP
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_09170	COG0040	E	ATP phosphoribosyltransferase	HisG	Histidine biosynthesis		1H3D
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_09175	COG0141	E	Histidinol dehydrogenase	HisD	Histidine biosynthesis		1K75
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_09180	COG1167	KE	DNA-binding transcriptional regulator, MocR family, contains an aminotransferase domain	ARO8	Lysine biosynthesis		2R2N
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_09185	COG0131	E	Imidazoleglycerol phosphate dehydratase HisB	HisB2	Histidine biosynthesis		1RHY
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_09190	COG0518	F	GMP synthase, glutamine amidotransferase domain	GuaA1	Purine biosynthesis		4WIM
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_09195	COG0107	E	Imidazole glycerol phosphate synthase subunit HisF	HisF	Histidine biosynthesis		1OX4
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_09200	COG0106	E	Phosphoribosylformimino-5-aminoimidazole carboxamide ribonucleotide (ProFAR) isomerase	HisA	Histidine biosynthesis		4U28
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_09205	COG0139	E	Phosphoribosyl-AMP cyclohydrolase	HisI1	Histidine biosynthesis		1ZPS
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_09210	COG0598	P	Mg2+ and Co2+ transporter CorA	CorA			2BBH
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_09215	COG1620	C	L-lactate permease	LldP			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_09220	COG5587	S	Uncharacterized protein, contains DUF2461 domain				
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_09240	COG1012	I	Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase	AdhE	Proline degradation		1A4S
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_09245	COG4447	R	Uncharacterized conserved protein related to plant photosystem II stability/assembly factor				2XBG
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_09260	COG3568	R	Metal-dependent hydrolase, endonuclease/exonuclease/phosphatase family	ElsH		15178340	
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_09265	COG0668	M	Small-conductance mechanosensitive channel	MscS			2OAU
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_09275	COG0668	M	Small-conductance mechanosensitive channel	MscS			2OAU
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_09280	COG5010	UW	Flp pilus assembly protein TadD, contains TPR repeats	TadD			3WXX
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_09310	COG0514	L	Superfamily II DNA helicase RecQ	RecQ			1OYW
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_09330	COG0189	EHJQ	Glutathione synthase, LysX or RimK-type ligase, ATP-grasp superfamily	LysX	Lysine biosynthesis		1GLV
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_09340	COG0512	EH	Anthranilate/para-aminobenzoate synthase component II (glutamine amidotransferase)	PabA	Aromatic amino acid biosynthesis		1I1Q
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_09345	COG3858	D	Spore cortex hydrolase SleL/YaaH, N-acetylglucosaminidase of GH18 family	SleL			4S3J
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_09360	COG3530	S	Uncharacterized conserved protein, DUF3820 family				
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_09365	COG0504	F	CTP synthase (UTP-ammonia lyase)	PyrG	Pyrimidine biosynthesis		1S1M
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_09370	COG0706	M	Membrane protein insertase Oxa1/YidC/SpoIIIJ	YidC			3WO6
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_09380	COG0603	J	7-cyano-7-deazaguanine synthase (queuosine biosynthesis)	QueC	tRNA modification	14660578;17384645	2PG3
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_09385	COG1404	O	Serine protease, subtilisin family	AprE			1SCJ
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_09390	COG1304	CIR	FMN-dependent dehydrogenase, includes L-lactate dehydrogenase and type II isopentenyl diphosphate isomerase	LldD	Isoprenoid biosynthesis		6AI7
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_09395	COG0019	E	Diaminopimelate decarboxylase	LysA	Lysine biosynthesis		1D7K
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_09400	COG0045	C	Succinyl-CoA synthetase, beta subunit	SucC	TCA cycle		1SCU
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_09415	COG4325	S	Uncharacterized membrane protein				
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_09425	COG1026	O	Zn-dependent peptidase, M16 (insulinase) family	Cym1			2FGE
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_09430	COG1914	P	Mn2+ or Fe2+ transporter, NRAMP family	MntH			5KTE
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_09440	COG2049	E	5-oxoprolinase subunit B/Allophanate hydrolase subunit 1	PxpB		28830929	2KWA
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_09445	COG1984	E	5-oxoprolinase subunit C/Allophanate hydrolase subunit 2	PxpC		28830929	3MML
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_09460	COG3850	T	Signal transduction histidine kinase NarQ, nitrate/nitrite-specific	NarQ			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_09465	COG4565	KT	DNA-binding response regulator DpiB of citrate/malate metabolism	CitB			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_09470	COG1187	J	Pseudouridylate synthase RsuA, specific for 16S rRNA U516  and 23S rRNA U2605	RsuA	16S rRNA modification		1KSK
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_09475	COG0413	H	Ketopantoate hydroxymethyltransferase	PanB	Pantothenate/CoA biosynthesis		3VAV
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_09485	COG1760	E	L-serine deaminase	SdaA			4RQO
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_09500	COG2176	L	DNA polymerase III, alpha subunit (gram-positive type)	PolC			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_09505	COG0443	O	Molecular chaperone DnaK (HSP70)	DnaK			3I33
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_09520	COG3832	I	Chalcone/flavanone-binding protein YndB, AHSA1/START/SRPBCC domain	YndB		20818668	2KTE
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_09530	COG0412	Q	Dienelactone hydrolase	DLH			4ZV9
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_09540	COG0793	O	C-terminal processing protease CtpA/Prc, contains a PDZ domain	CtpA			6IQU
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_09555	COG4276	R	Ligand-binding SRPBCC domain	SRPBCC			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_09575	COG0778	C	Nitroreductase	NfnB	Pyrimidine degradation		1F5V
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_09580	COG2814	G	Predicted arabinose efflux permease AraJ, MFS family	AraJ			4LDS
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_09585	COG0861	P	Tellurite resistance membrane protein TerC	TerC			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_09605	COG2520	J	tRNA G37 N-methylase Trm5	Trm5	tRNA modification		2YX1
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_09610	COG0236	I	Acyl carrier protein	AcpP	Fatty acid biosynthesis		1ACP
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_09615	COG0304	IQ	3-oxoacyl-(acyl-carrier-protein) synthase	FabB	Fatty acid biosynthesis	21652641	2UV8
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_09625	COG0663	R	Carbonic anhydrase or acetyltransferase, isoleucine patch superfamily	PaaY			6IVE
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_09630	COG0254	J	Ribosomal protein L31	RpmE	Ribosome 50S subunit		1VS6
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_09635	COG1889	J	Fibrillarin-like rRNA 2'-O-methylase NOP1	NOP1			1NT2
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_09640	COG1215	N	Glycosyltransferase, catalytic subunit of cellulose synthase and poly-beta-1,6-N-acetylglucosamine synthase	BcsA			4HG6
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_09645	COG1109	G	Phosphomannomutase	ManB			6MNV
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_09650	COG1129	G	ABC-type sugar transport system, ATPase component	MglA			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_09670	COG4447	R	Uncharacterized conserved protein related to plant photosystem II stability/assembly factor				2XBG
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_09675	COG2265	J	tRNA/tmRNA/rRNA uracil-C5-methylase, TrmA/RlmC/RlmD family	TrmA	tRNA modification		1UWV
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_09680	COG2356	L	Endonuclease I	EndA			1OUO
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_09695	COG2144	R	Selenophosphate synthetase-related protein				
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_09700	COG2866	M	Murein tripeptide amidase MpaA	MpaA			1ARL
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_09705	COG1022	I	Long-chain acyl-CoA synthetase (AMP-forming)	FAA1			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_09710	COG1846	K	DNA-binding transcriptional regulator, MarR family	MarR			1JGS
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_09715	COG1024	I	Enoyl-CoA hydratase/carnithine racemase	CaiD	Fatty acid biosynthesis		1DCI
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_09720	COG0304	IQ	3-oxoacyl-(acyl-carrier-protein) synthase	FabB	Fatty acid biosynthesis	21652641	2UV8
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_09735	COG4538	S	Uncharacterized conserved protein, contains SnoaL-like domain	SnoaL			2K54
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_09740	COG2234	OE	Zn-dependent amino- or carboxypeptidase, M28 family	Iap			1AMP
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_09760	COG0061	H	NAD kinase	NadK			1SUW
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_09765	COG0823	U	Periplasmic component TolB of the Tol biopolymer transport system	TolB			1C5K
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_09770	COG2335	R	Uncaracterized surface protein containing fasciclin (FAS1) repeats	FAS1			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_09780	COG0730	P	Sulfite exporter TauE/SafE/YfcA and related permeases, UPF0721 family	TauE		21183667;22797525	
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_09790	COG1240	H	vWFA (von Willebrand factor type A) domain of Mg and Co chelatases	ChlD			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_09795	COG4447	R	Uncharacterized conserved protein related to plant photosystem II stability/assembly factor				2XBG
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_09800	COG1505	E	Prolyl endopeptidase PreP, S9A serine peptidase family	PreP			1E5T
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_09810	COG1765	R	Uncharacterized OsmC-related protein	YhfA			1LQL
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_09815	COG4430	S	Uncharacterized conserved protein YdeI, YjbR/CyaY-like superfamily, DUF1801 family	YdeI			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_09830	COG1595	K	DNA-directed RNA polymerase specialized sigma subunit, sigma24 family	RpoE	RNA polymerase		2Q1Z
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_09835	COG5343	T	Anti-sigma-K factor RskA	RskA		16011798;15972856	
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_09840	COG0457	R	Tetratricopeptide (TPR) repeat	TPR			3AS4
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_09860	COG3947	TK	Two-component response regulator, SAPR family, consists of REC, wHTH and BTAD domains	SAPR			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_09880	COG2972	T	Sensor histidine kinase YesM	YesM			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_09890	COG4704	S	Uncharacterized conserved protein, DUF2141 family				
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_09895	COG2831	U	Hemolysin activation/secretion protein	FhaC			2MHJ
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_09900	COG5646	OP	Iron-binding protein Fra/YdhG, frataxin family (Fe-S cluster biosynthesis)	Fra			2OC6
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_09905	COG2114	T	Adenylate cyclase, class 3	AcyC			1AB8
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_09915	COG1249	C	Dihydrolipoamide dehydrogenase (E3) component of pyruvate/2-oxoglutarate dehydrogenase complex or glutathione oxidoreductase	Lpd	Glycine cleavagePyruvate oxidation		6QKG
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_09930	COG0204	I	1-acyl-sn-glycerol-3-phosphate acyltransferase	PlsC	Phospholipid biosynthesis		1IUQ
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_09935	COG0494	V	8-oxo-dGTP pyrophosphatase MutT and related house-cleaning NTP pyrophosphohydrolases, NUDIX family	MutT			4V14
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_09940	COG0652	O	Peptidyl-prolyl cis-trans isomerase (rotamase) - cyclophilin family	PpiB			4DGD
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_09945	COG2860	S	Uncharacterized membrane protein YeiH	YadS			5WUC
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_09950	COG1714	S	Uncharacterized membrane protein YckC, RDD family	YckC			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_09955	COG1300	D	Stage II sporulation protein SpoIIM, component of the engulfment complex	SpoIIM			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_09975	COG1239	H	Mg-chelatase subunit ChlI	ChlI			1G8P
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_09980	COG1721	S	Uncharacterized conserved protein, DUF58 family, contains vWF domain	YeaD2			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_09985	COG4704	S	Uncharacterized conserved protein, DUF2141 family				
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_09990	COG1846	K	DNA-binding transcriptional regulator, MarR family	MarR			1JGS
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_10000	COG2013	C	AIM24 protein, required for mitochondrial respiration	AIM24		24928273;24714493	1YOX
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_10010	COG3296	R	Uncharacterized Tic20-related protein, DUF4870 domain	Tic20a		9817756;20100520	
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_10020	COG1695	K	DNA-binding transcriptional regulator, PadR family	PadR		19096365	1XMA
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_10025	COG1983	KT	Phage shock protein PspC (stress-responsive transcriptional regulator)	PspC			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_10045	COG1249	C	Dihydrolipoamide dehydrogenase (E3) component of pyruvate/2-oxoglutarate dehydrogenase complex or glutathione oxidoreductase	Lpd	Glycine cleavagePyruvate oxidation		6QKG
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_10050	COG2020	O	Protein-S-isoprenylcysteine O-methyltransferase Ste14	STE14			5V7P
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_10055	COG1243	J	tRNA U34 5-carboxymethylaminomethylation enzyme Elp3 (RNA elongator complex protein 3), contains radical SAM and acetyltransferase domains	ELP3		25151136;27455459	6IA8
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_10075	COG5456	P	Nitrogen fixation protein FixH	FixH			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_10080	COG2221	P	Dissimilatory sulfite reductase (desulfoviridin), alpha and beta subunits	DsrA			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_10085	COG2010	C	Cytochrome c, mono- and diheme variants	CccA			1A2S
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_10095	COG3256	P	Nitric oxide reductase large subunit	NorB			3WFC
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_10105	COG4087	R	Soluble P-type ATPase				
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_10115	COG3945	R	Hemerythrin domain				
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_10130	COG0029	H	Aspartate oxidase	NadB	NAD biosynthesis		1KNP
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_10135	COG0379	H	Quinolinate synthase	NadA	NAD biosynthesis	24498065	4HHE
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_10140	COG3278	C	Cbb3-type cytochrome oxidase, subunit 1	CcoN			3MK7
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_10150	COG1042	C	Acyl-CoA synthetase (NDP forming)	PatZN		26251518	4YAK
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_10160	COG1845	C	Heme/copper-type cytochrome/quinol oxidase, subunit 3	CyoC			1QLE
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_10170	COG5271	J	Midasin, AAA ATPase with  vWA domain, involved in ribosome maturation	MDN1			6HYP
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_10175	COG0843	C	Heme/copper-type cytochrome/quinol oxidase, subunit 1	CyoB			1AR1
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_10185	COG1110	L	Reverse gyrase	TopG2			1GKU
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_10190	COG1180	O	Pyruvate-formate lyase-activating enzyme	PflA			3CAN
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_10195	COG2057	I	Acyl-CoA:acetate/3-ketoacid CoA transferase, beta subunit	AtoA			5DBN
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_10205	COG4608	E	ABC-type oligopeptide transport system, ATPase component	AppF			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_10215	COG4314	P	Nitrous oxide reductase accessory protein NosL	NosL			2HPU
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_10225	COG1622	C	Heme/copper-type cytochrome/quinol oxidase, subunit 2	CyoA			1CYW
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_10230	COG2335	R	Uncaracterized surface protein containing fasciclin (FAS1) repeats	FAS1			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_10235	COG2010	C	Cytochrome c, mono- and diheme variants	CccA			1A2S
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_10240	COG1959	K	DNA-binding transcriptional regulator, IscR family	IscR			1XD7
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_10245	COG0589	T	Nucleotide-binding universal stress protein,  UspA family	UspA			1JMV
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_10255	COG0595	J	mRNA degradation ribonuclease J1/J2	RnjA			3T3N
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_10260	COG1327	K	Transcriptional regulator NrdR, contains Zn-ribbon and ATP-cone domains	NrdR			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_10265	COG0589	T	Nucleotide-binding universal stress protein,  UspA family	UspA			1JMV
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_10280	COG0841	V	Multidrug efflux pump subunit AcrB	AcrB			1IWG
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_10285	COG1566	V	Multidrug resistance efflux pump EmrA	EmrA			4TKO
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_10290	COG1538	M	Outer membrane protein TolC	TolC			1EK9
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_10295	COG0491	R	Glyoxylase or a related metal-dependent hydrolase, beta-lactamase superfamily II	GloB		25670698	1QH3
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_10300	COG0589	T	Nucleotide-binding universal stress protein,  UspA family	UspA			1JMV
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_10305	COG0589	T	Nucleotide-binding universal stress protein,  UspA family	UspA			1JMV
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_10315	COG0589	T	Nucleotide-binding universal stress protein,  UspA family	UspA			1JMV
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_10320	COG2197	TK	DNA-binding response regulator, NarL/FixJ family, contains REC and HTH domains	CitB			1A04
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_10325	COG4191	T	Signal transduction histidine kinase regulating C4-dicarboxylate transport system				4GCZ
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_10340	COG3118	O	Chaperedoxin CnoX, contains thioredoxin-like and TPR-like domains, YbbN/TrxSC family	CnoX		21498507;29754824	3QDN
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_10345	COG0167	F	Dihydroorotate dehydrogenase	PyrD	Pyrimidine biosynthesis		1GT8
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_10350	COG0813	F	Purine-nucleoside phosphorylase	DeoD	Purine salvage		1A69
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_10365	COG0328	L	Ribonuclease HI	RnhA			1LAW
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_10375	COG1041	J	tRNA G10 N-methylase Trm11	Trm11	tRNA modification		5E71
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_10380	COG1479	V	DNAse/DNA nickase specific for phosphorothioated or glycosylated phage DNA, GmrSD/DndB/SspE family, contains DUF262 and HNH nuclease domains	GmrSD		17188297;32251370	6JIV
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_10385	COG1041	J	tRNA G10 N-methylase Trm11	Trm11	tRNA modification		5E71
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_10390	COG0732	V	Restriction endonuclease S subunit	HsdS			1YDX
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_10405	COG1061	KL	Superfamily II DNA or RNA helicase	SSL2			6JDE
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_10455	COG3593	L	Predicted ATP-dependent endonuclease of the OLD family, contains P-loop ATPase and TOPRIM domains	YbjD			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_10460	COG3103	R	Uncharacterized conserved protein YgiM, contains N-terminal SH3 domain, DUF1202 family	YgiM			2KQ8
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_10500	COG0204	I	1-acyl-sn-glycerol-3-phosphate acyltransferase	PlsC	Phospholipid biosynthesis		1IUQ
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_10505	COG2100	R	Uncharacterized Fe-S cluster-containing enzyme, radical SAM superfamily				
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_10510	COG0616	O	Periplasmic serine protease, ClpP class	SppA			3BEZ
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_10515	COG2205	T	K+-sensing histidine kinase KdpD	KdpD			2KSF
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_10525	COG4447	R	Uncharacterized conserved protein related to plant photosystem II stability/assembly factor				2XBG
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_10530	COG0534	V	Na+-driven multidrug efflux pump, DinF/NorM/MATE family	NorM		29915058	3VVN
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_10535	COG0276	H	Protoheme ferro-lyase (ferrochelatase)	HemH	Heme biosynthesis		1AK1
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_10540	COG2207	K	AraC-type DNA-binding domain and AraC-containing proteins	AraC			1BL0
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_10550	COG0403	E	Glycine cleavage system protein P (pyridoxal-binding), N-terminal domain	GcvP1	Glycine cleavage		4LGL
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_10565	COG1595	K	DNA-directed RNA polymerase specialized sigma subunit, sigma24 family	RpoE	RNA polymerase		2Q1Z
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_10570	COG0339	O	Zn-dependent oligopeptidase, M3 family	Dcp		25239919;31422053	5L43
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_10575	COG1691	F	NCAIR mutase (PurE)-related protein				
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_10580	COG0458	EF	Carbamoylphosphate synthase large subunit	CarB	Arginine biosynthesis		1C30
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_10585	COG1102	F	Cytidylate kinase	CmkB			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_10590	COG0012	J	Ribosome-binding ATPase YchF, GTP1/OBG family	GTP1		21527254	2DWQ
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_10605	COG0769	M	UDP-N-acetylmuramyl tripeptide synthase	MurE	Mureine biosynthesis		1E8C
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_10625	COG2003	L	DNA repair protein RadC, contains a helix-hairpin-helix DNA-binding motif	RadC		9695921	2QLC
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_10635	COG0546	C	Phosphoglycolate phosphatase, HAD superfamily	Gph			2NYV
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_10655	COG2812	L	DNA polymerase III, gamma/tau subunits	DnaX			1A5T
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_10660	COG0705	O	Membrane-associated serine protease, rhomboid family	GlpG			2IC8
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_10665	COG0219	J	tRNA(Leu) C34 or U34 (ribose-2'-O)-methylase TrmL, contains SPOUT domain	TrmL	tRNA modification		4JAK
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_10680	COG4206	H	Outer membrane cobalamin receptor protein BtuB	BtuB			1NQE
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_10705	COG4775	M	Outer membrane protein assembly factor BamA	BamA			5EKQ
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_10710	COG0048	J	Ribosomal protein S12	RpsL	Ribosome 30S subunit		4V4H
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_10715	COG0049	J	Ribosomal protein S7	RpsG	Ribosome 30S subunit		4V4H
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_10720	COG0480	J	Translation elongation factor EF-G, a GTPase	FusA	Translation factors		1DAR
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_10725	COG0051	J	Ribosomal protein S10	RpsJ	Ribosome 30S subunit		4V4H
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_10730	COG0087	J	Ribosomal protein L3	RplC	Ribosome 50S subunit		1VS6
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_10735	COG0088	J	Ribosomal protein L4	RplD	Ribosome 50S subunit		1VS6
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_10740	COG0089	J	Ribosomal protein L23	RplW	Ribosome 50S subunit		1VS6
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_10745	COG0090	J	Ribosomal protein L2	RplB	Ribosome 50S subunit		1VS6
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_10750	COG0185	J	Ribosomal protein S19	RpsS	Ribosome 30S subunit		4V4H
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_10760	COG0092	J	Ribosomal protein S3	RpsC	Ribosome 30S subunit		1VS6
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_10765	COG0197	J	Ribosomal protein L16/L10AE	RplP	Ribosome 50S subunit		1WKI
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_10770	COG0255	J	Ribosomal protein L29	RpmC	Ribosome 50S subunit		1VS6
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_10775	COG0186	J	Ribosomal protein S17	RpsQ	Ribosome 30S subunit		4V4H
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_10780	COG0093	J	Ribosomal protein L14	RplN	Ribosome 50S subunit		4V4H
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_10790	COG0094	J	Ribosomal protein L5	RplE	Ribosome 50S subunit		1VS6
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_10795	COG0199	J	Ribosomal protein S14	RpsN	Ribosome 30S subunit		4V4H
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_10800	COG0096	J	Ribosomal protein S8	RpsH	Ribosome 30S subunit		4V4H
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_10805	COG0097	J	Ribosomal protein L6P/L9E	RplF	Ribosome 50S subunit		1VS6
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_10815	COG0098	J	Ribosomal protein S5	RpsE	Ribosome 30S subunit		4V4H
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_10820	COG1841	J	Ribosomal protein L30/L7E	RpmD	Ribosome 50S subunit		1VS6
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_10825	COG0200	J	Ribosomal protein L15	RplO	Ribosome 50S subunit		1VS6
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_10835	COG3852	T	Signal transduction histidine kinase NtrB, nitrogen specific	NtrB		23893111	
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_10840	COG2204	T	DNA-binding transcriptional response regulator, NtrC family, contains REC, AAA-type ATPase, and a Fis-type DNA-binding domains	AtoC			1ZY2
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_10845	COG4753	TK	Two-component response regulator, YesN/AraC family, consists of REC and AraC-type DNA-binding domains	YesN			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_10895	COG0454	KR	N-acetyltransferase, GNAT superfamily (includes histone acetyltransferase HPA2)	PhnO			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_10900	COG0526	O	Thiol-disulfide isomerase or thioredoxin	TrxA			1XFL
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_10905	COG1049	C	Aconitase B	AcnB	TCA cycle		1L5J
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_10915	COG1239	H	Mg-chelatase subunit ChlI	ChlI			1G8P
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_10920	COG0760	O	Peptidyl-prolyl isomerase, parvulin family	SurA			2ZR5
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_10930	COG0760	O	Peptidyl-prolyl isomerase, parvulin family	SurA			2ZR5
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_10935	COG3427	C	Carbon monoxide dehydrogenase subunit CoxG	CoxG			2NS9
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_10945	COG2318	Q	Bacillithiol/mycothiol S-transferase BstA/DinB, DinB/YfiT family (unrelated to E. coli DinB)	DinB		22059487;24821014	2QE9
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_10965	COG2905	T	Signal-transduction protein containing cAMP-binding, CBS, and nucleotidyltransferase domains				
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_11045	COG0860	M	N-acetylmuramoyl-L-alanine amidase	AmiC			1JWQ
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_11065	COG0749	L	DNA polymerase I, 3'-5' exonuclease and polymerase domains	PolA			1D8Y
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_11115	COG1118	P	ABC-type sulfate/molybdate transport systems, ATPase component	CysA			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_11120	COG4447	R	Uncharacterized conserved protein related to plant photosystem II stability/assembly factor				2XBG
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_11125	COG0823	U	Periplasmic component TolB of the Tol biopolymer transport system	TolB			1C5K
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_11135	COG2220	G	L-ascorbate lactonase UlaG, metallo-beta-lactamase superfamily	UlaG			2WYM
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_11140	COG1246	E	N-acetylglutamate synthase or related acetyltransferase, GNAT family	ArgA	Arginine biosynthesis		2R98
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_11145	COG0010	E	Arginase/agmatinase family enzyme	SpeB	Urea cycle		1CEV
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_11150	COG0402	FR	Cytosine/adenosine deaminase or related metal-dependent hydrolase	SsnA	Pyrimidine salvage		3O7U
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_11155	COG0436	E	Aspartate/methionine/tyrosine aminotransferase	AspB	Isoleucine, leucine, valine biosynthesis		2O0R
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_11170	COG2234	OE	Zn-dependent amino- or carboxypeptidase, M28 family	Iap			1AMP
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_11180	COG0491	R	Glyoxylase or a related metal-dependent hydrolase, beta-lactamase superfamily II	GloB		25670698	1QH3
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_11205	COG1538	M	Outer membrane protein TolC	TolC			1EK9
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_11210	COG1566	V	Multidrug resistance efflux pump EmrA	EmrA			4TKO
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_11215	COG2884	D	Cell division ATPase FtsE	FtsE			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_11220	COG1309	K	DNA-binding protein, AcrR family, includes nucleoid occlusion protein SlmA	AcrR			2QOP
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_11260	COG3063	NW	Type IV pilus assembly protein PilF/PilW	PilF		16403447	2VQ2
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_11270	COG2226	H	Ubiquinone/menaquinone biosynthesis C-methylase UbiE/MenG	UbiE	Biotin biosynthesis		4OBW
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_11290	COG3137	M	Putative salt-induced outer membrane protein YdiY	YdiY			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_11295	COG0599	R	Uncharacterized conserved protein YurZ, alkylhydroperoxidase/carboxymuconolactone decarboxylase family	YurZ			3BEY
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_11300	COG0535	DH	Radical SAM superfamily maturase, SkfB/NifB/PqqE family	SkfB		23282011	6Q2P
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_11305	COG0607	P	Rhodanese-related sulfurtransferase	PspE	Urea cycle		1TQ1
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_11315	COG1363	EG	Putative aminopeptidase FrvX	FrvX			1VHE
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_11320	COG2226	H	Ubiquinone/menaquinone biosynthesis C-methylase UbiE/MenG	UbiE	Biotin biosynthesis		4OBW
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_11325	COG0306	P	Phosphate/sulfate permease	PitA		31358606	
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_11340	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_11360	COG2072	P	Predicted flavoprotein CzcO associated with the cation diffusion facilitator CzcD	CzcO			4USQ
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_11365	COG0348	C	Polyferredoxin NapH	NapH		27322068	
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_11370	COG0823	U	Periplasmic component TolB of the Tol biopolymer transport system	TolB			1C5K
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_11375	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_11380	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_11385	COG0265	O	Periplasmic serine protease, S1-C subfamily, contain C-terminal PDZ domain	DegQ		29686141	2HGA
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_11390	COG0823	U	Periplasmic component TolB of the Tol biopolymer transport system	TolB			1C5K
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_11400	COG3565	R	Predicted dioxygenase of extradiol dioxygenase family				
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_11410	COG0815	M	Apolipoprotein N-acyltransferase	Lnt			6NWR
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_11420	COG0010	E	Arginase/agmatinase family enzyme	SpeB	Urea cycle		1CEV
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_11430	COG0564	J	Pseudouridine synthase RluA, 23S rRNA- or tRNA-specific	RluA	23S rRNA modification		2I82
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_11445	COG1577	I	Mevalonate kinase	ERG12	Isoprenoid biosynthesis		
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_11465	COG3797	S	Uncharacterized conserved protein, DUF1697 family				2HIY
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_11490	COG4249	R	Uncharacterized conserved protein, contains caspase domain				3UO8
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_11510	COG1012	I	Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase	AdhE	Proline degradation		1A4S
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_11515	COG1902	C	2,4-dienoyl-CoA reductase or related NADH-dependent reductase, Old Yellow Enzyme (OYE) family	FadH			1BWK
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_11520	COG0665	E	Glycine/D-amino acid oxidase (deaminating)	DadA			3AWI
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_11535	COG0739	M	Murein DD-endopeptidase MepM and murein hydrolase activator NlpD, contains LysM domain	NlpD			2GU1
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_11540	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_11545	COG4219	T	Signal transducer regulating beta-lactamase production, contains metallopeptidase domain	MecR1			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_11550	COG3682	K	Transcriptional regulator, CopY/TcrY family	CopY			1OKR
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_11555	COG2824	R	Uncharacterized Zn-ribbon-containing protein	PhnA			2AKK
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_11570	COG1884	I	Methylmalonyl-CoA mutase, N-terminal domain/subunit	Sbm			6OXC
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_11590	COG0614	P	ABC-type Fe3+-hydroxamate transport system, periplasmic component	FepB			1ESZ
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_11600	COG0216	J	Protein chain release factor RF1	PrfA	Translation factors		1RQ0
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_11650	COG0174	E	Glutamine synthetase	GlnA	Glutamine biosynthesis		1F1H
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_11655	COG0387	P	Cation (Ca2+/Na+/K+)/H+ antiporter ChaA	ChaA		18801996	4KJS
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_11660	COG3682	K	Transcriptional regulator, CopY/TcrY family	CopY			1OKR
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_11665	COG1842	KT	Phage shock protein A	PspA			4WHE
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_11675	COG0856	F	Orotate phosphoribosyltransferase homolog	PyrE2			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_11690	COG2127	O	ATP-dependent Clp protease adapter protein ClpS	ClpS			1LZW
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_11695	COG2813	J	16S rRNA G1207 methylase RsmC	RsmC	16S rRNA modification		1DUS
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_11700	COG0149	G	Triosephosphate isomerase	TpiA	Glycolysis		1HG3
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_11705	COG1173	EP	ABC-type dipeptide/oligopeptide/nickel transport system, permease component	DppC			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_11710	COG2259	S	Uncharacterized membrane protein YphA, DoxX/SURF4 family	DoxX			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_11725	COG1624	T	c-di-AMP synthetase, contains DisA_N domain	DisA			2FB5
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_11730	COG1511	S	Uncharacterized membrane protein YhgE, phage infection protein (PIP) family	YhgE			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_11735	COG4555	CP	ABC-type Na+ transport system, ATPase component NatA	NatA			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_11740	COG0101	J	tRNA U38,U39,U40 pseudouridine synthase TruA	TruA	tRNA modification		1DJ0
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_11745	COG0622	R	Predicted phosphodiesterase, calcineurin family	YfcE		17586769	1SU1
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_11755	COG1158	K	Transcription termination factor Rho	Rho			1PVO
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_11770	COG0494	V	8-oxo-dGTP pyrophosphatase MutT and related house-cleaning NTP pyrophosphohydrolases, NUDIX family	MutT			4V14
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_11775	COG0856	F	Orotate phosphoribosyltransferase homolog	PyrE2			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_11785	COG0340	H	Biotin-(acetyl-CoA carboxylase) ligase	BirA2	Biotin biosynthesis	32188788	1BIA
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_11790	COG0799	J	Ribosomal silencing factor RsfS, regulates association of 30S and 50S subunits	RsfS			6SJ6
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_11795	COG0465	O	ATP-dependent Zn proteases	HflB			1LV7
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_11815	COG4281	I	Acyl-CoA-binding protein	ACB			1ACA
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_11820	COG0143	J	Methionyl-tRNA synthetase	MetG	Aminoacyl-tRNA synthetases		1A8H
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_11830	COG0498	E	Threonine synthase	ThrC	Threonine biosynthesis		1VB3
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_11840	COG0685	E	5,10-methylenetetrahydrofolate reductase	MetF			1B5T
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_11845	COG2185	I	Methylmalonyl-CoA mutase, C-terminal domain/subunit (cobalamin-binding)	Sbm			1B1A
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_11850	COG0646	E	Methionine synthase I (cobalamin-dependent), methyltransferase domain	MetH1	Methionine biosynthesis		1LT7
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_11875	COG1562	I	Phytoene/squalene synthetase	ERG9			3WEK
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_11880	COG1232	H	Protoporphyrinogen oxidase HemY/PPOX	HemY	Heme biosynthesis		3LOV
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_11885	COG0789	K	DNA-binding transcriptional regulator, MerR family	SoxR			2VZ4
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_11890	COG0474	P	Magnesium-transporting ATPase (P-type)	MgtA			1IWO
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_11905	COG3265	G	Gluconate kinase	GntK	Non-phosphorylated Entner-Doudoroff pathway		1KO4
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_11910	COG2065	F	Pyrimidine operon attenuation protein PyrR/uracil phosphoribosyltransferase	PyrR	Pyrimidine salvage		1A3C
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_11915	COG1188	J	Ribosomal 50S subunit-recycling heat shock protein, contains S4 domain	HslR			3BBU
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_11920	COG4932	M	Clumping factor A-related surface protein, MSCRAMM (microbial surface components recognizing adhesive matrix molecules) family, DEv-IgG fold	ClfA		12485987	1N67
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_11925	COG2609	C	Pyruvate dehydrogenase complex, dehydrogenase (E1) component	AceE	Pyruvate oxidation		1L8A
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_11930	COG2609	C	Pyruvate dehydrogenase complex, dehydrogenase (E1) component	AceE	Pyruvate oxidation		1L8A
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_11935	COG0343	J	Queuine/archaeosine tRNA-ribosyltransferase	Tgt	tRNA modification	15805528	1XW8
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_11940	COG0795	MN	Lipopolysaccharide export LptBFGC system, permease protein LptF	LptF			6S8H
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_11945	COG0697	GER	Permease of the drug/metabolite transporter (DMT) superfamily	RhaT			5I20
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_11950	COG4799	I	Acetyl-CoA carboxylase, carboxyltransferase component	MmdA			1OD2
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_11955	COG0305	L	Replicative DNA helicase	DnaB			1B79
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_11965	COG1360	N	Flagellar motor protein MotB	MotB			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_11970	COG0292	J	Ribosomal protein L20	RplT	Ribosome 50S subunit	30270044	1VS6
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_11975	COG0291	J	Ribosomal protein L35	RpmI	Ribosome 50S subunit	28373563	1VS6
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_11985	COG0442	J	Prolyl-tRNA synthetase	ProS	Aminoacyl-tRNA synthetases		5XIF
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_12010	COG0520	E	Selenocysteine lyase/Cysteine desulfurase	CsdA			4LW2
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_12015	COG0446	I	NADPH-dependent 2,4-dienoyl-CoA reductase, sulfur reductase, or a related oxidoreductase	FadH2			1VRQ
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_12035	COG1595	K	DNA-directed RNA polymerase specialized sigma subunit, sigma24 family	RpoE	RNA polymerase		2Q1Z
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_12045	COG3797	S	Uncharacterized conserved protein, DUF1697 family				2HIY
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_12050	COG0201	U	Preprotein translocase subunit SecY	SecY			1RH5
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_12065	COG0100	J	Ribosomal protein S11	RpsK	Ribosome 30S subunit		4V4H
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_12070	COG1189	J	Predicted rRNA methylase YqxC, contains S4 and FtsJ domains	YqxC			3OPN
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_12075	COG0202	K	DNA-directed RNA polymerase, alpha subunit/40 kD subunit	RpoA	RNA polymerase		4KN7
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_12080	COG0203	J	Ribosomal protein L17	RplQ	Ribosome 50S subunit		1GD8
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_12085	COG0512	EH	Anthranilate/para-aminobenzoate synthase component II (glutamine amidotransferase)	PabA	Aromatic amino acid biosynthesis		1I1Q
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_12090	COG0148	G	Enolase	Eno	Glycolysis		1E9I
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_12095	COG0372	C	Citrate synthase	GltA	TCA cycle	25211225	3TQG
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_12100	COG2235	E	Arginine deiminase	ArcA			2A9G
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_12110	COG1834	E	N-Dimethylarginine dimethylaminohydrolase	DdaH			6LRH
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_12115	COG0451	M	Nucleoside-diphosphate-sugar epimerase	WcaG			2X4G
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_12140	COG4753	TK	Two-component response regulator, YesN/AraC family, consists of REC and AraC-type DNA-binding domains	YesN			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_12145	COG3851	T	Signal transduction histidine kinase UhpB, glucose-6-phosphate specific	UhpB			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_12170	COG3712	PT	Periplasmic ferric-dicitrate binding protein FecR, regulates iron transport	FecR			5CAM
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_12195	COG2234	OE	Zn-dependent amino- or carboxypeptidase, M28 family	Iap			1AMP
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_12200	COG0288	P	Carbonic anhydrase	CynT		22081392	1EKJ
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_12210	COG0514	L	Superfamily II DNA helicase RecQ	RecQ			1OYW
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_12220	COG1419	N	Flagellar biosynthesis GTPase FlhF	FlhF			3SYN
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_12225	COG0190	H	5,10-methylene-tetrahydrofolate dehydrogenase/Methenyl tetrahydrofolate cyclohydrolase	FolD			1A4I
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_12230	COG3339	S	Uncharacterized membrane protein YkvA, DUF1232 family	YkvA			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_12240	COG0346	Q	Catechol 2,3-dioxygenase or related enzyme, vicinal oxygen chelate (VOC) family	GloA		11830595	3R4Q
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_12265	COG0433	L	Archaeal DNA helicase HerA or a related bacterial ATPase, contains HAS-barrel and ATPase domains	HerA			4D2I
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_12285	COG1180	O	Pyruvate-formate lyase-activating enzyme	PflA			3CAN
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_12300	COG1486	G	Alpha-galactosidase/6-phospho-beta-glucosidase, family 4 of glycosyl hydrolase	CelF			1OBB
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_12310	COG1629	P	Outer membrane receptor protein, Fe transport	CirA			1BY3
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_12320	COG0342	U	Preprotein translocase subunit SecD	SecD		26100040	3AQP
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_12325	COG1430	S	Uncharacterized conserved membrane protein, UPF0127 family				3M7A
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_12335	COG0143	J	Methionyl-tRNA synthetase	MetG	Aminoacyl-tRNA synthetases		1A8H
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_12340	COG0302	H	GTP cyclohydrolase I	FolE	Folate biosynthesis	19767425;30692671	1A8R
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_12350	COG2839	S	Uncharacterized conserved protein YqgC, DUF456 family	YqgC			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_12365	COG1215	N	Glycosyltransferase, catalytic subunit of cellulose synthase and poly-beta-1,6-N-acetylglucosamine synthase	BcsA			4HG6
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_12380	COG1032	R	Radical SAM superfamily enzyme YgiQ, UPF0313 family	YgiQ			6FD2
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_12385	COG1878	E	Kynurenine formamidase				1R61
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_12400	COG1305	O	Transglutaminase-like enzyme, putative cysteine protease	YebA			3ISR
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_12405	COG2315	K	Predicted DNA-binding protein with double-wing structural motif, MmcQ/YjbR family	MmcQ		17266124	2A1V
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_12410	COG0665	E	Glycine/D-amino acid oxidase (deaminating)	DadA			3AWI
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_12420	COG4625	S	Uncharacterized conserved protein, contains a C-terminal beta-barrel porin domain				
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_12445	COG3959	G	Transketolase, N-terminal subunit	TktA1			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_12450	COG0508	C	Pyruvate/2-oxoglutarate dehydrogenase complex, dihydrolipoamide acyltransferase (E2) component	AceF	Pyruvate oxidation		1B5S
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_12455	COG0110	R	Acetyltransferase, isoleucine patch superfamily	WbbJ			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_12470	COG1012	I	Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase	AdhE	Proline degradation		1A4S
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_12475	COG1028	I	NAD(P)-dependent dehydrogenase, short-chain alcohol dehydrogenase family	FabG	Fatty acid biosynthesis		6L1H
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_12480	COG3321	Q	Acyl transferase domain in polyketide synthase (PKS) enzymes	PksD			6IYO
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_12485	COG2050	Q	Acyl-CoA thioesterase PaaI, contains HGG motif	PaaI			1PSU
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_12490	COG2085	R	Predicted dinucleotide-binding enzyme				2VNS
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_12495	COG0447	H	1,4-Dihydroxy-2-naphthoyl-CoA synthase	MenB	Menaquinone biosynthesis		4ELS
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_12500	COG3324	R	Lactoylglutathione lyase-related enzyme, vicinal oxygen chelate (VOC) family	VOC		31710815	3OXH
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_12505	COG2151	O	Metal-sulfur cluster biosynthetic enzyme	PaaD			1UWD
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_12525	COG0758	L	Predicted Rossmann fold nucleotide-binding protein DprA/Smf involved in DNA uptake	Smf			3MAJ
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_12530	COG1123	O	ABC-type glutathione transport system ATPase component, contains duplicated ATPase domain	GsiA			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_12540	COG0405	E	Gamma-glutamyltranspeptidase	Ggt		16618936	2Z8I
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_12550	COG1109	G	Phosphomannomutase	ManB			6MNV
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_12560	COG0705	O	Membrane-associated serine protease, rhomboid family	GlpG			2IC8
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_12565	COG3471	S	Predicted secreted (periplasmic) protein				
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_12570	COG0526	O	Thiol-disulfide isomerase or thioredoxin	TrxA			1XFL
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_12580	COG4339	R	Predicted metal-dependent phosphohydrolase, HD superfamily				
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_12585	COG4775	M	Outer membrane protein assembly factor BamA	BamA			5EKQ
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_12590	COG4775	M	Outer membrane protein assembly factor BamA	BamA			5EKQ
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_12595	COG4775	M	Outer membrane protein assembly factor BamA	BamA			5EKQ
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_12605	COG0783	PV	DNA-binding ferritin-like protein (oxidative damage protectant)	Dps			1DPS
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_12610	COG1218	P	3'-Phosphoadenosine 5'-phosphosulfate (PAPS) 3'-phosphatase	CysQ			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_12620	COG3265	G	Gluconate kinase	GntK	Non-phosphorylated Entner-Doudoroff pathway		1KO4
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_12625	COG0603	J	7-cyano-7-deazaguanine synthase (queuosine biosynthesis)	QueC	tRNA modification	14660578;17384645	2PG3
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_12630	COG0050	J	Translation elongation factor EF-Tu, a GTPase	TufA	Translation factors		1EFU
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_12635	COG2244	M	Membrane protein involved in the export of O-antigen and teichoic acid	RfbX			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_12640	COG2327	M	Polysaccharide pyruvyl transferase family protein WcaK (colanic acid biosynthesis)	WcaK			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_12645	COG0297	G	Glycogen synthase	GlgA			1RZU
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_12650	COG1975	O	Molybdoenzyme maturation factor PaoD (Mo cofactor insertion), XdhC/CoxF family	XdhC		24498065	2WE7
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_12655	COG1215	N	Glycosyltransferase, catalytic subunit of cellulose synthase and poly-beta-1,6-N-acetylglucosamine synthase	BcsA			4HG6
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_12670	COG0297	G	Glycogen synthase	GlgA			1RZU
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_12675	COG0707	M	UDP-N-acetylglucosamine:LPS N-acetylglucosamine transferase	MurG	Mureine biosynthesis		1F0K
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_12680	COG2148	M	Sugar transferase involved in LPS biosynthesis (colanic, teichoic acid)	WcaJ			5W7L
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_12695	COG1167	KE	DNA-binding transcriptional regulator, MocR family, contains an aminotransferase domain	ARO8	Lysine biosynthesis		2R2N
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_12700	COG1088	M	dTDP-D-glucose 4,6-dehydratase	RfbB			1G1A
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_12710	COG1192	DN	ParA-like ATPase involved in chromosome/plasmid partitioning or cellulose biosynthesis protein BcsQ	ParA			6NOO
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_12720	COG1249	C	Dihydrolipoamide dehydrogenase (E3) component of pyruvate/2-oxoglutarate dehydrogenase complex or glutathione oxidoreductase	Lpd	Glycine cleavagePyruvate oxidation		6QKG
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_12735	COG1159	J	GTPase Era, involved in 16S rRNA processing	Era			1EGA
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_12745	COG3296	R	Uncharacterized Tic20-related protein, DUF4870 domain	Tic20a		9817756;20100520	
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_12750	COG1807	M	PMT family glycosyltransferase ArnT/Agl22, involved in glycosylation of proteins and lipid IVA	ArnT		16226890;31233657;32706435	5EZM
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_12755	COG3485	Q	Protocatechuate 3,4-dioxygenase beta subunit	PcaH			1DLM
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_12760	COG0784	T	CheY-like REC (receiver) domain, includes chemotaxis protein CheY  and sporulation regulator Spo0F	CheY			6QRJ
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_12765	COG1647	Q	Esterase/lipase	YvaK			4DIU
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_12770	COG0346	Q	Catechol 2,3-dioxygenase or related enzyme, vicinal oxygen chelate (VOC) family	GloA		11830595	3R4Q
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_12800	COG0592	L	DNA polymerase III sliding clamp (beta) subunit, PCNA homolog	DnaN			1JQJ
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_12805	COG3225	N	ABC-type uncharacterized transport system involved in gliding motility, auxiliary component	GldG			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_12810	COG1277	O	ABC-type transport system involved in multi-copper enzyme maturation, permease component	NosY			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_12825	COG1702	T	Phosphate starvation-inducible protein PhoH, predicted ATPase	PhoH		8444794;12762842	3B85
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_12830	COG0152	F	Phosphoribosylaminoimidazole-succinocarboxamide synthase	PurC	Purine biosynthesis		1A48
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_12845	COG0730	P	Sulfite exporter TauE/SafE/YfcA and related permeases, UPF0721 family	TauE		21183667;22797525	
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_12865	COG0526	O	Thiol-disulfide isomerase or thioredoxin	TrxA			1XFL
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_12870	COG1409	T	3',5'-cyclic AMP phosphodiesterase CpdA	CpdA			2ZO9
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_12885	COG0477	GEPR	MFS family permease, includes anhydromuropeptide permease AmpG	ProP		12426329	
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_12895	COG0771	M	UDP-N-acetylmuramoylalanine-D-glutamate ligase	MurD	Mureine biosynthesis		1E0D
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_12900	COG3340	E	Peptidase E	PepE			1FY2
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_12905	COG1446	E	Isoaspartyl peptidase or L-asparaginase, Ntn-hydrolase superfamily	IaaA			1APY
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_12910	COG0749	L	DNA polymerase I, 3'-5' exonuclease and polymerase domains	PolA			1D8Y
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_12920	COG0102	J	Ribosomal protein L13	RplM	Ribosome 50S subunit		1VS6
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_12925	COG0103	J	Ribosomal protein S9	RpsI	Ribosome 30S subunit		4V4H
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_12930	COG0052	J	Ribosomal protein S2	RpsB	Ribosome 30S subunit		4V4H
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_12935	COG0264	J	Translation elongation factor EF-Ts	Tsf	Translation factors		1EFU
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_12945	COG1608	I	Isopentenyl phosphate kinase			16621811	3LKK
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_12950	COG0233	J	Ribosome recycling factor	Frr			1DD5
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_12960	COG0841	V	Multidrug efflux pump subunit AcrB	AcrB			1IWG
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_12965	COG0173	J	Aspartyl-tRNA synthetase	AspS	Aminoacyl-tRNA synthetases		1C0A
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_12970	COG1508	K	DNA-directed RNA polymerase specialized sigma subunit, sigma54 homolog	RpoN	RNA polymerase		5BYH
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_13000	COG1291	N	Flagellar motor component MotA	MotA			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_13010	COG0252	JE	L-asparaginase/archaeal Glu-tRNAGln amidotransferase subunit D	AnsA			1ZQ1
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_13015	COG1099	R	Predicted metal-dependent hydrolase, TIM-barrel fold				3GUW
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_13025	COG3851	T	Signal transduction histidine kinase UhpB, glucose-6-phosphate specific	UhpB			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_13030	COG4753	TK	Two-component response regulator, YesN/AraC family, consists of REC and AraC-type DNA-binding domains	YesN			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_13040	COG0508	C	Pyruvate/2-oxoglutarate dehydrogenase complex, dihydrolipoamide acyltransferase (E2) component	AceF	Pyruvate oxidation		1B5S
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_13055	COG0142	H	Geranylgeranyl pyrophosphate synthase	IspA	Isoprenoid biosynthesis		2AZJ
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_13060	COG1309	K	DNA-binding protein, AcrR family, includes nucleoid occlusion protein SlmA	AcrR			2QOP
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_13065	COG1538	M	Outer membrane protein TolC	TolC			1EK9
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_13070	COG1566	V	Multidrug resistance efflux pump EmrA	EmrA			4TKO
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_13075	COG3696	P	Cu/Ag efflux pump CusA	CusA			3K07
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_13080	COG2327	M	Polysaccharide pyruvyl transferase family protein WcaK (colanic acid biosynthesis)	WcaK			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_13085	COG2227	H	2-polyprenyl-3-methyl-5-hydroxy-6-metoxy-1,4-benzoquinol methylase	UbiG	Ubiquinone biosynthesis		1BHJ
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_13090	COG0297	G	Glycogen synthase	GlgA			1RZU
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_13095	COG1798	J	Diphthamide biosynthesis methyltransferase	DPH5			2EGL
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_13100	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_13105	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_13110	COG2227	H	2-polyprenyl-3-methyl-5-hydroxy-6-metoxy-1,4-benzoquinol methylase	UbiG	Ubiquinone biosynthesis		1BHJ
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_13115	COG3754	M	Lipopolysaccharide biosynthesis protein	RgpF			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_13120	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_13135	COG1088	M	dTDP-D-glucose 4,6-dehydratase	RfbB			1G1A
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_13140	COG1088	M	dTDP-D-glucose 4,6-dehydratase	RfbB			1G1A
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_13145	COG0451	M	Nucleoside-diphosphate-sugar epimerase	WcaG			2X4G
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_13150	COG1898	M	dTDP-4-dehydrorhamnose 3,5-epimerase or related enzyme	RfbC			1DZR
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_13155	COG1213	I	Choline kinase				4MND
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_13160	COG1086	MO	NDP-sugar epimerase, includes UDP-GlcNAc-inverting 4,6-dehydratase FlaA1 and capsular polysaccharide biosynthesis protein EpsC	FlaA1			2GN4
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_13180	COG4942	D	Septal ring factor EnvC, activator of murein hydrolases AmiA and AmiB	EnvC			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_13185	COG1826	U	Twin-arginine protein secretion pathway components TatA and TatB	TatA			2L16
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_13195	COG0741	M	Soluble lytic murein transglycosylase or regulatory protein s ( may contain LysM/invasin domain)	MltE			153L
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_13200	COG0126	G	3-phosphoglycerate kinase	Pgk	Glycolysis		13PK
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_13205	COG0470	L	DNA polymerase III, delta prime subunit	HolB			1A5T
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_13210	COG2227	H	2-polyprenyl-3-methyl-5-hydroxy-6-metoxy-1,4-benzoquinol methylase	UbiG	Ubiquinone biosynthesis		1BHJ
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_13215	COG0445	J	tRNA U34 5-carboxymethylaminomethyl modifying enzyme MnmG/GidA	MnmG	tRNA modification		2ZXH
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_13220	COG0319	J	ssRNA-specific RNase YbeY, 16S rRNA maturation enzyme	YbeY	16S rRNA modification	17407324;23543739	1XM5
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_13225	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_13230	COG0008	J	Glutamyl- or glutaminyl-tRNA synthetase	GlnS	Heme biosynthesis		1EUQ
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_13260	COG0008	J	Glutamyl- or glutaminyl-tRNA synthetase	GlnS	Heme biosynthesis		1EUQ
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_13265	COG1539	H	Dihydroneopterin aldolase	FolB	Folate biosynthesis		1B9L
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_13280	COG0557	K	Exoribonuclease R	VacB			6H25
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_13290	COG0698	G	Ribose 5-phosphate isomerase RpiB	RpiB	Pentose phosphate pathway		1NN4
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_13295	COG1230	P	Co/Zn/Cd efflux system component	CzcD			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_13310	COG3000	I	Sterol desaturase/sphingolipid hydroxylase, fatty acid hydroxylase superfamily	ERG3			4ZR0
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_13315	COG0265	O	Periplasmic serine protease, S1-C subfamily, contain C-terminal PDZ domain	DegQ		29686141	2HGA
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_13330	COG0308	E	Aminopeptidase N, contains DUF3458 domain	PepN		24123841	6ATK
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_13340	COG0491	R	Glyoxylase or a related metal-dependent hydrolase, beta-lactamase superfamily II	GloB		25670698	1QH3
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_13345	COG0025	P	NhaP-type Na+/H+ or K+/H+ antiporter	NhaP			4CZB
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_13360	COG3276	J	Selenocysteine-specific translation elongation factor SelB	SelB	Translation factors		4ZU9
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_13370	COG0167	F	Dihydroorotate dehydrogenase	PyrD	Pyrimidine biosynthesis		1GT8
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_13375	COG0577	V	ABC-type antimicrobial peptide transport system, permease component	SalY			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_13380	COG0858	J	Ribosome-binding factor RbfA	RbfA			1JOS
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_13385	COG3185	ER	4-hydroxyphenylpyruvate dioxygenase and related hemolysins	HppD			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_13405	COG1399	J	23S rRNA accumulation protein YceD (essential in plants, uncharacterized in bacteria)	YceD		27574185	
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_13410	COG0333	J	Ribosomal protein L32	RpmF	Ribosome 50S subunit	17114934	1VS6
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_13415	COG3425	I	3-hydroxy-3-methylglutaryl CoA synthase	PksG	Isoprenoid biosynthesis		1TVZ
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_13420	COG0511	I	Biotin carboxyl carrier protein	AccB	Fatty acid biosynthesis		1A6X
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_13425	COG0458	EF	Carbamoylphosphate synthase large subunit	CarB	Arginine biosynthesis		1C30
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_13430	COG0665	E	Glycine/D-amino acid oxidase (deaminating)	DadA			3AWI
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_13450	COG3361	S	Uncharacterized conserved protein YqjF, DUF2071 family	YqjF			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_13465	COG1119	P	ABC-type molybdenum transport system, ATPase component ModF/photorepair protein PhrA	ModF			2IHY
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_13480	COG0002	E	N-acetyl-gamma-glutamylphosphate reductase	ArgC	Arginine biosynthesis		3DR3
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_13490	COG0787	M	Alanine racemase	Alr	Mureine biosynthesis		1BD0
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_13505	COG1010	H	Precorrin-3B methylase	CobJ	Cobalamine/B12 biosynthesis		2ZVB
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_13525	COG0608	L	ssDNA-specific exonuclease RecJ, DHH superfamily, may be involved in archaeal DNA replication intiation	RecJ			1IR6
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_13530	COG2908	M	UDP-2,3-diacylglucosamine pyrophosphatase LpxH	LpxH			5WLY
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_13535	COG0720	H	6-pyruvoyl-tetrahydropterin synthase	QueD	tRNA modification	14660578;17384645	1B66
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_13540	COG3751	JO	Proline 4-hydroxylase (includes Rps23 Pro-64 3,4-dihydroxylase Tpa1), contains SM-20 domain	EGL9			2G19
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_13550	COG0534	V	Na+-driven multidrug efflux pump, DinF/NorM/MATE family	NorM		29915058	3VVN
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_13555	COG0456	J	Ribosomal protein S18 acetylase RimI and related acetyltransferases	RimI			1GHE
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_13560	COG0589	T	Nucleotide-binding universal stress protein,  UspA family	UspA			1JMV
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_13570	COG1506	E	Dipeptidyl aminopeptidase/acylaminoacyl peptidase	DAP2			2JBW
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_13575	COG3893	L	Inactivated superfamily I helicase				
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_13585	COG0001	H	Glutamate-1-semialdehyde aminotransferase	HemL	Heme biosynthesis		2CFB
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_13590	COG0210	L	Superfamily I DNA or RNA helicase	UvrD			6PPR
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_13595	COG0605	P	Superoxide dismutase	SodA			1AP5
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_13600	COG0367	E	Asparagine synthetase B (glutamine-hydrolyzing)	AsnB	Asparagine biosynthesis	25951518	2ETD
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_13605	COG1105	G	1-phosphofructokinase or 6-phosphofructokinase II	FruK			2ABQ
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_13610	COG3187	O	Heat shock protein HslJ	HslJ			2KTS
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_13615	COG3341	R	Ribonuclease HI-related protein, contains viroplasmin and RNaseH domains	Rnh1			1QHK
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_13620	COG0223	J	Methionyl-tRNA formyltransferase	Fmt			1FMT
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_13625	COG0236	I	Acyl carrier protein	AcpP	Fatty acid biosynthesis		1ACP
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_13630	COG0304	IQ	3-oxoacyl-(acyl-carrier-protein) synthase	FabB	Fatty acid biosynthesis	21652641	2UV8
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_13645	COG0469	G	Pyruvate kinase	PykF	Glycolysis		6QXL
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_13660	COG0702	R	Uncharacterized conserved protein YbjT, contains NAD(P)-binding and DUF2867 domains	YbjT			5L3Z
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_13675	COG0744	M	Penicillin-binding protein 1B/1F, peptidoglycan  transglycosylase/transpeptidase	MrcB			3FWL
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_13685	COG2329	H	Heme-degrading monooxygenase HmoA and related ABM domain proteins	HmoA		21873409	1IUJ
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_13690	COG1446	E	Isoaspartyl peptidase or L-asparaginase, Ntn-hydrolase superfamily	IaaA			1APY
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_13695	COG2340	DR	Spore germination protein YkwD and related proteins with CAP (CSP/antigen 5/PR1) domain	YkwD		31199835	1CFE
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_13700	COG4101	R	Uncharacterized conserved protein, RmlC-like cupin domain	RmlC			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_13705	COG1012	I	Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase	AdhE	Proline degradation		1A4S
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_13715	COG2908	M	UDP-2,3-diacylglucosamine pyrophosphatase LpxH	LpxH			5WLY
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_13730	COG2865	K	Predicted transcriptional regulator, contains HTH domain				3LMM
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_13735	COG0623	I	Enoyl-[acyl-carrier-protein] reductase FabI	FabI	Fatty acid biosynthesis		1C14
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_13745	COG1239	H	Mg-chelatase subunit ChlI	ChlI			1G8P
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_13750	COG1240	H	vWFA (von Willebrand factor type A) domain of Mg and Co chelatases	ChlD			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_13760	COG1240	H	vWFA (von Willebrand factor type A) domain of Mg and Co chelatases	ChlD			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_13765	COG1240	H	vWFA (von Willebrand factor type A) domain of Mg and Co chelatases	ChlD			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_13770	COG5271	J	Midasin, AAA ATPase with  vWA domain, involved in ribosome maturation	MDN1			6HYP
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_13780	COG3103	R	Uncharacterized conserved protein YgiM, contains N-terminal SH3 domain, DUF1202 family	YgiM			2KQ8
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_13795	COG0016	J	Phenylalanyl-tRNA synthetase alpha subunit	PheS	Aminoacyl-tRNA synthetases		3L4G
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_13815	COG0669	H	Phosphopantetheine adenylyltransferase	CoaD	Pantothenate/CoA biosynthesis		3F3M
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_13820	COG3709	G	Ribose 1,5-bisphosphate kinase PhnN	PhnN			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_13830	COG0596	HR	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold	MenH	Menaquinone biosynthesis		4MYS
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_13835	COG3884	I	Acyl-ACP thioesterase	FatA			2ESS
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_13840	COG0697	GER	Permease of the drug/metabolite transporter (DMT) superfamily	RhaT			5I20
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_13855	COG0520	E	Selenocysteine lyase/Cysteine desulfurase	CsdA			4LW2
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_13865	COG0334	E	Glutamate dehydrogenase/leucine dehydrogenase	GdhA	Glutamine biosynthesis	24391520	1B3B
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_13875	COG1381	L	Recombinational DNA repair protein RecO (RecF pathway)	RecO			1U5K
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_13880	COG4774	P	Outer membrane receptor for monomeric catechols	Fiu			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_13885	COG2226	H	Ubiquinone/menaquinone biosynthesis C-methylase UbiE/MenG	UbiE	Biotin biosynthesis		4OBW
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_13890	COG0365	I	Acyl-coenzyme A synthetase/AMP-(fatty) acid ligase	Acs		14638756	4B2O
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_13900	COG0123	Q	Acetoin utilization deacetylase AcuC or a related deacetylase	AcuC			1C3P
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_13905	COG0495	J	Leucyl-tRNA synthetase	LeuS	Aminoacyl-tRNA synthetases		6LPF
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_13920	COG1619	M	Muramoyltetrapeptide carboxypeptidase LdcA (peptidoglycan recycling)	LdcA			3TLZ
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_13925	COG4998	L	Predicted endonuclease, RecB family	RecB2			1Y88
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_13930	COG1396	K	Transcriptional regulator, contains XRE-family HTH domain	HipB			1ADR
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_13935	COG4098	L	Superfamily II DNA/RNA helicase required for DNA uptake (late competence protein)	ComFA			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_13940	COG0446	I	NADPH-dependent 2,4-dienoyl-CoA reductase, sulfur reductase, or a related oxidoreductase	FadH2			1VRQ
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_13945	COG3844	E	Kynureninase	Bna5			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_13955	COG0420	L	DNA repair exonuclease SbcCD nuclease subunit	SbcD			6S85
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_13960	COG1202	L	Superfamily II helicase, archaea-specific				
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_13965	COG1793	L	ATP-dependent DNA ligase	CDC9			1A0I
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_13970	COG2333	U	DNA uptake channel protein ComEC C-terminal domain, metallo-beta-lactamase superfamily	ComEC			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_13980	COG0158	G	Fructose-1,6-bisphosphatase	Fbp	Gluconeogenesis		1BK4
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_13985	COG1246	E	N-acetylglutamate synthase or related acetyltransferase, GNAT family	ArgA	Arginine biosynthesis		2R98
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_13990	COG0528	F	Uridylate kinase	PyrH	Pyrimidine biosynthesis		2BND
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_13995	COG3176	R	Putative hemolysin				
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_14005	COG1284	S	Uncharacterized membrane-anchored protein YitT, contains DUF161 and DUF2179 domains	YitT			3HLU
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_14010	COG0655	C	Multimeric flavodoxin WrbA, includes NAD(P)H:quinone oxidoreductase	WrbA			4DY4
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_14015	COG0520	E	Selenocysteine lyase/Cysteine desulfurase	CsdA			4LW2
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_14030	COG0640	K	DNA-binding transcriptional regulator, ArsR family	ArsR			3F6V
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_14040	COG3324	R	Lactoylglutathione lyase-related enzyme, vicinal oxygen chelate (VOC) family	VOC		31710815	3OXH
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_14045	COG0287	E	Prephenate dehydrogenase	TyrA	Aromatic amino acid biosynthesis		2F1K
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_14050	COG0662	G	Mannose-6-phosphate isomerase, cupin superfamily	ManC			1IPJ
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_14055	COG0824	I	Acyl-CoA thioesterase FadM	FadM	Menaquinone biosynthesis		2FUJ
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_14060	COG1824	P	Permease, similar to cation transporters	MgtE2			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_14065	COG3963	I	Phosphatidylethanolamine N-methyltransferase				
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_14080	COG1729	D	Cell division protein CpoB, coordinates peptidoglycan biosynthesis and outer membrane constriction	CpoB		25951518	2WZ7
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_14085	COG0441	J	Threonyl-tRNA synthetase	ThrS	Aminoacyl-tRNA synthetases		1NYQ
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_14095	COG0196	H	FAD synthase	RibF	Riboflavin/FAD biosynthesis		1MRZ
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_14100	COG0193	J	Peptidyl-tRNA hydrolase	Pth	Translation factors	11835511	1RYB
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_14105	COG1825	J	Ribosomal protein L25 (general stress protein Ctc)	RplY	Ribosome 50S subunit		1B75
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_14110	COG0634	F	Hypoxanthine-guanine phosphoribosyltransferase	HptA	Purine salvage		1G9S
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_14140	COG0117	H	Riboflavin biosynthesis protein RibD, pyrimidine deaminase domain	RibD1	Riboflavin/FAD biosynthesis		2O7P
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_14145	COG0265	O	Periplasmic serine protease, S1-C subfamily, contain C-terminal PDZ domain	DegQ		29686141	2HGA
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_14170	COG0208	F	Ribonucleotide reductase beta subunit, ferritin-like domain	NrdB	Pyrimidine salvage		1AV8
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_14175	COG0209	F	Ribonucleotide reductase alpha subunit	NrdA	Pyrimidine salvage		1R1R
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_14185	COG1266	O	Membrane protease YdiL, CAAX protease family	YdiL			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_14195	COG0306	P	Phosphate/sulfate permease	PitA		31358606	
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_14210	COG0659	P	Sulfate permease or related transporter, MFS superfamily	SUL1			3NY7
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_14215	COG0288	P	Carbonic anhydrase	CynT		22081392	1EKJ
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_14235	COG5148	S	vWFA (von Willebrand factor type A) domain-containing protein				
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_14245	COG1154	HI	Deoxyxylulose-5-phosphate synthase	Dxs	Pyridoxal phosphate biosynthesis		2O1S
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_14250	COG0117	H	Riboflavin biosynthesis protein RibD, pyrimidine deaminase domain	RibD1	Riboflavin/FAD biosynthesis		2O7P
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_14255	COG1278	K	Cold shock protein, CspA family	CspC			1C9O
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_14270	COG0173	J	Aspartyl-tRNA synthetase	AspS	Aminoacyl-tRNA synthetases		1C0A
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_14275	COG1629	P	Outer membrane receptor protein, Fe transport	CirA			1BY3
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_14285	COG0841	V	Multidrug efflux pump subunit AcrB	AcrB			1IWG
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_14290	COG1060	H	2-iminoacetate synthase ThiH/Menaquinone biosynthesis enzymes MqnC and MqnE	ThiH	Thiamine biosynthesis	18801996	4WCX
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_14320	COG2335	R	Uncaracterized surface protein containing fasciclin (FAS1) repeats	FAS1			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_14325	COG0812	M	UDP-N-acetylenolpyruvoylglucosamine reductase	MurB	Mureine biosynthesis		2MBR
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_14330	COG1448	E	Aspartate/aromatic aminotransferase	TyrB	Isoleucine, leucine, valine biosynthesis		1AAM
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_14335	COG0793	O	C-terminal processing protease CtpA/Prc, contains a PDZ domain	CtpA			6IQU
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_14345	COG0143	J	Methionyl-tRNA synthetase	MetG	Aminoacyl-tRNA synthetases		1A8H
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_14365	COG0438	M	Glycosyltransferase involved in cell wall bisynthesis	RfaB			2IV7
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_14375	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_14395	COG1088	M	dTDP-D-glucose 4,6-dehydratase	RfbB			1G1A
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_14400	COG1861	M	Spore coat polysaccharide biosynthesis protein SpsF, cytidylyltransferase family	SpsF			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_14410	COG4627	R	Predicted SAM-depedendent methyltransferase				
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_14415	COG0399	M	dTDP-4-amino-4,6-dideoxygalactose transaminase	WecE		15271350	4PIW
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_14420	COG1087	M	UDP-glucose 4-epimerase	GalE			1A9Y
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_14465	COG0860	M	N-acetylmuramoyl-L-alanine amidase	AmiC			1JWQ
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_14530	COG2896	H	GTP 3',8-cyclase (molybdenum cofactor biosynthesis protein MoaA)	MoaA	Molybdopterin biosynthesis		1TV7
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_14535	COG3591	O	V8-like Glu-specific endopeptidase	eMpr			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_14540	COG0809	J	S-adenosylmethionine:tRNA-ribosyltransferase-isomerase (queuine synthetase)	QueA	tRNA modification		1VKY
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_14555	COG1694	V	NTP pyrophosphatase, house-cleaning of non-canonical NTPs	MazG			1VMG
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_14575	COG1490	J	D-aminoacyl-tRNA deacylase	Dtd		10918062;16902403;24302572	1J7G
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_14580	COG1161	J	Ribosome biogenesis GTPase RbgA	RbgA			6G14
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_14590	COG2877	M	3-deoxy-D-manno-octulosonic acid (KDO) 8-phosphate synthase	KdsA	Lipid A biosynthesis		1G7U
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_14595	COG4172	Q	ABC-type microcin C transport system, duplicated ATPase component YejF	YejF		17873039	
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_14630	COG0356	C	FoF1-type ATP synthase, membrane subunit a	AtpB	FoF1-type ATP synthase	22931285	
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_14640	COG0711	C	FoF1-type ATP synthase, membrane subunit b or b'	AtpF	FoF1-type ATP synthase		1B9U
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_14645	COG0712	C	FoF1-type ATP synthase, delta subunit	AtpH	FoF1-type ATP synthase		1ABV
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_14650	COG0055	C	FoF1-type ATP synthase, beta subunit	AtpD	FoF1-type ATP synthase		3OAA
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_14660	COG0224	C	FoF1-type ATP synthase, gamma subunit	AtpG	FoF1-type ATP synthase	15326535	3OAA
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_14670	COG2244	M	Membrane protein involved in the export of O-antigen and teichoic acid	RfbX			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_14675	COG0717	F	dCTP deaminase	Dcd	Thymidylate biosynthesis		1XS1
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_14680	COG1207	M	Bifunctional protein GlmU, N-acetylglucosamine-1-phosphate-uridyltransferase/glucosamine-1-phosphate-acetyltransferase	GlmU			3FWW
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_14685	COG3096	D	Chromosome condensin MukBEF, ATPase and DNA-binding subunit MukB	MukB			1QHL
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_14695	COG0739	M	Murein DD-endopeptidase MepM and murein hydrolase activator NlpD, contains LysM domain	NlpD			2GU1
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_14700	COG1404	O	Serine protease, subtilisin family	AprE			1SCJ
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_14705	COG1607	I	Acyl-CoA hydrolase	YciA			5DM5
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_14715	COG0758	L	Predicted Rossmann fold nucleotide-binding protein DprA/Smf involved in DNA uptake	Smf			3MAJ
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_14720	COG0162	J	Tyrosyl-tRNA synthetase	TyrS	Aminoacyl-tRNA synthetases		4OUD
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_14740	COG0468	L	RecA/RadA recombinase	RecA			1B22
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_14745	COG0607	P	Rhodanese-related sulfurtransferase	PspE	Urea cycle		1TQ1
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_14750	COG1774	T	Cell fate regulator YaaT, PSP1 superfamily (controls sporulation, competence, biofilm development)	YaaT		23490197	
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_14760	COG4953	M	Membrane carboxypeptidase/penicillin-binding protein PbpC	PbpC			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_14780	COG1092	J	23S rRNA G2069 N7-methylase RlmK or C1962 C5-methylase RlmI	RlmK	23S rRNA modification		2B78
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_14800	COG2255	L	Holliday junction resolvasome RuvABC, ATP-dependent DNA helicase subunit RuvB	RuvB			1HQC
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_14820	COG2062	T	Phosphohistidine phosphatase SixA	SixA			1UJB
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_14825	COG3871	S	General stress protein 26 (function unknown)	YzzA			2I02
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_14830	COG1236	J	RNA processing exonuclease, beta-lactamase fold, Cft2 family	YSH1			2DKF
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_14840	COG0540	F	Aspartate carbamoyltransferase, catalytic subunit	PyrB	Pyrimidine biosynthesis		1NBE
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_14845	COG2236	H	Hypoxanthine phosphoribosyltransferase	Hpt1	Purine salvage		2JKZ
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_14850	COG2183	K	Transcriptional accessory protein Tex/SPT6	Tex			2OCE
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_14855	COG0671	I	Membrane-associated phospholipid phosphatase	PgpB	Phospholipid biosynthesis		1D2T
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_14860	COG1102	F	Cytidylate kinase	CmkB			
+Altibacter_sp_EAC109	GCA_002696485.1	FPMIOL_14870	COG1067	O	Predicted ATP-dependent protease	LonB			3K1J

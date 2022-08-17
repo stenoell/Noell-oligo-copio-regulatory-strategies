@@ -1,0 +1,1010 @@
+#prefix	assemid	query	COG	category	name	Gene	pathway	pmid	pdb_id
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_00010	COG1807	M	PMT family glycosyltransferase ArnT/Agl22, involved in glycosylation of proteins and lipid IVA	ArnT		16226890;31233657;32706435	5EZM
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_00015	COG1396	K	Transcriptional regulator, contains XRE-family HTH domain	HipB			1ADR
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_00020	COG3063	NW	Type IV pilus assembly protein PilF/PilW	PilF		16403447	2VQ2
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_00025	COG4123	J	tRNA1(Val) A37 N6-methylase TrmN6	TrmN6	tRNA modification		
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_00030	COG0105	F	Nucleoside diphosphate kinase	Ndk	Pyrimidine biosynthesis		1B4S
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_00035	COG1042	C	Acyl-CoA synthetase (NDP forming)	PatZN		26251518	4YAK
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_00040	COG0045	C	Succinyl-CoA synthetase, beta subunit	SucC	TCA cycle		1SCU
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_00045	COG1250	I	3-hydroxyacyl-CoA dehydrogenase	FadB	Fatty acid biosynthesis		5ZQZ
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_00050	COG4107	P	ABC-type phosphonate transport system, ATPase component PhnK	PhnK		19516334	
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_00055	COG4170	V	ABC-type antimicrobial peptide export system, ATPase component SapD	SapD			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_00065	COG0767	M	Permease subunit MlaE of the ABC-type intermembrane phospholipid transporter Mla	MlaE			6IC4
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_00110	COG1968	I	Undecaprenyl pyrophosphate phosphatase	UppP			5OON
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_00120	COG0436	E	Aspartate/methionine/tyrosine aminotransferase	AspB	Isoleucine, leucine, valine biosynthesis		2O0R
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_00175	COG1902	C	2,4-dienoyl-CoA reductase or related NADH-dependent reductase, Old Yellow Enzyme (OYE) family	FadH			1BWK
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_00180	COG1121	P	ABC-type Mn2+/Zn2+ transport system, ATPase component	ZnuC			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_00185	COG0842	V	ABC-type multidrug transport system, permease component	YadH			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_00195	COG0702	R	Uncharacterized conserved protein YbjT, contains NAD(P)-binding and DUF2867 domains	YbjT			5L3Z
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_00200	COG0664	T	cAMP-binding domain of CRP or a regulatory subunit of cAMP-dependent protein kinases	Crp			1FT9
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_00205	COG1291	N	Flagellar motor component MotA	MotA			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_00220	COG0616	O	Periplasmic serine protease, ClpP class	SppA			3BEZ
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_00225	COG0156	H	7-keto-8-aminopelargonate synthetase or related enzyme	BioF	Biotin biosynthesis		1BS0
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_00240	COG0625	O	Glutathione S-transferase	GstA			1A0F
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_00250	COG0624	E	Acetylornithine deacetylase/Succinyl-diaminopimelate desuccinylase or related deacylase	ArgE	Arginine biosynthesis		1CG2
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_00255	COG3667	P	Uncharacterized conserved protein involved in copper resistance	PcoB			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_00300	COG3451	U	Type IV secretory pathway, VirB4 component	VirB4			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_00350	COG4963	UW	Flp pilus assembly ATPase CpaE/TadZ, contains N-terminal REC/TadZ_N domain	CpaE			4LDA
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_00360	COG5340	V	Abortive phage infection protein AbiEi, antitoxin conponent of an AbiEi-AbiEii TA system	AbiEi		24465005;29518409	
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_00365	COG2253	V	Predicted nucleotidyltransferase component of viral defense system				4O8S
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_00370	COG5499	V	Antitoxin component HigA of the HigAB toxin-antitoxin module, contains an N-terminal HTH domain	HigA			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_00400	COG3613	F	Nucleoside 2-deoxyribosyltransferase	RCL			1F8X
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_00405	COG3316	X	Transposase (or an inactivated derivative), DDE domain	Rve			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_00435	COG3316	X	Transposase (or an inactivated derivative), DDE domain	Rve			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_00445	COG2608	P	Copper chaperone CopZ	CopZ			1AFI
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_00455	COG0789	K	DNA-binding transcriptional regulator, MerR family	SoxR			2VZ4
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_00475	COG2204	T	DNA-binding transcriptional response regulator, NtrC family, contains REC, AAA-type ATPase, and a Fis-type DNA-binding domains	AtoC			1ZY2
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_00480	COG2205	T	K+-sensing histidine kinase KdpD	KdpD			2KSF
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_00505	COG4192	T	Signal transduction histidine kinase regulating phosphoglycerate transport system				
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_00515	COG3375	R	Predicted acetyltransferase, GNAT superfamily				
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_00525	COG1335	HR	Nicotinamidase-related amidase	PncA	Pyrimidine degradation		1ILW
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_00535	COG3119	P	Arylsulfatase A or related enzyme, AlkP superfamily	AslA			1E1Z
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_00550	COG4056	H	Methyl coenzyme M reductase, subunit C	McorC			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_00560	COG2005	K	DNA-binding transcriptional regulator ModE (molybdenum-dependent)	ModE		19779461	1B9M
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_00565	COG0738	G	Fucose permease	FucP			3O7P
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_00570	COG0631	T	Serine/threonine protein phosphatase PrpC	PTC1			6IHL
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_00580	COG0266	L	Formamidopyrimidine-DNA glycosylase	Nei			1EE8
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_00585	COG0582	LX	Integrase/recombinase, includes phage integrase	FimB			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_00635	COG3451	U	Type IV secretory pathway, VirB4 component	VirB4			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_00685	COG0630	NU	Type IV secretory pathway ATPase VirB11/Archaellum biosynthesis ATPase ArlI/FlaI	VirB11		32416640	1G6O
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_00690	COG3505	U	Type IV secretory pathway, VirD4 component, TraG/TraD family ATPase	VirD4			1GL6
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_00725	COG0642	T	Signal transduction histidine kinase	BaeS			1JOY
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_00745	COG0733	R	Na+-dependent transporter, SNF family	YocR			2A65
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_00775	COG0209	F	Ribonucleotide reductase alpha subunit	NrdA	Pyrimidine salvage		1R1R
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_00780	COG0208	F	Ribonucleotide reductase beta subunit, ferritin-like domain	NrdB	Pyrimidine salvage		1AV8
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_00805	COG2214	K	Curved DNA-binding protein CbpA, contains a DnaJ-like domain	CbpA			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_00810	COG0443	O	Molecular chaperone DnaK (HSP70)	DnaK			3I33
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_00820	COG4254	R	Uncharacterized peptidoglycan binding protein, contains LysM and FecR  domains				
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_00865	COG0780	J	NADPH-dependent 7-cyano-7-deazaguanine reductase QueF, C-terminal domain, T-fold superfamily	QueFC	tRNA modification	14660578;17384645	3BP1
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_00870	COG2959	R	Proteobacterial HemX domain, involved in 2-ketogluconate production (unrelated to B. subtilis HemX, COG0755, no evidence of involvement in heme biosynthesis)	HemX		26256849	
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_00875	COG0219	J	tRNA(Leu) C34 or U34 (ribose-2'-O)-methylase TrmL, contains SPOUT domain	TrmL	tRNA modification		4JAK
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_00880	COG0030	J	16S rRNA A1518 and A1519 N6-dimethyltransferase RsmA/KsgA/DIM1 (may also have DNA glycosylase/AP lyase activity)	RsmA	16S rRNA modification		1QYR
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_00905	COG1612	H	Heme A synthase	CtaA			6A2J
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_00910	COG2863	C	Cytochrome c553	CytC553			6Q2U
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_00920	COG0173	J	Aspartyl-tRNA synthetase	AspS	Aminoacyl-tRNA synthetases		1C0A
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_00930	COG1191	K	DNA-directed RNA polymerase specialized sigma subunit	FliA	RNA polymerase		1RP3
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_00950	COG0517	T	CBS domain	CBS			1B3O
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_00960	COG1192	DN	ParA-like ATPase involved in chromosome/plasmid partitioning or cellulose biosynthesis protein BcsQ	ParA			6NOO
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_00965	COG0552	U	Signal recognition particle GTPase FtsY	FtsY			4AK9
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_00970	COG1298	N	Flagellar biosynthesis protein FlhA	FlhA			6AI0
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_00975	COG2257	U	Type III secretion system substrate exporter, FlhB-like	YlqH			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_00980	COG1684	N	Flagellar biosynthesis protein FliR	FliR			6S3R
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_00990	COG0397	O	Protein adenylyltransferase (AMPylase) SelO/YdiU (selenoprotein O)	SelO		30270044	6EAC
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_01020	COG0784	T	CheY-like REC (receiver) domain, includes chemotaxis protein CheY  and sporulation regulator Spo0F	CheY			6QRJ
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_01025	COG5000	T	Signal transduction histidine kinase NtrY involved in nitrogen fixation and metabolism regulation	NtrY			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_01040	COG3239	I	Fatty acid desaturase	DesA			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_01065	COG5054
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_01095	COG3451	U	Type IV secretory pathway, VirB4 component	VirB4			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_01140	COG0630	NU	Type IV secretory pathway ATPase VirB11/Archaellum biosynthesis ATPase ArlI/FlaI	VirB11		32416640	1G6O
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_01165	COG0019	E	Diaminopimelate decarboxylase	LysA	Lysine biosynthesis		1D7K
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_01170	COG0424	Q	7-methyl-GTP pyrophosphatase and related NTP pyrophosphatases, Maf/HAM1 superfamily	Maf		24210219	2P5X
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_01175	COG2064	W	Flp pilus assembly protein TadC	TadC			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_01180	COG1430	S	Uncharacterized conserved membrane protein, UPF0127 family				3M7A
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_01190	COG1716	T	Forkhead associated (FHA) domain, binds pSer, pThr, pTyr	FHA			2FEZ
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_01195	COG1716	T	Forkhead associated (FHA) domain, binds pSer, pThr, pTyr	FHA			2FEZ
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_01205	COG3883	S	Uncharacterized N-terminal coiled-coil domain of peptidoglycan hydrolase CwlO	CwlO1			4CGK
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_01215	COG0451	M	Nucleoside-diphosphate-sugar epimerase	WcaG			2X4G
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_01230	COG3119	P	Arylsulfatase A or related enzyme, AlkP superfamily	AslA			1E1Z
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_01240	COG0095	H	Lipoate-protein ligase A	LplA	Lipoate biosynthesis		4TVW
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_01245	COG0446	I	NADPH-dependent 2,4-dienoyl-CoA reductase, sulfur reductase, or a related oxidoreductase	FadH2			1VRQ
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_01250	COG0508	C	Pyruvate/2-oxoglutarate dehydrogenase complex, dihydrolipoamide acyltransferase (E2) component	AceF	Pyruvate oxidation		1B5S
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_01255	COG0320	H	Lipoate synthase	LipA	Lipoate biosynthesis	27941785	4U0O
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_01260	COG1489	GT	DNA-binding protein, stimulates sugar fermentation	SfsA			4DA2
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_01265	COG2761	O	Predicted dithiol-disulfide isomerase, DsbA/YjbH family (virulence, stress resistance)	FrnE			6GHB
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_01290	COG1183	I	Phosphatidylserine synthase	PssA			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_01310	COG0101	J	tRNA U38,U39,U40 pseudouridine synthase TruA	TruA	tRNA modification		1DJ0
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_01315	COG2015	Q	Alkyl sulfatase BDS1 and related hydrolases, metallo-beta-lactamase superfamily	BDS1			2CFU
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_01320	COG0103	J	Ribosomal protein S9	RpsI	Ribosome 30S subunit		4V4H
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_01325	COG4942	D	Septal ring factor EnvC, activator of murein hydrolases AmiA and AmiB	EnvC			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_01330	COG0631	T	Serine/threonine protein phosphatase PrpC	PTC1			6IHL
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_01345	COG0021	G	Transketolase	TktA	Pentose phosphate pathway		1AY0
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_01350	COG5002	T	Sensor histidine kinase WalK	WalK			4I5S
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_01360	COG2519	J	tRNA A58 N-methylase Trm61	Gcd14	tRNA modification		1I9G
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_01365	COG1011	H	FMN and 5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YigB, HAD superfamily (riboflavin biosynthesis)	YigB		24123841	4JB3
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_01370	COG4166	E	ABC-type oligopeptide transport system, periplasmic component	OppA			1B05
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_01375	COG4168	V	ABC-type antimicrobial peptide export system, permease component SapB	SapB			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_01380	COG4171	V	ABC-type antimicrobial peptide export system, permease component SapC	SapC			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_01385	COG4604	P	ABC-type enterochelin transport system, ATPase component	CeuD			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_01390	COG1115	E	Na+/alanine symporter	AlsT			6CSE
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_01400	COG0784	T	CheY-like REC (receiver) domain, includes chemotaxis protein CheY  and sporulation regulator Spo0F	CheY			6QRJ
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_01405	COG1249	C	Dihydrolipoamide dehydrogenase (E3) component of pyruvate/2-oxoglutarate dehydrogenase complex or glutathione oxidoreductase	Lpd	Glycine cleavagePyruvate oxidation		6QKG
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_01410	COG1028	I	NAD(P)-dependent dehydrogenase, short-chain alcohol dehydrogenase family	FabG	Fatty acid biosynthesis		6L1H
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_01430	COG2850	J	Ribosomal protein L16 Arg81 hydroxylase, contains JmjC domain	RoxA			1VRB
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_01440	COG4122	J	tRNA 5-hydroxyU34 O-methylase TrmR/YrrM	TrmR	tRNA modification	29982645	1H1D
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_01450	COG1593	G	TRAP-type C4-dicarboxylate transport system, large permease component	DctQ			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_01455	COG4664	Q	TRAP-type mannitol/chloroaromatic compound transport system, large permease component	FcbT3			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_01460	COG4665	Q	TRAP-type mannitol/chloroaromatic compound transport system, small permease component	FcbT2			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_01465	COG4663	Q	TRAP-type mannitol/chloroaromatic compound transport system, periplasmic component	FcbT1			2HZK
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_01475	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_01480	COG4166	E	ABC-type oligopeptide transport system, periplasmic component	OppA			1B05
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_01485	COG3713	M	Outer membrane scaffolding protein for murein synthesis, MipA/OmpV family	OmpV			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_01495	COG0456	J	Ribosomal protein S18 acetylase RimI and related acetyltransferases	RimI			1GHE
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_01505	COG4172	Q	ABC-type microcin C transport system, duplicated ATPase component YejF	YejF		17873039	
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_01515	COG2503	R	Predicted secreted acid phosphatase				3OCY
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_01520	COG0494	V	8-oxo-dGTP pyrophosphatase MutT and related house-cleaning NTP pyrophosphohydrolases, NUDIX family	MutT			4V14
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_01530	COG2241	H	Precorrin-6B methylase 1	CobL	Cobalamine/B12 biosynthesis		
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_01545	COG0457	R	Tetratricopeptide (TPR) repeat	TPR			3AS4
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_01550	COG0138	F	AICAR transformylase/IMP cyclohydrolase PurH	PurH	Purine biosynthesis		1G8M
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_01565	COG4618	U	ABC-type protease/lipase transport system, ATPase and permease components	ArpD			5L22
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_01570	COG0767	M	Permease subunit MlaE of the ABC-type intermembrane phospholipid transporter Mla	MlaE			6IC4
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_01575	COG3457	E	Predicted amino acid racemase	YhfX		23091052	4KBX
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_01580	COG3706	TK	Two-component response regulator, PleD family, consists of two REC domains and a diguanylate cyclase (GGDEF) domain	PleD			1W25
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_01585	COG0642	T	Signal transduction histidine kinase	BaeS			1JOY
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_01590	COG5000	T	Signal transduction histidine kinase NtrY involved in nitrogen fixation and metabolism regulation	NtrY			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_01610	COG3417	M	Outer membrane lipoprotein LpoB, binds and activates PBP1b	LpoB			4Q6L
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_01630	COG5394	QT	Polyhydroxyalkanoate (PHA) synthesis regulator protein, binds DNA and PHA				
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_01640	COG3063	NW	Type IV pilus assembly protein PilF/PilW	PilF		16403447	2VQ2
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_01655	COG1239	H	Mg-chelatase subunit ChlI	ChlI			1G8P
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_01675	COG0589	T	Nucleotide-binding universal stress protein,  UspA family	UspA			1JMV
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_01690	COG0439	I	Biotin carboxylase	AccC	Fatty acid biosynthesis		1BNC
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_01735	COG1396	K	Transcriptional regulator, contains XRE-family HTH domain	HipB			1ADR
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_01750	COG3657	V	Putative component of the toxin-antitoxin plasmid stabilization module				
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_01755	COG3620	K	Predicted transcriptional regulator, contains an XRE-type HTH domain (archaeal members contain CBS pair)	AF2118			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_01775	COG0683	E	ABC-type branched-chain amino acid transport system, periplasmic component	LivK			1USG
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_01780	COG2205	T	K+-sensing histidine kinase KdpD	KdpD			2KSF
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_01785	COG0784	T	CheY-like REC (receiver) domain, includes chemotaxis protein CheY  and sporulation regulator Spo0F	CheY			6QRJ
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_01790	COG2203	T	GAF domain	GAF			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_01795	COG0784	T	CheY-like REC (receiver) domain, includes chemotaxis protein CheY  and sporulation regulator Spo0F	CheY			6QRJ
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_01815	COG2204	T	DNA-binding transcriptional response regulator, NtrC family, contains REC, AAA-type ATPase, and a Fis-type DNA-binding domains	AtoC			1ZY2
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_01820	COG2204	T	DNA-binding transcriptional response regulator, NtrC family, contains REC, AAA-type ATPase, and a Fis-type DNA-binding domains	AtoC			1ZY2
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_01825	COG3437	T	Response regulator c-di-GMP phosphodiesterase, RpfG family, contains REC and HD-GYP domains	RpfG			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_01830	COG3706	TK	Two-component response regulator, PleD family, consists of two REC domains and a diguanylate cyclase (GGDEF) domain	PleD			1W25
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_01840	COG2963	X	Transposase InsE and inactivated derivatives	InsE		23818957	2JN6
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_01860	COG5002	T	Sensor histidine kinase WalK	WalK			4I5S
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_01865	COG0747	E	ABC-type transport system, periplasmic component	DdpA			3RQT
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_01870	COG1131	V	ABC-type multidrug transport system, ATPase component	CcmA			5DO7
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_01875	COG1682	G	ABC-type polysaccharide/teichoic acid/polyol phosphate export permease	TagG			6JBH
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_01880	COG0297	G	Glycogen synthase	GlgA			1RZU
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_01900	COG0436	E	Aspartate/methionine/tyrosine aminotransferase	AspB	Isoleucine, leucine, valine biosynthesis		2O0R
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_01905	COG1917	R	Cupin domain protein related to quercetin dioxygenase	QdoI			2H0V
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_01910	COG2040	E	Homocysteine/selenocysteine methylase (S-methylmethionine-dependent)	MHT1			5DML
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_01915	COG1208	JM	NDP-sugar pyrophosphorylase, includes eIF-2Bgamma, eIF-2Bepsilon, and LPS biosynthesis protein s	GCD1			6JQ8
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_01920	COG2185	I	Methylmalonyl-CoA mutase, C-terminal domain/subunit (cobalamin-binding)	Sbm			1B1A
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_01970	COG0394	T	Protein-tyrosine-phosphatase	Wzb		26641313	4D74
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_01985	COG1309	K	DNA-binding protein, AcrR family, includes nucleoid occlusion protein SlmA	AcrR			2QOP
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_01995	COG0784	T	CheY-like REC (receiver) domain, includes chemotaxis protein CheY  and sporulation regulator Spo0F	CheY			6QRJ
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_02015	COG0784	T	CheY-like REC (receiver) domain, includes chemotaxis protein CheY  and sporulation regulator Spo0F	CheY			6QRJ
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_02020	COG2205	T	K+-sensing histidine kinase KdpD	KdpD			2KSF
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_02025	COG0642	T	Signal transduction histidine kinase	BaeS			1JOY
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_02040	COG3608	R	Predicted deacylase				3CDX
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_02045	COG0421	E	Spermidine synthase (polyamine aminopropyltransferase)	SpeE			6BQ2
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_02050	COG2204	T	DNA-binding transcriptional response regulator, NtrC family, contains REC, AAA-type ATPase, and a Fis-type DNA-binding domains	AtoC			1ZY2
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_02060	COG3852	T	Signal transduction histidine kinase NtrB, nitrogen specific	NtrB		23893111	
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_02065	COG4604	P	ABC-type enterochelin transport system, ATPase component	CeuD			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_02070	COG4149	P	ABC-type molybdate transport system, permease component ModB	ModB	Molybdopterin biosynthesis		
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_02075	COG4590	R	ABC-type uncharacterized transport system, permease component				
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_02080	COG2358	R	TRAP-type uncharacterized transport system, periplasmic component	Imp			1US4
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_02090	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_02120	COG1291	N	Flagellar motor component MotA	MotA			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_02125	COG1360	N	Flagellar motor protein MotB	MotB			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_02140	COG0160	E	Acetylornithine aminotransferase/4-aminobutyrate aminotransferase	ArgD	Arginine biosynthesis		1SF2
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_02145	COG2353	R	Polyisoprenoid-binding periplasmic protein YceI	YceI		15741337;20236316	1WUB
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_02155	COG4219	T	Signal transducer regulating beta-lactamase production, contains metallopeptidase domain	MecR1			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_02160	COG3682	K	Transcriptional regulator, CopY/TcrY family	CopY			1OKR
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_02165	COG1241	L	DNA replicative helicase MCM subunit Mcm2, Cdc46/Mcm family	Mcm2			3F8T
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_02170	COG4973	L	Site-specific recombinase XerC	XerC			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_02175	COG3290	T	Sensor histidine kinase DipB regulating citrate/malate metabolism	CitA			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_02180	COG2204	T	DNA-binding transcriptional response regulator, NtrC family, contains REC, AAA-type ATPase, and a Fis-type DNA-binding domains	AtoC			1ZY2
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_02185	COG2204	T	DNA-binding transcriptional response regulator, NtrC family, contains REC, AAA-type ATPase, and a Fis-type DNA-binding domains	AtoC			1ZY2
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_02200	COG1087	M	UDP-glucose 4-epimerase	GalE			1A9Y
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_02215	COG3568	R	Metal-dependent hydrolase, endonuclease/exonuclease/phosphatase family	ElsH		15178340	
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_02220	COG3030	R	FxsA protein affecting phage T7 exclusion by the F plasmid, UPF0716 family	FxsA			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_02225	COG0530	P	Ca2+/Na+ antiporter	ECM27			3V5S
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_02230	COG3807	S	SH3-like domain	SH3			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_02235	COG1734	K	RNA polymerase-binding transcription factor DksA	DksA			1TJL
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_02240	COG0727	R	Uncharacterized protein YkgJ, contains CxxCxxCC motif	YkgJ			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_02245	COG0010	E	Arginase/agmatinase family enzyme	SpeB	Urea cycle		1CEV
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_02270	COG0025	P	NhaP-type Na+/H+ or K+/H+ antiporter	NhaP			4CZB
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_02280	COG0215	J	Cysteinyl-tRNA synthetase	CysS	Aminoacyl-tRNA synthetases		1LI5
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_02285	COG2761	O	Predicted dithiol-disulfide isomerase, DsbA/YjbH family (virulence, stress resistance)	FrnE			6GHB
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_02300	COG0673	R	Predicted dehydrogenase	MviM			3UUW
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_02305	COG3439	S	Uncharacterized conserved protein, DUF302 family				1J3M
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_02310	COG5000	T	Signal transduction histidine kinase NtrY involved in nitrogen fixation and metabolism regulation	NtrY			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_02325	COG0534	V	Na+-driven multidrug efflux pump, DinF/NorM/MATE family	NorM		29915058	3VVN
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_02330	COG0645	R	Predicted kinase, contains AAA domain				2RHM
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_02345	COG0778	C	Nitroreductase	NfnB	Pyrimidine degradation		1F5V
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_02350	COG2005	K	DNA-binding transcriptional regulator ModE (molybdenum-dependent)	ModE		19779461	1B9M
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_02355	COG1538	M	Outer membrane protein TolC	TolC			1EK9
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_02360	COG1033	R	Predicted exporter protein, RND superfamily	MMPL			5KHN
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_02365	COG4775	M	Outer membrane protein assembly factor BamA	BamA			5EKQ
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_02370	COG2988	E	Succinylglutamate desuccinylase	AstE			1YW4
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_02375	COG1181	MR	D-alanine-D-alanine ligase or related ATP-grasp enzyme	DdlA	Mureine biosynthesis		1E4E
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_02395	COG4942	D	Septal ring factor EnvC, activator of murein hydrolases AmiA and AmiB	EnvC			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_02400	COG0112	E	Glycine/serine hydroxymethyltransferase	GlyA	Serine biosynthesis		1BJ4
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_02405	COG0698	G	Ribose 5-phosphate isomerase RpiB	RpiB	Pentose phosphate pathway		1NN4
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_02410	COG0304	IQ	3-oxoacyl-(acyl-carrier-protein) synthase	FabB	Fatty acid biosynthesis	21652641	2UV8
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_02415	COG0236	I	Acyl carrier protein	AcpP	Fatty acid biosynthesis		1ACP
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_02420	COG0623	I	Enoyl-[acyl-carrier-protein] reductase FabI	FabI	Fatty acid biosynthesis		1C14
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_02425	COG0331	I	Malonyl CoA-acyl carrier protein transacylase	FabD	Fatty acid biosynthesis		1YXC
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_02430	COG3424	Q	Predicted naringenin-chalcone synthase	BH0617			1BI5
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_02435	COG0333	J	Ribosomal protein L32	RpmF	Ribosome 50S subunit	17114934	1VS6
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_02440	COG1399	J	23S rRNA accumulation protein YceD (essential in plants, uncharacterized in bacteria)	YceD		27574185	
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_02475	COG2204	T	DNA-binding transcriptional response regulator, NtrC family, contains REC, AAA-type ATPase, and a Fis-type DNA-binding domains	AtoC			1ZY2
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_02505	COG5343	T	Anti-sigma-K factor RskA	RskA		16011798;15972856	
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_02510	COG1595	K	DNA-directed RNA polymerase specialized sigma subunit, sigma24 family	RpoE	RNA polymerase		2Q1Z
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_02525	COG1477	HO	FAD:protein FMN transferase ApbE	ApbE		23558683;30154099	1VRM
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_02535	COG1278	K	Cold shock protein, CspA family	CspC			1C9O
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_02550	COG0789	K	DNA-binding transcriptional regulator, MerR family	SoxR			2VZ4
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_02555	COG1340	S	Uncharacterized coiled-coil protein, contains DUF342 domain				
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_02585	COG3620	K	Predicted transcriptional regulator, contains an XRE-type HTH domain (archaeal members contain CBS pair)	AF2118			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_02600	COG3751	JO	Proline 4-hydroxylase (includes Rps23 Pro-64 3,4-dihydroxylase Tpa1), contains SM-20 domain	EGL9			2G19
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_02605	COG1077	DZ	Cell shape-determining ATPase MreB, actin-like superfamily	MreB			1JCE
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_02610	COG0514	L	Superfamily II DNA helicase RecQ	RecQ			1OYW
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_02620	COG0815	M	Apolipoprotein N-acyltransferase	Lnt			6NWR
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_02625	COG2352	C	Phosphoenolpyruvate carboxylase	Ppc	Urea cycle		1FIY
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_02650	COG2020	O	Protein-S-isoprenylcysteine O-methyltransferase Ste14	STE14			5V7P
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_02660	COG0668	M	Small-conductance mechanosensitive channel	MscS			2OAU
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_02665	COG1292	M	Choline-glycine betaine transporter	BetT			2WIT
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_02670	COG3290	T	Sensor histidine kinase DipB regulating citrate/malate metabolism	CitA			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_02680	COG0412	Q	Dienelactone hydrolase	DLH			4ZV9
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_02685	COG0474	P	Magnesium-transporting ATPase (P-type)	MgtA			1IWO
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_02690	COG3197	O	Cytochrome oxidase maturation protein, CcoS/FixS family	FixS			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_02695	COG0843	C	Heme/copper-type cytochrome/quinol oxidase, subunit 1	CyoB			1AR1
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_02705	COG2010	C	Cytochrome c, mono- and diheme variants	CccA			1A2S
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_02710	COG1143	C	Formate hydrogenlyase subunit 6/NADH:ubiquinone oxidoreductase 23 kD subunit (chain I)	NuoI	NADH dehydrogenase		1B0P
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_02715	COG2836	S	Uncharacterized membrane protein, DsbD domain	DsbD		17768248	
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_02720	COG3000	I	Sterol desaturase/sphingolipid hydroxylase, fatty acid hydroxylase superfamily	ERG3			4ZR0
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_02725	COG0846	O	NAD-dependent protein deacetylase, SIR2 family	SIR2			1M2N
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_02735	COG1051	F	ADP-ribose pyrophosphatase YjhB, NUDIX family	YjhB			3GZ5
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_02740	COG0225	O	Peptide methionine sulfoxide reductase MsrA	MsrA			1FF3
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_02745	COG0605	P	Superoxide dismutase	SodA			1AP5
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_02770	COG1348	HP	Nitrogenase ATPase subunit NifH/coenzyme F430 biosynthesis subunit CfbC	NifH/CfbC		28225763	1CP2
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_02800	COG4551	R	Predicted protein tyrosine phosphatase				
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_02805	COG0229	O	Peptide methionine sulfoxide reductase MsrB	MsrB			1L1D
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_02810	COG0778	C	Nitroreductase	NfnB	Pyrimidine degradation		1F5V
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_02820	COG0697	GER	Permease of the drug/metabolite transporter (DMT) superfamily	RhaT			5I20
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_02825	COG1647	Q	Esterase/lipase	YvaK			4DIU
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_02835	COG0633	C	Ferredoxin	Fdx			1KRH
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_02845	COG1974	KT	SOS-response transcriptional repressor LexA (RecA-mediated autopeptidase)	LexA			1AY9
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_02855	COG4533	K	DNA-binding transcriptional regulator SgrR of sgrS sRNA, contains a MarR-type HTH domain and a periplasmic-type solute-binding domain	SgrR			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_02870	COG0703	E	Shikimate kinase	AroK	Aromatic amino acid biosynthesis		1E6C
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_02880	COG2204	T	DNA-binding transcriptional response regulator, NtrC family, contains REC, AAA-type ATPase, and a Fis-type DNA-binding domains	AtoC			1ZY2
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_02890	COG0784	T	CheY-like REC (receiver) domain, includes chemotaxis protein CheY  and sporulation regulator Spo0F	CheY			6QRJ
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_02905	COG3239	I	Fatty acid desaturase	DesA			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_02925	COG5002	T	Sensor histidine kinase WalK	WalK			4I5S
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_02930	COG5406
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_02935	COG1430	S	Uncharacterized conserved membrane protein, UPF0127 family				3M7A
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_02940	COG0248	FT	Exopolyphosphatase/pppGpp-phosphohydrolase	GppA			1T6C
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_02945	COG3784	S	Uncharacterized conserved protein YdbL, DUF1318 family	YdbL			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_02955	COG1823	E	L-cystine transporter TcyP, sodium:dicarboxylate symporter family	TcyP			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_02960	COG0664	T	cAMP-binding domain of CRP or a regulatory subunit of cAMP-dependent protein kinases	Crp			1FT9
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_02980	COG1032	R	Radical SAM superfamily enzyme YgiQ, UPF0313 family	YgiQ			6FD2
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_03000	COG3321	Q	Acyl transferase domain in polyketide synthase (PKS) enzymes	PksD			6IYO
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_03005	COG4670	I	Acyl CoA:acetate/3-ketoacid CoA transferase	YdiF			5VIT
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_03010	COG2057	I	Acyl-CoA:acetate/3-ketoacid CoA transferase, beta subunit	AtoA			5DBN
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_03015	COG0664	T	cAMP-binding domain of CRP or a regulatory subunit of cAMP-dependent protein kinases	Crp			1FT9
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_03020	COG0469	G	Pyruvate kinase	PykF	Glycolysis		6QXL
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_03035	COG1729	D	Cell division protein CpoB, coordinates peptidoglycan biosynthesis and outer membrane constriction	CpoB		25951518	2WZ7
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_03045	COG3016	R	Putative heme-binding protein PhuW	PhuW		16950397	2G5G
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_03050	COG1651	O	Protein thiol-disulfide isomerase DsbC	DsbG			2HI7
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_03060	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_03070	COG4252	T	Extracytoplasmic sensor domain CHASE2 (specificity unknown)	CHASE2			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_03090	COG0701	S	Uncharacterized membrane protein YraQ, UPF0718 family	YraQ			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_03160	COG0435	C	Glutathionyl-hydroquinone reductase	ECM4			6GCA
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_03165	COG2353	R	Polyisoprenoid-binding periplasmic protein YceI	YceI		15741337;20236316	1WUB
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_03170	COG2845	S	Uncharacterized conserved protein, DUF459 domain				
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_03175	COG1123	O	ABC-type glutathione transport system ATPase component, contains duplicated ATPase domain	GsiA			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_03185	COG1621	G	Sucrose-6-phosphate hydrolase SacC, GH32 family	SacC			1ST8
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_03205	COG1704	M	Magnetosome formation protein MamQ, lipoprotein antigen LemA family	LemA		14638756;20212111;26884433	2ETD
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_03235	COG1239	H	Mg-chelatase subunit ChlI	ChlI			1G8P
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_03240	COG1721	S	Uncharacterized conserved protein, DUF58 family, contains vWF domain	YeaD2			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_03245	COG1305	O	Transglutaminase-like enzyme, putative cysteine protease	YebA			3ISR
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_03260	COG0705	O	Membrane-associated serine protease, rhomboid family	GlpG			2IC8
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_03275	COG4619	P	ABC-type iron transporter FetAB, ATPase component	FetA			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_03285	COG0689	J	Ribonuclease PH	Rph			1UDO
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_03290	COG0127	F	Inosine/xanthosine triphosphate pyrophosphatase, all-alpha NTP-PPase family	RdgB			1B78
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_03295	COG0659	P	Sulfate permease or related transporter, MFS superfamily	SUL1			3NY7
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_03300	COG0462	F	Phosphoribosylpyrophosphate synthetase	PrsA	Histidine biosynthesis, Purine biosynthesis		1DKR
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_03305	COG1825	J	Ribosomal protein L25 (general stress protein Ctc)	RplY	Ribosome 50S subunit		1B75
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_03310	COG0193	J	Peptidyl-tRNA hydrolase	Pth	Translation factors	11835511	1RYB
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_03315	COG1163	J	Ribosome-interacting GTPase RBG1	Rbg1			4A9A
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_03330	COG1178	P	ABC-type Fe3+ transport system, permease component	FbpB			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_03335	COG1173	EP	ABC-type dipeptide/oligopeptide/nickel transport system, permease component	DppC			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_03340	COG4533	K	DNA-binding transcriptional regulator SgrR of sgrS sRNA, contains a MarR-type HTH domain and a periplasmic-type solute-binding domain	SgrR			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_03345	COG1729	D	Cell division protein CpoB, coordinates peptidoglycan biosynthesis and outer membrane constriction	CpoB		25951518	2WZ7
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_03350	COG0467	T	RecA-superfamily ATPase, KaiC/GvpD/RAD55 family	RAD55			1TF7
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_03360	COG0554	C	Glycerol kinase	GlpK			2ZF5
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_03370	COG0526	O	Thiol-disulfide isomerase or thioredoxin	TrxA			1XFL
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_03405	COG3316	X	Transposase (or an inactivated derivative), DDE domain	Rve			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_03430	COG4102	S	Uncharacterized conserved protein, DUF1501 family				
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_03445	COG0572	F	Uridine kinase	Udk	Pyrimidine salvage		5B3F
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_03450	COG4147	C	Na+(or H+)/acetate symporter ActP	ActP			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_03460	COG1396	K	Transcriptional regulator, contains XRE-family HTH domain	HipB			1ADR
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_03470	COG1075	I	Triacylglycerol esterase/lipase EstA, alpha/beta hydrolase fold	EstA			1I6W
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_03475	COG1185	J	Polyribonucleotide nucleotidyltransferase (polynucleotide phosphorylase)	Pnp			1E3P
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_03495	COG5256	J	Translation elongation factor EF-1alpha (GTPase)	TEF1	Translation factors		1F60
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_03510	COG0456	J	Ribosomal protein S18 acetylase RimI and related acetyltransferases	RimI			1GHE
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_03520	COG4942	D	Septal ring factor EnvC, activator of murein hydrolases AmiA and AmiB	EnvC			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_03530	COG1291	N	Flagellar motor component MotA	MotA			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_03535	COG0848	U	Biopolymer transport protein ExbD	ExbD			2JWK
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_03540	COG3047	M	Outer membrane protein OmpW	OmpW			2F1T
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_03545	COG1360	N	Flagellar motor protein MotB	MotB			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_03550	COG2204	T	DNA-binding transcriptional response regulator, NtrC family, contains REC, AAA-type ATPase, and a Fis-type DNA-binding domains	AtoC			1ZY2
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_03555	COG5000	T	Signal transduction histidine kinase NtrY involved in nitrogen fixation and metabolism regulation	NtrY			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_03565	COG0143	J	Methionyl-tRNA synthetase	MetG	Aminoacyl-tRNA synthetases		1A8H
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_03585	COG3024	L	Endogenous inhibitor of DNA gyrase, YacG/DUF329 family	YacG		18586829	1LV3
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_03600	COG0061	H	NAD kinase	NadK			1SUW
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_03615	COG4787	N	Flagellar basal body rod protein FlgF	FlgF			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_03625	COG1843	N	Flagellar hook-capping protein FlgD	FlgD			6IEF
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_03630	COG3144	N	Flagellar hook-length control protein FliK	FliK			2RRL
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_03655	COG1158	K	Transcription termination factor Rho	Rho			1PVO
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_03660	COG1317	NU	Flagellar biosynthesis/type III secretory pathway protein FliH	FliH			5B0O
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_03665	COG1536	N	Flagellar motor switch protein FliG	FliG			4FHR
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_03670	COG4669	U	Type III secretory pathway, lipoprotein EscJ	EscJ			1YJ7
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_03675	COG1677	N	Flagellar hook-basal body complex protein FliE	FliE			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_03680	COG1815	N	Flagellar basal body rod protein FlgB	FlgB			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_03685	COG1815	N	Flagellar basal body rod protein FlgB	FlgB			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_03690	COG0480	J	Translation elongation factor EF-G, a GTPase	FusA	Translation factors		1DAR
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_03695	COG1670	JO	Protein N-acetyltransferase, RimJ/RimL family	RimL			1S7F
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_03705	COG0117	H	Riboflavin biosynthesis protein RibD, pyrimidine deaminase domain	RibD1	Riboflavin/FAD biosynthesis		2O7P
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_03710	COG4535	P	Mg2+ and Co2+ transporter CorC, contains CBS pair and CorC-HlyC domains	CorC		1779764	4HG0
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_03715	COG1324	P	Divalent cation tolerance protein CutA	CutA1			1NAQ
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_03720	COG0503	F	Adenine/guanine phosphoribosyltransferase or related PRPP-binding protein	Apt	Purine salvage		1QB7
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_03740	COG3958	G	Transketolase, C-terminal subunit	TktA2			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_03750	COG0793	O	C-terminal processing protease CtpA/Prc, contains a PDZ domain	CtpA			6IQU
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_03770	COG5499	V	Antitoxin component HigA of the HigAB toxin-antitoxin module, contains an N-terminal HTH domain	HigA			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_03775	COG0793	O	C-terminal processing protease CtpA/Prc, contains a PDZ domain	CtpA			6IQU
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_03780	COG2204	T	DNA-binding transcriptional response regulator, NtrC family, contains REC, AAA-type ATPase, and a Fis-type DNA-binding domains	AtoC			1ZY2
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_03790	COG3759	S	Uncharacterized membrane protein			15101977	
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_03800	COG0239	DP	Fluoride ion exporter CrcB/FEX, affects chromosome condensation	CrcB			5A40
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_03810	COG0560	E	Phosphoserine phosphatase	SerB	Serine biosynthesis		3N28
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_03845	COG2198	T	HPt (histidine-containing phosphotransfer) domain	HPtr			3IQT
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_03855	COG0407	H	Uroporphyrinogen-III decarboxylase HemE	HemE	Heme biosynthesis		2DG5
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_03875	COG2259	S	Uncharacterized membrane protein YphA, DoxX/SURF4 family	DoxX			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_03930	COG3347	G	Rhamnose utilisation protein RhaD, predicted bifunctional aldolase and dehydrogenase	RhaD			3M4R
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_03935	COG4191	T	Signal transduction histidine kinase regulating C4-dicarboxylate transport system				4GCZ
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_03940	COG3434	T	c-di-GMP phosphodiesterase YuxH/PdeH, contains EAL and HDOD domains	YuxH		23893111	
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_03945	COG0784	T	CheY-like REC (receiver) domain, includes chemotaxis protein CheY  and sporulation regulator Spo0F	CheY			6QRJ
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_03950	COG1691	F	NCAIR mutase (PurE)-related protein				
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_03955	COG0027	F	Formate-dependent phosphoribosylglycinamide formyltransferase (GAR transformylase)	PurT	Purine biosynthesis		1KJ8
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_03960	COG1902	C	2,4-dienoyl-CoA reductase or related NADH-dependent reductase, Old Yellow Enzyme (OYE) family	FadH			1BWK
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_03970	COG1459	NUW	Type II secretory pathway, component PulF	PulF			2VMA
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_03975	COG2804	NUW	Type II secretory pathway ATPase GspE/PulE or T4P pilus assembly pathway ATPase PilB	PulE			4KSR
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_03980	COG4964	UW	Flp pilus assembly protein, secretin CpaC	CpaC			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_03985	COG3745	UW	Flp pilus assembly protein CpaB	CpaB			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_04005	COG4960	OT	Flp pilus assembly protein, peptidase CpaA	CpaA		19493340	3S0X
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_04025	COG4594	P	ABC-type Fe3+-citrate transport system, periplasmic component	FecB			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_04030	COG0457	R	Tetratricopeptide (TPR) repeat	TPR			3AS4
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_04040	COG0815	M	Apolipoprotein N-acyltransferase	Lnt			6NWR
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_04045	COG4911	S	Uncharacterized conserved protein, DUF2203 domain				
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_04050	COG3359	R	Uncharacterized conserved protein YprB, contains RNaseH-like and TPR domains	YprB			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_04055	COG0633	C	Ferredoxin	Fdx			1KRH
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_04060	COG4565	KT	DNA-binding response regulator DpiB of citrate/malate metabolism	CitB			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_04070	COG4750	MI	CTP:phosphocholine cytidylyltransferase LicC	LicC			1JYK
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_04080	COG1198	L	Primosomal protein N' (replication factor Y) - superfamily II helicase	PriA			6DCR
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_04095	COG0052	J	Ribosomal protein S2	RpsB	Ribosome 30S subunit		4V4H
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_04100	COG0264	J	Translation elongation factor EF-Ts	Tsf	Translation factors		1EFU
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_04105	COG0527	E	Aspartate kinase	MetL1	Lysine biosynthesis		2CDQ
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_04110	COG0233	J	Ribosome recycling factor	Frr			1DD5
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_04115	COG0020	I	Undecaprenyl pyrophosphate synthase	UppS			1X07
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_04120	COG4589	R	Predicted CDP-diglyceride synthetase/phosphatidate cytidylyltransferase	YnbB			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_04140	COG0544	O	FKBP-type peptidyl-prolyl cis-trans isomerase (trigger factor)	Tig			5OWI
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_04145	COG0003	P	Anion-transporting ATPase, ArsA/GET3 family	ArsA			1F48
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_04150	COG1192	DN	ParA-like ATPase involved in chromosome/plasmid partitioning or cellulose biosynthesis protein BcsQ	ParA			6NOO
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_04155	COG1729	D	Cell division protein CpoB, coordinates peptidoglycan biosynthesis and outer membrane constriction	CpoB		25951518	2WZ7
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_04160	COG2981	EP	Sulfate transporter CysZ	CysZ		24657232	3TX3
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_04175	COG0260	E	Leucyl aminopeptidase	PepB		19553197;23825549	3H8E
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_04180	COG0616	O	Periplasmic serine protease, ClpP class	SppA			3BEZ
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_04185	COG0542	O	ATP-dependent Clp protease, ATP-binding subunit ClpA	ClpA			1KSF
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_04190	COG0714	R	MoxR-like ATPase	MoxR	Cobalamine/B12 biosynthesis		2R44
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_04195	COG3710	K	DNA-binding winged helix-turn-helix (wHTH) domain	CadC1			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_04245	COG2091	H	Phosphopantetheinyl transferase	Sfp			1QR0
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_04270	COG3976	R	Uncharacterized conserved protein, contains FMN-binding domain				
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_04295	COG3883	S	Uncharacterized N-terminal coiled-coil domain of peptidoglycan hydrolase CwlO	CwlO1			4CGK
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_04300	COG4591	M	ABC-type transport system involved in lipoprotein release, permease component LolC	LolE			6F49
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_04305	COG0488	R	ATPase components of ABC transporters with duplicated ATPase domains	Uup			5ZXD
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_04330	COG3844	E	Kynureninase	Bna5			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_04335	COG0719	O	Fe-S cluster assembly scaffold protein SufB	SufB			1VH4
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_04340	COG3839	G	ABC-type sugar transport system, ATPase component MalK	MalK			2ONK
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_04345	COG0719	O	Fe-S cluster assembly scaffold protein SufB	SufB			1VH4
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_04350	COG1959	K	DNA-binding transcriptional regulator, IscR family	IscR			1XD7
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_04360	COG1291	N	Flagellar motor component MotA	MotA			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_04375	COG1506	E	Dipeptidyl aminopeptidase/acylaminoacyl peptidase	DAP2			2JBW
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_04385	COG1038	C	Pyruvate carboxylase	PycA	Urea cycle		5VYW
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_04390	COG0458	EF	Carbamoylphosphate synthase large subunit	CarB	Arginine biosynthesis		1C30
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_04395	COG0447	H	1,4-Dihydroxy-2-naphthoyl-CoA synthase	MenB	Menaquinone biosynthesis		4ELS
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_04400	COG4799	I	Acetyl-CoA carboxylase, carboxyltransferase component	MmdA			1OD2
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_04410	COG0500	QR	SAM-dependent methyltransferase	SmtA			5DNK
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_04415	COG1004	M	UDP-glucose 6-dehydrogenase	Ugd			1DLI
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_04420	COG0297	G	Glycogen synthase	GlgA			1RZU
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_04435	COG2204	T	DNA-binding transcriptional response regulator, NtrC family, contains REC, AAA-type ATPase, and a Fis-type DNA-binding domains	AtoC			1ZY2
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_04445	COG4753	TK	Two-component response regulator, YesN/AraC family, consists of REC and AraC-type DNA-binding domains	YesN			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_04450	COG2159	G	5-carboxyvanillate decarboxylase LigW (lignin degradation), amidohydro domain	LigW		26714575	2DVT
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_04455	COG0623	I	Enoyl-[acyl-carrier-protein] reductase FabI	FabI	Fatty acid biosynthesis		1C14
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_04460	COG1770	E	Protease II	PtrB			4BP9
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_04470	COG2814	G	Predicted arabinose efflux permease AraJ, MFS family	AraJ			4LDS
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_04480	COG0534	V	Na+-driven multidrug efflux pump, DinF/NorM/MATE family	NorM		29915058	3VVN
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_04490	COG0667	HR	Pyridoxal reductase PdxI or related oxidoreductase, aldo/keto reductase family	PdxI		32253339	1LQA
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_04505	COG2165	NUW	Type II secretory pathway, pseudopilin PulG	PulG			1AY2
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_04510	COG2127	O	ATP-dependent Clp protease adapter protein ClpS	ClpS			1LZW
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_04515	COG0542	O	ATP-dependent Clp protease, ATP-binding subunit ClpA	ClpA			1KSF
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_04525	COG1304	CIR	FMN-dependent dehydrogenase, includes L-lactate dehydrogenase and type II isopentenyl diphosphate isomerase	LldD	Isoprenoid biosynthesis		6AI7
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_04530	COG4783	MO	Outer membrane protein chaperone/metalloprotease BepA/YfgC, contains M48 and TPR domains	BepA		24003122	6AIT
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_04550	COG2211	G	Na+/melibiose symporter or related transporter	MelB			4M64
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_04555	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_04560	COG0641	O	Sulfatase maturation enzyme AslB, radical SAM superfamily	AslB			4K37
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_04565	COG0524	G	Sugar or nucleoside kinase, ribokinase family	RbsK	Glycolysis		2QCV
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_04570	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_04580	COG0166	G	Glucose-6-phosphate isomerase	Pgi	Glycolysis		1B0Z
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_04585	COG5001	T	Cyclic di-GMP metabolism protein, combines GGDEF and EAL domains with a 6TM membrane domain				
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_04590	COG4941	K	Predicted RNA polymerase sigma factor, contains C-terminal TPR domain				
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_04615	COG1116	P	ABC-type nitrate/sulfonate/bicarbonate transport system, ATPase component	TauB			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_04630	COG2804	NUW	Type II secretory pathway ATPase GspE/PulE or T4P pilus assembly pathway ATPase PilB	PulE			4KSR
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_04645	COG1727	J	Ribosomal protein L18E	RPL18A	Archaeal ribosomal proteins		
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_04650	COG1841	J	Ribosomal protein L30/L7E	RpmD	Ribosome 50S subunit		1VS6
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_04665	COG0097	J	Ribosomal protein L6P/L9E	RplF	Ribosome 50S subunit		1VS6
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_04670	COG0096	J	Ribosomal protein S8	RpsH	Ribosome 30S subunit		4V4H
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_04675	COG0094	J	Ribosomal protein L5	RplE	Ribosome 50S subunit		1VS6
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_04680	COG0093	J	Ribosomal protein L14	RplN	Ribosome 50S subunit		4V4H
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_04685	COG0186	J	Ribosomal protein S17	RpsQ	Ribosome 30S subunit		4V4H
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_04690	COG0255	J	Ribosomal protein L29	RpmC	Ribosome 50S subunit		1VS6
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_04695	COG0197	J	Ribosomal protein L16/L10AE	RplP	Ribosome 50S subunit		1WKI
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_04700	COG0092	J	Ribosomal protein S3	RpsC	Ribosome 30S subunit		1VS6
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_04710	COG0185	J	Ribosomal protein S19	RpsS	Ribosome 30S subunit		4V4H
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_04715	COG0090	J	Ribosomal protein L2	RplB	Ribosome 50S subunit		1VS6
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_04720	COG0089	J	Ribosomal protein L23	RplW	Ribosome 50S subunit		1VS6
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_04725	COG0088	J	Ribosomal protein L4	RplD	Ribosome 50S subunit		1VS6
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_04730	COG0087	J	Ribosomal protein L3	RplC	Ribosome 50S subunit		1VS6
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_04735	COG0051	J	Ribosomal protein S10	RpsJ	Ribosome 30S subunit		4V4H
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_04740	COG0480	J	Translation elongation factor EF-G, a GTPase	FusA	Translation factors		1DAR
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_04750	COG0049	J	Ribosomal protein S7	RpsG	Ribosome 30S subunit		4V4H
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_04755	COG0048	J	Ribosomal protein S12	RpsL	Ribosome 30S subunit		4V4H
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_04760	COG0086	K	DNA-directed RNA polymerase, beta' subunit/160 kD subunit	RpoC	RNA polymerase		1NT9
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_04770	COG0053	P	Divalent metal cation (Fe/Co/Zn/Cd) efflux pump	FieF			2QFI
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_04780	COG1305	O	Transglutaminase-like enzyme, putative cysteine protease	YebA			3ISR
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_04785	COG2207	K	AraC-type DNA-binding domain and AraC-containing proteins	AraC			1BL0
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_04790	COG1230	P	Co/Zn/Cd efflux system component	CzcD			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_04795	COG1033	R	Predicted exporter protein, RND superfamily	MMPL			5KHN
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_04805	COG1538	M	Outer membrane protein TolC	TolC			1EK9
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_04820	COG1033	R	Predicted exporter protein, RND superfamily	MMPL			5KHN
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_04825	COG1566	V	Multidrug resistance efflux pump EmrA	EmrA			4TKO
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_04830	COG1538	M	Outer membrane protein TolC	TolC			1EK9
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_04840	COG1595	K	DNA-directed RNA polymerase specialized sigma subunit, sigma24 family	RpoE	RNA polymerase		2Q1Z
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_04850	COG1937	K	DNA-binding transcriptional regulator, FrmR family	FrmR			2HH7
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_04855	COG2217	P	Cation-transporting P-type ATPase	ZntA			4BBJ
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_04860	COG2608	P	Copper chaperone CopZ	CopZ			1AFI
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_04870	COG4538	S	Uncharacterized conserved protein, contains SnoaL-like domain	SnoaL			2K54
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_04875	COG3706	TK	Two-component response regulator, PleD family, consists of two REC domains and a diguanylate cyclase (GGDEF) domain	PleD			1W25
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_04890	COG2021	E	Homoserine O-acetyltransferase	MET2	Methionine biosynthesis		2VAT
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_04900	COG2866	M	Murein tripeptide amidase MpaA	MpaA			1ARL
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_04905	COG0697	GER	Permease of the drug/metabolite transporter (DMT) superfamily	RhaT			5I20
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_04915	COG1729	D	Cell division protein CpoB, coordinates peptidoglycan biosynthesis and outer membrane constriction	CpoB		25951518	2WZ7
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_04925	COG2333	U	DNA uptake channel protein ComEC C-terminal domain, metallo-beta-lactamase superfamily	ComEC			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_04930	COG0686	E	Alanine dehydrogenase (includes sporulation protein SpoVN)	Ald	Urea cycle		2EEZ
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_04940	COG0774	M	UDP-3-O-acyl-N-acetylglucosamine deacetylase	LpxC	Lipid A biosynthesis		1P42
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_04950	COG2256	L	Replication-associated recombination protein RarA (DNA-dependent ATPase)	RarA			3PVS
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_04955	COG0632	L	Holliday junction resolvasome RuvABC DNA-binding subunit	RuvA			1BDX
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_04965	COG4783	MO	Outer membrane protein chaperone/metalloprotease BepA/YfgC, contains M48 and TPR domains	BepA		24003122	6AIT
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_04970	COG0231	J	Translation elongation factor P (EF-P)/translation initiation factor 5A (eIF-5A)	Efp	Translation factors		1UEB
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_04975	COG0165	E	Argininosuccinate lyase	ArgH	Arginine biosynthesis		1AOS
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_04980	COG0152	F	Phosphoribosylaminoimidazole-succinocarboxamide synthase	PurC	Purine biosynthesis		1A48
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_04990	COG0118	E	Imidazoleglycerol phosphate synthase glutamine amidotransferase subunit HisH	HisH	Histidine biosynthesis		1OX4
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_04995	COG0309	O	Carbamoyl dehydratase HypE (hydrogenase maturation factor)	HypE		28618091	2I6R
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_05000	COG0367	E	Asparagine synthetase B (glutamine-hydrolyzing)	AsnB	Asparagine biosynthesis	25951518	2ETD
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_05005	COG1387	ER	Histidinol phosphatase or related hydrolase of the PHP family	HIS2	Histidine biosynthesis		1M65
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_05030	COG1680	V	CubicO group peptidase, beta-lactamase class C family	AmpC			1BLS
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_05035	COG0769	M	UDP-N-acetylmuramyl tripeptide synthase	MurE	Mureine biosynthesis		1E8C
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_05050	COG0249	L	DNA mismatch repair ATPase MutS	MutS			1E3M
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_05070	COG0564	J	Pseudouridine synthase RluA, 23S rRNA- or tRNA-specific	RluA	23S rRNA modification		2I82
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_05075	COG3568	R	Metal-dependent hydrolase, endonuclease/exonuclease/phosphatase family	ElsH		15178340	
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_05120	COG0691	O	tmRNA-binding protein	SmpB		26251518	1J1H
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_05125	COG3963	I	Phosphatidylethanolamine N-methyltransferase				
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_05130	COG0533	J	tRNA A37 threonylcarbamoyltransferase TsaD	TsaD	tRNA modification	23072323;21285948;32385138	3ENO
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_05135	COG1729	D	Cell division protein CpoB, coordinates peptidoglycan biosynthesis and outer membrane constriction	CpoB		25951518	2WZ7
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_05145	COG1360	N	Flagellar motor protein MotB	MotB			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_05165	COG0436	E	Aspartate/methionine/tyrosine aminotransferase	AspB	Isoleucine, leucine, valine biosynthesis		2O0R
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_05170	COG1056	H	Nicotinamide mononucleotide adenylyltransferase	NadR	NAD biosynthesis		1LW7
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_05175	COG1092	J	23S rRNA G2069 N7-methylase RlmK or C1962 C5-methylase RlmI	RlmK	23S rRNA modification		2B78
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_05185	COG2204	T	DNA-binding transcriptional response regulator, NtrC family, contains REC, AAA-type ATPase, and a Fis-type DNA-binding domains	AtoC			1ZY2
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_05190	COG5002	T	Sensor histidine kinase WalK	WalK			4I5S
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_05210	COG0859	M	ADP-heptose:LPS heptosyltransferase	RfaF			1PSW
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_05215	COG0031	E	Cysteine synthase	CysK	Cysteine biosynthesis		1FCJ
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_05220	COG3063	NW	Type IV pilus assembly protein PilF/PilW	PilF		16403447	2VQ2
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_05245	COG1579	R	Predicted nucleic acid-binding protein DR0291, contains C4-type Zn-ribbon domain	DR0291			4ILO
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_05275	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_05285	COG0034	F	Glutamine phosphoribosylpyrophosphate amidotransferase	PurF	Purine biosynthesis		1ECB
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_05305	COG3021	R	Uncharacterized conserved protein YafD, endonuclease/exonuclease/phosphatase (EEP) superfamily	YafD			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_05360	COG0615	M	Glycerol-3-phosphate cytidylyltransferase, cytidylyltransferase family	TagD	Riboflavin/FAD biosynthesis		2B7L
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_05365	COG4269	S	Uncharacterized membrane protein YjgN, DUF898 family	YjgN			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_05375	COG1352	T	Methylase of chemotaxis methyl-accepting proteins	CheR			1AF7
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_05380	COG0642	T	Signal transduction histidine kinase	BaeS			1JOY
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_05385	COG4753	TK	Two-component response regulator, YesN/AraC family, consists of REC and AraC-type DNA-binding domains	YesN			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_05390	COG0784	T	CheY-like REC (receiver) domain, includes chemotaxis protein CheY  and sporulation regulator Spo0F	CheY			6QRJ
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_05395	COG0643	T	Chemotaxis protein histidine kinase CheA	CheA			1B3Q
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_05405	COG0117	H	Riboflavin biosynthesis protein RibD, pyrimidine deaminase domain	RibD1	Riboflavin/FAD biosynthesis		2O7P
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_05410	COG0828	J	Ribosomal protein S21	RpsU	Ribosome 30S subunit		4V4H
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_05420	COG0358	L	DNA primase (bacterial type)	DnaG		28128549	3B39
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_05425	COG0568	K	DNA-directed RNA polymerase, sigma subunit (sigma70/sigma32)	RpoD	RNA polymerase		1SIG
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_05445	COG2202	T	PAS domain	PAS			2MWG
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_05495	COG2857	C	Cytochrome c1	CYT1			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_05510	COG2358	R	TRAP-type uncharacterized transport system, periplasmic component	Imp			1US4
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_05515	COG0645	R	Predicted kinase, contains AAA domain				2RHM
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_05530	COG4639	R	Predicted kinase				4GP6
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_05535	COG0483	G	Archaeal fructose-1,6-bisphosphatase or related enzyme, inositol monophosphatase family	SuhB	Gluconeogenesis		1AWB
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_05540	COG2358	R	TRAP-type uncharacterized transport system, periplasmic component	Imp			1US4
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_05565	COG0760	O	Peptidyl-prolyl isomerase, parvulin family	SurA			2ZR5
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_05580	COG0768	DM	Cell division protein FtsI, peptidoglycan transpeptidase (Penicillin-binding protein 2)	FtsI			6HZQ
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_05585	COG0772	D	Peptodoglycan polymerase FtsW/RodA/SpoVE	FtsW		30692671	6BAR
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_05590	COG0526	O	Thiol-disulfide isomerase or thioredoxin	TrxA			1XFL
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_05595	COG2204	T	DNA-binding transcriptional response regulator, NtrC family, contains REC, AAA-type ATPase, and a Fis-type DNA-binding domains	AtoC			1ZY2
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_05610	COG0795	MN	Lipopolysaccharide export LptBFGC system, permease protein LptF	LptF			6S8H
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_05690	COG5000	T	Signal transduction histidine kinase NtrY involved in nitrogen fixation and metabolism regulation	NtrY			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_05695	COG2204	T	DNA-binding transcriptional response regulator, NtrC family, contains REC, AAA-type ATPase, and a Fis-type DNA-binding domains	AtoC			1ZY2
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_05700	COG0477	GEPR	MFS family permease, includes anhydromuropeptide permease AmpG	ProP		12426329	
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_05710	COG2204	T	DNA-binding transcriptional response regulator, NtrC family, contains REC, AAA-type ATPase, and a Fis-type DNA-binding domains	AtoC			1ZY2
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_05715	COG2198	T	HPt (histidine-containing phosphotransfer) domain	HPtr			3IQT
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_05720	COG2204	T	DNA-binding transcriptional response regulator, NtrC family, contains REC, AAA-type ATPase, and a Fis-type DNA-binding domains	AtoC			1ZY2
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_05725	COG2204	T	DNA-binding transcriptional response regulator, NtrC family, contains REC, AAA-type ATPase, and a Fis-type DNA-binding domains	AtoC			1ZY2
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_05730	COG0784	T	CheY-like REC (receiver) domain, includes chemotaxis protein CheY  and sporulation regulator Spo0F	CheY			6QRJ
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_05740	COG4192	T	Signal transduction histidine kinase regulating phosphoglycerate transport system				
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_05765	COG1506	E	Dipeptidyl aminopeptidase/acylaminoacyl peptidase	DAP2			2JBW
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_05790	COG1791	E	Acireductone dioxygenase (methionine salvage), cupin superfamily	Adi1			1VR3
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_05795	COG3706	TK	Two-component response regulator, PleD family, consists of two REC domains and a diguanylate cyclase (GGDEF) domain	PleD			1W25
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_05800	COG2255	L	Holliday junction resolvasome RuvABC, ATP-dependent DNA helicase subunit RuvB	RuvB			1HQC
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_05815	COG3168	NW	Type IV pilus assembly protein PilP	PilP			2IVW
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_05820	COG3167	NW	Type IV pilus assembly protein PilO	PilO			2RJZ
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_05825	COG3166	NW	Type IV pilus assembly protein PilN	PilN			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_05830	COG0849	D	Cell division ATPase FtsA	FtsA			3WT0
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_05835	COG4960	OT	Flp pilus assembly protein, peptidase CpaA	CpaA		19493340	3S0X
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_05840	COG1277	O	ABC-type transport system involved in multi-copper enzyme maturation, permease component	NosY			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_05845	COG3842	E	ABC-type Fe3+/spermidine/putrescine transport systems, ATPase component	PotA			1Z47
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_05850	COG0439	I	Biotin carboxylase	AccC	Fatty acid biosynthesis		1BNC
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_05860	COG0512	EH	Anthranilate/para-aminobenzoate synthase component II (glutamine amidotransferase)	PabA	Aromatic amino acid biosynthesis		1I1Q
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_05865	COG1703	O	GTPase of the G3E family (not a periplasmic protein kinase)	ArgK		18950999	2QM7
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_05870	COG0681	U	Signal peptidase I	LepB		1925027	1B12
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_05875	COG0681	U	Signal peptidase I	LepB		1925027	1B12
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_05880	COG0287	E	Prephenate dehydrogenase	TyrA	Aromatic amino acid biosynthesis		2F1K
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_05905	COG1250	I	3-hydroxyacyl-CoA dehydrogenase	FadB	Fatty acid biosynthesis		5ZQZ
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_05915	COG1884	I	Methylmalonyl-CoA mutase, N-terminal domain/subunit	Sbm			6OXC
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_05920	COG1884	I	Methylmalonyl-CoA mutase, N-terminal domain/subunit	Sbm			6OXC
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_05925	COG0523	R	Zinc metallochaperone YeiR/ZagA and related GTPases, G3E family	YejR		19822009;31132310	1NIJ
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_05930	COG0692	L	Uracil-DNA glycosylase	Ung		16237021	1AKZ
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_05955	COG4753	TK	Two-component response regulator, YesN/AraC family, consists of REC and AraC-type DNA-binding domains	YesN			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_05965	COG1579	R	Predicted nucleic acid-binding protein DR0291, contains C4-type Zn-ribbon domain	DR0291			4ILO
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_05970	COG0400	R	Predicted esterase	YpfH			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_05975	COG2067	I	Long-chain fatty acid transport protein	FadL			1T16
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_05980	COG1994	O	Zn-dependent protease (includes sporulation protein SpoIVFB)	SpoIVFB			3B4R
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_05990	COG1386	K	Chromosome segregation and condensation protein ScpB	ScpB			1T6S
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_06000	COG2081	R	Predicted flavoprotein YhiN	YhiN			3V76
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_06005	COG0688	I	Phosphatidylserine decarboxylase	Psd	Phospholipid biosynthesis		6L06
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_06010	COG1141	C	Ferredoxin	Fer			1IQZ
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_06015	COG5256	J	Translation elongation factor EF-1alpha (GTPase)	TEF1	Translation factors		1F60
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_06025	COG1281	O	Redox-regulated molecular chaperone, HSP33 family	HslO			1HW7
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_06030	COG3437	T	Response regulator c-di-GMP phosphodiesterase, RpfG family, contains REC and HD-GYP domains	RpfG			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_06040	COG1913	R	Predicted Zn-dependent protease				2X7M
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_06050	COG4372	S	Uncharacterized protein, contains DUF3084 domain				
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_06110	COG0265	O	Periplasmic serine protease, S1-C subfamily, contain C-terminal PDZ domain	DegQ		29686141	2HGA
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_06125	COG2312	Q	Erythromycin esterase homolog	YbfO			2QGM
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_06155	COG0346	Q	Catechol 2,3-dioxygenase or related enzyme, vicinal oxygen chelate (VOC) family	GloA		11830595	3R4Q
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_06160	COG1670	JO	Protein N-acetyltransferase, RimJ/RimL family	RimL			1S7F
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_06170	COG1670	JO	Protein N-acetyltransferase, RimJ/RimL family	RimL			1S7F
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_06195	COG3657	V	Putative component of the toxin-antitoxin plasmid stabilization module				
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_06215	COG0789	K	DNA-binding transcriptional regulator, MerR family	SoxR			2VZ4
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_06235	COG0136	E	Aspartate-semialdehyde dehydrogenase	Asd	Lysine biosynthesis		1BRM
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_06245	COG1102	F	Cytidylate kinase	CmkB			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_06250	COG1168	ER	Bifunctional PLP-dependent enzyme with beta-cystathionase and maltose regulon repressor activities	MalY			4DGT
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_06255	COG0308	E	Aminopeptidase N, contains DUF3458 domain	PepN		24123841	6ATK
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_06260	COG0031	E	Cysteine synthase	CysK	Cysteine biosynthesis		1FCJ
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_06270	COG0149	G	Triosephosphate isomerase	TpiA	Glycolysis		1HG3
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_06275	COG0126	G	3-phosphoglycerate kinase	Pgk	Glycolysis		13PK
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_06280	COG0057	G	Glyceraldehyde-3-phosphate dehydrogenase/erythrose-4-phosphate dehydrogenase	GapA	Glycolysis		3ZDF
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_06290	COG1049	C	Aconitase B	AcnB	TCA cycle		1L5J
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_06295	COG1099	R	Predicted metal-dependent hydrolase, TIM-barrel fold				3GUW
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_06300	COG2812	L	DNA polymerase III, gamma/tau subunits	DnaX			1A5T
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_06305	COG0125	F	Thymidylate kinase	Tmk	Thymidylate biosynthesis		3LV8
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_06310	COG2204	T	DNA-binding transcriptional response regulator, NtrC family, contains REC, AAA-type ATPase, and a Fis-type DNA-binding domains	AtoC			1ZY2
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_06340	COG1577	I	Mevalonate kinase	ERG12	Isoprenoid biosynthesis		
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_06360	COG1119	P	ABC-type molybdenum transport system, ATPase component ModF/photorepair protein PhrA	ModF			2IHY
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_06365	COG1293	JO	Ribosome quality control (RQC) protein RqcH, Rqc2/NEMF/Tae2 family, contains fibronectin-(FbpA) and RNA- (NFACT) binding domains	RqcH		31155236;24646681	5H3W
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_06395	COG4753	TK	Two-component response regulator, YesN/AraC family, consists of REC and AraC-type DNA-binding domains	YesN			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_06400	COG2205	T	K+-sensing histidine kinase KdpD	KdpD			2KSF
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_06405	COG1459	NUW	Type II secretory pathway, component PulF	PulF			2VMA
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_06410	COG0630	NU	Type IV secretory pathway ATPase VirB11/Archaellum biosynthesis ATPase ArlI/FlaI	VirB11		32416640	1G6O
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_06420	COG0457	R	Tetratricopeptide (TPR) repeat	TPR			3AS4
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_06445	COG0582	LX	Integrase/recombinase, includes phage integrase	FimB			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_06450	COG2452	X	Predicted site-specific integrase-resolvase				3ILX
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_06495	COG1404	O	Serine protease, subtilisin family	AprE			1SCJ
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_06505	COG1200	L	RecG-like helicase	RecG			1GM5
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_06515	COG3678	O	Periplasmic chaperone Spy, Spy/CpxP family	CpxP			3ITF
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_06525	COG0607	P	Rhodanese-related sulfurtransferase	PspE	Urea cycle		1TQ1
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_06530	COG1190	J	Lysyl-tRNA synthetase (class II)	LysU	Aminoacyl-tRNA synthetases		1BBU
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_06540	COG5000	T	Signal transduction histidine kinase NtrY involved in nitrogen fixation and metabolism regulation	NtrY			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_06545	COG0694	O	Fe-S cluster biogenesis protein NfuA, 4Fe-4S-binding domain	NifU			2Z51
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_06560	COG0171	H	NH3-dependent NAD+ synthetase	NadE	NAD biosynthesis		3HMQ
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_06570	COG0608	L	ssDNA-specific exonuclease RecJ, DHH superfamily, may be involved in archaeal DNA replication intiation	RecJ			1IR6
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_06575	COG0342	U	Preprotein translocase subunit SecD	SecD		26100040	3AQP
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_06580	COG0341	U	Preprotein translocase subunit SecF	SecF		28830929	2FYH
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_06585	COG1862	U	Protein translocase subunit YajC	YajC			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_06590	COG0343	J	Queuine/archaeosine tRNA-ribosyltransferase	Tgt	tRNA modification	15805528	1XW8
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_06595	COG0809	J	S-adenosylmethionine:tRNA-ribosyltransferase-isomerase (queuine synthetase)	QueA	tRNA modification		1VKY
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_06605	COG4269	S	Uncharacterized membrane protein YjgN, DUF898 family	YjgN			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_06615	COG5349	S	Uncharacterized conserved protein, DUF983 family				
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_06630	COG0760	O	Peptidyl-prolyl isomerase, parvulin family	SurA			2ZR5
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_06650	COG0451	M	Nucleoside-diphosphate-sugar epimerase	WcaG			2X4G
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_06660	COG1161	J	Ribosome biogenesis GTPase RbgA	RbgA			6G14
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_06665	COG2771	K	DNA-binding transcriptional regulator, CsgD family	CsgD			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_06675	COG3393	R	Predicted acetyltransferase, GNAT family				
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_06685	COG1309	K	DNA-binding protein, AcrR family, includes nucleoid occlusion protein SlmA	AcrR			2QOP
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_06690	COG1670	JO	Protein N-acetyltransferase, RimJ/RimL family	RimL			1S7F
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_06695	COG0073	J	tRNA-binding EMAP/Myf domain	EMAP			1MKH
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_06705	COG1233	Q	Phytoene dehydrogenase-related protein				4REP
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_06710	COG0247	C	Fe-S cluster-containing oxidoreductase, includes glycolate oxidase subunit GlcF	GlpC			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_06715	COG0494	V	8-oxo-dGTP pyrophosphatase MutT and related house-cleaning NTP pyrophosphohydrolases, NUDIX family	MutT			4V14
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_06720	COG0426	C	Flavorubredoxin	NorV			4JHC
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_06725	COG0730	P	Sulfite exporter TauE/SafE/YfcA and related permeases, UPF0721 family	TauE		21183667;22797525	
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_06765	COG0360	J	Ribosomal protein S6	RpsF	Ribosome 30S subunit		4V4H
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_06795	COG1073	T	Fermentation-respiration switch esterase FrsA, DUF1100 family	FrsA			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_06825	COG0814	E	Amino acid permease	SdaC			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_06830	COG1686	M	D-alanyl-D-alanine carboxypeptidase	DacC			1HD8
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_06840	COG0508	C	Pyruvate/2-oxoglutarate dehydrogenase complex, dihydrolipoamide acyltransferase (E2) component	AceF	Pyruvate oxidation		1B5S
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_06845	COG0354	O	Folate-binding protein YgfZ, synthesis and repair of Fe-S clusters	YgfZ		27941785;22081392	1NRK
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_06850	COG5271	J	Midasin, AAA ATPase with  vWA domain, involved in ribosome maturation	MDN1			6HYP
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_06855	COG0330	O	Regulator of protease activity HflC, stomatin/prohibitin superfamily	HflC			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_06870	COG0190	H	5,10-methylene-tetrahydrofolate dehydrogenase/Methenyl tetrahydrofolate cyclohydrolase	FolD			1A4I
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_06915	COG0739	M	Murein DD-endopeptidase MepM and murein hydrolase activator NlpD, contains LysM domain	NlpD			2GU1
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_06920	COG0509	E	Glycine cleavage system protein H (lipoate-binding)	GcvH	Glycine cleavage		1DXM
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_06930	COG0174	E	Glutamine synthetase	GlnA	Glutamine biosynthesis		1F1H
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_06935	COG3323	S	PII-like insert in the uncharacterized protein YqfO, YbgI/NIF3 family	YqfO		17187687;29625546;31118925	2GX8
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_06940	COG0565	J	tRNA C32,U32 (ribose-2'-O)-methylase TrmJ or a related methyltransferase	TrmJ	tRNA modification		3ONP
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_06965	COG2010	C	Cytochrome c, mono- and diheme variants	CccA			1A2S
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_06975	COG3474	C	Cytochrome c2	Cyc7			1YEA
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_06980	COG0843	C	Heme/copper-type cytochrome/quinol oxidase, subunit 1	CyoB			1AR1
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_06995	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_07005	COG0823	U	Periplasmic component TolB of the Tol biopolymer transport system	TolB			1C5K
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_07010	COG0177	L	Endonuclease III	Nth			4UOB
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_07060	COG1033	R	Predicted exporter protein, RND superfamily	MMPL			5KHN
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_07065	COG1309	K	DNA-binding protein, AcrR family, includes nucleoid occlusion protein SlmA	AcrR			2QOP
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_07100	COG0607	P	Rhodanese-related sulfurtransferase	PspE	Urea cycle		1TQ1
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_07105	COG2206	T	HD-GYP domain, c-di-GMP phosphodiesterase class II (or its inactivated variant)	HDGYP		23475961	5Z7C
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_07110	COG4161	E	ABC-type arginine transport system, ATPase component	ArtP			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_07115	COG0842	V	ABC-type multidrug transport system, permease component	YadH			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_07120	COG1419	N	Flagellar biosynthesis GTPase FlhF	FlhF			3SYN
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_07130	COG1837	R	Predicted RNA-binding protein YlqC, contains KH domain, UPF0109 family	YlqC			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_07155	COG1039	L	Ribonuclease HIII	RnhC			2D0A
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_07165	COG1934	M	Lipopolysaccharide export system protein LptA	LptA			2R19
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_07170	COG4252	T	Extracytoplasmic sensor domain CHASE2 (specificity unknown)	CHASE2			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_07175	COG1124	EP	ABC-type dipeptide/oligopeptide/nickel transport system, ATPase component	DppF			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_07200	COG0824	I	Acyl-CoA thioesterase FadM	FadM	Menaquinone biosynthesis		2FUJ
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_07205	COG0442	J	Prolyl-tRNA synthetase	ProS	Aminoacyl-tRNA synthetases		5XIF
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_07210	COG0595	J	mRNA degradation ribonuclease J1/J2	RnjA			3T3N
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_07220	COG1047	O	Peptidyl-prolyl cis-trans isomerase, FKBP type	SlpA			2M2A
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_07235	COG1057	H	Nicotinate-nucleotide adenylyltransferase NadD	NadD	NAD biosynthesis		1YUM
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_07240	COG0365	I	Acyl-coenzyme A synthetase/AMP-(fatty) acid ligase	Acs		14638756	4B2O
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_07245	COG2062	T	Phosphohistidine phosphatase SixA	SixA			1UJB
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_07255	COG4667	I	Predicted phospholipase, patatin/cPLA2 family	YjjU			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_07290	COG3591	O	V8-like Glu-specific endopeptidase	eMpr			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_07295	COG1670	JO	Protein N-acetyltransferase, RimJ/RimL family	RimL			1S7F
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_07305	COG1044	M	UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase	LpxD	Lipid A biosynthesis		6P83
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_07310	COG0449	M	Glucosamine 6-phosphate synthetase, contains amidotransferase and phosphosugar isomerase domains	GlmS			2J6H
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_07320	COG3349	R	Uncharacterized protein, contains NAD-binding domain and a Fe-S cluster				5MOG
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_07325	COG5389	S	Uncharacterized conserved protein, DUF721 domain				
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_07335	COG4942	D	Septal ring factor EnvC, activator of murein hydrolases AmiA and AmiB	EnvC			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_07340	COG1463	M	Periplasmic subunit MlaD of the ABC-type intermembrane phospholipid transporter Mla	MlaD			5UW8
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_07345	COG4778	P	Alpha-D-ribose 1-methylphosphonate 5-triphosphate synthase subunit PhnL	PhnL			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_07350	COG0767	M	Permease subunit MlaE of the ABC-type intermembrane phospholipid transporter Mla	MlaE			6IC4
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_07360	COG1729	D	Cell division protein CpoB, coordinates peptidoglycan biosynthesis and outer membrane constriction	CpoB		25951518	2WZ7
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_07365	COG2901	K	DNA-binding protein Fis (factor for inversion stimulation)	Fis			1ETK
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_07370	COG1815	N	Flagellar basal body rod protein FlgB	FlgB			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_07385	COG2226	H	Ubiquinone/menaquinone biosynthesis C-methylase UbiE/MenG	UbiE	Biotin biosynthesis		4OBW
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_07390	COG0064	J	Asp-tRNAAsn/Glu-tRNAGln amidotransferase B subunit	GatB	Aminoacyl-tRNA synthetases		3H0M
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_07395	COG0154	J	Asp-tRNAAsn/Glu-tRNAGln amidotransferase A subunit or related amidase	GatA	Aminoacyl-tRNA synthetases		3H0L
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_07400	COG0721	J	Asp-tRNAAsn/Glu-tRNAGln amidotransferase C subunit	GatC	Aminoacyl-tRNA synthetases		3H0L
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_07405	COG0272	L	NAD-dependent DNA ligase	Lig			5TT5
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_07420	COG2908	M	UDP-2,3-diacylglucosamine pyrophosphatase LpxH	LpxH			5WLY
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_07440	COG0176	G	Transaldolase/fructose-6-phosphate aldolase	TalA	Pentose phosphate pathway		1F05
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_07455	COG0329	EM	4-hydroxy-tetrahydrodipicolinate synthase/N-acetylneuraminate lyase	DapA	Lysine biosynthesis	27574185	2R91
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_07480	COG1674	D	DNA segregation ATPase FtsK/SpoIIIE or related protein	FtsK			2IUT
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_07485	COG2901	K	DNA-binding protein Fis (factor for inversion stimulation)	Fis			1ETK
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_07490	COG0305	L	Replicative DNA helicase	DnaB			1B79
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_07505	COG1240	H	vWFA (von Willebrand factor type A) domain of Mg and Co chelatases	ChlD			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_07510	COG1240	H	vWFA (von Willebrand factor type A) domain of Mg and Co chelatases	ChlD			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_07520	COG2425	S	Uncharacterized conserved protein, contains a von Willebrand factor type A (vWA) domain	ViaA			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_07525	COG1239	H	Mg-chelatase subunit ChlI	ChlI			1G8P
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_07560	COG4531	P	ABC-type Zn2+ transport system, periplasmic component/surface adhesin ZnuA	ZnuA			2OGW
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_07580	COG2608	P	Copper chaperone CopZ	CopZ			1AFI
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_07595	COG1937	K	DNA-binding transcriptional regulator, FrmR family	FrmR			2HH7
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_07600	COG1064	G	D-arabinose 1-dehydrogenase, Zn-dependent alcohol dehydrogenase family	AdhP			5O8Q
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_07610	COG1226	P	Voltage-gated potassium channel Kch	Kch			3FWZ
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_07625	COG0500	QR	SAM-dependent methyltransferase	SmtA			5DNK
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_07635	COG4591	M	ABC-type transport system involved in lipoprotein release, permease component LolC	LolE			6F49
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_07640	COG3845	F	ABC-type guanosine uptake system NupNOPQ, ATPase component NupO	NupO		21926227	
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_07655	COG0735	P	Fe2+ or Zn2+ uptake regulation protein Fur/Zur	Fur			1MZB
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_07660	COG0523	R	Zinc metallochaperone YeiR/ZagA and related GTPases, G3E family	YejR		19822009;31132310	1NIJ
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_07665	COG2205	T	K+-sensing histidine kinase KdpD	KdpD			2KSF
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_07670	COG0768	DM	Cell division protein FtsI, peptidoglycan transpeptidase (Penicillin-binding protein 2)	FtsI			6HZQ
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_07690	COG1435	F	Thymidine kinase	Tdk	Pyrimidine salvage		1W4R
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_07695	COG2236	H	Hypoxanthine phosphoribosyltransferase	Hpt1	Purine salvage		2JKZ
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_07700	COG1388	M	LysM repeat	LysM			1E0G
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_07710	COG4166	E	ABC-type oligopeptide transport system, periplasmic component	OppA			1B05
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_07715	COG0597	MU	Lipoprotein signal peptidase	LspA			5DIR
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_07720	COG5018	T	3'-5' exonuclease KapD, inhibitor of KinA-controlled sporulation	KapD			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_07725	COG0841	V	Multidrug efflux pump subunit AcrB	AcrB			1IWG
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_07735	COG1360	N	Flagellar motor protein MotB	MotB			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_07745	COG0526	O	Thiol-disulfide isomerase or thioredoxin	TrxA			1XFL
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_07750	COG2390	K	DNA-binding transcriptional regulator LsrR, DeoR family	DeoR		23974133;24893262	2GNP
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_07760	COG2382	P	Enterochelin esterase or related enzyme	Fes			2B20
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_07765	COG0456	J	Ribosomal protein S18 acetylase RimI and related acetyltransferases	RimI			1GHE
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_07770	COG0494	V	8-oxo-dGTP pyrophosphatase MutT and related house-cleaning NTP pyrophosphohydrolases, NUDIX family	MutT			4V14
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_07775	COG1670	JO	Protein N-acetyltransferase, RimJ/RimL family	RimL			1S7F
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_07795	COG1129	G	ABC-type sugar transport system, ATPase component	MglA			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_07810	COG4989	R	Predicted oxidoreductase YdhF	YdhF			1UR3
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_07815	COG0491	R	Glyoxylase or a related metal-dependent hydrolase, beta-lactamase superfamily II	GloB		25670698	1QH3
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_07830	COG1309	K	DNA-binding protein, AcrR family, includes nucleoid occlusion protein SlmA	AcrR			2QOP
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_07850	COG4929	S	Uncharacterized membrane-anchored protein				
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_07855	COG4872	S	Uncharacterized membrane protein				
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_07865	COG1246	E	N-acetylglutamate synthase or related acetyltransferase, GNAT family	ArgA	Arginine biosynthesis		2R98
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_07925	COG1360	N	Flagellar motor protein MotB	MotB			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_07935	COG0579	G	L-2-hydroxyglutarate oxidase LhgO	LhgO			3DME
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_07950	COG5000	T	Signal transduction histidine kinase NtrY involved in nitrogen fixation and metabolism regulation	NtrY			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_07980	COG4972	NW	Type IV pilus assembly protein, ATPase PilM	PilM			2YCH
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_07995	COG3156	U	Type II secretory pathway, component PulK	PulK			5VTM
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_08000	COG2165	NUW	Type II secretory pathway, pseudopilin PulG	PulG			1AY2
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_08005	COG2165	NUW	Type II secretory pathway, pseudopilin PulG	PulG			1AY2
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_08015	COG2165	NUW	Type II secretory pathway, pseudopilin PulG	PulG			1AY2
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_08020	COG1459	NUW	Type II secretory pathway, component PulF	PulF			2VMA
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_08025	COG0630	NU	Type IV secretory pathway ATPase VirB11/Archaellum biosynthesis ATPase ArlI/FlaI	VirB11		32416640	1G6O
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_08030	COG4964	UW	Flp pilus assembly protein, secretin CpaC	CpaC			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_08035	COG3031	U	Type II secretory pathway, component PulC	PulC			2LNV
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_08085	COG0363	G	6-phosphogluconolactonase/Glucosamine-6-phosphate isomerase/deaminase	NagB	Pentose phosphate pathway	24163345	2RI0
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_08095	COG1122	PR	Energy-coupling factor transporter ATP-binding protein EcfA2	EcfA2			4HUQ
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_08100	COG4591	M	ABC-type transport system involved in lipoprotein release, permease component LolC	LolE			6F49
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_08105	COG0110	R	Acetyltransferase, isoleucine patch superfamily	WbbJ			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_08110	COG1606	R	ATP-utilizing enzyme, PP-loop superfamily				6B2O
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_08115	COG1536	N	Flagellar motor switch protein FliG	FliG			4FHR
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_08130	COG3642	J	tRNA A-37 threonylcarbamoyl transferase component Bud32	Bud32	tRNA modification		2VWB
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_08140	COG3713	M	Outer membrane scaffolding protein for murein synthesis, MipA/OmpV family	OmpV			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_08150	COG1226	P	Voltage-gated potassium channel Kch	Kch			3FWZ
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_08170	COG1408	R	Predicted phosphohydrolase, MPP superfamily	YaeI			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_08180	COG1062	C	Zn-dependent alcohol/formaldehyde dehydrogenase	FrmA			1A71
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_08195	COG2119	R	Putative Ca2+/H+ antiporter, TMEM165/GDT1 family	Gdt1		23569283	
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_08205	COG3884	I	Acyl-ACP thioesterase	FatA			2ESS
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_08210	COG1309	K	DNA-binding protein, AcrR family, includes nucleoid occlusion protein SlmA	AcrR			2QOP
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_08215	COG0412	Q	Dienelactone hydrolase	DLH			4ZV9
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_08230	COG2226	H	Ubiquinone/menaquinone biosynthesis C-methylase UbiE/MenG	UbiE	Biotin biosynthesis		4OBW
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_08235	COG1510	K	DNA-binding transcriptional regulator GbsR, MarR family	GbsR			1KU9
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_08240	COG3011	R	Predicted thiol-disulfide oxidoreductase YuxK, DCC family	YuxK		15236740	
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_08255	COG1124	EP	ABC-type dipeptide/oligopeptide/nickel transport system, ATPase component	DppF			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_08260	COG2020	O	Protein-S-isoprenylcysteine O-methyltransferase Ste14	STE14			5V7P
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_08265	COG1404	O	Serine protease, subtilisin family	AprE			1SCJ
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_08275	COG1393	P	Arsenate reductase or related protein, glutaredoxin family	ArsC			1I9D
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_08310	COG2353	R	Polyisoprenoid-binding periplasmic protein YceI	YceI		15741337;20236316	1WUB
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_08330	COG2072	P	Predicted flavoprotein CzcO associated with the cation diffusion facilitator CzcD	CzcO			4USQ
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_08340	COG2165	NUW	Type II secretory pathway, pseudopilin PulG	PulG			1AY2
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_08345	COG4942	D	Septal ring factor EnvC, activator of murein hydrolases AmiA and AmiB	EnvC			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_08375	COG2894	D	Septum site-determining ATPase MinD	MinD			4V02
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_08385	COG2813	J	16S rRNA G1207 methylase RsmC	RsmC	16S rRNA modification		1DUS
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_08390	COG0445	J	tRNA U34 5-carboxymethylaminomethyl modifying enzyme MnmG/GidA	MnmG	tRNA modification		2ZXH
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_08395	COG1160	J	Double Era-like domain GTPase Der	Der			1MKY
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_08400	COG1847	R	Predicted RNA-binding protein Jag (SpoIIIJ-associated), conains KH and R3H domains	Jag			3GKU
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_08405	COG0706	M	Membrane protein insertase Oxa1/YidC/SpoIIIJ	YidC			3WO6
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_08420	COG1484	L	DNA replication protein DnaC	DnaC			2QGZ
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_08425	COG0592	L	DNA polymerase III sliding clamp (beta) subunit, PCNA homolog	DnaN			1JQJ
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_08435	COG1106	R	ATPase/GTPase, AAA15 family				
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_08440	COG0187	L	DNA gyrase/topoisomerase IV, subunit B	GyrB			1EI1
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_08445	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_08455	COG0457	R	Tetratricopeptide (TPR) repeat	TPR			3AS4
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_08475	COG0636	C	FoF1-type ATP synthase, membrane subunit c/Archaeal/vacuolar-type H+-ATPase, subunit K	AtpE	FoF1-type ATP synthase		1C17
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_08485	COG0442	J	Prolyl-tRNA synthetase	ProS	Aminoacyl-tRNA synthetases		5XIF
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_08490	COG0269	G	3-keto-L-gulonate-6-phosphate decarboxylase	UlaD			3F4W
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_08495	COG0219	J	tRNA(Leu) C34 or U34 (ribose-2'-O)-methylase TrmL, contains SPOUT domain	TrmL	tRNA modification		4JAK
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_08520	COG0532	J	Translation initiation factor IF-2, a GTPase	InfB	Translation factors		5ME0
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_08530	COG0690	U	Preprotein translocase subunit SecE	SecE		29684280	5MG3
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_08540	COG0080	J	Ribosomal protein L11	RplK	Ribosome 50S subunit		2E34
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_08545	COG0081	J	Ribosomal protein L1	RplA	Ribosome 50S subunit		3J65
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_08565	COG0086	K	DNA-directed RNA polymerase, beta' subunit/160 kD subunit	RpoC	RNA polymerase		1NT9
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_08570	COG0843	C	Heme/copper-type cytochrome/quinol oxidase, subunit 1	CyoB			1AR1
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_08575	COG1845	C	Heme/copper-type cytochrome/quinol oxidase, subunit 3	CyoC			1QLE
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_08585	COG0382	H	4-hydroxybenzoate polyprenyltransferase	UbiA	Ubiquinone biosynthesis	28830929	4OD4
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_08595	COG0179	Q	2-keto-4-pentenoate hydratase/2-oxohepta-3-ene-1,7-dioic acid hydratase (catechol pathway)	YcgM			1GTT
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_08620	COG0788	F	Formyltetrahydrofolate hydrolase	PurU	Purine biosynthesis		3O1L
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_08625	COG1403	V	5-methylcytosine-specific restriction endonuclease McrA	McrA			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_08645	COG0438	M	Glycosyltransferase involved in cell wall bisynthesis	RfaB			2IV7
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_08650	COG0673	R	Predicted dehydrogenase	MviM			3UUW
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_08655	COG0438	M	Glycosyltransferase involved in cell wall bisynthesis	RfaB			2IV7
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_08660	COG0438	M	Glycosyltransferase involved in cell wall bisynthesis	RfaB			2IV7
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_08665	COG1064	G	D-arabinose 1-dehydrogenase, Zn-dependent alcohol dehydrogenase family	AdhP			5O8Q
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_08670	COG1218	P	3'-Phosphoadenosine 5'-phosphosulfate (PAPS) 3'-phosphatase	CysQ			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_08675	COG0279	G	Phosphoheptose isomerase	GmhA			1G76
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_08685	COG1861	M	Spore coat polysaccharide biosynthesis protein SpsF, cytidylyltransferase family	SpsF			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_08700	COG0451	M	Nucleoside-diphosphate-sugar epimerase	WcaG			2X4G
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_08705	COG0588	G	Phosphoglycerate mutase (BPG-dependent)	GpmA	Glycolysis		1E58
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_08710	COG0451	M	Nucleoside-diphosphate-sugar epimerase	WcaG			2X4G
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_08730	COG1887	MI	CDP-glycerol glycerophosphotransferase, TagB/SpsB family	TagB			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_08775	COG2206	T	HD-GYP domain, c-di-GMP phosphodiesterase class II (or its inactivated variant)	HDGYP		23475961	5Z7C
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_08795	COG2204	T	DNA-binding transcriptional response regulator, NtrC family, contains REC, AAA-type ATPase, and a Fis-type DNA-binding domains	AtoC			1ZY2
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_08805	COG5626	S	Uncharacterized protein Ssr3000, DUF2288 family	Ssr3000			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_08845	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_08850	COG0402	FR	Cytosine/adenosine deaminase or related metal-dependent hydrolase	SsnA	Pyrimidine salvage		3O7U
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_08865	COG2265	J	tRNA/tmRNA/rRNA uracil-C5-methylase, TrmA/RlmC/RlmD family	TrmA	tRNA modification		1UWV
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_08905	COG1239	H	Mg-chelatase subunit ChlI	ChlI			1G8P
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_08910	COG0564	J	Pseudouridine synthase RluA, 23S rRNA- or tRNA-specific	RluA	23S rRNA modification		2I82
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_08935	COG0612	R	Predicted Zn-dependent peptidase, M16 family	PqqL			6OFS
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_08940	COG1026	O	Zn-dependent peptidase, M16 (insulinase) family	Cym1			2FGE
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_08950	COG3034	M	Murein L,D-transpeptidase YafK	YafK			4XZZ
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_08955	COG1684	N	Flagellar biosynthesis protein FliR	FliR			6S3R
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_08960	COG1987	N	Flagellar biosynthesis protein FliQ	FliQ			6F2D
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_08965	COG1338	N	Flagellar biosynthesis protein FliP	FliP			5H72
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_08975	COG1868	N	Flagellar motor switch protein FliM	FliM			2HP7
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_08995	COG0483	G	Archaeal fructose-1,6-bisphosphatase or related enzyme, inositol monophosphatase family	SuhB	Gluconeogenesis		1AWB
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_09000	COG3147	D	Cell division protein DedD (periplasmic protein involved in septation)	DedD			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_09040	COG0210	L	Superfamily I DNA or RNA helicase	UvrD			6PPR
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_09045	COG2966	S	Uncharacterized membrane protein YjjP, DUF1212 family	YjjP			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_09050	COG2896	H	GTP 3',8-cyclase (molybdenum cofactor biosynthesis protein MoaA)	MoaA	Molybdopterin biosynthesis		1TV7
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_09060	COG3883	S	Uncharacterized N-terminal coiled-coil domain of peptidoglycan hydrolase CwlO	CwlO1			4CGK
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_09065	COG2524	K	Predicted transcriptional regulator, contains C-terminal CBS domains				
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_09070	COG2110	J	O-acetyl-ADP-ribose deacetylase (regulator of RNase III), contains Macro domain	YmdB			1HJZ
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_09085	COG0234	O	Co-chaperonin GroES (HSP10)	GroES			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_09090	COG2952	S	Uncharacterized conserved protein, DUF507 domain				
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_09115	COG1506	E	Dipeptidyl aminopeptidase/acylaminoacyl peptidase	DAP2			2JBW
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_09175	COG0596	HR	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold	MenH	Menaquinone biosynthesis		4MYS
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_09180	COG3591	O	V8-like Glu-specific endopeptidase	eMpr			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_09185	COG1506	E	Dipeptidyl aminopeptidase/acylaminoacyl peptidase	DAP2			2JBW
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_09215	COG3016	R	Putative heme-binding protein PhuW	PhuW		16950397	2G5G
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_09225	COG1252	C	NADH dehydrogenase, FAD-containing subunit	Ndh			5NA4
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_09265	COG0227	J	Ribosomal protein L28	RpmB	Ribosome 50S subunit		2JZ6
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_09280	COG0815	M	Apolipoprotein N-acyltransferase	Lnt			6NWR
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_09290	COG1041	J	tRNA G10 N-methylase Trm11	Trm11	tRNA modification		5E71
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_09295	COG0456	J	Ribosomal protein S18 acetylase RimI and related acetyltransferases	RimI			1GHE
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_09305	COG0598	P	Mg2+ and Co2+ transporter CorA	CorA			2BBH
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_09310	COG2898	I	Lysylphosphatidylglycerol synthetase MprF, lysyl-tRNA-binding C-terminal domain	MprF2		14702396;30563904	5VRV
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_09315	COG1044	M	UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase	LpxD	Lipid A biosynthesis		6P83
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_09320	COG0729	M	Outer membrane translocation and assembly module TamA	TamA			4BZA
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_09325	COG4148	P	ABC-type molybdate transport system, ATPase component ModC	ModC	Molybdopterin biosynthesis		
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_09330	COG0577	V	ABC-type antimicrobial peptide transport system, permease component	SalY			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_09335	COG1186	J	Protein chain release factor PrfB	PrfB	Translation factors		1GQE
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_09345	COG0319	J	ssRNA-specific RNase YbeY, 16S rRNA maturation enzyme	YbeY	16S rRNA modification	17407324;23543739	1XM5
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_09350	COG0477	GEPR	MFS family permease, includes anhydromuropeptide permease AmpG	ProP		12426329	
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_09355	COG1694	V	NTP pyrophosphatase, house-cleaning of non-canonical NTPs	MazG			1VMG
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_09370	COG2814	G	Predicted arabinose efflux permease AraJ, MFS family	AraJ			4LDS
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_09380	COG0534	V	Na+-driven multidrug efflux pump, DinF/NorM/MATE family	NorM		29915058	3VVN
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_09385	COG0268	J	Ribosomal protein S20	RpsT	Ribosome 30S subunit		4V4H
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_09410	COG4567	TK	DNA-binding response regulator, ActR/RegA family, consists of REC and Fis-type HTH domains				3RQI
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_09430	COG0823	U	Periplasmic component TolB of the Tol biopolymer transport system	TolB			1C5K
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_09440	COG5116
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_09450	COG2081	R	Predicted flavoprotein YhiN	YhiN			3V76
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_09465	COG1878	E	Kynurenine formamidase				1R61
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_09470	COG1012	I	Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase	AdhE	Proline degradation		1A4S
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_09480	COG1791	E	Acireductone dioxygenase (methionine salvage), cupin superfamily	Adi1			1VR3
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_09485	COG2159	G	5-carboxyvanillate decarboxylase LigW (lignin degradation), amidohydro domain	LigW		26714575	2DVT
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_09495	COG1647	Q	Esterase/lipase	YvaK			4DIU
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_09515	COG1011	H	FMN and 5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YigB, HAD superfamily (riboflavin biosynthesis)	YigB		24123841	4JB3
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_09520	COG1670	JO	Protein N-acetyltransferase, RimJ/RimL family	RimL			1S7F
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_09530	COG1278	K	Cold shock protein, CspA family	CspC			1C9O
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_09545	COG0491	R	Glyoxylase or a related metal-dependent hydrolase, beta-lactamase superfamily II	GloB		25670698	1QH3
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_09550	COG1340	S	Uncharacterized coiled-coil protein, contains DUF342 domain				
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_09570	COG0664	T	cAMP-binding domain of CRP or a regulatory subunit of cAMP-dependent protein kinases	Crp			1FT9
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_09585	COG1032	R	Radical SAM superfamily enzyme YgiQ, UPF0313 family	YgiQ			6FD2
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_09590	COG0137	E	Argininosuccinate synthase	ArgG	Arginine biosynthesis		1J1Z
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_09595	COG0076	E	Glutamate or tyrosine decarboxylase or a related PLP-dependent protein	GadA	Pantothenate/CoA biosynthesis		1XEY
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_09605	COG0802	J	tRNA A37 threonylcarbamoyladenosine biosynthesis protein TsaE	TsaE	tRNA modification		1FL9
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_09610	COG2145	H	Hydroxyethylthiazole kinase, sugar kinase family	ThiM	Thiamine biosynthesis		1C3Q
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_09625	COG0560	E	Phosphoserine phosphatase	SerB	Serine biosynthesis		3N28
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_09630	COG0024	J	Methionine aminopeptidase	Map			3J2I
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_09640	COG0293	J	23S rRNA U2552 (ribose-2'-O)-methylase RlmE/FtsJ	RlmE	23S rRNA modification	10769117	1EIZ
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_09645	COG0142	H	Geranylgeranyl pyrophosphate synthase	IspA	Isoprenoid biosynthesis		2AZJ
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_09650	COG1722	L	Exonuclease VII small subunit	XseB			1VP7
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_09655	COG1570	L	Exonuclease VII, large subunit	XseA			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_09695	COG0768	DM	Cell division protein FtsI, peptidoglycan transpeptidase (Penicillin-binding protein 2)	FtsI			6HZQ
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_09700	COG1121	P	ABC-type Mn2+/Zn2+ transport system, ATPase component	ZnuC			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_09705	COG1119	P	ABC-type molybdenum transport system, ATPase component ModF/photorepair protein PhrA	ModF			2IHY
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_09710	COG1239	H	Mg-chelatase subunit ChlI	ChlI			1G8P
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_09725	COG2334	T	Ser/Thr protein kinase RdoA involved in Cpx stress response, MazF antagonist	SrkA	Threonine biosynthesis		1ZYL
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_09730	COG1209	M	dTDP-glucose pyrophosphorylase	RmlA1			1FXO
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_09735	COG2204	T	DNA-binding transcriptional response regulator, NtrC family, contains REC, AAA-type ATPase, and a Fis-type DNA-binding domains	AtoC			1ZY2
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_09750	COG0582	LX	Integrase/recombinase, includes phage integrase	FimB			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_09755	COG1067	O	Predicted ATP-dependent protease	LonB			3K1J
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_09805	COG1647	Q	Esterase/lipase	YvaK			4DIU
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_09815	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_09845	COG4143	H	ABC-type thiamine transport system, periplasmic component TbpA	TbpA			2QRY
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_09850	COG4149	P	ABC-type molybdate transport system, permease component ModB	ModB	Molybdopterin biosynthesis		
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_09855	COG4618	U	ABC-type protease/lipase transport system, ATPase and permease components	ArpD			5L22
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_09865	COG2005	K	DNA-binding transcriptional regulator ModE (molybdenum-dependent)	ModE		19779461	1B9M
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_09885	COG3318	S	Uncharacterized conserved protein YecA, UPF0149 family, contains C-terminal Zn-binding SEC-C motif	YecA			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_09900	COG0584	I	Glycerophosphoryl diester phosphodiesterase	UgpQ			1O1Z
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_09905	COG1186	J	Protein chain release factor PrfB	PrfB	Translation factors		1GQE
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_09920	COG2423	E	Ornithine cyclodeaminase/archaeal alanine dehydrogenase, mu-crystallin family	OCDMu	Proline biosynthesis		2I99
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_09925	COG2984	R	ABC-type uncharacterized transport system, periplasmic component				3LFT
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_09940	COG0640	K	DNA-binding transcriptional regulator, ArsR family	ArsR			3F6V
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_09960	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_09965	COG0535	DH	Radical SAM superfamily maturase, SkfB/NifB/PqqE family	SkfB		23282011	6Q2P
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_09985	COG2197	TK	DNA-binding response regulator, NarL/FixJ family, contains REC and HTH domains	CitB			1A04
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_09990	COG1396	K	Transcriptional regulator, contains XRE-family HTH domain	HipB			1ADR
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_10010	COG3128	R	Predicted 2-oxoglutarate- and Fe(II)-dependent dioxygenase YbiX	PiuC			3DKQ
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_10020	COG4122	J	tRNA 5-hydroxyU34 O-methylase TrmR/YrrM	TrmR	tRNA modification	29982645	1H1D
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_10030	COG2896	H	GTP 3',8-cyclase (molybdenum cofactor biosynthesis protein MoaA)	MoaA	Molybdopterin biosynthesis		1TV7
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_10045	COG0172	J	Seryl-tRNA synthetase	SerS	Aminoacyl-tRNA synthetases		1SER
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_10060	COG0486	J	tRNA U34 5-carboxymethylaminomethyl modifying GTPase MnmE/TrmE	MnmE	tRNA modification		
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_10065	COG0281	C	Malic enzyme	SfcA	Urea cycle		1DO8
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_10070	COG1024	I	Enoyl-CoA hydratase/carnithine racemase	CaiD	Fatty acid biosynthesis		1DCI
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_10080	COG1028	I	NAD(P)-dependent dehydrogenase, short-chain alcohol dehydrogenase family	FabG	Fatty acid biosynthesis		6L1H
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_10090	COG1087	M	UDP-glucose 4-epimerase	GalE			1A9Y
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_10095	COG1087	M	UDP-glucose 4-epimerase	GalE			1A9Y
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_10100	COG0520	E	Selenocysteine lyase/Cysteine desulfurase	CsdA			4LW2
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_10105	COG1086	MO	NDP-sugar epimerase, includes UDP-GlcNAc-inverting 4,6-dehydratase FlaA1 and capsular polysaccharide biosynthesis protein EpsC	FlaA1			2GN4
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_10110	COG2148	M	Sugar transferase involved in LPS biosynthesis (colanic, teichoic acid)	WcaJ			5W7L
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_10115	COG0728	M	Lipid II flippase MurJ/MviN (peptidoglycan biosynthesis)	MurJ		25013077	5T77
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_10155	COG3608	R	Predicted deacylase				3CDX
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_10170	COG0527	E	Aspartate kinase	MetL1	Lysine biosynthesis		2CDQ
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_10180	COG0741	M	Soluble lytic murein transglycosylase or regulatory protein s ( may contain LysM/invasin domain)	MltE			153L
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_10185	COG1749	N	Flagellar hook protein FlgE	FlgE			3A69
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_10190	COG1558	N	Flagellar basal body rod protein FlgC	FlgC			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_10195	COG1261	N	Flagellar basal body P-ring formation protein FlgA	FlgA			3VJP
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_10200	COG2063	N	Flagellar basal body L-ring protein FlgH	FlgH			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_10205	COG1706	N	Flagellar basal body P-ring protein FlgI	FlgI			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_10215	COG3951	N	Rod binding protein domain	FlgJ1			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_10230	COG1749	N	Flagellar hook protein FlgE	FlgE			3A69
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_10240	COG1551	T	sRNA-binding carbon storage regulator CsrA	CsrA			1T3O
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_10255	COG4076	R	Predicted RNA methylase				
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_10270	COG1102	F	Cytidylate kinase	CmkB			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_10280	COG0100	J	Ribosomal protein S11	RpsK	Ribosome 30S subunit		4V4H
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_10285	COG0202	K	DNA-directed RNA polymerase, alpha subunit/40 kD subunit	RpoA	RNA polymerase		4KN7
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_10290	COG0203	J	Ribosomal protein L17	RplQ	Ribosome 50S subunit		1GD8
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_10295	COG0526	O	Thiol-disulfide isomerase or thioredoxin	TrxA			1XFL
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_10300	COG0498	E	Threonine synthase	ThrC	Threonine biosynthesis		1VB3
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_10310	COG0448	G	Glucose-1-phosphate adenylyltransferase (ADP-glucose pyrophosphorylase)	GlgC		27545622	5MNI
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_10315	COG1089	M	GDP-D-mannose dehydratase	Gmd			1DB3
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_10330	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_10335	COG3216	S	Uncharacterized conserved protein, DUF2062 family				
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_10340	COG0382	H	4-hydroxybenzoate polyprenyltransferase	UbiA	Ubiquinone biosynthesis	28830929	4OD4
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_10370	COG0714	R	MoxR-like ATPase	MoxR	Cobalamine/B12 biosynthesis		2R44
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_10380	COG1734	K	RNA polymerase-binding transcription factor DksA	DksA			1TJL
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_10385	COG0457	R	Tetratricopeptide (TPR) repeat	TPR			3AS4
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_10390	COG2214	K	Curved DNA-binding protein CbpA, contains a DnaJ-like domain	CbpA			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_10395	COG0576	O	Molecular chaperone GrpE (heat shock protein HSP-70)	GrpE			1DKG
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_10400	COG1243	J	tRNA U34 5-carboxymethylaminomethylation enzyme Elp3 (RNA elongator complex protein 3), contains radical SAM and acetyltransferase domains	ELP3		25151136;27455459	6IA8
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_10405	COG1026	O	Zn-dependent peptidase, M16 (insulinase) family	Cym1			2FGE
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_10420	COG0805	U	Twin-arginine protein secretion pathway component TatC	TatC			4B4A
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_10425	COG0705	O	Membrane-associated serine protease, rhomboid family	GlpG			2IC8
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_10430	COG1714	S	Uncharacterized membrane protein YckC, RDD family	YckC			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_10435	COG4770	I	Acetyl/propionyl-CoA carboxylase, alpha subunit	PccA			3U9S
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_10440	COG1181	MR	D-alanine-D-alanine ligase or related ATP-grasp enzyme	DdlA	Mureine biosynthesis		1E4E
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_10445	COG0777	I	Acetyl-CoA carboxylase beta subunit	AccD	Fatty acid biosynthesis		2F9I
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_10450	COG2269	J	Elongation factor P--beta-lysine ligase (EF-P beta-lysylation pathway)	EpmA		20729861	3A5Z
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_10465	COG1072	H	Panthothenate kinase	CoaA	Pantothenate/CoA biosynthesis		2GA8
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_10470	COG2068	H	CTP:molybdopterin cytidylyltransferase MocA	MocA			2WAW
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_10475	COG1975	O	Molybdoenzyme maturation factor PaoD (Mo cofactor insertion), XdhC/CoxF family	XdhC		24498065	2WE7
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_10485	COG0479	C	Succinate dehydrogenase/fumarate reductase, Fe-S protein subunit	SdhB/FrdB	TCA cycle		6LUM
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_10490	COG1060	H	2-iminoacetate synthase ThiH/Menaquinone biosynthesis enzymes MqnC and MqnE	ThiH	Thiamine biosynthesis	18801996	4WCX
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_10495	COG2226	H	Ubiquinone/menaquinone biosynthesis C-methylase UbiE/MenG	UbiE	Biotin biosynthesis		4OBW
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_10500	COG4192	T	Signal transduction histidine kinase regulating phosphoglycerate transport system				
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_10515	COG3452	T	Extracellular (periplasmic) sensor domain CHASE (specificity unknown)	CHASE			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_10520	COG0784	T	CheY-like REC (receiver) domain, includes chemotaxis protein CheY  and sporulation regulator Spo0F	CheY			6QRJ
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_10525	COG2204	T	DNA-binding transcriptional response regulator, NtrC family, contains REC, AAA-type ATPase, and a Fis-type DNA-binding domains	AtoC			1ZY2
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_10545	COG3021	R	Uncharacterized conserved protein YafD, endonuclease/exonuclease/phosphatase (EEP) superfamily	YafD			
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_10550	COG1309	K	DNA-binding protein, AcrR family, includes nucleoid occlusion protein SlmA	AcrR			2QOP
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_10620	COG1472	G	Periplasmic beta-glucosidase and related glycosidases	BglX			2X40
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_10630	COG1198	L	Primosomal protein N' (replication factor Y) - superfamily II helicase	PriA			6DCR
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_10635	COG0838	C	NADH:ubiquinone oxidoreductase subunit 3 (chain A)	NuoA	NADH dehydrogenase		3RKO
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_10640	COG1005	C	NADH:ubiquinone oxidoreductase subunit 1 (chain H)	NuoH	NADH dehydrogenase		6HUM
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_10645	COG0839	C	NADH:ubiquinone oxidoreductase subunit 6 (chain J)	NuoJ	NADH dehydrogenase		4HE8
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_10655	COG1009	C	Membrane H+-translocase/NADH:ubiquinone oxidoreductase subunit 5 (chain L)/Multisubunit Na+/H+ antiporter, MnhA subunit	NuoL	NADH dehydrogenase		3RKO
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_10660	COG1008	C	NADH:ubiquinone oxidoreductase subunit 4 (chain M)	NuoM	NADH dehydrogenase		6HUM
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_10665	COG1007	C	NADH:ubiquinone oxidoreductase subunit 2 (chain N)	NuoN	NADH dehydrogenase		4HE8
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_10670	COG1670	JO	Protein N-acetyltransferase, RimJ/RimL family	RimL			1S7F
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_10680	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_10685	COG3341	R	Ribonuclease HI-related protein, contains viroplasmin and RNaseH domains	Rnh1			1QHK
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_10690	COG3203	M	Outer membrane porin OmpC/OmpF/PhoE	OmpC			1PHO
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_10700	COG3805	Q	Aromatic ring-cleaving dioxygenase	DodA			2NYH
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_10705	COG0789	K	DNA-binding transcriptional regulator, MerR family	SoxR			2VZ4
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_10720	COG0072	J	Phenylalanyl-tRNA synthetase beta subunit	PheT	Aminoacyl-tRNA synthetases		3L4G
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_10725	COG0016	J	Phenylalanyl-tRNA synthetase alpha subunit	PheS	Aminoacyl-tRNA synthetases		3L4G
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_10740	COG0153	G	Galactokinase	GalK			1PIE
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_10760	COG0069	E	Glutamate synthase domain 2	GltB2	Glutamine biosynthesis		1EA0
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_10770	COG0291	J	Ribosomal protein L35	RpmI	Ribosome 50S subunit	28373563	1VS6
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_10780	COG0290	J	Translation initiation factor IF-3	InfC	Translation factors		2IFE
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_10785	COG0124	J	Histidyl-tRNA synthetase	HisS	Aminoacyl-tRNA synthetases		1KMM
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_10790	COG1396	K	Transcriptional regulator, contains XRE-family HTH domain	HipB			1ADR
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_10795	COG1439	J	rRNA maturation endonuclease Nob1	Nob1			2CON
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_10800	COG1158	K	Transcription termination factor Rho	Rho			1PVO
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_10805	COG0216	J	Protein chain release factor RF1	PrfA	Translation factors		1RQ0
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_10810	COG2263	R	Predicted RNA methylase				6H2U
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_10815	COG0128	E	5-enolpyruvylshikimate-3-phosphate synthase	AroA	Aromatic amino acid biosynthesis		4N3P
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_10825	COG0457	R	Tetratricopeptide (TPR) repeat	TPR			3AS4
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_10835	COG0172	J	Seryl-tRNA synthetase	SerS	Aminoacyl-tRNA synthetases		1SER
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_10845	COG3795	Q	5-chloro-2-hydroxyhydroquinone dehydrochlorinase TtfG, YCII superfamily	YCII		23955343	1S7I
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_10855	COG1357	S	Uncharacterized conserved protein YjbI, contains pentapeptide repeats	YjbI			2BM4
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_10885	COG2005	K	DNA-binding transcriptional regulator ModE (molybdenum-dependent)	ModE		19779461	1B9M
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_10895	COG2193	P	Bacterioferritin (cytochrome b1)	Bfr			4E6K
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_10905	COG3502	S	Uncharacterized conserved protein, DUF952 family				2JQN
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_10925	COG0596	HR	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold	MenH	Menaquinone biosynthesis		4MYS
+Bdellovibrionaceae_bacterium_SAT16	GCA_002712385.1	MBNJAD_10935	COG0596	HR	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold	MenH	Menaquinone biosynthesis		4MYS

@@ -1,0 +1,1245 @@
+#prefix	assemid	query	COG	category	name	Gene	pathway	pmid	pdb_id
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_00010	COG3034	M	Murein L,D-transpeptidase YafK	YafK			4XZZ
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_00015	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_00020	COG5001	T	Cyclic di-GMP metabolism protein, combines GGDEF and EAL domains with a 6TM membrane domain				
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_00025	COG0420	L	DNA repair exonuclease SbcCD nuclease subunit	SbcD			6S85
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_00035	COG3000	I	Sterol desaturase/sphingolipid hydroxylase, fatty acid hydroxylase superfamily	ERG3			4ZR0
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_00040	COG0671	I	Membrane-associated phospholipid phosphatase	PgpB	Phospholipid biosynthesis		1D2T
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_00060	COG2021	E	Homoserine O-acetyltransferase	MET2	Methionine biosynthesis		2VAT
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_00065	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_00070	COG5000	T	Signal transduction histidine kinase NtrY involved in nitrogen fixation and metabolism regulation	NtrY			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_00080	COG1360	N	Flagellar motor protein MotB	MotB			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_00090	COG1729	D	Cell division protein CpoB, coordinates peptidoglycan biosynthesis and outer membrane constriction	CpoB		25951518	2WZ7
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_00095	COG0737	FV	2',3'-cyclic-nucleotide 2'-phosphodiesterase/5'- or 3'-nucleotidase, 5'-nucleotidase family	UshA			1HO5
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_00105	COG2801	X	Transposase InsO and inactivated derivatives	Tra5			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_00110	COG0466	O	ATP-dependent Lon protease, bacterial type	Lon			6ON2
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_00125	COG0178	L	Excinuclease UvrABC ATPase subunit	UvrA			2R6F
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_00130	COG0103	J	Ribosomal protein S9	RpsI	Ribosome 30S subunit		4V4H
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_00135	COG0102	J	Ribosomal protein L13	RplM	Ribosome 50S subunit		1VS6
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_00140	COG0729	M	Outer membrane translocation and assembly module TamA	TamA			4BZA
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_00145	COG2911	U	Autotransporter translocation and assembly protein TamB	TamB			5VTG
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_00150	COG0820	J	Adenine C2-methylase RlmN of 23S rRNA A2503 and tRNA A37	RlmN	23S rRNA modification		3RFA
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_00170	COG2255	L	Holliday junction resolvasome RuvABC, ATP-dependent DNA helicase subunit RuvB	RuvB			1HQC
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_00175	COG0828	J	Ribosomal protein S21	RpsU	Ribosome 30S subunit		4V4H
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_00195	COG2259	S	Uncharacterized membrane protein YphA, DoxX/SURF4 family	DoxX			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_00200	COG1810	S	Uncharacterized conserved protein, DUF166 domain				
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_00210	COG3448	T	CBS-domain-containing membrane protein				
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_00215	COG0143	J	Methionyl-tRNA synthetase	MetG	Aminoacyl-tRNA synthetases		1A8H
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_00225	COG0424	Q	7-methyl-GTP pyrophosphatase and related NTP pyrophosphatases, Maf/HAM1 superfamily	Maf		24210219	2P5X
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_00255	COG1593	G	TRAP-type C4-dicarboxylate transport system, large permease component	DctQ			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_00280	COG0608	L	ssDNA-specific exonuclease RecJ, DHH superfamily, may be involved in archaeal DNA replication intiation	RecJ			1IR6
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_00285	COG3638	P	ABC-type phosphate/phosphonate transport system, ATPase component	PhnC			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_00320	COG1538	M	Outer membrane protein TolC	TolC			1EK9
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_00325	COG1033	R	Predicted exporter protein, RND superfamily	MMPL			5KHN
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_00330	COG3884	I	Acyl-ACP thioesterase	FatA			2ESS
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_00335	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_00345	COG4174	Q	ABC-type microcin C transport system, permease component YejB	YejB		17873039	
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_00350	COG4166	E	ABC-type oligopeptide transport system, periplasmic component	OppA			1B05
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_00355	COG3063	NW	Type IV pilus assembly protein PilF/PilW	PilF		16403447	2VQ2
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_00360	COG5394	QT	Polyhydroxyalkanoate (PHA) synthesis regulator protein, binds DNA and PHA				
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_00370	COG0003	P	Anion-transporting ATPase, ArsA/GET3 family	ArsA			1F48
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_00375	COG0003	P	Anion-transporting ATPase, ArsA/GET3 family	ArsA			1F48
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_00385	COG0498	E	Threonine synthase	ThrC	Threonine biosynthesis		1VB3
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_00390	COG0626	E	Cystathionine beta-lyase/cystathionine gamma-synthase	MetC	Methionine biosynthesis		1CL1
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_00405	COG1713	TR	Diadenosine tetraphosphatase YqeK or a related HD superfamily phosphohydrolase	YqeK		32152217	2OGI
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_00410	COG2204	T	DNA-binding transcriptional response regulator, NtrC family, contains REC, AAA-type ATPase, and a Fis-type DNA-binding domains	AtoC			1ZY2
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_00415	COG2204	T	DNA-binding transcriptional response regulator, NtrC family, contains REC, AAA-type ATPase, and a Fis-type DNA-binding domains	AtoC			1ZY2
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_00430	COG0842	V	ABC-type multidrug transport system, permease component	YadH			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_00435	COG1121	P	ABC-type Mn2+/Zn2+ transport system, ATPase component	ZnuC			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_00440	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_00455	COG3591	O	V8-like Glu-specific endopeptidase	eMpr			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_00460	COG0516	F	IMP dehydrogenase/GMP reductase	GuaB	Purine biosynthesis		1B3O
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_00465	COG0204	I	1-acyl-sn-glycerol-3-phosphate acyltransferase	PlsC	Phospholipid biosynthesis		1IUQ
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_00480	COG0784	T	CheY-like REC (receiver) domain, includes chemotaxis protein CheY  and sporulation regulator Spo0F	CheY			6QRJ
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_00485	COG3706	TK	Two-component response regulator, PleD family, consists of two REC domains and a diguanylate cyclase (GGDEF) domain	PleD			1W25
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_00495	COG2205	T	K+-sensing histidine kinase KdpD	KdpD			2KSF
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_00500	COG0642	T	Signal transduction histidine kinase	BaeS			1JOY
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_00505	COG2204	T	DNA-binding transcriptional response regulator, NtrC family, contains REC, AAA-type ATPase, and a Fis-type DNA-binding domains	AtoC			1ZY2
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_00515	COG0291	J	Ribosomal protein L35	RpmI	Ribosome 50S subunit	28373563	1VS6
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_00525	COG1064	G	D-arabinose 1-dehydrogenase, Zn-dependent alcohol dehydrogenase family	AdhP			5O8Q
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_00540	COG1239	H	Mg-chelatase subunit ChlI	ChlI			1G8P
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_00545	COG1721	S	Uncharacterized conserved protein, DUF58 family, contains vWF domain	YeaD2			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_00550	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_00555	COG3290	T	Sensor histidine kinase DipB regulating citrate/malate metabolism	CitA			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_00560	COG0643	T	Chemotaxis protein histidine kinase CheA	CheA			1B3Q
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_00565	COG2197	TK	DNA-binding response regulator, NarL/FixJ family, contains REC and HTH domains	CitB			1A04
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_00570	COG0784	T	CheY-like REC (receiver) domain, includes chemotaxis protein CheY  and sporulation regulator Spo0F	CheY			6QRJ
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_00590	COG0196	H	FAD synthase	RibF	Riboflavin/FAD biosynthesis		1MRZ
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_00600	COG1240	H	vWFA (von Willebrand factor type A) domain of Mg and Co chelatases	ChlD			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_00605	COG1240	H	vWFA (von Willebrand factor type A) domain of Mg and Co chelatases	ChlD			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_00615	COG1721	S	Uncharacterized conserved protein, DUF58 family, contains vWF domain	YeaD2			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_00620	COG1239	H	Mg-chelatase subunit ChlI	ChlI			1G8P
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_00625	COG0742	J	16S rRNA G966 N2-methylase RsmD	RsmD	16S rRNA modification		2IFT
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_00635	COG1293	JO	Ribosome quality control (RQC) protein RqcH, Rqc2/NEMF/Tae2 family, contains fibronectin-(FbpA) and RNA- (NFACT) binding domains	RqcH		31155236;24646681	5H3W
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_00645	COG0681	U	Signal peptidase I	LepB		1925027	1B12
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_00655	COG0500	QR	SAM-dependent methyltransferase	SmtA			5DNK
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_00690	COG0859	M	ADP-heptose:LPS heptosyltransferase	RfaF			1PSW
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_00695	COG1674	D	DNA segregation ATPase FtsK/SpoIIIE or related protein	FtsK			2IUT
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_00700	COG0110	R	Acetyltransferase, isoleucine patch superfamily	WbbJ			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_00715	COG1033	R	Predicted exporter protein, RND superfamily	MMPL			5KHN
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_00730	COG5424	H	Pyrroloquinoline quinone (PQQ) biosynthesis protein C	PqqC			1OTV
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_00735	COG2205	T	K+-sensing histidine kinase KdpD	KdpD			2KSF
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_00745	COG0513	L	Superfamily II DNA and RNA helicase	SrmB			3RRM
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_00765	COG1121	P	ABC-type Mn2+/Zn2+ transport system, ATPase component	ZnuC			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_00785	COG0074	C	Succinyl-CoA synthetase, alpha subunit	SucD	TCA cycle		1CQI
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_00790	COG0105	F	Nucleoside diphosphate kinase	Ndk	Pyrimidine biosynthesis		1B4S
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_00825	COG0846	O	NAD-dependent protein deacetylase, SIR2 family	SIR2			1M2N
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_00830	COG1988	R	Membrane-bound metal-dependent hydrolase YbcI, DUF457 family	YbcI			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_00835	COG0400	R	Predicted esterase	YpfH			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_00845	COG0170	OM	Dolichol kinase	SEC59			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_00850	COG0475	P	Kef-type K+ transport system, membrane component KefB	KefB			4BWZ
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_00860	COG3806	T	Anti-sigma factor ChrR, cupin superfamily	ChrR			2Q1Z
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_00865	COG0702	R	Uncharacterized conserved protein YbjT, contains NAD(P)-binding and DUF2867 domains	YbjT			5L3Z
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_00885	COG1309	K	DNA-binding protein, AcrR family, includes nucleoid occlusion protein SlmA	AcrR			2QOP
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_00905	COG1670	JO	Protein N-acetyltransferase, RimJ/RimL family	RimL			1S7F
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_00915	COG2981	EP	Sulfate transporter CysZ	CysZ		24657232	3TX3
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_00925	COG1167	KE	DNA-binding transcriptional regulator, MocR family, contains an aminotransferase domain	ARO8	Lysine biosynthesis		2R2N
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_00930	COG3970	R	Fumarylacetoacetate (FAA) hydrolase family protein				2Q18
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_00950	COG2204	T	DNA-binding transcriptional response regulator, NtrC family, contains REC, AAA-type ATPase, and a Fis-type DNA-binding domains	AtoC			1ZY2
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_00955	COG1047	O	Peptidyl-prolyl cis-trans isomerase, FKBP type	SlpA			2M2A
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_00960	COG0101	J	tRNA U38,U39,U40 pseudouridine synthase TruA	TruA	tRNA modification		1DJ0
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_00970	COG1183	I	Phosphatidylserine synthase	PssA			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_00975	COG0688	I	Phosphatidylserine decarboxylase	Psd	Phospholipid biosynthesis		6L06
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_00985	COG0265	O	Periplasmic serine protease, S1-C subfamily, contain C-terminal PDZ domain	DegQ		29686141	2HGA
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_00990	COG4589	R	Predicted CDP-diglyceride synthetase/phosphatidate cytidylyltransferase	YnbB			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_00995	COG0020	I	Undecaprenyl pyrophosphate synthase	UppS			1X07
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_01000	COG0233	J	Ribosome recycling factor	Frr			1DD5
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_01005	COG0263	E	Glutamate 5-kinase	ProB	Proline biosynthesis		2W21
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_01010	COG0264	J	Translation elongation factor EF-Ts	Tsf	Translation factors		1EFU
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_01015	COG0052	J	Ribosomal protein S2	RpsB	Ribosome 30S subunit		4V4H
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_01045	COG1551	T	sRNA-binding carbon storage regulator CsrA	CsrA			1T3O
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_01055	COG1749	N	Flagellar hook protein FlgE	FlgE			3A69
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_01070	COG3951	N	Rod binding protein domain	FlgJ1			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_01075	COG1706	N	Flagellar basal body P-ring protein FlgI	FlgI			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_01080	COG2063	N	Flagellar basal body L-ring protein FlgH	FlgH			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_01085	COG1261	N	Flagellar basal body P-ring formation protein FlgA	FlgA			3VJP
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_01090	COG1256	N	Flagellar hook-associated protein FlgK	FlgK			2D4Y
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_01095	COG1749	N	Flagellar hook protein FlgE	FlgE			3A69
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_01100	COG1722	L	Exonuclease VII small subunit	XseB			1VP7
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_01110	COG0744	M	Penicillin-binding protein 1B/1F, peptidoglycan  transglycosylase/transpeptidase	MrcB			3FWL
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_01125	COG0509	E	Glycine cleavage system protein H (lipoate-binding)	GcvH	Glycine cleavage		1DXM
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_01130	COG0354	O	Folate-binding protein YgfZ, synthesis and repair of Fe-S clusters	YgfZ		27941785;22081392	1NRK
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_01135	COG0190	H	5,10-methylene-tetrahydrofolate dehydrogenase/Methenyl tetrahydrofolate cyclohydrolase	FolD			1A4I
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_01150	COG2847	P	Copper(I)-binding protein				1X9L
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_01155	COG0450	V	Alkyl hydroperoxide reductase subunit AhpC (peroxiredoxin)	AhpC			2RII
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_01160	COG1948	L	ERCC4-type crossover junction endonuclease	MUS81			1J22
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_01165	COG2256	L	Replication-associated recombination protein RarA (DNA-dependent ATPase)	RarA			3PVS
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_01175	COG2346	P	Truncated hemoglobin YjbI	YjbI			1DLW
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_01190	COG0774	M	UDP-3-O-acyl-N-acetylglucosamine deacetylase	LpxC	Lipid A biosynthesis		1P42
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_01195	COG0566	J	tRNA G18 (ribose-2'-O)-methylase SpoU	SpoU	tRNA modification		1GZ0
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_01200	COG2204	T	DNA-binding transcriptional response regulator, NtrC family, contains REC, AAA-type ATPase, and a Fis-type DNA-binding domains	AtoC			1ZY2
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_01205	COG1816	F	Adenosine deaminase	Add	Menaquinone biosynthesis		1A4L
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_01220	COG2409	R	Predicted lipid transporter YdfJ, MMPL/SSD domain, RND superfamily	YdfJ		10694977;15941986	
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_01230	COG0574	G	Phosphoenolpyruvate synthase/pyruvate phosphate dikinase	PpsA	Gluconeogenesis		5HV6
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_01240	COG2409	R	Predicted lipid transporter YdfJ, MMPL/SSD domain, RND superfamily	YdfJ		10694977;15941986	
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_01245	COG3239	I	Fatty acid desaturase	DesA			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_01260	COG0637	G	Beta-phosphoglucomutase, HAD superfamily	YcjU		29684280	3E58
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_01275	COG4254	R	Uncharacterized peptidoglycan binding protein, contains LysM and FecR  domains				
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_01280	COG0630	NU	Type IV secretory pathway ATPase VirB11/Archaellum biosynthesis ATPase ArlI/FlaI	VirB11		32416640	1G6O
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_01295	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_01310	COG0367	E	Asparagine synthetase B (glutamine-hydrolyzing)	AsnB	Asparagine biosynthesis	25951518	2ETD
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_01345	COG2824	R	Uncharacterized Zn-ribbon-containing protein	PhnA			2AKK
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_01350	COG4870	O	Cysteine protease, C1A family				1AEC
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_01355	COG1264	G	Phosphotransferase system IIB components	PtsG2			1IBA
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_01360	COG1925	TG	HPr or related phosphotransfer protein	PtsH			1CM2
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_01365	COG1080	G	Phosphoenolpyruvate-protein kinase (PTS system EI component in bacteria)	PtsA			1EZA
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_01375	COG0300	R	Short-chain dehydrogenase	YqjQ			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_01385	COG0697	GER	Permease of the drug/metabolite transporter (DMT) superfamily	RhaT			5I20
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_01400	COG3272	S	Uncharacterized conserved protein YbgA, DUF1722 family	YbgA			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_01405	COG3844	E	Kynureninase	Bna5			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_01410	COG0603	J	7-cyano-7-deazaguanine synthase (queuosine biosynthesis)	QueC	tRNA modification	14660578;17384645	2PG3
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_01415	COG3591	O	V8-like Glu-specific endopeptidase	eMpr			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_01425	COG1453	R	Predicted oxidoreductase of the aldo/keto reductase family				
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_01430	COG0859	M	ADP-heptose:LPS heptosyltransferase	RfaF			1PSW
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_01450	COG3239	I	Fatty acid desaturase	DesA			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_01455	COG0508	C	Pyruvate/2-oxoglutarate dehydrogenase complex, dihydrolipoamide acyltransferase (E2) component	AceF	Pyruvate oxidation		1B5S
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_01460	COG2409	R	Predicted lipid transporter YdfJ, MMPL/SSD domain, RND superfamily	YdfJ		10694977;15941986	
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_01465	COG3000	I	Sterol desaturase/sphingolipid hydroxylase, fatty acid hydroxylase superfamily	ERG3			4ZR0
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_01475	COG1028	I	NAD(P)-dependent dehydrogenase, short-chain alcohol dehydrogenase family	FabG	Fatty acid biosynthesis		6L1H
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_01485	COG3642	J	tRNA A-37 threonylcarbamoyl transferase component Bud32	Bud32	tRNA modification		2VWB
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_01495	COG0764	I	3-hydroxymyristoyl/3-hydroxydecanoyl-(acyl carrier protein) dehydratase	FabA	Fatty acid biosynthesis		1MKA
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_01500	COG3591	O	V8-like Glu-specific endopeptidase	eMpr			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_01505	COG2856	O	Zn-dependent peptidase ImmA, M78 family	ImmA			3DTE
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_01515	COG0630	NU	Type IV secretory pathway ATPase VirB11/Archaellum biosynthesis ATPase ArlI/FlaI	VirB11		32416640	1G6O
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_01520	COG0630	NU	Type IV secretory pathway ATPase VirB11/Archaellum biosynthesis ATPase ArlI/FlaI	VirB11		32416640	1G6O
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_01525	COG1459	NUW	Type II secretory pathway, component PulF	PulF			2VMA
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_01530	COG2165	NUW	Type II secretory pathway, pseudopilin PulG	PulG			1AY2
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_01540	COG2274	V	ABC-type bacteriocin/lantibiotic exporters, contain an N-terminal double-glycine peptidase domain	SunT			3K8U
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_01545	COG1668	CP	ABC-type Na+ efflux pump, permease component NatB	NatB			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_01550	COG1989	NU	Prepilin signal peptidase PulO (type II secretory pathway) or related peptidase	PulO			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_01555	COG0849	D	Cell division ATPase FtsA	FtsA			3WT0
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_01560	COG3166	NW	Type IV pilus assembly protein PilN	PilN			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_01565	COG3167	NW	Type IV pilus assembly protein PilO	PilO			2RJZ
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_01575	COG4964	UW	Flp pilus assembly protein, secretin CpaC	CpaC			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_01580	COG4783	MO	Outer membrane protein chaperone/metalloprotease BepA/YfgC, contains M48 and TPR domains	BepA		24003122	6AIT
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_01590	COG1499	J	NMD protein affecting ribosome stability and mRNA decay	NMD3			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_01600	COG2982	M	Uncharacterized conserved protein AsmA involved in outer membrane biogenesis	AsmA			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_01615	COG2227	H	2-polyprenyl-3-methyl-5-hydroxy-6-metoxy-1,4-benzoquinol methylase	UbiG	Ubiquinone biosynthesis		1BHJ
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_01625	COG0357	J	16S rRNA G527 N7-methylase RsmG (former glucose-inhibited division protein B)	RsmG	16S rRNA modification	15375115;22031445	1XDZ
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_01645	COG0649	C	NADH:ubiquinone oxidoreductase 49 kD subunit (chain D)	NuoD	NADH dehydrogenase		2FUG
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_01660	COG0010	E	Arginase/agmatinase family enzyme	SpeB	Urea cycle		1CEV
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_01665	COG0111	H	Phosphoglycerate dehydrogenase or related dehydrogenase	SerA	Serine biosynthesis		3OET
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_01670	COG0024	J	Methionine aminopeptidase	Map			3J2I
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_01685	COG0805	U	Twin-arginine protein secretion pathway component TatC	TatC			4B4A
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_01695	COG2206	T	HD-GYP domain, c-di-GMP phosphodiesterase class II (or its inactivated variant)	HDGYP		23475961	5Z7C
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_01705	COG1088	M	dTDP-D-glucose 4,6-dehydratase	RfbB			1G1A
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_01710	COG1536	N	Flagellar motor switch protein FliG	FliG			4FHR
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_01715	COG2204	T	DNA-binding transcriptional response regulator, NtrC family, contains REC, AAA-type ATPase, and a Fis-type DNA-binding domains	AtoC			1ZY2
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_01725	COG2204	T	DNA-binding transcriptional response regulator, NtrC family, contains REC, AAA-type ATPase, and a Fis-type DNA-binding domains	AtoC			1ZY2
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_01730	COG1087	M	UDP-glucose 4-epimerase	GalE			1A9Y
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_01735	COG1020	Q	EntF, seryl-AMP synthase component  of non-ribosomal peptide synthetase	EntF			5ES5
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_01745	COG3425	I	3-hydroxy-3-methylglutaryl CoA synthase	PksG	Isoprenoid biosynthesis		1TVZ
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_01750	COG1249	C	Dihydrolipoamide dehydrogenase (E3) component of pyruvate/2-oxoglutarate dehydrogenase complex or glutathione oxidoreductase	Lpd	Glycine cleavagePyruvate oxidation		6QKG
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_01755	COG0236	I	Acyl carrier protein	AcpP	Fatty acid biosynthesis		1ACP
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_01760	COG0304	IQ	3-oxoacyl-(acyl-carrier-protein) synthase	FabB	Fatty acid biosynthesis	21652641	2UV8
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_01765	COG1510	K	DNA-binding transcriptional regulator GbsR, MarR family	GbsR			1KU9
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_01805	COG2268	S	Uncharacterized membrane protein YqiK, contains Band7/PHB/SPFH domain	YqiK			1WIN
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_01815	COG1585	O	Membrane protein implicated in regulation of membrane protease activity	YbbJ			2EXD
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_01820	COG0402	FR	Cytosine/adenosine deaminase or related metal-dependent hydrolase	SsnA	Pyrimidine salvage		3O7U
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_01835	COG0249	L	DNA mismatch repair ATPase MutS	MutS			1E3M
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_01845	COG1714	S	Uncharacterized membrane protein YckC, RDD family	YckC			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_01860	COG1026	O	Zn-dependent peptidase, M16 (insulinase) family	Cym1			2FGE
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_01865	COG1237	R	Metal-dependent hydrolase, beta-lactamase superfamily II				2P4Z
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_01870	COG0686	E	Alanine dehydrogenase (includes sporulation protein SpoVN)	Ald	Urea cycle		2EEZ
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_01915	COG0551	L	DNA topoisomerase I, ssDNA-binding Zn-finger and Zn-ribbon domains	YrdD			1YUA
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_01920	COG2035	S	Uncharacterized membrane protein, DUF368 family				
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_01925	COG2524	K	Predicted transcriptional regulator, contains C-terminal CBS domains				
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_01940	COG2365	T	Protein tyrosine/serine phosphatase Oca4	Oca4			1XRI
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_01950	COG0281	C	Malic enzyme	SfcA	Urea cycle		1DO8
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_01960	COG2949	M	Uncharacterized periplasmic protein SanA, affects membrane permeability for vancomycin	SanA			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_01965	COG0260	E	Leucyl aminopeptidase	PepB		19553197;23825549	3H8E
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_01980	COG0366	G	Glycosidase/amylase (phosphorylase)	AmyA		29684280	2P67
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_01990	COG4147	C	Na+(or H+)/acetate symporter ActP	ActP			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_02015	COG0317	TK	(p)ppGpp synthase/hydrolase, HD superfamily	SpoT			1TDJ
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_02020	COG3709	G	Ribose 1,5-bisphosphate kinase PhnN	PhnN			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_02040	COG1241	L	DNA replicative helicase MCM subunit Mcm2, Cdc46/Mcm family	Mcm2			3F8T
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_02045	COG1160	J	Double Era-like domain GTPase Der	Der			1MKY
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_02055	COG0204	I	1-acyl-sn-glycerol-3-phosphate acyltransferase	PlsC	Phospholipid biosynthesis		1IUQ
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_02060	COG1088	M	dTDP-D-glucose 4,6-dehydratase	RfbB			1G1A
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_02065	COG0322	L	Excinuclease UvrABC, nuclease subunit	UvrC		24513124	2NRT
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_02075	COG0397	O	Protein adenylyltransferase (AMPylase) SelO/YdiU (selenoprotein O)	SelO		30270044	6EAC
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_02095	COG1232	H	Protoporphyrinogen oxidase HemY/PPOX	HemY	Heme biosynthesis		3LOV
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_02115	COG1845	C	Heme/copper-type cytochrome/quinol oxidase, subunit 3	CyoC			1QLE
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_02120	COG3883	S	Uncharacterized N-terminal coiled-coil domain of peptidoglycan hydrolase CwlO	CwlO1			4CGK
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_02125	COG1290	C	Cytochrome b subunit of the bc complex	QcrB/PetB			1VF5
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_02135	COG0723	C	Rieske Fe-S protein	QcrA/PetC		27663073	5CXM
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_02175	COG1536	N	Flagellar motor switch protein FliG	FliG			4FHR
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_02205	COG0488	R	ATPase components of ABC transporters with duplicated ATPase domains	Uup			5ZXD
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_02220	COG0840	T	Methyl-accepting chemotaxis protein (MCP)	Tar			1QU7
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_02225	COG1226	P	Voltage-gated potassium channel Kch	Kch			3FWZ
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_02235	COG1357	S	Uncharacterized conserved protein YjbI, contains pentapeptide repeats	YjbI			2BM4
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_02240	COG1528	P	Ferritin	FtnA		24380371	1AEW
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_02250	COG0189	EHJQ	Glutathione synthase, LysX or RimK-type ligase, ATP-grasp superfamily	LysX	Lysine biosynthesis		1GLV
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_02255	COG2866	M	Murein tripeptide amidase MpaA	MpaA			1ARL
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_02260	COG0010	E	Arginase/agmatinase family enzyme	SpeB	Urea cycle		1CEV
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_02285	COG5010	UW	Flp pilus assembly protein TadD, contains TPR repeats	TadD			3WXX
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_02290	COG5010	UW	Flp pilus assembly protein TadD, contains TPR repeats	TadD			3WXX
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_02305	COG0210	L	Superfamily I DNA or RNA helicase	UvrD			6PPR
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_02315	COG1281	O	Redox-regulated molecular chaperone, HSP33 family	HslO			1HW7
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_02330	COG1150	C	Heterodisulfide reductase, subunit C	HdrC			5ODC
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_02370	COG2135	L	ssDNA abasic site-binding protein YedK/HMCES, SRAP family	SRAP		30554877;31504793	1ZN6
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_02390	COG4087	R	Soluble P-type ATPase				
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_02395	COG3197	O	Cytochrome oxidase maturation protein, CcoS/FixS family	FixS			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_02400	COG0843	C	Heme/copper-type cytochrome/quinol oxidase, subunit 1	CyoB			1AR1
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_02410	COG0512	EH	Anthranilate/para-aminobenzoate synthase component II (glutamine amidotransferase)	PabA	Aromatic amino acid biosynthesis		1I1Q
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_02415	COG0517	T	CBS domain	CBS			1B3O
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_02425	COG4105	M	Outer membrane protein assembly factor BamD, BamD/ComL family	BamD			2YHC
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_02430	COG4558	P	ABC-type hemin transport system, periplasmic component	ChuT			3MD9
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_02435	COG0785	CO	Cytochrome c biogenesis protein CcdA	CcdA			5VKV
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_02455	COG0560	E	Phosphoserine phosphatase	SerB	Serine biosynthesis		3N28
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_02460	COG2876	E	3-deoxy-D-arabino-heptulosonate 7-phosphate (DAHP) synthase	AroGA	Aromatic amino acid biosynthesis		5J6F
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_02465	COG0504	F	CTP synthase (UTP-ammonia lyase)	PyrG	Pyrimidine biosynthesis		1S1M
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_02470	COG1861	M	Spore coat polysaccharide biosynthesis protein SpsF, cytidylyltransferase family	SpsF			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_02480	COG1538	M	Outer membrane protein TolC	TolC			1EK9
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_02485	COG0034	F	Glutamine phosphoribosylpyrophosphate amidotransferase	PurF	Purine biosynthesis		1ECB
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_02490	COG1167	KE	DNA-binding transcriptional regulator, MocR family, contains an aminotransferase domain	ARO8	Lysine biosynthesis		2R2N
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_02520	COG1134	G	ABC-type polysaccharide/polyol phosphate transport system, ATPase component	TagH			6JBH
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_02530	COG2244	M	Membrane protein involved in the export of O-antigen and teichoic acid	RfbX			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_02535	COG0859	M	ADP-heptose:LPS heptosyltransferase	RfaF			1PSW
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_02545	COG2227	H	2-polyprenyl-3-methyl-5-hydroxy-6-metoxy-1,4-benzoquinol methylase	UbiG	Ubiquinone biosynthesis		1BHJ
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_02570	COG4638	PR	Phenylpropionate dioxygenase or related ring-hydroxylating dioxygenase, large terminal subunit	HcaE			4QDC
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_02580	COG4658	C	Na+-translocating ferredoxin:NAD+ oxidoreductase  RNF, RnfD subunit	RnfD	Na+-translocating Fd:NADH oxidoreductase		
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_02590	COG3239	I	Fatty acid desaturase	DesA			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_02600	COG1597	IR	Phosphatidylglycerol kinase, diacylglycerol kinase family	LCB5		17351295	2BON
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_02610	COG1360	N	Flagellar motor protein MotB	MotB			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_02650	COG0334	E	Glutamate dehydrogenase/leucine dehydrogenase	GdhA	Glutamine biosynthesis	24391520	1B3B
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_02655	COG3706	TK	Two-component response regulator, PleD family, consists of two REC domains and a diguanylate cyclase (GGDEF) domain	PleD			1W25
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_02665	COG4191	T	Signal transduction histidine kinase regulating C4-dicarboxylate transport system				4GCZ
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_02685	COG3413	R	Predicted transcriptional regulator, contains HTH domain	DmsR		15716436	
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_02690	COG3621	R	Patatin-like phospholipase/acyl hydrolase, includes sporulation protein CotR	PATA			1OXW
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_02705	COG0071	O	Small heat shock protein IbpA, HSP20 family	IbpA			1GME
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_02710	COG3239	I	Fatty acid desaturase	DesA			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_02720	COG4638	PR	Phenylpropionate dioxygenase or related ring-hydroxylating dioxygenase, large terminal subunit	HcaE			4QDC
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_02725	COG3239	I	Fatty acid desaturase	DesA			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_02730	COG1032	R	Radical SAM superfamily enzyme YgiQ, UPF0313 family	YgiQ			6FD2
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_02735	COG1032	R	Radical SAM superfamily enzyme YgiQ, UPF0313 family	YgiQ			6FD2
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_02745	COG3696	P	Cu/Ag efflux pump CusA	CusA			3K07
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_02755	COG1538	M	Outer membrane protein TolC	TolC			1EK9
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_02770	COG1937	K	DNA-binding transcriptional regulator, FrmR family	FrmR			2HH7
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_02775	COG0560	E	Phosphoserine phosphatase	SerB	Serine biosynthesis		3N28
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_02800	COG4276	R	Ligand-binding SRPBCC domain	SRPBCC			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_02805	COG0259	H	Pyridoxine/pyridoxamine 5'-phosphate oxidase	PdxH	Pyridoxal phosphate biosynthesis		1CI0
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_02825	COG1846	K	DNA-binding transcriptional regulator, MarR family	MarR			1JGS
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_02835	COG0724	J	RNA recognition motif (RRM) domain	RRM			1HL6
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_02865	COG3380	R	Predicted NAD/FAD-dependent oxidoreductase				4ZCC
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_02870	COG1309	K	DNA-binding protein, AcrR family, includes nucleoid occlusion protein SlmA	AcrR			2QOP
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_02875	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_02885	COG0451	M	Nucleoside-diphosphate-sugar epimerase	WcaG			2X4G
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_02905	COG3239	I	Fatty acid desaturase	DesA			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_02930	COG0446	I	NADPH-dependent 2,4-dienoyl-CoA reductase, sulfur reductase, or a related oxidoreductase	FadH2			1VRQ
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_02940	COG4774	P	Outer membrane receptor for monomeric catechols	Fiu			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_02950	COG0735	P	Fe2+ or Zn2+ uptake regulation protein Fur/Zur	Fur			1MZB
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_02960	COG3232	E	5-carboxymethyl-2-hydroxymuconate isomerase	HpaF			1OTG
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_02965	COG2907	R	Predicted flavin-containing amine oxidase	Ppro0129			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_02970	COG0124	J	Histidyl-tRNA synthetase	HisS	Aminoacyl-tRNA synthetases		1KMM
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_02975	COG0189	EHJQ	Glutathione synthase, LysX or RimK-type ligase, ATP-grasp superfamily	LysX	Lysine biosynthesis		1GLV
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_02980	COG0161	H	Adenosylmethionine-8-amino-7-oxononanoate aminotransferase	BioA	Biotin biosynthesis		1MLY
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_02990	COG4670	I	Acyl CoA:acetate/3-ketoacid CoA transferase	YdiF			5VIT
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_02995	COG0427	C	Propionyl CoA:succinate CoA transferase	ACH1		10769117	2G39
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_03015	COG2176	L	DNA polymerase III, alpha subunit (gram-positive type)	PolC			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_03020	COG4942	D	Septal ring factor EnvC, activator of murein hydrolases AmiA and AmiB	EnvC			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_03025	COG0496	L	Broad specificity polyphosphatase and 5'/3'-nucleotidase SurE	SurE			2V4N
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_03035	COG0512	EH	Anthranilate/para-aminobenzoate synthase component II (glutamine amidotransferase)	PabA	Aromatic amino acid biosynthesis		1I1Q
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_03040	COG1452	M	LPS assembly outer membrane protein LptD (organic solvent tolerance protein OstA)	LptD			4N4R
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_03045	COG0659	P	Sulfate permease or related transporter, MFS superfamily	SUL1			3NY7
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_03060	COG0513	L	Superfamily II DNA and RNA helicase	SrmB			3RRM
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_03065	COG1197	LK	Transcription-repair coupling factor (superfamily II helicase)	Mfd			2EYQ
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_03070	COG1966	CE	Carbon starvation protein CstA (peptide/pyruvate transporter)	CstA		26497384;29358499	
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_03075	COG0165	E	Argininosuccinate lyase	ArgH	Arginine biosynthesis		1AOS
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_03090	COG2198	T	HPt (histidine-containing phosphotransfer) domain	HPtr			3IQT
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_03095	COG3437	T	Response regulator c-di-GMP phosphodiesterase, RpfG family, contains REC and HD-GYP domains	RpfG			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_03100	COG1670	JO	Protein N-acetyltransferase, RimJ/RimL family	RimL			1S7F
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_03110	COG2206	T	HD-GYP domain, c-di-GMP phosphodiesterase class II (or its inactivated variant)	HDGYP		23475961	5Z7C
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_03115	COG2761	O	Predicted dithiol-disulfide isomerase, DsbA/YjbH family (virulence, stress resistance)	FrnE			6GHB
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_03120	COG0652	O	Peptidyl-prolyl cis-trans isomerase (rotamase) - cyclophilin family	PpiB			4DGD
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_03130	COG3340	E	Peptidase E	PepE			1FY2
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_03135	COG3713	M	Outer membrane scaffolding protein for murein synthesis, MipA/OmpV family	OmpV			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_03145	COG2230	I	Cyclopropane fatty-acyl-phospholipid synthase and related methyltransferases	Cfa			5Z9O
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_03150	COG4106	C	Trans-aconitate methyltransferase	Tam			2P35
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_03160	COG2204	T	DNA-binding transcriptional response regulator, NtrC family, contains REC, AAA-type ATPase, and a Fis-type DNA-binding domains	AtoC			1ZY2
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_03165	COG0789	K	DNA-binding transcriptional regulator, MerR family	SoxR			2VZ4
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_03200	COG0515	T	Serine/threonine protein kinase	SPS1			6G4J
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_03225	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_03230	COG3011	R	Predicted thiol-disulfide oxidoreductase YuxK, DCC family	YuxK		15236740	
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_03235	COG5414
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_03240	COG1321	K	Mn-dependent transcriptional regulator MntR, DtxR family	MntR			1B1B
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_03245	COG3202	C	ATP/ADP translocase	TlcC			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_03250	COG1164	E	Oligoendopeptidase F	PepF			3CE2
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_03260	COG3288	C	NAD/NADP transhydrogenase alpha subunit	PntA			1F8G
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_03265	COG2814	G	Predicted arabinose efflux permease AraJ, MFS family	AraJ			4LDS
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_03270	COG0167	F	Dihydroorotate dehydrogenase	PyrD	Pyrimidine biosynthesis		1GT8
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_03275	COG0513	L	Superfamily II DNA and RNA helicase	SrmB			3RRM
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_03280	COG2833	S	Uncharacterized protein, contains ferritin-like DUF455 domain				
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_03300	COG0642	T	Signal transduction histidine kinase	BaeS			1JOY
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_03305	COG0643	T	Chemotaxis protein histidine kinase CheA	CheA			1B3Q
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_03310	COG1113	E	L-asparagine transporter or related permease	AnsP			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_03315	COG2204	T	DNA-binding transcriptional response regulator, NtrC family, contains REC, AAA-type ATPase, and a Fis-type DNA-binding domains	AtoC			1ZY2
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_03320	COG2204	T	DNA-binding transcriptional response regulator, NtrC family, contains REC, AAA-type ATPase, and a Fis-type DNA-binding domains	AtoC			1ZY2
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_03330	COG0784	T	CheY-like REC (receiver) domain, includes chemotaxis protein CheY  and sporulation regulator Spo0F	CheY			6QRJ
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_03335	COG0784	T	CheY-like REC (receiver) domain, includes chemotaxis protein CheY  and sporulation regulator Spo0F	CheY			6QRJ
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_03340	COG2204	T	DNA-binding transcriptional response regulator, NtrC family, contains REC, AAA-type ATPase, and a Fis-type DNA-binding domains	AtoC			1ZY2
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_03345	COG0784	T	CheY-like REC (receiver) domain, includes chemotaxis protein CheY  and sporulation regulator Spo0F	CheY			6QRJ
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_03355	COG0388	C	Omega-amidase YafV/Nit2, hydrolyzes alpha-ketoglutaramate	Nit2		28373563	
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_03360	COG1249	C	Dihydrolipoamide dehydrogenase (E3) component of pyruvate/2-oxoglutarate dehydrogenase complex or glutathione oxidoreductase	Lpd	Glycine cleavagePyruvate oxidation		6QKG
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_03365	COG0697	GER	Permease of the drug/metabolite transporter (DMT) superfamily	RhaT			5I20
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_03370	COG1089	M	GDP-D-mannose dehydratase	Gmd			1DB3
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_03385	COG0478	T	RIO-like serine/threonine protein kinase fused to N-terminal HTH domain	RIO2			1TQI
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_03390	COG1914	P	Mn2+ or Fe2+ transporter, NRAMP family	MntH			5KTE
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_03395	COG0517	T	CBS domain	CBS			1B3O
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_03405	COG0572	F	Uridine kinase	Udk	Pyrimidine salvage		5B3F
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_03420	COG0451	M	Nucleoside-diphosphate-sugar epimerase	WcaG			2X4G
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_03435	COG2204	T	DNA-binding transcriptional response regulator, NtrC family, contains REC, AAA-type ATPase, and a Fis-type DNA-binding domains	AtoC			1ZY2
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_03455	COG0123	Q	Acetoin utilization deacetylase AcuC or a related deacetylase	AcuC			1C3P
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_03460	COG0478	T	RIO-like serine/threonine protein kinase fused to N-terminal HTH domain	RIO2			1TQI
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_03485	COG2206	T	HD-GYP domain, c-di-GMP phosphodiesterase class II (or its inactivated variant)	HDGYP		23475961	5Z7C
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_03505	COG1506	E	Dipeptidyl aminopeptidase/acylaminoacyl peptidase	DAP2			2JBW
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_03510	COG0227	J	Ribosomal protein L28	RpmB	Ribosome 50S subunit		2JZ6
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_03520	COG0537	FR	Purine nucleoside phosphoramidase/Ap4A hydrolase, histidine triade (HIT) family	HinT		20934431	1AV5
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_03525	COG0024	J	Methionine aminopeptidase	Map			3J2I
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_03560	COG1201	L	Lhr-like helicase	Lhr			5V9X
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_03565	COG1249	C	Dihydrolipoamide dehydrogenase (E3) component of pyruvate/2-oxoglutarate dehydrogenase complex or glutathione oxidoreductase	Lpd	Glycine cleavagePyruvate oxidation		6QKG
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_03575	COG4671	R	Predicted glycosyl transferase				
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_03580	COG3448	T	CBS-domain-containing membrane protein				
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_03585	COG2204	T	DNA-binding transcriptional response regulator, NtrC family, contains REC, AAA-type ATPase, and a Fis-type DNA-binding domains	AtoC			1ZY2
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_03590	COG4108	J	Peptide chain release factor RF-3	PrfC	Translation factors		3UOQ
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_03595	COG1131	V	ABC-type multidrug transport system, ATPase component	CcmA			5DO7
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_03600	COG1846	K	DNA-binding transcriptional regulator, MarR family	MarR			1JGS
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_03605	COG1902	C	2,4-dienoyl-CoA reductase or related NADH-dependent reductase, Old Yellow Enzyme (OYE) family	FadH			1BWK
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_03610	COG1225	O	Peroxiredoxin	Bcp			5IPH
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_03615	COG2951	M	Membrane-bound lytic murein transglycosylase B	MltB			1D0K
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_03620	COG0441	J	Threonyl-tRNA synthetase	ThrS	Aminoacyl-tRNA synthetases		1NYQ
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_03625	COG4103	P	Tellurite resistance protein TerB	TerB2		23044854	2JXU
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_03635	COG4786	N	Flagellar basal body rod protein FlgG	FlgG			6JZR
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_03665	COG1187	J	Pseudouridylate synthase RsuA, specific for 16S rRNA U516  and 23S rRNA U2605	RsuA	16S rRNA modification		1KSK
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_03670	COG3137	M	Putative salt-induced outer membrane protein YdiY	YdiY			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_03675	COG0705	O	Membrane-associated serine protease, rhomboid family	GlpG			2IC8
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_03685	COG0777	I	Acetyl-CoA carboxylase beta subunit	AccD	Fatty acid biosynthesis		2F9I
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_03690	COG0458	EF	Carbamoylphosphate synthase large subunit	CarB	Arginine biosynthesis		1C30
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_03695	COG0511	I	Biotin carboxyl carrier protein	AccB	Fatty acid biosynthesis		1A6X
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_03700	COG2268	S	Uncharacterized membrane protein YqiK, contains Band7/PHB/SPFH domain	YqiK			1WIN
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_03705	COG2268	S	Uncharacterized membrane protein YqiK, contains Band7/PHB/SPFH domain	YqiK			1WIN
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_03710	COG0009	J	tRNA A37 threonylcarbamoyladenosine synthetase subunit TsaC/SUA5/YrdC	TsaC	tRNA modification		1HRU
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_03735	COG1032	R	Radical SAM superfamily enzyme YgiQ, UPF0313 family	YgiQ			6FD2
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_03790	COG3016	R	Putative heme-binding protein PhuW	PhuW		16950397	2G5G
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_03805	COG2263	R	Predicted RNA methylase				6H2U
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_03810	COG1057	H	Nicotinate-nucleotide adenylyltransferase NadD	NadD	NAD biosynthesis		1YUM
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_03815	COG0079	E	Histidinol-phosphate/aromatic aminotransferase or cobyric acid decarboxylase	HisC	Cobalamine/B12 biosynthesis		4R2N
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_03830	COG1116	P	ABC-type nitrate/sulfonate/bicarbonate transport system, ATPase component	TauB			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_03865	COG2077	O	Peroxiredoxin	Tpx			4AF2
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_03870	COG0616	O	Periplasmic serine protease, ClpP class	SppA			3BEZ
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_03875	COG1219	O	ATP-dependent protease Clp, ATPase subunit ClpX	ClpX			3HTE
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_03885	COG0483	G	Archaeal fructose-1,6-bisphosphatase or related enzyme, inositol monophosphatase family	SuhB	Gluconeogenesis		1AWB
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_03890	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_03895	COG1061	KL	Superfamily II DNA or RNA helicase	SSL2			6JDE
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_03900	COG0568	K	DNA-directed RNA polymerase, sigma subunit (sigma70/sigma32)	RpoD	RNA polymerase		1SIG
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_03905	COG3899	R	Predicted ATPase				
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_03910	COG2127	O	ATP-dependent Clp protease adapter protein ClpS	ClpS			1LZW
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_03915	COG4103	P	Tellurite resistance protein TerB	TerB2		23044854	2JXU
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_03940	COG3030	R	FxsA protein affecting phage T7 exclusion by the F plasmid, UPF0716 family	FxsA			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_03945	COG0498	E	Threonine synthase	ThrC	Threonine biosynthesis		1VB3
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_03955	COG0431	C	NAD(P)H-dependent FMN reductase	SsuE			6DQI
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_03970	COG1396	K	Transcriptional regulator, contains XRE-family HTH domain	HipB			1ADR
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_03980	COG1136	M	ABC-type lipoprotein export system, ATPase component	LolD			5GKO
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_03985	COG2761	O	Predicted dithiol-disulfide isomerase, DsbA/YjbH family (virulence, stress resistance)	FrnE			6GHB
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_03990	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_03995	COG0469	G	Pyruvate kinase	PykF	Glycolysis		6QXL
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_04000	COG2878	C	Na+-translocating ferredoxin:NAD+ oxidoreductase RNF, RnfB subunit	RnfB	Na+-translocating Fd:NADH oxidoreductase	24045950	
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_04025	COG0807	H	GTP cyclohydrolase II	RibA	Riboflavin/FAD biosynthesis		2BZ0
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_04045	COG0561	HR	Hydroxymethylpyrimidine pyrophosphatase and other HAD family phosphatases	Cof			1YMQ
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_04050	COG1187	J	Pseudouridylate synthase RsuA, specific for 16S rRNA U516  and 23S rRNA U2605	RsuA	16S rRNA modification		1KSK
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_04055	COG1121	P	ABC-type Mn2+/Zn2+ transport system, ATPase component	ZnuC			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_04070	COG0076	E	Glutamate or tyrosine decarboxylase or a related PLP-dependent protein	GadA	Pantothenate/CoA biosynthesis		1XEY
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_04080	COG0607	P	Rhodanese-related sulfurtransferase	PspE	Urea cycle		1TQ1
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_04085	COG1062	C	Zn-dependent alcohol/formaldehyde dehydrogenase	FrmA			1A71
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_04090	COG0596	HR	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold	MenH	Menaquinone biosynthesis		4MYS
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_04100	COG2894	D	Septum site-determining ATPase MinD	MinD			4V02
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_04105	COG1475	D	Chromosome segregation protein Spo0J, contains ParB-like nuclease domain	Spo0J			1R71
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_04115	COG0334	E	Glutamate dehydrogenase/leucine dehydrogenase	GdhA	Glutamine biosynthesis	24391520	1B3B
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_04140	COG3075	E	Anaerobic glycerol-3-phosphate dehydrogenase	GlpB			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_04165	COG2988	E	Succinylglutamate desuccinylase	AstE			1YW4
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_04175	COG3958	G	Transketolase, C-terminal subunit	TktA2			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_04190	COG2227	H	2-polyprenyl-3-methyl-5-hydroxy-6-metoxy-1,4-benzoquinol methylase	UbiG	Ubiquinone biosynthesis		1BHJ
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_04195	COG0633	C	Ferredoxin	Fdx			1KRH
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_04205	COG0176	G	Transaldolase/fructose-6-phosphate aldolase	TalA	Pentose phosphate pathway		1F05
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_04225	COG4974	L	Site-specific recombinase XerD	XerD			1A0P
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_04235	COG0486	J	tRNA U34 5-carboxymethylaminomethyl modifying GTPase MnmE/TrmE	MnmE	tRNA modification		
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_04240	COG0486	J	tRNA U34 5-carboxymethylaminomethyl modifying GTPase MnmE/TrmE	MnmE	tRNA modification		
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_04245	COG2703	T	Hemerythrin				1A7D
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_04265	COG2976	T	Putative negative regulator of RcsB-dependent stress response, UPF0070 family	YfgM		23091052	
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_04270	COG1520	M	Outer membrane protein assembly factor BamB, contains PQQ-like beta-propeller repeat	PQQ			6TJG
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_04280	COG1404	O	Serine protease, subtilisin family	AprE			1SCJ
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_04300	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_04315	COG1032	R	Radical SAM superfamily enzyme YgiQ, UPF0313 family	YgiQ			6FD2
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_04335	COG0060	J	Isoleucyl-tRNA synthetase	IleS	Aminoacyl-tRNA synthetases		1FFY
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_04340	COG0060	J	Isoleucyl-tRNA synthetase	IleS	Aminoacyl-tRNA synthetases		1FFY
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_04375	COG1541	H	Phenylacetate-coenzyme A ligase PaaK, adenylate-forming domain family	PaaK			2Y4O
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_04385	COG2204	T	DNA-binding transcriptional response regulator, NtrC family, contains REC, AAA-type ATPase, and a Fis-type DNA-binding domains	AtoC			1ZY2
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_04410	COG0464	MDT	AAA+-type ATPase, SpoVK/Ycf46/Vps4 family	SpoVK			3SYL
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_04415	COG0175	EH	3'-phosphoadenosine 5'-phosphosulfate sulfotransferase (PAPS reductase)/FAD synthetase or related enzyme	CysD	Cysteine biosynthesis		1ZUN
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_04445	COG0539	J	Ribosomal protein S1	RpsA	Ribosome 30S subunit		4NNH
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_04455	COG3977	E	Alanine-alpha-ketoisovalerate (or valine-pyruvate) aminotransferase	AvtA			3G7Q
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_04460	COG0111	H	Phosphoglycerate dehydrogenase or related dehydrogenase	SerA	Serine biosynthesis		3OET
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_04465	COG1707	R	Uncharacterized protein, contains ACT and PBP-like DUF5612 domains, MJ1458 family	AF1403			1Y7P
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_04485	COG1117	P	ABC-type phosphate transport system, ATPase component	PstB			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_04500	COG1187	J	Pseudouridylate synthase RsuA, specific for 16S rRNA U516  and 23S rRNA U2605	RsuA	16S rRNA modification		1KSK
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_04505	COG1360	N	Flagellar motor protein MotB	MotB			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_04510	COG1291	N	Flagellar motor component MotA	MotA			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_04515	COG3528	S	Uncharacterized conserved protein, DUF2219 family				3FID
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_04525	COG1506	E	Dipeptidyl aminopeptidase/acylaminoacyl peptidase	DAP2			2JBW
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_04545	COG0305	L	Replicative DNA helicase	DnaB			1B79
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_04575	COG0848	U	Biopolymer transport protein ExbD	ExbD			2JWK
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_04585	COG2319	R	WD40 repeat	WD40			3UVN
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_04590	COG4567	TK	DNA-binding response regulator, ActR/RegA family, consists of REC and Fis-type HTH domains				3RQI
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_04600	COG1078	R	HD superfamily phosphohydrolase	YdhJ			2HEK
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_04610	COG1352	T	Methylase of chemotaxis methyl-accepting proteins	CheR			1AF7
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_04615	COG3840	H	ABC-type thiamine transport system, ATPase component ThiQ	ThiQ			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_04625	COG0739	M	Murein DD-endopeptidase MepM and murein hydrolase activator NlpD, contains LysM domain	NlpD			2GU1
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_04630	COG0265	O	Periplasmic serine protease, S1-C subfamily, contain C-terminal PDZ domain	DegQ		29686141	2HGA
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_04640	COG1570	L	Exonuclease VII, large subunit	XseA			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_04645	COG0784	T	CheY-like REC (receiver) domain, includes chemotaxis protein CheY  and sporulation regulator Spo0F	CheY			6QRJ
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_04655	COG1099	R	Predicted metal-dependent hydrolase, TIM-barrel fold				3GUW
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_04665	COG1837	R	Predicted RNA-binding protein YlqC, contains KH domain, UPF0109 family	YlqC			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_04670	COG2204	T	DNA-binding transcriptional response regulator, NtrC family, contains REC, AAA-type ATPase, and a Fis-type DNA-binding domains	AtoC			1ZY2
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_04675	COG1826	U	Twin-arginine protein secretion pathway components TatA and TatB	TatA			2L16
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_04680	COG0780	J	NADPH-dependent 7-cyano-7-deazaguanine reductase QueF, C-terminal domain, T-fold superfamily	QueFC	tRNA modification	14660578;17384645	3BP1
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_04685	COG2814	G	Predicted arabinose efflux permease AraJ, MFS family	AraJ			4LDS
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_04690	COG2206	T	HD-GYP domain, c-di-GMP phosphodiesterase class II (or its inactivated variant)	HDGYP		23475961	5Z7C
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_04695	COG2206	T	HD-GYP domain, c-di-GMP phosphodiesterase class II (or its inactivated variant)	HDGYP		23475961	5Z7C
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_04700	COG5000	T	Signal transduction histidine kinase NtrY involved in nitrogen fixation and metabolism regulation	NtrY			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_04705	COG0856	F	Orotate phosphoribosyltransferase homolog	PyrE2			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_04710	COG0372	C	Citrate synthase	GltA	TCA cycle	25211225	3TQG
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_04715	COG5459	J	Ribosomal protein RSM22 (predicted mitochondrial rRNA methylase)	Rsm22	Archaeal ribosomal proteins		
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_04720	COG1249	C	Dihydrolipoamide dehydrogenase (E3) component of pyruvate/2-oxoglutarate dehydrogenase complex or glutathione oxidoreductase	Lpd	Glycine cleavagePyruvate oxidation		6QKG
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_04730	COG2226	H	Ubiquinone/menaquinone biosynthesis C-methylase UbiE/MenG	UbiE	Biotin biosynthesis		4OBW
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_04745	COG0254	J	Ribosomal protein L31	RpmE	Ribosome 50S subunit		1VS6
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_04755	COG0267	J	Ribosomal protein L33	RpmG	Ribosome 50S subunit		1VS6
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_04760	COG0784	T	CheY-like REC (receiver) domain, includes chemotaxis protein CheY  and sporulation regulator Spo0F	CheY			6QRJ
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_04765	COG3591	O	V8-like Glu-specific endopeptidase	eMpr			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_04775	COG4221	C	NADP-dependent 3-hydroxy acid dehydrogenase YdfG	YdfG	Pyrimidine degradation		3P19
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_04780	COG2204	T	DNA-binding transcriptional response regulator, NtrC family, contains REC, AAA-type ATPase, and a Fis-type DNA-binding domains	AtoC			1ZY2
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_04785	COG5002	T	Sensor histidine kinase WalK	WalK			4I5S
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_04810	COG2512	R	Predicted transcriptional regulator, contains CW (cell wall-binding) repeats and an HTH domain				
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_04820	COG1721	S	Uncharacterized conserved protein, DUF58 family, contains vWF domain	YeaD2			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_04825	COG1239	H	Mg-chelatase subunit ChlI	ChlI			1G8P
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_04830	COG0789	K	DNA-binding transcriptional regulator, MerR family	SoxR			2VZ4
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_04835	COG0451	M	Nucleoside-diphosphate-sugar epimerase	WcaG			2X4G
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_04840	COG0741	M	Soluble lytic murein transglycosylase or regulatory protein s ( may contain LysM/invasin domain)	MltE			153L
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_04850	COG2204	T	DNA-binding transcriptional response regulator, NtrC family, contains REC, AAA-type ATPase, and a Fis-type DNA-binding domains	AtoC			1ZY2
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_04855	COG0642	T	Signal transduction histidine kinase	BaeS			1JOY
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_04875	COG2226	H	Ubiquinone/menaquinone biosynthesis C-methylase UbiE/MenG	UbiE	Biotin biosynthesis		4OBW
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_04880	COG2205	T	K+-sensing histidine kinase KdpD	KdpD			2KSF
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_04890	COG0591	E	Na+/proline symporter	PutP			5NVA
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_04900	COG3591	O	V8-like Glu-specific endopeptidase	eMpr			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_04905	COG0642	T	Signal transduction histidine kinase	BaeS			1JOY
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_04910	COG0596	HR	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold	MenH	Menaquinone biosynthesis		4MYS
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_04915	COG4604	P	ABC-type enterochelin transport system, ATPase component	CeuD			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_04945	COG0664	T	cAMP-binding domain of CRP or a regulatory subunit of cAMP-dependent protein kinases	Crp			1FT9
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_04960	COG0596	HR	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold	MenH	Menaquinone biosynthesis		4MYS
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_04970	COG2802	S	Uncharacterized conserved protein, LON_N-like domain, ASCH/PUA-like superfamily	LON/PUA			1ZBO
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_04975	COG1530	J	Ribonuclease G or E	CafA			1SLJ
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_04980	COG1972	F	Nucleoside permease NupC	NupC			3TIJ
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_04990	COG0547	E	Anthranilate phosphoribosyltransferase, glycosyltransferase domain	TrpD	Aromatic amino acid biosynthesis		1KGZ
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_04995	COG0005	F	Purine nucleoside phosphorylase	XapA	Purine salvage		1YQQ
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_05005	COG3359	R	Uncharacterized conserved protein YprB, contains RNaseH-like and TPR domains	YprB			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_05010	COG0239	DP	Fluoride ion exporter CrcB/FEX, affects chromosome condensation	CrcB			5A40
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_05020	COG1570	L	Exonuclease VII, large subunit	XseA			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_05025	COG1846	K	DNA-binding transcriptional regulator, MarR family	MarR			1JGS
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_05030	COG0607	P	Rhodanese-related sulfurtransferase	PspE	Urea cycle		1TQ1
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_05045	COG1078	R	HD superfamily phosphohydrolase	YdhJ			2HEK
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_05050	COG0695	O	Glutaredoxin	GrxC			1AAZ
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_05070	COG2965	L	Primosomal replication protein N	PriB			2PNH
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_05075	COG5108	K	Mitochondrial DNA-directed RNA polymerase	RPO41			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_05085	COG1314	U	Protein translocase subunit SecG	SecG			2AKH
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_05100	COG0149	G	Triosephosphate isomerase	TpiA	Glycolysis		1HG3
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_05105	COG3788	S	Uncharacterized membrane protein YecN, MAPEG domain	YecN			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_05110	COG0126	G	3-phosphoglycerate kinase	Pgk	Glycolysis		13PK
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_05135	COG2206	T	HD-GYP domain, c-di-GMP phosphodiesterase class II (or its inactivated variant)	HDGYP		23475961	5Z7C
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_05145	COG0226	P	ABC-type phosphate transport system, periplasmic component	PstS			2Q9T
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_05150	COG4590	R	ABC-type uncharacterized transport system, permease component				
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_05155	COG1178	P	ABC-type Fe3+ transport system, permease component	FbpB			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_05160	COG4136	R	ABC-type uncharacterized transport system YnjBCD, ATPase component	YnjD			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_05165	COG1283	P	Na+/phosphate symporter	NptA			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_05170	COG3706	TK	Two-component response regulator, PleD family, consists of two REC domains and a diguanylate cyclase (GGDEF) domain	PleD			1W25
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_05180	COG0528	F	Uridylate kinase	PyrH	Pyrimidine biosynthesis		2BND
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_05190	COG0329	EM	4-hydroxy-tetrahydrodipicolinate synthase/N-acetylneuraminate lyase	DapA	Lysine biosynthesis	27574185	2R91
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_05195	COG0110	R	Acetyltransferase, isoleucine patch superfamily	WbbJ			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_05210	COG1304	CIR	FMN-dependent dehydrogenase, includes L-lactate dehydrogenase and type II isopentenyl diphosphate isomerase	LldD	Isoprenoid biosynthesis		6AI7
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_05215	COG1340	S	Uncharacterized coiled-coil protein, contains DUF342 domain				
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_05225	COG4973	L	Site-specific recombinase XerC	XerC			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_05255	COG2165	NUW	Type II secretory pathway, pseudopilin PulG	PulG			1AY2
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_05270	COG0086	K	DNA-directed RNA polymerase, beta' subunit/160 kD subunit	RpoC	RNA polymerase		1NT9
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_05275	COG0048	J	Ribosomal protein S12	RpsL	Ribosome 30S subunit		4V4H
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_05280	COG0049	J	Ribosomal protein S7	RpsG	Ribosome 30S subunit		4V4H
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_05285	COG5256	J	Translation elongation factor EF-1alpha (GTPase)	TEF1	Translation factors		1F60
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_05295	COG1012	I	Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase	AdhE	Proline degradation		1A4S
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_05310	COG0022	C	Pyruvate/2-oxoglutarate/acetoin dehydrogenase complex, dehydrogenase (E1) component, beta subunit	AcoB	Pyruvate oxidation		2OZL
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_05325	COG5663	R	Uncharacterized conserved protein YqfW, HAD superfamily	YqfW			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_05335	COG0625	O	Glutathione S-transferase	GstA			1A0F
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_05340	COG1396	K	Transcriptional regulator, contains XRE-family HTH domain	HipB			1ADR
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_05385	COG0436	E	Aspartate/methionine/tyrosine aminotransferase	AspB	Isoleucine, leucine, valine biosynthesis		2O0R
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_05390	COG2877	M	3-deoxy-D-manno-octulosonic acid (KDO) 8-phosphate synthase	KdsA	Lipid A biosynthesis		1G7U
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_05405	COG2021	E	Homoserine O-acetyltransferase	MET2	Methionine biosynthesis		2VAT
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_05410	COG0417	L	DNA polymerase B elongation subunit	PolB			6P1H
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_05445	COG1430	S	Uncharacterized conserved membrane protein, UPF0127 family				3M7A
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_05465	COG1603	J	RNase P/RNase MRP subunit p30	RPP1			1V77
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_05480	COG0494	V	8-oxo-dGTP pyrophosphatase MutT and related house-cleaning NTP pyrophosphohydrolases, NUDIX family	MutT			4V14
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_05485	COG1994	O	Zn-dependent protease (includes sporulation protein SpoIVFB)	SpoIVFB			3B4R
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_05495	COG1386	K	Chromosome segregation and condensation protein ScpB	ScpB			1T6S
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_05500	COG0564	J	Pseudouridine synthase RluA, 23S rRNA- or tRNA-specific	RluA	23S rRNA modification		2I82
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_05530	COG1858	O	Cytochrome c peroxidase	MauG			1EB7
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_05550	COG1511	S	Uncharacterized membrane protein YhgE, phage infection protein (PIP) family	YhgE			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_05555	COG5108	K	Mitochondrial DNA-directed RNA polymerase	RPO41			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_05590	COG0074	C	Succinyl-CoA synthetase, alpha subunit	SucD	TCA cycle		1CQI
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_05595	COG2968	S	Uncharacterized conserved protein YggE, contains kinase-interacting SIMPL domain	YggE			4HVZ
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_05600	COG2072	P	Predicted flavoprotein CzcO associated with the cation diffusion facilitator CzcD	CzcO			4USQ
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_05620	COG5001	T	Cyclic di-GMP metabolism protein, combines GGDEF and EAL domains with a 6TM membrane domain				
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_05625	COG0166	G	Glucose-6-phosphate isomerase	Pgi	Glycolysis		1B0Z
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_05645	COG4535	P	Mg2+ and Co2+ transporter CorC, contains CBS pair and CorC-HlyC domains	CorC		1779764	4HG0
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_05650	COG1409	T	3',5'-cyclic AMP phosphodiesterase CpdA	CpdA			2ZO9
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_05670	COG2312	Q	Erythromycin esterase homolog	YbfO			2QGM
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_05675	COG5022
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_05680	COG1052	CHR	Lactate dehydrogenase or related 2-hydroxyacid dehydrogenase	LdhA	Pyridoxal phosphate biosynthesis		1DXY
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_05685	COG0693	V	Protein/nucleotide deglycase, PfpI/YajL/DJ-1 family (repair of methylglyoxal-glycated proteins and nucleic acids)	YajL		19028889;28596309;26678554	5SY4
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_05710	COG3568	R	Metal-dependent hydrolase, endonuclease/exonuclease/phosphatase family	ElsH		15178340	
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_05715	COG0820	J	Adenine C2-methylase RlmN of 23S rRNA A2503 and tRNA A37	RlmN	23S rRNA modification		3RFA
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_05750	COG2335	R	Uncaracterized surface protein containing fasciclin (FAS1) repeats	FAS1			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_05755	COG0583	K	DNA-binding transcriptional regulator, LysR family	LysR			2FYI
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_05760	COG2057	I	Acyl-CoA:acetate/3-ketoacid CoA transferase, beta subunit	AtoA			5DBN
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_05765	COG1020	Q	EntF, seryl-AMP synthase component  of non-ribosomal peptide synthetase	EntF			5ES5
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_05770	COG1838	C	Tartrate dehydratase beta subunit/Fumarate hydratase class I, C-terminal domain	FumA	TCA cycle		5L2R
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_05780	COG4870	O	Cysteine protease, C1A family				1AEC
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_05785	COG0210	L	Superfamily I DNA or RNA helicase	UvrD			6PPR
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_05795	COG2761	O	Predicted dithiol-disulfide isomerase, DsbA/YjbH family (virulence, stress resistance)	FrnE			6GHB
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_05805	COG0776	L	Bacterial nucleoid DNA-binding protein IHF-alpha	HimA			1B8Z
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_05810	COG3324	R	Lactoylglutathione lyase-related enzyme, vicinal oxygen chelate (VOC) family	VOC		31710815	3OXH
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_05825	COG1868	N	Flagellar motor switch protein FliM	FliM			2HP7
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_05835	COG1338	N	Flagellar biosynthesis protein FliP	FliP			5H72
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_05840	COG1987	N	Flagellar biosynthesis protein FliQ	FliQ			6F2D
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_05845	COG1684	N	Flagellar biosynthesis protein FliR	FliR			6S3R
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_05850	COG2257	U	Type III secretion system substrate exporter, FlhB-like	YlqH			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_05855	COG1298	N	Flagellar biosynthesis protein FlhA	FlhA			6AI0
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_05860	COG1419	N	Flagellar biosynthesis GTPase FlhF	FlhF			3SYN
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_05865	COG1192	DN	ParA-like ATPase involved in chromosome/plasmid partitioning or cellulose biosynthesis protein BcsQ	ParA			6NOO
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_05870	COG0568	K	DNA-directed RNA polymerase, sigma subunit (sigma70/sigma32)	RpoD	RNA polymerase		1SIG
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_05880	COG0312	R	Zn-dependent protease PmbA/TldA or its inactivated homolog	TldD		12029038	3TV9
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_05885	COG0312	R	Zn-dependent protease PmbA/TldA or its inactivated homolog	TldD		12029038	3TV9
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_05890	COG0664	T	cAMP-binding domain of CRP or a regulatory subunit of cAMP-dependent protein kinases	Crp			1FT9
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_05895	COG4783	MO	Outer membrane protein chaperone/metalloprotease BepA/YfgC, contains M48 and TPR domains	BepA		24003122	6AIT
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_05900	COG1304	CIR	FMN-dependent dehydrogenase, includes L-lactate dehydrogenase and type II isopentenyl diphosphate isomerase	LldD	Isoprenoid biosynthesis		6AI7
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_05905	COG4121	J	tRNA U34 5-methylaminomethyl-2-thiouridine-forming methyltransferase MnmC	MnmC	tRNA modification		3AWI
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_05920	COG2884	D	Cell division ATPase FtsE	FtsE			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_05925	COG1508	K	DNA-directed RNA polymerase specialized sigma subunit, sigma54 homolog	RpoN	RNA polymerase		5BYH
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_05940	COG3806	T	Anti-sigma factor ChrR, cupin superfamily	ChrR			2Q1Z
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_05945	COG0545	O	FKBP-type peptidyl-prolyl cis-trans isomerase	FkpA			1A7X
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_05950	COG3591	O	V8-like Glu-specific endopeptidase	eMpr			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_05970	COG1225	O	Peroxiredoxin	Bcp			5IPH
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_05975	COG2819	R	Predicted hydrolase of the alpha/beta superfamily	YbbA			3GFF
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_05985	COG0608	L	ssDNA-specific exonuclease RecJ, DHH superfamily, may be involved in archaeal DNA replication intiation	RecJ			1IR6
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_05990	COG0783	PV	DNA-binding ferritin-like protein (oxidative damage protectant)	Dps			1DPS
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_05995	COG0652	O	Peptidyl-prolyl cis-trans isomerase (rotamase) - cyclophilin family	PpiB			4DGD
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_06005	COG1232	H	Protoporphyrinogen oxidase HemY/PPOX	HemY	Heme biosynthesis		3LOV
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_06015	COG3596	R	Predicted GTPase	YeeP			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_06040	COG0588	G	Phosphoglycerate mutase (BPG-dependent)	GpmA	Glycolysis		1E58
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_06060	COG0613	F	5'-3' exoribonuclease TrpH/YciV (RNase AM), contains PHP domain	YciV		25871919	3E0F
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_06070	COG1462	M	Curli biogenesis system outer membrane secretion channel CsgG	CsgG		24417346	3X2R
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_06080	COG1671	S	Uncharacterized conserved protein YaiI, UPF0178 family	YaiI			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_06090	COG3011	R	Predicted thiol-disulfide oxidoreductase YuxK, DCC family	YuxK		15236740	
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_06095	COG0834	ET	ABC-type amino acid transport/signal transduction system, periplasmic component/domain	HisJ			1GGG
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_06125	COG3091	R	Predicted Zn-dependent metalloprotease, SprT family	SprT			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_06140	COG1180	O	Pyruvate-formate lyase-activating enzyme	PflA			3CAN
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_06195	COG0073	J	tRNA-binding EMAP/Myf domain	EMAP			1MKH
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_06200	COG2268	S	Uncharacterized membrane protein YqiK, contains Band7/PHB/SPFH domain	YqiK			1WIN
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_06205	COG2268	S	Uncharacterized membrane protein YqiK, contains Band7/PHB/SPFH domain	YqiK			1WIN
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_06210	COG1585	O	Membrane protein implicated in regulation of membrane protease activity	YbbJ			2EXD
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_06215	COG1426	D	Cytoskeletal protein RodZ, contains Xre-like HTH and DUF4115 domains	RodZ			3FYM
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_06245	COG5143
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_06255	COG1670	JO	Protein N-acetyltransferase, RimJ/RimL family	RimL			1S7F
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_06265	COG1205	L	ATP-dependent helicase YprA,  contains C-terminal metal-binding DUF1998 domain	YprA			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_06275	COG1233	Q	Phytoene dehydrogenase-related protein				4REP
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_06280	COG0508	C	Pyruvate/2-oxoglutarate dehydrogenase complex, dihydrolipoamide acyltransferase (E2) component	AceF	Pyruvate oxidation		1B5S
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_06285	COG1071	C	TPP-dependent pyruvate or acetoin dehydrogenase subunit alpha	AcoA	Pyruvate oxidation		1DTW
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_06325	COG4539	I	2-hydroxy fatty acid dioxygenase MPO1 (alpha-oxidation of fatty acids)	MPO1		30530523	
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_06345	COG0400	R	Predicted esterase	YpfH			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_06360	COG2227	H	2-polyprenyl-3-methyl-5-hydroxy-6-metoxy-1,4-benzoquinol methylase	UbiG	Ubiquinone biosynthesis		1BHJ
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_06375	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_06380	COG3238	S	Uncharacterized membrane protein YdcZ, DUF606 family	ydcZ			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_06385	COG0739	M	Murein DD-endopeptidase MepM and murein hydrolase activator NlpD, contains LysM domain	NlpD			2GU1
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_06395	COG2086	C	Electron transfer flavoprotein, alpha and beta subunits	FixA			5OL2
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_06400	COG2025	C	Electron transfer flavoprotein, alpha subunit FixB	FixB			1EFP
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_06455	COG1192	DN	ParA-like ATPase involved in chromosome/plasmid partitioning or cellulose biosynthesis protein BcsQ	ParA			6NOO
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_06475	COG4191	T	Signal transduction histidine kinase regulating C4-dicarboxylate transport system				4GCZ
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_06485	COG1249	C	Dihydrolipoamide dehydrogenase (E3) component of pyruvate/2-oxoglutarate dehydrogenase complex or glutathione oxidoreductase	Lpd	Glycine cleavagePyruvate oxidation		6QKG
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_06490	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_06515	COG4254	R	Uncharacterized peptidoglycan binding protein, contains LysM and FecR  domains				
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_06530	COG0802	J	tRNA A37 threonylcarbamoyladenosine biosynthesis protein TsaE	TsaE	tRNA modification		1FL9
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_06535	COG0631	T	Serine/threonine protein phosphatase PrpC	PTC1			6IHL
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_06540	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_06545	COG0061	H	NAD kinase	NadK			1SUW
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_06550	COG2204	T	DNA-binding transcriptional response regulator, NtrC family, contains REC, AAA-type ATPase, and a Fis-type DNA-binding domains	AtoC			1ZY2
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_06555	COG2205	T	K+-sensing histidine kinase KdpD	KdpD			2KSF
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_06580	COG0512	EH	Anthranilate/para-aminobenzoate synthase component II (glutamine amidotransferase)	PabA	Aromatic amino acid biosynthesis		1I1Q
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_06600	COG0095	H	Lipoate-protein ligase A	LplA	Lipoate biosynthesis		4TVW
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_06605	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_06620	COG4447	R	Uncharacterized conserved protein related to plant photosystem II stability/assembly factor				2XBG
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_06630	COG0480	J	Translation elongation factor EF-G, a GTPase	FusA	Translation factors		1DAR
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_06640	COG3591	O	V8-like Glu-specific endopeptidase	eMpr			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_06660	COG4585	T	Signal transduction histidine kinase ComP	ComP			4GT8
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_06665	COG0148	G	Enolase	Eno	Glycolysis		1E9I
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_06680	COG1285	P	Magnesium uptake protein YhiD/SapB, involved in acid resistance	SapB		19798051	
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_06685	COG4850	I	Phosphatidate phosphatase APP1	App1		23071111	
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_06695	COG1406	N	Chemotaxis protein CheX, a CheY~P-specific phosphatase	CheX			3H2D
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_06705	COG2358	R	TRAP-type uncharacterized transport system, periplasmic component	Imp			1US4
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_06710	COG4778	P	Alpha-D-ribose 1-methylphosphonate 5-triphosphate synthase subunit PhnL	PhnL			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_06715	COG2011	E	ABC-type methionine transport system, permease component	MetP			6CVL
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_06720	COG2826	X	Transposase and inactivated derivatives, IS30 family	Tra8			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_06735	COG0692	L	Uracil-DNA glycosylase	Ung		16237021	1AKZ
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_06740	COG0724	J	RNA recognition motif (RRM) domain	RRM			1HL6
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_06750	COG2204	T	DNA-binding transcriptional response regulator, NtrC family, contains REC, AAA-type ATPase, and a Fis-type DNA-binding domains	AtoC			1ZY2
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_06755	COG2333	U	DNA uptake channel protein ComEC C-terminal domain, metallo-beta-lactamase superfamily	ComEC			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_06775	COG3640	O	CO dehydrogenase nickel-insertion accessory protein CooC1	CooC		15466042	
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_06785	COG2826	X	Transposase and inactivated derivatives, IS30 family	Tra8			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_06810	COG0025	P	NhaP-type Na+/H+ or K+/H+ antiporter	NhaP			4CZB
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_06825	COG3328	X	Transposase (or an inactivated derivative)	IS285			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_06840	COG3290	T	Sensor histidine kinase DipB regulating citrate/malate metabolism	CitA			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_06865	COG1899	OJ	Deoxyhypusine synthase	DYS1			1DHS
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_06890	COG3678	O	Periplasmic chaperone Spy, Spy/CpxP family	CpxP			3ITF
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_06895	COG1204	L	Replicative superfamily II helicase	BRR2			2VA8
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_06905	COG2314	R	Uncharacterized membrane protein YozV, TM2 domain, contains pTyr	TM2		27148221	
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_06920	COG0595	J	mRNA degradation ribonuclease J1/J2	RnjA			3T3N
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_06935	COG0517	T	CBS domain	CBS			1B3O
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_06950	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_06955	COG0483	G	Archaeal fructose-1,6-bisphosphatase or related enzyme, inositol monophosphatase family	SuhB	Gluconeogenesis		1AWB
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_06965	COG0115	EH	Branched-chain amino acid aminotransferase/4-amino-4-deoxychorismate lyase	IlvE	Isoleucine, leucine, valine biosynthesis		1A3G
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_06970	COG2084	I	3-hydroxyisobutyrate dehydrogenase or related beta-hydroxyacid dehydrogenase	MmsB			1I36
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_06975	COG0413	H	Ketopantoate hydroxymethyltransferase	PanB	Pantothenate/CoA biosynthesis		3VAV
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_06980	COG1521	H	Pantothenate kinase type III	CoaX			2F9T
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_06990	COG3290	T	Sensor histidine kinase DipB regulating citrate/malate metabolism	CitA			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_06995	COG0452	H	Phosphopantothenoylcysteine synthetase/decarboxylase CoaBC	CoaBC	Pantothenate/CoA biosynthesis		3QJG
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_07000	COG0414	H	Panthothenate synthetase	PanC	Pantothenate/CoA biosynthesis	17968677	1DIN
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_07005	COG0486	J	tRNA U34 5-carboxymethylaminomethyl modifying GTPase MnmE/TrmE	MnmE	tRNA modification		
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_07015	COG0760	O	Peptidyl-prolyl isomerase, parvulin family	SurA			2ZR5
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_07035	COG3393	R	Predicted acetyltransferase, GNAT family				
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_07045	COG3805	Q	Aromatic ring-cleaving dioxygenase	DodA			2NYH
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_07050	COG1185	J	Polyribonucleotide nucleotidyltransferase (polynucleotide phosphorylase)	Pnp			1E3P
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_07055	COG0034	F	Glutamine phosphoribosylpyrophosphate amidotransferase	PurF	Purine biosynthesis		1ECB
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_07090	COG0128	E	5-enolpyruvylshikimate-3-phosphate synthase	AroA	Aromatic amino acid biosynthesis		4N3P
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_07095	COG4123	J	tRNA1(Val) A37 N6-methylase TrmN6	TrmN6	tRNA modification		
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_07100	COG0216	J	Protein chain release factor RF1	PrfA	Translation factors		1RQ0
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_07105	COG1158	K	Transcription termination factor Rho	Rho			1PVO
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_07115	COG1559	M	Endolytic transglycosylase MltG, terminates peptidoglycan polymerization	MltG		26507882	2R1F
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_07120	COG3696	P	Cu/Ag efflux pump CusA	CusA			3K07
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_07145	COG1734	K	RNA polymerase-binding transcription factor DksA	DksA			1TJL
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_07165	COG1344	N	Flagellin and related hook-associated protein FlgL	FlgL			1IO1
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_07170	COG0517	T	CBS domain	CBS			1B3O
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_07175	COG0811	U	Biopolymer transport protein ExbB/TolQ	TolQ			5SV0
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_07180	COG0848	U	Biopolymer transport protein ExbD	ExbD			2JWK
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_07185	COG0297	G	Glycogen synthase	GlgA			1RZU
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_07190	COG0741	M	Soluble lytic murein transglycosylase or regulatory protein s ( may contain LysM/invasin domain)	MltE			153L
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_07230	COG3437	T	Response regulator c-di-GMP phosphodiesterase, RpfG family, contains REC and HD-GYP domains	RpfG			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_07240	COG0458	EF	Carbamoylphosphate synthase large subunit	CarB	Arginine biosynthesis		1C30
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_07245	COG0820	J	Adenine C2-methylase RlmN of 23S rRNA A2503 and tRNA A37	RlmN	23S rRNA modification		3RFA
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_07260	COG0491	R	Glyoxylase or a related metal-dependent hydrolase, beta-lactamase superfamily II	GloB		25670698	1QH3
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_07270	COG1012	I	Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase	AdhE	Proline degradation		1A4S
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_07275	COG0807	H	GTP cyclohydrolase II	RibA	Riboflavin/FAD biosynthesis		2BZ0
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_07285	COG1040	R	DNA utilization protein ComFC/GntX, contains phosphoribosyltransferase domain	ComFC		28618091	
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_07290	COG1072	H	Panthothenate kinase	CoaA	Pantothenate/CoA biosynthesis		2GA8
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_07300	COG0596	HR	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold	MenH	Menaquinone biosynthesis		4MYS
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_07305	COG1309	K	DNA-binding protein, AcrR family, includes nucleoid occlusion protein SlmA	AcrR			2QOP
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_07315	COG0534	V	Na+-driven multidrug efflux pump, DinF/NorM/MATE family	NorM		29915058	3VVN
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_07325	COG0607	P	Rhodanese-related sulfurtransferase	PspE	Urea cycle		1TQ1
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_07345	COG0322	L	Excinuclease UvrABC, nuclease subunit	UvrC		24513124	2NRT
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_07385	COG5184	DZ	Alpha-tubulin suppressor ATS1 and related RCC1 domain-containing proteins	ATS1			1A12
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_07390	COG0798	P	Arsenite efflux pump ArsB, ACR3 family	ACR3			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_07395	COG2205	T	K+-sensing histidine kinase KdpD	KdpD			2KSF
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_07420	COG1018	C	Flavodoxin/ferredoxin--NADP reductase	Fpr			3OZU
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_07425	COG4660	C	Na+-translocating ferredoxin:NAD+ oxidoreductase  RNF, RnfE subunit	RnfE	Na+-translocating Fd:NADH oxidoreductase		
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_07430	COG2209	C	Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrE	NqrE	Na+-translocating NADH dehydrogenase		4P6V
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_07435	COG4659	C	Na+-translocating ferredoxin:NAD+ oxidoreductase RNF, RnfG subunit	RnfG	Na+-translocating Fd:NADH oxidoreductase		
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_07440	COG1805	C	Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrB	NqrB	Na+-translocating NADH dehydrogenase		4P6V
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_07445	COG0508	C	Pyruvate/2-oxoglutarate dehydrogenase complex, dihydrolipoamide acyltransferase (E2) component	AceF	Pyruvate oxidation		1B5S
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_07500	COG0769	M	UDP-N-acetylmuramyl tripeptide synthase	MurE	Mureine biosynthesis		1E8C
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_07505	COG0472	M	UDP-N-acetylmuramyl pentapeptide phosphotransferase/UDP-N-acetylglucosamine-1-phosphate transferase	Rfe	Mureine biosynthesis		4J72
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_07510	COG0770	M	UDP-N-acetylmuramyl pentapeptide synthase	MurF	Mureine biosynthesis		4CVK
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_07525	COG0671	I	Membrane-associated phospholipid phosphatase	PgpB	Phospholipid biosynthesis		1D2T
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_07535	COG0772	D	Peptodoglycan polymerase FtsW/RodA/SpoVE	FtsW		30692671	6BAR
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_07540	COG0770	M	UDP-N-acetylmuramyl pentapeptide synthase	MurF	Mureine biosynthesis		4CVK
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_07555	COG1077	DZ	Cell shape-determining ATPase MreB, actin-like superfamily	MreB			1JCE
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_07560	COG0217	KJ	Transcriptional and/or translational regulatory protein YebC/TACO1	TACO1			1KON
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_07575	COG3265	G	Gluconate kinase	GntK	Non-phosphorylated Entner-Doudoroff pathway		1KO4
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_07580	COG1399	J	23S rRNA accumulation protein YceD (essential in plants, uncharacterized in bacteria)	YceD		27574185	
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_07595	COG3425	I	3-hydroxy-3-methylglutaryl CoA synthase	PksG	Isoprenoid biosynthesis		1TVZ
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_07600	COG0331	I	Malonyl CoA-acyl carrier protein transacylase	FabD	Fatty acid biosynthesis		1YXC
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_07605	COG4206	H	Outer membrane cobalamin receptor protein BtuB	BtuB			1NQE
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_07610	COG0454	KR	N-acetyltransferase, GNAT superfamily (includes histone acetyltransferase HPA2)	PhnO			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_07615	COG0841	V	Multidrug efflux pump subunit AcrB	AcrB			1IWG
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_07620	COG0845	MV	Multidrug efflux pump subunit AcrA (membrane-fusion protein)	AcrA			1T5E
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_07625	COG5001	T	Cyclic di-GMP metabolism protein, combines GGDEF and EAL domains with a 6TM membrane domain				
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_07630	COG3009	M	Intermembrane transporter PqiABC lipoprotein subunit PqiC	PqiC		27795327	6OSX
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_07635	COG1463	M	Periplasmic subunit MlaD of the ABC-type intermembrane phospholipid transporter Mla	MlaD			5UW8
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_07640	COG2995	M	Intermembrane transporter PqiABC subunit PqiA	PqiA		27795327	
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_07655	COG4977	K	Transcriptional regulator GlxA, contains an amidase domain and an AraC-type DNA-binding HTH domain	GlxA			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_07680	COG1101	R	ABC-type uncharacterized transport system, ATPase component	PhnK			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_07685	COG3845	F	ABC-type guanosine uptake system NupNOPQ, ATPase component NupO	NupO		21926227	
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_07690	COG2011	E	ABC-type methionine transport system, permease component	MetP			6CVL
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_07695	COG1173	EP	ABC-type dipeptide/oligopeptide/nickel transport system, permease component	DppC			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_07705	COG4533	K	DNA-binding transcriptional regulator SgrR of sgrS sRNA, contains a MarR-type HTH domain and a periplasmic-type solute-binding domain	SgrR			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_07710	COG0603	J	7-cyano-7-deazaguanine synthase (queuosine biosynthesis)	QueC	tRNA modification	14660578;17384645	2PG3
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_07715	COG3530	S	Uncharacterized conserved protein, DUF3820 family				
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_07720	COG1122	PR	Energy-coupling factor transporter ATP-binding protein EcfA2	EcfA2			4HUQ
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_07735	COG1064	G	D-arabinose 1-dehydrogenase, Zn-dependent alcohol dehydrogenase family	AdhP			5O8Q
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_07740	COG0703	E	Shikimate kinase	AroK	Aromatic amino acid biosynthesis		1E6C
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_07745	COG3393	R	Predicted acetyltransferase, GNAT family				
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_07750	COG0494	V	8-oxo-dGTP pyrophosphatase MutT and related house-cleaning NTP pyrophosphohydrolases, NUDIX family	MutT			4V14
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_07770	COG1047	O	Peptidyl-prolyl cis-trans isomerase, FKBP type	SlpA			2M2A
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_07775	COG0328	L	Ribonuclease HI	RnhA			1LAW
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_07780	COG0720	H	6-pyruvoyl-tetrahydropterin synthase	QueD	tRNA modification	14660578;17384645	1B66
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_07785	COG3608	R	Predicted deacylase				3CDX
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_07790	COG3762	S	Uncharacterized membrane protein				
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_07805	COG1704	M	Magnetosome formation protein MamQ, lipoprotein antigen LemA family	LemA		14638756;20212111;26884433	2ETD
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_07840	COG3620	K	Predicted transcriptional regulator, contains an XRE-type HTH domain (archaeal members contain CBS pair)	AF2118			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_07855	COG3318	S	Uncharacterized conserved protein YecA, UPF0149 family, contains C-terminal Zn-binding SEC-C motif	YecA			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_07890	COG2977	Q	4'-phosphopantetheinyl transferase EntD (siderophore biosynthesis)	EntD			4QJK
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_07895	COG0308	E	Aminopeptidase N, contains DUF3458 domain	PepN		24123841	6ATK
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_07925	COG2135	L	ssDNA abasic site-binding protein YedK/HMCES, SRAP family	SRAP		30554877;31504793	1ZN6
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_07945	COG5633	S	Uncharacterized conserved protein YcfL	YcfL			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_07965	COG1741	R	Redox-sensitive bicupin YhaK, pirin superfamily	YhaK		18561187	1J1L
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_07970	COG0730	P	Sulfite exporter TauE/SafE/YfcA and related permeases, UPF0721 family	TauE		21183667;22797525	
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_07980	COG1651	O	Protein thiol-disulfide isomerase DsbC	DsbG			2HI7
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_07995	COG1670	JO	Protein N-acetyltransferase, RimJ/RimL family	RimL			1S7F
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_08030	COG5108	K	Mitochondrial DNA-directed RNA polymerase	RPO41			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_08040	COG4551	R	Predicted protein tyrosine phosphatase				
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_08045	COG0242	J	Peptide deformylase	Def			1BS4
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_08055	COG0701	S	Uncharacterized membrane protein YraQ, UPF0718 family	YraQ			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_08065	COG0664	T	cAMP-binding domain of CRP or a regulatory subunit of cAMP-dependent protein kinases	Crp			1FT9
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_08075	COG0826	J	23S rRNA C2501 and tRNA U34 5'-hydroxylation protein RlhA/YrrN/YrrO, U32 peptidase family	RlhA	23S rRNA modification	31253794;31358606	5D88
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_08080	COG0826	J	23S rRNA C2501 and tRNA U34 5'-hydroxylation protein RlhA/YrrN/YrrO, U32 peptidase family	RlhA	23S rRNA modification	31253794;31358606	5D88
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_08085	COG0642	T	Signal transduction histidine kinase	BaeS			1JOY
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_08110	COG1577	I	Mevalonate kinase	ERG12	Isoprenoid biosynthesis		
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_08120	COG1577	I	Mevalonate kinase	ERG12	Isoprenoid biosynthesis		
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_08130	COG2204	T	DNA-binding transcriptional response regulator, NtrC family, contains REC, AAA-type ATPase, and a Fis-type DNA-binding domains	AtoC			1ZY2
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_08135	COG3829	KT	RocR-type transcriptional regulator, contains PAS, AAA-type ATPase, and DNA-binding Fis domains	RocR			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_08140	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_08155	COG0106	E	Phosphoribosylformimino-5-aminoimidazole carboxamide ribonucleotide (ProFAR) isomerase	HisA	Histidine biosynthesis		4U28
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_08170	COG1236	J	RNA processing exonuclease, beta-lactamase fold, Cft2 family	YSH1			2DKF
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_08195	COG1670	JO	Protein N-acetyltransferase, RimJ/RimL family	RimL			1S7F
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_08215	COG3696	P	Cu/Ag efflux pump CusA	CusA			3K07
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_08220	COG1538	M	Outer membrane protein TolC	TolC			1EK9
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_08230	COG2164	R	Uncharacterized protein with cyclophilin fold, contains DUF369 domain				2KA0
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_08235	COG1917	R	Cupin domain protein related to quercetin dioxygenase	QdoI			2H0V
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_08240	COG2522	K	Predicted transcriptional regulator, contains XRE-type HTH domain	AF0184			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_08250	COG0451	M	Nucleoside-diphosphate-sugar epimerase	WcaG			2X4G
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_08260	COG2320	R	GrpB domain, predicted nucleotidyltransferase, UPF0157 family	GrpB			6N39
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_08280	COG1141	C	Ferredoxin	Fer			1IQZ
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_08295	COG1217	T	Predicted membrane GTPase TypA/BipA involved in stress response	TypA			5A9V
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_08305	COG0779	J	Ribosome maturation factor RimP	RimP			1IB8
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_08310	COG0456	J	Ribosomal protein S18 acetylase RimI and related acetyltransferases	RimI			1GHE
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_08330	COG0441	J	Threonyl-tRNA synthetase	ThrS	Aminoacyl-tRNA synthetases		1NYQ
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_08350	COG5010	UW	Flp pilus assembly protein TadD, contains TPR repeats	TadD			3WXX
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_08355	COG1716	T	Forkhead associated (FHA) domain, binds pSer, pThr, pTyr	FHA			2FEZ
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_08360	COG2206	T	HD-GYP domain, c-di-GMP phosphodiesterase class II (or its inactivated variant)	HDGYP		23475961	5Z7C
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_08385	COG4088	JV	tRNA uridine 5-carbamoylmethylation protein Kti12 (Killer toxin insensitivity protein)	Kti12			3A4L
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_08390	COG2812	L	DNA polymerase III, gamma/tau subunits	DnaX			1A5T
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_08405	COG0173	J	Aspartyl-tRNA synthetase	AspS	Aminoacyl-tRNA synthetases		1C0A
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_08410	COG1105	G	1-phosphofructokinase or 6-phosphofructokinase II	FruK			2ABQ
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_08415	COG3022	L	DNA-binding protein YaaA associated with the oxidative stress response	YaaA		21378183;32796037	5CAJ
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_08425	COG0520	E	Selenocysteine lyase/Cysteine desulfurase	CsdA			4LW2
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_08435	COG5256	J	Translation elongation factor EF-1alpha (GTPase)	TEF1	Translation factors		1F60
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_08440	COG2204	T	DNA-binding transcriptional response regulator, NtrC family, contains REC, AAA-type ATPase, and a Fis-type DNA-binding domains	AtoC			1ZY2
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_08460	COG2197	TK	DNA-binding response regulator, NarL/FixJ family, contains REC and HTH domains	CitB			1A04
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_08465	COG0642	T	Signal transduction histidine kinase	BaeS			1JOY
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_08470	COG1067	O	Predicted ATP-dependent protease	LonB			3K1J
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_08475	COG2068	H	CTP:molybdopterin cytidylyltransferase MocA	MocA			2WAW
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_08480	COG0449	M	Glucosamine 6-phosphate synthetase, contains amidotransferase and phosphosugar isomerase domains	GlmS			2J6H
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_08485	COG0210	L	Superfamily I DNA or RNA helicase	UvrD			6PPR
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_08510	COG2263	R	Predicted RNA methylase				6H2U
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_08515	COG0603	J	7-cyano-7-deazaguanine synthase (queuosine biosynthesis)	QueC	tRNA modification	14660578;17384645	2PG3
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_08520	COG2234	OE	Zn-dependent amino- or carboxypeptidase, M28 family	Iap			1AMP
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_08525	COG0171	H	NH3-dependent NAD+ synthetase	NadE	NAD biosynthesis		3HMQ
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_08560	COG5285	Q	Ectoine hydroxylase-related dioxygenase, phytanoyl-CoA dioxygenase (PhyH) family	PhyH			2A1X
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_08570	COG1507	S	Uncharacterized conserved protein, DUF501 family				
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_08575	COG3863	S	Uncharacterized conserved protein YycO, NlpC/P60 family	YycO			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_08585	COG0050	J	Translation elongation factor EF-Tu, a GTPase	TufA	Translation factors		1EFU
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_08590	COG0051	J	Ribosomal protein S10	RpsJ	Ribosome 30S subunit		4V4H
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_08595	COG0087	J	Ribosomal protein L3	RplC	Ribosome 50S subunit		1VS6
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_08600	COG0088	J	Ribosomal protein L4	RplD	Ribosome 50S subunit		1VS6
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_08605	COG0089	J	Ribosomal protein L23	RplW	Ribosome 50S subunit		1VS6
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_08610	COG0090	J	Ribosomal protein L2	RplB	Ribosome 50S subunit		1VS6
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_08615	COG0185	J	Ribosomal protein S19	RpsS	Ribosome 30S subunit		4V4H
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_08625	COG0092	J	Ribosomal protein S3	RpsC	Ribosome 30S subunit		1VS6
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_08630	COG0197	J	Ribosomal protein L16/L10AE	RplP	Ribosome 50S subunit		1WKI
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_08640	COG0186	J	Ribosomal protein S17	RpsQ	Ribosome 30S subunit		4V4H
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_08645	COG0093	J	Ribosomal protein L14	RplN	Ribosome 50S subunit		4V4H
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_08650	COG0198	J	Ribosomal protein L24	RplX	Ribosome 50S subunit		1VS6
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_08655	COG0094	J	Ribosomal protein L5	RplE	Ribosome 50S subunit		1VS6
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_08660	COG0199	J	Ribosomal protein S14	RpsN	Ribosome 30S subunit		4V4H
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_08665	COG0096	J	Ribosomal protein S8	RpsH	Ribosome 30S subunit		4V4H
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_08670	COG0097	J	Ribosomal protein L6P/L9E	RplF	Ribosome 50S subunit		1VS6
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_08680	COG0098	J	Ribosomal protein S5	RpsE	Ribosome 30S subunit		4V4H
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_08685	COG1841	J	Ribosomal protein L30/L7E	RpmD	Ribosome 50S subunit		1VS6
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_08690	COG1727	J	Ribosomal protein L18E	RPL18A	Archaeal ribosomal proteins		
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_08695	COG0201	U	Preprotein translocase subunit SecY	SecY			1RH5
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_08710	COG0122	L	3-methyladenine DNA glycosylase/8-oxoguanine DNA glycosylase	AlkA			1DIZ
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_08725	COG0189	EHJQ	Glutathione synthase, LysX or RimK-type ligase, ATP-grasp superfamily	LysX	Lysine biosynthesis		1GLV
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_08735	COG1770	E	Protease II	PtrB			4BP9
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_08740	COG4206	H	Outer membrane cobalamin receptor protein BtuB	BtuB			1NQE
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_08745	COG2204	T	DNA-binding transcriptional response regulator, NtrC family, contains REC, AAA-type ATPase, and a Fis-type DNA-binding domains	AtoC			1ZY2
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_08755	COG2984	R	ABC-type uncharacterized transport system, periplasmic component				3LFT
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_08760	COG2205	T	K+-sensing histidine kinase KdpD	KdpD			2KSF
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_08785	COG3264	M	Small-conductance mechanosensitive channel MscK	MscK			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_08790	COG0668	M	Small-conductance mechanosensitive channel	MscS			2OAU
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_08800	COG0598	P	Mg2+ and Co2+ transporter CorA	CorA			2BBH
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_08805	COG0668	M	Small-conductance mechanosensitive channel	MscS			2OAU
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_08810	COG2988	E	Succinylglutamate desuccinylase	AstE			1YW4
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_08815	COG1181	MR	D-alanine-D-alanine ligase or related ATP-grasp enzyme	DdlA	Mureine biosynthesis		1E4E
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_08820	COG1824	P	Permease, similar to cation transporters	MgtE2			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_08825	COG1734	K	RNA polymerase-binding transcription factor DksA	DksA			1TJL
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_08830	COG2940	R	SET domain-containing protein (function unknown)	SET			6BX3
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_08850	COG0189	EHJQ	Glutathione synthase, LysX or RimK-type ligase, ATP-grasp superfamily	LysX	Lysine biosynthesis		1GLV
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_08855	COG1181	MR	D-alanine-D-alanine ligase or related ATP-grasp enzyme	DdlA	Mureine biosynthesis		1E4E
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_08860	COG2988	E	Succinylglutamate desuccinylase	AstE			1YW4
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_08865	COG0515	T	Serine/threonine protein kinase	SPS1			6G4J
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_08870	COG0631	T	Serine/threonine protein phosphatase PrpC	PTC1			6IHL
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_08875	COG0815	M	Apolipoprotein N-acyltransferase	Lnt			6NWR
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_08885	COG0528	F	Uridylate kinase	PyrH	Pyrimidine biosynthesis		2BND
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_08890	COG1012	I	Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase	AdhE	Proline degradation		1A4S
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_08895	COG0345	E	Pyrroline-5-carboxylate reductase	ProC	Proline biosynthesis	22125496;26507882	3GT0
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_08905	COG4145	H	Na+/panthothenate symporter	PanF			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_08910	COG1206	J	Folate-dependent tRNA-U54 methylase TrmFO/GidA	TrmFO	tRNA modification	16027442	
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_08915	COG0357	J	16S rRNA G527 N7-methylase RsmG (former glucose-inhibited division protein B)	RsmG	16S rRNA modification	15375115;22031445	1XDZ
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_08920	COG2894	D	Septum site-determining ATPase MinD	MinD			4V02
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_08950	COG0055	C	FoF1-type ATP synthase, beta subunit	AtpD	FoF1-type ATP synthase		3OAA
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_08955	COG0224	C	FoF1-type ATP synthase, gamma subunit	AtpG	FoF1-type ATP synthase	15326535	3OAA
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_08960	COG0055	C	FoF1-type ATP synthase, beta subunit	AtpD	FoF1-type ATP synthase		3OAA
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_08970	COG4533	K	DNA-binding transcriptional regulator SgrR of sgrS sRNA, contains a MarR-type HTH domain and a periplasmic-type solute-binding domain	SgrR			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_08975	COG0365	I	Acyl-coenzyme A synthetase/AMP-(fatty) acid ligase	Acs		14638756	4B2O
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_08985	COG0415	L	Deoxyribodipyrimidine photolyase	PhrB			1TEZ
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_08990	COG2121	S	Uncharacterized conserved protein, lysophospholipid acyltransferase (LPLAT) superfamily				
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_08995	COG0683	E	ABC-type branched-chain amino acid transport system, periplasmic component	LivK			1USG
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_09000	COG0784	T	CheY-like REC (receiver) domain, includes chemotaxis protein CheY  and sporulation regulator Spo0F	CheY			6QRJ
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_09005	COG0192	H	S-adenosylmethionine synthetase	MetK	Methionine biosynthesis		1FUG
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_09015	COG0769	M	UDP-N-acetylmuramyl tripeptide synthase	MurE	Mureine biosynthesis		1E8C
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_09030	COG0574	G	Phosphoenolpyruvate synthase/pyruvate phosphate dikinase	PpsA	Gluconeogenesis		5HV6
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_09035	COG2826	X	Transposase and inactivated derivatives, IS30 family	Tra8			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_09045	COG0772	D	Peptodoglycan polymerase FtsW/RodA/SpoVE	FtsW		30692671	6BAR
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_09050	COG0768	DM	Cell division protein FtsI, peptidoglycan transpeptidase (Penicillin-binding protein 2)	FtsI			6HZQ
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_09065	COG0760	O	Peptidyl-prolyl isomerase, parvulin family	SurA			2ZR5
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_09070	COG1141	C	Ferredoxin	Fer			1IQZ
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_09075	COG3884	I	Acyl-ACP thioesterase	FatA			2ESS
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_09080	COG2110	J	O-acetyl-ADP-ribose deacetylase (regulator of RNase III), contains Macro domain	YmdB			1HJZ
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_09085	COG4894	I	Putative phospholipid scramblase YxjI, Tubby2 superfamily	YxjI		19010806	1ZXU
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_09090	COG0111	H	Phosphoglycerate dehydrogenase or related dehydrogenase	SerA	Serine biosynthesis		3OET
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_09095	COG0104	F	Adenylosuccinate synthase	PurA	Purine biosynthesis		1ADE
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_09110	COG1032	R	Radical SAM superfamily enzyme YgiQ, UPF0313 family	YgiQ			6FD2
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_09150	COG0466	O	ATP-dependent Lon protease, bacterial type	Lon			6ON2
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_09155	COG2894	D	Septum site-determining ATPase MinD	MinD			4V02
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_09160	COG1426	D	Cytoskeletal protein RodZ, contains Xre-like HTH and DUF4115 domains	RodZ			3FYM
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_09165	COG1187	J	Pseudouridylate synthase RsuA, specific for 16S rRNA U516  and 23S rRNA U2605	RsuA	16S rRNA modification		1KSK
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_09175	COG1651	O	Protein thiol-disulfide isomerase DsbC	DsbG			2HI7
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_09180	COG1099	R	Predicted metal-dependent hydrolase, TIM-barrel fold				3GUW
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_09205	COG0289	E	4-hydroxy-tetrahydrodipicolinate reductase	DapB	Lysine biosynthesis	29684280	1ARZ
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_09230	COG2204	T	DNA-binding transcriptional response regulator, NtrC family, contains REC, AAA-type ATPase, and a Fis-type DNA-binding domains	AtoC			1ZY2
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_09235	COG0013	J	Alanyl-tRNA synthetase	AlaS	Aminoacyl-tRNA synthetases		2ZZE
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_09240	COG1866	C	Phosphoenolpyruvate carboxykinase, ATP-dependent	PckA	Gluconeogenesis		1AQ2
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_09250	COG0229	O	Peptide methionine sulfoxide reductase MsrB	MsrB			1L1D
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_09255	COG4728	S	Uncharacterized conserved protein, DUF1653 family				3BE3
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_09260	COG0492	O	Thioredoxin reductase	TrxB			3FBS
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_09270	COG0695	O	Glutaredoxin	GrxC			1AAZ
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_09280	COG2860	S	Uncharacterized membrane protein YeiH	YadS			5WUC
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_09295	COG1033	R	Predicted exporter protein, RND superfamily	MMPL			5KHN
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_09310	COG3547	X	Transposase				
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_09315	COG2204	T	DNA-binding transcriptional response regulator, NtrC family, contains REC, AAA-type ATPase, and a Fis-type DNA-binding domains	AtoC			1ZY2
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_09345	COG1511	S	Uncharacterized membrane protein YhgE, phage infection protein (PIP) family	YhgE			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_09360	COG0714	R	MoxR-like ATPase	MoxR	Cobalamine/B12 biosynthesis		2R44
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_09370	COG2176	L	DNA polymerase III, alpha subunit (gram-positive type)	PolC			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_09380	COG2346	P	Truncated hemoglobin YjbI	YjbI			1DLW
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_09395	COG4989	R	Predicted oxidoreductase YdhF	YdhF			1UR3
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_09415	COG3424	Q	Predicted naringenin-chalcone synthase	BH0617			1BI5
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_09435	COG4276	R	Ligand-binding SRPBCC domain	SRPBCC			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_09440	COG3148	J	tRNA U47 aminocarboxypropyltransferaseTapT/TuaA/ YfiP, DTW domain	TapT		31804502;31863583	
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_09465	COG0340	H	Biotin-(acetyl-CoA carboxylase) ligase	BirA2	Biotin biosynthesis	32188788	1BIA
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_09470	COG0784	T	CheY-like REC (receiver) domain, includes chemotaxis protein CheY  and sporulation regulator Spo0F	CheY			6QRJ
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_09475	COG0631	T	Serine/threonine protein phosphatase PrpC	PTC1			6IHL
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_09480	COG1716	T	Forkhead associated (FHA) domain, binds pSer, pThr, pTyr	FHA			2FEZ
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_09485	COG1716	T	Forkhead associated (FHA) domain, binds pSer, pThr, pTyr	FHA			2FEZ
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_09490	COG1716	T	Forkhead associated (FHA) domain, binds pSer, pThr, pTyr	FHA			2FEZ
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_09495	COG1430	S	Uncharacterized conserved membrane protein, UPF0127 family				3M7A
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_09500	COG2064	W	Flp pilus assembly protein TadC	TadC			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_09505	COG1472	G	Periplasmic beta-glucosidase and related glycosidases	BglX			2X40
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_09520	COG0443	O	Molecular chaperone DnaK (HSP70)	DnaK			3I33
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_09525	COG2820	F	Uridine phosphorylase	Udp	Pyrimidine salvage		1K3F
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_09535	COG0683	E	ABC-type branched-chain amino acid transport system, periplasmic component	LivK			1USG
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_09545	COG0784	T	CheY-like REC (receiver) domain, includes chemotaxis protein CheY  and sporulation regulator Spo0F	CheY			6QRJ
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_09550	COG3437	T	Response regulator c-di-GMP phosphodiesterase, RpfG family, contains REC and HD-GYP domains	RpfG			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_09555	COG2214	K	Curved DNA-binding protein CbpA, contains a DnaJ-like domain	CbpA			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_09560	COG0443	O	Molecular chaperone DnaK (HSP70)	DnaK			3I33
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_09570	COG2154	H	Pterin-4a-carbinolamine dehydratase	PhhB			1DCH
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_09590	COG3852	T	Signal transduction histidine kinase NtrB, nitrogen specific	NtrB		23893111	
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_09610	COG2867	J	Ribosome association toxin PasT (RatA) of the RatAB toxin-antitoxin module	PasT		21323758	1T17
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_09615	COG1494	G	Fructose-1,6-bisphosphatase/sedoheptulose 1,7-bisphosphatase or related protein	GlpX			1NI9
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_09625	COG1183	I	Phosphatidylserine synthase	PssA			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_09630	COG4359	E	2-hydroxy-3-keto-5-methylthiopentenyl-1-phosphate phosphatase (methionine salvage)	MtnX			2FEA
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_09645	COG0664	T	cAMP-binding domain of CRP or a regulatory subunit of cAMP-dependent protein kinases	Crp			1FT9
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_09650	COG0542	O	ATP-dependent Clp protease, ATP-binding subunit ClpA	ClpA			1KSF
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_09655	COG3264	M	Small-conductance mechanosensitive channel MscK	MscK			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_09700	COG1426	D	Cytoskeletal protein RodZ, contains Xre-like HTH and DUF4115 domains	RodZ			3FYM
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_09715	COG4783	MO	Outer membrane protein chaperone/metalloprotease BepA/YfgC, contains M48 and TPR domains	BepA		24003122	6AIT
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_09730	COG4753	TK	Two-component response regulator, YesN/AraC family, consists of REC and AraC-type DNA-binding domains	YesN			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_09735	COG3290	T	Sensor histidine kinase DipB regulating citrate/malate metabolism	CitA			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_09765	COG1208	JM	NDP-sugar pyrophosphorylase, includes eIF-2Bgamma, eIF-2Bepsilon, and LPS biosynthesis protein s	GCD1			6JQ8
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_09770	COG0510	H	Thiamine kinase or a related kinase	CotS			3DXQ
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_09795	COG0801	H	7,8-dihydro-6-hydroxymethylpterin pyrophosphokinase (folate biosynthesis)	FolK	Folate biosynthesis		1CBK
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_09805	COG0579	G	L-2-hydroxyglutarate oxidase LhgO	LhgO			3DME
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_09825	COG0446	I	NADPH-dependent 2,4-dienoyl-CoA reductase, sulfur reductase, or a related oxidoreductase	FadH2			1VRQ
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_09840	COG4870	O	Cysteine protease, C1A family				1AEC
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_09845	COG2732	K	Barstar, RNAse (barnase) inhibitor	BarS			1A19
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_09850	COG4221	C	NADP-dependent 3-hydroxy acid dehydrogenase YdfG	YdfG	Pyrimidine degradation		3P19
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_09860	COG3040	M	Bacterial lipocalin Blc	Blc			1QWD
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_09865	COG2072	P	Predicted flavoprotein CzcO associated with the cation diffusion facilitator CzcD	CzcO			4USQ
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_09875	COG0204	I	1-acyl-sn-glycerol-3-phosphate acyltransferase	PlsC	Phospholipid biosynthesis		1IUQ
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_09880	COG3916	T	N-acyl-homoserine lactone synthase LasI (autoinducer biosynthesis)	LasI			1K4J
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_09900	COG3705	E	ATP phosphoribosyltransferase regulatory subunit HisZ	HisZ		9767141	3OD1
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_09905	COG0768	DM	Cell division protein FtsI, peptidoglycan transpeptidase (Penicillin-binding protein 2)	FtsI			6HZQ
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_09910	COG3696	P	Cu/Ag efflux pump CusA	CusA			3K07
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_09920	COG0005	F	Purine nucleoside phosphorylase	XapA	Purine salvage		1YQQ
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_09925	COG3407	I	Mevalonate pyrophosphate decarboxylase	MVD1	Isoprenoid biosynthesis		1FI4
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_09930	COG2229	U	Signal recognition particle receptor subunit beta, a GTPase	Srp102			1NRJ
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_09945	COG0718	K	DNA-binding nucleoid-associated protein YbaB/EfbC	YbaB		19594923;22544270	1J8B
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_09950	COG2256	L	Replication-associated recombination protein RarA (DNA-dependent ATPase)	RarA			3PVS
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_09955	COG5504	R	Predicted Zn-dependent protease YjaZ, DUF2268 family	YjaZ			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_09980	COG1712	E	L-aspartate dehydrogenase, NAD(P)-dependent	AspD		12496312	1H2H
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_09985	COG1044	M	UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase	LpxD	Lipid A biosynthesis		6P83
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_09990	COG0764	I	3-hydroxymyristoyl/3-hydroxydecanoyl-(acyl carrier protein) dehydratase	FabA	Fatty acid biosynthesis		1MKA
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_09995	COG1043	M	Acyl-[acyl carrier protein]--UDP-N-acetylglucosamine O-acyltransferase	LpxA	Lipid A biosynthesis		1J2Z
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_10000	COG1422	M	Archaeal YidC/Oxa1-related membrane protein, DUF106 family	YidC			5C8J
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_10005	COG0729	M	Outer membrane translocation and assembly module TamA	TamA			4BZA
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_10010	COG0583	K	DNA-binding transcriptional regulator, LysR family	LysR			2FYI
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_10015	COG4167	V	ABC-type antimicrobial peptide export system, ATPase component SapF	SapF			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_10020	COG2606	J	Cys-tRNA(Pro) deacylase, prolyl-tRNA editing enzyme YbaK/EbsC	EbsC			1DBU
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_10025	COG1187	J	Pseudouridylate synthase RsuA, specific for 16S rRNA U516  and 23S rRNA U2605	RsuA	16S rRNA modification		1KSK
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_10030	COG0447	H	1,4-Dihydroxy-2-naphthoyl-CoA synthase	MenB	Menaquinone biosynthesis		4ELS
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_10035	COG4191	T	Signal transduction histidine kinase regulating C4-dicarboxylate transport system				4GCZ
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_10040	COG0697	GER	Permease of the drug/metabolite transporter (DMT) superfamily	RhaT			5I20
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_10050	COG0024	J	Methionine aminopeptidase	Map			3J2I
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_10065	COG0142	H	Geranylgeranyl pyrophosphate synthase	IspA	Isoprenoid biosynthesis		2AZJ
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_10070	COG0500	QR	SAM-dependent methyltransferase	SmtA			5DNK
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_10080	COG0028	EH	Acetolactate synthase large subunit or other thiamine pyrophosphate-requiring enzyme	IlvB	Isoleucine, leucine, valine biosynthesis		1BFD
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_10100	COG1974	KT	SOS-response transcriptional repressor LexA (RecA-mediated autopeptidase)	LexA			1AY9
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_10185	COG4799	I	Acetyl-CoA carboxylase, carboxyltransferase component	MmdA			1OD2
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_10195	COG0458	EF	Carbamoylphosphate synthase large subunit	CarB	Arginine biosynthesis		1C30
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_10200	COG1038	C	Pyruvate carboxylase	PycA	Urea cycle		5VYW
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_10205	COG0447	H	1,4-Dihydroxy-2-naphthoyl-CoA synthase	MenB	Menaquinone biosynthesis		4ELS
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_10210	COG2227	H	2-polyprenyl-3-methyl-5-hydroxy-6-metoxy-1,4-benzoquinol methylase	UbiG	Ubiquinone biosynthesis		1BHJ
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_10215	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_10220	COG4533	K	DNA-binding transcriptional regulator SgrR of sgrS sRNA, contains a MarR-type HTH domain and a periplasmic-type solute-binding domain	SgrR			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_10225	COG4239	Q	ABC-type microcin C transport system, permease component YejE	YejE			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_10230	COG4171	V	ABC-type antimicrobial peptide export system, permease component SapC	SapC			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_10235	COG0614	P	ABC-type Fe3+-hydroxamate transport system, periplasmic component	FepB			1ESZ
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_10240	COG1122	PR	Energy-coupling factor transporter ATP-binding protein EcfA2	EcfA2			4HUQ
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_10245	COG4779	P	ABC-type enterobactin transport system, permease component	FepG			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_10250	COG0793	O	C-terminal processing protease CtpA/Prc, contains a PDZ domain	CtpA			6IQU
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_10260	COG3568	R	Metal-dependent hydrolase, endonuclease/exonuclease/phosphatase family	ElsH		15178340	
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_10280	COG2185	I	Methylmalonyl-CoA mutase, C-terminal domain/subunit (cobalamin-binding)	Sbm			1B1A
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_10285	COG0685	E	5,10-methylenetetrahydrofolate reductase	MetF			1B5T
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_10295	COG0438	M	Glycosyltransferase involved in cell wall bisynthesis	RfaB			2IV7
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_10310	COG1030	O	Membrane-bound serine protease NfeD, ClpP class	NfeD			2DEO
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_10320	COG3547	X	Transposase				
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_10335	COG0492	O	Thioredoxin reductase	TrxB			3FBS
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_10340	COG0666	T	Ankyrin repeat	ANKYR			6AUN
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_10350	COG4535	P	Mg2+ and Co2+ transporter CorC, contains CBS pair and CorC-HlyC domains	CorC		1779764	4HG0
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_10370	COG5000	T	Signal transduction histidine kinase NtrY involved in nitrogen fixation and metabolism regulation	NtrY			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_10380	COG0667	HR	Pyridoxal reductase PdxI or related oxidoreductase, aldo/keto reductase family	PdxI		32253339	1LQA
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_10405	COG0342	U	Preprotein translocase subunit SecD	SecD		26100040	3AQP
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_10415	COG0784	T	CheY-like REC (receiver) domain, includes chemotaxis protein CheY  and sporulation regulator Spo0F	CheY			6QRJ
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_10420	COG0517	T	CBS domain	CBS			1B3O
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_10430	COG0459	O	Chaperonin GroEL (HSP60 family)	GroEL			1AON
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_10435	COG1033	R	Predicted exporter protein, RND superfamily	MMPL			5KHN
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_10455	COG5487	S	Uncharacterized membrane protein YtjA, UPF0391 family	YtjA			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_10465	COG0810	M	Periplasmic protein TonB, links inner and outer membranes	TonB			1IHR
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_10470	COG0848	U	Biopolymer transport protein ExbD	ExbD			2JWK
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_10495	COG0215	J	Cysteinyl-tRNA synthetase	CysS	Aminoacyl-tRNA synthetases		1LI5
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_10530	COG1115	E	Na+/alanine symporter	AlsT			6CSE
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_10535	COG2205	T	K+-sensing histidine kinase KdpD	KdpD			2KSF
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_10550	COG0173	J	Aspartyl-tRNA synthetase	AspS	Aminoacyl-tRNA synthetases		1C0A
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_10560	COG0767	M	Permease subunit MlaE of the ABC-type intermembrane phospholipid transporter Mla	MlaE			6IC4
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_10565	COG4604	P	ABC-type enterochelin transport system, ATPase component	CeuD			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_10570	COG1463	M	Periplasmic subunit MlaD of the ABC-type intermembrane phospholipid transporter Mla	MlaD			5UW8
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_10585	COG0009	J	tRNA A37 threonylcarbamoyladenosine synthetase subunit TsaC/SUA5/YrdC	TsaC	tRNA modification		1HRU
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_10590	COG4123	J	tRNA1(Val) A37 N6-methylase TrmN6	TrmN6	tRNA modification		
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_10605	COG1466	L	DNA polymerase III, delta subunit	HolA			3ZH9
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_10610	COG0268	J	Ribosomal protein S20	RpsT	Ribosome 30S subunit		4V4H
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_10615	COG0039	C	Malate/lactate dehydrogenase	Mdh	TCA cycle		4WLO
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_10620	COG0616	O	Periplasmic serine protease, ClpP class	SppA			3BEZ
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_10640	COG0572	F	Uridine kinase	Udk	Pyrimidine salvage		5B3F
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_10645	COG1694	V	NTP pyrophosphatase, house-cleaning of non-canonical NTPs	MazG			1VMG
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_10650	COG0319	J	ssRNA-specific RNase YbeY, 16S rRNA maturation enzyme	YbeY	16S rRNA modification	17407324;23543739	1XM5
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_10660	COG1186	J	Protein chain release factor PrfB	PrfB	Translation factors		1GQE
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_10665	COG0577	V	ABC-type antimicrobial peptide transport system, permease component	SalY			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_10670	COG4586	R	ABC-type uncharacterized transport system, ATPase component				
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_10675	COG0729	M	Outer membrane translocation and assembly module TamA	TamA			4BZA
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_10700	COG1032	R	Radical SAM superfamily enzyme YgiQ, UPF0313 family	YgiQ			6FD2
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_10710	COG4565	KT	DNA-binding response regulator DpiB of citrate/malate metabolism	CitB			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_10715	COG3852	T	Signal transduction histidine kinase NtrB, nitrogen specific	NtrB		23893111	
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_10720	COG0001	H	Glutamate-1-semialdehyde aminotransferase	HemL	Heme biosynthesis		2CFB
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_10730	COG0784	T	CheY-like REC (receiver) domain, includes chemotaxis protein CheY  and sporulation regulator Spo0F	CheY			6QRJ
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_10735	COG0373	H	Glutamyl-tRNA reductase	HemA	Heme biosynthesis		2XOE
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_10745	COG1283	P	Na+/phosphate symporter	NptA			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_10765	COG0297	G	Glycogen synthase	GlgA			1RZU
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_10770	COG0438	M	Glycosyltransferase involved in cell wall bisynthesis	RfaB			2IV7
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_10775	COG1123	O	ABC-type glutathione transport system ATPase component, contains duplicated ATPase domain	GsiA			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_10790	COG0742	J	16S rRNA G966 N2-methylase RsmD	RsmD	16S rRNA modification		2IFT
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_10815	COG2878	C	Na+-translocating ferredoxin:NAD+ oxidoreductase RNF, RnfB subunit	RnfB	Na+-translocating Fd:NADH oxidoreductase	24045950	
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_10820	COG3259	C	Coenzyme F420-reducing hydrogenase, alpha subunit	FrhA			3ZFS
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_10825	COG3262	C	Ni,Fe-hydrogenase III component G	HycE1			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_10830	COG1941	C	Coenzyme F420-reducing hydrogenase, gamma subunit	FrhG			5ODC
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_10840	COG0605	P	Superoxide dismutase	SodA			1AP5
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_10860	COG3413	R	Predicted transcriptional regulator, contains HTH domain	DmsR		15716436	
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_10865	COG1357	S	Uncharacterized conserved protein YjbI, contains pentapeptide repeats	YjbI			2BM4
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_10870	COG2204	T	DNA-binding transcriptional response regulator, NtrC family, contains REC, AAA-type ATPase, and a Fis-type DNA-binding domains	AtoC			1ZY2
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_10875	COG0730	P	Sulfite exporter TauE/SafE/YfcA and related permeases, UPF0721 family	TauE		21183667;22797525	
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_10890	COG1750	R	Predicted archaeal serine protease, S18 family				
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_10895	COG0583	K	DNA-binding transcriptional regulator, LysR family	LysR			2FYI
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_10900	COG2353	R	Polyisoprenoid-binding periplasmic protein YceI	YceI		15741337;20236316	1WUB
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_10905	COG0456	J	Ribosomal protein S18 acetylase RimI and related acetyltransferases	RimI			1GHE
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_10915	COG1187	J	Pseudouridylate synthase RsuA, specific for 16S rRNA U516  and 23S rRNA U2605	RsuA	16S rRNA modification		1KSK
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_10925	COG1032	R	Radical SAM superfamily enzyme YgiQ, UPF0313 family	YgiQ			6FD2
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_10935	COG0682	M	Prolipoprotein diacylglyceryltransferase	Lgt			5AZB
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_10940	COG5002	T	Sensor histidine kinase WalK	WalK			4I5S
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_10955	COG0172	J	Seryl-tRNA synthetase	SerS	Aminoacyl-tRNA synthetases		1SER
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_10960	COG5002	T	Sensor histidine kinase WalK	WalK			4I5S
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_10970	COG0633	C	Ferredoxin	Fdx			1KRH
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_10980	COG0717	F	dCTP deaminase	Dcd	Thymidylate biosynthesis		1XS1
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_10985	COG0539	J	Ribosomal protein S1	RpsA	Ribosome 30S subunit		4NNH
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_10995	COG1191	K	DNA-directed RNA polymerase specialized sigma subunit	FliA	RNA polymerase		1RP3
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_11000	COG3728	X	Phage terminase, small subunit	XtmA			4ZC3
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_11020	COG0582	LX	Integrase/recombinase, includes phage integrase	FimB			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_11055	COG0042	J	tRNA-dihydrouridine synthase	DusA	tRNA modification		1VHN
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_11065	COG3791	S	Uncharacterized conserved protein				1X6M
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_11090	COG0526	O	Thiol-disulfide isomerase or thioredoxin	TrxA			1XFL
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_11100	COG1814	P	Predicted Fe2+/Mn2+ transporter, VIT1/CCC1 family	Ccc1			6IU3
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_11115	COG3453	R	Predicted phosphohydrolase, protein tyrosine phosphatase (PTP) superfamily, DUF442 family				2F46
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_11125	COG3453	R	Predicted phosphohydrolase, protein tyrosine phosphatase (PTP) superfamily, DUF442 family				2F46
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_11145	COG0172	J	Seryl-tRNA synthetase	SerS	Aminoacyl-tRNA synthetases		1SER
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_11150	COG2204	T	DNA-binding transcriptional response regulator, NtrC family, contains REC, AAA-type ATPase, and a Fis-type DNA-binding domains	AtoC			1ZY2
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_11160	COG0789	K	DNA-binding transcriptional regulator, MerR family	SoxR			2VZ4
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_11180	COG4972	NW	Type IV pilus assembly protein, ATPase PilM	PilM			2YCH
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_11190	COG4795	U	Type II secretory pathway, PulJ/GspJ component	PulJ			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_11195	COG2165	NUW	Type II secretory pathway, pseudopilin PulG	PulG			1AY2
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_11200	COG2165	NUW	Type II secretory pathway, pseudopilin PulG	PulG			1AY2
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_11210	COG1459	NUW	Type II secretory pathway, component PulF	PulF			2VMA
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_11215	COG0630	NU	Type IV secretory pathway ATPase VirB11/Archaellum biosynthesis ATPase ArlI/FlaI	VirB11		32416640	1G6O
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_11225	COG3031	U	Type II secretory pathway, component PulC	PulC			2LNV
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_11240	COG0841	V	Multidrug efflux pump subunit AcrB	AcrB			1IWG
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_11250	COG5626	S	Uncharacterized protein Ssr3000, DUF2288 family	Ssr3000			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_11260	COG1187	J	Pseudouridylate synthase RsuA, specific for 16S rRNA U516  and 23S rRNA U2605	RsuA	16S rRNA modification		1KSK
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_11265	COG0784	T	CheY-like REC (receiver) domain, includes chemotaxis protein CheY  and sporulation regulator Spo0F	CheY			6QRJ
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_11270	COG0225	O	Peptide methionine sulfoxide reductase MsrA	MsrA			1FF3
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_11275	COG0293	J	23S rRNA U2552 (ribose-2'-O)-methylase RlmE/FtsJ	RlmE	23S rRNA modification	10769117	1EIZ
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_11295	COG3663	L	G:T/U-mismatch repair DNA glycosylase	Mug			1MTL
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_11300	COG1011	H	FMN and 5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YigB, HAD superfamily (riboflavin biosynthesis)	YigB		24123841	4JB3
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_11305	COG0564	J	Pseudouridine synthase RluA, 23S rRNA- or tRNA-specific	RluA	23S rRNA modification		2I82
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_11315	COG0834	ET	ABC-type amino acid transport/signal transduction system, periplasmic component/domain	HisJ			1GGG
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_11320	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_11325	COG0789	K	DNA-binding transcriptional regulator, MerR family	SoxR			2VZ4
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_11330	COG1205	L	ATP-dependent helicase YprA,  contains C-terminal metal-binding DUF1998 domain	YprA			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_11335	COG0514	L	Superfamily II DNA helicase RecQ	RecQ			1OYW
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_11340	COG1671	S	Uncharacterized conserved protein YaiI, UPF0178 family	YaiI			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_11355	COG0162	J	Tyrosyl-tRNA synthetase	TyrS	Aminoacyl-tRNA synthetases		4OUD
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_11375	COG0012	J	Ribosome-binding ATPase YchF, GTP1/OBG family	GTP1		21527254	2DWQ
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_11385	COG0261	J	Ribosomal protein L21	RplU	Ribosome 50S subunit		1VS6
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_11405	COG1502	I	Phosphatidylserine/phosphatidylglycerophosphate/cardiolipin synthase	Cls	Phospholipid biosynthesis		1BYR
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_11420	COG3633	E	Na+/serine and Na+/threonine symporter SstT	SstT			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_11425	COG0741	M	Soluble lytic murein transglycosylase or regulatory protein s ( may contain LysM/invasin domain)	MltE			153L
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_11450	COG3047	M	Outer membrane protein OmpW	OmpW			2F1T
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_11455	COG0332	I	3-oxoacyl-[acyl-carrier-protein] synthase III	FabH	Fatty acid biosynthesis		1UB7
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_11460	COG1250	I	3-hydroxyacyl-CoA dehydrogenase	FadB	Fatty acid biosynthesis		5ZQZ
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_11465	COG4591	M	ABC-type transport system involved in lipoprotein release, permease component LolC	LolE			6F49
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_11480	COG1595	K	DNA-directed RNA polymerase specialized sigma subunit, sigma24 family	RpoE	RNA polymerase		2Q1Z
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_11495	COG0809	J	S-adenosylmethionine:tRNA-ribosyltransferase-isomerase (queuine synthetase)	QueA	tRNA modification		1VKY
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_11500	COG0343	J	Queuine/archaeosine tRNA-ribosyltransferase	Tgt	tRNA modification	15805528	1XW8
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_11505	COG1862	U	Protein translocase subunit YajC	YajC			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_11510	COG1826	U	Twin-arginine protein secretion pathway components TatA and TatB	TatA			2L16
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_11515	COG0341	U	Preprotein translocase subunit SecF	SecF		28830929	2FYH
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_11520	COG0342	U	Preprotein translocase subunit SecD	SecD		26100040	3AQP
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_11540	COG0840	T	Methyl-accepting chemotaxis protein (MCP)	Tar			1QU7
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_11545	COG0784	T	CheY-like REC (receiver) domain, includes chemotaxis protein CheY  and sporulation regulator Spo0F	CheY			6QRJ
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_11555	COG2204	T	DNA-binding transcriptional response regulator, NtrC family, contains REC, AAA-type ATPase, and a Fis-type DNA-binding domains	AtoC			1ZY2
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_11565	COG3642	J	tRNA A-37 threonylcarbamoyl transferase component Bud32	Bud32	tRNA modification		2VWB
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_11580	COG2866	M	Murein tripeptide amidase MpaA	MpaA			1ARL
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_11590	COG0249	L	DNA mismatch repair ATPase MutS	MutS			1E3M
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_11600	COG4850	I	Phosphatidate phosphatase APP1	App1		23071111	
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_11605	COG0793	O	C-terminal processing protease CtpA/Prc, contains a PDZ domain	CtpA			6IQU
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_11615	COG0630	NU	Type IV secretory pathway ATPase VirB11/Archaellum biosynthesis ATPase ArlI/FlaI	VirB11		32416640	1G6O
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_11630	COG0629	L	Single-stranded DNA-binding protein	Ssb			1EQQ
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_11640	COG0582	LX	Integrase/recombinase, includes phage integrase	FimB			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_11645	COG2929	S	Uncharacterized conserved protein, DUF497 family				3U97
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_11650	COG5304	K	Predicted DNA binding protein, CopG/RHH family				
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_11655	COG1426	D	Cytoskeletal protein RodZ, contains Xre-like HTH and DUF4115 domains	RodZ			3FYM
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_11665	COG0476	H	Molybdopterin or thiamine biosynthesis adenylyltransferase	ThiF	Molybdopterin biosynthesis	32239579	1ZUD
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_11680	COG0641	O	Sulfatase maturation enzyme AslB, radical SAM superfamily	AslB			4K37
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_11690	COG2378	K	Predicted DNA-binding transcriptional regulator YobV, contains HTH and WYL domains	YobV			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_11695	COG0446	I	NADPH-dependent 2,4-dienoyl-CoA reductase, sulfur reductase, or a related oxidoreductase	FadH2			1VRQ
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_11700	COG1038	C	Pyruvate carboxylase	PycA	Urea cycle		5VYW
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_11725	COG1291	N	Flagellar motor component MotA	MotA			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_11730	COG4821	R	Uncharacterized conserved protein, contains SIS (Sugar ISomerase) phosphosugar binding domain			17855421	3CVJ
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_11735	COG0526	O	Thiol-disulfide isomerase or thioredoxin	TrxA			1XFL
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_11740	COG1714	S	Uncharacterized membrane protein YckC, RDD family	YckC			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_11745	COG1956	VT	GAF domain-containing protein, putative methionine-R-sulfoxide reductase	MsrC			1F5M
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_11755	COG0749	L	DNA polymerase I, 3'-5' exonuclease and polymerase domains	PolA			1D8Y
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_11780	COG5002	T	Sensor histidine kinase WalK	WalK			4I5S
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_11785	COG1032	R	Radical SAM superfamily enzyme YgiQ, UPF0313 family	YgiQ			6FD2
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_11810	COG3000	I	Sterol desaturase/sphingolipid hydroxylase, fatty acid hydroxylase superfamily	ERG3			4ZR0
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_11825	COG0117	H	Riboflavin biosynthesis protein RibD, pyrimidine deaminase domain	RibD1	Riboflavin/FAD biosynthesis		2O7P
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_11830	COG0642	T	Signal transduction histidine kinase	BaeS			1JOY
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_11840	COG4152	R	ABC-type uncharacterized transport system, ATPase component	YhaQ			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_11845	COG0555	P	ABC-type sulfate transport system, permease component	CysU			3D31
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_11850	COG4143	H	ABC-type thiamine transport system, periplasmic component TbpA	TbpA			2QRY
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_11860	COG4787	N	Flagellar basal body rod protein FlgF	FlgF			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_11870	COG1843	N	Flagellar hook-capping protein FlgD	FlgD			6IEF
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_11890	COG3011	R	Predicted thiol-disulfide oxidoreductase YuxK, DCC family	YuxK		15236740	
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_11905	COG1158	K	Transcription termination factor Rho	Rho			1PVO
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_11910	COG1317	NU	Flagellar biosynthesis/type III secretory pathway protein FliH	FliH			5B0O
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_11915	COG1536	N	Flagellar motor switch protein FliG	FliG			4FHR
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_11920	COG4669	U	Type III secretory pathway, lipoprotein EscJ	EscJ			1YJ7
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_11925	COG1677	N	Flagellar hook-basal body complex protein FliE	FliE			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_11930	COG4786	N	Flagellar basal body rod protein FlgG	FlgG			6JZR
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_11935	COG1815	N	Flagellar basal body rod protein FlgB	FlgB			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_11940	COG2901	K	DNA-binding protein Fis (factor for inversion stimulation)	Fis			1ETK
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_11945	COG1729	D	Cell division protein CpoB, coordinates peptidoglycan biosynthesis and outer membrane constriction	CpoB		25951518	2WZ7
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_11955	COG4566	TK	DNA-binding response regulator, FixJ family, consists of REC and HTH domains	FixJ			1YIO
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_11965	COG0681	U	Signal peptidase I	LepB		1925027	1B12
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_11980	COG0784	T	CheY-like REC (receiver) domain, includes chemotaxis protein CheY  and sporulation regulator Spo0F	CheY			6QRJ
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_11995	COG0477	GEPR	MFS family permease, includes anhydromuropeptide permease AmpG	ProP		12426329	
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_12010	COG0236	I	Acyl carrier protein	AcpP	Fatty acid biosynthesis		1ACP
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_12020	COG3811	S	Uncharacterized conserved protein YjhX, UPF0386/DUF2084 family	YjhX			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_12030	COG1604	V	CRISPR/Cas system CMR subunit Cmr6, Cas7 group, RAMP superfamily	Cmr6	CRISPR-Cas system		3X1L
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_12045	COG0304	IQ	3-oxoacyl-(acyl-carrier-protein) synthase	FabB	Fatty acid biosynthesis	21652641	2UV8
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_12070	COG0640	K	DNA-binding transcriptional regulator, ArsR family	ArsR			3F6V
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_12075	COG2391	R	Uncharacterized membrane protein YedE/YeeE, contains two sulfur transport domains	YedE			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_12090	COG2206	T	HD-GYP domain, c-di-GMP phosphodiesterase class II (or its inactivated variant)	HDGYP		23475961	5Z7C
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_12100	COG4161	E	ABC-type arginine transport system, ATPase component	ArtP			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_12105	COG1607	I	Acyl-CoA hydrolase	YciA			5DM5
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_12115	COG1240	H	vWFA (von Willebrand factor type A) domain of Mg and Co chelatases	ChlD			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_12125	COG1008	C	NADH:ubiquinone oxidoreductase subunit 4 (chain M)	NuoM	NADH dehydrogenase		6HUM
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_12135	COG1622	C	Heme/copper-type cytochrome/quinol oxidase, subunit 2	CyoA			1CYW
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_12175	COG3262	C	Ni,Fe-hydrogenase III component G	HycE1			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_12195	COG1005	C	NADH:ubiquinone oxidoreductase subunit 1 (chain H)	NuoH	NADH dehydrogenase		6HUM
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_12200	COG1845	C	Heme/copper-type cytochrome/quinol oxidase, subunit 3	CyoC			1QLE
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_12205	COG0843	C	Heme/copper-type cytochrome/quinol oxidase, subunit 1	CyoB			1AR1
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_12210	COG0056	C	FoF1-type ATP synthase, alpha subunit	AtpA	FoF1-type ATP synthase		3OAA
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_12215	COG0636	C	FoF1-type ATP synthase, membrane subunit c/Archaeal/vacuolar-type H+-ATPase, subunit K	AtpE	FoF1-type ATP synthase		1C17
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_12225	COG1009	C	Membrane H+-translocase/NADH:ubiquinone oxidoreductase subunit 5 (chain L)/Multisubunit Na+/H+ antiporter, MnhA subunit	NuoL	NADH dehydrogenase		3RKO
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_12235	COG0713	C	NADH:ubiquinone oxidoreductase subunit 11 or 4L (chain K)	NuoK	NADH dehydrogenase		4HE8
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_12250	COG1622	C	Heme/copper-type cytochrome/quinol oxidase, subunit 2	CyoA			1CYW
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_12270	COG1290	C	Cytochrome b subunit of the bc complex	QcrB/PetB			1VF5
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_12295	COG0838	C	NADH:ubiquinone oxidoreductase subunit 3 (chain A)	NuoA	NADH dehydrogenase		3RKO
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_12300	COG0356	C	FoF1-type ATP synthase, membrane subunit a	AtpB	FoF1-type ATP synthase	22931285	
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_12305	COG1009	C	Membrane H+-translocase/NADH:ubiquinone oxidoreductase subunit 5 (chain L)/Multisubunit Na+/H+ antiporter, MnhA subunit	NuoL	NADH dehydrogenase		3RKO
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_12330	COG3259	C	Coenzyme F420-reducing hydrogenase, alpha subunit	FrhA			3ZFS
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_12345	COG0197	J	Ribosomal protein L16/L10AE	RplP	Ribosome 50S subunit		1WKI
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_12350	COG0092	J	Ribosomal protein S3	RpsC	Ribosome 30S subunit		1VS6
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_12360	COG0100	J	Ribosomal protein S11	RpsK	Ribosome 30S subunit		4V4H
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_12370	COG0522	J	Ribosomal protein S4 or related protein	RpsD	Ribosome 30S subunit		4V4H
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_12445	COG1009	C	Membrane H+-translocase/NADH:ubiquinone oxidoreductase subunit 5 (chain L)/Multisubunit Na+/H+ antiporter, MnhA subunit	NuoL	NADH dehydrogenase		3RKO
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_12450	COG5000	T	Signal transduction histidine kinase NtrY involved in nitrogen fixation and metabolism regulation	NtrY			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_12475	COG0207	F	Thymidylate synthase	ThyA	Thymidylate biosynthesis		1AN5
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_12490	COG1889	J	Fibrillarin-like rRNA 2'-O-methylase NOP1	NOP1			1NT2
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_12495	COG0730	P	Sulfite exporter TauE/SafE/YfcA and related permeases, UPF0721 family	TauE		21183667;22797525	
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_12500	COG0426	C	Flavorubredoxin	NorV			4JHC
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_12510	COG0517	T	CBS domain	CBS			1B3O
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_12530	COG0010	E	Arginase/agmatinase family enzyme	SpeB	Urea cycle		1CEV
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_12540	COG0491	R	Glyoxylase or a related metal-dependent hydrolase, beta-lactamase superfamily II	GloB		25670698	1QH3
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_12565	COG0270	L	DNA-cytosine methylase	Dcm			3LX6
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_12620	COG1149	R	MinD superfamily P-loop ATPase, contains an inserted ferredoxin domain				
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_12625	COG0464	MDT	AAA+-type ATPase, SpoVK/Ycf46/Vps4 family	SpoVK			3SYL
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_12640	COG3591	O	V8-like Glu-specific endopeptidase	eMpr			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_12650	COG2204	T	DNA-binding transcriptional response regulator, NtrC family, contains REC, AAA-type ATPase, and a Fis-type DNA-binding domains	AtoC			1ZY2
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_12655	COG3437	T	Response regulator c-di-GMP phosphodiesterase, RpfG family, contains REC and HD-GYP domains	RpfG			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_12660	COG1052	CHR	Lactate dehydrogenase or related 2-hydroxyacid dehydrogenase	LdhA	Pyridoxal phosphate biosynthesis		1DXY
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_12665	COG1404	O	Serine protease, subtilisin family	AprE			1SCJ
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_12675	COG0156	H	7-keto-8-aminopelargonate synthetase or related enzyme	BioF	Biotin biosynthesis		1BS0
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_12680	COG2519	J	tRNA A58 N-methylase Trm61	Gcd14	tRNA modification		1I9G
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_12710	COG4254	R	Uncharacterized peptidoglycan binding protein, contains LysM and FecR  domains				
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_12715	COG5010	UW	Flp pilus assembly protein TadD, contains TPR repeats	TadD			3WXX
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_12725	COG1110	L	Reverse gyrase	TopG2			1GKU
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_12740	COG0278	O	Glutaredoxin-related protein	GrxD			1YKA
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_12745	COG1225	O	Peroxiredoxin	Bcp			5IPH
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_12750	COG2204	T	DNA-binding transcriptional response regulator, NtrC family, contains REC, AAA-type ATPase, and a Fis-type DNA-binding domains	AtoC			1ZY2
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_12760	COG1884	I	Methylmalonyl-CoA mutase, N-terminal domain/subunit	Sbm			6OXC
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_12765	COG1011	H	FMN and 5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YigB, HAD superfamily (riboflavin biosynthesis)	YigB		24123841	4JB3
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_12775	COG1025	O	Secreted/periplasmic Zn-dependent peptidases, insulinase-like	Ptr			1Q2L
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_12780	COG1032	R	Radical SAM superfamily enzyme YgiQ, UPF0313 family	YgiQ			6FD2
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_12790	COG1757	C	Na+/H+ antiporter NhaC/MleN	NhaC			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_12805	COG0576	O	Molecular chaperone GrpE (heat shock protein HSP-70)	GrpE			1DKG
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_12810	COG1077	DZ	Cell shape-determining ATPase MreB, actin-like superfamily	MreB			1JCE
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_12815	COG0473	CE	Isocitrate/isopropylmalate dehydrogenase	LeuB	TCA cycle		1GC9
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_12820	COG0484	O	DnaJ-class molecular chaperone with C-terminal Zn finger domain	DnaJ			1BQ0
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_12830	COG0596	HR	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold	MenH	Menaquinone biosynthesis		4MYS
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_12840	COG0418	F	Dihydroorotase	PyrC	Pyrimidine biosynthesis		2Y3D
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_12850	COG4988	CO	ABC-type transport system involved in cytochrome bd biosynthesis, ATPase and permease components	CydD			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_12855	COG1566	V	Multidrug resistance efflux pump EmrA	EmrA			4TKO
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_12865	COG2203	T	GAF domain	GAF			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_12875	COG2746	V	Aminoglycoside N3'-acetyltransferase	YokD			2NYG
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_12880	COG0499	H	S-adenosylhomocysteine hydrolase	SAM1			1A7A
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_12885	COG3173	R	Predicted  kinase, aminoglycoside phosphotransferase (APT) family	YcbJ			
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_12895	COG0596	HR	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold	MenH	Menaquinone biosynthesis		4MYS
+Halobacteriovorax_sp_ARS37	GCA_002686115.1	IAIJJB_12925	COG3063	NW	Type IV pilus assembly protein PilF/PilW	PilF		16403447	2VQ2

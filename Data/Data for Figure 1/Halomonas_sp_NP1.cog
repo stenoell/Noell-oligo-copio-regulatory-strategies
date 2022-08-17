@@ -1,0 +1,1495 @@
+#prefix	assemid	query	COG	category	name	Gene	pathway	pmid	pdb_id
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_00005	COG1479	V	DNAse/DNA nickase specific for phosphorothioated or glycosylated phage DNA, GmrSD/DndB/SspE family, contains DUF262 and HNH nuclease domains	GmrSD		17188297;32251370	6JIV
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_00020	COG1937	K	DNA-binding transcriptional regulator, FrmR family	FrmR			2HH7
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_00040	COG1606	R	ATP-utilizing enzyme, PP-loop superfamily				6B2O
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_00045	COG0037	J	tRNA(Ile)-lysidine synthase TilS/MesJ	TilS	tRNA modification	21435031	1NI5
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_00055	COG0635	H	Coproporphyrinogen-III oxidase HemN  (oxygen-independent) or related Fe-S oxidoreductase	HemN	Heme biosynthesis		1OLT
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_00060	COG2836	S	Uncharacterized membrane protein, DsbD domain	DsbD		17768248	
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_00065	COG1902	C	2,4-dienoyl-CoA reductase or related NADH-dependent reductase, Old Yellow Enzyme (OYE) family	FadH			1BWK
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_00070	COG3476	T	Tryptophan-rich sensory protein TspO/CrtK (mitochondrial benzodiazepine receptor homolog)	TspO			2MGY
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_00080	COG4988	CO	ABC-type transport system involved in cytochrome bd biosynthesis, ATPase and permease components	CydD			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_00100	COG0697	GER	Permease of the drug/metabolite transporter (DMT) superfamily	RhaT			5I20
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_00115	COG0161	H	Adenosylmethionine-8-amino-7-oxononanoate aminotransferase	BioA	Biotin biosynthesis		1MLY
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_00125	COG4106	C	Trans-aconitate methyltransferase	Tam			2P35
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_00130	COG0596	HR	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold	MenH	Menaquinone biosynthesis		4MYS
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_00135	COG0001	H	Glutamate-1-semialdehyde aminotransferase	HemL	Heme biosynthesis		2CFB
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_00140	COG1060	H	2-iminoacetate synthase ThiH/Menaquinone biosynthesis enzymes MqnC and MqnE	ThiH	Thiamine biosynthesis	18801996	4WCX
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_00155	COG0480	J	Translation elongation factor EF-G, a GTPase	FusA	Translation factors		1DAR
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_00160	COG0681	U	Signal peptidase I	LepB		1925027	1B12
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_00170	COG0571	K	dsRNA-specific ribonuclease	Rnc			1DI2
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_00175	COG0486	J	tRNA U34 5-carboxymethylaminomethyl modifying GTPase MnmE/TrmE	MnmE	tRNA modification		
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_00185	COG0854	H	Pyridoxine 5'-phosphate synthase PdxJ	PdxJ	Pyridoxal phosphate biosynthesis		1HO1
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_00190	COG4191	T	Signal transduction histidine kinase regulating C4-dicarboxylate transport system				4GCZ
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_00195	COG0498	E	Threonine synthase	ThrC	Threonine biosynthesis		1VB3
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_00200	COG3298	L	Predicted 3'-5' exonuclease related to the exonuclease domain of PolB				
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_00205	COG1041	J	tRNA G10 N-methylase Trm11	Trm11	tRNA modification		5E71
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_00210	COG0317	TK	(p)ppGpp synthase/hydrolase, HD superfamily	SpoT			1TDJ
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_00225	COG4679	X	Phage-related protein				
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_00235	COG1488	H	Nicotinic acid phosphoribosyltransferase	PncB	NAD biosynthesis		1VLP
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_00250	COG1074	L	3-5 helicase subunit RecB of the DNA repair enzyme RecBCD (exonuclease V)	RecB		29901759;30601118	3U44
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_00270	COG0564	J	Pseudouridine synthase RluA, 23S rRNA- or tRNA-specific	RluA	23S rRNA modification		2I82
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_00275	COG1386	K	Chromosome segregation and condensation protein ScpB	ScpB			1T6S
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_00285	COG1111	L	ERCC4-related helicase	MPH1			1WP9
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_00290	COG0046	F	Phosphoribosylformylglycinamidine (FGAM) synthase, synthetase domain	PurL1	Purine biosynthesis		3VIU
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_00295	COG0741	M	Soluble lytic murein transglycosylase or regulatory protein s ( may contain LysM/invasin domain)	MltE			153L
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_00300	COG0117	H	Riboflavin biosynthesis protein RibD, pyrimidine deaminase domain	RibD1	Riboflavin/FAD biosynthesis		2O7P
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_00305	COG1946	I	Acyl-CoA thioesterase	TesB			1C8U
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_00310	COG0281	C	Malic enzyme	SfcA	Urea cycle		1DO8
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_00320	COG1198	L	Primosomal protein N' (replication factor Y) - superfamily II helicase	PriA			6DCR
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_00325	COG0018	J	Arginyl-tRNA synthetase	ArgS	Aminoacyl-tRNA synthetases		1BS2
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_00330	COG3087	D	Cell division protein FtsN	FtsN			1UTA
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_00335	COG0638	O	20S proteasome, alpha and beta subunits	PRE1			1FNT
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_00340	COG1220	O	ATP-dependent protease HslVU (ClpYQ), ATPase subunit HslU	HslU			1DO0
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_00345	COG3536	S	Uncharacterized conserved protein, DUF971 family				2L6N
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_00350	COG2227	H	2-polyprenyl-3-methyl-5-hydroxy-6-metoxy-1,4-benzoquinol methylase	UbiG	Ubiquinone biosynthesis		1BHJ
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_00355	COG3165	H	Ubiquinone biosynthesis protein UbiJ, contains SCP2 domain	UbiJ		24142253;28559279	
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_00360	COG0661	HT	Predicted protein kinase regulating ubiquinone biosynthesis, AarF/ABC1/UbiB family	AarF	Ubiquinone biosynthesis		4PED
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_00365	COG0140	E	Phosphoribosyl-ATP pyrophosphohydrolase	HisI2	Histidine biosynthesis		6J22
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_00370	COG1826	U	Twin-arginine protein secretion pathway components TatA and TatB	TatA			2L16
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_00375	COG1826	U	Twin-arginine protein secretion pathway components TatA and TatB	TatA			2L16
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_00380	COG0805	U	Twin-arginine protein secretion pathway component TatC	TatC			4B4A
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_00390	COG0113	H	Delta-aminolevulinic acid dehydratase, porphobilinogen synthase	HemB	Heme biosynthesis		1I8J
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_00400	COG0620	E	Methionine synthase II (cobalamin-independent)	MetE	Methionine biosynthesis		1T7L
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_00410	COG3852	T	Signal transduction histidine kinase NtrB, nitrogen specific	NtrB		23893111	
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_00415	COG3706	TK	Two-component response regulator, PleD family, consists of two REC domains and a diguanylate cyclase (GGDEF) domain	PleD			1W25
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_00435	COG2211	G	Na+/melibiose symporter or related transporter	MelB			4M64
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_00440	COG3706	TK	Two-component response regulator, PleD family, consists of two REC domains and a diguanylate cyclase (GGDEF) domain	PleD			1W25
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_00445	COG1292	M	Choline-glycine betaine transporter	BetT			2WIT
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_00455	COG0679	R	Predicted permease, AEC (auxin efflux carrier) family	YfdV			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_00460	COG1391	O	Glutamine synthetase adenylyltransferase	GlnE1			1V4A
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_00470	COG2027	M	D-alanyl-D-alanine carboxypeptidase	DacB			1W5D
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_00475	COG0682	M	Prolipoprotein diacylglyceryltransferase	Lgt			5AZB
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_00480	COG0841	V	Multidrug efflux pump subunit AcrB	AcrB			1IWG
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_00485	COG1566	V	Multidrug resistance efflux pump EmrA	EmrA			4TKO
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_00490	COG1538	M	Outer membrane protein TolC	TolC			1EK9
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_00515	COG0607	P	Rhodanese-related sulfurtransferase	PspE	Urea cycle		1TQ1
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_00520	COG2197	TK	DNA-binding response regulator, NarL/FixJ family, contains REC and HTH domains	CitB			1A04
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_00525	COG4191	T	Signal transduction histidine kinase regulating C4-dicarboxylate transport system				4GCZ
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_00535	COG1138	CO	Cytochrome c biogenesis protein CcmF	CcmF			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_00540	COG0526	O	Thiol-disulfide isomerase or thioredoxin	TrxA			1XFL
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_00550	COG4235	CO	Cytochrome c-type biogenesis protein CcmH/NrfG	NrfG			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_00555	COG0785	CO	Cytochrome c biogenesis protein CcdA	CcdA			5VKV
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_00570	COG3258	P	Thiosulfate dehydrogenase TsdA, contains C-terminal cytochrome c domain	TsdA		32457501	
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_00575	COG3909	C	Cytochrome c556	CytC556			1E83
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_00580	COG2010	C	Cytochrome c, mono- and diheme variants	CccA			1A2S
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_00595	COG2010	C	Cytochrome c, mono- and diheme variants	CccA			1A2S
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_00600	COG3917	Q	2-hydroxychromene-2-carboxylate isomerase	NahD			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_00605	COG2608	P	Copper chaperone CopZ	CopZ			1AFI
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_00610	COG2217	P	Cation-transporting P-type ATPase	ZntA			4BBJ
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_00620	COG0695	O	Glutaredoxin	GrxC			1AAZ
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_00625	COG3544	S	Uncharacterized conserved protein, DUF305 family				5FEJ
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_00635	COG2217	P	Cation-transporting P-type ATPase	ZntA			4BBJ
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_00650	COG4232	O	Thiol:disulfide interchange protein DsbD	DsbD			1JPE
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_00660	COG0531	E	Serine transporter YbeC, amino acid:H+ symporter family	PotE			3LRB
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_00665	COG2217	P	Cation-transporting P-type ATPase	ZntA			4BBJ
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_00670	COG0682	M	Prolipoprotein diacylglyceryltransferase	Lgt			5AZB
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_00675	COG3439	S	Uncharacterized conserved protein, DUF302 family				1J3M
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_00680	COG5126	T	Ca2+-binding protein, EF-hand superfamily	FRQ1			2LHI
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_00695	COG1495	O	Disulfide bond formation protein DsbB	DsbB			2LTQ
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_00715	COG2801	X	Transposase InsO and inactivated derivatives	Tra5			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_00725	COG0809	J	S-adenosylmethionine:tRNA-ribosyltransferase-isomerase (queuine synthetase)	QueA	tRNA modification		1VKY
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_00730	COG0343	J	Queuine/archaeosine tRNA-ribosyltransferase	Tgt	tRNA modification	15805528	1XW8
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_00740	COG0341	U	Preprotein translocase subunit SecF	SecF		28830929	2FYH
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_00745	COG0342	U	Preprotein translocase subunit SecD	SecD		26100040	3AQP
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_00755	COG0566	J	tRNA G18 (ribose-2'-O)-methylase SpoU	SpoU	tRNA modification		1GZ0
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_00760	COG0110	R	Acetyltransferase, isoleucine patch superfamily	WbbJ			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_00770	COG0076	E	Glutamate or tyrosine decarboxylase or a related PLP-dependent protein	GadA	Pantothenate/CoA biosynthesis		1XEY
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_00780	COG0105	F	Nucleoside diphosphate kinase	Ndk	Pyrimidine biosynthesis		1B4S
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_00785	COG0820	J	Adenine C2-methylase RlmN of 23S rRNA A2503 and tRNA A37	RlmN	23S rRNA modification		3RFA
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_00790	COG2956	M	Lipopolysaccharide biosynthesis regulator YciM/LapB, contains six TPR domains and a C-terminal metal-binding domain	LapB		24187084;24266962	4ZLH
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_00800	COG0821	I	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase IspG/GcpE	IspG	Isoprenoid biosynthesis		2Y0F
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_00805	COG0124	J	Histidyl-tRNA synthetase	HisS	Aminoacyl-tRNA synthetases		1KMM
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_00810	COG4649	S	TPR-like repeat domain	TPR1			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_00825	COG0218	D	GTP-binding protein EngB required for normal cell division	EngB			5UCV
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_00835	COG2607	R	Predicted ATPase, AAA+ superfamily	Atu1564			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_00850	COG0373	H	Glutamyl-tRNA reductase	HemA	Heme biosynthesis		2XOE
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_00855	COG0408	H	Coproporphyrinogen-III oxidase HemH, oxygen-dependent	HemF	Heme biosynthesis		3E8J
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_00860	COG0009	J	tRNA A37 threonylcarbamoyladenosine synthetase subunit TsaC/SUA5/YrdC	TsaC	tRNA modification		1HRU
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_00865	COG0758	L	Predicted Rossmann fold nucleotide-binding protein DprA/Smf involved in DNA uptake	Smf			3MAJ
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_00875	COG0242	J	Peptide deformylase	Def			1BS4
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_00880	COG0299	F	Folate-dependent phosphoribosylglycinamide formyltransferase PurN	PurN	Purine biosynthesis	25013077	1C2T
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_00890	COG3156	U	Type II secretory pathway, component PulK	PulK			5VTM
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_00895	COG0231	J	Translation elongation factor P (EF-P)/translation initiation factor 5A (eIF-5A)	Efp	Translation factors		1UEB
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_00900	COG0017	J	Aspartyl/asparaginyl-tRNA synthetase	AsnS	Aminoacyl-tRNA synthetases		3KFU
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_00905	COG0688	I	Phosphatidylserine decarboxylase	Psd	Phospholipid biosynthesis		6L06
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_00910	COG0607	P	Rhodanese-related sulfurtransferase	PspE	Urea cycle		1TQ1
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_00915	COG1161	J	Ribosome biogenesis GTPase RbgA	RbgA			6G14
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_00920	COG1949	A	Oligoribonuclease (3'-5' exoribonuclease)	Orn			1YTA
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_00925	COG1142	C	Fe-S-cluster-containing hydrogenase component 2	HycB			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_00930	COG2145	H	Hydroxyethylthiazole kinase, sugar kinase family	ThiM	Thiamine biosynthesis		1C3Q
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_00935	COG1428	F	Deoxyadenosine/deoxycytidine kinase	Dck			1J90
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_00940	COG1388	M	LysM repeat	LysM			1E0G
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_00945	COG0323	L	DNA mismatch repair ATPase MutL	MutL			1B62
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_00950	COG0324	J	tRNA A37 N6-isopentenylltransferase MiaA	MiaA	tRNA modification		2ZM5
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_00960	COG0536	DL	GTPase involved in cell partioning and DNA repair	Obg			1LNZ
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_00975	COG3705	E	ATP phosphoribosyltransferase regulatory subunit HisZ	HisZ		9767141	3OD1
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_00980	COG0104	F	Adenylosuccinate synthase	PurA	Purine biosynthesis		1ADE
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_00985	COG2109	H	ATP:corrinoid adenosyltransferase	BtuR	Cobalamine/B12 biosynthesis		4HUT
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_00995	COG0308	E	Aminopeptidase N, contains DUF3458 domain	PepN		24123841	6ATK
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_01000	COG1597	IR	Phosphatidylglycerol kinase, diacylglycerol kinase family	LCB5		17351295	2BON
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_01025	COG1158	K	Transcription termination factor Rho	Rho			1PVO
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_01035	COG1536	N	Flagellar motor switch protein FliG	FliG			4FHR
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_01040	COG4669	U	Type III secretory pathway, lipoprotein EscJ	EscJ			1YJ7
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_01050	COG1334	R	Uncharacterized conserved protein, FlaG/YvyC family	FlaG			2HC5
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_01055	COG2206	T	HD-GYP domain, c-di-GMP phosphodiesterase class II (or its inactivated variant)	HDGYP		23475961	5Z7C
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_01075	COG2257	U	Type III secretion system substrate exporter, FlhB-like	YlqH			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_01090	COG1291	N	Flagellar motor component MotA	MotA			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_01095	COG1360	N	Flagellar motor protein MotB	MotB			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_01100	COG0643	T	Chemotaxis protein histidine kinase CheA	CheA			1B3Q
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_01105	COG0643	T	Chemotaxis protein histidine kinase CheA	CheA			1B3Q
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_01110	COG1511	S	Uncharacterized membrane protein YhgE, phage infection protein (PIP) family	YhgE			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_01115	COG2202	T	PAS domain	PAS			2MWG
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_01120	COG1352	T	Methylase of chemotaxis methyl-accepting proteins	CheR			1AF7
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_01125	COG2197	TK	DNA-binding response regulator, NarL/FixJ family, contains REC and HTH domains	CitB			1A04
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_01130	COG1511	S	Uncharacterized membrane protein YhgE, phage infection protein (PIP) family	YhgE			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_01135	COG0784	T	CheY-like REC (receiver) domain, includes chemotaxis protein CheY  and sporulation regulator Spo0F	CheY			6QRJ
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_01145	COG2257	U	Type III secretion system substrate exporter, FlhB-like	YlqH			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_01150	COG1298	N	Flagellar biosynthesis protein FlhA	FlhA			6AI0
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_01155	COG0552	U	Signal recognition particle GTPase FtsY	FtsY			4AK9
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_01170	COG0568	K	DNA-directed RNA polymerase, sigma subunit (sigma70/sigma32)	RpoD	RNA polymerase		1SIG
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_01180	COG2885	M	Outer membrane protein OmpA and related peptidoglycan-associated (lipo)proteins	OmpA			1OAP
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_01190	COG0209	F	Ribonucleotide reductase alpha subunit	NrdA	Pyrimidine salvage		1R1R
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_01210	COG0798	P	Arsenite efflux pump ArsB, ACR3 family	ACR3			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_01215	COG3965	P	Predicted Co/Zn/Cd cation transporter, cation efflux family				
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_01220	COG1651	O	Protein thiol-disulfide isomerase DsbC	DsbG			2HI7
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_01225	COG4942	D	Septal ring factor EnvC, activator of murein hydrolases AmiA and AmiB	EnvC			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_01235	COG0789	K	DNA-binding transcriptional regulator, MerR family	SoxR			2VZ4
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_01240	COG2217	P	Cation-transporting P-type ATPase	ZntA			4BBJ
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_01250	COG0815	M	Apolipoprotein N-acyltransferase	Lnt			6NWR
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_01270	COG2842	X	Bacteriophage DNA transposition protein, AAA+ family ATPase				
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_01285	COG1123	O	ABC-type glutathione transport system ATPase component, contains duplicated ATPase domain	GsiA			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_01290	COG2814	G	Predicted arabinose efflux permease AraJ, MFS family	AraJ			4LDS
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_01295	COG2965	L	Primosomal replication protein N	PriB			2PNH
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_01300	COG1091	M	dTDP-4-dehydrorhamnose reductase	RfbD			1KBZ
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_01310	COG0304	IQ	3-oxoacyl-(acyl-carrier-protein) synthase	FabB	Fatty acid biosynthesis	21652641	2UV8
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_01315	COG4706	I	Predicted 3-hydroxylacyl-ACP dehydratase, HotDog domain				
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_01320	COG3706	TK	Two-component response regulator, PleD family, consists of two REC domains and a diguanylate cyclase (GGDEF) domain	PleD			1W25
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_01325	COG0415	L	Deoxyribodipyrimidine photolyase	PhrB			1TEZ
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_01330	COG0789	K	DNA-binding transcriptional regulator, MerR family	SoxR			2VZ4
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_01335	COG0702	R	Uncharacterized conserved protein YbjT, contains NAD(P)-binding and DUF2867 domains	YbjT			5L3Z
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_01340	COG1061	KL	Superfamily II DNA or RNA helicase	SSL2			6JDE
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_01345	COG0526	O	Thiol-disulfide isomerase or thioredoxin	TrxA			1XFL
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_01360	COG3284	K	Transcriptional regulator DhaR of acetoin/glycerol metabolism	AcoR			4LRX
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_01365	COG2072	P	Predicted flavoprotein CzcO associated with the cation diffusion facilitator CzcD	CzcO			4USQ
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_01370	COG2242	H	Precorrin-6B methylase 2	CobL	Cobalamine/B12 biosynthesis		1F38
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_01375	COG1028	I	NAD(P)-dependent dehydrogenase, short-chain alcohol dehydrogenase family	FabG	Fatty acid biosynthesis		6L1H
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_01395	COG2017	G	Galactose mutarotase or related enzyme	GalM			1LUR
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_01400	COG2261	R	Uncharacterized membrane protein YeaQ/YmgE, transglycosylase-associated protein family	YeaQ			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_01415	COG2814	G	Predicted arabinose efflux permease AraJ, MFS family	AraJ			4LDS
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_01420	COG1136	M	ABC-type lipoprotein export system, ATPase component	LolD			5GKO
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_01425	COG3839	G	ABC-type sugar transport system, ATPase component MalK	MalK			2ONK
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_01430	COG4239	Q	ABC-type microcin C transport system, permease component YejE	YejE			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_01435	COG4174	Q	ABC-type microcin C transport system, permease component YejB	YejB		17873039	
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_01445	COG0697	GER	Permease of the drug/metabolite transporter (DMT) superfamily	RhaT			5I20
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_01450	COG3434	T	c-di-GMP phosphodiesterase YuxH/PdeH, contains EAL and HDOD domains	YuxH		23893111	
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_01455	COG4953	M	Membrane carboxypeptidase/penicillin-binding protein PbpC	PbpC			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_01460	COG2819	R	Predicted hydrolase of the alpha/beta superfamily	YbbA			3GFF
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_01465	COG1062	C	Zn-dependent alcohol/formaldehyde dehydrogenase	FrmA			1A71
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_01470	COG0491	R	Glyoxylase or a related metal-dependent hydrolase, beta-lactamase superfamily II	GloB		25670698	1QH3
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_01480	COG1760	E	L-serine deaminase	SdaA			4RQO
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_01490	COG2978	H	p-Aminobenzoyl-glutamate transporter AbgT	AbgT		17307853	4R0C
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_01495	COG0568	K	DNA-directed RNA polymerase, sigma subunit (sigma70/sigma32)	RpoD	RNA polymerase		1SIG
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_01500	COG0358	L	DNA primase (bacterial type)	DnaG		28128549	3B39
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_01505	COG0828	J	Ribosomal protein S21	RpsU	Ribosome 30S subunit		4V4H
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_01510	COG0533	J	tRNA A37 threonylcarbamoyltransferase TsaD	TsaD	tRNA modification	23072323;21285948;32385138	3ENO
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_01515	COG0344	I	Phospholipid biosynthesis protein PlsY, probable glycerol-3-phosphate acyltransferase	PlsY		29684280	5XJ5
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_01530	COG0617	J	tRNA nucleotidyltransferase/poly(A) polymerase	PcnB	tRNA modification		3WFR
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_01535	COG4186	R	Uncharacterized conserved protein MJ1445, calcineurin-like phosphoesterase superfamily				1XM7
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_01545	COG2242	H	Precorrin-6B methylase 2	CobL	Cobalamine/B12 biosynthesis		1F38
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_01550	COG1995	H	4-hydroxy-L-threonine phosphate dehydrogenase PdxA	PdxA	Pyridoxal phosphate biosynthesis		1PS6
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_01560	COG1452	M	LPS assembly outer membrane protein LptD (organic solvent tolerance protein OstA)	LptD			4N4R
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_01565	COG3173	R	Predicted  kinase, aminoglycoside phosphotransferase (APT) family	YcbJ			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_01570	COG1207	M	Bifunctional protein GlmU, N-acetylglucosamine-1-phosphate-uridyltransferase/glucosamine-1-phosphate-acetyltransferase	GlmU			3FWW
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_01585	COG1560	I	Palmitoleoyl-ACP: Kdo2-lipid-IV acyltransferase (lipid A biosynthesis)	LpxP	Lipid A biosynthesis	11830595	5F2T
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_01590	COG0787	M	Alanine racemase	Alr	Mureine biosynthesis		1BD0
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_01595	COG0568	K	DNA-directed RNA polymerase, sigma subunit (sigma70/sigma32)	RpoD	RNA polymerase		1SIG
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_01600	COG1388	M	LysM repeat	LysM			1E0G
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_01605	COG2035	S	Uncharacterized membrane protein, DUF368 family				
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_01610	COG4122	J	tRNA 5-hydroxyU34 O-methylase TrmR/YrrM	TrmR	tRNA modification	29982645	1H1D
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_01615	COG0496	L	Broad specificity polyphosphatase and 5'/3'-nucleotidase SurE	SurE			2V4N
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_01625	COG0245	I	2C-methyl-D-erythritol 2,4-cyclodiphosphate synthase	IspF	Isoprenoid biosynthesis		1GX1
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_01630	COG2068	H	CTP:molybdopterin cytidylyltransferase MocA	MocA			2WAW
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_01635	COG2919	D	Cell division protein FtsB	FtsB			4IFF
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_01645	COG1012	I	Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase	AdhE	Proline degradation		1A4S
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_01650	COG0784	T	CheY-like REC (receiver) domain, includes chemotaxis protein CheY  and sporulation regulator Spo0F	CheY			6QRJ
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_01655	COG2199	T	GGDEF domain, diguanylate cyclase (c-di-GMP synthetase) or its enzymatically inactive variants	GGDEF			6D9M
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_01660	COG0794	GM	D-arabinose 5-phosphate isomerase GutQ	GutQ			5UQI
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_01670	COG1414	K	DNA-binding transcriptional regulator, IclR family	IclR			1MKM
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_01675	COG0119	E	Isopropylmalate/homocitrate/citramalate synthases	LeuA	Isoleucine, leucine, valine biosynthesis		4JN6
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_01680	COG0589	T	Nucleotide-binding universal stress protein,  UspA family	UspA			1JMV
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_01685	COG0239	DP	Fluoride ion exporter CrcB/FEX, affects chromosome condensation	CrcB			5A40
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_01690	COG0239	DP	Fluoride ion exporter CrcB/FEX, affects chromosome condensation	CrcB			5A40
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_01695	COG2227	H	2-polyprenyl-3-methyl-5-hydroxy-6-metoxy-1,4-benzoquinol methylase	UbiG	Ubiquinone biosynthesis		1BHJ
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_01700	COG0589	T	Nucleotide-binding universal stress protein,  UspA family	UspA			1JMV
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_01705	COG0659	P	Sulfate permease or related transporter, MFS superfamily	SUL1			3NY7
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_01710	COG3528	S	Uncharacterized conserved protein, DUF2219 family				3FID
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_01715	COG1566	V	Multidrug resistance efflux pump EmrA	EmrA			4TKO
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_01720	COG3696	P	Cu/Ag efflux pump CusA	CusA			3K07
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_01725	COG1538	M	Outer membrane protein TolC	TolC			1EK9
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_01740	COG3806	T	Anti-sigma factor ChrR, cupin superfamily	ChrR			2Q1Z
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_01745	COG1309	K	DNA-binding protein, AcrR family, includes nucleoid occlusion protein SlmA	AcrR			2QOP
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_01750	COG0667	HR	Pyridoxal reductase PdxI or related oxidoreductase, aldo/keto reductase family	PdxI		32253339	1LQA
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_01755	COG1606	R	ATP-utilizing enzyme, PP-loop superfamily				6B2O
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_01760	COG1729	D	Cell division protein CpoB, coordinates peptidoglycan biosynthesis and outer membrane constriction	CpoB		25951518	2WZ7
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_01765	COG1187	J	Pseudouridylate synthase RsuA, specific for 16S rRNA U516  and 23S rRNA U2605	RsuA	16S rRNA modification		1KSK
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_01770	COG1496	P	Copper oxidase (laccase) domain	YfiH			1RV9
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_01775	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_01780	COG0028	EH	Acetolactate synthase large subunit or other thiamine pyrophosphate-requiring enzyme	IlvB	Isoleucine, leucine, valine biosynthesis		1BFD
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_01795	COG0059	EH	Ketol-acid reductoisomerase	IlvC	Isoleucine, leucine, valine biosynthesis		1NP3
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_01800	COG1183	I	Phosphatidylserine synthase	PssA			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_01830	COG1061	KL	Superfamily II DNA or RNA helicase	SSL2			6JDE
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_01835	COG1508	K	DNA-directed RNA polymerase specialized sigma subunit, sigma54 homolog	RpoN	RNA polymerase		5BYH
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_01840	COG3549	V	Plasmid maintenance system killer protein	HigB			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_01855	COG1032	R	Radical SAM superfamily enzyme YgiQ, UPF0313 family	YgiQ			6FD2
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_01860	COG0127	F	Inosine/xanthosine triphosphate pyrophosphatase, all-alpha NTP-PPase family	RdgB			1B78
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_01865	COG2771	K	DNA-binding transcriptional regulator, CsgD family	CsgD			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_01880	COG1462	M	Curli biogenesis system outer membrane secretion channel CsgG	CsgG		24417346	3X2R
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_01900	COG0001	H	Glutamate-1-semialdehyde aminotransferase	HemL	Heme biosynthesis		2CFB
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_01905	COG2240	H	Pyridoxal/pyridoxine/pyridoxamine kinase	PdxK	Pyridoxal phosphate biosynthesis	19096365;23189126	5ZW9
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_01910	COG1981	H	Protoporphyrinogen oxidase HemJ (unrelated to HemG or HemY)	HemJ		20823222;21642412;25108393;29925590	
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_01920	COG0136	E	Aspartate-semialdehyde dehydrogenase	Asd	Lysine biosynthesis		1BRM
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_01930	COG2025	C	Electron transfer flavoprotein, alpha subunit FixB	FixB			1EFP
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_01935	COG0605	P	Superoxide dismutase	SodA			1AP5
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_01940	COG0695	O	Glutaredoxin	GrxC			1AAZ
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_01945	COG1780	F	Flavodoxin NrdI, NrdF-interacting activator of class Ib ribonucleotide reductase	NrdI		20688982	1RLJ
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_01950	COG0209	F	Ribonucleotide reductase alpha subunit	NrdA	Pyrimidine salvage		1R1R
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_01955	COG0208	F	Ribonucleotide reductase beta subunit, ferritin-like domain	NrdB	Pyrimidine salvage		1AV8
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_01965	COG0811	U	Biopolymer transport protein ExbB/TolQ	TolQ			5SV0
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_01985	COG3063	NW	Type IV pilus assembly protein PilF/PilW	PilF		16403447	2VQ2
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_01990	COG3568	R	Metal-dependent hydrolase, endonuclease/exonuclease/phosphatase family	ElsH		15178340	
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_02000	COG0514	L	Superfamily II DNA helicase RecQ	RecQ			1OYW
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_02005	COG1199	L	Rad3-related DNA helicase DinG	DinG			5H8W
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_02010	COG0722	E	3-deoxy-D-arabino-heptulosonate 7-phosphate (DAHP) synthase	AroG1	Aromatic amino acid biosynthesis		6U8J
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_02015	COG4941	K	Predicted RNA polymerase sigma factor, contains C-terminal TPR domain				
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_02020	COG3073	T	RseA, negative regulator of sigma E activity	RseA			1OR7
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_02035	COG0793	O	C-terminal processing protease CtpA/Prc, contains a PDZ domain	CtpA			6IQU
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_02040	COG5256	J	Translation elongation factor EF-1alpha (GTPase)	TEF1	Translation factors		1F60
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_02045	COG0681	U	Signal peptidase I	LepB		1925027	1B12
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_02050	COG0571	K	dsRNA-specific ribonuclease	Rnc			1DI2
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_02055	COG0486	J	tRNA U34 5-carboxymethylaminomethyl modifying GTPase MnmE/TrmE	MnmE	tRNA modification		
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_02065	COG0854	H	Pyridoxine 5'-phosphate synthase PdxJ	PdxJ	Pyridoxal phosphate biosynthesis		1HO1
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_02070	COG2091	H	Phosphopantetheinyl transferase	Sfp			1QR0
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_02075	COG3437	T	Response regulator c-di-GMP phosphodiesterase, RpfG family, contains REC and HD-GYP domains	RpfG			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_02080	COG1171	E	Threonine deaminase	IlvA	Isoleucine, leucine, valine biosynthesis		3IAU
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_02085	COG0144	J	16S rRNA C967 or C1407 C5-methylase, RsmB/RsmF family	RsmB	16S rRNA modification		2FRX
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_02090	COG0317	TK	(p)ppGpp synthase/hydrolase, HD superfamily	SpoT			1TDJ
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_02100	COG1639	T	HD-like signal output (HDOD) domain, no enzymatic activity	HDOD			1VQR
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_02105	COG4666	R	TRAP-type uncharacterized transport system, fused permease components				
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_02115	COG4663	Q	TRAP-type mannitol/chloroaromatic compound transport system, periplasmic component	FcbT1			2HZK
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_02135	COG2049	E	5-oxoprolinase subunit B/Allophanate hydrolase subunit 1	PxpB		28830929	2KWA
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_02140	COG5653	N	Acetyltransferase involved in cellulose biosynthesis, CelD/BcsL family	BcsL			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_02145	COG4146	R	Uncharacterized membrane permease YidK, sodium:solute symporter family	YidK			2XQ2
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_02165	COG3288	C	NAD/NADP transhydrogenase alpha subunit	PntA			1F8G
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_02175	COG0010	E	Arginase/agmatinase family enzyme	SpeB	Urea cycle		1CEV
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_02190	COG1396	K	Transcriptional regulator, contains XRE-family HTH domain	HipB			1ADR
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_02210	COG0589	T	Nucleotide-binding universal stress protein,  UspA family	UspA			1JMV
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_02215	COG2240	H	Pyridoxal/pyridoxine/pyridoxamine kinase	PdxK	Pyridoxal phosphate biosynthesis	19096365;23189126	5ZW9
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_02225	COG1593	G	TRAP-type C4-dicarboxylate transport system, large permease component	DctQ			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_02240	COG2761	O	Predicted dithiol-disulfide isomerase, DsbA/YjbH family (virulence, stress resistance)	FrnE			6GHB
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_02245	COG3258	P	Thiosulfate dehydrogenase TsdA, contains C-terminal cytochrome c domain	TsdA		32457501	
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_02250	COG1159	J	GTPase Era, involved in 16S rRNA processing	Era			1EGA
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_02255	COG1011	H	FMN and 5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YigB, HAD superfamily (riboflavin biosynthesis)	YigB		24123841	4JB3
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_02260	COG0582	LX	Integrase/recombinase, includes phage integrase	FimB			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_02270	COG0253	E	Diaminopimelate epimerase	DapF	Lysine biosynthesis		1BWZ
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_02275	COG0019	E	Diaminopimelate decarboxylase	LysA	Lysine biosynthesis		1D7K
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_02285	COG0114	C	Fumarate hydratase class II	FumC	TCA cycle		1KQ7
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_02290	COG2202	T	PAS domain	PAS			2MWG
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_02295	COG0181	H	Porphobilinogen deaminase	HemC	Heme biosynthesis		1AH5
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_02300	COG1587	H	Uroporphyrinogen-III synthase	HemD	Heme biosynthesis		1JR2
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_02305	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_02325	COG5383	R	Uncharacterized metalloenzyme YdcJ, glyoxalase superfamily	YdcJ			2RJB
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_02330	COG1801	R	Sugar isomerase-related protein YecE, UPF0759/DUF72 family	YecE			1VPQ
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_02335	COG3839	G	ABC-type sugar transport system, ATPase component MalK	MalK			2ONK
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_02340	COG3413	R	Predicted transcriptional regulator, contains HTH domain	DmsR		15716436	
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_02345	COG0057	G	Glyceraldehyde-3-phosphate dehydrogenase/erythrose-4-phosphate dehydrogenase	GapA	Glycolysis		3ZDF
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_02350	COG0469	G	Pyruvate kinase	PykF	Glycolysis		6QXL
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_02370	COG1762	GT	Phosphotransferase system mannitol/fructose-specific IIA domain (Ntr-type)	PtsN			2OQ3
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_02375	COG0524	G	Sugar or nucleoside kinase, ribokinase family	RbsK	Glycolysis		2QCV
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_02380	COG1263	G	Phosphotransferase system IIC components, glucose/maltose/N-acetylglucosamine-specific	PtsG1			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_02385	COG0166	G	Glucose-6-phosphate isomerase	Pgi	Glycolysis		1B0Z
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_02390	COG2100	R	Uncharacterized Fe-S cluster-containing enzyme, radical SAM superfamily				
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_02400	COG0474	P	Magnesium-transporting ATPase (P-type)	MgtA			1IWO
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_02410	COG0843	C	Heme/copper-type cytochrome/quinol oxidase, subunit 1	CyoB			1AR1
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_02415	COG2857	C	Cytochrome c1	CYT1			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_02420	COG4244	S	Uncharacterized membrane protein				
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_02435	COG3139	S	Uncharacterized conserved protein YeaC, DUF1315 family	yeaC			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_02445	COG4186	R	Uncharacterized conserved protein MJ1445, calcineurin-like phosphoesterase superfamily				1XM7
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_02450	COG0061	H	NAD kinase	NadK			1SUW
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_02455	COG0697	GER	Permease of the drug/metabolite transporter (DMT) superfamily	RhaT			5I20
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_02465	COG3448	T	CBS-domain-containing membrane protein				
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_02475	COG2169	L	Methylphosphotriester-DNA--protein-cysteine methyltransferase (N-terminal fragment of Ada), contains Zn-binding and two AraC-type DNA-binding domains	AdaA			1ADN
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_02480	COG1012	I	Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase	AdhE	Proline degradation		1A4S
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_02490	COG0591	E	Na+/proline symporter	PutP			5NVA
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_02500	COG3098	S	Uncharacterized conserved protein YqcC, DUF446 family	YqcC			2HGK
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_02515	COG0439	I	Biotin carboxylase	AccC	Fatty acid biosynthesis		1BNC
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_02535	COG0075	EF	Archaeal aspartate aminotransferase or a related aminotransferase, includes purine catabolism protein PucG	PucG	Serine biosynthesis		3NNK
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_02540	COG0719	O	Fe-S cluster assembly scaffold protein SufB	SufB			1VH4
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_02545	COG1123	O	ABC-type glutathione transport system ATPase component, contains duplicated ATPase domain	GsiA			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_02550	COG0719	O	Fe-S cluster assembly scaffold protein SufB	SufB			1VH4
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_02555	COG1378	K	Sugar-specific transcriptional regulator TrmB	YrhO			5BPD
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_02565	COG1881	R	Uncharacterized conserved protein, phosphatidylethanolamine-binding protein (PEBP) family	PEBP			1A44
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_02595	COG0174	E	Glutamine synthetase	GlnA	Glutamine biosynthesis		1F1H
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_02605	COG2205	T	K+-sensing histidine kinase KdpD	KdpD			2KSF
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_02610	COG4566	TK	DNA-binding response regulator, FixJ family, consists of REC and HTH domains	FixJ			1YIO
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_02625	COG2945	R	Alpha/beta superfamily hydrolase				2FUK
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_02645	COG0671	I	Membrane-associated phospholipid phosphatase	PgpB	Phospholipid biosynthesis		1D2T
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_02650	COG0297	G	Glycogen synthase	GlgA			1RZU
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_02655	COG3845	F	ABC-type guanosine uptake system NupNOPQ, ATPase component NupO	NupO		21926227	
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_02660	COG1178	P	ABC-type Fe3+ transport system, permease component	FbpB			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_02675	COG0695	O	Glutaredoxin	GrxC			1AAZ
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_02685	COG2104	H	Sulfur carrier protein ThiS (thiamine biosynthesis)	ThiS	Thiamine biosynthesis		1F0Z
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_02690	COG0214	H	Pyridoxal 5'-phosphate synthase subunit PdxS	PdxS	Pyridoxal phosphate biosynthesis		2NV2
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_02695	COG0220	J	tRNA G46 N7-methylase TrmB	TrmB	tRNA modification	19373903;16600901	1YZH
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_02700	COG0625	O	Glutathione S-transferase	GstA			1A0F
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_02705	COG0679	R	Predicted permease, AEC (auxin efflux carrier) family	YfdV			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_02720	COG3509	G	Acetyl xylan esterase AxeA and related esterases, LpqC family	LpqC		9291122	2D80
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_02725	COG1047	O	Peptidyl-prolyl cis-trans isomerase, FKBP type	SlpA			2M2A
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_02730	COG0589	T	Nucleotide-binding universal stress protein,  UspA family	UspA			1JMV
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_02735	COG1593	G	TRAP-type C4-dicarboxylate transport system, large permease component	DctQ			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_02740	COG3090	G	TRAP-type C4-dicarboxylate transport system, small permease component YiaM	DctM			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_02745	COG4663	Q	TRAP-type mannitol/chloroaromatic compound transport system, periplasmic component	FcbT1			2HZK
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_02750	COG1511	S	Uncharacterized membrane protein YhgE, phage infection protein (PIP) family	YhgE			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_02755	COG2202	T	PAS domain	PAS			2MWG
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_02785	COG0691	O	tmRNA-binding protein	SmpB		26251518	1J1H
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_02790	COG2867	J	Ribosome association toxin PasT (RatA) of the RatAB toxin-antitoxin module	PasT		21323758	1T17
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_02795	COG2914	V	Putative antitoxin component PasI (RatB) of the RatAB toxin-antitoxin module, ubiquitin-RnfH superfamily	PasI		23055930	2HJ1
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_02800	COG2913	M	Outer membrane protein assembly factor BamE, lipoprotein component of the BamABCDE complex	BamE			2KM7
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_02815	COG2050	Q	Acyl-CoA thioesterase PaaI, contains HGG motif	PaaI			1PSU
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_02820	COG1541	H	Phenylacetate-coenzyme A ligase PaaK, adenylate-forming domain family	PaaK			2Y4O
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_02830	COG0111	H	Phosphoglycerate dehydrogenase or related dehydrogenase	SerA	Serine biosynthesis		3OET
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_02835	COG1250	I	3-hydroxyacyl-CoA dehydrogenase	FadB	Fatty acid biosynthesis		5ZQZ
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_02840	COG0304	IQ	3-oxoacyl-(acyl-carrier-protein) synthase	FabB	Fatty acid biosynthesis	21652641	2UV8
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_02845	COG1414	K	DNA-binding transcriptional regulator, IclR family	IclR			1MKM
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_02850	COG0767	M	Permease subunit MlaE of the ABC-type intermembrane phospholipid transporter Mla	MlaE			6IC4
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_02855	COG3638	P	ABC-type phosphate/phosphonate transport system, ATPase component	PhnC			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_02860	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_02865	COG3009	M	Intermembrane transporter PqiABC lipoprotein subunit PqiC	PqiC		27795327	6OSX
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_02870	COG0515	T	Serine/threonine protein kinase	SPS1			6G4J
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_02875	COG0508	C	Pyruvate/2-oxoglutarate dehydrogenase complex, dihydrolipoamide acyltransferase (E2) component	AceF	Pyruvate oxidation		1B5S
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_02880	COG3958	G	Transketolase, C-terminal subunit	TktA2			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_02895	COG0100	J	Ribosomal protein S11	RpsK	Ribosome 30S subunit		4V4H
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_02900	COG1189	J	Predicted rRNA methylase YqxC, contains S4 and FtsJ domains	YqxC			3OPN
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_02905	COG0202	K	DNA-directed RNA polymerase, alpha subunit/40 kD subunit	RpoA	RNA polymerase		4KN7
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_02910	COG0203	J	Ribosomal protein L17	RplQ	Ribosome 50S subunit		1GD8
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_02915	COG3087	D	Cell division protein FtsN	FtsN			1UTA
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_02920	COG0697	GER	Permease of the drug/metabolite transporter (DMT) superfamily	RhaT			5I20
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_02930	COG2259	S	Uncharacterized membrane protein YphA, DoxX/SURF4 family	DoxX			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_02935	COG2005	K	DNA-binding transcriptional regulator ModE (molybdenum-dependent)	ModE		19779461	1B9M
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_02940	COG0352	H	Thiamine monophosphate synthase	ThiE	Thiamine biosynthesis	19060138	1G4T
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_02945	COG2145	H	Hydroxyethylthiazole kinase, sugar kinase family	ThiM	Thiamine biosynthesis		1C3Q
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_02950	COG0346	Q	Catechol 2,3-dioxygenase or related enzyme, vicinal oxygen chelate (VOC) family	GloA		11830595	3R4Q
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_02960	COG3806	T	Anti-sigma factor ChrR, cupin superfamily	ChrR			2Q1Z
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_02970	COG2522	K	Predicted transcriptional regulator, contains XRE-type HTH domain	AF0184			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_02975	COG4531	P	ABC-type Zn2+ transport system, periplasmic component/surface adhesin ZnuA	ZnuA			2OGW
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_02985	COG3840	H	ABC-type thiamine transport system, ATPase component ThiQ	ThiQ			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_03045	COG1363	EG	Putative aminopeptidase FrvX	FrvX			1VHE
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_03055	COG0536	DL	GTPase involved in cell partioning and DNA repair	Obg			1LNZ
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_03060	COG0193	J	Peptidyl-tRNA hydrolase	Pth	Translation factors	11835511	1RYB
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_03070	COG0462	F	Phosphoribosylpyrophosphate synthetase	PrsA	Histidine biosynthesis, Purine biosynthesis		1DKR
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_03080	COG0083	E	Homoserine kinase	ThrB	Threonine biosynthesis		1FWK
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_03090	COG5010	UW	Flp pilus assembly protein TadD, contains TPR repeats	TadD			3WXX
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_03095	COG0169	E	Shikimate 5-dehydrogenase	AroE	Aromatic amino acid biosynthesis		1NPD
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_03100	COG0216	J	Protein chain release factor RF1	PrfA	Translation factors		1RQ0
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_03105	COG4123	J	tRNA1(Val) A37 N6-methylase TrmN6	TrmN6	tRNA modification		
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_03115	COG1179	J	tRNA A37 threonylcarbamoyladenosine dehydratase	TcdA	tRNA modification	27913733	4D7A
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_03120	COG3634	V	Alkyl hydroperoxide reductase subunit AhpF	AhpF			4YKG
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_03125	COG0678	O	Peroxiredoxin	AHP1			1H4O
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_03135	COG1134	G	ABC-type polysaccharide/polyol phosphate transport system, ATPase component	TagH			6JBH
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_03140	COG1177	E	ABC-type spermidine/putrescine transport system, permease component II	PotC			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_03145	COG1178	P	ABC-type Fe3+ transport system, permease component	FbpB			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_03160	COG0841	V	Multidrug efflux pump subunit AcrB	AcrB			1IWG
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_03165	COG1566	V	Multidrug resistance efflux pump EmrA	EmrA			4TKO
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_03170	COG1053	C	Succinate dehydrogenase/fumarate reductase, flavoprotein subunit	SdhA	TCA cycle		1KF6
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_03190	COG1506	E	Dipeptidyl aminopeptidase/acylaminoacyl peptidase	DAP2			2JBW
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_03195	COG1360	N	Flagellar motor protein MotB	MotB			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_03200	COG1729	D	Cell division protein CpoB, coordinates peptidoglycan biosynthesis and outer membrane constriction	CpoB		25951518	2WZ7
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_03205	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_03210	COG1011	H	FMN and 5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YigB, HAD superfamily (riboflavin biosynthesis)	YigB		24123841	4JB3
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_03215	COG2230	I	Cyclopropane fatty-acyl-phospholipid synthase and related methyltransferases	Cfa			5Z9O
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_03220	COG0677	M	UDP-N-acetyl-D-mannosaminuronate dehydrogenase	WecC			3OJL
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_03225	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_03230	COG2831	U	Hemolysin activation/secretion protein	FhaC			2MHJ
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_03235	COG2911	U	Autotransporter translocation and assembly protein TamB	TamB			5VTG
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_03240	COG0225	O	Peptide methionine sulfoxide reductase MsrA	MsrA			1FF3
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_03245	COG3909	C	Cytochrome c556	CytC556			1E83
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_03250	COG0288	P	Carbonic anhydrase	CynT		22081392	1EKJ
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_03255	COG1251	C	NAD(P)H-nitrite reductase, large subunit	NirB			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_03260	COG1670	JO	Protein N-acetyltransferase, RimJ/RimL family	RimL			1S7F
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_03265	COG0001	H	Glutamate-1-semialdehyde aminotransferase	HemL	Heme biosynthesis		2CFB
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_03275	COG4067	S	Uncharacterized conserved protein				
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_03285	COG0189	EHJQ	Glutathione synthase, LysX or RimK-type ligase, ATP-grasp superfamily	LysX	Lysine biosynthesis		1GLV
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_03290	COG1414	K	DNA-binding transcriptional regulator, IclR family	IclR			1MKM
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_03295	COG0139	E	Phosphoribosyl-AMP cyclohydrolase	HisI1	Histidine biosynthesis		1ZPS
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_03305	COG2166	O	Sulfur transfer protein SufE, Fe-S cluster assembly	SufE			1MZG
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_03310	COG4973	L	Site-specific recombinase XerC	XerC			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_03325	COG2963	X	Transposase InsE and inactivated derivatives	InsE		23818957	2JN6
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_03330	COG2234	OE	Zn-dependent amino- or carboxypeptidase, M28 family	Iap			1AMP
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_03335	COG2814	G	Predicted arabinose efflux permease AraJ, MFS family	AraJ			4LDS
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_03340	COG0733	R	Na+-dependent transporter, SNF family	YocR			2A65
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_03360	COG0596	HR	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold	MenH	Menaquinone biosynthesis		4MYS
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_03370	COG4667	I	Predicted phospholipase, patatin/cPLA2 family	YjjU			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_03375	COG1193	L	dsDNA-specific endonuclease/ATPase MutS2	MutS2			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_03380	COG2813	J	16S rRNA G1207 methylase RsmC	RsmC	16S rRNA modification		1DUS
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_03385	COG0082	E	Chorismate synthase	AroC	Aromatic amino acid biosynthesis		1Q1L
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_03400	COG3243	I	Poly-beta-hydroxybutyrate synthase	PhaC			5XAV
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_03405	COG0815	M	Apolipoprotein N-acyltransferase	Lnt			6NWR
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_03410	COG1253	R	Hemolysin-related protein, contains CBS domains, UPF0053 family	TlyC			2NQW
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_03415	COG0319	J	ssRNA-specific RNase YbeY, 16S rRNA maturation enzyme	YbeY	16S rRNA modification	17407324;23543739	1XM5
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_03420	COG1702	T	Phosphate starvation-inducible protein PhoH, predicted ATPase	PhoH		8444794;12762842	3B85
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_03425	COG1032	R	Radical SAM superfamily enzyme YgiQ, UPF0313 family	YgiQ			6FD2
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_03445	COG0640	K	DNA-binding transcriptional regulator, ArsR family	ArsR			3F6V
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_03450	COG0793	O	C-terminal processing protease CtpA/Prc, contains a PDZ domain	CtpA			6IQU
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_03455	COG1362	E	Aspartyl aminopeptidase	LAP4			1Y7E
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_03480	COG2372	P	Copper-binding protein CopC (methionine-rich)	CopC			1IX2
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_03485	COG1276	P	Putative copper export protein	PcoD			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_03500	COG4454	R	Uncharacterized copper-binding protein, cupredoxin-like subfamily				
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_03505	COG0784	T	CheY-like REC (receiver) domain, includes chemotaxis protein CheY  and sporulation regulator Spo0F	CheY			6QRJ
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_03520	COG3667	P	Uncharacterized conserved protein involved in copper resistance	PcoB			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_03535	COG3328	X	Transposase (or an inactivated derivative)	IS285			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_03550	COG4232	O	Thiol:disulfide interchange protein DsbD	DsbD			1JPE
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_03555	COG0678	O	Peroxiredoxin	AHP1			1H4O
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_03560	COG0789	K	DNA-binding transcriptional regulator, MerR family	SoxR			2VZ4
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_03565	COG2217	P	Cation-transporting P-type ATPase	ZntA			4BBJ
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_03570	COG0087	J	Ribosomal protein L3	RplC	Ribosome 50S subunit		1VS6
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_03575	COG0088	J	Ribosomal protein L4	RplD	Ribosome 50S subunit		1VS6
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_03585	COG0090	J	Ribosomal protein L2	RplB	Ribosome 50S subunit		1VS6
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_03590	COG0185	J	Ribosomal protein S19	RpsS	Ribosome 30S subunit		4V4H
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_03600	COG1847	R	Predicted RNA-binding protein Jag (SpoIIIJ-associated), conains KH and R3H domains	Jag			3GKU
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_03605	COG0197	J	Ribosomal protein L16/L10AE	RplP	Ribosome 50S subunit		1WKI
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_03610	COG0255	J	Ribosomal protein L29	RpmC	Ribosome 50S subunit		1VS6
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_03620	COG0093	J	Ribosomal protein L14	RplN	Ribosome 50S subunit		4V4H
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_03630	COG0094	J	Ribosomal protein L5	RplE	Ribosome 50S subunit		1VS6
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_03635	COG0199	J	Ribosomal protein S14	RpsN	Ribosome 30S subunit		4V4H
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_03640	COG0096	J	Ribosomal protein S8	RpsH	Ribosome 30S subunit		4V4H
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_03645	COG0097	J	Ribosomal protein L6P/L9E	RplF	Ribosome 50S subunit		1VS6
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_03660	COG1841	J	Ribosomal protein L30/L7E	RpmD	Ribosome 50S subunit		1VS6
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_03665	COG1727	J	Ribosomal protein L18E	RPL18A	Archaeal ribosomal proteins		
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_03670	COG0201	U	Preprotein translocase subunit SecY	SecY			1RH5
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_03675	COG0616	O	Periplasmic serine protease, ClpP class	SppA			3BEZ
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_03680	COG0640	K	DNA-binding transcriptional regulator, ArsR family	ArsR			3F6V
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_03685	COG0365	I	Acyl-coenzyme A synthetase/AMP-(fatty) acid ligase	Acs		14638756	4B2O
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_03695	COG1075	I	Triacylglycerol esterase/lipase EstA, alpha/beta hydrolase fold	EstA			1I6W
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_03705	COG1253	R	Hemolysin-related protein, contains CBS domains, UPF0053 family	TlyC			2NQW
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_03720	COG2929	S	Uncharacterized conserved protein, DUF497 family				3U97
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_03730	COG1007	C	NADH:ubiquinone oxidoreductase subunit 2 (chain N)	NuoN	NADH dehydrogenase		4HE8
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_03735	COG3002	C	Na+-translocating membrane potential-generating system subunit MpsB, UPF0753/DUF2309 family	MpsB		21467222;25448817	
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_03755	COG2923	J	Sulfur transfer complex TusBCD TusC component, DsrF family	DsrF			2D1P
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_03760	COG2168	J	Sulfur transfer complex TusBCD TusB component, DsrH family	TusB			1RHX
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_03770	COG1396	K	Transcriptional regulator, contains XRE-family HTH domain	HipB			1ADR
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_03775	COG0123	Q	Acetoin utilization deacetylase AcuC or a related deacetylase	AcuC			1C3P
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_03780	COG0074	C	Succinyl-CoA synthetase, alpha subunit	SucD	TCA cycle		1CQI
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_03785	COG5135	S	Uncharacterized conserved protein				2I51
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_03790	COG1969	C	Ni,Fe-hydrogenase I cytochrome b subunit	HyaC			4GD3
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_03795	COG3308	S	Uncharacterized membrane protein				
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_03805	COG0545	O	FKBP-type peptidyl-prolyl cis-trans isomerase	FkpA			1A7X
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_03810	COG0761	I	4-Hydroxy-3-methylbut-2-enyl diphosphate reductase IspH	IspH	Isoprenoid biosynthesis		3DNF
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_03820	COG4967	NW	Type IV pilus assembly protein PilV	PilV			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_03825	COG4966	NW	Type IV pilus assembly protein PilW	PilW			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_03830	COG4726	NW	Type IV pilus assembly protein PilX	PilX			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_03835	COG0162	J	Tyrosyl-tRNA synthetase	TyrS	Aminoacyl-tRNA synthetases		4OUD
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_03840	COG2391	R	Uncharacterized membrane protein YedE/YeeE, contains two sulfur transport domains	YedE			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_03850	COG0281	C	Malic enzyme	SfcA	Urea cycle		1DO8
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_03855	COG0066	E	3-isopropylmalate dehydratase small subunit	LeuD	Isoleucine, leucine, valine biosynthesis		3Q3W
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_03860	COG1249	C	Dihydrolipoamide dehydrogenase (E3) component of pyruvate/2-oxoglutarate dehydrogenase complex or glutathione oxidoreductase	Lpd	Glycine cleavagePyruvate oxidation		6QKG
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_03865	COG4970	NW	Type IV pilus assembly protein FimT	FimT		17322192;28771515	
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_03870	COG0578	C	Glycerol-3-phosphate dehydrogenase	GlpA	Isoprenoid biosynthesis		2RGH
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_03880	COG1606	R	ATP-utilizing enzyme, PP-loop superfamily				6B2O
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_03885	COG1729	D	Cell division protein CpoB, coordinates peptidoglycan biosynthesis and outer membrane constriction	CpoB		25951518	2WZ7
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_03890	COG1187	J	Pseudouridylate synthase RsuA, specific for 16S rRNA U516  and 23S rRNA U2605	RsuA	16S rRNA modification		1KSK
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_03900	COG0608	L	ssDNA-specific exonuclease RecJ, DHH superfamily, may be involved in archaeal DNA replication intiation	RecJ			1IR6
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_03905	COG0498	E	Threonine synthase	ThrC	Threonine biosynthesis		1VB3
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_03910	COG0460	E	Homoserine dehydrogenase	ThrA	Methionine biosynthesis	29124164	5AVO
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_03915	COG2143	O	Thioredoxin-related protein SoxW	SoxW			4FYB
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_03920	COG0582	LX	Integrase/recombinase, includes phage integrase	FimB			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_03930	COG0336	J	tRNA G37 N-methylase TrmD	TrmD	tRNA modification		1P9P
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_03935	COG0806	J	Ribosomal 30S subunit maturation factor RimM, required for 16S rRNA processing	RimM	16S rRNA modification		2QGG
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_03945	COG0541	U	Signal recognition particle GTPase	Ffh			2V3C
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_03955	COG4536	P	Mg2+ and Co2+ transporter CorB, contains DUF21, CBS pair, and CorC-HlyC domains	CorB		1779764	
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_03960	COG3176	R	Putative hemolysin				
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_03975	COG0612	R	Predicted Zn-dependent peptidase, M16 family	PqqL			6OFS
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_03990	COG1149	R	MinD superfamily P-loop ATPase, contains an inserted ferredoxin domain				
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_03995	COG0850	D	Septum site-determining protein MinC	MinC			1HF2
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_04005	COG0300	R	Short-chain dehydrogenase	YqjQ			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_04010	COG1593	G	TRAP-type C4-dicarboxylate transport system, large permease component	DctQ			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_04015	COG0685	E	5,10-methylenetetrahydrofolate reductase	MetF			1B5T
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_04020	COG0679	R	Predicted permease, AEC (auxin efflux carrier) family	YfdV			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_04030	COG0192	H	S-adenosylmethionine synthetase	MetK	Methionine biosynthesis		1FUG
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_04035	COG1071	C	TPP-dependent pyruvate or acetoin dehydrogenase subunit alpha	AcoA	Pyruvate oxidation		1DTW
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_04055	COG0136	E	Aspartate-semialdehyde dehydrogenase	Asd	Lysine biosynthesis		1BRM
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_04060	COG1593	G	TRAP-type C4-dicarboxylate transport system, large permease component	DctQ			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_04070	COG4663	Q	TRAP-type mannitol/chloroaromatic compound transport system, periplasmic component	FcbT1			2HZK
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_04075	COG1846	K	DNA-binding transcriptional regulator, MarR family	MarR			1JGS
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_04090	COG4206	H	Outer membrane cobalamin receptor protein BtuB	BtuB			1NQE
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_04115	COG2766	T	Predicted Ser/Thr protein kinase	PrkA			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_04120	COG0076	E	Glutamate or tyrosine decarboxylase or a related PLP-dependent protein	GadA	Pantothenate/CoA biosynthesis		1XEY
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_04125	COG0493	ER	NADPH-dependent glutamate synthase beta chain or related oxidoreductase	GltD	Glutamine biosynthesis		1H7X
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_04130	COG0697	GER	Permease of the drug/metabolite transporter (DMT) superfamily	RhaT			5I20
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_04135	COG0815	M	Apolipoprotein N-acyltransferase	Lnt			6NWR
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_04140	COG3695	K	Alkylated DNA nucleotide flippase Atl1, participates in nucleotide excision repair, Ada-like DNA-binding domain	Atl1		19516334	2KIF
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_04145	COG2249	R	Putative NADPH-quinone reductase (modulator of drug activity B)	MdaB			1D4A
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_04170	COG4592	P	ABC-type Fe2+-enterobactin transport system, periplasmic component	FepB			2M6K
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_04190	COG0053	P	Divalent metal cation (Fe/Co/Zn/Cd) efflux pump	FieF			2QFI
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_04200	COG2002	KV	Bifunctional DNA-binding transcriptional regulator of stationary/sporulation/toxin gene expression and antitoxin component of the YhaV-PrlF toxin-antitoxin module	AbrB			2RO5
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_04215	COG4772	P	Outer membrane receptor for Fe3+-dicitrate	FecA			1KMP
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_04230	COG0679	R	Predicted permease, AEC (auxin efflux carrier) family	YfdV			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_04240	COG4192	T	Signal transduction histidine kinase regulating phosphoglycerate transport system				
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_04245	COG0784	T	CheY-like REC (receiver) domain, includes chemotaxis protein CheY  and sporulation regulator Spo0F	CheY			6QRJ
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_04260	COG4615	P	ABC-type siderophore export system, fused ATPase and permease components	PvdE			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_04265	COG1174	E	ABC-type proline/glycine betaine transport system, permease component	OpuBB			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_04285	COG3193	T	Heme-binding protein HbpS, GlcG/HbpS family	GlcG		19244623;25342754	2A2L
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_04290	COG1139	C	L-lactate utilization protein LutB, contains a ferredoxin-type domain	LutB			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_04300	COG0812	M	UDP-N-acetylenolpyruvoylglucosamine reductase	MurB	Mureine biosynthesis		2MBR
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_04305	COG1620	C	L-lactate permease	LldP			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_04315	COG0188	L	DNA gyrase/topoisomerase IV, subunit A	GyrA			1SUU
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_04320	COG3884	I	Acyl-ACP thioesterase	FatA			2ESS
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_04340	COG0495	J	Leucyl-tRNA synthetase	LeuS	Aminoacyl-tRNA synthetases		6LPF
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_04345	COG4660	C	Na+-translocating ferredoxin:NAD+ oxidoreductase  RNF, RnfE subunit	RnfE	Na+-translocating Fd:NADH oxidoreductase		
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_04350	COG1149	R	MinD superfamily P-loop ATPase, contains an inserted ferredoxin domain				
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_04355	COG1139	C	L-lactate utilization protein LutB, contains a ferredoxin-type domain	LutB			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_04360	COG1805	C	Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrB	NqrB	Na+-translocating NADH dehydrogenase		4P6V
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_04365	COG3976	R	Uncharacterized conserved protein, contains FMN-binding domain				
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_04370	COG4657	C	Na+-translocating ferredoxin:NAD+ oxidoreductase RNF, RnfA subunit	RnfA	Na+-translocating Fd:NADH oxidoreductase		
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_04375	COG1194	L	Adenine-specific DNA glycosylase, acts on AG and A-oxoG pairs	MutY			1KG2
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_04380	COG0438	M	Glycosyltransferase involved in cell wall bisynthesis	RfaB			2IV7
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_04385	COG0784	T	CheY-like REC (receiver) domain, includes chemotaxis protein CheY  and sporulation regulator Spo0F	CheY			6QRJ
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_04390	COG0749	L	DNA polymerase I, 3'-5' exonuclease and polymerase domains	PolA			1D8Y
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_04400	COG5000	T	Signal transduction histidine kinase NtrY involved in nitrogen fixation and metabolism regulation	NtrY			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_04405	COG5453	S	Uncharacterized conserved protein				
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_04410	COG0137	E	Argininosuccinate synthase	ArgG	Arginine biosynthesis		1J1Z
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_04415	COG2176	L	DNA polymerase III, alpha subunit (gram-positive type)	PolC			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_04425	COG0631	T	Serine/threonine protein phosphatase PrpC	PTC1			6IHL
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_04435	COG0785	CO	Cytochrome c biogenesis protein CcdA	CcdA			5VKV
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_04440	COG1038	C	Pyruvate carboxylase	PycA	Urea cycle		5VYW
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_04445	COG0439	I	Biotin carboxylase	AccC	Fatty acid biosynthesis		1BNC
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_04455	COG1139	C	L-lactate utilization protein LutB, contains a ferredoxin-type domain	LutB			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_04475	COG0387	P	Cation (Ca2+/Na+/K+)/H+ antiporter ChaA	ChaA		18801996	4KJS
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_04485	COG1192	DN	ParA-like ATPase involved in chromosome/plasmid partitioning or cellulose biosynthesis protein BcsQ	ParA			6NOO
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_04490	COG0596	HR	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold	MenH	Menaquinone biosynthesis		4MYS
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_04495	COG1182	C	FMN-dependent NADH-azoreductase	AzoR			1TIK
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_04500	COG0591	E	Na+/proline symporter	PutP			5NVA
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_04505	COG0169	E	Shikimate 5-dehydrogenase	AroE	Aromatic amino acid biosynthesis		1NPD
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_04515	COG2452	X	Predicted site-specific integrase-resolvase				3ILX
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_04535	COG2183	K	Transcriptional accessory protein Tex/SPT6	Tex			2OCE
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_04540	COG1102	F	Cytidylate kinase	CmkB			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_04545	COG0128	E	5-enolpyruvylshikimate-3-phosphate synthase	AroA	Aromatic amino acid biosynthesis		4N3P
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_04550	COG1023	G	6-phosphogluconate dehydrogenase (decarboxylating)	YqeC			4E21
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_04555	COG1167	KE	DNA-binding transcriptional regulator, MocR family, contains an aminotransferase domain	ARO8	Lysine biosynthesis		2R2N
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_04565	COG0215	J	Cysteinyl-tRNA synthetase	CysS	Aminoacyl-tRNA synthetases		1LI5
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_04575	COG0517	T	CBS domain	CBS			1B3O
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_04580	COG4774	P	Outer membrane receptor for monomeric catechols	Fiu			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_04585	COG3712	PT	Periplasmic ferric-dicitrate binding protein FecR, regulates iron transport	FecR			5CAM
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_04590	COG2390	K	DNA-binding transcriptional regulator LsrR, DeoR family	DeoR		23974133;24893262	2GNP
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_04595	COG4108	J	Peptide chain release factor RF-3	PrfC	Translation factors		3UOQ
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_04600	COG1396	K	Transcriptional regulator, contains XRE-family HTH domain	HipB			1ADR
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_04645	COG2875	H	Precorrin-4 methylase	CobM	Cobalamine/B12 biosynthesis		4E16
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_04650	COG1029	C	Formylmethanofuran dehydrogenase subunit B	FwdB			5T5I
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_04655	COG0493	ER	NADPH-dependent glutamate synthase beta chain or related oxidoreductase	GltD	Glutamine biosynthesis		1H7X
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_04660	COG2221	P	Dissimilatory sulfite reductase (desulfoviridin), alpha and beta subunits	DsrA			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_04670	COG1230	P	Co/Zn/Cd efflux system component	CzcD			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_04675	COG0477	GEPR	MFS family permease, includes anhydromuropeptide permease AmpG	ProP		12426329	
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_04680	COG1168	ER	Bifunctional PLP-dependent enzyme with beta-cystathionase and maltose regulon repressor activities	MalY			4DGT
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_04695	COG0473	CE	Isocitrate/isopropylmalate dehydrogenase	LeuB	TCA cycle		1GC9
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_04705	COG1595	K	DNA-directed RNA polymerase specialized sigma subunit, sigma24 family	RpoE	RNA polymerase		2Q1Z
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_04710	COG1225	O	Peroxiredoxin	Bcp			5IPH
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_04715	COG4535	P	Mg2+ and Co2+ transporter CorC, contains CBS pair and CorC-HlyC domains	CorC		1779764	4HG0
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_04720	COG1002	V	Type II restriction/modification system, endonuclease and methylase domains	YeeA			5HR4
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_04745	COG0402	FR	Cytosine/adenosine deaminase or related metal-dependent hydrolase	SsnA	Pyrimidine salvage		3O7U
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_04750	COG3839	G	ABC-type sugar transport system, ATPase component MalK	MalK			2ONK
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_04755	COG1136	M	ABC-type lipoprotein export system, ATPase component	LolD			5GKO
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_04760	COG1294	C	Cytochrome bd-type quinol oxidase, subunit 2	AppB			6RKO
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_04765	COG1271	C	Cytochrome bd-type quinol oxidase, subunit 1	AppC			5DOQ
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_04770	COG0530	P	Ca2+/Na+ antiporter	ECM27			3V5S
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_04775	COG2995	M	Intermembrane transporter PqiABC subunit PqiA	PqiA		27795327	
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_04780	COG1463	M	Periplasmic subunit MlaD of the ABC-type intermembrane phospholipid transporter Mla	MlaD			5UW8
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_04785	COG3218	R	ABC-type uncharacterized transport system, auxiliary component				2IQI
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_04790	COG1205	L	ATP-dependent helicase YprA,  contains C-terminal metal-binding DUF1998 domain	YprA			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_04800	COG2814	G	Predicted arabinose efflux permease AraJ, MFS family	AraJ			4LDS
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_04820	COG5637	S	Uncharacterized protein, contains SRPBCC domain				3GGN
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_04825	COG0482	J	tRNA U34 2-thiouridine synthase MnmA/TrmU, contains the PP-loop ATPase domain	MnmA	tRNA modification	25825430	2HMA
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_04830	COG1180	O	Pyruvate-formate lyase-activating enzyme	PflA			3CAN
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_04840	COG3629	K	DNA-binding transcriptional regulator DnrI/AfsR/EmbR, SARP family, contains BTAD domain	DnrI		12625841	2FEZ
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_04850	COG1049	C	Aconitase B	AcnB	TCA cycle		1L5J
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_04855	COG0684	J	RNA degradosome component RraA (regulator of RNase E activity)	RraA		20471400	1J3L
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_04865	COG0405	E	Gamma-glutamyltranspeptidase	Ggt		16618936	2Z8I
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_04870	COG3848	T	Phosphohistidine swiveling domain of PEP-utilizing enzymes	PykA2			2E28
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_04880	COG2065	F	Pyrimidine operon attenuation protein PyrR/uracil phosphoribosyltransferase	PyrR	Pyrimidine salvage		1A3C
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_04885	COG1472	G	Periplasmic beta-glucosidase and related glycosidases	BglX			2X40
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_04890	COG3786	M	L,D-peptidoglycan transpeptidase YkuD, ErfK/YbiS/YcfS/YnhG family			16647082	
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_04895	COG1309	K	DNA-binding protein, AcrR family, includes nucleoid occlusion protein SlmA	AcrR			2QOP
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_04900	COG3413	R	Predicted transcriptional regulator, contains HTH domain	DmsR		15716436	
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_04905	COG3235	S	Uncharacterized membrane protein				
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_04910	COG0223	J	Methionyl-tRNA formyltransferase	Fmt			1FMT
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_04915	COG1236	J	RNA processing exonuclease, beta-lactamase fold, Cft2 family	YSH1			2DKF
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_04920	COG0314	H	Molybdopterin synthase catalytic subunit MoaE	MoaE	Molybdopterin biosynthesis	32239579	1FM0
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_04925	COG1977	H	Molybdopterin synthase sulfur carrier subunit MoaD	MoaD	Molybdopterin biosynthesis	32239579	1FM0
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_04935	COG0659	P	Sulfate permease or related transporter, MFS superfamily	SUL1			3NY7
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_04940	COG0634	F	Hypoxanthine-guanine phosphoribosyltransferase	HptA	Purine salvage		1G9S
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_04945	COG0692	L	Uracil-DNA glycosylase	Ung		16237021	1AKZ
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_04950	COG0503	F	Adenine/guanine phosphoribosyltransferase or related PRPP-binding protein	Apt	Purine salvage		1QB7
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_04955	COG0461	F	Orotate phosphoribosyltransferase	PyrE	Pyrimidine biosynthesis		4WML
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_04960	COG0659	P	Sulfate permease or related transporter, MFS superfamily	SUL1			3NY7
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_04965	COG0307	H	Riboflavin synthase alpha chain	RibC	Riboflavin/FAD biosynthesis		1I8D
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_04970	COG1129	G	ABC-type sugar transport system, ATPase component	MglA			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_04975	COG0581	P	ABC-type phosphate transport system, permease component	PstA			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_04980	COG1464	P	ABC-type metal ion transport system, periplasmic component/surface antigen	NlpA			1P99
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_04985	COG0447	H	1,4-Dihydroxy-2-naphthoyl-CoA synthase	MenB	Menaquinone biosynthesis		4ELS
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_04990	COG1055	P	Na+/H+ antiporter NhaD or related arsenite permease	ArsB			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_04995	COG2378	K	Predicted DNA-binding transcriptional regulator YobV, contains HTH and WYL domains	YobV			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_05000	COG0554	C	Glycerol kinase	GlpK			2ZF5
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_05010	COG0579	G	L-2-hydroxyglutarate oxidase LhgO	LhgO			3DME
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_05020	COG5477	S	Predicted small integral membrane protein			15071504	
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_05025	COG1178	P	ABC-type Fe3+ transport system, permease component	FbpB			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_05030	COG1178	P	ABC-type Fe3+ transport system, permease component	FbpB			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_05035	COG1121	P	ABC-type Mn2+/Zn2+ transport system, ATPase component	ZnuC			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_05040	COG1101	R	ABC-type uncharacterized transport system, ATPase component	PhnK			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_05050	COG2303	IR	Choline dehydrogenase or related flavoprotein	BetA	Non-phosphorylated Entner-Doudoroff pathway		1B4V
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_05055	COG1012	I	Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase	AdhE	Proline degradation		1A4S
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_05060	COG1309	K	DNA-binding protein, AcrR family, includes nucleoid occlusion protein SlmA	AcrR			2QOP
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_05065	COG2113	E	ABC-type proline/glycine betaine transport system, periplasmic component	ProX			1R9L
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_05070	COG1099	R	Predicted metal-dependent hydrolase, TIM-barrel fold				3GUW
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_05075	COG4108	J	Peptide chain release factor RF-3	PrfC	Translation factors		3UOQ
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_05085	COG0579	G	L-2-hydroxyglutarate oxidase LhgO	LhgO			3DME
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_05090	COG3434	T	c-di-GMP phosphodiesterase YuxH/PdeH, contains EAL and HDOD domains	YuxH		23893111	
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_05115	COG0190	H	5,10-methylene-tetrahydrofolate dehydrogenase/Methenyl tetrahydrofolate cyclohydrolase	FolD			1A4I
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_05125	COG0044	F	Dihydroorotase or related cyclic amidohydrolase	AllB	Pyrimidine biosynthesis		1J79
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_05135	COG4191	T	Signal transduction histidine kinase regulating C4-dicarboxylate transport system				4GCZ
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_05140	COG2204	T	DNA-binding transcriptional response regulator, NtrC family, contains REC, AAA-type ATPase, and a Fis-type DNA-binding domains	AtoC			1ZY2
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_05145	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_05155	COG0695	O	Glutaredoxin	GrxC			1AAZ
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_05160	COG2057	I	Acyl-CoA:acetate/3-ketoacid CoA transferase, beta subunit	AtoA			5DBN
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_05165	COG4670	I	Acyl CoA:acetate/3-ketoacid CoA transferase	YdiF			5VIT
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_05170	COG1846	K	DNA-binding transcriptional regulator, MarR family	MarR			1JGS
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_05175	COG0204	I	1-acyl-sn-glycerol-3-phosphate acyltransferase	PlsC	Phospholipid biosynthesis		1IUQ
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_05180	COG4942	D	Septal ring factor EnvC, activator of murein hydrolases AmiA and AmiB	EnvC			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_05185	COG0354	O	Folate-binding protein YgfZ, synthesis and repair of Fe-S clusters	YgfZ		27941785;22081392	1NRK
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_05190	COG1115	E	Na+/alanine symporter	AlsT			6CSE
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_05200	COG0509	E	Glycine cleavage system protein H (lipoate-binding)	GcvH	Glycine cleavage		1DXM
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_05205	COG1003	E	Glycine cleavage system protein P (pyridoxal-binding), C-terminal domain	GcvP2	Glycine cleavage		4LGL
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_05210	COG2005	K	DNA-binding transcriptional regulator ModE (molybdenum-dependent)	ModE		19779461	1B9M
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_05235	COG3666	X	Transposase, IS1182 family				
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_05240	COG1249	C	Dihydrolipoamide dehydrogenase (E3) component of pyruvate/2-oxoglutarate dehydrogenase complex or glutathione oxidoreductase	Lpd	Glycine cleavagePyruvate oxidation		6QKG
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_05250	COG1159	J	GTPase Era, involved in 16S rRNA processing	Era			1EGA
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_05255	COG0706	M	Membrane protein insertase Oxa1/YidC/SpoIIIJ	YidC			3WO6
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_05260	COG0594	J	RNase P protein component	RnpA			1A6F
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_05265	COG0230	J	Ribosomal protein L34	RpmH	Ribosome 50S subunit		6SPB
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_05270	COG1484	L	DNA replication protein DnaC	DnaC			2QGZ
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_05275	COG0592	L	DNA polymerase III sliding clamp (beta) subunit, PCNA homolog	DnaN			1JQJ
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_05280	COG1106	R	ATPase/GTPase, AAA15 family				
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_05290	COG0647	F	Ribonucleotide monophosphatase NagD, HAD superfamily	NagD			1PW5
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_05295	COG0751	J	Glycyl-tRNA synthetase, beta subunit	GlyS	Aminoacyl-tRNA synthetases		
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_05300	COG0752	J	Glycyl-tRNA synthetase, alpha subunit	GlyQ	Aminoacyl-tRNA synthetases		1J5W
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_05305	COG1087	M	UDP-glucose 4-epimerase	GalE			1A9Y
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_05315	COG3007	I	Trans-2-enoyl-CoA reductase				3S8M
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_05325	COG0386	VI	Thioredoxin/glutathione peroxidase BtuE, reduces lipid peroxides	BtuE		22931285	2P5Q
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_05335	COG0217	KJ	Transcriptional and/or translational regulatory protein YebC/TACO1	TACO1			1KON
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_05340	COG0668	M	Small-conductance mechanosensitive channel	MscS			2OAU
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_05355	COG1062	C	Zn-dependent alcohol/formaldehyde dehydrogenase	FrmA			1A71
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_05360	COG0411	E	ABC-type branched-chain amino acid transport system, ATPase component LivG	LivG		29514851	1G9X
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_05365	COG0708	L	Exonuclease III	XthA			1AKO
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_05370	COG0856	F	Orotate phosphoribosyltransferase homolog	PyrE2			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_05375	COG0566	J	tRNA G18 (ribose-2'-O)-methylase SpoU	SpoU	tRNA modification		1GZ0
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_05380	COG0210	L	Superfamily I DNA or RNA helicase	UvrD			6PPR
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_05385	COG3245	C	Cytochrome c5	CytC5			1CC5
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_05390	COG1670	JO	Protein N-acetyltransferase, RimJ/RimL family	RimL			1S7F
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_05405	COG0449	M	Glucosamine 6-phosphate synthetase, contains amidotransferase and phosphosugar isomerase domains	GlmS			2J6H
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_05410	COG1209	M	dTDP-glucose pyrophosphorylase	RmlA1			1FXO
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_05415	COG1477	HO	FAD:protein FMN transferase ApbE	ApbE		23558683;30154099	1VRM
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_05420	COG1968	I	Undecaprenyl pyrophosphate phosphatase	UppP			5OON
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_05425	COG3965	P	Predicted Co/Zn/Cd cation transporter, cation efflux family				
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_05430	COG1824	P	Permease, similar to cation transporters	MgtE2			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_05440	COG0055	C	FoF1-type ATP synthase, beta subunit	AtpD	FoF1-type ATP synthase		3OAA
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_05445	COG2171	E	Tetrahydrodipicolinate N-succinyltransferase	DapD	Lysine biosynthesis		3BXY
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_05455	COG1168	ER	Bifunctional PLP-dependent enzyme with beta-cystathionase and maltose regulon repressor activities	MalY			4DGT
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_05460	COG2844	OT	UTP:GlnB (protein PII) uridylyltransferase	GlnD			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_05465	COG2844	OT	UTP:GlnB (protein PII) uridylyltransferase	GlnD			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_05470	COG0024	J	Methionine aminopeptidase	Map			3J2I
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_05480	COG0052	J	Ribosomal protein S2	RpsB	Ribosome 30S subunit		4V4H
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_05485	COG0264	J	Translation elongation factor EF-Ts	Tsf	Translation factors		1EFU
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_05490	COG1608	I	Isopentenyl phosphate kinase			16621811	3LKK
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_05495	COG0233	J	Ribosome recycling factor	Frr			1DD5
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_05500	COG0020	I	Undecaprenyl pyrophosphate synthase	UppS			1X07
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_05505	COG4589	R	Predicted CDP-diglyceride synthetase/phosphatidate cytidylyltransferase	YnbB			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_05510	COG0743	I	1-deoxy-D-xylulose 5-phosphate reductoisomerase	Dxr	Isoprenoid biosynthesis		1JVS
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_05515	COG0265	O	Periplasmic serine protease, S1-C subfamily, contain C-terminal PDZ domain	DegQ		29686141	2HGA
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_05525	COG1067	O	Predicted ATP-dependent protease	LonB			3K1J
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_05535	COG0110	R	Acetyltransferase, isoleucine patch superfamily	WbbJ			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_05540	COG0733	R	Na+-dependent transporter, SNF family	YocR			2A65
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_05545	COG0339	O	Zn-dependent oligopeptidase, M3 family	Dcp		25239919;31422053	5L43
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_05555	COG3221	P	ABC-type phosphate/phosphonate transport system, periplasmic component	PhnD			3S4U
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_05565	COG0846	O	NAD-dependent protein deacetylase, SIR2 family	SIR2			1M2N
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_05570	COG0397	O	Protein adenylyltransferase (AMPylase) SelO/YdiU (selenoprotein O)	SelO		30270044	6EAC
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_05580	COG0596	HR	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold	MenH	Menaquinone biosynthesis		4MYS
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_05590	COG1168	ER	Bifunctional PLP-dependent enzyme with beta-cystathionase and maltose regulon repressor activities	MalY			4DGT
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_05595	COG1142	C	Fe-S-cluster-containing hydrogenase component 2	HycB			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_05605	COG0160	E	Acetylornithine aminotransferase/4-aminobutyrate aminotransferase	ArgD	Arginine biosynthesis		1SF2
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_05610	COG1804	I	Crotonobetainyl-CoA:carnitine CoA-transferase CaiB and related acyl-CoA transferases	CaiB			1P5H
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_05620	COG2186	K	DNA-binding transcriptional regulator, FadR family	FadR			1E2X
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_05625	COG0579	G	L-2-hydroxyglutarate oxidase LhgO	LhgO			3DME
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_05635	COG4729	S	Uncharacterized conserved protein, DUF1850 family				
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_05640	COG1593	G	TRAP-type C4-dicarboxylate transport system, large permease component	DctQ			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_05645	COG5009	M	Membrane carboxypeptidase/penicillin-binding protein	MrcA			3D0F
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_05650	COG0849	D	Cell division ATPase FtsA	FtsA			3WT0
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_05655	COG3166	NW	Type IV pilus assembly protein PilN	PilN			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_05660	COG3167	NW	Type IV pilus assembly protein PilO	PilO			2RJZ
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_05670	COG4796	U	Type II secretory pathway, component HofQ	HofQ			4AV2
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_05675	COG0283	F	Cytidylate kinase	Cmk		19111750;25691594;28928205	3R20
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_05680	COG0371	C	Glycerol dehydrogenase or related enzyme, iron-containing ADH family	GldA	Isoprenoid biosynthesis	20688982	3S99
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_05685	COG0069	E	Glutamate synthase domain 2	GltB2	Glutamine biosynthesis		1EA0
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_05690	COG0492	O	Thioredoxin reductase	TrxB			3FBS
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_05695	COG0504	F	CTP synthase (UTP-ammonia lyase)	PyrG	Pyrimidine biosynthesis		1S1M
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_05700	COG2877	M	3-deoxy-D-manno-octulosonic acid (KDO) 8-phosphate synthase	KdsA	Lipid A biosynthesis		1G7U
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_05705	COG0148	G	Enolase	Eno	Glycolysis		1E9I
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_05725	COG0385	R	Predicted Na+-dependent transporter YfeH	YfeH		21175741	4N7X
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_05730	COG2249	R	Putative NADPH-quinone reductase (modulator of drug activity B)	MdaB			1D4A
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_05735	COG4551	R	Predicted protein tyrosine phosphatase				
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_05750	COG1309	K	DNA-binding protein, AcrR family, includes nucleoid occlusion protein SlmA	AcrR			2QOP
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_05755	COG1541	H	Phenylacetate-coenzyme A ligase PaaK, adenylate-forming domain family	PaaK			2Y4O
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_05760	COG0300	R	Short-chain dehydrogenase	YqjQ			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_05770	COG2171	E	Tetrahydrodipicolinate N-succinyltransferase	DapD	Lysine biosynthesis		3BXY
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_05775	COG1473	R	Metal-dependent amidase/aminoacylase/carboxypeptidase	AbgB	Lysine biosynthesis	17307853	3RAM
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_05785	COG1278	K	Cold shock protein, CspA family	CspC			1C9O
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_05795	COG0742	J	16S rRNA G966 N2-methylase RsmD	RsmD	16S rRNA modification		2IFT
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_05800	COG0266	L	Formamidopyrimidine-DNA glycosylase	Nei			1EE8
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_05805	COG0267	J	Ribosomal protein L33	RpmG	Ribosome 50S subunit		1VS6
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_05815	COG2003	L	DNA repair protein RadC, contains a helix-hairpin-helix DNA-binding motif	RadC		9695921	2QLC
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_05820	COG0452	H	Phosphopantothenoylcysteine synthetase/decarboxylase CoaBC	CoaBC	Pantothenate/CoA biosynthesis		3QJG
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_05825	COG0756	FV	dUTP pyrophosphatase (dUTPase)	Dut	Thymidylate biosynthesis		1DUC
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_05830	COG1109	G	Phosphomannomutase	ManB			6MNV
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_05835	COG1608	I	Isopentenyl phosphate kinase			16621811	3LKK
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_05840	COG1309	K	DNA-binding protein, AcrR family, includes nucleoid occlusion protein SlmA	AcrR			2QOP
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_05845	COG0568	K	DNA-directed RNA polymerase, sigma subunit (sigma70/sigma32)	RpoD	RNA polymerase		1SIG
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_05850	COG2177	D	Cell division protein FtsX	FtsX			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_05855	COG1119	P	ABC-type molybdenum transport system, ATPase component ModF/photorepair protein PhrA	ModF			2IHY
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_05860	COG1419	N	Flagellar biosynthesis GTPase FlhF	FlhF			3SYN
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_05865	COG0086	K	DNA-directed RNA polymerase, beta' subunit/160 kD subunit	RpoC	RNA polymerase		1NT9
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_05885	COG1077	DZ	Cell shape-determining ATPase MreB, actin-like superfamily	MreB			1JCE
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_05890	COG1792	DZ	Cell shape-determining protein MreC	MreC			2J5U
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_05900	COG0424	Q	7-methyl-GTP pyrophosphatase and related NTP pyrophosphatases, Maf/HAM1 superfamily	Maf		24210219	2P5X
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_05905	COG1530	J	Ribonuclease G or E	CafA			1SLJ
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_05910	COG3164	S	Uncharacterized conserved protein YhdP, contains DUF3971 and AsmA2 domains	YhdR			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_05915	COG0312	R	Zn-dependent protease PmbA/TldA or its inactivated homolog	TldD		12029038	3TV9
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_05925	COG0312	R	Zn-dependent protease PmbA/TldA or its inactivated homolog	TldD		12029038	3TV9
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_05940	COG4668	G	Mannitol/fructose-specific phosphotransferase system, IIA domain	MtlA2			1A3A
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_05950	COG1508	K	DNA-directed RNA polymerase specialized sigma subunit, sigma54 homolog	RpoN	RNA polymerase		5BYH
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_05955	COG1117	P	ABC-type phosphate transport system, ATPase component	PstB			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_05960	COG1452	M	LPS assembly outer membrane protein LptD (organic solvent tolerance protein OstA)	LptD			4N4R
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_05965	COG3117	M	Lipopolysaccharide export system protein LptC	YrbK			3MY2
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_05970	COG0560	E	Phosphoserine phosphatase	SerB	Serine biosynthesis		3N28
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_05975	COG0517	T	CBS domain	CBS			1B3O
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_05980	COG4604	P	ABC-type enterochelin transport system, ATPase component	CeuD			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_05985	COG0767	M	Permease subunit MlaE of the ABC-type intermembrane phospholipid transporter Mla	MlaE			6IC4
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_06010	COG0128	E	5-enolpyruvylshikimate-3-phosphate synthase	AroA	Aromatic amino acid biosynthesis		4N3P
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_06015	COG0040	E	ATP phosphoribosyltransferase	HisG	Histidine biosynthesis		1H3D
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_06020	COG0141	E	Histidinol dehydrogenase	HisD	Histidine biosynthesis		1K75
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_06025	COG0793	O	C-terminal processing protease CtpA/Prc, contains a PDZ domain	CtpA			6IQU
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_06030	COG0327	H	Putative GTP cyclohydrolase 1 type 2, NIF3 family	NIF3	Folate biosynthesis	24435797;26385509	3SY1
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_06040	COG1485	D	Cell division protein ZapE (Z ring-associated ATPase), AFG1 superfamily	ZapE			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_06045	COG0102	J	Ribosomal protein L13	RplM	Ribosome 50S subunit		1VS6
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_06050	COG0103	J	Ribosomal protein S9	RpsI	Ribosome 30S subunit		4V4H
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_06060	COG1290	C	Cytochrome b subunit of the bc complex	QcrB/PetB			1VF5
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_06065	COG2857	C	Cytochrome c1	CYT1			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_06085	COG0794	GM	D-arabinose 5-phosphate isomerase GutQ	GutQ			5UQI
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_06090	COG0792	L	Predicted endonuclease distantly related to archaeal Holliday junction resolvase, YraN/UPF0102 family	YraN			3FOV
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_06095	COG0683	E	ABC-type branched-chain amino acid transport system, periplasmic component	LivK			1USG
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_06100	COG2243	H	Precorrin-2 methylase	CobF	Cobalamine/B12 biosynthesis		2QBU
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_06110	COG0673	R	Predicted dehydrogenase	MviM			3UUW
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_06115	COG0494	V	8-oxo-dGTP pyrophosphatase MutT and related house-cleaning NTP pyrophosphohydrolases, NUDIX family	MutT			4V14
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_06120	COG1011	H	FMN and 5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YigB, HAD superfamily (riboflavin biosynthesis)	YigB		24123841	4JB3
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_06125	COG1189	J	Predicted rRNA methylase YqxC, contains S4 and FtsJ domains	YqxC			3OPN
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_06130	COG1281	O	Redox-regulated molecular chaperone, HSP33 family	HslO			1HW7
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_06135	COG1866	C	Phosphoenolpyruvate carboxykinase, ATP-dependent	PckA	Gluconeogenesis		1AQ2
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_06140	COG0334	E	Glutamate dehydrogenase/leucine dehydrogenase	GdhA	Glutamine biosynthesis	24391520	1B3B
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_06145	COG0782	K	Transcription elongation factor, GreA/GreB family	GreA			1GRJ
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_06150	COG0539	J	Ribosomal protein S1	RpsA	Ribosome 30S subunit		4NNH
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_06160	COG1495	O	Disulfide bond formation protein DsbB	DsbB			2LTQ
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_06175	COG0841	V	Multidrug efflux pump subunit AcrB	AcrB			1IWG
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_06180	COG0845	MV	Multidrug efflux pump subunit AcrA (membrane-fusion protein)	AcrA			1T5E
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_06185	COG0039	C	Malate/lactate dehydrogenase	Mdh	TCA cycle		4WLO
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_06190	COG0560	E	Phosphoserine phosphatase	SerB	Serine biosynthesis		3N28
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_06195	COG0494	V	8-oxo-dGTP pyrophosphatase MutT and related house-cleaning NTP pyrophosphohydrolases, NUDIX family	MutT			4V14
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_06200	COG3605	T	Signal transduction protein containing GAF and PtsI domains	PtsP			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_06210	COG0784	T	CheY-like REC (receiver) domain, includes chemotaxis protein CheY  and sporulation regulator Spo0F	CheY			6QRJ
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_06215	COG0730	P	Sulfite exporter TauE/SafE/YfcA and related permeases, UPF0721 family	TauE		21183667;22797525	
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_06225	COG0682	M	Prolipoprotein diacylglyceryltransferase	Lgt			5AZB
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_06235	COG1541	H	Phenylacetate-coenzyme A ligase PaaK, adenylate-forming domain family	PaaK			2Y4O
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_06240	COG0121	R	Predicted glutamine amidotransferase YafJ	YafJ			1TE5
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_06250	COG1506	E	Dipeptidyl aminopeptidase/acylaminoacyl peptidase	DAP2			2JBW
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_06260	COG2983	R	Uncharacterized cysteine cluster protein YcgN, CxxCxxCC family	YcgN			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_06270	COG3100	S	Uncharacterized conserved protein YcgL, UPF0745 family	YcgL		17221885	2H7A
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_06275	COG0349	J	Ribonuclease D	Rnd		18821773	5C0Y
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_06280	COG0353	L	Recombinational DNA repair protein RecR	RecR		26337406	2JGR
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_06290	COG2256	L	Replication-associated recombination protein RarA (DNA-dependent ATPase)	RarA			3PVS
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_06295	COG0278	O	Glutaredoxin-related protein	GrxD			1YKA
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_06300	COG0078	E	Ornithine carbamoyltransferase	ArgF	Arginine biosynthesis		1A1S
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_06310	COG4753	TK	Two-component response regulator, YesN/AraC family, consists of REC and AraC-type DNA-binding domains	YesN			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_06315	COG0322	L	Excinuclease UvrABC, nuclease subunit	UvrC		24513124	2NRT
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_06320	COG1183	I	Phosphatidylserine synthase	PssA			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_06340	COG0029	H	Aspartate oxidase	NadB	NAD biosynthesis		1KNP
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_06345	COG2938	O	Succinate dehydrogenase flavin-adding protein, antitoxin component of the CptAB toxin-antitoxin module	SdhE			1PUZ
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_06355	COG3771	S	Lipopolysaccharide assembly protein YciS/LapA, DUF1049 family	YciS		24722986	
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_06360	COG0457	R	Tetratricopeptide (TPR) repeat	TPR			3AS4
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_06365	COG0284	F	Orotidine-5'-phosphate decarboxylase	PyrF	Pyrimidine biosynthesis		1DBT
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_06370	COG1555	L	DNA uptake protein ComE or related DNA-binding protein	ComEA			2DUY
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_06375	COG2828	C	2-Methylaconitate cis-trans-isomerase PrpF (2-methyl citrate pathway)	PrpF		17567742	2H9F
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_06380	COG1049	C	Aconitase B	AcnB	TCA cycle		1L5J
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_06385	COG0372	C	Citrate synthase	GltA	TCA cycle	25211225	3TQG
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_06390	COG2224	C	Isocitrate lyase	AceA	TCA cycle, glyoxylate bypass		1DQU
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_06395	COG1167	KE	DNA-binding transcriptional regulator, MocR family, contains an aminotransferase domain	ARO8	Lysine biosynthesis		2R2N
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_06400	COG0147	EH	Anthranilate/para-aminobenzoate synthases component I	TrpE	Aromatic amino acid biosynthesis		1I1Q
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_06415	COG0526	O	Thiol-disulfide isomerase or thioredoxin	TrxA			1XFL
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_06445	COG1629	P	Outer membrane receptor protein, Fe transport	CirA			1BY3
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_06450	COG1012	I	Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase	AdhE	Proline degradation		1A4S
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_06455	COG2202	T	PAS domain	PAS			2MWG
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_06465	COG0371	C	Glycerol dehydrogenase or related enzyme, iron-containing ADH family	GldA	Isoprenoid biosynthesis	20688982	3S99
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_06470	COG1012	I	Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase	AdhE	Proline degradation		1A4S
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_06485	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_06505	COG5346	S	Uncharacterized membrane protein				
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_06510	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_06525	COG1396	K	Transcriptional regulator, contains XRE-family HTH domain	HipB			1ADR
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_06530	COG1570	L	Exonuclease VII, large subunit	XseA			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_06535	COG0517	T	CBS domain	CBS			1B3O
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_06540	COG0512	EH	Anthranilate/para-aminobenzoate synthase component II (glutamine amidotransferase)	PabA	Aromatic amino acid biosynthesis		1I1Q
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_06550	COG0789	K	DNA-binding transcriptional regulator, MerR family	SoxR			2VZ4
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_06555	COG1230	P	Co/Zn/Cd efflux system component	CzcD			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_06560	COG0449	M	Glucosamine 6-phosphate synthetase, contains amidotransferase and phosphosugar isomerase domains	GlmS			2J6H
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_06565	COG0210	L	Superfamily I DNA or RNA helicase	UvrD			6PPR
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_06580	COG0226	P	ABC-type phosphate transport system, periplasmic component	PstS			2Q9T
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_06585	COG0581	P	ABC-type phosphate transport system, permease component	PstA			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_06590	COG4985	P	ABC-type phosphate transport system, auxiliary component PstA	PstA			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_06595	COG1134	G	ABC-type polysaccharide/polyol phosphate transport system, ATPase component	TagH			6JBH
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_06600	COG1283	P	Na+/phosphate symporter	NptA			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_06620	COG3290	T	Sensor histidine kinase DipB regulating citrate/malate metabolism	CitA			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_06625	COG2197	TK	DNA-binding response regulator, NarL/FixJ family, contains REC and HTH domains	CitB			1A04
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_06630	COG0109	HI	Polyprenyltransferase (heme O synthase)	CyoE			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_06635	COG3161	H	4-hydroxybenzoate synthetase (chorismate-pyruvate lyase)	UbiC	Ubiquinone biosynthesis		1FW9
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_06640	COG2072	P	Predicted flavoprotein CzcO associated with the cation diffusion facilitator CzcD	CzcO			4USQ
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_06655	COG1289	S	Uncharacterized membrane protein YccC	YccC			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_06660	COG4221	C	NADP-dependent 3-hydroxy acid dehydrogenase YdfG	YdfG	Pyrimidine degradation		3P19
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_06665	COG0332	I	3-oxoacyl-[acyl-carrier-protein] synthase III	FabH	Fatty acid biosynthesis		1UB7
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_06670	COG0110	R	Acetyltransferase, isoleucine patch superfamily	WbbJ			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_06675	COG4799	I	Acetyl-CoA carboxylase, carboxyltransferase component	MmdA			1OD2
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_06680	COG4770	I	Acetyl/propionyl-CoA carboxylase, alpha subunit	PccA			3U9S
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_06685	COG0458	EF	Carbamoylphosphate synthase large subunit	CarB	Arginine biosynthesis		1C30
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_06705	COG0780	J	NADPH-dependent 7-cyano-7-deazaguanine reductase QueF, C-terminal domain, T-fold superfamily	QueFC	tRNA modification	14660578;17384645	3BP1
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_06710	COG0842	V	ABC-type multidrug transport system, permease component	YadH			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_06715	COG1132	V	ABC-type multidrug transport system, ATPase and permease component	MdlB			2HYD
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_06720	COG0840	T	Methyl-accepting chemotaxis protein (MCP)	Tar			1QU7
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_06770	COG1593	G	TRAP-type C4-dicarboxylate transport system, large permease component	DctQ			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_06780	COG0328	L	Ribonuclease HI	RnhA			1LAW
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_06790	COG2333	U	DNA uptake channel protein ComEC C-terminal domain, metallo-beta-lactamase superfamily	ComEC			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_06795	COG0741	M	Soluble lytic murein transglycosylase or regulatory protein s ( may contain LysM/invasin domain)	MltE			153L
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_06800	COG4533	K	DNA-binding transcriptional regulator SgrR of sgrS sRNA, contains a MarR-type HTH domain and a periplasmic-type solute-binding domain	SgrR			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_06805	COG4168	V	ABC-type antimicrobial peptide export system, permease component SapB	SapB			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_06810	COG4171	V	ABC-type antimicrobial peptide export system, permease component SapC	SapC			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_06815	COG4559	P	ABC-type hemin transport system, ATPase component				4G1U
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_06820	COG0564	J	Pseudouridine synthase RluA, 23S rRNA- or tRNA-specific	RluA	23S rRNA modification		2I82
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_06825	COG0815	M	Apolipoprotein N-acyltransferase	Lnt			6NWR
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_06830	COG0697	GER	Permease of the drug/metabolite transporter (DMT) superfamily	RhaT			5I20
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_06840	COG0659	P	Sulfate permease or related transporter, MFS superfamily	SUL1			3NY7
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_06845	COG2358	R	TRAP-type uncharacterized transport system, periplasmic component	Imp			1US4
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_06855	COG2358	R	TRAP-type uncharacterized transport system, periplasmic component	Imp			1US4
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_06860	COG0447	H	1,4-Dihydroxy-2-naphthoyl-CoA synthase	MenB	Menaquinone biosynthesis		4ELS
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_06870	COG1960	I	Acyl-CoA dehydrogenase related to the alkylation response protein AidB	CaiA	Fatty acid biosynthesis		1BUC
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_06885	COG0526	O	Thiol-disulfide isomerase or thioredoxin	TrxA			1XFL
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_06890	COG1138	CO	Cytochrome c biogenesis protein CcmF	CcmF			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_06895	COG2332	CO	Cytochrome c biogenesis protein CcmE	CcmE			1J6Q
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_06915	COG4988	CO	ABC-type transport system involved in cytochrome bd biosynthesis, ATPase and permease components	CydD			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_06920	COG1974	KT	SOS-response transcriptional repressor LexA (RecA-mediated autopeptidase)	LexA			1AY9
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_06930	COG1883	C	Na+-transporting oxaloacetate/methylmalonyl-CoA decarboxylase, beta subunit	OadB			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_06935	COG0511	I	Biotin carboxyl carrier protein	AccB	Fatty acid biosynthesis		1A6X
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_06940	COG3630	C	Na+-transporting oxaloacetate/methylmalonyl-CoA decarboxylase, gamma subunit	OadG			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_06945	COG0042	J	tRNA-dihydrouridine synthase	DusA	tRNA modification		1VHN
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_06960	COG1551	T	sRNA-binding carbon storage regulator CsrA	CsrA			1T3O
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_06965	COG0528	F	Uridylate kinase	PyrH	Pyrimidine biosynthesis		2BND
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_06970	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_06975	COG2137	O	SOS response regulatory protein OraA/RecX, interacts with RecA	RecX			3C1D
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_06980	COG2874	N	Archaellum biogenesis ATPase ArlH/FlaH	FlaH		32416640	4WIA
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_06985	COG1546	H	Nicotinamide mononucleotide (NMN) deamidase PncC	PncC	NAD biosynthesis		2A9S
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_06990	COG0249	L	DNA mismatch repair ATPase MutS	MutS			1E3M
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_06995	COG0807	H	GTP cyclohydrolase II	RibA	Riboflavin/FAD biosynthesis		2BZ0
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_07000	COG0407	H	Uroporphyrinogen-III decarboxylase HemE	HemE	Heme biosynthesis		2DG5
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_07005	COG4262	R	Predicted spermidine synthase with an N-terminal membrane domain				
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_07020	COG4160	E	ABC-type arginine/histidine transport system, permease component	ArtM			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_07025	COG4597	E	ABC-type amino acid transport system, permease component	BatB			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_07030	COG4615	P	ABC-type siderophore export system, fused ATPase and permease components	PvdE			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_07040	COG0001	H	Glutamate-1-semialdehyde aminotransferase	HemL	Heme biosynthesis		2CFB
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_07045	COG1012	I	Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase	AdhE	Proline degradation		1A4S
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_07050	COG2512	R	Predicted transcriptional regulator, contains CW (cell wall-binding) repeats and an HTH domain				
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_07055	COG2988	E	Succinylglutamate desuccinylase	AstE			1YW4
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_07060	COG0024	J	Methionine aminopeptidase	Map			3J2I
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_07065	COG2084	I	3-hydroxyisobutyrate dehydrogenase or related beta-hydroxyacid dehydrogenase	MmsB			1I36
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_07075	COG2431	E	Lysine export protein LysO/YbjE, DUF340 family	LysO		25845847	
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_07080	COG0700	S	Spore maturation protein SpmB (function unknown)	SpmB			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_07085	COG1432	R	NYN domain, predicted PIN-related RNAse, tRNA/rRNA maturation	LabA			2QIP
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_07090	COG1944	J	Ribosomal protein S12 methylthiotransferase accessory factor YcaO	YcaO			4BS9
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_07100	COG2005	K	DNA-binding transcriptional regulator ModE (molybdenum-dependent)	ModE		19779461	1B9M
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_07105	COG1063	ER	Threonine dehydrogenase or related Zn-dependent dehydrogenase	Tdh	Non-phosphorylated Entner-Doudoroff pathway		4A2C
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_07115	COG1309	K	DNA-binding protein, AcrR family, includes nucleoid occlusion protein SlmA	AcrR			2QOP
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_07120	COG1566	V	Multidrug resistance efflux pump EmrA	EmrA			4TKO
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_07125	COG1033	R	Predicted exporter protein, RND superfamily	MMPL			5KHN
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_07130	COG4191	T	Signal transduction histidine kinase regulating C4-dicarboxylate transport system				4GCZ
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_07135	COG0784	T	CheY-like REC (receiver) domain, includes chemotaxis protein CheY  and sporulation regulator Spo0F	CheY			6QRJ
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_07145	COG1292	M	Choline-glycine betaine transporter	BetT			2WIT
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_07150	COG2130	QR	NADPH-dependent curcumin reductase CurA	CurA		21467222	1V3T
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_07155	COG1012	I	Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase	AdhE	Proline degradation		1A4S
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_07160	COG2176	L	DNA polymerase III, alpha subunit (gram-positive type)	PolC			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_07165	COG1039	L	Ribonuclease HIII	RnhC			2D0A
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_07170	COG0763	M	Lipid A disaccharide synthetase	LpxB	Lipid A biosynthesis		5W8N
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_07175	COG0663	R	Carbonic anhydrase or acetyltransferase, isoleucine patch superfamily	PaaY			6IVE
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_07180	COG4706	I	Predicted 3-hydroxylacyl-ACP dehydratase, HotDog domain				
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_07185	COG1043	M	Acyl-[acyl carrier protein]--UDP-N-acetylglucosamine O-acyltransferase	LpxA	Lipid A biosynthesis		1J2Z
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_07195	COG2831	U	Hemolysin activation/secretion protein	FhaC			2MHJ
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_07200	COG0265	O	Periplasmic serine protease, S1-C subfamily, contain C-terminal PDZ domain	DegQ		29686141	2HGA
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_07205	COG0743	I	1-deoxy-D-xylulose 5-phosphate reductoisomerase	Dxr	Isoprenoid biosynthesis		1JVS
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_07210	COG0575	I	CDP-diglyceride synthetase	CdsA	Phospholipid biosynthesis		4Q2E
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_07215	COG2182	G	Maltose-binding periplasmic protein MalE	MalE			1T0K
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_07220	COG0373	H	Glutamyl-tRNA reductase	HemA	Heme biosynthesis		2XOE
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_07235	COG0484	O	DnaJ-class molecular chaperone with C-terminal Zn finger domain	DnaJ			1BQ0
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_07245	COG3264	M	Small-conductance mechanosensitive channel MscK	MscK			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_07255	COG0518	F	GMP synthase, glutamine amidotransferase domain	GuaA1	Purine biosynthesis		4WIM
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_07260	COG2186	K	DNA-binding transcriptional regulator, FadR family	FadR			1E2X
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_07270	COG1670	JO	Protein N-acetyltransferase, RimJ/RimL family	RimL			1S7F
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_07285	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_07290	COG3707	TK	Two-component response regulator, AmiR/NasT family, consists of REC and RNA-binding antiterminator (ANTAR) domains	AmiR		16936038	1QO0
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_07295	COG2271	G	Sugar phosphate permease	UhpC			1PW4
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_07300	COG4667	I	Predicted phospholipase, patatin/cPLA2 family	YjjU			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_07320	COG4942	D	Septal ring factor EnvC, activator of murein hydrolases AmiA and AmiB	EnvC			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_07330	COG0435	C	Glutathionyl-hydroquinone reductase	ECM4			6GCA
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_07340	COG0514	L	Superfamily II DNA helicase RecQ	RecQ			1OYW
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_07345	COG0556	L	Excinuclease UvrABC helicase subunit UvrB	UvrB			1C4O
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_07350	COG0057	G	Glyceraldehyde-3-phosphate dehydrogenase/erythrose-4-phosphate dehydrogenase	GapA	Glycolysis		3ZDF
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_07360	COG1805	C	Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrB	NqrB	Na+-translocating NADH dehydrogenase		4P6V
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_07365	COG4659	C	Na+-translocating ferredoxin:NAD+ oxidoreductase RNF, RnfG subunit	RnfG	Na+-translocating Fd:NADH oxidoreductase		
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_07370	COG2209	C	Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrE	NqrE	Na+-translocating NADH dehydrogenase		4P6V
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_07375	COG4660	C	Na+-translocating ferredoxin:NAD+ oxidoreductase  RNF, RnfE subunit	RnfE	Na+-translocating Fd:NADH oxidoreductase		
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_07380	COG4097	P	Predicted ferric reductase				
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_07390	COG0446	I	NADPH-dependent 2,4-dienoyl-CoA reductase, sulfur reductase, or a related oxidoreductase	FadH2			1VRQ
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_07410	COG0436	E	Aspartate/methionine/tyrosine aminotransferase	AspB	Isoleucine, leucine, valine biosynthesis		2O0R
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_07420	COG1012	I	Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase	AdhE	Proline degradation		1A4S
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_07425	COG0160	E	Acetylornithine aminotransferase/4-aminobutyrate aminotransferase	ArgD	Arginine biosynthesis		1SF2
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_07430	COG0415	L	Deoxyribodipyrimidine photolyase	PhrB			1TEZ
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_07440	COG4992	E	Acetylornithine/succinyldiaminopimelate/putrescine aminotransferase	ArgD	Arginine biosynthesis		2E54
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_07445	COG0001	H	Glutamate-1-semialdehyde aminotransferase	HemL	Heme biosynthesis		2CFB
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_07450	COG2161	V	Antitoxin component YafN of the YafNO toxin-antitoxin module, PHD/YefM family	StbD			2A6Q
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_07460	COG2929	S	Uncharacterized conserved protein, DUF497 family				3U97
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_07465	COG5304	K	Predicted DNA binding protein, CopG/RHH family				
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_07470	COG1395	K	Predicted transcriptional regulator				
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_07480	COG1395	K	Predicted transcriptional regulator				
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_07485	COG3549	V	Plasmid maintenance system killer protein	HigB			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_07525	COG4143	H	ABC-type thiamine transport system, periplasmic component TbpA	TbpA			2QRY
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_07530	COG0364	G	Glucose-6-phosphate 1-dehydrogenase	Zwf	Pentose phosphate pathway	18950999	5B7W
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_07535	COG0363	G	6-phosphogluconolactonase/Glucosamine-6-phosphate isomerase/deaminase	NagB	Pentose phosphate pathway	24163345	2RI0
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_07540	COG0800	G	2-keto-3-deoxy-6-phosphogluconate aldolase	Eda	Entner-Doudoroff pathway		2V81
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_07550	COG1105	G	1-phosphofructokinase or 6-phosphofructokinase II	FruK			2ABQ
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_07555	COG1453	R	Predicted oxidoreductase of the aldo/keto reductase family				
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_07565	COG0129	EG	Dihydroxyacid dehydratase/phosphogluconate dehydratase	IlvD	Isoleucine, leucine, valine biosynthesis		2GP4
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_07570	COG0841	V	Multidrug efflux pump subunit AcrB	AcrB			1IWG
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_07575	COG1566	V	Multidrug resistance efflux pump EmrA	EmrA			4TKO
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_07580	COG1538	M	Outer membrane protein TolC	TolC			1EK9
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_07585	COG2038	H	NaMN:DMB phosphoribosyltransferase	CobT	Cobalamine/B12 biosynthesis		1D0S
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_07590	COG1270	H	Cobalamin biosynthesis protein CobD/CbiB	CbiB	Cobalamine/B12 biosynthesis		
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_07595	COG0436	E	Aspartate/methionine/tyrosine aminotransferase	AspB	Isoleucine, leucine, valine biosynthesis		2O0R
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_07610	COG0588	G	Phosphoglycerate mutase (BPG-dependent)	GpmA	Glycolysis		1E58
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_07615	COG2087	H	Adenosyl cobinamide kinase/adenosyl cobinamide phosphate guanylyltransferase	CobU	Cobalamine/B12 biosynthesis		1C9K
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_07620	COG4772	P	Outer membrane receptor for Fe3+-dicitrate	FecA			1KMP
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_07625	COG4607	P	ABC-type enterochelin transport system, periplasmic component	CeuA			3ZKW
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_07630	COG4606	P	ABC-type enterochelin transport system, permease component	CeuB			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_07635	COG1123	O	ABC-type glutathione transport system ATPase component, contains duplicated ATPase domain	GsiA			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_07640	COG1492	H	Cobyric acid synthase	CobQ	Cobalamine/B12 biosynthesis		
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_07650	COG2109	H	ATP:corrinoid adenosyltransferase	BtuR	Cobalamine/B12 biosynthesis		4HUT
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_07655	COG1487	V	Ribonuclease/mRNA interferase VapC, contains PIN domain	VapC			3TND
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_07680	COG2944	K	DNA-binding transcriptional regulator YiaG, XRE-type HTH domain	YiaG			5JAA
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_07710	COG2885	M	Outer membrane protein OmpA and related peptidoglycan-associated (lipo)proteins	OmpA			1OAP
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_07735	COG0491	R	Glyoxylase or a related metal-dependent hydrolase, beta-lactamase superfamily II	GloB		25670698	1QH3
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_07745	COG0180	J	Tryptophanyl-tRNA synthetase	TrpS	Aminoacyl-tRNA synthetases		3N9I
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_07750	COG2377	M	1,6-Anhydro-N-acetylmuramate kinase	AnmK		15901686	3CQY
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_07755	COG0630	NU	Type IV secretory pathway ATPase VirB11/Archaellum biosynthesis ATPase ArlI/FlaI	VirB11		32416640	1G6O
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_07760	COG0630	NU	Type IV secretory pathway ATPase VirB11/Archaellum biosynthesis ATPase ArlI/FlaI	VirB11		32416640	1G6O
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_07765	COG3616	E	D-serine deaminase, pyridoxal phosphate-dependent	Dsd1			3ANU
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_07770	COG0240	C	Glycerol-3-phosphate dehydrogenase	GpsA	Isoprenoid biosynthesis		1EVY
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_07775	COG0762	O	Cytochrome b6 maturation protein CCB3/Ycf19 and related maturases, YggT family	Ycf19			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_07780	COG0596	HR	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold	MenH	Menaquinone biosynthesis		4MYS
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_07785	COG2226	H	Ubiquinone/menaquinone biosynthesis C-methylase UbiE/MenG	UbiE	Biotin biosynthesis		4OBW
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_07800	COG1448	E	Aspartate/aromatic aminotransferase	TyrB	Isoleucine, leucine, valine biosynthesis		1AAM
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_07820	COG2205	T	K+-sensing histidine kinase KdpD	KdpD			2KSF
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_07825	COG0784	T	CheY-like REC (receiver) domain, includes chemotaxis protein CheY  and sporulation regulator Spo0F	CheY			6QRJ
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_07830	COG2367	V	Beta-lactamase class A	PenP			6W34
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_07840	COG0508	C	Pyruvate/2-oxoglutarate dehydrogenase complex, dihydrolipoamide acyltransferase (E2) component	AceF	Pyruvate oxidation		1B5S
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_07845	COG3958	G	Transketolase, C-terminal subunit	TktA2			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_07850	COG1071	C	TPP-dependent pyruvate or acetoin dehydrogenase subunit alpha	AcoA	Pyruvate oxidation		1DTW
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_07855	COG4176	E	ABC-type proline/glycine betaine transport system, permease component	ProW			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_07860	COG0488	R	ATPase components of ABC transporters with duplicated ATPase domains	Uup			5ZXD
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_07865	COG0600	P	ABC-type nitrate/sulfonate/bicarbonate transport system, permease component	TauC			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_07875	COG0215	J	Cysteinyl-tRNA synthetase	CysS	Aminoacyl-tRNA synthetases		1LI5
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_07880	COG0008	J	Glutamyl- or glutaminyl-tRNA synthetase	GlnS	Heme biosynthesis		1EUQ
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_07885	COG0652	O	Peptidyl-prolyl cis-trans isomerase (rotamase) - cyclophilin family	PpiB			4DGD
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_07890	COG2908	M	UDP-2,3-diacylglucosamine pyrophosphatase LpxH	LpxH			5WLY
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_07895	COG0760	O	Peptidyl-prolyl isomerase, parvulin family	SurA			2ZR5
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_07905	COG1750	R	Predicted archaeal serine protease, S18 family				
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_07910	COG1219	O	ATP-dependent protease Clp, ATPase subunit ClpX	ClpX			3HTE
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_07915	COG0616	O	Periplasmic serine protease, ClpP class	SppA			3BEZ
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_07920	COG1047	O	Peptidyl-prolyl cis-trans isomerase, FKBP type	SlpA			2M2A
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_07930	COG0369	FP	Flavoprotein (flavin reductase) subunit CysJ of sulfite and N-hydroxylaminopurine reductases	CysJ	Cysteine biosynthesis	20118259	1YKG
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_07945	COG0072	J	Phenylalanyl-tRNA synthetase beta subunit	PheT	Aminoacyl-tRNA synthetases		3L4G
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_07950	COG0016	J	Phenylalanyl-tRNA synthetase alpha subunit	PheS	Aminoacyl-tRNA synthetases		3L4G
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_07955	COG0292	J	Ribosomal protein L20	RplT	Ribosome 50S subunit	30270044	1VS6
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_07960	COG0291	J	Ribosomal protein L35	RpmI	Ribosome 50S subunit	28373563	1VS6
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_07965	COG0290	J	Translation initiation factor IF-3	InfC	Translation factors		2IFE
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_07970	COG0442	J	Prolyl-tRNA synthetase	ProS	Aminoacyl-tRNA synthetases		5XIF
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_07985	COG1612	H	Heme A synthase	CtaA			6A2J
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_07995	COG0379	H	Quinolinate synthase	NadA	NAD biosynthesis	24498065	4HHE
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_08000	COG0501	O	Zn-dependent protease with chaperone function	HtpX			2YPT
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_08005	COG0425	JHO	Sulfur carrier protein TusA (tRNA thiolation, molybdenum cofactor biosynthesis)	TusA		23894086	1DCJ
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_08015	COG0450	V	Alkyl hydroperoxide reductase subunit AhpC (peroxiredoxin)	AhpC			2RII
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_08020	COG0329	EM	4-hydroxy-tetrahydrodipicolinate synthase/N-acetylneuraminate lyase	DapA	Lysine biosynthesis	27574185	2R91
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_08025	COG3317	M	Outer membrane beta-barrel protein assembly factor BamC	BamC		21823654;28760846	2LAE
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_08030	COG0152	F	Phosphoribosylaminoimidazole-succinocarboxamide synthase	PurC	Purine biosynthesis		1A48
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_08035	COG1720	J	tRNA (Thr-GGU) A37 N6-methylase	TrmO	tRNA modification	22905870	1XQB
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_08045	COG0157	H	Nicotinate-nucleotide pyrophosphorylase	NadC	NAD biosynthesis		1O4U
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_08050	COG3023	M	N-acetyl-anhydromuramyl-L-alanine amidase AmpD	AmpD			2Y28
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_08055	COG0021	G	Transketolase	TktA	Pentose phosphate pathway		1AY0
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_08060	COG0508	C	Pyruvate/2-oxoglutarate dehydrogenase complex, dihydrolipoamide acyltransferase (E2) component	AceF	Pyruvate oxidation		1B5S
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_08065	COG1181	MR	D-alanine-D-alanine ligase or related ATP-grasp enzyme	DdlA	Mureine biosynthesis		1E4E
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_08070	COG0447	H	1,4-Dihydroxy-2-naphthoyl-CoA synthase	MenB	Menaquinone biosynthesis		4ELS
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_08075	COG4799	I	Acetyl-CoA carboxylase, carboxyltransferase component	MmdA			1OD2
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_08085	COG0789	K	DNA-binding transcriptional regulator, MerR family	SoxR			2VZ4
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_08090	COG4604	P	ABC-type enterochelin transport system, ATPase component	CeuD			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_08095	COG4598	E	ABC-type histidine transport system, ATPase component	HisP			1B0U
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_08100	COG0683	E	ABC-type branched-chain amino acid transport system, periplasmic component	LivK			1USG
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_08105	COG4177	E	ABC-type branched-chain amino acid transport system, permease component	LivM			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_08110	COG1079	F	ABC-type guanosine uptake system NupNOPQ, permease subunit NupQ	NupQ		21926227	
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_08120	COG0447	H	1,4-Dihydroxy-2-naphthoyl-CoA synthase	MenB	Menaquinone biosynthesis		4ELS
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_08125	COG1250	I	3-hydroxyacyl-CoA dehydrogenase	FadB	Fatty acid biosynthesis		5ZQZ
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_08135	COG1893	H	Ketopantoate reductase	PanE	Pantothenate/CoA biosynthesis		1BG6
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_08145	COG3040	M	Bacterial lipocalin Blc	Blc			1QWD
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_08150	COG1522	K	DNA-binding transcriptional regulator, Lrp family	Lrp			1I1G
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_08155	COG0473	CE	Isocitrate/isopropylmalate dehydrogenase	LeuB	TCA cycle		1GC9
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_08160	COG0426	C	Flavorubredoxin	NorV			4JHC
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_08165	COG3608	R	Predicted deacylase				3CDX
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_08170	COG4778	P	Alpha-D-ribose 1-methylphosphonate 5-triphosphate synthase subunit PhnL	PhnL			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_08175	COG4597	E	ABC-type amino acid transport system, permease component	BatB			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_08180	COG4597	E	ABC-type amino acid transport system, permease component	BatB			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_08195	COG2202	T	PAS domain	PAS			2MWG
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_08200	COG0027	F	Formate-dependent phosphoribosylglycinamide formyltransferase (GAR transformylase)	PurT	Purine biosynthesis		1KJ8
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_08210	COG2153	R	Predicted N-acyltransferase, GNAT family	ElaA			1XEB
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_08215	COG2850	J	Ribosomal protein L16 Arg81 hydroxylase, contains JmjC domain	RoxA			1VRB
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_08220	COG0015	F	Adenylosuccinate lyase	PurB	Purine biosynthesis		2HVG
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_08230	COG0037	J	tRNA(Ile)-lysidine synthase TilS/MesJ	TilS	tRNA modification	21435031	1NI5
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_08235	COG0494	V	8-oxo-dGTP pyrophosphatase MutT and related house-cleaning NTP pyrophosphohydrolases, NUDIX family	MutT			4V14
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_08245	COG2838	C	Monomeric isocitrate dehydrogenase	IcdM	TCA cycle		1ITW
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_08250	COG2127	O	ATP-dependent Clp protease adapter protein ClpS	ClpS			1LZW
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_08255	COG0542	O	ATP-dependent Clp protease, ATP-binding subunit ClpA	ClpA			1KSF
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_08265	COG2217	P	Cation-transporting P-type ATPase	ZntA			4BBJ
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_08280	COG0053	P	Divalent metal cation (Fe/Co/Zn/Cd) efflux pump	FieF			2QFI
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_08285	COG4876	S	Uncharacterized conserved protein YdaT	YdaT			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_08305	COG2217	P	Cation-transporting P-type ATPase	ZntA			4BBJ
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_08325	COG1485	D	Cell division protein ZapE (Z ring-associated ATPase), AFG1 superfamily	ZapE			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_08340	COG0593	L	Chromosomal replication initiation ATPase DnaA	DnaA			1L8Q
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_08345	COG2390	K	DNA-binding transcriptional regulator LsrR, DeoR family	DeoR		23974133;24893262	2GNP
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_08355	COG3248	M	Nucleoside-specific outer membrane channel protein Tsx	Tsx			1TLW
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_08360	COG2378	K	Predicted DNA-binding transcriptional regulator YobV, contains HTH and WYL domains	YobV			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_08365	COG1622	C	Heme/copper-type cytochrome/quinol oxidase, subunit 2	CyoA			1CYW
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_08370	COG0843	C	Heme/copper-type cytochrome/quinol oxidase, subunit 1	CyoB			1AR1
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_08375	COG1845	C	Heme/copper-type cytochrome/quinol oxidase, subunit 3	CyoC			1QLE
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_08380	COG3125	C	Heme/copper-type cytochrome/quinol oxidase, subunit 4	CyoD			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_08385	COG0382	H	4-hydroxybenzoate polyprenyltransferase	UbiA	Ubiquinone biosynthesis	28830929	4OD4
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_08390	COG0280	C	Phosphotransacetylase (includes Pta, EutD and phosphobutyryltransferase)	Pta		28754323	1QZT
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_08395	COG3426	C	Butyrate kinase	Buk			1SAZ
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_08400	COG0697	GER	Permease of the drug/metabolite transporter (DMT) superfamily	RhaT			5I20
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_08410	COG0845	MV	Multidrug efflux pump subunit AcrA (membrane-fusion protein)	AcrA			1T5E
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_08430	COG0591	E	Na+/proline symporter	PutP			5NVA
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_08440	COG4145	H	Na+/panthothenate symporter	PanF			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_08445	COG4327	S	Uncharacterized membrane protein, DUF4212 domain				
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_08450	COG0517	T	CBS domain	CBS			1B3O
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_08470	COG2610	G	H+/gluconate symporter GntT or related permease, GntP/DsdX family	GntT			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_08475	COG2814	G	Predicted arabinose efflux permease AraJ, MFS family	AraJ			4LDS
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_08495	COG2239	P	Mg/Co/Ni transporter MgtE (contains CBS domain)	MgtE			2YVX
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_08505	COG1129	G	ABC-type sugar transport system, ATPase component	MglA			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_08510	COG4531	P	ABC-type Zn2+ transport system, periplasmic component/surface adhesin ZnuA	ZnuA			2OGW
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_08515	COG2512	R	Predicted transcriptional regulator, contains CW (cell wall-binding) repeats and an HTH domain				
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_08520	COG0466	O	ATP-dependent Lon protease, bacterial type	Lon			6ON2
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_08530	COG2184	T	Fido, protein-threonine AMPylation domain	FIDO		19503829	2F6S
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_08550	COG3593	L	Predicted ATP-dependent endonuclease of the OLD family, contains P-loop ATPase and TOPRIM domains	YbjD			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_08555	COG3593	L	Predicted ATP-dependent endonuclease of the OLD family, contains P-loop ATPase and TOPRIM domains	YbjD			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_08560	COG0134	E	Indole-3-glycerol phosphate synthase	TrpC	Aromatic amino acid biosynthesis		6BMA
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_08565	COG0547	E	Anthranilate phosphoribosyltransferase, glycosyltransferase domain	TrpD	Aromatic amino acid biosynthesis		1KGZ
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_08570	COG0505	EF	Carbamoylphosphate synthase small subunit	CarA	Arginine biosynthesis		1C30
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_08575	COG3383	R	Predicted molibdopterin-dependent oxidoreductase YjgC	YjgC			1AA6
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_08580	COG1905	C	NADH:ubiquinone oxidoreductase 24 kD subunit (chain E)	NuoE	NADH dehydrogenase		5XF9
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_08585	COG4531	P	ABC-type Zn2+ transport system, periplasmic component/surface adhesin ZnuA	ZnuA			2OGW
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_08590	COG0560	E	Phosphoserine phosphatase	SerB	Serine biosynthesis		3N28
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_08595	COG1249	C	Dihydrolipoamide dehydrogenase (E3) component of pyruvate/2-oxoglutarate dehydrogenase complex or glutathione oxidoreductase	Lpd	Glycine cleavagePyruvate oxidation		6QKG
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_08600	COG0036	G	Pentose-5-phosphate-3-epimerase	Rpe	Pentose phosphate pathway		1H1Y
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_08605	COG0725	P	ABC-type molybdate transport system, periplasmic Mo-binding protein ModA	ModA	Molybdopterin biosynthesis		1AMF
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_08610	COG1178	P	ABC-type Fe3+ transport system, permease component	FbpB			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_08615	COG1177	E	ABC-type spermidine/putrescine transport system, permease component II	PotC			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_08620	COG0488	R	ATPase components of ABC transporters with duplicated ATPase domains	Uup			5ZXD
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_08635	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_08645	COG1187	J	Pseudouridylate synthase RsuA, specific for 16S rRNA U516  and 23S rRNA U2605	RsuA	16S rRNA modification		1KSK
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_08650	COG0668	M	Small-conductance mechanosensitive channel	MscS			2OAU
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_08660	COG4575	J	Membrane-anchored ribosome-binding protein ElaB, inhibits growth in stationary phase, YqjD/DUF883 family	ElaB			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_08665	COG5393	S	Uncharacterized membrane protein YqjE	YqjE			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_08670	COG0689	J	Ribonuclease PH	Rph			1UDO
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_08675	COG4913	S	Uncharacterized conserved protein, contains a C-terminal ATPase domain				
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_08690	COG3335	X	Transposase				
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_08705	COG4804	R	Predicted nuclease of restriction endonuclease-like (RecB) superfamily,  DUF1016 family	YhcG		16011798	
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_08710	COG2512	R	Predicted transcriptional regulator, contains CW (cell wall-binding) repeats and an HTH domain				
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_08715	COG2227	H	2-polyprenyl-3-methyl-5-hydroxy-6-metoxy-1,4-benzoquinol methylase	UbiG	Ubiquinone biosynthesis		1BHJ
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_08730	COG0477	GEPR	MFS family permease, includes anhydromuropeptide permease AmpG	ProP		12426329	
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_08745	COG0572	F	Uridine kinase	Udk	Pyrimidine salvage		5B3F
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_08750	COG1758	K	DNA-directed RNA polymerase, subunit K/omega	RpoZ	RNA polymerase		3LU0
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_08755	COG0317	TK	(p)ppGpp synthase/hydrolase, HD superfamily	SpoT			1TDJ
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_08765	COG0451	M	Nucleoside-diphosphate-sugar epimerase	WcaG			2X4G
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_08770	COG0188	L	DNA gyrase/topoisomerase IV, subunit A	GyrA			1SUU
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_08775	COG2217	P	Cation-transporting P-type ATPase	ZntA			4BBJ
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_08790	COG1320	P	Multisubunit Na+/H+ antiporter, MnhG subunit	MnhG			6CFW
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_08795	COG2212	P	Multisubunit Na+/H+ antiporter, MnhF subunit	MnhF			6CFW
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_08805	COG1008	C	NADH:ubiquinone oxidoreductase subunit 4 (chain M)	NuoM	NADH dehydrogenase		6HUM
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_08815	COG2111	P	Multisubunit Na+/H+ antiporter, MnhB subunit	MnhB			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_08825	COG0526	O	Thiol-disulfide isomerase or thioredoxin	TrxA			1XFL
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_08835	COG1327	K	Transcriptional regulator NrdR, contains Zn-ribbon and ATP-cone domains	NrdR			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_08840	COG2131	F	Deoxycytidylate deaminase	ComEB		25746996;31954084	2HVV
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_08845	COG0108	H	3,4-dihydroxy-2-butanone 4-phosphate synthase	RibB	Riboflavin/FAD biosynthesis		1G57
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_08850	COG1731	H	Archaeal riboflavin synthase	RibC2	Riboflavin/FAD biosynthesis		5IM5
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_08860	COG0309	O	Carbamoyl dehydratase HypE (hydrogenase maturation factor)	HypE		28618091	2I6R
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_08875	COG1067	O	Predicted ATP-dependent protease	LonB			3K1J
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_08885	COG0129	EG	Dihydroxyacid dehydratase/phosphogluconate dehydratase	IlvD	Isoleucine, leucine, valine biosynthesis		2GP4
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_08890	COG0673	R	Predicted dehydrogenase	MviM			3UUW
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_08905	COG4679	X	Phage-related protein				
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_08915	COG0697	GER	Permease of the drug/metabolite transporter (DMT) superfamily	RhaT			5I20
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_08930	COG2202	T	PAS domain	PAS			2MWG
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_08940	COG1132	V	ABC-type multidrug transport system, ATPase and permease component	MdlB			2HYD
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_08945	COG1085	G	Galactose-1-phosphate uridylyltransferase	GalT			1GUP
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_08950	COG0572	F	Uridine kinase	Udk	Pyrimidine salvage		5B3F
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_08960	COG0151	F	Phosphoribosylamine-glycine ligase	PurD	Purine biosynthesis		1GSO
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_08975	COG0465	O	ATP-dependent Zn proteases	HflB			1LV7
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_08985	COG0033	G	Phosphoglucomutase/phosphomannomutase	Pgm		30938049	1C47
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_08990	COG0149	G	Triosephosphate isomerase	TpiA	Glycolysis		1HG3
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_08995	COG1314	U	Protein translocase subunit SecG	SecG			2AKH
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_09010	COG0779	J	Ribosome maturation factor RimP	RimP			1IB8
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_09015	COG0539	J	Ribosomal protein S1	RpsA	Ribosome 30S subunit		4NNH
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_09020	COG3276	J	Selenocysteine-specific translation elongation factor SelB	SelB	Translation factors		4ZU9
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_09030	COG0130	J	tRNA U55 pseudouridine synthase TruB, may also work on U342 of tmRNA	TruB	tRNA modification		1K8W
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_09040	COG2123	U	Exosome complex RNA-binding protein Rrp42, RNase PH superfamily	Rrp42		23319881	4IFD
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_09050	COG2988	E	Succinylglutamate desuccinylase	AstE			1YW4
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_09055	COG0753	P	Catalase	KatE			6RJR
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_09060	COG0042	J	tRNA-dihydrouridine synthase	DusA	tRNA modification		1VHN
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_09070	COG1396	K	Transcriptional regulator, contains XRE-family HTH domain	HipB			1ADR
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_09075	COG0008	J	Glutamyl- or glutaminyl-tRNA synthetase	GlnS	Heme biosynthesis		1EUQ
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_09090	COG1023	G	6-phosphogluconate dehydrogenase (decarboxylating)	YqeC			4E21
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_09095	COG0372	C	Citrate synthase	GltA	TCA cycle	25211225	3TQG
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_09100	COG2009	C	Succinate dehydrogenase/fumarate reductase, cytochrome b subunit	SdhC		18511537	2WU2
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_09105	COG2142	C	Succinate dehydrogenase, hydrophobic anchor subunit	SdhD			2WS3
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_09110	COG1053	C	Succinate dehydrogenase/fumarate reductase, flavoprotein subunit	SdhA	TCA cycle		1KF6
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_09125	COG0814	E	Amino acid permease	SdaC			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_09140	COG2207	K	AraC-type DNA-binding domain and AraC-containing proteins	AraC			1BL0
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_09145	COG2226	H	Ubiquinone/menaquinone biosynthesis C-methylase UbiE/MenG	UbiE	Biotin biosynthesis		4OBW
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_09155	COG3666	X	Transposase, IS1182 family				
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_09170	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_09180	COG0272	L	NAD-dependent DNA ligase	Lig			5TT5
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_09190	COG0446	I	NADPH-dependent 2,4-dienoyl-CoA reductase, sulfur reductase, or a related oxidoreductase	FadH2			1VRQ
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_09195	COG3224	R	Antibiotic biosynthesis monooxygenase (ABM) superfamily enzyme				
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_09200	COG1387	ER	Histidinol phosphatase or related hydrolase of the PHP family	HIS2	Histidine biosynthesis		1M65
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_09205	COG0009	J	tRNA A37 threonylcarbamoyladenosine synthetase subunit TsaC/SUA5/YrdC	TsaC	tRNA modification		1HRU
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_09210	COG1226	P	Voltage-gated potassium channel Kch	Kch			3FWZ
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_09215	COG1437	TR	Adenylate cyclase class IV, CYTH domain (includes archaeal enzymes of unknown function)	CyaB			1YEM
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_09220	COG1392	P	Phosphate transport regulator YkaA, distantly related to PhoU, UPF0111/DUF47 family	YkaA			2IIU
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_09225	COG0306	P	Phosphate/sulfate permease	PitA		31358606	
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_09245	COG2876	E	3-deoxy-D-arabino-heptulosonate 7-phosphate (DAHP) synthase	AroGA	Aromatic amino acid biosynthesis		5J6F
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_09265	COG1018	C	Flavodoxin/ferredoxin--NADP reductase	Fpr			3OZU
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_09270	COG0043	H	3-polyprenyl-4-hydroxybenzoate decarboxylase	UbiD	Ubiquinone biosynthesis	28057757	2IDB
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_09275	COG1157	NU	Flagellar biosynthesis/type III secretory pathway ATPase FliI	FliI			5B0O
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_09285	COG0248	FT	Exopolyphosphatase/pppGpp-phosphohydrolase	GppA			1T6C
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_09290	COG0603	J	7-cyano-7-deazaguanine synthase (queuosine biosynthesis)	QueC	tRNA modification	14660578;17384645	2PG3
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_09295	COG4799	I	Acetyl-CoA carboxylase, carboxyltransferase component	MmdA			1OD2
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_09300	COG2176	L	DNA polymerase III, alpha subunit (gram-positive type)	PolC			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_09310	COG0167	F	Dihydroorotate dehydrogenase	PyrD	Pyrimidine biosynthesis		1GT8
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_09315	COG2188	K	DNA-binding transcriptional regulator, GntR family	MngR			2WV0
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_09320	COG3852	T	Signal transduction histidine kinase NtrB, nitrogen specific	NtrB		23893111	
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_09325	COG0784	T	CheY-like REC (receiver) domain, includes chemotaxis protein CheY  and sporulation regulator Spo0F	CheY			6QRJ
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_09335	COG0110	R	Acetyltransferase, isoleucine patch superfamily	WbbJ			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_09340	COG2902	E	NAD-specific glutamate dehydrogenase	Gdh2			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_09345	COG0220	J	tRNA G46 N7-methylase TrmB	TrmB	tRNA modification	19373903;16600901	1YZH
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_09350	COG1794	M	Amino acid racemase YgeA	RacX			5ELL
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_09355	COG3945	R	Hemerythrin domain				
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_09360	COG2812	L	DNA polymerase III, gamma/tau subunits	DnaX			1A5T
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_09370	COG1674	D	DNA segregation ATPase FtsK/SpoIIIE or related protein	FtsK			2IUT
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_09390	COG2512	R	Predicted transcriptional regulator, contains CW (cell wall-binding) repeats and an HTH domain				
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_09400	COG1250	I	3-hydroxyacyl-CoA dehydrogenase	FadB	Fatty acid biosynthesis		5ZQZ
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_09405	COG1804	I	Crotonobetainyl-CoA:carnitine CoA-transferase CaiB and related acyl-CoA transferases	CaiB			1P5H
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_09410	COG2086	C	Electron transfer flavoprotein, alpha and beta subunits	FixA			5OL2
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_09415	COG2025	C	Electron transfer flavoprotein, alpha subunit FixB	FixB			1EFP
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_09420	COG1414	K	DNA-binding transcriptional regulator, IclR family	IclR			1MKM
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_09430	COG2057	I	Acyl-CoA:acetate/3-ketoacid CoA transferase, beta subunit	AtoA			5DBN
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_09440	COG0596	HR	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold	MenH	Menaquinone biosynthesis		4MYS
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_09445	COG2522	K	Predicted transcriptional regulator, contains XRE-type HTH domain	AF0184			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_09450	COG4666	R	TRAP-type uncharacterized transport system, fused permease components				
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_09460	COG0160	E	Acetylornithine aminotransferase/4-aminobutyrate aminotransferase	ArgD	Arginine biosynthesis		1SF2
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_09470	COG0464	MDT	AAA+-type ATPase, SpoVK/Ycf46/Vps4 family	SpoVK			3SYL
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_09475	COG1189	J	Predicted rRNA methylase YqxC, contains S4 and FtsJ domains	YqxC			3OPN
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_09480	COG1534	J	RNA-binding protein YhbY	YhbY			1JO0
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_09490	COG0439	I	Biotin carboxylase	AccC	Fatty acid biosynthesis		1BNC
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_09495	COG0512	EH	Anthranilate/para-aminobenzoate synthase component II (glutamine amidotransferase)	PabA	Aromatic amino acid biosynthesis		1I1Q
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_09500	COG0289	E	4-hydroxy-tetrahydrodipicolinate reductase	DapB	Lysine biosynthesis	29684280	1ARZ
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_09505	COG3553	S	Uncharacterized conserved protein, DUF2218 domain				2JPI
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_09510	COG0484	O	DnaJ-class molecular chaperone with C-terminal Zn finger domain	DnaJ			1BQ0
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_09515	COG0443	O	Molecular chaperone DnaK (HSP70)	DnaK			3I33
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_09520	COG0576	O	Molecular chaperone GrpE (heat shock protein HSP-70)	GrpE			1DKG
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_09525	COG0497	L	DNA repair ATPase RecN	RecN			4AD8
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_09540	COG2914	V	Putative antitoxin component PasI (RatB) of the RatAB toxin-antitoxin module, ubiquitin-RnfH superfamily	PasI		23055930	2HJ1
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_09545	COG2867	J	Ribosome association toxin PasT (RatA) of the RatAB toxin-antitoxin module	PasT		21323758	1T17
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_09550	COG0691	O	tmRNA-binding protein	SmpB		26251518	1J1H
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_09560	COG1171	E	Threonine deaminase	IlvA	Isoleucine, leucine, valine biosynthesis		3IAU
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_09565	COG0135	E	Phosphoribosylanthranilate isomerase	TrpF	Aromatic amino acid biosynthesis		1DL3
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_09570	COG0101	J	tRNA U38,U39,U40 pseudouridine synthase TruA	TruA	tRNA modification		1DJ0
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_09580	COG0136	E	Aspartate-semialdehyde dehydrogenase	Asd	Lysine biosynthesis		1BRM
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_09585	COG0473	CE	Isocitrate/isopropylmalate dehydrogenase	LeuB	TCA cycle		1GC9
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_09590	COG0066	E	3-isopropylmalate dehydratase small subunit	LeuD	Isoleucine, leucine, valine biosynthesis		3Q3W
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_09595	COG1049	C	Aconitase B	AcnB	TCA cycle		1L5J
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_09605	COG1893	H	Ketopantoate reductase	PanE	Pantothenate/CoA biosynthesis		1BG6
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_09610	COG1484	L	DNA replication protein DnaC	DnaC			2QGZ
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_09620	COG3023	M	N-acetyl-anhydromuramyl-L-alanine amidase AmpD	AmpD			2Y28
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_09625	COG0021	G	Transketolase	TktA	Pentose phosphate pathway		1AY0
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_09630	COG0508	C	Pyruvate/2-oxoglutarate dehydrogenase complex, dihydrolipoamide acyltransferase (E2) component	AceF	Pyruvate oxidation		1B5S
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_09635	COG1102	F	Cytidylate kinase	CmkB			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_09640	COG0533	J	tRNA A37 threonylcarbamoyltransferase TsaD	TsaD	tRNA modification	23072323;21285948;32385138	3ENO
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_09665	COG1022	I	Long-chain acyl-CoA synthetase (AMP-forming)	FAA1			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_09670	COG2205	T	K+-sensing histidine kinase KdpD	KdpD			2KSF
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_09675	COG0784	T	CheY-like REC (receiver) domain, includes chemotaxis protein CheY  and sporulation regulator Spo0F	CheY			6QRJ
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_09680	COG0617	J	tRNA nucleotidyltransferase/poly(A) polymerase	PcnB	tRNA modification		3WFR
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_09685	COG0801	H	7,8-dihydro-6-hydroxymethylpterin pyrophosphokinase (folate biosynthesis)	FolK	Folate biosynthesis		1CBK
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_09690	COG0413	H	Ketopantoate hydroxymethyltransferase	PanB	Pantothenate/CoA biosynthesis		3VAV
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_09695	COG0414	H	Panthothenate synthetase	PanC	Pantothenate/CoA biosynthesis	17968677	1DIN
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_09700	COG0853	H	Aspartate 1-decarboxylase	PanD	Pantothenate/CoA biosynthesis		1AW8
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_09705	COG3321	Q	Acyl transferase domain in polyketide synthase (PKS) enzymes	PksD			6IYO
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_09710	COG2807	P	Cyanate permease	CynX			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_09715	COG1098	R	Predicted RNA-binding protein, contains ribosomal protein S1 (RPS1) domain	YabR			2K4K
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_09725	COG1171	E	Threonine deaminase	IlvA	Isoleucine, leucine, valine biosynthesis		3IAU
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_09745	COG3079	S	Uncharacterized conserved protein YgfB, UPF0149 family	YgfB			1IZM
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_09750	COG0024	J	Methionine aminopeptidase	Map			3J2I
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_09755	COG0579	G	L-2-hydroxyglutarate oxidase LhgO	LhgO			3DME
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_09765	COG0265	O	Periplasmic serine protease, S1-C subfamily, contain C-terminal PDZ domain	DegQ		29686141	2HGA
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_09770	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_09775	COG0696	G	Phosphoglycerate mutase (BPG-independent), AlkP superfamily	GpmI	Glycolysis		1EJJ
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_09780	COG2897	P	3-mercaptopyruvate sulfurtransferase SseA, contains two rhodanese domains	SseA			1BOH
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_09785	COG1952	U	Preprotein translocase subunit SecB	SecB			1OZB
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_09790	COG1385	J	16S rRNA U1498 N3-methylase RsmE	RsmE	16S rRNA modification		1NXZ
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_09800	COG0189	EHJQ	Glutathione synthase, LysX or RimK-type ligase, ATP-grasp superfamily	LysX	Lysine biosynthesis		1GLV
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_09805	COG1678	K	Putative transcriptional regulator, AlgH/UPF0301 family	AlgH			2AJ2
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_09820	COG0029	H	Aspartate oxidase	NadB	NAD biosynthesis		1KNP
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_09825	COG0479	C	Succinate dehydrogenase/fumarate reductase, Fe-S protein subunit	SdhB/FrdB	TCA cycle		6LUM
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_09830	COG1071	C	TPP-dependent pyruvate or acetoin dehydrogenase subunit alpha	AcoA	Pyruvate oxidation		1DTW
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_09835	COG0508	C	Pyruvate/2-oxoglutarate dehydrogenase complex, dihydrolipoamide acyltransferase (E2) component	AceF	Pyruvate oxidation		1B5S
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_09840	COG0446	I	NADPH-dependent 2,4-dienoyl-CoA reductase, sulfur reductase, or a related oxidoreductase	FadH2			1VRQ
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_09845	COG0469	G	Pyruvate kinase	PykF	Glycolysis		6QXL
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_09850	COG0725	P	ABC-type molybdate transport system, periplasmic Mo-binding protein ModA	ModA	Molybdopterin biosynthesis		1AMF
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_09855	COG4208	P	ABC-type sulfate transport system, permease component	CysW			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_09860	COG0488	R	ATPase components of ABC transporters with duplicated ATPase domains	Uup			5ZXD
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_09870	COG4663	Q	TRAP-type mannitol/chloroaromatic compound transport system, periplasmic component	FcbT1			2HZK
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_09875	COG4665	Q	TRAP-type mannitol/chloroaromatic compound transport system, small permease component	FcbT2			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_09880	COG4666	R	TRAP-type uncharacterized transport system, fused permease components				
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_09885	COG2358	R	TRAP-type uncharacterized transport system, periplasmic component	Imp			1US4
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_09890	COG1593	G	TRAP-type C4-dicarboxylate transport system, large permease component	DctQ			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_09895	COG0589	T	Nucleotide-binding universal stress protein,  UspA family	UspA			1JMV
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_09910	COG3852	T	Signal transduction histidine kinase NtrB, nitrogen specific	NtrB		23893111	
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_09920	COG5002	T	Sensor histidine kinase WalK	WalK			4I5S
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_09925	COG4566	TK	DNA-binding response regulator, FixJ family, consists of REC and HTH domains	FixJ			1YIO
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_09930	COG1012	I	Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase	AdhE	Proline degradation		1A4S
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_09935	COG1020	Q	EntF, seryl-AMP synthase component  of non-ribosomal peptide synthetase	EntF			5ES5
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_09940	COG2175	Q	Taurine dioxygenase, alpha-ketoglutarate-dependent	TauD			1DRT
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_09945	COG2977	Q	4'-phosphopantetheinyl transferase EntD (siderophore biosynthesis)	EntD			4QJK
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_09950	COG3319	Q	Thioesterase domain of type I polyketide synthase or non-ribosomal peptide synthetase	EntF2			5JA1
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_09960	COG3712	PT	Periplasmic ferric-dicitrate binding protein FecR, regulates iron transport	FecR			5CAM
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_09965	COG1595	K	DNA-directed RNA polymerase specialized sigma subunit, sigma24 family	RpoE	RNA polymerase		2Q1Z
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_09970	COG4105	M	Outer membrane protein assembly factor BamD, BamD/ComL family	BamD			2YHC
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_09975	COG1134	G	ABC-type polysaccharide/polyol phosphate transport system, ATPase component	TagH			6JBH
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_09980	COG1118	P	ABC-type sulfate/molybdate transport systems, ATPase component	CysA			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_09990	COG3038	C	Cytochrome b561	CybB			5OC0
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_09995	COG2005	K	DNA-binding transcriptional regulator ModE (molybdenum-dependent)	ModE		19779461	1B9M
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_10000	COG0697	GER	Permease of the drug/metabolite transporter (DMT) superfamily	RhaT			5I20
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_10015	COG0446	I	NADPH-dependent 2,4-dienoyl-CoA reductase, sulfur reductase, or a related oxidoreductase	FadH2			1VRQ
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_10020	COG1020	Q	EntF, seryl-AMP synthase component  of non-ribosomal peptide synthetase	EntF			5ES5
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_10030	COG2259	S	Uncharacterized membrane protein YphA, DoxX/SURF4 family	DoxX			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_10035	COG2818	L	3-methyladenine DNA glycosylase Tag	Tag			1LMZ
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_10045	COG2169	L	Methylphosphotriester-DNA--protein-cysteine methyltransferase (N-terminal fragment of Ada), contains Zn-binding and two AraC-type DNA-binding domains	AdaA			1ADN
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_10050	COG0451	M	Nucleoside-diphosphate-sugar epimerase	WcaG			2X4G
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_10055	COG0318	I	O-succinylbenzoic acid-CoA ligase MenE or related acyl-CoA synthetase (AMP-forming)	MenE/FadK	Menaquinone biosynthesis	25151136;27455459	5EY9
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_10080	COG0551	L	DNA topoisomerase I, ssDNA-binding Zn-finger and Zn-ribbon domains	YrdD			1YUA
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_10085	COG3243	I	Poly-beta-hydroxybutyrate synthase	PhaC			5XAV
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_10095	COG1060	H	2-iminoacetate synthase ThiH/Menaquinone biosynthesis enzymes MqnC and MqnE	ThiH	Thiamine biosynthesis	18801996	4WCX
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_10100	COG0095	H	Lipoate-protein ligase A	LplA	Lipoate biosynthesis		4TVW
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_10105	COG2921	T	Putative lipoate-binding regulatory protein, UPF0250 family	YbeD		15547281	1RWU
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_10110	COG2367	V	Beta-lactamase class A	PenP			6W34
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_10115	COG0797	M	Peptidoglycan lytic transglycosylase RlpA, contains C-terminal SPOR domain	RlpA		24806796	4AVR
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_10120	COG2951	M	Membrane-bound lytic murein transglycosylase B	MltB			1D0K
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_10125	COG0772	D	Peptodoglycan polymerase FtsW/RodA/SpoVE	FtsW		30692671	6BAR
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_10130	COG0744	M	Penicillin-binding protein 1B/1F, peptidoglycan  transglycosylase/transpeptidase	MrcB			3FWL
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_10135	COG1576	J	23S rRNA pseudoU1915 N3-methylase RlmH	RlmH	23S rRNA modification		1NS5
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_10140	COG0799	J	Ribosomal silencing factor RsfS, regulates association of 30S and 50S subunits	RsfS			6SJ6
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_10145	COG0669	H	Phosphopantetheine adenylyltransferase	CoaD	Pantothenate/CoA biosynthesis		3F3M
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_10150	COG0014	E	Gamma-glutamyl phosphate reductase	ProA	Proline biosynthesis		4GHK
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_10160	COG2199	T	GGDEF domain, diguanylate cyclase (c-di-GMP synthetase) or its enzymatically inactive variants	GGDEF			6D9M
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_10165	COG0671	I	Membrane-associated phospholipid phosphatase	PgpB	Phospholipid biosynthesis		1D2T
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_10170	COG1279	E	Arginine exporter protein ArgO	ArgO			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_10175	COG0365	I	Acyl-coenzyme A synthetase/AMP-(fatty) acid ligase	Acs		14638756	4B2O
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_10180	COG0771	M	UDP-N-acetylmuramoylalanine-D-glutamate ligase	MurD	Mureine biosynthesis		1E0D
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_10190	COG0346	Q	Catechol 2,3-dioxygenase or related enzyme, vicinal oxygen chelate (VOC) family	GloA		11830595	3R4Q
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_10195	COG1249	C	Dihydrolipoamide dehydrogenase (E3) component of pyruvate/2-oxoglutarate dehydrogenase complex or glutathione oxidoreductase	Lpd	Glycine cleavagePyruvate oxidation		6QKG
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_10205	COG4321	R	Predicted DNA-binding protein, contains ribbon-helix-helix (RHH) domain				3KK4
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_10260	COG1038	C	Pyruvate carboxylase	PycA	Urea cycle		5VYW
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_10265	COG2263	R	Predicted RNA methylase				6H2U
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_10270	COG0167	F	Dihydroorotate dehydrogenase	PyrD	Pyrimidine biosynthesis		1GT8
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_10275	COG2204	T	DNA-binding transcriptional response regulator, NtrC family, contains REC, AAA-type ATPase, and a Fis-type DNA-binding domains	AtoC			1ZY2
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_10280	COG0138	F	AICAR transformylase/IMP cyclohydrolase PurH	PurH	Purine biosynthesis		1G8M
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_10285	COG1012	I	Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase	AdhE	Proline degradation		1A4S
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_10290	COG0302	H	GTP cyclohydrolase I	FolE	Folate biosynthesis	19767425;30692671	1A8R
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_10305	COG1040	R	DNA utilization protein ComFC/GntX, contains phosphoribosyltransferase domain	ComFC		28618091	
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_10320	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_10325	COG3030	R	FxsA protein affecting phage T7 exclusion by the F plasmid, UPF0716 family	FxsA			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_10335	COG0459	O	Chaperonin GroEL (HSP60 family)	GroEL			1AON
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_10340	COG0219	J	tRNA(Leu) C34 or U34 (ribose-2'-O)-methylase TrmL, contains SPOUT domain	TrmL	tRNA modification		4JAK
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_10355	COG1960	I	Acyl-CoA dehydrogenase related to the alkylation response protein AidB	CaiA	Fatty acid biosynthesis		1BUC
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_10365	COG4221	C	NADP-dependent 3-hydroxy acid dehydrogenase YdfG	YdfG	Pyrimidine degradation		3P19
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_10375	COG2050	Q	Acyl-CoA thioesterase PaaI, contains HGG motif	PaaI			1PSU
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_10380	COG2050	Q	Acyl-CoA thioesterase PaaI, contains HGG motif	PaaI			1PSU
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_10385	COG1309	K	DNA-binding protein, AcrR family, includes nucleoid occlusion protein SlmA	AcrR			2QOP
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_10390	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_10395	COG0365	I	Acyl-coenzyme A synthetase/AMP-(fatty) acid ligase	Acs		14638756	4B2O
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_10405	COG0524	G	Sugar or nucleoside kinase, ribokinase family	RbsK	Glycolysis		2QCV
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_10410	COG0859	M	ADP-heptose:LPS heptosyltransferase	RfaF			1PSW
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_10415	COG3642	J	tRNA A-37 threonylcarbamoyl transferase component Bud32	Bud32	tRNA modification		2VWB
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_10420	COG0297	G	Glycogen synthase	GlgA			1RZU
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_10425	COG0859	M	ADP-heptose:LPS heptosyltransferase	RfaF			1PSW
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_10430	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_10435	COG0542	O	ATP-dependent Clp protease, ATP-binding subunit ClpA	ClpA			1KSF
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_10455	COG1061	KL	Superfamily II DNA or RNA helicase	SSL2			6JDE
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_10470	COG5285	Q	Ectoine hydroxylase-related dioxygenase, phytanoyl-CoA dioxygenase (PhyH) family	PhyH			2A1X
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_10475	COG0179	Q	2-keto-4-pentenoate hydratase/2-oxohepta-3-ene-1,7-dioic acid hydratase (catechol pathway)	YcgM			1GTT
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_10480	COG0019	E	Diaminopimelate decarboxylase	LysA	Lysine biosynthesis		1D7K
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_10485	COG3173	R	Predicted  kinase, aminoglycoside phosphotransferase (APT) family	YcbJ			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_10490	COG0749	L	DNA polymerase I, 3'-5' exonuclease and polymerase domains	PolA			1D8Y
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_10495	COG0789	K	DNA-binding transcriptional regulator, MerR family	SoxR			2VZ4
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_10500	COG2067	I	Long-chain fatty acid transport protein	FadL			1T16
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_10505	COG1186	J	Protein chain release factor PrfB	PrfB	Translation factors		1GQE
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_10510	COG0173	J	Aspartyl-tRNA synthetase	AspS	Aminoacyl-tRNA synthetases		1C0A
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_10520	COG2814	G	Predicted arabinose efflux permease AraJ, MFS family	AraJ			4LDS
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_10535	COG0456	J	Ribosomal protein S18 acetylase RimI and related acetyltransferases	RimI			1GHE
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_10545	COG1092	J	23S rRNA G2069 N7-methylase RlmK or C1962 C5-methylase RlmI	RlmK	23S rRNA modification		2B78
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_10555	COG4970	NW	Type IV pilus assembly protein FimT	FimT		17322192;28771515	
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_10560	COG0630	NU	Type IV secretory pathway ATPase VirB11/Archaellum biosynthesis ATPase ArlI/FlaI	VirB11		32416640	1G6O
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_10565	COG1459	NUW	Type II secretory pathway, component PulF	PulF			2VMA
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_10575	COG0572	F	Uridine kinase	Udk	Pyrimidine salvage		5B3F
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_10580	COG3024	L	Endogenous inhibitor of DNA gyrase, YacG/DUF329 family	YacG		18586829	1LV3
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_10595	COG4977	K	Transcriptional regulator GlxA, contains an amidase domain and an AraC-type DNA-binding HTH domain	GlxA			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_10605	COG2183	K	Transcriptional accessory protein Tex/SPT6	Tex			2OCE
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_10610	COG1102	F	Cytidylate kinase	CmkB			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_10615	COG0766	M	UDP-N-acetylglucosamine enolpyruvyl transferase	MurA	Mureine biosynthesis		1A2N
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_10620	COG0077	E	Prephenate dehydratase	PheA2	Aromatic amino acid biosynthesis		1PHZ
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_10625	COG0075	EF	Archaeal aspartate aminotransferase or a related aminotransferase, includes purine catabolism protein PucG	PucG	Serine biosynthesis		3NNK
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_10630	COG0188	L	DNA gyrase/topoisomerase IV, subunit A	GyrA			1SUU
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_10640	COG2207	K	AraC-type DNA-binding domain and AraC-containing proteins	AraC			1BL0
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_10660	COG4976	R	Predicted methyltransferase, contains TPR repeat				
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_10675	COG1131	V	ABC-type multidrug transport system, ATPase component	CcmA			5DO7
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_10680	COG3609	K	Transcriptional regulator, contains Arc/MetJ-type RHH (ribbon-helix-helix) DNA-binding domain	ParD			3KXE
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_10695	COG2944	K	DNA-binding transcriptional regulator YiaG, XRE-type HTH domain	YiaG			5JAA
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_10710	COG0526	O	Thiol-disulfide isomerase or thioredoxin	TrxA			1XFL
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_10715	COG1167	KE	DNA-binding transcriptional regulator, MocR family, contains an aminotransferase domain	ARO8	Lysine biosynthesis		2R2N
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_10735	COG3884	I	Acyl-ACP thioesterase	FatA			2ESS
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_10750	COG0758	L	Predicted Rossmann fold nucleotide-binding protein DprA/Smf involved in DNA uptake	Smf			3MAJ
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_10760	COG0790	R	TPR repeat	TPR			1KLX
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_10785	COG0624	E	Acetylornithine deacetylase/Succinyl-diaminopimelate desuccinylase or related deacylase	ArgE	Arginine biosynthesis		1CG2
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_10790	COG0783	PV	DNA-binding ferritin-like protein (oxidative damage protectant)	Dps			1DPS
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_10795	COG1929	G	Glycerate kinase	GlxK	Non-phosphorylated Entner-Doudoroff pathway		1TO6
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_10815	COG2215	P	ABC-type nickel/cobalt efflux system, permease component RcnA	RcnA			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_10820	COG0537	FR	Purine nucleoside phosphoramidase/Ap4A hydrolase, histidine triade (HIT) family	HinT		20934431	1AV5
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_10840	COG1607	I	Acyl-CoA hydrolase	YciA			5DM5
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_10850	COG0534	V	Na+-driven multidrug efflux pump, DinF/NorM/MATE family	NorM		29915058	3VVN
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_10855	COG2878	C	Na+-translocating ferredoxin:NAD+ oxidoreductase RNF, RnfB subunit	RnfB	Na+-translocating Fd:NADH oxidoreductase	24045950	
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_10860	COG1057	H	Nicotinate-nucleotide adenylyltransferase NadD	NadD	NAD biosynthesis		1YUM
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_10865	COG3321	Q	Acyl transferase domain in polyketide synthase (PKS) enzymes	PksD			6IYO
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_10870	COG0220	J	tRNA G46 N7-methylase TrmB	TrmB	tRNA modification	19373903;16600901	1YZH
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_10900	COG1778	MR	3-deoxy-D-manno-octulosonate 8-phosphate phosphatase KdsC and related HAD superfamily phosphatases	KdsC			3I6B
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_10905	COG0494	V	8-oxo-dGTP pyrophosphatase MutT and related house-cleaning NTP pyrophosphohydrolases, NUDIX family	MutT			4V14
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_10910	COG3605	T	Signal transduction protein containing GAF and PtsI domains	PtsP			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_10920	COG2204	T	DNA-binding transcriptional response regulator, NtrC family, contains REC, AAA-type ATPase, and a Fis-type DNA-binding domains	AtoC			1ZY2
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_10925	COG0730	P	Sulfite exporter TauE/SafE/YfcA and related permeases, UPF0721 family	TauE		21183667;22797525	
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_10930	COG0682	M	Prolipoprotein diacylglyceryltransferase	Lgt			5AZB
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_10935	COG0207	F	Thymidylate synthase	ThyA	Thymidylate biosynthesis		1AN5
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_10945	COG3109	T	sRNA-binding protein ProQ	ProQ			1DVO
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_10950	COG3203	M	Outer membrane porin OmpC/OmpF/PhoE	OmpC			1PHO
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_10955	COG2440	C	Ferredoxin-like protein FixX	FixX			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_10960	COG0210	L	Superfamily I DNA or RNA helicase	UvrD			6PPR
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_10970	COG1099	R	Predicted metal-dependent hydrolase, TIM-barrel fold				3GUW
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_10980	COG0470	L	DNA polymerase III, delta prime subunit	HolB			1A5T
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_10985	COG0125	F	Thymidylate kinase	Tmk	Thymidylate biosynthesis		3LV8
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_10990	COG1559	M	Endolytic transglycosylase MltG, terminates peptidoglycan polymerization	MltG		26507882	2R1F
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_11000	COG0304	IQ	3-oxoacyl-(acyl-carrier-protein) synthase	FabB	Fatty acid biosynthesis	21652641	2UV8
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_11005	COG0236	I	Acyl carrier protein	AcpP	Fatty acid biosynthesis		1ACP
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_11010	COG0623	I	Enoyl-[acyl-carrier-protein] reductase FabI	FabI	Fatty acid biosynthesis		1C14
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_11015	COG0331	I	Malonyl CoA-acyl carrier protein transacylase	FabD	Fatty acid biosynthesis		1YXC
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_11020	COG0280	C	Phosphotransacetylase (includes Pta, EutD and phosphobutyryltransferase)	Pta		28754323	1QZT
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_11025	COG0333	J	Ribosomal protein L32	RpmF	Ribosome 50S subunit	17114934	1VS6
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_11030	COG1399	J	23S rRNA accumulation protein YceD (essential in plants, uncharacterized in bacteria)	YceD		27574185	
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_11035	COG0424	Q	7-methyl-GTP pyrophosphatase and related NTP pyrophosphatases, Maf/HAM1 superfamily	Maf		24210219	2P5X
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_11040	COG1030	O	Membrane-bound serine protease NfeD, ClpP class	NfeD			2DEO
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_11045	COG0637	G	Beta-phosphoglucomutase, HAD superfamily	YcjU		29684280	3E58
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_11050	COG1187	J	Pseudouridylate synthase RsuA, specific for 16S rRNA U516  and 23S rRNA U2605	RsuA	16S rRNA modification		1KSK
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_11055	COG1530	J	Ribonuclease G or E	CafA			1SLJ
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_11065	COG4551	R	Predicted protein tyrosine phosphatase				
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_11070	COG1861	M	Spore coat polysaccharide biosynthesis protein SpsF, cytidylyltransferase family	SpsF			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_11075	COG2835	J	RNA methyltransferase activator Trm112/YbaR	Trm112		27986851;30010922	2KPI
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_11080	COG0003	P	Anion-transporting ATPase, ArsA/GET3 family	ArsA			1F48
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_11085	COG0488	R	ATPase components of ABC transporters with duplicated ATPase domains	Uup			5ZXD
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_11090	COG1236	J	RNA processing exonuclease, beta-lactamase fold, Cft2 family	YSH1			2DKF
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_11100	COG3845	F	ABC-type guanosine uptake system NupNOPQ, ATPase component NupO	NupO		21926227	
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_11105	COG0577	V	ABC-type antimicrobial peptide transport system, permease component	SalY			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_11115	COG0815	M	Apolipoprotein N-acyltransferase	Lnt			6NWR
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_11120	COG0494	V	8-oxo-dGTP pyrophosphatase MutT and related house-cleaning NTP pyrophosphohydrolases, NUDIX family	MutT			4V14
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_11125	COG1364	E	Glutamate N-acetyltransferase (ornithine transacetylase)	ArgJ	Arginine biosynthesis		1VRA
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_11130	COG3318	S	Uncharacterized conserved protein YecA, UPF0149 family, contains C-terminal Zn-binding SEC-C motif	YecA			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_11135	COG4701	S	Uncharacterized conserved protein				
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_11140	COG0774	M	UDP-3-O-acyl-N-acetylglucosamine deacetylase	LpxC	Lipid A biosynthesis		1P42
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_11145	COG0206	D	Cell division GTPase FtsZ	FtsZ			1FSZ
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_11150	COG4972	NW	Type IV pilus assembly protein, ATPase PilM	PilM			2YCH
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_11160	COG0439	I	Biotin carboxylase	AccC	Fatty acid biosynthesis		1BNC
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_11165	COG0770	M	UDP-N-acetylmuramyl pentapeptide synthase	MurF	Mureine biosynthesis		4CVK
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_11170	COG1819	G	UDP:flavonoid glycosyltransferase YjiC, YdhE family	YjiC		23974133	2ACV
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_11175	COG0772	D	Peptodoglycan polymerase FtsW/RodA/SpoVE	FtsW		30692671	6BAR
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_11180	COG0769	M	UDP-N-acetylmuramyl tripeptide synthase	MurE	Mureine biosynthesis		1E8C
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_11185	COG0472	M	UDP-N-acetylmuramyl pentapeptide phosphotransferase/UDP-N-acetylglucosamine-1-phosphate transferase	Rfe	Mureine biosynthesis		4J72
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_11190	COG0771	M	UDP-N-acetylmuramoylalanine-D-glutamate ligase	MurD	Mureine biosynthesis		1E0D
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_11195	COG0285	H	Folylpolyglutamate synthase/Dihydropteroate synthase	FolC	Folate biosynthesis		1W78
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_11200	COG0744	M	Penicillin-binding protein 1B/1F, peptidoglycan  transglycosylase/transpeptidase	MrcB			3FWL
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_11205	COG3116	D	Cell division protein FtsL, interacts with FtsB and FtsQ	FtsL			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_11210	COG0275	J	16S rRNA C1402 N4-methylase RsmH	RmsH	16S rRNA modification		1M6Y
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_11215	COG4771	P	Outer membrane receptor for ferrienterochelin and colicins	FepA		16468998	2HDF
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_11225	COG2274	V	ABC-type bacteriocin/lantibiotic exporters, contain an N-terminal double-glycine peptidase domain	SunT			3K8U
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_11230	COG4773	P	Outer membrane receptor for ferric coprogen and ferric-rhodotorulic acid	FhuE			3EFM
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_11235	COG4606	P	ABC-type enterochelin transport system, permease component	CeuB			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_11240	COG4606	P	ABC-type enterochelin transport system, permease component	CeuB			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_11245	COG4607	P	ABC-type enterochelin transport system, periplasmic component	CeuA			3ZKW
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_11255	COG1296	E	Predicted branched-chain amino acid permease (azaleucine resistance)	AzlC			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_11260	COG1396	K	Transcriptional regulator, contains XRE-family HTH domain	HipB			1ADR
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_11265	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_11285	COG0240	C	Glycerol-3-phosphate dehydrogenase	GpsA	Isoprenoid biosynthesis		1EVY
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_11290	COG1878	E	Kynurenine formamidase				1R61
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_11295	COG3221	P	ABC-type phosphate/phosphonate transport system, periplasmic component	PhnD			3S4U
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_11305	COG1784	R	TctA family transporter			14499931	
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_11325	COG2963	X	Transposase InsE and inactivated derivatives	InsE		23818957	2JN6
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_11345	COG0568	K	DNA-directed RNA polymerase, sigma subunit (sigma70/sigma32)	RpoD	RNA polymerase		1SIG
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_11355	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_11365	COG0863	L	DNA modification methylase	YhdJ			1BOO
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_11370	COG4889	R	Predicted helicase				5FFJ
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_11390	COG0131	E	Imidazoleglycerol phosphate dehydratase HisB	HisB2	Histidine biosynthesis		1RHY
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_11395	COG0512	EH	Anthranilate/para-aminobenzoate synthase component II (glutamine amidotransferase)	PabA	Aromatic amino acid biosynthesis		1I1Q
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_11400	COG1411	R	Uncharacterized conserved protein related to proFAR isomerase (HisA)				
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_11405	COG1411	R	Uncharacterized conserved protein related to proFAR isomerase (HisA)				
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_11425	COG0607	P	Rhodanese-related sulfurtransferase	PspE	Urea cycle		1TQ1
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_11430	COG2144	R	Selenophosphate synthetase-related protein				
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_11435	COG1066	L	DNA repair protein RadA/Sms, contains AAA+ ATPase domain	Sms		30877841	5LKM
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_11445	COG1167	KE	DNA-binding transcriptional regulator, MocR family, contains an aminotransferase domain	ARO8	Lysine biosynthesis		2R2N
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_11450	COG5589	S	Uncharacterized conserved protein, DUF2390 domain				
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_11455	COG1123	O	ABC-type glutathione transport system ATPase component, contains duplicated ATPase domain	GsiA			
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_11460	COG1490	J	D-aminoacyl-tRNA deacylase	Dtd		10918062;16902403;24302572	1J7G
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_11465	COG0589	T	Nucleotide-binding universal stress protein,  UspA family	UspA			1JMV
+Halomonas_sp_NP1	GCA_002732055.1	NDGOBO_11470	COG2240	H	Pyridoxal/pyridoxine/pyridoxamine kinase	PdxK	Pyridoxal phosphate biosynthesis	19096365;23189126	5ZW9

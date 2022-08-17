@@ -1,0 +1,865 @@
+#prefix	assemid	query	COG	category	name	Gene	pathway	pmid	pdb_id
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_00020	COG3342	R	Uncharacterized conserved protein, Ntn-hydrolase superfamily				2IMH
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_00030	COG1807	M	PMT family glycosyltransferase ArnT/Agl22, involved in glycosylation of proteins and lipid IVA	ArnT		16226890;31233657;32706435	5EZM
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_00040	COG1807	M	PMT family glycosyltransferase ArnT/Agl22, involved in glycosylation of proteins and lipid IVA	ArnT		16226890;31233657;32706435	5EZM
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_00050	COG0261	J	Ribosomal protein L21	RplU	Ribosome 50S subunit		1VS6
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_00055	COG0211	J	Ribosomal protein L27	RpmA	Ribosome 50S subunit		1VS6
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_00060	COG0202	K	DNA-directed RNA polymerase, alpha subunit/40 kD subunit	RpoA	RNA polymerase		4KN7
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_00065	COG1807	M	PMT family glycosyltransferase ArnT/Agl22, involved in glycosylation of proteins and lipid IVA	ArnT		16226890;31233657;32706435	5EZM
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_00070	COG1473	R	Metal-dependent amidase/aminoacylase/carboxypeptidase	AbgB	Lysine biosynthesis	17307853	3RAM
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_00075	COG1807	M	PMT family glycosyltransferase ArnT/Agl22, involved in glycosylation of proteins and lipid IVA	ArnT		16226890;31233657;32706435	5EZM
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_00090	COG2518	O	Protein-L-isoaspartate O-methyltransferase	Pcm		24909784	3LBF
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_00105	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_00115	COG1556	C	L-lactate utilization protein LutC, contains LUD domain	LutC			2G40
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_00120	COG1139	C	L-lactate utilization protein LutB, contains a ferredoxin-type domain	LutB			
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_00130	COG1704	M	Magnetosome formation protein MamQ, lipoprotein antigen LemA family	LemA		14638756;20212111;26884433	2ETD
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_00140	COG1041	J	tRNA G10 N-methylase Trm11	Trm11	tRNA modification		5E71
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_00155	COG1264	G	Phosphotransferase system IIB components	PtsG2			1IBA
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_00160	COG1263	G	Phosphotransferase system IIC components, glucose/maltose/N-acetylglucosamine-specific	PtsG1			
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_00180	COG0300	R	Short-chain dehydrogenase	YqjQ			
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_00185	COG1529	C	Aldehyde, CO or xanthine dehydrogenase, Mo-binding subunit	CoxL	Non-phosphorylated Entner-Doudoroff pathway	10095793	1DGJ
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_00190	COG1319	C	Aldehyde, CO, or xanthine dehydrogenase, FAD-binding subunit	CutB	Non-phosphorylated Entner-Doudoroff pathway		5Y6Q
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_00195	COG0578	C	Glycerol-3-phosphate dehydrogenase	GlpA	Isoprenoid biosynthesis		2RGH
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_00200	COG0129	EG	Dihydroxyacid dehydratase/phosphogluconate dehydratase	IlvD	Isoleucine, leucine, valine biosynthesis		2GP4
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_00210	COG1446	E	Isoaspartyl peptidase or L-asparaginase, Ntn-hydrolase superfamily	IaaA			1APY
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_00215	COG0412	Q	Dienelactone hydrolase	DLH			4ZV9
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_00220	COG0031	E	Cysteine synthase	CysK	Cysteine biosynthesis		1FCJ
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_00225	COG0215	J	Cysteinyl-tRNA synthetase	CysS	Aminoacyl-tRNA synthetases		1LI5
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_00230	COG0577	V	ABC-type antimicrobial peptide transport system, permease component	SalY			
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_00235	COG4559	P	ABC-type hemin transport system, ATPase component				4G1U
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_00250	COG1200	L	RecG-like helicase	RecG			1GM5
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_00255	COG1056	H	Nicotinamide mononucleotide adenylyltransferase	NadR	NAD biosynthesis		1LW7
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_00265	COG0333	J	Ribosomal protein L32	RpmF	Ribosome 50S subunit	17114934	1VS6
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_00270	COG0331	I	Malonyl CoA-acyl carrier protein transacylase	FabD	Fatty acid biosynthesis		1YXC
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_00275	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_00280	COG0760	O	Peptidyl-prolyl isomerase, parvulin family	SurA			2ZR5
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_00285	COG0238	J	Ribosomal protein S18	RpsR	Ribosome 30S subunit		4V4H
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_00290	COG0360	J	Ribosomal protein S6	RpsF	Ribosome 30S subunit		4V4H
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_00295	COG3290	T	Sensor histidine kinase DipB regulating citrate/malate metabolism	CitA			
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_00300	COG5212	T	cAMP phosphodiesterase	PDE1			4OJV
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_00305	COG1062	C	Zn-dependent alcohol/formaldehyde dehydrogenase	FrmA			1A71
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_00310	COG0323	L	DNA mismatch repair ATPase MutL	MutL			1B62
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_00320	COG0793	O	C-terminal processing protease CtpA/Prc, contains a PDZ domain	CtpA			6IQU
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_00325	COG0265	O	Periplasmic serine protease, S1-C subfamily, contain C-terminal PDZ domain	DegQ		29686141	2HGA
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_00335	COG0740	O	ATP-dependent protease ClpP, protease subunit	ClpP			1TG6
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_00340	COG1011	H	FMN and 5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YigB, HAD superfamily (riboflavin biosynthesis)	YigB		24123841	4JB3
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_00345	COG1032	R	Radical SAM superfamily enzyme YgiQ, UPF0313 family	YgiQ			6FD2
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_00350	COG0707	M	UDP-N-acetylglucosamine:LPS N-acetylglucosamine transferase	MurG	Mureine biosynthesis		1F0K
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_00365	COG1403	V	5-methylcytosine-specific restriction endonuclease McrA	McrA			
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_00370	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_00375	COG0697	GER	Permease of the drug/metabolite transporter (DMT) superfamily	RhaT			5I20
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_00385	COG2266	H	GTP:adenosylcobinamide-phosphate guanylyltransferase		Cobalamine/B12 biosynthesis	16895922	2MZB
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_00390	COG0671	I	Membrane-associated phospholipid phosphatase	PgpB	Phospholipid biosynthesis		1D2T
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_00395	COG0303	H	Molybdopterin Mo-transferase (molybdopterin biosynthesis)	MoeA	Molybdopterin biosynthesis	18801996;32239579	2NQU
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_00400	COG0242	J	Peptide deformylase	Def			1BS4
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_00405	COG1674	D	DNA segregation ATPase FtsK/SpoIIIE or related protein	FtsK			2IUT
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_00415	COG0304	IQ	3-oxoacyl-(acyl-carrier-protein) synthase	FabB	Fatty acid biosynthesis	21652641	2UV8
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_00420	COG0571	K	dsRNA-specific ribonuclease	Rnc			1DI2
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_00425	COG0451	M	Nucleoside-diphosphate-sugar epimerase	WcaG			2X4G
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_00435	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_00440	COG4709	S	Uncharacterized membrane protein				
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_00445	COG0061	H	NAD kinase	NadK			1SUW
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_00465	COG2965	L	Primosomal replication protein N	PriB			2PNH
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_00480	COG3425	I	3-hydroxy-3-methylglutaryl CoA synthase	PksG	Isoprenoid biosynthesis		1TVZ
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_00500	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_00510	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_00515	COG0794	GM	D-arabinose 5-phosphate isomerase GutQ	GutQ			5UQI
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_00520	COG1088	M	dTDP-D-glucose 4,6-dehydratase	RfbB			1G1A
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_00525	COG0647	F	Ribonucleotide monophosphatase NagD, HAD superfamily	NagD			1PW5
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_00535	COG0524	G	Sugar or nucleoside kinase, ribokinase family	RbsK	Glycolysis		2QCV
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_00550	COG1179	J	tRNA A37 threonylcarbamoyladenosine dehydratase	TcdA	tRNA modification	27913733	4D7A
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_00560	COG1310	O	Proteasome lid subunit RPN8/RPN11, contains Jab1/MPN domain metalloenzyme (JAMM) motif	Rri1			2O95
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_00565	COG1171	E	Threonine deaminase	IlvA	Isoleucine, leucine, valine biosynthesis		3IAU
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_00570	COG0860	M	N-acetylmuramoyl-L-alanine amidase	AmiC			1JWQ
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_00580	COG1228	Q	Imidazolonepropionase or related amidohydrolase	HutI			3OOQ
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_00585	COG0287	E	Prephenate dehydrogenase	TyrA	Aromatic amino acid biosynthesis		2F1K
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_00590	COG4071	R	Gamma-glutamyl ligase family protein MJ1361			17669425;12911320	2PHN
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_00595	COG3576	R	Predicted flavin-nucleotide-binding protein, pyridoxine 5'-phosphate oxidase superfamily				5ESC
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_00615	COG2266	H	GTP:adenosylcobinamide-phosphate guanylyltransferase		Cobalamine/B12 biosynthesis	16895922	2MZB
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_00625	COG0156	H	7-keto-8-aminopelargonate synthetase or related enzyme	BioF	Biotin biosynthesis		1BS0
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_00630	COG2130	QR	NADPH-dependent curcumin reductase CurA	CurA		21467222	1V3T
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_00635	COG1082	G	Sugar phosphate isomerase/epimerase	YcjR		30742415	3KTC
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_00645	COG2723	G	Beta-glucosidase/6-phospho-beta-glucosidase/beta-galactosidase	BglB			4HZ6
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_00650	COG1321	K	Mn-dependent transcriptional regulator MntR, DtxR family	MntR			1B1B
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_00655	COG1160	J	Double Era-like domain GTPase Der	Der			1MKY
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_00670	COG2761	O	Predicted dithiol-disulfide isomerase, DsbA/YjbH family (virulence, stress resistance)	FrnE			6GHB
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_00675	COG0479	C	Succinate dehydrogenase/fumarate reductase, Fe-S protein subunit	SdhB/FrdB	TCA cycle		6LUM
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_00680	COG5305	R	Uncharacterized membrane protein PF0508, contains N-terminal glycosyltransferase domain of PMT family				
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_00685	COG0451	M	Nucleoside-diphosphate-sugar epimerase	WcaG			2X4G
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_00690	COG1012	I	Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase	AdhE	Proline degradation		1A4S
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_00695	COG1566	V	Multidrug resistance efflux pump EmrA	EmrA			4TKO
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_00700	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_00710	COG1826	U	Twin-arginine protein secretion pathway components TatA and TatB	TatA			2L16
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_00715	COG0805	U	Twin-arginine protein secretion pathway component TatC	TatC			4B4A
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_00720	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_00725	COG0812	M	UDP-N-acetylenolpyruvoylglucosamine reductase	MurB	Mureine biosynthesis		2MBR
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_00740	COG0480	J	Translation elongation factor EF-G, a GTPase	FusA	Translation factors		1DAR
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_00745	COG0858	J	Ribosome-binding factor RbfA	RbfA			1JOS
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_00755	COG0130	J	tRNA U55 pseudouridine synthase TruB, may also work on U342 of tmRNA	TruB	tRNA modification		1K8W
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_00760	COG0196	H	FAD synthase	RibF	Riboflavin/FAD biosynthesis		1MRZ
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_00770	COG0547	E	Anthranilate phosphoribosyltransferase, glycosyltransferase domain	TrpD	Aromatic amino acid biosynthesis		1KGZ
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_00775	COG1228	Q	Imidazolonepropionase or related amidohydrolase	HutI			3OOQ
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_00780	COG0249	L	DNA mismatch repair ATPase MutS	MutS			1E3M
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_00785	COG2217	P	Cation-transporting P-type ATPase	ZntA			4BBJ
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_00790	COG0406	G	Broad specificity phosphatase PhoE	PhoE			1EBB
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_00795	COG1878	E	Kynurenine formamidase				1R61
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_00815	COG0411	E	ABC-type branched-chain amino acid transport system, ATPase component LivG	LivG		29514851	1G9X
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_00820	COG1164	E	Oligoendopeptidase F	PepF			3CE2
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_00825	COG1190	J	Lysyl-tRNA synthetase (class II)	LysU	Aminoacyl-tRNA synthetases		1BBU
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_00840	COG2089	M	Sialic acid synthase SpsE, contains C-terminal SAF domain	SpsE			1VLI
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_00845	COG2089	M	Sialic acid synthase SpsE, contains C-terminal SAF domain	SpsE			1VLI
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_00850	COG0287	E	Prephenate dehydrogenase	TyrA	Aromatic amino acid biosynthesis		2F1K
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_00855	COG0766	M	UDP-N-acetylglucosamine enolpyruvyl transferase	MurA	Mureine biosynthesis		1A2N
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_00860	COG0240	C	Glycerol-3-phosphate dehydrogenase	GpsA	Isoprenoid biosynthesis		1EVY
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_00890	COG2204	T	DNA-binding transcriptional response regulator, NtrC family, contains REC, AAA-type ATPase, and a Fis-type DNA-binding domains	AtoC			1ZY2
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_00905	COG5285	Q	Ectoine hydroxylase-related dioxygenase, phytanoyl-CoA dioxygenase (PhyH) family	PhyH			2A1X
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_00920	COG5470	S	Uncharacterized conserved protein, DUF1330 family				
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_00925	COG5285	Q	Ectoine hydroxylase-related dioxygenase, phytanoyl-CoA dioxygenase (PhyH) family	PhyH			2A1X
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_00950	COG3628	X	Phage baseplate assembly protein W				2IA7
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_00995	COG0707	M	UDP-N-acetylglucosamine:LPS N-acetylglucosamine transferase	MurG	Mureine biosynthesis		1F0K
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_01000	COG0456	J	Ribosomal protein S18 acetylase RimI and related acetyltransferases	RimI			1GHE
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_01005	COG5269
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_01015	COG1045	E	Serine acetyltransferase	CysE	Cysteine biosynthesis		1T3D
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_01020	COG2524	K	Predicted transcriptional regulator, contains C-terminal CBS domains				
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_01035	COG0358	L	DNA primase (bacterial type)	DnaG		28128549	3B39
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_01045	COG1941	C	Coenzyme F420-reducing hydrogenase, gamma subunit	FrhG			5ODC
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_01050	COG3262	C	Ni,Fe-hydrogenase III component G	HycE1			
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_01055	COG3259	C	Coenzyme F420-reducing hydrogenase, alpha subunit	FrhA			3ZFS
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_01065	COG4656	C	Na+-translocating ferredoxin:NAD+ oxidoreductase  RNF, RnfC subunit	RnfC	Na+-translocating Fd:NADH oxidoreductase		
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_01070	COG3383	R	Predicted molibdopterin-dependent oxidoreductase YjgC	YjgC			1AA6
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_01075	COG1005	C	NADH:ubiquinone oxidoreductase subunit 1 (chain H)	NuoH	NADH dehydrogenase		6HUM
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_01080	COG1148	C	Heterodisulfide reductase, subunit A (polyferredoxin)	HdrA			5ODC
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_01085	COG0839	C	NADH:ubiquinone oxidoreductase subunit 6 (chain J)	NuoJ	NADH dehydrogenase		4HE8
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_01095	COG1009	C	Membrane H+-translocase/NADH:ubiquinone oxidoreductase subunit 5 (chain L)/Multisubunit Na+/H+ antiporter, MnhA subunit	NuoL	NADH dehydrogenase		3RKO
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_01100	COG1008	C	NADH:ubiquinone oxidoreductase subunit 4 (chain M)	NuoM	NADH dehydrogenase		6HUM
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_01105	COG1007	C	NADH:ubiquinone oxidoreductase subunit 2 (chain N)	NuoN	NADH dehydrogenase		4HE8
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_01120	COG0596	HR	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold	MenH	Menaquinone biosynthesis		4MYS
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_01130	COG0127	F	Inosine/xanthosine triphosphate pyrophosphatase, all-alpha NTP-PPase family	RdgB			1B78
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_01135	COG1399	J	23S rRNA accumulation protein YceD (essential in plants, uncharacterized in bacteria)	YceD		27574185	
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_01140	COG0568	K	DNA-directed RNA polymerase, sigma subunit (sigma70/sigma32)	RpoD	RNA polymerase		1SIG
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_01145	COG0450	V	Alkyl hydroperoxide reductase subunit AhpC (peroxiredoxin)	AhpC			2RII
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_01150	COG0495	J	Leucyl-tRNA synthetase	LeuS	Aminoacyl-tRNA synthetases		6LPF
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_01155	COG1807	M	PMT family glycosyltransferase ArnT/Agl22, involved in glycosylation of proteins and lipid IVA	ArnT		16226890;31233657;32706435	5EZM
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_01160	COG0595	J	mRNA degradation ribonuclease J1/J2	RnjA			3T3N
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_01165	COG0533	J	tRNA A37 threonylcarbamoyltransferase TsaD	TsaD	tRNA modification	23072323;21285948;32385138	3ENO
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_01170	COG0024	J	Methionine aminopeptidase	Map			3J2I
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_01185	COG1989	NU	Prepilin signal peptidase PulO (type II secretory pathway) or related peptidase	PulO			
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_01205	COG1310	O	Proteasome lid subunit RPN8/RPN11, contains Jab1/MPN domain metalloenzyme (JAMM) motif	Rri1			2O95
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_01210	COG1846	K	DNA-binding transcriptional regulator, MarR family	MarR			1JGS
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_01215	COG0015	F	Adenylosuccinate lyase	PurB	Purine biosynthesis		2HVG
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_01220	COG1146	F	NAD-dependent dihydropyrimidine dehydrogenase, PreA subunit	PreA			
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_01225	COG0605	P	Superoxide dismutase	SodA			1AP5
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_01230	COG0697	GER	Permease of the drug/metabolite transporter (DMT) superfamily	RhaT			5I20
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_01240	COG1005	C	NADH:ubiquinone oxidoreductase subunit 1 (chain H)	NuoH	NADH dehydrogenase		6HUM
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_01245	COG0839	C	NADH:ubiquinone oxidoreductase subunit 6 (chain J)	NuoJ	NADH dehydrogenase		4HE8
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_01265	COG1357	S	Uncharacterized conserved protein YjbI, contains pentapeptide repeats	YjbI			2BM4
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_01280	COG3613	F	Nucleoside 2-deoxyribosyltransferase	RCL			1F8X
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_01295	COG2820	F	Uridine phosphorylase	Udp	Pyrimidine salvage		1K3F
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_01305	COG0623	I	Enoyl-[acyl-carrier-protein] reductase FabI	FabI	Fatty acid biosynthesis		1C14
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_01310	COG0345	E	Pyrroline-5-carboxylate reductase	ProC	Proline biosynthesis	22125496;26507882	3GT0
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_01315	COG2256	L	Replication-associated recombination protein RarA (DNA-dependent ATPase)	RarA			3PVS
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_01325	COG1670	JO	Protein N-acetyltransferase, RimJ/RimL family	RimL			1S7F
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_01335	COG1357	S	Uncharacterized conserved protein YjbI, contains pentapeptide repeats	YjbI			2BM4
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_01340	COG1228	Q	Imidazolonepropionase or related amidohydrolase	HutI			3OOQ
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_01345	COG1357	S	Uncharacterized conserved protein YjbI, contains pentapeptide repeats	YjbI			2BM4
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_01360	COG4122	J	tRNA 5-hydroxyU34 O-methylase TrmR/YrrM	TrmR	tRNA modification	29982645	1H1D
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_01385	COG1186	J	Protein chain release factor PrfB	PrfB	Translation factors		1GQE
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_01390	COG0464	MDT	AAA+-type ATPase, SpoVK/Ycf46/Vps4 family	SpoVK			3SYL
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_01400	COG0633	C	Ferredoxin	Fdx			1KRH
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_01405	COG0558	I	Phosphatidylglycerophosphate synthase	PgsA	Phospholipid biosynthesis		4MND
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_01415	COG2802	S	Uncharacterized conserved protein, LON_N-like domain, ASCH/PUA-like superfamily	LON/PUA			1ZBO
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_01420	COG0613	F	5'-3' exoribonuclease TrpH/YciV (RNase AM), contains PHP domain	YciV		25871919	3E0F
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_01425	COG0303	H	Molybdopterin Mo-transferase (molybdopterin biosynthesis)	MoeA	Molybdopterin biosynthesis	18801996;32239579	2NQU
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_01440	COG3858	D	Spore cortex hydrolase SleL/YaaH, N-acetylglucosaminidase of GH18 family	SleL			4S3J
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_01445	COG0483	G	Archaeal fructose-1,6-bisphosphatase or related enzyme, inositol monophosphatase family	SuhB	Gluconeogenesis		1AWB
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_01455	COG2269	J	Elongation factor P--beta-lysine ligase (EF-P beta-lysylation pathway)	EpmA		20729861	3A5Z
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_01460	COG0728	M	Lipid II flippase MurJ/MviN (peptidoglycan biosynthesis)	MurJ		25013077	5T77
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_01465	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_01470	COG0652	O	Peptidyl-prolyl cis-trans isomerase (rotamase) - cyclophilin family	PpiB			4DGD
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_01475	COG1807	M	PMT family glycosyltransferase ArnT/Agl22, involved in glycosylation of proteins and lipid IVA	ArnT		16226890;31233657;32706435	5EZM
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_01480	COG4615	P	ABC-type siderophore export system, fused ATPase and permease components	PvdE			
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_01485	COG1117	P	ABC-type phosphate transport system, ATPase component	PstB			
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_01490	COG0673	R	Predicted dehydrogenase	MviM			3UUW
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_01500	COG2197	TK	DNA-binding response regulator, NarL/FixJ family, contains REC and HTH domains	CitB			1A04
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_01505	COG5000	T	Signal transduction histidine kinase NtrY involved in nitrogen fixation and metabolism regulation	NtrY			
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_01510	COG4588	M	Accessory colonization factor AcfC, contains ABC-type periplasmic domain	AcfC			4JB7
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_01515	COG4149	P	ABC-type molybdate transport system, permease component ModB	ModB	Molybdopterin biosynthesis		
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_01520	COG4590	R	ABC-type uncharacterized transport system, permease component				
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_01525	COG4172	Q	ABC-type microcin C transport system, duplicated ATPase component YejF	YejF		17873039	
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_01530	COG4181	Q	Predicted ABC-type transport system involved in lysophospholipase L1 biosynthesis, ATPase component	YbbA			
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_01545	COG1484	L	DNA replication protein DnaC	DnaC			2QGZ
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_01550	COG3935	L	DNA replication protein DnaD	DnaD			2I5U
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_01555	COG0305	L	Replicative DNA helicase	DnaB			1B79
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_01565	COG1051	F	ADP-ribose pyrophosphatase YjhB, NUDIX family	YjhB			3GZ5
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_01570	COG0222	J	Ribosomal protein L7/L12	RplL	Ribosome 50S subunit		1CTF
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_01580	COG0081	J	Ribosomal protein L1	RplA	Ribosome 50S subunit		3J65
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_01585	COG0080	J	Ribosomal protein L11	RplK	Ribosome 50S subunit		2E34
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_01595	COG0690	U	Preprotein translocase subunit SecE	SecE		29684280	5MG3
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_01605	COG0137	E	Argininosuccinate synthase	ArgG	Arginine biosynthesis		1J1Z
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_01610	COG1246	E	N-acetylglutamate synthase or related acetyltransferase, GNAT family	ArgA	Arginine biosynthesis		2R98
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_01615	COG4992	E	Acetylornithine/succinyldiaminopimelate/putrescine aminotransferase	ArgD	Arginine biosynthesis		2E54
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_01620	COG0136	E	Aspartate-semialdehyde dehydrogenase	Asd	Lysine biosynthesis		1BRM
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_01630	COG2133	G	Glucose/arabinose dehydrogenase, beta-propeller fold	YliI			1C9U
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_01635	COG3194	F	Ureidoglycolate hydrolase (allantoin degradation)	AllA			1XSQ
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_01645	COG2236	H	Hypoxanthine phosphoribosyltransferase	Hpt1	Purine salvage		2JKZ
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_01650	COG2223	P	Nitrate/nitrite transporter NarK	NarK			4JR9
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_01690	COG1357	S	Uncharacterized conserved protein YjbI, contains pentapeptide repeats	YjbI			2BM4
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_01695	COG0863	L	DNA modification methylase	YhdJ			1BOO
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_01705	COG0686	E	Alanine dehydrogenase (includes sporulation protein SpoVN)	Ald	Urea cycle		2EEZ
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_01710	COG2223	P	Nitrate/nitrite transporter NarK	NarK			4JR9
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_01720	COG0160	E	Acetylornithine aminotransferase/4-aminobutyrate aminotransferase	ArgD	Arginine biosynthesis		1SF2
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_01730	COG1357	S	Uncharacterized conserved protein YjbI, contains pentapeptide repeats	YjbI			2BM4
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_01735	COG2814	G	Predicted arabinose efflux permease AraJ, MFS family	AraJ			4LDS
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_01745	COG2140	G	Oxalate decarboxylase/archaeal phosphoglucose isomerase, cupin superfamily	OxdD	Glycolysis		2VQA
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_01750	COG2510	H	Riboflavin transporter RibN, EamA domain	RibN		23935051	
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_01760	COG0499	H	S-adenosylhomocysteine hydrolase	SAM1			1A7A
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_01770	COG1173	EP	ABC-type dipeptide/oligopeptide/nickel transport system, permease component	DppC			
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_01775	COG0600	P	ABC-type nitrate/sulfonate/bicarbonate transport system, permease component	TauC			
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_01780	COG0402	FR	Cytosine/adenosine deaminase or related metal-dependent hydrolase	SsnA	Pyrimidine salvage		3O7U
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_01795	COG0402	FR	Cytosine/adenosine deaminase or related metal-dependent hydrolase	SsnA	Pyrimidine salvage		3O7U
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_01810	COG0154	J	Asp-tRNAAsn/Glu-tRNAGln amidotransferase A subunit or related amidase	GatA	Aminoacyl-tRNA synthetases		3H0L
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_01815	COG0410	E	ABC-type branched-chain amino acid transport system, ATPase component LivF	LivF		26527648;32250026	1JI0
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_01820	COG1134	G	ABC-type polysaccharide/polyol phosphate transport system, ATPase component	TagH			6JBH
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_01825	COG3970	R	Fumarylacetoacetate (FAA) hydrolase family protein				2Q18
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_01840	COG0580	G	Glycerol uptake facilitator or related aquaporin (Major Intrinsic protein Family)	GlpF			1FQY
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_01845	COG0299	F	Folate-dependent phosphoribosylglycinamide formyltransferase PurN	PurN	Purine biosynthesis	25013077	1C2T
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_01850	COG0608	L	ssDNA-specific exonuclease RecJ, DHH superfamily, may be involved in archaeal DNA replication intiation	RecJ			1IR6
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_01860	COG1032	R	Radical SAM superfamily enzyme YgiQ, UPF0313 family	YgiQ			6FD2
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_01865	COG1846	K	DNA-binding transcriptional regulator, MarR family	MarR			1JGS
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_01880	COG2263	R	Predicted RNA methylase				6H2U
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_01885	COG2214	K	Curved DNA-binding protein CbpA, contains a DnaJ-like domain	CbpA			
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_01890	COG0443	O	Molecular chaperone DnaK (HSP70)	DnaK			3I33
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_01895	COG0576	O	Molecular chaperone GrpE (heat shock protein HSP-70)	GrpE			1DKG
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_01900	COG1420	K	Transcriptional regulator of heat shock response	HrcA			1STZ
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_01905	COG5012	C	Methanogenic corrinoid protein MtbC1	MtbC1			1Y80
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_01910	COG0378	O	Hydrogenase/urease maturation factor HypB, Ni2+-binding GTPase	HypB		24338018;23899293	2HF8
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_01915	COG0634	F	Hypoxanthine-guanine phosphoribosyltransferase	HptA	Purine salvage		1G9S
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_01920	COG0653	U	Preprotein translocase subunit SecA (ATPase, RNA helicase)	SecA			2FSF
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_01925	COG0266	L	Formamidopyrimidine-DNA glycosylase	Nei			1EE8
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_01935	COG1134	G	ABC-type polysaccharide/polyol phosphate transport system, ATPase component	TagH			6JBH
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_01940	COG0555	P	ABC-type sulfate transport system, permease component	CysU			3D31
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_01955	COG0749	L	DNA polymerase I, 3'-5' exonuclease and polymerase domains	PolA			1D8Y
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_01960	COG0697	GER	Permease of the drug/metabolite transporter (DMT) superfamily	RhaT			5I20
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_01965	COG3408	G	Glycogen debranching enzyme (alpha-1,6-glucosidase)	GDB1			5D06
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_01980	COG4942	D	Septal ring factor EnvC, activator of murein hydrolases AmiA and AmiB	EnvC			
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_01985	COG0739	M	Murein DD-endopeptidase MepM and murein hydrolase activator NlpD, contains LysM domain	NlpD			2GU1
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_01995	COG1388	M	LysM repeat	LysM			1E0G
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_02000	COG2227	H	2-polyprenyl-3-methyl-5-hydroxy-6-metoxy-1,4-benzoquinol methylase	UbiG	Ubiquinone biosynthesis		1BHJ
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_02005	COG2226	H	Ubiquinone/menaquinone biosynthesis C-methylase UbiE/MenG	UbiE	Biotin biosynthesis		4OBW
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_02010	COG0768	DM	Cell division protein FtsI, peptidoglycan transpeptidase (Penicillin-binding protein 2)	FtsI			6HZQ
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_02015	COG0631	T	Serine/threonine protein phosphatase PrpC	PTC1			6IHL
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_02020	COG0624	E	Acetylornithine deacetylase/Succinyl-diaminopimelate desuccinylase or related deacylase	ArgE	Arginine biosynthesis		1CG2
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_02030	COG0230	J	Ribosomal protein L34	RpmH	Ribosome 50S subunit		6SPB
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_02035	COG0594	J	RNase P protein component	RnpA			1A6F
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_02045	COG1520	M	Outer membrane protein assembly factor BamB, contains PQQ-like beta-propeller repeat	PQQ			6TJG
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_02050	COG0706	M	Membrane protein insertase Oxa1/YidC/SpoIIIJ	YidC			3WO6
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_02060	COG0455	DN	MinD-like ATPase FlhG/YlxH, activator of the FlhF-type GTPase	FlhG			1G3Q
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_02070	COG1228	Q	Imidazolonepropionase or related amidohydrolase	HutI			3OOQ
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_02075	COG2895	P	Sulfate adenylyltransferase subunit 1, EFTu-like GTPase family	CysN	Cysteine biosynthesis		1ZUN
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_02080	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_02085	COG0297	G	Glycogen synthase	GlgA			1RZU
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_02095	COG0651	CP	Formate hydrogenlyase subunit 3/Multisubunit Na+/H+ antiporter, MnhD subunit	HyfB			6CFW
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_02115	COG0209	F	Ribonucleotide reductase alpha subunit	NrdA	Pyrimidine salvage		1R1R
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_02125	COG0206	D	Cell division GTPase FtsZ	FtsZ			1FSZ
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_02130	COG4820	E	Ethanolamine utilization protein EutJ, possible chaperonin	EutJ			
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_02135	COG1589	D	Cell division septal protein FtsQ	FtsQ			1YR1
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_02140	COG0458	EF	Carbamoylphosphate synthase large subunit	CarB	Arginine biosynthesis		1C30
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_02145	COG0770	M	UDP-N-acetylmuramyl pentapeptide synthase	MurF	Mureine biosynthesis		4CVK
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_02155	COG1819	G	UDP:flavonoid glycosyltransferase YjiC, YdhE family	YjiC		23974133	2ACV
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_02160	COG0772	D	Peptodoglycan polymerase FtsW/RodA/SpoVE	FtsW		30692671	6BAR
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_02165	COG0770	M	UDP-N-acetylmuramyl pentapeptide synthase	MurF	Mureine biosynthesis		4CVK
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_02175	COG0472	M	UDP-N-acetylmuramyl pentapeptide phosphotransferase/UDP-N-acetylglucosamine-1-phosphate transferase	Rfe	Mureine biosynthesis		4J72
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_02180	COG0771	M	UDP-N-acetylmuramoylalanine-D-glutamate ligase	MurD	Mureine biosynthesis		1E0D
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_02185	COG0768	DM	Cell division protein FtsI, peptidoglycan transpeptidase (Penicillin-binding protein 2)	FtsI			6HZQ
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_02210	COG0073	J	tRNA-binding EMAP/Myf domain	EMAP			1MKH
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_02220	COG0120	G	Ribose 5-phosphate isomerase	RpiA	Pentose phosphate pathway		1KS2
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_02230	COG0458	EF	Carbamoylphosphate synthase large subunit	CarB	Arginine biosynthesis		1C30
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_02235	COG2131	F	Deoxycytidylate deaminase	ComEB		25746996;31954084	2HVV
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_02240	COG0307	H	Riboflavin synthase alpha chain	RibC	Riboflavin/FAD biosynthesis		1I8D
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_02245	COG0108	H	3,4-dihydroxy-2-butanone 4-phosphate synthase	RibB	Riboflavin/FAD biosynthesis		1G57
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_02250	COG1731	H	Archaeal riboflavin synthase	RibC2	Riboflavin/FAD biosynthesis		5IM5
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_02255	COG0502	H	Biotin synthase or related enzyme	BioB	Biotin biosynthesis		1R30
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_02260	COG0502	H	Biotin synthase or related enzyme	BioB	Biotin biosynthesis		1R30
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_02265	COG0365	I	Acyl-coenzyme A synthetase/AMP-(fatty) acid ligase	Acs		14638756	4B2O
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_02275	COG0354	O	Folate-binding protein YgfZ, synthesis and repair of Fe-S clusters	YgfZ		27941785;22081392	1NRK
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_02280	COG3871	S	General stress protein 26 (function unknown)	YzzA			2I02
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_02285	COG0520	E	Selenocysteine lyase/Cysteine desulfurase	CsdA			4LW2
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_02290	COG0441	J	Threonyl-tRNA synthetase	ThrS	Aminoacyl-tRNA synthetases		1NYQ
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_02310	COG1268	H	Biotin transporter BioY	BioY			4DVE
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_02315	COG4221	C	NADP-dependent 3-hydroxy acid dehydrogenase YdfG	YdfG	Pyrimidine degradation		3P19
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_02325	COG1086	MO	NDP-sugar epimerase, includes UDP-GlcNAc-inverting 4,6-dehydratase FlaA1 and capsular polysaccharide biosynthesis protein EpsC	FlaA1			2GN4
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_02335	COG2334	T	Ser/Thr protein kinase RdoA involved in Cpx stress response, MazF antagonist	SrkA	Threonine biosynthesis		1ZYL
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_02340	COG1316	M	Anionic cell wall polymer biosynthesis enzyme TagV/TagU,  LytR-Cps2A-Psr (LCP) family (peptidoglycan teichoic acid transferase)	Cps2a		29107701	2XXP
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_02355	COG0005	F	Purine nucleoside phosphorylase	XapA	Purine salvage		1YQQ
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_02365	COG1670	JO	Protein N-acetyltransferase, RimJ/RimL family	RimL			1S7F
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_02375	COG1674	D	DNA segregation ATPase FtsK/SpoIIIE or related protein	FtsK			2IUT
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_02380	COG1453	R	Predicted oxidoreductase of the aldo/keto reductase family				
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_02390	COG0217	KJ	Transcriptional and/or translational regulatory protein YebC/TACO1	TACO1			1KON
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_02405	COG2866	M	Murein tripeptide amidase MpaA	MpaA			1ARL
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_02410	COG2510	H	Riboflavin transporter RibN, EamA domain	RibN		23935051	
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_02430	COG0623	I	Enoyl-[acyl-carrier-protein] reductase FabI	FabI	Fatty acid biosynthesis		1C14
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_02435	COG1228	Q	Imidazolonepropionase or related amidohydrolase	HutI			3OOQ
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_02440	COG1535	Q	Isochorismate hydrolase	EntB1			3TB4
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_02450	COG1087	M	UDP-glucose 4-epimerase	GalE			1A9Y
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_02455	COG1917	R	Cupin domain protein related to quercetin dioxygenase	QdoI			2H0V
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_02475	COG0161	H	Adenosylmethionine-8-amino-7-oxononanoate aminotransferase	BioA	Biotin biosynthesis		1MLY
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_02480	COG0123	Q	Acetoin utilization deacetylase AcuC or a related deacetylase	AcuC			1C3P
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_02500	COG1064	G	D-arabinose 1-dehydrogenase, Zn-dependent alcohol dehydrogenase family	AdhP			5O8Q
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_02510	COG1869	G	D-ribose pyranose/furanose isomerase RbsD	RbsD			1OGC
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_02520	COG4274	S	Uncharacterized conserved protein, contains GYD domain				
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_02540	COG2251	R	Predicted nuclease, RecB family				
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_02545	COG0823	U	Periplasmic component TolB of the Tol biopolymer transport system	TolB			1C5K
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_02550	COG2510	H	Riboflavin transporter RibN, EamA domain	RibN		23935051	
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_02580	COG0076	E	Glutamate or tyrosine decarboxylase or a related PLP-dependent protein	GadA	Pantothenate/CoA biosynthesis		1XEY
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_02585	COG0603	J	7-cyano-7-deazaguanine synthase (queuosine biosynthesis)	QueC	tRNA modification	14660578;17384645	2PG3
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_02605	COG2145	H	Hydroxyethylthiazole kinase, sugar kinase family	ThiM	Thiamine biosynthesis		1C3Q
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_02620	COG1042	C	Acyl-CoA synthetase (NDP forming)	PatZN		26251518	4YAK
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_02625	COG2873	E	O-acetylhomoserine/O-acetylserine sulfhydrylase, pyridoxal phosphate-dependent	MET17	Methionine biosynthesis		2CTZ
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_02630	COG0399	M	dTDP-4-amino-4,6-dideoxygalactose transaminase	WecE		15271350	4PIW
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_02655	COG1977	H	Molybdopterin synthase sulfur carrier subunit MoaD	MoaD	Molybdopterin biosynthesis	32239579	1FM0
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_02670	COG0182	E	5-methylthioribose/5-deoxyribulose 1-phosphate isomerase (methionine salvage pathway), a paralog of eIF-2B alpha subunit	MtnA		31950558	1T5O
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_02675	COG4942	D	Septal ring factor EnvC, activator of murein hydrolases AmiA and AmiB	EnvC			
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_02680	COG1825	J	Ribosomal protein L25 (general stress protein Ctc)	RplY	Ribosome 50S subunit		1B75
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_02685	COG0823	U	Periplasmic component TolB of the Tol biopolymer transport system	TolB			1C5K
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_02695	COG1089	M	GDP-D-mannose dehydratase	Gmd			1DB3
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_02710	COG0744	M	Penicillin-binding protein 1B/1F, peptidoglycan  transglycosylase/transpeptidase	MrcB			3FWL
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_02715	COG0772	D	Peptodoglycan polymerase FtsW/RodA/SpoVE	FtsW		30692671	6BAR
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_02720	COG0008	J	Glutamyl- or glutaminyl-tRNA synthetase	GlnS	Heme biosynthesis		1EUQ
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_02740	COG0008	J	Glutamyl- or glutaminyl-tRNA synthetase	GlnS	Heme biosynthesis		1EUQ
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_02745	COG2050	Q	Acyl-CoA thioesterase PaaI, contains HGG motif	PaaI			1PSU
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_02750	COG0297	G	Glycogen synthase	GlgA			1RZU
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_02765	COG0443	O	Molecular chaperone DnaK (HSP70)	DnaK			3I33
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_02770	COG0175	EH	3'-phosphoadenosine 5'-phosphosulfate sulfotransferase (PAPS reductase)/FAD synthetase or related enzyme	CysD	Cysteine biosynthesis		1ZUN
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_02780	COG4149	P	ABC-type molybdate transport system, permease component ModB	ModB	Molybdopterin biosynthesis		
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_02785	COG4555	CP	ABC-type Na+ transport system, ATPase component NatA	NatA			
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_02790	COG4974	L	Site-specific recombinase XerD	XerD			1A0P
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_02815	COG2227	H	2-polyprenyl-3-methyl-5-hydroxy-6-metoxy-1,4-benzoquinol methylase	UbiG	Ubiquinone biosynthesis		1BHJ
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_02820	COG1032	R	Radical SAM superfamily enzyme YgiQ, UPF0313 family	YgiQ			6FD2
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_02825	COG0668	M	Small-conductance mechanosensitive channel	MscS			2OAU
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_02830	COG3526	R	Predicted selenoprotein, Rdx family				2FA8
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_02835	COG0180	J	Tryptophanyl-tRNA synthetase	TrpS	Aminoacyl-tRNA synthetases		3N9I
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_02840	COG1490	J	D-aminoacyl-tRNA deacylase	Dtd		10918062;16902403;24302572	1J7G
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_02850	COG0528	F	Uridylate kinase	PyrH	Pyrimidine biosynthesis		2BND
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_02855	COG1012	I	Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase	AdhE	Proline degradation		1A4S
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_02860	COG4586	R	ABC-type uncharacterized transport system, ATPase component				
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_02865	COG0577	V	ABC-type antimicrobial peptide transport system, permease component	SalY			
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_02875	COG0111	H	Phosphoglycerate dehydrogenase or related dehydrogenase	SerA	Serine biosynthesis		3OET
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_02880	COG0346	Q	Catechol 2,3-dioxygenase or related enzyme, vicinal oxygen chelate (VOC) family	GloA		11830595	3R4Q
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_02885	COG1884	I	Methylmalonyl-CoA mutase, N-terminal domain/subunit	Sbm			6OXC
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_02900	COG0297	G	Glycogen synthase	GlgA			1RZU
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_02905	COG0449	M	Glucosamine 6-phosphate synthetase, contains amidotransferase and phosphosugar isomerase domains	GlmS			2J6H
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_02910	COG1807	M	PMT family glycosyltransferase ArnT/Agl22, involved in glycosylation of proteins and lipid IVA	ArnT		16226890;31233657;32706435	5EZM
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_02920	COG3320	Q	Thioester reductase domain of alpha aminoadipate reductase Lys2 and NRPSs	Lys2b	Lysine biosynthesis		5MSP
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_02925	COG1091	M	dTDP-4-dehydrorhamnose reductase	RfbD			1KBZ
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_02930	COG0153	G	Galactokinase	GalK			1PIE
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_02935	COG1846	K	DNA-binding transcriptional regulator, MarR family	MarR			1JGS
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_02940	COG1088	M	dTDP-D-glucose 4,6-dehydratase	RfbB			1G1A
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_02945	COG1511	S	Uncharacterized membrane protein YhgE, phage infection protein (PIP) family	YhgE			
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_02950	COG2274	V	ABC-type bacteriocin/lantibiotic exporters, contain an N-terminal double-glycine peptidase domain	SunT			3K8U
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_02960	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_02965	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_02970	COG0438	M	Glycosyltransferase involved in cell wall bisynthesis	RfaB			2IV7
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_02975	COG0438	M	Glycosyltransferase involved in cell wall bisynthesis	RfaB			2IV7
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_02980	COG1352	T	Methylase of chemotaxis methyl-accepting proteins	CheR			1AF7
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_02985	COG1807	M	PMT family glycosyltransferase ArnT/Agl22, involved in glycosylation of proteins and lipid IVA	ArnT		16226890;31233657;32706435	5EZM
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_02995	COG2755	DI	Lysophospholipase L1 or related esterase. Includes spore coat protein LipC/YcsK	TesA			1BWP
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_03000	COG4122	J	tRNA 5-hydroxyU34 O-methylase TrmR/YrrM	TrmR	tRNA modification	29982645	1H1D
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_03005	COG0297	G	Glycogen synthase	GlgA			1RZU
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_03010	COG4641	D	Spore maturation protein CgeB				
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_03025	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_03030	COG1807	M	PMT family glycosyltransferase ArnT/Agl22, involved in glycosylation of proteins and lipid IVA	ArnT		16226890;31233657;32706435	5EZM
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_03040	COG0297	G	Glycogen synthase	GlgA			1RZU
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_03045	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_03050	COG0297	G	Glycogen synthase	GlgA			1RZU
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_03055	COG2244	M	Membrane protein involved in the export of O-antigen and teichoic acid	RfbX			
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_03060	COG4122	J	tRNA 5-hydroxyU34 O-methylase TrmR/YrrM	TrmR	tRNA modification	29982645	1H1D
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_03065	COG1045	E	Serine acetyltransferase	CysE	Cysteine biosynthesis		1T3D
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_03090	COG0533	J	tRNA A37 threonylcarbamoyltransferase TsaD	TsaD	tRNA modification	23072323;21285948;32385138	3ENO
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_03095	COG0604	CR	NADPH:quinone reductase or related Zn-dependent oxidoreductase	Qor			2VCY
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_03100	COG0438	M	Glycosyltransferase involved in cell wall bisynthesis	RfaB			2IV7
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_03105	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_03115	COG1807	M	PMT family glycosyltransferase ArnT/Agl22, involved in glycosylation of proteins and lipid IVA	ArnT		16226890;31233657;32706435	5EZM
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_03120	COG0297	G	Glycogen synthase	GlgA			1RZU
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_03125	COG1089	M	GDP-D-mannose dehydratase	Gmd			1DB3
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_03130	COG0297	G	Glycogen synthase	GlgA			1RZU
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_03135	COG0472	M	UDP-N-acetylmuramyl pentapeptide phosphotransferase/UDP-N-acetylglucosamine-1-phosphate transferase	Rfe	Mureine biosynthesis		4J72
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_03140	COG1807	M	PMT family glycosyltransferase ArnT/Agl22, involved in glycosylation of proteins and lipid IVA	ArnT		16226890;31233657;32706435	5EZM
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_03150	COG4106	C	Trans-aconitate methyltransferase	Tam			2P35
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_03155	COG2195	E	Di- or tripeptidase	PepD2			2QYV
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_03170	COG0071	O	Small heat shock protein IbpA, HSP20 family	IbpA			1GME
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_03180	COG0587	L	DNA polymerase III, alpha subunit	DnaE			2HNH
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_03185	COG0389	L	Nucleotidyltransferase/DNA polymerase DinP involved in DNA repair	DinP		16544291	4R8U
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_03190	COG3968	E	Glutamine synthetase type III	GlnA3			
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_03195	COG0028	EH	Acetolactate synthase large subunit or other thiamine pyrophosphate-requiring enzyme	IlvB	Isoleucine, leucine, valine biosynthesis		1BFD
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_03200	COG4747	R	ACT domain-containing protein	ACTx2			
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_03205	COG0059	EH	Ketol-acid reductoisomerase	IlvC	Isoleucine, leucine, valine biosynthesis		1NP3
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_03210	COG0119	E	Isopropylmalate/homocitrate/citramalate synthases	LeuA	Isoleucine, leucine, valine biosynthesis		4JN6
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_03215	COG0065	E	Homoaconitase/3-isopropylmalate dehydratase large subunit	LeuC	Isoleucine, leucine, valine biosynthesis		4KP1
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_03220	COG1048	C	Aconitase A	AcnA	Lysine biosynthesisTCA cycle		1ACO
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_03225	COG0119	E	Isopropylmalate/homocitrate/citramalate synthases	LeuA	Isoleucine, leucine, valine biosynthesis		4JN6
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_03230	COG0473	CE	Isocitrate/isopropylmalate dehydrogenase	LeuB	TCA cycle		1GC9
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_03235	COG2265	J	tRNA/tmRNA/rRNA uracil-C5-methylase, TrmA/RlmC/RlmD family	TrmA	tRNA modification		1UWV
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_03240	COG1240	H	vWFA (von Willebrand factor type A) domain of Mg and Co chelatases	ChlD			
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_03245	COG0539	J	Ribosomal protein S1	RpsA	Ribosome 30S subunit		4NNH
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_03250	COG1091	M	dTDP-4-dehydrorhamnose reductase	RfbD			1KBZ
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_03255	COG1088	M	dTDP-D-glucose 4,6-dehydratase	RfbB			1G1A
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_03260	COG1109	G	Phosphomannomutase	ManB			6MNV
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_03265	COG1099	R	Predicted metal-dependent hydrolase, TIM-barrel fold				3GUW
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_03270	COG0142	H	Geranylgeranyl pyrophosphate synthase	IspA	Isoprenoid biosynthesis		2AZJ
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_03275	COG0297	G	Glycogen synthase	GlgA			1RZU
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_03280	COG1807	M	PMT family glycosyltransferase ArnT/Agl22, involved in glycosylation of proteins and lipid IVA	ArnT		16226890;31233657;32706435	5EZM
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_03295	COG2367	V	Beta-lactamase class A	PenP			6W34
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_03305	COG0526	O	Thiol-disulfide isomerase or thioredoxin	TrxA			1XFL
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_03320	COG0034	F	Glutamine phosphoribosylpyrophosphate amidotransferase	PurF	Purine biosynthesis		1ECB
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_03325	COG2008	E	Threonine aldolase	GLY1			4LNJ
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_03330	COG4976	R	Predicted methyltransferase, contains TPR repeat				
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_03335	COG1088	M	dTDP-D-glucose 4,6-dehydratase	RfbB			1G1A
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_03340	COG1089	M	GDP-D-mannose dehydratase	Gmd			1DB3
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_03345	COG1087	M	UDP-glucose 4-epimerase	GalE			1A9Y
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_03350	COG2227	H	2-polyprenyl-3-methyl-5-hydroxy-6-metoxy-1,4-benzoquinol methylase	UbiG	Ubiquinone biosynthesis		1BHJ
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_03355	COG1231	E	Monoamine oxidase	YobN			1B37
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_03370	COG1807	M	PMT family glycosyltransferase ArnT/Agl22, involved in glycosylation of proteins and lipid IVA	ArnT		16226890;31233657;32706435	5EZM
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_03380	COG0701	S	Uncharacterized membrane protein YraQ, UPF0718 family	YraQ			
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_03385	COG1089	M	GDP-D-mannose dehydratase	Gmd			1DB3
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_03390	COG1091	M	dTDP-4-dehydrorhamnose reductase	RfbD			1KBZ
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_03395	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_03405	COG0215	J	Cysteinyl-tRNA synthetase	CysS	Aminoacyl-tRNA synthetases		1LI5
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_03410	COG0717	F	dCTP deaminase	Dcd	Thymidylate biosynthesis		1XS1
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_03415	COG0823	U	Periplasmic component TolB of the Tol biopolymer transport system	TolB			1C5K
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_03425	COG0451	M	Nucleoside-diphosphate-sugar epimerase	WcaG			2X4G
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_03430	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_03435	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_03440	COG1039	L	Ribonuclease HIII	RnhC			2D0A
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_03445	COG0297	G	Glycogen synthase	GlgA			1RZU
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_03450	COG3944	M	Capsular polysaccharide biosynthesis protein YveK	YveK			
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_03455	COG3944	M	Capsular polysaccharide biosynthesis protein YveK	YveK			
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_03460	COG0003	P	Anion-transporting ATPase, ArsA/GET3 family	ArsA			1F48
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_03465	COG0448	G	Glucose-1-phosphate adenylyltransferase (ADP-glucose pyrophosphorylase)	GlgC		27545622	5MNI
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_03470	COG1086	MO	NDP-sugar epimerase, includes UDP-GlcNAc-inverting 4,6-dehydratase FlaA1 and capsular polysaccharide biosynthesis protein EpsC	FlaA1			2GN4
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_03475	COG0066	E	3-isopropylmalate dehydratase small subunit	LeuD	Isoleucine, leucine, valine biosynthesis		3Q3W
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_03495	COG2423	E	Ornithine cyclodeaminase/archaeal alanine dehydrogenase, mu-crystallin family	OCDMu	Proline biosynthesis		2I99
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_03505	COG3840	H	ABC-type thiamine transport system, ATPase component ThiQ	ThiQ			
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_03510	COG1129	G	ABC-type sugar transport system, ATPase component	MglA			
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_03515	COG0559	E	Branched-chain amino acid ABC-type transport system, permease component	LivH			
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_03520	COG4177	E	ABC-type branched-chain amino acid transport system, permease component	LivM			
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_03525	COG0031	E	Cysteine synthase	CysK	Cysteine biosynthesis		1FCJ
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_03545	COG4651	P	Predicted Kef-type K+ transport protein, K+/H+ antiporter domain	RosB			
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_03550	COG1228	Q	Imidazolonepropionase or related amidohydrolase	HutI			3OOQ
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_03555	COG0512	EH	Anthranilate/para-aminobenzoate synthase component II (glutamine amidotransferase)	PabA	Aromatic amino acid biosynthesis		1I1Q
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_03560	COG0461	F	Orotate phosphoribosyltransferase	PyrE	Pyrimidine biosynthesis		4WML
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_03565	COG0290	J	Translation initiation factor IF-3	InfC	Translation factors		2IFE
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_03580	COG0052	J	Ribosomal protein S2	RpsB	Ribosome 30S subunit		4V4H
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_03590	COG0527	E	Aspartate kinase	MetL1	Lysine biosynthesis		2CDQ
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_03595	COG0233	J	Ribosome recycling factor	Frr			1DD5
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_03600	COG0020	I	Undecaprenyl pyrophosphate synthase	UppS			1X07
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_03605	COG4589	R	Predicted CDP-diglyceride synthetase/phosphatidate cytidylyltransferase	YnbB			
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_03610	COG1494	G	Fructose-1,6-bisphosphatase/sedoheptulose 1,7-bisphosphatase or related protein	GlpX			1NI9
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_03615	COG1157	NU	Flagellar biosynthesis/type III secretory pathway ATPase FliI	FliI			5B0O
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_03620	COG4942	D	Septal ring factor EnvC, activator of murein hydrolases AmiA and AmiB	EnvC			
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_03625	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_03630	COG2812	L	DNA polymerase III, gamma/tau subunits	DnaX			1A5T
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_03635	COG1884	I	Methylmalonyl-CoA mutase, N-terminal domain/subunit	Sbm			6OXC
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_03640	COG1038	C	Pyruvate carboxylase	PycA	Urea cycle		5VYW
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_03645	COG0458	EF	Carbamoylphosphate synthase large subunit	CarB	Arginine biosynthesis		1C30
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_03650	COG0777	I	Acetyl-CoA carboxylase beta subunit	AccD	Fatty acid biosynthesis		2F9I
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_03660	COG1453	R	Predicted oxidoreductase of the aldo/keto reductase family				
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_03680	COG1525	L	Endonuclease YncB, thermonuclease family	YncB			
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_03715	COG0438	M	Glycosyltransferase involved in cell wall bisynthesis	RfaB			2IV7
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_03720	COG0209	F	Ribonucleotide reductase alpha subunit	NrdA	Pyrimidine salvage		1R1R
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_03735	COG5518	X	Phage capsid portal protein XkdE				
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_03810	COG0031	E	Cysteine synthase	CysK	Cysteine biosynthesis		1FCJ
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_03820	COG0328	L	Ribonuclease HI	RnhA			1LAW
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_03825	COG0509	E	Glycine cleavage system protein H (lipoate-binding)	GcvH	Glycine cleavage		1DXM
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_03860	COG1488	H	Nicotinic acid phosphoribosyltransferase	PncB	NAD biosynthesis		1VLP
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_03865	COG1233	Q	Phytoene dehydrogenase-related protein				4REP
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_03875	COG0853	H	Aspartate 1-decarboxylase	PanD	Pantothenate/CoA biosynthesis		1AW8
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_03885	COG0499	H	S-adenosylhomocysteine hydrolase	SAM1			1A7A
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_03890	COG0121	R	Predicted glutamine amidotransferase YafJ	YafJ			1TE5
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_03895	COG1033	R	Predicted exporter protein, RND superfamily	MMPL			5KHN
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_03900	COG1566	V	Multidrug resistance efflux pump EmrA	EmrA			4TKO
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_03905	COG1538	M	Outer membrane protein TolC	TolC			1EK9
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_03925	COG1109	G	Phosphomannomutase	ManB			6MNV
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_03930	COG1570	L	Exonuclease VII, large subunit	XseA			
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_03935	COG1722	L	Exonuclease VII small subunit	XseB			1VP7
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_03940	COG0534	V	Na+-driven multidrug efflux pump, DinF/NorM/MATE family	NorM		29915058	3VVN
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_03945	COG1388	M	LysM repeat	LysM			1E0G
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_03950	COG1357	S	Uncharacterized conserved protein YjbI, contains pentapeptide repeats	YjbI			2BM4
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_03965	COG0494	V	8-oxo-dGTP pyrophosphatase MutT and related house-cleaning NTP pyrophosphohydrolases, NUDIX family	MutT			4V14
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_03970	COG2176	L	DNA polymerase III, alpha subunit (gram-positive type)	PolC			
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_03975	COG0413	H	Ketopantoate hydroxymethyltransferase	PanB	Pantothenate/CoA biosynthesis		3VAV
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_03980	COG2309	E	Leucyl aminopeptidase (aminopeptidase T)	AmpS			1ZJC
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_03985	COG0697	GER	Permease of the drug/metabolite transporter (DMT) superfamily	RhaT			5I20
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_03990	COG0697	GER	Permease of the drug/metabolite transporter (DMT) superfamily	RhaT			5I20
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_03995	COG1550	S	Stress-induced protein YlxP, DUF503 family	YlxP		15805528	1J27
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_04000	COG0095	H	Lipoate-protein ligase A	LplA	Lipoate biosynthesis		4TVW
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_04005	COG4231	C	TPP-dependent indolepyruvate ferredoxin oxidoreductase, alpha subunit	IorA			
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_04010	COG1014	C	Pyruvate:ferredoxin oxidoreductase or related 2-oxoacid:ferredoxin oxidoreductase, gamma subunit	PorG	Pyruvate oxidation		1B0P
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_04045	COG0441	J	Threonyl-tRNA synthetase	ThrS	Aminoacyl-tRNA synthetases		1NYQ
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_04050	COG4564	T	Signal transduction histidine kinase				2QHK
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_04055	COG2201	T	Chemotaxis response regulator CheB, contains REC and protein-glutamate methylesterase domains	CheB			1A2O
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_04060	COG1622	C	Heme/copper-type cytochrome/quinol oxidase, subunit 2	CyoA			1CYW
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_04065	COG1622	C	Heme/copper-type cytochrome/quinol oxidase, subunit 2	CyoA			1CYW
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_04080	COG0526	O	Thiol-disulfide isomerase or thioredoxin	TrxA			1XFL
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_04085	COG2010	C	Cytochrome c, mono- and diheme variants	CccA			1A2S
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_04115	COG0459	O	Chaperonin GroEL (HSP60 family)	GroEL			1AON
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_04120	COG0075	EF	Archaeal aspartate aminotransferase or a related aminotransferase, includes purine catabolism protein PucG	PucG	Serine biosynthesis		3NNK
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_04130	COG0265	O	Periplasmic serine protease, S1-C subfamily, contain C-terminal PDZ domain	DegQ		29686141	2HGA
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_04135	COG3764	M	Sortase (surface protein transpeptidase)	SrtA			1IJA
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_04145	COG1807	M	PMT family glycosyltransferase ArnT/Agl22, involved in glycosylation of proteins and lipid IVA	ArnT		16226890;31233657;32706435	5EZM
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_04150	COG1063	ER	Threonine dehydrogenase or related Zn-dependent dehydrogenase	Tdh	Non-phosphorylated Entner-Doudoroff pathway		4A2C
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_04155	COG1023	G	6-phosphogluconate dehydrogenase (decarboxylating)	YqeC			4E21
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_04170	COG2211	G	Na+/melibiose symporter or related transporter	MelB			4M64
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_04175	COG0496	L	Broad specificity polyphosphatase and 5'/3'-nucleotidase SurE	SurE			2V4N
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_04195	COG0167	F	Dihydroorotate dehydrogenase	PyrD	Pyrimidine biosynthesis		1GT8
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_04200	COG0500	QR	SAM-dependent methyltransferase	SmtA			5DNK
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_04215	COG0516	F	IMP dehydrogenase/GMP reductase	GuaB	Purine biosynthesis		1B3O
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_04230	COG0210	L	Superfamily I DNA or RNA helicase	UvrD			6PPR
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_04235	COG0076	E	Glutamate or tyrosine decarboxylase or a related PLP-dependent protein	GadA	Pantothenate/CoA biosynthesis		1XEY
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_04255	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_04260	COG1484	L	DNA replication protein DnaC	DnaC			2QGZ
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_04265	COG0494	V	8-oxo-dGTP pyrophosphatase MutT and related house-cleaning NTP pyrophosphohydrolases, NUDIX family	MutT			4V14
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_04275	COG1388	M	LysM repeat	LysM			1E0G
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_04285	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_04300	COG3593	L	Predicted ATP-dependent endonuclease of the OLD family, contains P-loop ATPase and TOPRIM domains	YbjD			
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_04305	COG0469	G	Pyruvate kinase	PykF	Glycolysis		6QXL
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_04320	COG4231	C	TPP-dependent indolepyruvate ferredoxin oxidoreductase, alpha subunit	IorA			
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_04325	COG4231	C	TPP-dependent indolepyruvate ferredoxin oxidoreductase, alpha subunit	IorA			
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_04330	COG2186	K	DNA-binding transcriptional regulator, FadR family	FadR			1E2X
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_04340	COG0441	J	Threonyl-tRNA synthetase	ThrS	Aminoacyl-tRNA synthetases		1NYQ
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_04345	COG2231	L	3-Methyladenine DNA glycosylase, HhH-GPD/Endo3 superfamily	HP0602		14517230;20410075	1PU6
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_04350	COG0503	F	Adenine/guanine phosphoribosyltransferase or related PRPP-binding protein	Apt	Purine salvage		1QB7
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_04355	COG2226	H	Ubiquinone/menaquinone biosynthesis C-methylase UbiE/MenG	UbiE	Biotin biosynthesis		4OBW
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_04360	COG0064	J	Asp-tRNAAsn/Glu-tRNAGln amidotransferase B subunit	GatB	Aminoacyl-tRNA synthetases		3H0M
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_04365	COG3457	E	Predicted amino acid racemase	YhfX		23091052	4KBX
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_04370	COG1041	J	tRNA G10 N-methylase Trm11	Trm11	tRNA modification		5E71
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_04375	COG2414	C	Aldehyde:ferredoxin oxidoreductase	YdhV			1AOR
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_04380	COG0343	J	Queuine/archaeosine tRNA-ribosyltransferase	Tgt	tRNA modification	15805528	1XW8
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_04385	COG1968	I	Undecaprenyl pyrophosphate phosphatase	UppP			5OON
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_04390	COG1236	J	RNA processing exonuclease, beta-lactamase fold, Cft2 family	YSH1			2DKF
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_04400	COG0480	J	Translation elongation factor EF-G, a GTPase	FusA	Translation factors		1DAR
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_04410	COG0696	G	Phosphoglycerate mutase (BPG-independent), AlkP superfamily	GpmI	Glycolysis		1EJJ
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_04415	COG0073	J	tRNA-binding EMAP/Myf domain	EMAP			1MKH
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_04425	COG0713	C	NADH:ubiquinone oxidoreductase subunit 11 or 4L (chain K)	NuoK	NADH dehydrogenase		4HE8
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_04430	COG1009	C	Membrane H+-translocase/NADH:ubiquinone oxidoreductase subunit 5 (chain L)/Multisubunit Na+/H+ antiporter, MnhA subunit	NuoL	NADH dehydrogenase		3RKO
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_04435	COG1008	C	NADH:ubiquinone oxidoreductase subunit 4 (chain M)	NuoM	NADH dehydrogenase		6HUM
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_04440	COG0651	CP	Formate hydrogenlyase subunit 3/Multisubunit Na+/H+ antiporter, MnhD subunit	HyfB			6CFW
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_04445	COG1007	C	NADH:ubiquinone oxidoreductase subunit 2 (chain N)	NuoN	NADH dehydrogenase		4HE8
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_04455	COG0636	C	FoF1-type ATP synthase, membrane subunit c/Archaeal/vacuolar-type H+-ATPase, subunit K	AtpE	FoF1-type ATP synthase		1C17
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_04460	COG0711	C	FoF1-type ATP synthase, membrane subunit b or b'	AtpF	FoF1-type ATP synthase		1B9U
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_04465	COG0771	M	UDP-N-acetylmuramoylalanine-D-glutamate ligase	MurD	Mureine biosynthesis		1E0D
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_04470	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_04490	COG1215	N	Glycosyltransferase, catalytic subunit of cellulose synthase and poly-beta-1,6-N-acetylglucosamine synthase	BcsA			4HG6
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_04495	COG1216	G	Glycosyltransferase, GT2 family	WcaE			2Z86
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_04515	COG5337	M	Spore coat protein CotH	CotH			5JD9
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_04530	COG1696	M	D-alanyl-lipoteichoic acid acyltransferase DltB, MBOAT superfamily	DltB			6BUG
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_04540	COG3063	NW	Type IV pilus assembly protein PilF/PilW	PilF		16403447	2VQ2
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_04555	COG0352	H	Thiamine monophosphate synthase	ThiE	Thiamine biosynthesis	19060138	1G4T
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_04560	COG1105	G	1-phosphofructokinase or 6-phosphofructokinase II	FruK			2ABQ
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_04565	COG4770	I	Acetyl/propionyl-CoA carboxylase, alpha subunit	PccA			3U9S
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_04575	COG3871	S	General stress protein 26 (function unknown)	YzzA			2I02
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_04580	COG0438	M	Glycosyltransferase involved in cell wall bisynthesis	RfaB			2IV7
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_04590	COG1807	M	PMT family glycosyltransferase ArnT/Agl22, involved in glycosylation of proteins and lipid IVA	ArnT		16226890;31233657;32706435	5EZM
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_04595	COG1807	M	PMT family glycosyltransferase ArnT/Agl22, involved in glycosylation of proteins and lipid IVA	ArnT		16226890;31233657;32706435	5EZM
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_04600	COG0438	M	Glycosyltransferase involved in cell wall bisynthesis	RfaB			2IV7
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_04605	COG3459	G	Cellobiose phosphorylase			17307853	1V7V
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_04610	COG0297	G	Glycogen synthase	GlgA			1RZU
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_04615	COG2084	I	3-hydroxyisobutyrate dehydrogenase or related beta-hydroxyacid dehydrogenase	MmsB			1I36
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_04620	COG1089	M	GDP-D-mannose dehydratase	Gmd			1DB3
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_04630	COG1089	M	GDP-D-mannose dehydratase	Gmd			1DB3
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_04635	COG0533	J	tRNA A37 threonylcarbamoyltransferase TsaD	TsaD	tRNA modification	23072323;21285948;32385138	3ENO
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_04640	COG0802	J	tRNA A37 threonylcarbamoyladenosine biosynthesis protein TsaE	TsaE	tRNA modification		1FL9
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_04645	COG0622	R	Predicted phosphodiesterase, calcineurin family	YfcE		17586769	1SU1
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_04650	COG0315	H	Molybdenum cofactor biosynthesis enzyme MoaC	MoaC	Molybdopterin biosynthesis	32239579	1EKR
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_04655	COG0314	H	Molybdopterin synthase catalytic subunit MoaE	MoaE	Molybdopterin biosynthesis	32239579	1FM0
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_04670	COG2206	T	HD-GYP domain, c-di-GMP phosphodiesterase class II (or its inactivated variant)	HDGYP		23475961	5Z7C
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_04675	COG2137	O	SOS response regulatory protein OraA/RecX, interacts with RecA	RecX			3C1D
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_04680	COG2874	N	Archaellum biogenesis ATPase ArlH/FlaH	FlaH		32416640	4WIA
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_04685	COG0372	C	Citrate synthase	GltA	TCA cycle	25211225	3TQG
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_04690	COG0456	J	Ribosomal protein S18 acetylase RimI and related acetyltransferases	RimI			1GHE
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_04725	COG1506	E	Dipeptidyl aminopeptidase/acylaminoacyl peptidase	DAP2			2JBW
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_04730	COG2374	R	Predicted extracellular nuclease				
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_04760	COG0193	J	Peptidyl-tRNA hydrolase	Pth	Translation factors	11835511	1RYB
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_04770	COG3474	C	Cytochrome c2	Cyc7			1YEA
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_04775	COG1146	F	NAD-dependent dihydropyrimidine dehydrogenase, PreA subunit	PreA			
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_04785	COG1845	C	Heme/copper-type cytochrome/quinol oxidase, subunit 3	CyoC			1QLE
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_04795	COG3346	O	Cytochrome oxidase assembly protein ShyY1	Shy1			
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_04800	COG0382	H	4-hydroxybenzoate polyprenyltransferase	UbiA	Ubiquinone biosynthesis	28830929	4OD4
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_04805	COG1612	H	Heme A synthase	CtaA			6A2J
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_04815	COG0341	U	Preprotein translocase subunit SecF	SecF		28830929	2FYH
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_04820	COG0342	U	Preprotein translocase subunit SecD	SecD		26100040	3AQP
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_04830	COG1376	M	Lipoprotein-anchoring transpeptidase ErfK/SrfK	ErfK			4LZH
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_04835	COG1597	IR	Phosphatidylglycerol kinase, diacylglycerol kinase family	LCB5		17351295	2BON
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_04840	COG3620	K	Predicted transcriptional regulator, contains an XRE-type HTH domain (archaeal members contain CBS pair)	AF2118			
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_04845	COG0188	L	DNA gyrase/topoisomerase IV, subunit A	GyrA			1SUU
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_04855	COG0086	K	DNA-directed RNA polymerase, beta' subunit/160 kD subunit	RpoC	RNA polymerase		1NT9
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_04865	COG2258	FV	N-hydroxylaminopurine reductase YiiM, contains MOSC domain	YiiM		18312271;29459651	1O65
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_04885	COG0165	E	Argininosuccinate lyase	ArgH	Arginine biosynthesis		1AOS
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_04890	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_04895	COG0443	O	Molecular chaperone DnaK (HSP70)	DnaK			3I33
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_04910	COG1287	O	Asparagine N-glycosylation enzyme, membrane subunit Stt3	Stt3			2LGZ
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_04915	COG2344	K	NADH/NAD ratio-sensing transcriptional regulator Rex	Rex		23490197	3KEO
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_04920	COG0297	G	Glycogen synthase	GlgA			1RZU
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_04925	COG0297	G	Glycogen synthase	GlgA			1RZU
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_04935	COG1278	K	Cold shock protein, CspA family	CspC			1C9O
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_04940	COG1748	E	Saccharopine dehydrogenase, NADP-dependent	Lys9	Lysine biosynthesis		1E5L
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_04945	COG1082	G	Sugar phosphate isomerase/epimerase	YcjR		30742415	3KTC
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_04955	COG2222	M	Fructoselysine-6-P-deglycase FrlB or related protein, duplicated sugar isomerase (SIS) domain	AgaS		16153181	3C3J
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_04965	COG4133	O	ABC-type transport system involved in cytochrome c biogenesis, ATPase component	CcmA			
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_04970	COG0555	P	ABC-type sulfate transport system, permease component	CysU			3D31
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_04975	COG0687	E	Spermidine/putrescine-binding periplasmic protein	PotD			1POT
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_04985	COG5276	S	Uncharacterized secreted protein, contains LVIVD repeats, choice-of-anchor domain				
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_04990	COG1843	N	Flagellar hook-capping protein FlgD	FlgD			6IEF
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_05000	COG1363	EG	Putative aminopeptidase FrvX	FrvX			1VHE
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_05005	COG0473	CE	Isocitrate/isopropylmalate dehydrogenase	LeuB	TCA cycle		1GC9
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_05010	COG1048	C	Aconitase A	AcnA	Lysine biosynthesisTCA cycle		1ACO
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_05015	COG1049	C	Aconitase B	AcnB	TCA cycle		1L5J
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_05020	COG1038	C	Pyruvate carboxylase	PycA	Urea cycle		5VYW
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_05025	COG4992	E	Acetylornithine/succinyldiaminopimelate/putrescine aminotransferase	ArgD	Arginine biosynthesis		2E54
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_05030	COG0263	E	Glutamate 5-kinase	ProB	Proline biosynthesis		2W21
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_05035	COG0136	E	Aspartate-semialdehyde dehydrogenase	Asd	Lysine biosynthesis		1BRM
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_05040	COG1181	MR	D-alanine-D-alanine ligase or related ATP-grasp enzyme	DdlA	Mureine biosynthesis		1E4E
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_05045	COG1405	K	Transcription initiation factor TFIIIB, Brf1 subunit/Transcription initiation factor TFIIB	SUA7			1DL6
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_05055	COG4674	R	ABC-type uncharacterized transport system, ATPase component			10686096	
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_05060	COG0842	V	ABC-type multidrug transport system, permease component	YadH			
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_05065	COG0845	MV	Multidrug efflux pump subunit AcrA (membrane-fusion protein)	AcrA			1T5E
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_05070	COG4170	V	ABC-type antimicrobial peptide export system, ATPase component SapD	SapD			
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_05075	COG4591	M	ABC-type transport system involved in lipoprotein release, permease component LolC	LolE			6F49
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_05080	COG0190	H	5,10-methylene-tetrahydrofolate dehydrogenase/Methenyl tetrahydrofolate cyclohydrolase	FolD			1A4I
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_05085	COG0367	E	Asparagine synthetase B (glutamine-hydrolyzing)	AsnB	Asparagine biosynthesis	25951518	2ETD
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_05090	COG2121	S	Uncharacterized conserved protein, lysophospholipid acyltransferase (LPLAT) superfamily				
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_05095	COG1102	F	Cytidylate kinase	CmkB			
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_05100	COG0564	J	Pseudouridine synthase RluA, 23S rRNA- or tRNA-specific	RluA	23S rRNA modification		2I82
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_05105	COG1386	K	Chromosome segregation and condensation protein ScpB	ScpB			1T6S
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_05110	COG1826	U	Twin-arginine protein secretion pathway components TatA and TatB	TatA			2L16
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_05115	COG0613	F	5'-3' exoribonuclease TrpH/YciV (RNase AM), contains PHP domain	YciV		25871919	3E0F
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_05125	COG3536	S	Uncharacterized conserved protein, DUF971 family				2L6N
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_05130	COG0260	E	Leucyl aminopeptidase	PepB		19553197;23825549	3H8E
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_05135	COG0319	J	ssRNA-specific RNase YbeY, 16S rRNA maturation enzyme	YbeY	16S rRNA modification	17407324;23543739	1XM5
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_05140	COG1713	TR	Diadenosine tetraphosphatase YqeK or a related HD superfamily phosphohydrolase	YqeK		32152217	2OGI
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_05145	COG1085	G	Galactose-1-phosphate uridylyltransferase	GalT			1GUP
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_05150	COG2086	C	Electron transfer flavoprotein, alpha and beta subunits	FixA			5OL2
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_05155	COG2025	C	Electron transfer flavoprotein, alpha subunit FixB	FixB			1EFP
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_05160	COG0465	O	ATP-dependent Zn proteases	HflB			1LV7
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_05165	COG0478	T	RIO-like serine/threonine protein kinase fused to N-terminal HTH domain	RIO2			1TQI
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_05175	COG4533	K	DNA-binding transcriptional regulator SgrR of sgrS sRNA, contains a MarR-type HTH domain and a periplasmic-type solute-binding domain	SgrR			
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_05180	COG0741	M	Soluble lytic murein transglycosylase or regulatory protein s ( may contain LysM/invasin domain)	MltE			153L
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_05185	COG1209	M	dTDP-glucose pyrophosphorylase	RmlA1			1FXO
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_05190	COG1086	MO	NDP-sugar epimerase, includes UDP-GlcNAc-inverting 4,6-dehydratase FlaA1 and capsular polysaccharide biosynthesis protein EpsC	FlaA1			2GN4
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_05195	COG1087	M	UDP-glucose 4-epimerase	GalE			1A9Y
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_05200	COG0436	E	Aspartate/methionine/tyrosine aminotransferase	AspB	Isoleucine, leucine, valine biosynthesis		2O0R
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_05205	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_05210	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_05215	COG1105	G	1-phosphofructokinase or 6-phosphofructokinase II	FruK			2ABQ
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_05220	COG0499	H	S-adenosylhomocysteine hydrolase	SAM1			1A7A
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_05230	COG0205	G	6-phosphofructokinase	PfkA	Glycolysis		1KZH
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_05235	COG2011	E	ABC-type methionine transport system, permease component	MetP			6CVL
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_05240	COG1101	R	ABC-type uncharacterized transport system, ATPase component	PhnK			
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_05245	COG3221	P	ABC-type phosphate/phosphonate transport system, periplasmic component	PhnD			3S4U
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_05260	COG0090	J	Ribosomal protein L2	RplB	Ribosome 50S subunit		1VS6
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_05265	COG0185	J	Ribosomal protein S19	RpsS	Ribosome 30S subunit		4V4H
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_05275	COG1159	J	GTPase Era, involved in 16S rRNA processing	Era			1EGA
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_05280	COG0197	J	Ribosomal protein L16/L10AE	RplP	Ribosome 50S subunit		1WKI
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_05285	COG0255	J	Ribosomal protein L29	RpmC	Ribosome 50S subunit		1VS6
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_05295	COG0093	J	Ribosomal protein L14	RplN	Ribosome 50S subunit		4V4H
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_05300	COG0198	J	Ribosomal protein L24	RplX	Ribosome 50S subunit		1VS6
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_05305	COG0094	J	Ribosomal protein L5	RplE	Ribosome 50S subunit		1VS6
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_05310	COG0199	J	Ribosomal protein S14	RpsN	Ribosome 30S subunit		4V4H
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_05315	COG0096	J	Ribosomal protein S8	RpsH	Ribosome 30S subunit		4V4H
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_05320	COG0097	J	Ribosomal protein L6P/L9E	RplF	Ribosome 50S subunit		1VS6
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_05330	COG0098	J	Ribosomal protein S5	RpsE	Ribosome 30S subunit		4V4H
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_05335	COG1841	J	Ribosomal protein L30/L7E	RpmD	Ribosome 50S subunit		1VS6
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_05340	COG1727	J	Ribosomal protein L18E	RPL18A	Archaeal ribosomal proteins		
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_05345	COG0201	U	Preprotein translocase subunit SecY	SecY			1RH5
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_05350	COG1102	F	Cytidylate kinase	CmkB			
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_05355	COG0024	J	Methionine aminopeptidase	Map			3J2I
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_05365	COG0100	J	Ribosomal protein S11	RpsK	Ribosome 30S subunit		4V4H
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_05370	COG1189	J	Predicted rRNA methylase YqxC, contains S4 and FtsJ domains	YqxC			3OPN
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_05375	COG0202	K	DNA-directed RNA polymerase, alpha subunit/40 kD subunit	RpoA	RNA polymerase		4KN7
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_05385	COG0101	J	tRNA U38,U39,U40 pseudouridine synthase TruA	TruA	tRNA modification		1DJ0
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_05390	COG0102	J	Ribosomal protein L13	RplM	Ribosome 50S subunit		1VS6
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_05395	COG0103	J	Ribosomal protein S9	RpsI	Ribosome 30S subunit		4V4H
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_05580	COG0723	C	Rieske Fe-S protein	QcrA/PetC		27663073	5CXM
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_05585	COG0749	L	DNA polymerase I, 3'-5' exonuclease and polymerase domains	PolA			1D8Y
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_05595	COG0330	O	Regulator of protease activity HflC, stomatin/prohibitin superfamily	HflC			
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_05600	COG3427	C	Carbon monoxide dehydrogenase subunit CoxG	CoxG			2NS9
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_05615	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_05625	COG1538	M	Outer membrane protein TolC	TolC			1EK9
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_05630	COG1566	V	Multidrug resistance efflux pump EmrA	EmrA			4TKO
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_05635	COG1137	M	ABC-type lipopolysaccharide export system, ATPase component	LptB		12029038	5L75
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_05640	COG4591	M	ABC-type transport system involved in lipoprotein release, permease component LolC	LolE			6F49
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_05645	COG4591	M	ABC-type transport system involved in lipoprotein release, permease component LolC	LolE			6F49
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_05655	COG1124	EP	ABC-type dipeptide/oligopeptide/nickel transport system, ATPase component	DppF			
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_05660	COG1305	O	Transglutaminase-like enzyme, putative cysteine protease	YebA			3ISR
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_05705	COG0006	E	Xaa-Pro aminopeptidase	PepP			1A16
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_05710	COG1104	E	Cysteine desulfurase/Cysteine sulfinate desulfinase IscS or related enzyme, NifS family	NifS		22773787;25825430	4IXO
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_05715	COG2870	M	ADP-heptose synthase, bifunctional sugar kinase/adenylyltransferase	RfaE			5X9Q
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_05720	COG0134	E	Indole-3-glycerol phosphate synthase	TrpC	Aromatic amino acid biosynthesis		6BMA
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_05730	COG1748	E	Saccharopine dehydrogenase, NADP-dependent	Lys9	Lysine biosynthesis		1E5L
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_05735	COG0588	G	Phosphoglycerate mutase (BPG-dependent)	GpmA	Glycolysis		1E58
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_05750	COG1080	G	Phosphoenolpyruvate-protein kinase (PTS system EI component in bacteria)	PtsA			1EZA
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_05755	COG4668	G	Mannitol/fructose-specific phosphotransferase system, IIA domain	MtlA2			1A3A
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_05760	COG2213	G	Phosphotransferase system, mannitol-specific IIBC component	MtlA			1VRV
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_05765	COG2213	G	Phosphotransferase system, mannitol-specific IIBC component	MtlA			1VRV
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_05780	COG4143	H	ABC-type thiamine transport system, periplasmic component TbpA	TbpA			2QRY
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_05785	COG0555	P	ABC-type sulfate transport system, permease component	CysU			3D31
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_05790	COG1134	G	ABC-type polysaccharide/polyol phosphate transport system, ATPase component	TagH			6JBH
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_05795	COG5305	R	Uncharacterized membrane protein PF0508, contains N-terminal glycosyltransferase domain of PMT family				
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_05800	COG4991	S	Uncharacterized conserved protein YraI	YraI			2E52
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_05805	COG4841	S	Uncharacterized conserved protein YneR, related to HesB/YadR/YfhF family	YneR			
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_05810	COG1941	C	Coenzyme F420-reducing hydrogenase, gamma subunit	FrhG			5ODC
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_05815	COG3262	C	Ni,Fe-hydrogenase III component G	HycE1			
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_05820	COG1148	C	Heterodisulfide reductase, subunit A (polyferredoxin)	HdrA			5ODC
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_05830	COG1149	R	MinD superfamily P-loop ATPase, contains an inserted ferredoxin domain				
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_05835	COG0624	E	Acetylornithine deacetylase/Succinyl-diaminopimelate desuccinylase or related deacylase	ArgE	Arginine biosynthesis		1CG2
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_05840	COG1032	R	Radical SAM superfamily enzyme YgiQ, UPF0313 family	YgiQ			6FD2
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_05845	COG4454	R	Uncharacterized copper-binding protein, cupredoxin-like subfamily				
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_05860	COG2833	S	Uncharacterized protein, contains ferritin-like DUF455 domain				
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_05875	COG0145	EQ	N-methylhydantoinase A/oxoprolinase/acetone carboxylase, beta subunit	HyuA			
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_05880	COG0778	C	Nitroreductase	NfnB	Pyrimidine degradation		1F5V
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_05890	COG1099	R	Predicted metal-dependent hydrolase, TIM-barrel fold				3GUW
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_05900	COG0667	HR	Pyridoxal reductase PdxI or related oxidoreductase, aldo/keto reductase family	PdxI		32253339	1LQA
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_05920	COG1173	EP	ABC-type dipeptide/oligopeptide/nickel transport system, permease component	DppC			
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_05925	COG1173	EP	ABC-type dipeptide/oligopeptide/nickel transport system, permease component	DppC			
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_05940	COG1260	I	Myo-inositol-1-phosphate synthase	INO1			1GR0
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_05945	COG1185	J	Polyribonucleotide nucleotidyltransferase (polynucleotide phosphorylase)	Pnp			1E3P
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_05955	COG0441	J	Threonyl-tRNA synthetase	ThrS	Aminoacyl-tRNA synthetases		1NYQ
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_05960	COG0758	L	Predicted Rossmann fold nucleotide-binding protein DprA/Smf involved in DNA uptake	Smf			3MAJ
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_05965	COG0281	C	Malic enzyme	SfcA	Urea cycle		1DO8
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_05970	COG0192	H	S-adenosylmethionine synthetase	MetK	Methionine biosynthesis		1FUG
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_05975	COG1086	MO	NDP-sugar epimerase, includes UDP-GlcNAc-inverting 4,6-dehydratase FlaA1 and capsular polysaccharide biosynthesis protein EpsC	FlaA1			2GN4
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_05980	COG0285	H	Folylpolyglutamate synthase/Dihydropteroate synthase	FolC	Folate biosynthesis		1W78
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_05985	COG1807	M	PMT family glycosyltransferase ArnT/Agl22, involved in glycosylation of proteins and lipid IVA	ArnT		16226890;31233657;32706435	5EZM
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_05990	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_05995	COG1086	MO	NDP-sugar epimerase, includes UDP-GlcNAc-inverting 4,6-dehydratase FlaA1 and capsular polysaccharide biosynthesis protein EpsC	FlaA1			2GN4
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_06005	COG0509	E	Glycine cleavage system protein H (lipoate-binding)	GcvH	Glycine cleavage		1DXM
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_06010	COG0403	E	Glycine cleavage system protein P (pyridoxal-binding), N-terminal domain	GcvP1	Glycine cleavage		4LGL
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_06015	COG1003	E	Glycine cleavage system protein P (pyridoxal-binding), C-terminal domain	GcvP2	Glycine cleavage		4LGL
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_06020	COG0595	J	mRNA degradation ribonuclease J1/J2	RnjA			3T3N
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_06025	COG1004	M	UDP-glucose 6-dehydrogenase	Ugd			1DLI
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_06030	COG1026	O	Zn-dependent peptidase, M16 (insulinase) family	Cym1			2FGE
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_06035	COG1026	O	Zn-dependent peptidase, M16 (insulinase) family	Cym1			2FGE
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_06050	COG3380	R	Predicted NAD/FAD-dependent oxidoreductase				4ZCC
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_06055	COG3156	U	Type II secretory pathway, component PulK	PulK			5VTM
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_06060	COG3156	U	Type II secretory pathway, component PulK	PulK			5VTM
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_06065	COG0075	EF	Archaeal aspartate aminotransferase or a related aminotransferase, includes purine catabolism protein PucG	PucG	Serine biosynthesis		3NNK
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_06075	COG2080	C	Aldehyde, CO, or xanthine dehydrogenase, Fe-S subunit, CoxS/CutS family	CutS	Non-phosphorylated Entner-Doudoroff pathway	21175741	1FFU
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_06080	COG1249	C	Dihydrolipoamide dehydrogenase (E3) component of pyruvate/2-oxoglutarate dehydrogenase complex or glutathione oxidoreductase	Lpd	Glycine cleavagePyruvate oxidation		6QKG
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_06090	COG0538	C	Isocitrate dehydrogenase	Icd	TCA cycle		1IDD
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_06095	COG2761	O	Predicted dithiol-disulfide isomerase, DsbA/YjbH family (virulence, stress resistance)	FrnE			6GHB
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_06100	COG1807	M	PMT family glycosyltransferase ArnT/Agl22, involved in glycosylation of proteins and lipid IVA	ArnT		16226890;31233657;32706435	5EZM
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_06115	COG2952	S	Uncharacterized conserved protein, DUF507 domain				
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_06120	COG2952	S	Uncharacterized conserved protein, DUF507 domain				
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_06125	COG2176	L	DNA polymerase III, alpha subunit (gram-positive type)	PolC			
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_06130	COG0075	EF	Archaeal aspartate aminotransferase or a related aminotransferase, includes purine catabolism protein PucG	PucG	Serine biosynthesis		3NNK
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_06140	COG1193	L	dsDNA-specific endonuclease/ATPase MutS2	MutS2			
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_06145	COG0019	E	Diaminopimelate decarboxylase	LysA	Lysine biosynthesis		1D7K
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_06150	COG3159	S	Uncharacterized conserved protein YigA, DUF484 family	YigA			3E98
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_06155	COG0206	D	Cell division GTPase FtsZ	FtsZ			1FSZ
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_06160	COG4820	E	Ethanolamine utilization protein EutJ, possible chaperonin	EutJ			
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_06165	COG1589	D	Cell division septal protein FtsQ	FtsQ			1YR1
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_06170	COG0458	EF	Carbamoylphosphate synthase large subunit	CarB	Arginine biosynthesis		1C30
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_06175	COG0812	M	UDP-N-acetylenolpyruvoylglucosamine reductase	MurB	Mureine biosynthesis		2MBR
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_06180	COG0773	M	UDP-N-acetylmuramate-alanine ligase MurC and related ligases, MurC/Mpl family	MurC	Mureine biosynthesis		
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_06185	COG1819	G	UDP:flavonoid glycosyltransferase YjiC, YdhE family	YjiC		23974133	2ACV
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_06190	COG0772	D	Peptodoglycan polymerase FtsW/RodA/SpoVE	FtsW		30692671	6BAR
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_06195	COG0771	M	UDP-N-acetylmuramoylalanine-D-glutamate ligase	MurD	Mureine biosynthesis		1E0D
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_06200	COG0472	M	UDP-N-acetylmuramyl pentapeptide phosphotransferase/UDP-N-acetylglucosamine-1-phosphate transferase	Rfe	Mureine biosynthesis		4J72
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_06205	COG0285	H	Folylpolyglutamate synthase/Dihydropteroate synthase	FolC	Folate biosynthesis		1W78
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_06210	COG0285	H	Folylpolyglutamate synthase/Dihydropteroate synthase	FolC	Folate biosynthesis		1W78
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_06215	COG0768	DM	Cell division protein FtsI, peptidoglycan transpeptidase (Penicillin-binding protein 2)	FtsI			6HZQ
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_06225	COG0275	J	16S rRNA C1402 N4-methylase RsmH	RmsH	16S rRNA modification		1M6Y
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_06235	COG0582	LX	Integrase/recombinase, includes phage integrase	FimB			
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_06245	COG0548	E	N-acetylglutamate kinase	ArgB	Arginine biosynthesis		3S6G
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_06260	COG1432	R	NYN domain, predicted PIN-related RNAse, tRNA/rRNA maturation	LabA			2QIP
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_06265	COG0617	J	tRNA nucleotidyltransferase/poly(A) polymerase	PcnB	tRNA modification		3WFR
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_06270	COG1199	L	Rad3-related DNA helicase DinG	DinG			5H8W
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_06275	COG2089	M	Sialic acid synthase SpsE, contains C-terminal SAF domain	SpsE			1VLI
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_06285	COG4625	S	Uncharacterized conserved protein, contains a C-terminal beta-barrel porin domain				
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_06300	COG3409	M	Peptidoglycan-binding (PGRP) domain of peptidoglycan hydrolases	PGRP			4FET
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_06305	COG1141	C	Ferredoxin	Fer			1IQZ
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_06355	COG1087	M	UDP-glucose 4-epimerase	GalE			1A9Y
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_06365	COG1846	K	DNA-binding transcriptional regulator, MarR family	MarR			1JGS
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_06375	COG2154	H	Pterin-4a-carbinolamine dehydratase	PhhB			1DCH
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_06380	COG0078	E	Ornithine carbamoyltransferase	ArgF	Arginine biosynthesis		1A1S
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_06385	COG1624	T	c-di-AMP synthetase, contains DisA_N domain	DisA			2FB5
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_06395	COG0218	D	GTP-binding protein EngB required for normal cell division	EngB			5UCV
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_06400	COG0681	U	Signal peptidase I	LepB		1925027	1B12
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_06405	COG0274	F	Deoxyribose-phosphate aldolase	DeoC			1J2W
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_06410	COG1012	I	Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase	AdhE	Proline degradation		1A4S
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_06435	COG0079	E	Histidinol-phosphate/aromatic aminotransferase or cobyric acid decarboxylase	HisC	Cobalamine/B12 biosynthesis		4R2N
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_06445	COG1199	L	Rad3-related DNA helicase DinG	DinG			5H8W
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_06455	COG0231	J	Translation elongation factor P (EF-P)/translation initiation factor 5A (eIF-5A)	Efp	Translation factors		1UEB
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_06465	COG0579	G	L-2-hydroxyglutarate oxidase LhgO	LhgO			3DME
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_06475	COG3583	S	Uncharacterized conserved protein YabE, contains G5 and tandem DUF348 domains	YabE			5E27
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_06480	COG2518	O	Protein-L-isoaspartate O-methyltransferase	Pcm		24909784	3LBF
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_06490	COG0691	O	tmRNA-binding protein	SmpB		26251518	1J1H
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_06500	COG0793	O	C-terminal processing protease CtpA/Prc, contains a PDZ domain	CtpA			6IQU
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_06505	COG0236	I	Acyl carrier protein	AcpP	Fatty acid biosynthesis		1ACP
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_06510	COG1304	CIR	FMN-dependent dehydrogenase, includes L-lactate dehydrogenase and type II isopentenyl diphosphate isomerase	LldD	Isoprenoid biosynthesis		6AI7
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_06515	COG0142	H	Geranylgeranyl pyrophosphate synthase	IspA	Isoprenoid biosynthesis		2AZJ
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_06525	COG0329	EM	4-hydroxy-tetrahydrodipicolinate synthase/N-acetylneuraminate lyase	DapA	Lysine biosynthesis	27574185	2R91
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_06530	COG1350	E	Predicted alternative tryptophan synthase beta-subunit (paralog of TrpB)		Aromatic amino acid biosynthesis		6HUL
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_06535	COG4598	E	ABC-type histidine transport system, ATPase component	HisP			1B0U
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_06540	COG1117	P	ABC-type phosphate transport system, ATPase component	PstB			
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_06545	COG0559	E	Branched-chain amino acid ABC-type transport system, permease component	LivH			
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_06550	COG4177	E	ABC-type branched-chain amino acid transport system, permease component	LivM			
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_06555	COG0683	E	ABC-type branched-chain amino acid transport system, periplasmic component	LivK			1USG
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_06560	COG1052	CHR	Lactate dehydrogenase or related 2-hydroxyacid dehydrogenase	LdhA	Pyridoxal phosphate biosynthesis		1DXY
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_06580	COG1434	M	Lipid carrier protein ElyC involved in cell wall biogenesis, DUF218 family	ElyC		24391520	3CA8
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_06585	COG0177	L	Endonuclease III	Nth			4UOB
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_06590	COG0095	H	Lipoate-protein ligase A	LplA	Lipoate biosynthesis		4TVW
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_06595	COG0502	H	Biotin synthase or related enzyme	BioB	Biotin biosynthesis		1R30
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_06600	COG1207	M	Bifunctional protein GlmU, N-acetylglucosamine-1-phosphate-uridyltransferase/glucosamine-1-phosphate-acetyltransferase	GlmU			3FWW
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_06605	COG0154	J	Asp-tRNAAsn/Glu-tRNAGln amidotransferase A subunit or related amidase	GatA	Aminoacyl-tRNA synthetases		3H0L
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_06610	COG0721	J	Asp-tRNAAsn/Glu-tRNAGln amidotransferase C subunit	GatC	Aminoacyl-tRNA synthetases		3H0L
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_06615	COG2870	M	ADP-heptose synthase, bifunctional sugar kinase/adenylyltransferase	RfaE			5X9Q
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_06625	COG0340	H	Biotin-(acetyl-CoA carboxylase) ligase	BirA2	Biotin biosynthesis	32188788	1BIA
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_06635	COG0328	L	Ribonuclease HI	RnhA			1LAW
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_06640	COG0574	G	Phosphoenolpyruvate synthase/pyruvate phosphate dikinase	PpsA	Gluconeogenesis		5HV6
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_06645	COG0166	G	Glucose-6-phosphate isomerase	Pgi	Glycolysis		1B0Z
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_06655	COG0755	O	ABC-type transport system involved in cytochrome c biogenesis, permease component	CcmC			
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_06660	COG1668	CP	ABC-type Na+ efflux pump, permease component NatB	NatB			
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_06665	COG3845	F	ABC-type guanosine uptake system NupNOPQ, ATPase component NupO	NupO		21926227	
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_06675	COG0526	O	Thiol-disulfide isomerase or thioredoxin	TrxA			1XFL
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_06680	COG3088	CO	Cytochrome c-type biogenesis protein CcmH/NrfF	NrfF			2HL7
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_06685	COG1138	CO	Cytochrome c biogenesis protein CcmF	CcmF			
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_06690	COG2332	CO	Cytochrome c biogenesis protein CcmE	CcmE			1J6Q
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_06730	COG4725	J	N6-adenosine-specific RNA methylase IME4	IME4			5IL0
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_06745	COG0516	F	IMP dehydrogenase/GMP reductase	GuaB	Purine biosynthesis		1B3O
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_06765	COG0270	L	DNA-cytosine methylase	Dcm			3LX6
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_06780	COG0817	L	Holliday junction resolvasome RuvABC endonuclease subunit RuvC	RuvC			1HJR
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_06805	COG0468	L	RecA/RadA recombinase	RecA			1B22
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_06810	COG0587	L	DNA polymerase III, alpha subunit	DnaE			2HNH
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_06815	COG0117	H	Riboflavin biosynthesis protein RibD, pyrimidine deaminase domain	RibD1	Riboflavin/FAD biosynthesis		2O7P
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_06820	COG5663	R	Uncharacterized conserved protein YqfW, HAD superfamily	YqfW			
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_06840	COG0305	L	Replicative DNA helicase	DnaB			1B79
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_06850	COG4177	E	ABC-type branched-chain amino acid transport system, permease component	LivM			
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_06855	COG3840	H	ABC-type thiamine transport system, ATPase component ThiQ	ThiQ			
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_06860	COG4618	U	ABC-type protease/lipase transport system, ATPase and permease components	ArpD			5L22
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_06865	COG1280	E	Threonine/homoserine/homoserine lactone efflux protein	RhtB			
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_06875	COG4276	R	Ligand-binding SRPBCC domain	SRPBCC			
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_06880	COG1396	K	Transcriptional regulator, contains XRE-family HTH domain	HipB			1ADR
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_06935	COG2255	L	Holliday junction resolvasome RuvABC, ATP-dependent DNA helicase subunit RuvB	RuvB			1HQC
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_06945	COG0558	I	Phosphatidylglycerophosphate synthase	PgsA	Phospholipid biosynthesis		4MND
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_06950	COG1621	G	Sucrose-6-phosphate hydrolase SacC, GH32 family	SacC			1ST8
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_06955	COG0824	I	Acyl-CoA thioesterase FadM	FadM	Menaquinone biosynthesis		2FUJ
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_06960	COG0272	L	NAD-dependent DNA ligase	Lig			5TT5
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_06965	COG0520	E	Selenocysteine lyase/Cysteine desulfurase	CsdA			4LW2
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_06970	COG2121	S	Uncharacterized conserved protein, lysophospholipid acyltransferase (LPLAT) superfamily				
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_06975	COG3858	D	Spore cortex hydrolase SleL/YaaH, N-acetylglucosaminidase of GH18 family	SleL			4S3J
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_06980	COG2331	R	Predicted nucleic acid-binding protein, contains Zn-ribbon domain				
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_06985	COG0104	F	Adenylosuccinate synthase	PurA	Purine biosynthesis		1ADE
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_06990	COG0165	E	Argininosuccinate lyase	ArgH	Arginine biosynthesis		1AOS
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_06995	COG0148	G	Enolase	Eno	Glycolysis		1E9I
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_07005	COG4942	D	Septal ring factor EnvC, activator of murein hydrolases AmiA and AmiB	EnvC			
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_07010	COG1807	M	PMT family glycosyltransferase ArnT/Agl22, involved in glycosylation of proteins and lipid IVA	ArnT		16226890;31233657;32706435	5EZM
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_07020	COG0679	R	Predicted permease, AEC (auxin efflux carrier) family	YfdV			
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_07025	COG0265	O	Periplasmic serine protease, S1-C subfamily, contain C-terminal PDZ domain	DegQ		29686141	2HGA
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_07030	COG0457	R	Tetratricopeptide (TPR) repeat	TPR			3AS4
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_07050	COG5256	J	Translation elongation factor EF-1alpha (GTPase)	TEF1	Translation factors		1F60
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_07055	COG0049	J	Ribosomal protein S7	RpsG	Ribosome 30S subunit		4V4H
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_07060	COG0048	J	Ribosomal protein S12	RpsL	Ribosome 30S subunit		4V4H
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_07070	COG1091	M	dTDP-4-dehydrorhamnose reductase	RfbD			1KBZ
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_07075	COG0304	IQ	3-oxoacyl-(acyl-carrier-protein) synthase	FabB	Fatty acid biosynthesis	21652641	2UV8
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_07080	COG3425	I	3-hydroxy-3-methylglutaryl CoA synthase	PksG	Isoprenoid biosynthesis		1TVZ
+Anaerolineaceae_bacterium_NP995	GCA_002724995.1	HKLHHB_07085	COG0568	K	DNA-directed RNA polymerase, sigma subunit (sigma70/sigma32)	RpoD	RNA polymerase		1SIG

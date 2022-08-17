@@ -1,0 +1,770 @@
+#prefix	assemid	query	COG	category	name	Gene	pathway	pmid	pdb_id
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_00015	COG2185	I	Methylmalonyl-CoA mutase, C-terminal domain/subunit (cobalamin-binding)	Sbm			1B1A
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_00020	COG0685	E	5,10-methylenetetrahydrofolate reductase	MetF			1B5T
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_00025	COG1876	M	LD-carboxypeptidase LdcB, LAS superfamily	LdcB		24909784	4D0Y
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_00035	COG0673	R	Predicted dehydrogenase	MviM			3UUW
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_00045	COG2346	P	Truncated hemoglobin YjbI	YjbI			1DLW
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_00050	COG0008	J	Glutamyl- or glutaminyl-tRNA synthetase	GlnS	Heme biosynthesis		1EUQ
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_00060	COG4102	S	Uncharacterized conserved protein, DUF1501 family				
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_00070	COG0210	L	Superfamily I DNA or RNA helicase	UvrD			6PPR
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_00075	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_00080	COG3963	I	Phosphatidylethanolamine N-methyltransferase				
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_00090	COG3968	E	Glutamine synthetase type III	GlnA3			
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_00095	COG1043	M	Acyl-[acyl carrier protein]--UDP-N-acetylglucosamine O-acyltransferase	LpxA	Lipid A biosynthesis		1J2Z
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_00100	COG4913	S	Uncharacterized conserved protein, contains a C-terminal ATPase domain				
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_00105	COG0536	DL	GTPase involved in cell partioning and DNA repair	Obg			1LNZ
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_00110	COG1028	I	NAD(P)-dependent dehydrogenase, short-chain alcohol dehydrogenase family	FabG	Fatty acid biosynthesis		6L1H
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_00115	COG0422	H	4-amino-2-methyl-5-hydroxymethylpyrimidine (HMP) synthase ThiC	ThiC	Thiamine biosynthesis	15326535	3EPN
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_00120	COG1060	H	2-iminoacetate synthase ThiH/Menaquinone biosynthesis enzymes MqnC and MqnE	ThiH	Thiamine biosynthesis	18801996	4WCX
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_00125	COG0042	J	tRNA-dihydrouridine synthase	DusA	tRNA modification		1VHN
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_00135	COG0352	H	Thiamine monophosphate synthase	ThiE	Thiamine biosynthesis	19060138	1G4T
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_00150	COG0451	M	Nucleoside-diphosphate-sugar epimerase	WcaG			2X4G
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_00155	COG0533	J	tRNA A37 threonylcarbamoyltransferase TsaD	TsaD	tRNA modification	23072323;21285948;32385138	3ENO
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_00160	COG0802	J	tRNA A37 threonylcarbamoyladenosine biosynthesis protein TsaE	TsaE	tRNA modification		1FL9
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_00180	COG1462	M	Curli biogenesis system outer membrane secretion channel CsgG	CsgG		24417346	3X2R
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_00185	COG3014	S	Uncharacterized conserved protein				
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_00190	COG0313	J	16S rRNA C1402 (ribose-2'-O) methylase RsmI	RsmI	16S rRNA modification	24078611	3KWP
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_00200	COG2203	T	GAF domain	GAF			
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_00205	COG4774	P	Outer membrane receptor for monomeric catechols	Fiu			
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_00210	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_00220	COG0561	HR	Hydroxymethylpyrimidine pyrophosphatase and other HAD family phosphatases	Cof			1YMQ
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_00225	COG1072	H	Panthothenate kinase	CoaA	Pantothenate/CoA biosynthesis		2GA8
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_00245	COG0001	H	Glutamate-1-semialdehyde aminotransferase	HemL	Heme biosynthesis		2CFB
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_00260	COG1194	L	Adenine-specific DNA glycosylase, acts on AG and A-oxoG pairs	MutY			1KG2
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_00270	COG1218	P	3'-Phosphoadenosine 5'-phosphosulfate (PAPS) 3'-phosphatase	CysQ			
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_00285	COG0576	O	Molecular chaperone GrpE (heat shock protein HSP-70)	GrpE			1DKG
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_00290	COG2214	K	Curved DNA-binding protein CbpA, contains a DnaJ-like domain	CbpA			
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_00300	COG0003	P	Anion-transporting ATPase, ArsA/GET3 family	ArsA			1F48
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_00305	COG0450	V	Alkyl hydroperoxide reductase subunit AhpC (peroxiredoxin)	AhpC			2RII
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_00315	COG2017	G	Galactose mutarotase or related enzyme	GalM			1LUR
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_00320	COG1530	J	Ribonuclease G or E	CafA			1SLJ
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_00325	COG0772	D	Peptodoglycan polymerase FtsW/RodA/SpoVE	FtsW		30692671	6BAR
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_00330	COG0768	DM	Cell division protein FtsI, peptidoglycan transpeptidase (Penicillin-binding protein 2)	FtsI			6HZQ
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_00345	COG0849	D	Cell division ATPase FtsA	FtsA			3WT0
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_00350	COG4221	C	NADP-dependent 3-hydroxy acid dehydrogenase YdfG	YdfG	Pyrimidine degradation		3P19
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_00360	COG2085	R	Predicted dinucleotide-binding enzyme				2VNS
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_00370	COG2081	R	Predicted flavoprotein YhiN	YhiN			3V76
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_00380	COG0045	C	Succinyl-CoA synthetase, beta subunit	SucC	TCA cycle		1SCU
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_00385	COG1042	C	Acyl-CoA synthetase (NDP forming)	PatZN		26251518	4YAK
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_00390	COG0372	C	Citrate synthase	GltA	TCA cycle	25211225	3TQG
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_00400	COG1225	O	Peroxiredoxin	Bcp			5IPH
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_00410	COG0131	E	Imidazoleglycerol phosphate dehydratase HisB	HisB2	Histidine biosynthesis		1RHY
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_00420	COG0311	H	Pyridoxal 5'-phosphate synthase subunit PdxT (glutamine amidotransferase)	PdxT	Pyridoxal phosphate biosynthesis	18801996;24083939	2NV0
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_00425	COG1396	K	Transcriptional regulator, contains XRE-family HTH domain	HipB			1ADR
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_00430	COG3549	V	Plasmid maintenance system killer protein	HigB			
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_00435	COG0156	H	7-keto-8-aminopelargonate synthetase or related enzyme	BioF	Biotin biosynthesis		1BS0
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_00445	COG4106	C	Trans-aconitate methyltransferase	Tam			2P35
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_00450	COG0668	M	Small-conductance mechanosensitive channel	MscS			2OAU
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_00455	COG0596	HR	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold	MenH	Menaquinone biosynthesis		4MYS
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_00460	COG0156	H	7-keto-8-aminopelargonate synthetase or related enzyme	BioF	Biotin biosynthesis		1BS0
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_00465	COG0129	EG	Dihydroxyacid dehydratase/phosphogluconate dehydratase	IlvD	Isoleucine, leucine, valine biosynthesis		2GP4
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_00470	COG0521	H	Molybdopterin biosynthesis enzyme MoaB/MogA	MoaB	Molybdopterin biosynthesis	32239579	1DI6
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_00480	COG0564	J	Pseudouridine synthase RluA, 23S rRNA- or tRNA-specific	RluA	23S rRNA modification		2I82
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_00500	COG0112	E	Glycine/serine hydroxymethyltransferase	GlyA	Serine biosynthesis		1BJ4
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_00505	COG4551	R	Predicted protein tyrosine phosphatase				
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_00510	COG0009	J	tRNA A37 threonylcarbamoyladenosine synthetase subunit TsaC/SUA5/YrdC	TsaC	tRNA modification		1HRU
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_00515	COG4098	L	Superfamily II DNA/RNA helicase required for DNA uptake (late competence protein)	ComFA			
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_00520	COG2870	M	ADP-heptose synthase, bifunctional sugar kinase/adenylyltransferase	RfaE			5X9Q
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_00525	COG0560	E	Phosphoserine phosphatase	SerB	Serine biosynthesis		3N28
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_00530	COG3030	R	FxsA protein affecting phage T7 exclusion by the F plasmid, UPF0716 family	FxsA			
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_00555	COG1030	O	Membrane-bound serine protease NfeD, ClpP class	NfeD			2DEO
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_00560	COG2240	H	Pyridoxal/pyridoxine/pyridoxamine kinase	PdxK	Pyridoxal phosphate biosynthesis	19096365;23189126	5ZW9
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_00570	COG0148	G	Enolase	Eno	Glycolysis		1E9I
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_00580	COG1099	R	Predicted metal-dependent hydrolase, TIM-barrel fold				3GUW
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_00585	COG4327	S	Uncharacterized membrane protein, DUF4212 domain				
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_00605	COG1729	D	Cell division protein CpoB, coordinates peptidoglycan biosynthesis and outer membrane constriction	CpoB		25951518	2WZ7
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_00615	COG0811	U	Biopolymer transport protein ExbB/TolQ	TolQ			5SV0
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_00635	COG0033	G	Phosphoglucomutase/phosphomannomutase	Pgm		30938049	1C47
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_00640	COG3668	X	Plasmid stabilization system protein ParE	ParE			3KXE
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_00650	COG0760	O	Peptidyl-prolyl isomerase, parvulin family	SurA			2ZR5
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_00655	COG2256	L	Replication-associated recombination protein RarA (DNA-dependent ATPase)	RarA			3PVS
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_00660	COG2814	G	Predicted arabinose efflux permease AraJ, MFS family	AraJ			4LDS
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_00665	COG0667	HR	Pyridoxal reductase PdxI or related oxidoreductase, aldo/keto reductase family	PdxI		32253339	1LQA
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_00670	COG1062	C	Zn-dependent alcohol/formaldehyde dehydrogenase	FrmA			1A71
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_00675	COG1063	ER	Threonine dehydrogenase or related Zn-dependent dehydrogenase	Tdh	Non-phosphorylated Entner-Doudoroff pathway		4A2C
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_00680	COG1869	G	D-ribose pyranose/furanose isomerase RbsD	RbsD			1OGC
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_00695	COG4625	S	Uncharacterized conserved protein, contains a C-terminal beta-barrel porin domain				
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_00700	COG1236	J	RNA processing exonuclease, beta-lactamase fold, Cft2 family	YSH1			2DKF
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_00705	COG1508	K	DNA-directed RNA polymerase specialized sigma subunit, sigma54 homolog	RpoN	RNA polymerase		5BYH
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_00710	COG4982	I	3-oxoacyl-ACP reductase domain of yeast-type fatty acid synthase FAS1	FabG2			2UV8
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_00725	COG2123	U	Exosome complex RNA-binding protein Rrp42, RNase PH superfamily	Rrp42		23319881	4IFD
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_00730	COG0538	C	Isocitrate dehydrogenase	Icd	TCA cycle		1IDD
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_00735	COG1974	KT	SOS-response transcriptional repressor LexA (RecA-mediated autopeptidase)	LexA			1AY9
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_00740	COG1205	L	ATP-dependent helicase YprA,  contains C-terminal metal-binding DUF1998 domain	YprA			
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_00745	COG1399	J	23S rRNA accumulation protein YceD (essential in plants, uncharacterized in bacteria)	YceD		27574185	
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_00755	COG0416	I	Acyl-ACP:phosphate acyltransferase (fatty acid/phospholipid biosynthesis)	PlsX		18992246	2GK3
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_00760	COG3424	Q	Predicted naringenin-chalcone synthase	BH0617			1BI5
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_00765	COG0331	I	Malonyl CoA-acyl carrier protein transacylase	FabD	Fatty acid biosynthesis		1YXC
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_00770	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_00775	COG0236	I	Acyl carrier protein	AcpP	Fatty acid biosynthesis		1ACP
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_00780	COG0304	IQ	3-oxoacyl-(acyl-carrier-protein) synthase	FabB	Fatty acid biosynthesis	21652641	2UV8
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_00785	COG0025	P	NhaP-type Na+/H+ or K+/H+ antiporter	NhaP			4CZB
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_00790	COG1729	D	Cell division protein CpoB, coordinates peptidoglycan biosynthesis and outer membrane constriction	CpoB		25951518	2WZ7
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_00800	COG1291	N	Flagellar motor component MotA	MotA			
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_00805	COG0848	U	Biopolymer transport protein ExbD	ExbD			2JWK
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_00820	COG0612	R	Predicted Zn-dependent peptidase, M16 family	PqqL			6OFS
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_00835	COG1747	S	Uncharacterized N-terminal domain of the transcription elongation factor GreA				
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_00845	COG0408	H	Coproporphyrinogen-III oxidase HemH, oxygen-dependent	HemF	Heme biosynthesis		3E8J
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_00855	COG0793	O	C-terminal processing protease CtpA/Prc, contains a PDZ domain	CtpA			6IQU
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_00860	COG0166	G	Glucose-6-phosphate isomerase	Pgi	Glycolysis		1B0Z
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_00865	COG0820	J	Adenine C2-methylase RlmN of 23S rRNA A2503 and tRNA A37	RlmN	23S rRNA modification		3RFA
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_00875	COG1171	E	Threonine deaminase	IlvA	Isoleucine, leucine, valine biosynthesis		3IAU
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_00885	COG4191	T	Signal transduction histidine kinase regulating C4-dicarboxylate transport system				4GCZ
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_00905	COG0815	M	Apolipoprotein N-acyltransferase	Lnt			6NWR
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_00910	COG1186	J	Protein chain release factor PrfB	PrfB	Translation factors		1GQE
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_00915	COG0134	E	Indole-3-glycerol phosphate synthase	TrpC	Aromatic amino acid biosynthesis		6BMA
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_00920	COG4796	U	Type II secretory pathway, component HofQ	HofQ			4AV2
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_00935	COG0229	O	Peptide methionine sulfoxide reductase MsrB	MsrB			1L1D
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_00940	COG3958	G	Transketolase, C-terminal subunit	TktA2			
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_00945	COG2203	T	GAF domain	GAF			
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_00950	COG0004	P	Ammonia channel protein AmtB	AmtB			1U77
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_00960	COG0059	EH	Ketol-acid reductoisomerase	IlvC	Isoleucine, leucine, valine biosynthesis		1NP3
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_00970	COG1012	I	Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase	AdhE	Proline degradation		1A4S
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_00975	COG1608	I	Isopentenyl phosphate kinase			16621811	3LKK
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_00980	COG4123	J	tRNA1(Val) A37 N6-methylase TrmN6	TrmN6	tRNA modification		
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_00985	COG1057	H	Nicotinate-nucleotide adenylyltransferase NadD	NadD	NAD biosynthesis		1YUM
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_00995	COG4531	P	ABC-type Zn2+ transport system, periplasmic component/surface adhesin ZnuA	ZnuA			2OGW
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_01010	COG0605	P	Superoxide dismutase	SodA			1AP5
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_01015	COG1595	K	DNA-directed RNA polymerase specialized sigma subunit, sigma24 family	RpoE	RNA polymerase		2Q1Z
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_01020	COG3173	R	Predicted  kinase, aminoglycoside phosphotransferase (APT) family	YcbJ			
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_01040	COG0042	J	tRNA-dihydrouridine synthase	DusA	tRNA modification		1VHN
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_01045	COG1018	C	Flavodoxin/ferredoxin--NADP reductase	Fpr			3OZU
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_01050	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_01055	COG4564	T	Signal transduction histidine kinase				2QHK
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_01060	COG4753	TK	Two-component response regulator, YesN/AraC family, consists of REC and AraC-type DNA-binding domains	YesN			
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_01080	COG2814	G	Predicted arabinose efflux permease AraJ, MFS family	AraJ			4LDS
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_01085	COG0667	HR	Pyridoxal reductase PdxI or related oxidoreductase, aldo/keto reductase family	PdxI		32253339	1LQA
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_01090	COG2130	QR	NADPH-dependent curcumin reductase CurA	CurA		21467222	1V3T
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_01095	COG1869	G	D-ribose pyranose/furanose isomerase RbsD	RbsD			1OGC
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_01130	COG0036	G	Pentose-5-phosphate-3-epimerase	Rpe	Pentose phosphate pathway		1H1Y
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_01135	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_01145	COG1595	K	DNA-directed RNA polymerase specialized sigma subunit, sigma24 family	RpoE	RNA polymerase		2Q1Z
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_01150	COG0478	T	RIO-like serine/threonine protein kinase fused to N-terminal HTH domain	RIO2			1TQI
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_01155	COG0266	L	Formamidopyrimidine-DNA glycosylase	Nei			1EE8
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_01160	COG1947	I	4-diphosphocytidyl-2C-methyl-D-erythritol kinase	IspE	Isoprenoid biosynthesis		1OJ4
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_01165	COG2367	V	Beta-lactamase class A	PenP			6W34
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_01175	COG0616	O	Periplasmic serine protease, ClpP class	SppA			3BEZ
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_01180	COG1219	O	ATP-dependent protease Clp, ATPase subunit ClpX	ClpX			3HTE
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_01185	COG0785	CO	Cytochrome c biogenesis protein CcdA	CcdA			5VKV
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_01190	COG3481	J	3'-5' exoribonuclease YhaM, can participate in 23S rRNA maturation,  HD superfamily	YhaM	23S rRNA modification	19880604	
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_01195	COG1463	M	Periplasmic subunit MlaD of the ABC-type intermembrane phospholipid transporter Mla	MlaD			5UW8
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_01200	COG3845	F	ABC-type guanosine uptake system NupNOPQ, ATPase component NupO	NupO		21926227	
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_01205	COG0767	M	Permease subunit MlaE of the ABC-type intermembrane phospholipid transporter Mla	MlaE			6IC4
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_01215	COG0577	V	ABC-type antimicrobial peptide transport system, permease component	SalY			
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_01220	COG0498	E	Threonine synthase	ThrC	Threonine biosynthesis		1VB3
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_01225	COG2171	E	Tetrahydrodipicolinate N-succinyltransferase	DapD	Lysine biosynthesis		3BXY
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_01230	COG0291	J	Ribosomal protein L35	RpmI	Ribosome 50S subunit	28373563	1VS6
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_01235	COG0292	J	Ribosomal protein L20	RplT	Ribosome 50S subunit	30270044	1VS6
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_01240	COG0547	E	Anthranilate phosphoribosyltransferase, glycosyltransferase domain	TrpD	Aromatic amino acid biosynthesis		1KGZ
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_01245	COG1084	R	GTP-binding protein, GTP1/Obg family	Nog1			2E87
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_01250	COG0211	J	Ribosomal protein L27	RpmA	Ribosome 50S subunit		1VS6
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_01280	COG0362	G	6-phosphogluconate dehydrogenase	Gnd	Pentose phosphate pathway	25329577	2ZYA
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_01285	COG0524	G	Sugar or nucleoside kinase, ribokinase family	RbsK	Glycolysis		2QCV
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_01295	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_01300	COG0554	C	Glycerol kinase	GlpK			2ZF5
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_01320	COG0582	LX	Integrase/recombinase, includes phage integrase	FimB			
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_01325	COG0550	L	DNA topoisomerase IA	TopA			1CY0
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_01330	COG1948	L	ERCC4-type crossover junction endonuclease	MUS81			1J22
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_01335	COG0371	C	Glycerol dehydrogenase or related enzyme, iron-containing ADH family	GldA	Isoprenoid biosynthesis	20688982	3S99
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_01340	COG4658	C	Na+-translocating ferredoxin:NAD+ oxidoreductase  RNF, RnfD subunit	RnfD	Na+-translocating Fd:NADH oxidoreductase		
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_01345	COG4659	C	Na+-translocating ferredoxin:NAD+ oxidoreductase RNF, RnfG subunit	RnfG	Na+-translocating Fd:NADH oxidoreductase		
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_01350	COG4657	C	Na+-translocating ferredoxin:NAD+ oxidoreductase RNF, RnfA subunit	RnfA	Na+-translocating Fd:NADH oxidoreductase		
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_01355	COG4660	C	Na+-translocating ferredoxin:NAD+ oxidoreductase  RNF, RnfE subunit	RnfE	Na+-translocating Fd:NADH oxidoreductase		
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_01360	COG4097	P	Predicted ferric reductase				
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_01365	COG0659	P	Sulfate permease or related transporter, MFS superfamily	SUL1			3NY7
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_01370	COG2874	N	Archaellum biogenesis ATPase ArlH/FlaH	FlaH		32416640	4WIA
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_01375	COG0624	E	Acetylornithine deacetylase/Succinyl-diaminopimelate desuccinylase or related deacylase	ArgE	Arginine biosynthesis		1CG2
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_01390	COG0055	C	FoF1-type ATP synthase, beta subunit	AtpD	FoF1-type ATP synthase		3OAA
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_01405	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_01415	COG0327	H	Putative GTP cyclohydrolase 1 type 2, NIF3 family	NIF3	Folate biosynthesis	24435797;26385509	3SY1
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_01420	COG0611	H	Thiamine monophosphate kinase	ThiL	Thiamine biosynthesis		5CC8
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_01425	COG0568	K	DNA-directed RNA polymerase, sigma subunit (sigma70/sigma32)	RpoD	RNA polymerase		1SIG
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_01430	COG3408	G	Glycogen debranching enzyme (alpha-1,6-glucosidase)	GDB1			5D06
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_01440	COG0260	E	Leucyl aminopeptidase	PepB		19553197;23825549	3H8E
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_01445	COG0499	H	S-adenosylhomocysteine hydrolase	SAM1			1A7A
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_01450	COG2226	H	Ubiquinone/menaquinone biosynthesis C-methylase UbiE/MenG	UbiE	Biotin biosynthesis		4OBW
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_01465	COG1167	KE	DNA-binding transcriptional regulator, MocR family, contains an aminotransferase domain	ARO8	Lysine biosynthesis		2R2N
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_01475	COG0656	Q	Aldo/keto reductase, related to diketogulonate reductase	ARA1			1Q13
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_01480	COG1948	L	ERCC4-type crossover junction endonuclease	MUS81			1J22
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_01485	COG0701	S	Uncharacterized membrane protein YraQ, UPF0718 family	YraQ			
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_01495	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_01500	COG0856	F	Orotate phosphoribosyltransferase homolog	PyrE2			
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_01505	COG2227	H	2-polyprenyl-3-methyl-5-hydroxy-6-metoxy-1,4-benzoquinol methylase	UbiG	Ubiquinone biosynthesis		1BHJ
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_01510	COG0571	K	dsRNA-specific ribonuclease	Rnc			1DI2
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_01515	COG1129	G	ABC-type sugar transport system, ATPase component	MglA			
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_01520	COG1137	M	ABC-type lipopolysaccharide export system, ATPase component	LptB		12029038	5L75
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_01525	COG0765	E	ABC-type amino acid transport system, permease component	HisM			4YMS
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_01530	COG1173	EP	ABC-type dipeptide/oligopeptide/nickel transport system, permease component	DppC			
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_01535	COG4533	K	DNA-binding transcriptional regulator SgrR of sgrS sRNA, contains a MarR-type HTH domain and a periplasmic-type solute-binding domain	SgrR			
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_01540	COG1314	U	Protein translocase subunit SecG	SecG			2AKH
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_01545	COG0149	G	Triosephosphate isomerase	TpiA	Glycolysis		1HG3
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_01550	COG0749	L	DNA polymerase I, 3'-5' exonuclease and polymerase domains	PolA			1D8Y
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_01555	COG0122	L	3-methyladenine DNA glycosylase/8-oxoguanine DNA glycosylase	AlkA			1DIZ
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_01560	COG0064	J	Asp-tRNAAsn/Glu-tRNAGln amidotransferase B subunit	GatB	Aminoacyl-tRNA synthetases		3H0M
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_01565	COG0154	J	Asp-tRNAAsn/Glu-tRNAGln amidotransferase A subunit or related amidase	GatA	Aminoacyl-tRNA synthetases		3H0L
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_01570	COG0721	J	Asp-tRNAAsn/Glu-tRNAGln amidotransferase C subunit	GatC	Aminoacyl-tRNA synthetases		3H0L
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_01595	COG0790	R	TPR repeat	TPR			1KLX
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_01620	COG2376	G	Dihydroxyacetone kinase	DAK1	Isoprenoid biosynthesis		1UN8
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_01635	COG0209	F	Ribonucleotide reductase alpha subunit	NrdA	Pyrimidine salvage		1R1R
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_01640	COG0208	F	Ribonucleotide reductase beta subunit, ferritin-like domain	NrdB	Pyrimidine salvage		1AV8
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_01645	COG0633	C	Ferredoxin	Fdx			1KRH
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_01655	COG1570	L	Exonuclease VII, large subunit	XseA			
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_01660	COG1722	L	Exonuclease VII small subunit	XseB			1VP7
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_01670	COG2519	J	tRNA A58 N-methylase Trm61	Gcd14	tRNA modification		1I9G
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_01675	COG0210	L	Superfamily I DNA or RNA helicase	UvrD			6PPR
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_01680	COG3021	R	Uncharacterized conserved protein YafD, endonuclease/exonuclease/phosphatase (EEP) superfamily	YafD			
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_01685	COG2263	R	Predicted RNA methylase				6H2U
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_01700	COG0242	J	Peptide deformylase	Def			1BS4
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_01710	COG0066	E	3-isopropylmalate dehydratase small subunit	LeuD	Isoleucine, leucine, valine biosynthesis		3Q3W
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_01715	COG3123	F	Pyrimidine/purine nucleoside phosphorylase YaiE/PpnP, UPF0345/DUF1255 family	PpnP		27941785	2OYZ
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_01720	COG0469	G	Pyruvate kinase	PykF	Glycolysis		6QXL
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_01730	COG0358	L	DNA primase (bacterial type)	DnaG		28128549	3B39
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_01735	COG3206	M	Exopolysaccharide export protein/domain GumC/Wzc1	GumC		15003255;23089617	
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_01740	COG1225	O	Peroxiredoxin	Bcp			5IPH
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_01745	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_01750	COG2065	F	Pyrimidine operon attenuation protein PyrR/uracil phosphoribosyltransferase	PyrR	Pyrimidine salvage		1A3C
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_01760	COG0678	O	Peroxiredoxin	AHP1			1H4O
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_01765	COG0269	G	3-keto-L-gulonate-6-phosphate decarboxylase	UlaD			3F4W
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_01780	COG1762	GT	Phosphotransferase system mannitol/fructose-specific IIA domain (Ntr-type)	PtsN			2OQ3
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_01785	COG1032	R	Radical SAM superfamily enzyme YgiQ, UPF0313 family	YgiQ			6FD2
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_01790	COG0028	EH	Acetolactate synthase large subunit or other thiamine pyrophosphate-requiring enzyme	IlvB	Isoleucine, leucine, valine biosynthesis		1BFD
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_01795	COG0077	E	Prephenate dehydratase	PheA2	Aromatic amino acid biosynthesis		1PHZ
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_01810	COG1523	G	Pullulanase/glycogen debranching enzyme	PulA			2WSK
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_01815	COG0438	M	Glycosyltransferase involved in cell wall bisynthesis	RfaB			2IV7
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_01820	COG0366	G	Glycosidase/amylase (phosphorylase)	AmyA		29684280	2P67
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_01830	COG0673	R	Predicted dehydrogenase	MviM			3UUW
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_01835	COG1226	P	Voltage-gated potassium channel Kch	Kch			3FWZ
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_01840	COG0168	P	Trk-type K+ transport system, membrane component	TrkG			3PJZ
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_01845	COG1187	J	Pseudouridylate synthase RsuA, specific for 16S rRNA U516  and 23S rRNA U2605	RsuA	16S rRNA modification		1KSK
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_01850	COG1011	H	FMN and 5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YigB, HAD superfamily (riboflavin biosynthesis)	YigB		24123841	4JB3
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_01855	COG0326	O	Molecular chaperone, HSP90 family	HtpG		30150682	1Y4S
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_01860	COG2326	C	Polyphosphate kinase 2, PPK2 family	PPK2			3CZP
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_01865	COG0809	J	S-adenosylmethionine:tRNA-ribosyltransferase-isomerase (queuine synthetase)	QueA	tRNA modification		1VKY
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_01870	COG0439	I	Biotin carboxylase	AccC	Fatty acid biosynthesis		1BNC
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_01875	COG1691	F	NCAIR mutase (PurE)-related protein				
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_01910	COG2206	T	HD-GYP domain, c-di-GMP phosphodiesterase class II (or its inactivated variant)	HDGYP		23475961	5Z7C
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_01915	COG1702	T	Phosphate starvation-inducible protein PhoH, predicted ATPase	PhoH		8444794;12762842	3B85
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_01920	COG1041	J	tRNA G10 N-methylase Trm11	Trm11	tRNA modification		5E71
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_01925	COG0853	H	Aspartate 1-decarboxylase	PanD	Pantothenate/CoA biosynthesis		1AW8
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_01930	COG1061	KL	Superfamily II DNA or RNA helicase	SSL2			6JDE
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_01940	COG1861	M	Spore coat polysaccharide biosynthesis protein SpsF, cytidylyltransferase family	SpsF			
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_01945	COG0117	H	Riboflavin biosynthesis protein RibD, pyrimidine deaminase domain	RibD1	Riboflavin/FAD biosynthesis		2O7P
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_01950	COG1145	C	Ferredoxin	NapF			6FAH
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_01960	COG0475	P	Kef-type K+ transport system, membrane component KefB	KefB			4BWZ
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_01975	COG0265	O	Periplasmic serine protease, S1-C subfamily, contain C-terminal PDZ domain	DegQ		29686141	2HGA
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_01980	COG4589	R	Predicted CDP-diglyceride synthetase/phosphatidate cytidylyltransferase	YnbB			
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_01985	COG0020	I	Undecaprenyl pyrophosphate synthase	UppS			1X07
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_01990	COG0104	F	Adenylosuccinate synthase	PurA	Purine biosynthesis		1ADE
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_02000	COG0196	H	FAD synthase	RibF	Riboflavin/FAD biosynthesis		1MRZ
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_02005	COG0130	J	tRNA U55 pseudouridine synthase TruB, may also work on U342 of tmRNA	TruB	tRNA modification		1K8W
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_02010	COG0858	J	Ribosome-binding factor RbfA	RbfA			1JOS
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_02015	COG3584	S	3D (Asp-Asp-Asp) domain, usually in lytic transglycosylases		3D	16139297	4WLK
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_02020	COG0095	H	Lipoate-protein ligase A	LplA	Lipoate biosynthesis		4TVW
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_02030	COG0119	E	Isopropylmalate/homocitrate/citramalate synthases	LeuA	Isoleucine, leucine, valine biosynthesis		4JN6
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_02050	COG0413	H	Ketopantoate hydroxymethyltransferase	PanB	Pantothenate/CoA biosynthesis		3VAV
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_02055	COG0414	H	Panthothenate synthetase	PanC	Pantothenate/CoA biosynthesis	17968677	1DIN
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_02065	COG0509	E	Glycine cleavage system protein H (lipoate-binding)	GcvH	Glycine cleavage		1DXM
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_02075	COG0496	L	Broad specificity polyphosphatase and 5'/3'-nucleotidase SurE	SurE			2V4N
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_02090	COG4105	M	Outer membrane protein assembly factor BamD, BamD/ComL family	BamD			2YHC
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_02095	COG0082	E	Chorismate synthase	AroC	Aromatic amino acid biosynthesis		1Q1L
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_02105	COG0805	U	Twin-arginine protein secretion pathway component TatC	TatC			4B4A
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_02110	COG1826	U	Twin-arginine protein secretion pathway components TatA and TatB	TatA			2L16
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_02130	COG1712	E	L-aspartate dehydrogenase, NAD(P)-dependent	AspD		12496312	1H2H
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_02135	COG0528	F	Uridylate kinase	PyrH	Pyrimidine biosynthesis		2BND
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_02145	COG0438	M	Glycosyltransferase involved in cell wall bisynthesis	RfaB			2IV7
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_02150	COG0533	J	tRNA A37 threonylcarbamoyltransferase TsaD	TsaD	tRNA modification	23072323;21285948;32385138	3ENO
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_02155	COG0173	J	Aspartyl-tRNA synthetase	AspS	Aminoacyl-tRNA synthetases		1C0A
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_02170	COG0344	I	Phospholipid biosynthesis protein PlsY, probable glycerol-3-phosphate acyltransferase	PlsY		29684280	5XJ5
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_02175	COG0240	C	Glycerol-3-phosphate dehydrogenase	GpsA	Isoprenoid biosynthesis		1EVY
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_02185	COG0501	O	Zn-dependent protease with chaperone function	HtpX			2YPT
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_02190	COG3509	G	Acetyl xylan esterase AxeA and related esterases, LpqC family	LpqC		9291122	2D80
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_02195	COG0475	P	Kef-type K+ transport system, membrane component KefB	KefB			4BWZ
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_02205	COG1160	J	Double Era-like domain GTPase Der	Der			1MKY
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_02210	COG0141	E	Histidinol dehydrogenase	HisD	Histidine biosynthesis		1K75
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_02215	COG1167	KE	DNA-binding transcriptional regulator, MocR family, contains an aminotransferase domain	ARO8	Lysine biosynthesis		2R2N
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_02220	COG4988	CO	ABC-type transport system involved in cytochrome bd biosynthesis, ATPase and permease components	CydD			
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_02225	COG1668	CP	ABC-type Na+ efflux pump, permease component NatB	NatB			
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_02230	COG3225	N	ABC-type uncharacterized transport system involved in gliding motility, auxiliary component	GldG			
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_02255	COG0457	R	Tetratricopeptide (TPR) repeat	TPR			3AS4
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_02260	COG0658	U	DNA uptake channel protein ComEC, N-terminal domain	ComEC			
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_02265	COG0607	P	Rhodanese-related sulfurtransferase	PspE	Urea cycle		1TQ1
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_02270	COG4097	P	Predicted ferric reductase				
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_02275	COG0682	M	Prolipoprotein diacylglyceryltransferase	Lgt			5AZB
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_02290	COG0500	QR	SAM-dependent methyltransferase	SmtA			5DNK
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_02295	COG1036	C	Archaeal flavoprotein	AfpA			3WIS
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_02300	COG0109	HI	Polyprenyltransferase (heme O synthase)	CyoE			
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_02305	COG1427	H	Chorismate dehydratase (menaquinone biosynthesis, futalosine pathway)	MqnA	Menaquinone biosynthesis		2I6E
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_02310	COG0716	C	Flavodoxin	FldA	Heme biosynthesis		1AG9
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_02315	COG0155	P	Sulfite reductase, beta subunit (hemoprotein)	CysI	Cysteine biosynthesis		1AOP
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_02320	COG0175	EH	3'-phosphoadenosine 5'-phosphosulfate sulfotransferase (PAPS reductase)/FAD synthetase or related enzyme	CysD	Cysteine biosynthesis		1ZUN
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_02325	COG4988	CO	ABC-type transport system involved in cytochrome bd biosynthesis, ATPase and permease components	CydD			
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_02330	COG0624	E	Acetylornithine deacetylase/Succinyl-diaminopimelate desuccinylase or related deacylase	ArgE	Arginine biosynthesis		1CG2
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_02335	COG0730	P	Sulfite exporter TauE/SafE/YfcA and related permeases, UPF0721 family	TauE		21183667;22797525	
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_02355	COG1936	F	Broad-specificity NMP kinase	Fap7			1RKB
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_02370	COG0647	F	Ribonucleotide monophosphatase NagD, HAD superfamily	NagD			1PW5
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_02380	COG1209	M	dTDP-glucose pyrophosphorylase	RmlA1			1FXO
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_02390	COG0101	J	tRNA U38,U39,U40 pseudouridine synthase TruA	TruA	tRNA modification		1DJ0
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_02400	COG0364	G	Glucose-6-phosphate 1-dehydrogenase	Zwf	Pentose phosphate pathway	18950999	5B7W
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_02410	COG0860	M	N-acetylmuramoyl-L-alanine amidase	AmiC			1JWQ
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_02415	COG4536	P	Mg2+ and Co2+ transporter CorB, contains DUF21, CBS pair, and CorC-HlyC domains	CorB		1779764	
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_02420	COG1253	R	Hemolysin-related protein, contains CBS domains, UPF0053 family	TlyC			2NQW
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_02425	COG3063	NW	Type IV pilus assembly protein PilF/PilW	PilF		16403447	2VQ2
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_02430	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_02435	COG0307	H	Riboflavin synthase alpha chain	RibC	Riboflavin/FAD biosynthesis		1I8D
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_02440	COG2131	F	Deoxycytidylate deaminase	ComEB		25746996;31954084	2HVV
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_02450	COG0054	H	6,7-dimethyl-8-ribityllumazine synthase (Riboflavin synthase beta chain)	RibE	Riboflavin/FAD biosynthesis		1C2Y
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_02455	COG0108	H	3,4-dihydroxy-2-butanone 4-phosphate synthase	RibB	Riboflavin/FAD biosynthesis		1G57
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_02475	COG1121	P	ABC-type Mn2+/Zn2+ transport system, ATPase component	ZnuC			
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_02510	COG0458	EF	Carbamoylphosphate synthase large subunit	CarB	Arginine biosynthesis		1C30
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_02515	COG0511	I	Biotin carboxyl carrier protein	AccB	Fatty acid biosynthesis		1A6X
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_02535	COG1209	M	dTDP-glucose pyrophosphorylase	RmlA1			1FXO
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_02540	COG0524	G	Sugar or nucleoside kinase, ribokinase family	RbsK	Glycolysis		2QCV
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_02545	COG3688	J	EndoRNase involved in mRNA decay, NYN (Nedd4-BP1/Rae1/YacP nuclease) family,  contains PIN domain	Rae1		28363943	5MQ8
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_02550	COG0231	J	Translation elongation factor P (EF-P)/translation initiation factor 5A (eIF-5A)	Efp	Translation factors		1UEB
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_02555	COG0041	F	Phosphoribosylcarboxyaminoimidazole (NCAIR) mutase	PurE	Purine biosynthesis		1D7A
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_02570	COG0439	I	Biotin carboxylase	AccC	Fatty acid biosynthesis		1BNC
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_02575	COG0505	EF	Carbamoylphosphate synthase small subunit	CarA	Arginine biosynthesis		1C30
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_02580	COG0512	EH	Anthranilate/para-aminobenzoate synthase component II (glutamine amidotransferase)	PabA	Aromatic amino acid biosynthesis		1I1Q
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_02590	COG1233	Q	Phytoene dehydrogenase-related protein				4REP
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_02595	COG0415	L	Deoxyribodipyrimidine photolyase	PhrB			1TEZ
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_02610	COG0124	J	Histidyl-tRNA synthetase	HisS	Aminoacyl-tRNA synthetases		1KMM
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_02615	COG0173	J	Aspartyl-tRNA synthetase	AspS	Aminoacyl-tRNA synthetases		1C0A
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_02620	COG0434	M	Membrane biogenesis protein, BtpA/SgcQ family	BtpA			
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_02625	COG1211	I	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase	IspD	Isoprenoid biosynthesis		1H3M
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_02635	COG2188	K	DNA-binding transcriptional regulator, GntR family	MngR			2WV0
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_02665	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_02675	COG3119	P	Arylsulfatase A or related enzyme, AlkP superfamily	AslA			1E1Z
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_02685	COG2273	G	Beta-glucanase, GH16 family	BglS			1AJK
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_02695	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_02700	COG2730	G	Aryl-phospho-beta-D-glucosidase BglC, GH1 family	BglC			
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_02710	COG1725	K	DNA-binding transcriptional regulator YhcF, GntR family	YhcF			4R1H
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_02720	COG0107	E	Imidazole glycerol phosphate synthase subunit HisF	HisF	Histidine biosynthesis		1OX4
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_02730	COG1951	C	Tartrate dehydratase alpha subunit/Fumarate hydratase class I, N-terminal domain	TtdA	TCA cycle	15613473	5L2R
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_02735	COG1585	O	Membrane protein implicated in regulation of membrane protease activity	YbbJ			2EXD
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_02740	COG3064	M	Membrane protein TolA involved in colicin uptake	TolA			1S62
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_02745	COG1305	O	Transglutaminase-like enzyme, putative cysteine protease	YebA			3ISR
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_02765	COG0473	CE	Isocitrate/isopropylmalate dehydrogenase	LeuB	TCA cycle		1GC9
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_02770	COG1057	H	Nicotinate-nucleotide adenylyltransferase NadD	NadD	NAD biosynthesis		1YUM
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_02780	COG0652	O	Peptidyl-prolyl cis-trans isomerase (rotamase) - cyclophilin family	PpiB			4DGD
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_02790	COG0517	T	CBS domain	CBS			1B3O
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_02795	COG1381	L	Recombinational DNA repair protein RecO (RecF pathway)	RecO			1U5K
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_02800	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_02815	COG5010	UW	Flp pilus assembly protein TadD, contains TPR repeats	TadD			3WXX
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_02820	COG0476	H	Molybdopterin or thiamine biosynthesis adenylyltransferase	ThiF	Molybdopterin biosynthesis	32239579	1ZUD
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_02825	COG0613	F	5'-3' exoribonuclease TrpH/YciV (RNase AM), contains PHP domain	YciV		25871919	3E0F
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_02835	COG0392	M	Predicted membrane flippase AglD2/YbhN, UPF0104 family	AglD2		25583072	
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_02840	COG0297	G	Glycogen synthase	GlgA			1RZU
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_02845	COG0069	E	Glutamate synthase domain 2	GltB2	Glutamine biosynthesis		1EA0
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_02850	COG0332	I	3-oxoacyl-[acyl-carrier-protein] synthase III	FabH	Fatty acid biosynthesis		1UB7
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_02855	COG1947	I	4-diphosphocytidyl-2C-methyl-D-erythritol kinase	IspE	Isoprenoid biosynthesis		1OJ4
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_02860	COG3890	I	Phosphomevalonate kinase	ERG8	Isoprenoid biosynthesis		
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_02865	COG4658	C	Na+-translocating ferredoxin:NAD+ oxidoreductase  RNF, RnfD subunit	RnfD	Na+-translocating Fd:NADH oxidoreductase		
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_02875	COG0057	G	Glyceraldehyde-3-phosphate dehydrogenase/erythrose-4-phosphate dehydrogenase	GapA	Glycolysis		3ZDF
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_02880	COG0126	G	3-phosphoglycerate kinase	Pgk	Glycolysis		13PK
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_02890	COG1472	G	Periplasmic beta-glucosidase and related glycosidases	BglX			2X40
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_02895	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_02900	COG0481	J	Translation elongation factor EF-4, membrane-bound GTPase	LepA			3DEG
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_02905	COG0681	U	Signal peptidase I	LepB		1925027	1B12
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_02910	COG0268	J	Ribosomal protein S20	RpsT	Ribosome 30S subunit		4V4H
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_02920	COG0373	H	Glutamyl-tRNA reductase	HemA	Heme biosynthesis		2XOE
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_02925	COG2199	T	GGDEF domain, diguanylate cyclase (c-di-GMP synthetase) or its enzymatically inactive variants	GGDEF			6D9M
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_02935	COG0102	J	Ribosomal protein L13	RplM	Ribosome 50S subunit		1VS6
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_02940	COG0103	J	Ribosomal protein S9	RpsI	Ribosome 30S subunit		4V4H
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_02950	COG1608	I	Isopentenyl phosphate kinase			16621811	3LKK
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_02955	COG4992	E	Acetylornithine/succinyldiaminopimelate/putrescine aminotransferase	ArgD	Arginine biosynthesis		2E54
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_02965	COG0137	E	Argininosuccinate synthase	ArgG	Arginine biosynthesis		1J1Z
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_02975	COG0019	E	Diaminopimelate decarboxylase	LysA	Lysine biosynthesis		1D7K
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_02980	COG0329	EM	4-hydroxy-tetrahydrodipicolinate synthase/N-acetylneuraminate lyase	DapA	Lysine biosynthesis	27574185	2R91
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_02985	COG0289	E	4-hydroxy-tetrahydrodipicolinate reductase	DapB	Lysine biosynthesis	29684280	1ARZ
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_02995	COG0693	V	Protein/nucleotide deglycase, PfpI/YajL/DJ-1 family (repair of methylglyoxal-glycated proteins and nucleic acids)	YajL		19028889;28596309;26678554	5SY4
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_03000	COG0008	J	Glutamyl- or glutaminyl-tRNA synthetase	GlnS	Heme biosynthesis		1EUQ
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_03005	COG3568	R	Metal-dependent hydrolase, endonuclease/exonuclease/phosphatase family	ElsH		15178340	
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_03015	COG0494	V	8-oxo-dGTP pyrophosphatase MutT and related house-cleaning NTP pyrophosphohydrolases, NUDIX family	MutT			4V14
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_03020	COG1278	K	Cold shock protein, CspA family	CspC			1C9O
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_03025	COG1143	C	Formate hydrogenlyase subunit 6/NADH:ubiquinone oxidoreductase 23 kD subunit (chain I)	NuoI	NADH dehydrogenase		1B0P
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_03035	COG0723	C	Rieske Fe-S protein	QcrA/PetC		27663073	5CXM
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_03050	COG2010	C	Cytochrome c, mono- and diheme variants	CccA			1A2S
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_03055	COG0843	C	Heme/copper-type cytochrome/quinol oxidase, subunit 1	CyoB			1AR1
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_03070	COG0348	C	Polyferredoxin NapH	NapH		27322068	
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_03075	COG2836	S	Uncharacterized membrane protein, DsbD domain	DsbD		17768248	
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_03080	COG0474	P	Magnesium-transporting ATPase (P-type)	MgtA			1IWO
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_03100	COG2226	H	Ubiquinone/menaquinone biosynthesis C-methylase UbiE/MenG	UbiE	Biotin biosynthesis		4OBW
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_03105	COG1167	KE	DNA-binding transcriptional regulator, MocR family, contains an aminotransferase domain	ARO8	Lysine biosynthesis		2R2N
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_03110	COG4231	C	TPP-dependent indolepyruvate ferredoxin oxidoreductase, alpha subunit	IorA			
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_03115	COG1014	C	Pyruvate:ferredoxin oxidoreductase or related 2-oxoacid:ferredoxin oxidoreductase, gamma subunit	PorG	Pyruvate oxidation		1B0P
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_03120	COG0492	O	Thioredoxin reductase	TrxB			3FBS
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_03125	COG1409	T	3',5'-cyclic AMP phosphodiesterase CpdA	CpdA			2ZO9
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_03140	COG2887	L	RecB family exonuclease	Slr0479			
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_03145	COG0436	E	Aspartate/methionine/tyrosine aminotransferase	AspB	Isoleucine, leucine, valine biosynthesis		2O0R
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_03150	COG1349	KG	DNA-binding transcriptional regulator of sugar metabolism, DeoR/GlpR family	GlpR			
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_03160	COG0060	J	Isoleucyl-tRNA synthetase	IleS	Aminoacyl-tRNA synthetases		1FFY
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_03170	COG2723	G	Beta-glucosidase/6-phospho-beta-glucosidase/beta-galactosidase	BglB			4HZ6
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_03180	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_03190	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_03200	COG3459	G	Cellobiose phosphorylase			17307853	1V7V
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_03230	COG3693	G	Endo-1,4-beta-xylanase, GH35 family	XynA			1B30
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_03235	COG1932	HE	Phosphoserine aminotransferase	SerC	Serine biosynthesis		1BJN
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_03240	COG0095	H	Lipoate-protein ligase A	LplA	Lipoate biosynthesis		4TVW
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_03250	COG3299	X	Uncharacterized phage protein gp47/JayE	JayE			
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_03255	COG0191	G	Fructose/tagatose bisphosphate aldolase	Fba	Glycolysis		1B57
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_03260	COG2143	O	Thioredoxin-related protein SoxW	SoxW			4FYB
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_03275	COG0443	O	Molecular chaperone DnaK (HSP70)	DnaK			3I33
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_03285	COG0459	O	Chaperonin GroEL (HSP60 family)	GroEL			1AON
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_03295	COG0691	O	tmRNA-binding protein	SmpB		26251518	1J1H
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_03305	COG1404	O	Serine protease, subtilisin family	AprE			1SCJ
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_03310	COG2227	H	2-polyprenyl-3-methyl-5-hydroxy-6-metoxy-1,4-benzoquinol methylase	UbiG	Ubiquinone biosynthesis		1BHJ
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_03320	COG1232	H	Protoporphyrinogen oxidase HemY/PPOX	HemY	Heme biosynthesis		3LOV
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_03325	COG0386	VI	Thioredoxin/glutathione peroxidase BtuE, reduces lipid peroxides	BtuE		22931285	2P5Q
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_03335	COG2227	H	2-polyprenyl-3-methyl-5-hydroxy-6-metoxy-1,4-benzoquinol methylase	UbiG	Ubiquinone biosynthesis		1BHJ
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_03355	COG4941	K	Predicted RNA polymerase sigma factor, contains C-terminal TPR domain				
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_03360	COG1597	IR	Phosphatidylglycerol kinase, diacylglycerol kinase family	LCB5		17351295	2BON
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_03365	COG0225	O	Peptide methionine sulfoxide reductase MsrA	MsrA			1FF3
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_03370	COG0138	F	AICAR transformylase/IMP cyclohydrolase PurH	PurH	Purine biosynthesis		1G8M
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_03380	COG0514	L	Superfamily II DNA helicase RecQ	RecQ			1OYW
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_03385	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_03400	COG1452	M	LPS assembly outer membrane protein LptD (organic solvent tolerance protein OstA)	LptD			4N4R
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_03405	COG4172	Q	ABC-type microcin C transport system, duplicated ATPase component YejF	YejF		17873039	
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_03420	COG1925	TG	HPr or related phosphotransfer protein	PtsH			1CM2
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_03425	COG1080	G	Phosphoenolpyruvate-protein kinase (PTS system EI component in bacteria)	PtsA			1EZA
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_03440	COG1157	NU	Flagellar biosynthesis/type III secretory pathway ATPase FliI	FliI			5B0O
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_03445	COG0616	O	Periplasmic serine protease, ClpP class	SppA			3BEZ
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_03450	COG0300	R	Short-chain dehydrogenase	YqjQ			
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_03455	COG1539	H	Dihydroneopterin aldolase	FolB	Folate biosynthesis		1B9L
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_03460	COG0825	I	Acetyl-CoA carboxylase alpha subunit	AccA	Fatty acid biosynthesis		2F9I
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_03465	COG1376	M	Lipoprotein-anchoring transpeptidase ErfK/SrfK	ErfK			4LZH
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_03480	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_03485	COG1198	L	Primosomal protein N' (replication factor Y) - superfamily II helicase	PriA			6DCR
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_03495	COG0078	E	Ornithine carbamoyltransferase	ArgF	Arginine biosynthesis		1A1S
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_03500	COG0859	M	ADP-heptose:LPS heptosyltransferase	RfaF			1PSW
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_03505	COG0637	G	Beta-phosphoglucomutase, HAD superfamily	YcjU		29684280	3E58
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_03510	COG1180	O	Pyruvate-formate lyase-activating enzyme	PflA			3CAN
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_03515	COG0171	H	NH3-dependent NAD+ synthetase	NadE	NAD biosynthesis		3HMQ
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_03525	COG2904	J	NADPH-dependent 7-cyano-7-deazaguanine reductase QueF, N-terminal domain	QueFN			3BP1
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_03530	COG0705	O	Membrane-associated serine protease, rhomboid family	GlpG			2IC8
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_03535	COG4098	L	Superfamily II DNA/RNA helicase required for DNA uptake (late competence protein)	ComFA			
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_03545	COG2133	G	Glucose/arabinose dehydrogenase, beta-propeller fold	YliI			1C9U
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_03550	COG2096	H	Cob(II)alamin adenosyltransferase	PduO	Cobalamine/B12 biosynthesis		1NOG
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_03560	COG1837	R	Predicted RNA-binding protein YlqC, contains KH domain, UPF0109 family	YlqC			
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_03565	COG0336	J	tRNA G37 N-methylase TrmD	TrmD	tRNA modification		1P9P
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_03575	COG1039	L	Ribonuclease HIII	RnhC			2D0A
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_03585	COG4276	R	Ligand-binding SRPBCC domain	SRPBCC			
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_03600	COG1331	R	Uncharacterized conserved protein YyaL, SSP411 family, contains thoiredoxin and six-hairpin glycosidase-like domains	YyaL			3IRA
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_03615	COG4970	NW	Type IV pilus assembly protein FimT	FimT		17322192;28771515	
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_03625	COG1459	NUW	Type II secretory pathway, component PulF	PulF			2VMA
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_03630	COG0582	LX	Integrase/recombinase, includes phage integrase	FimB			
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_03635	COG0152	F	Phosphoribosylaminoimidazole-succinocarboxamide synthase	PurC	Purine biosynthesis		1A48
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_03640	COG0557	K	Exoribonuclease R	VacB			6H25
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_03645	COG0438	M	Glycosyltransferase involved in cell wall bisynthesis	RfaB			2IV7
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_03650	COG0792	L	Predicted endonuclease distantly related to archaeal Holliday junction resolvase, YraN/UPF0102 family	YraN			3FOV
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_03665	COG2255	L	Holliday junction resolvasome RuvABC, ATP-dependent DNA helicase subunit RuvB	RuvB			1HQC
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_03670	COG0452	H	Phosphopantothenoylcysteine synthetase/decarboxylase CoaBC	CoaBC	Pantothenate/CoA biosynthesis		3QJG
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_03675	COG1036	C	Archaeal flavoprotein	AfpA			3WIS
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_03680	COG0233	J	Ribosome recycling factor	Frr			1DD5
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_03685	COG0263	E	Glutamate 5-kinase	ProB	Proline biosynthesis		2W21
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_03695	COG1729	D	Cell division protein CpoB, coordinates peptidoglycan biosynthesis and outer membrane constriction	CpoB		25951518	2WZ7
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_03700	COG0249	L	DNA mismatch repair ATPase MutS	MutS			1E3M
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_03715	COG0205	G	6-phosphofructokinase	PfkA	Glycolysis		1KZH
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_03720	COG0379	H	Quinolinate synthase	NadA	NAD biosynthesis	24498065	4HHE
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_03725	COG0075	EF	Archaeal aspartate aminotransferase or a related aminotransferase, includes purine catabolism protein PucG	PucG	Serine biosynthesis		3NNK
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_03730	COG1167	KE	DNA-binding transcriptional regulator, MocR family, contains an aminotransferase domain	ARO8	Lysine biosynthesis		2R2N
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_03740	COG0566	J	tRNA G18 (ribose-2'-O)-methylase SpoU	SpoU	tRNA modification		1GZ0
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_03750	COG1703	O	GTPase of the G3E family (not a periplasmic protein kinase)	ArgK		18950999	2QM7
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_03755	COG0058	G	Glucan phosphorylase	GlgP			1A8I
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_03760	COG3695	K	Alkylated DNA nucleotide flippase Atl1, participates in nucleotide excision repair, Ada-like DNA-binding domain	Atl1		19516334	2KIF
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_03765	COG1388	M	LysM repeat	LysM			1E0G
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_03770	COG1477	HO	FAD:protein FMN transferase ApbE	ApbE		23558683;30154099	1VRM
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_03780	COG0494	V	8-oxo-dGTP pyrophosphatase MutT and related house-cleaning NTP pyrophosphohydrolases, NUDIX family	MutT			4V14
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_03785	COG0517	T	CBS domain	CBS			1B3O
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_03790	COG0018	J	Arginyl-tRNA synthetase	ArgS	Aminoacyl-tRNA synthetases		1BS2
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_03795	COG0714	R	MoxR-like ATPase	MoxR	Cobalamine/B12 biosynthesis		2R44
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_03815	COG4133	O	ABC-type transport system involved in cytochrome c biogenesis, ATPase component	CcmA			
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_03820	COG1109	G	Phosphomannomutase	ManB			6MNV
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_03825	COG1044	M	UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase	LpxD	Lipid A biosynthesis		6P83
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_03830	COG5010	UW	Flp pilus assembly protein TadD, contains TPR repeats	TadD			3WXX
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_03835	COG0199	J	Ribosomal protein S14	RpsN	Ribosome 30S subunit		4V4H
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_03845	COG1032	R	Radical SAM superfamily enzyme YgiQ, UPF0313 family	YgiQ			6FD2
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_03850	COG0477	GEPR	MFS family permease, includes anhydromuropeptide permease AmpG	ProP		12426329	
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_03890	COG0615	M	Glycerol-3-phosphate cytidylyltransferase, cytidylyltransferase family	TagD	Riboflavin/FAD biosynthesis		2B7L
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_03900	COG5010	UW	Flp pilus assembly protein TadD, contains TPR repeats	TadD			3WXX
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_03905	COG4856	T	Cyclic di-AMP synthase regulator CdaR, YbbR domain	YbbR		26527648	2KQ1
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_03910	COG1624	T	c-di-AMP synthetase, contains DisA_N domain	DisA			2FB5
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_03915	COG0269	G	3-keto-L-gulonate-6-phosphate decarboxylase	UlaD			3F4W
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_03920	COG1236	J	RNA processing exonuclease, beta-lactamase fold, Cft2 family	YSH1			2DKF
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_03925	COG1216	G	Glycosyltransferase, GT2 family	WcaE			2Z86
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_03930	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_03940	COG2211	G	Na+/melibiose symporter or related transporter	MelB			4M64
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_03945	COG2207	K	AraC-type DNA-binding domain and AraC-containing proteins	AraC			1BL0
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_03955	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_03960	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_03965	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_03975	COG0554	C	Glycerol kinase	GlpK			2ZF5
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_03985	COG1187	J	Pseudouridylate synthase RsuA, specific for 16S rRNA U516  and 23S rRNA U2605	RsuA	16S rRNA modification		1KSK
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_04000	COG0188	L	DNA gyrase/topoisomerase IV, subunit A	GyrA			1SUU
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_04010	COG0128	E	5-enolpyruvylshikimate-3-phosphate synthase	AroA	Aromatic amino acid biosynthesis		4N3P
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_04015	COG0776	L	Bacterial nucleoid DNA-binding protein IHF-alpha	HimA			1B8Z
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_04020	COG2111	P	Multisubunit Na+/H+ antiporter, MnhB subunit	MnhB			
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_04025	COG2111	P	Multisubunit Na+/H+ antiporter, MnhB subunit	MnhB			
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_04035	COG0651	CP	Formate hydrogenlyase subunit 3/Multisubunit Na+/H+ antiporter, MnhD subunit	HyfB			6CFW
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_04045	COG2212	P	Multisubunit Na+/H+ antiporter, MnhF subunit	MnhF			6CFW
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_04080	COG2176	L	DNA polymerase III, alpha subunit (gram-positive type)	PolC			
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_04090	COG0172	J	Seryl-tRNA synthetase	SerS	Aminoacyl-tRNA synthetases		1SER
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_04095	COG0323	L	DNA mismatch repair ATPase MutL	MutL			1B62
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_04105	COG1293	JO	Ribosome quality control (RQC) protein RqcH, Rqc2/NEMF/Tae2 family, contains fibronectin-(FbpA) and RNA- (NFACT) binding domains	RqcH		31155236;24646681	5H3W
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_04110	COG1773	P	Flavorubredoxin	NorV			4D02
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_04115	COG0436	E	Aspartate/methionine/tyrosine aminotransferase	AspB	Isoleucine, leucine, valine biosynthesis		2O0R
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_04120	COG2242	H	Precorrin-6B methylase 2	CobL	Cobalamine/B12 biosynthesis		1F38
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_04135	COG2084	I	3-hydroxyisobutyrate dehydrogenase or related beta-hydroxyacid dehydrogenase	MmsB			1I36
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_04140	COG0019	E	Diaminopimelate decarboxylase	LysA	Lysine biosynthesis		1D7K
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_04150	COG0537	FR	Purine nucleoside phosphoramidase/Ap4A hydrolase, histidine triade (HIT) family	HinT		20934431	1AV5
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_04155	COG2353	R	Polyisoprenoid-binding periplasmic protein YceI	YceI		15741337;20236316	1WUB
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_04160	COG0060	J	Isoleucyl-tRNA synthetase	IleS	Aminoacyl-tRNA synthetases		1FFY
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_04170	COG1085	G	Galactose-1-phosphate uridylyltransferase	GalT			1GUP
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_04185	COG0024	J	Methionine aminopeptidase	Map			3J2I
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_04190	COG1484	L	DNA replication protein DnaC	DnaC			2QGZ
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_04195	COG0592	L	DNA polymerase III sliding clamp (beta) subunit, PCNA homolog	DnaN			1JQJ
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_04205	COG0451	M	Nucleoside-diphosphate-sugar epimerase	WcaG			2X4G
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_04210	COG1206	J	Folate-dependent tRNA-U54 methylase TrmFO/GidA	TrmFO	tRNA modification	16027442	
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_04220	COG4591	M	ABC-type transport system involved in lipoprotein release, permease component LolC	LolE			6F49
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_04225	COG4170	V	ABC-type antimicrobial peptide export system, ATPase component SapD	SapD			
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_04240	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_04245	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_04265	COG0480	J	Translation elongation factor EF-G, a GTPase	FusA	Translation factors		1DAR
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_04270	COG0267	J	Ribosomal protein L33	RpmG	Ribosome 50S subunit		1VS6
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_04280	COG0690	U	Preprotein translocase subunit SecE	SecE		29684280	5MG3
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_04290	COG0080	J	Ribosomal protein L11	RplK	Ribosome 50S subunit		2E34
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_04295	COG0081	J	Ribosomal protein L1	RplA	Ribosome 50S subunit		3J65
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_04305	COG0222	J	Ribosomal protein L7/L12	RplL	Ribosome 50S subunit		1CTF
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_04315	COG0086	K	DNA-directed RNA polymerase, beta' subunit/160 kD subunit	RpoC	RNA polymerase		1NT9
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_04320	COG0048	J	Ribosomal protein S12	RpsL	Ribosome 30S subunit		4V4H
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_04325	COG0049	J	Ribosomal protein S7	RpsG	Ribosome 30S subunit		4V4H
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_04330	COG0480	J	Translation elongation factor EF-G, a GTPase	FusA	Translation factors		1DAR
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_04335	COG0051	J	Ribosomal protein S10	RpsJ	Ribosome 30S subunit		4V4H
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_04340	COG0087	J	Ribosomal protein L3	RplC	Ribosome 50S subunit		1VS6
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_04345	COG0088	J	Ribosomal protein L4	RplD	Ribosome 50S subunit		1VS6
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_04350	COG0089	J	Ribosomal protein L23	RplW	Ribosome 50S subunit		1VS6
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_04355	COG0090	J	Ribosomal protein L2	RplB	Ribosome 50S subunit		1VS6
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_04360	COG0185	J	Ribosomal protein S19	RpsS	Ribosome 30S subunit		4V4H
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_04370	COG0092	J	Ribosomal protein S3	RpsC	Ribosome 30S subunit		1VS6
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_04375	COG0255	J	Ribosomal protein L29	RpmC	Ribosome 50S subunit		1VS6
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_04385	COG0093	J	Ribosomal protein L14	RplN	Ribosome 50S subunit		4V4H
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_04390	COG0198	J	Ribosomal protein L24	RplX	Ribosome 50S subunit		1VS6
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_04395	COG0094	J	Ribosomal protein L5	RplE	Ribosome 50S subunit		1VS6
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_04400	COG0096	J	Ribosomal protein S8	RpsH	Ribosome 30S subunit		4V4H
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_04405	COG0097	J	Ribosomal protein L6P/L9E	RplF	Ribosome 50S subunit		1VS6
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_04415	COG0098	J	Ribosomal protein S5	RpsE	Ribosome 30S subunit		4V4H
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_04420	COG1727	J	Ribosomal protein L18E	RPL18A	Archaeal ribosomal proteins		
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_04425	COG0201	U	Preprotein translocase subunit SecY	SecY			1RH5
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_04430	COG1102	F	Cytidylate kinase	CmkB			
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_04435	COG0024	J	Methionine aminopeptidase	Map			3J2I
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_04445	COG0257	J	Ribosomal protein L36	RpmJ	Ribosome 50S subunit	21627333	1DFE
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_04455	COG0100	J	Ribosomal protein S11	RpsK	Ribosome 30S subunit		4V4H
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_04460	COG0202	K	DNA-directed RNA polymerase, alpha subunit/40 kD subunit	RpoA	RNA polymerase		4KN7
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_04465	COG0203	J	Ribosomal protein L17	RplQ	Ribosome 50S subunit		1GD8
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_04470	COG1949	A	Oligoribonuclease (3'-5' exoribonuclease)	Orn			1YTA
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_04475	COG1674	D	DNA segregation ATPase FtsK/SpoIIIE or related protein	FtsK			2IUT
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_04480	COG1426	D	Cytoskeletal protein RodZ, contains Xre-like HTH and DUF4115 domains	RodZ			3FYM
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_04485	COG1183	I	Phosphatidylserine synthase	PssA			
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_04495	COG0482	J	tRNA U34 2-thiouridine synthase MnmA/TrmU, contains the PP-loop ATPase domain	MnmA	tRNA modification	25825430	2HMA
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_04500	COG0760	O	Peptidyl-prolyl isomerase, parvulin family	SurA			2ZR5
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_04505	COG0727	R	Uncharacterized protein YkgJ, contains CxxCxxCC motif	YkgJ			
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_04515	COG1207	M	Bifunctional protein GlmU, N-acetylglucosamine-1-phosphate-uridyltransferase/glucosamine-1-phosphate-acetyltransferase	GlmU			3FWW
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_04520	COG0793	O	C-terminal processing protease CtpA/Prc, contains a PDZ domain	CtpA			6IQU
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_04525	COG2188	K	DNA-binding transcriptional regulator, GntR family	MngR			2WV0
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_04530	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_04535	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_04540	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_04545	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_04550	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_04555	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_04560	COG2730	G	Aryl-phospho-beta-D-glucosidase BglC, GH1 family	BglC			
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_04565	COG3693	G	Endo-1,4-beta-xylanase, GH35 family	XynA			1B30
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_04585	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_04600	COG0653	U	Preprotein translocase subunit SecA (ATPase, RNA helicase)	SecA			2FSF
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_04605	COG0175	EH	3'-phosphoadenosine 5'-phosphosulfate sulfotransferase (PAPS reductase)/FAD synthetase or related enzyme	CysD	Cysteine biosynthesis		1ZUN
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_04610	COG0465	O	ATP-dependent Zn proteases	HflB			1LV7
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_04625	COG0607	P	Rhodanese-related sulfurtransferase	PspE	Urea cycle		1TQ1
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_04650	COG4531	P	ABC-type Zn2+ transport system, periplasmic component/surface adhesin ZnuA	ZnuA			2OGW
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_04660	COG1057	H	Nicotinate-nucleotide adenylyltransferase NadD	NadD	NAD biosynthesis		1YUM
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_04665	COG4123	J	tRNA1(Val) A37 N6-methylase TrmN6	TrmN6	tRNA modification		
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_04670	COG1608	I	Isopentenyl phosphate kinase			16621811	3LKK
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_04675	COG1012	I	Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase	AdhE	Proline degradation		1A4S
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_04685	COG0059	EH	Ketol-acid reductoisomerase	IlvC	Isoleucine, leucine, valine biosynthesis		1NP3
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_04695	COG0004	P	Ammonia channel protein AmtB	AmtB			1U77
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_04700	COG4796	U	Type II secretory pathway, component HofQ	HofQ			4AV2
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_04705	COG0343	J	Queuine/archaeosine tRNA-ribosyltransferase	Tgt	tRNA modification	15805528	1XW8
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_04715	COG0342	U	Preprotein translocase subunit SecD	SecD		26100040	3AQP
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_04720	COG0608	L	ssDNA-specific exonuclease RecJ, DHH superfamily, may be involved in archaeal DNA replication intiation	RecJ			1IR6
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_04725	COG1589	D	Cell division septal protein FtsQ	FtsQ			1YR1
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_04730	COG1077	DZ	Cell shape-determining ATPase MreB, actin-like superfamily	MreB			1JCE
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_04740	COG1236	J	RNA processing exonuclease, beta-lactamase fold, Cft2 family	YSH1			2DKF
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_04750	COG4972	NW	Type IV pilus assembly protein, ATPase PilM	PilM			2YCH
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_04755	COG3156	U	Type II secretory pathway, component PulK	PulK			5VTM
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_04760	COG4795	U	Type II secretory pathway, PulJ/GspJ component	PulJ			
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_04765	COG4967	NW	Type IV pilus assembly protein PilV	PilV			
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_04770	COG0530	P	Ca2+/Na+ antiporter	ECM27			3V5S
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_04775	COG2234	OE	Zn-dependent amino- or carboxypeptidase, M28 family	Iap			1AMP
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_04790	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_04805	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_04825	COG1595	K	DNA-directed RNA polymerase specialized sigma subunit, sigma24 family	RpoE	RNA polymerase		2Q1Z
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_04840	COG5434	G	Polygalacturonase	Pgu1			1BHE
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_04855	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_04860	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_04880	COG1012	I	Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase	AdhE	Proline degradation		1A4S
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_04890	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_04910	COG3119	P	Arylsulfatase A or related enzyme, AlkP superfamily	AslA			1E1Z
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_04915	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_04920	COG2273	G	Beta-glucanase, GH16 family	BglS			1AJK
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_04925	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_04930	COG3850	T	Signal transduction histidine kinase NarQ, nitrate/nitrite-specific	NarQ			
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_04935	COG4566	TK	DNA-binding response regulator, FixJ family, consists of REC and HTH domains	FixJ			1YIO
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_04945	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_04960	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_04965	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_04970	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_04980	COG2308	R	Circularly permuted ATP-grasp protein			20023723	3N6X
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_04990	COG4196	S	Uncharacterized conserved protein, DUF2126 family				
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_05010	COG0330	O	Regulator of protease activity HflC, stomatin/prohibitin superfamily	HflC			
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_05040	COG0845	MV	Multidrug efflux pump subunit AcrA (membrane-fusion protein)	AcrA			1T5E
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_05045	COG4136	R	ABC-type uncharacterized transport system YnjBCD, ATPase component	YnjD			
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_05050	COG4591	M	ABC-type transport system involved in lipoprotein release, permease component LolC	LolE			6F49
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_05095	COG2084	I	3-hydroxyisobutyrate dehydrogenase or related beta-hydroxyacid dehydrogenase	MmsB			1I36
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_05100	COG0128	E	5-enolpyruvylshikimate-3-phosphate synthase	AroA	Aromatic amino acid biosynthesis		4N3P
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_05105	COG1102	F	Cytidylate kinase	CmkB			
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_05110	COG2121	S	Uncharacterized conserved protein, lysophospholipid acyltransferase (LPLAT) superfamily				
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_05115	COG0441	J	Threonyl-tRNA synthetase	ThrS	Aminoacyl-tRNA synthetases		1NYQ
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_05120	COG1729	D	Cell division protein CpoB, coordinates peptidoglycan biosynthesis and outer membrane constriction	CpoB		25951518	2WZ7
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_05125	COG1452	M	LPS assembly outer membrane protein LptD (organic solvent tolerance protein OstA)	LptD			4N4R
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_05130	COG0117	H	Riboflavin biosynthesis protein RibD, pyrimidine deaminase domain	RibD1	Riboflavin/FAD biosynthesis		2O7P
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_05140	COG0309	O	Carbamoyl dehydratase HypE (hydrogenase maturation factor)	HypE		28618091	2I6R
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_05145	COG1807	M	PMT family glycosyltransferase ArnT/Agl22, involved in glycosylation of proteins and lipid IVA	ArnT		16226890;31233657;32706435	5EZM
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_05150	COG0299	F	Folate-dependent phosphoribosylglycinamide formyltransferase PurN	PurN	Purine biosynthesis	25013077	1C2T
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_05160	COG3221	P	ABC-type phosphate/phosphonate transport system, periplasmic component	PhnD			3S4U
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_05170	COG1078	R	HD superfamily phosphohydrolase	YdhJ			2HEK
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_05175	COG0494	V	8-oxo-dGTP pyrophosphatase MutT and related house-cleaning NTP pyrophosphohydrolases, NUDIX family	MutT			4V14
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_05190	COG0538	C	Isocitrate dehydrogenase	Icd	TCA cycle		1IDD
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_05195	COG0066	E	3-isopropylmalate dehydratase small subunit	LeuD	Isoleucine, leucine, valine biosynthesis		3Q3W
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_05200	COG0065	E	Homoaconitase/3-isopropylmalate dehydratase large subunit	LeuC	Isoleucine, leucine, valine biosynthesis		4KP1
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_05205	COG3184	S	Uncharacterized conserved protein, contains DUF2059 domain			15741337	2X3O
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_05210	COG3457	E	Predicted amino acid racemase	YhfX		23091052	4KBX
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_05220	COG0136	E	Aspartate-semialdehyde dehydrogenase	Asd	Lysine biosynthesis		1BRM
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_05225	COG0534	V	Na+-driven multidrug efflux pump, DinF/NorM/MATE family	NorM		29915058	3VVN
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_05235	COG0432	H	Thiamin phosphate synthase YjbQ, UPF0047 family	YjbQ			1VE0
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_05240	COG1124	EP	ABC-type dipeptide/oligopeptide/nickel transport system, ATPase component	DppF			
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_05245	COG4525	P	ABC-type taurine transport system, ATPase component	TauB			
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_05250	COG0369	FP	Flavoprotein (flavin reductase) subunit CysJ of sulfite and N-hydroxylaminopurine reductases	CysJ	Cysteine biosynthesis	20118259	1YKG
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_05255	COG1032	R	Radical SAM superfamily enzyme YgiQ, UPF0313 family	YgiQ			6FD2
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_05265	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_05280	COG1028	I	NAD(P)-dependent dehydrogenase, short-chain alcohol dehydrogenase family	FabG	Fatty acid biosynthesis		6L1H
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_05285	COG1087	M	UDP-glucose 4-epimerase	GalE			1A9Y
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_05300	COG0415	L	Deoxyribodipyrimidine photolyase	PhrB			1TEZ
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_05310	COG0302	H	GTP cyclohydrolase I	FolE	Folate biosynthesis	19767425;30692671	1A8R
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_05315	COG1966	CE	Carbon starvation protein CstA (peptide/pyruvate transporter)	CstA		26497384;29358499	
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_05320	COG0354	O	Folate-binding protein YgfZ, synthesis and repair of Fe-S clusters	YgfZ		27941785;22081392	1NRK
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_05325	COG1003	E	Glycine cleavage system protein P (pyridoxal-binding), C-terminal domain	GcvP2	Glycine cleavage		4LGL
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_05330	COG0436	E	Aspartate/methionine/tyrosine aminotransferase	AspB	Isoleucine, leucine, valine biosynthesis		2O0R
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_05340	COG0190	H	5,10-methylene-tetrahydrofolate dehydrogenase/Methenyl tetrahydrofolate cyclohydrolase	FolD			1A4I
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_05350	COG3118	O	Chaperedoxin CnoX, contains thioredoxin-like and TPR-like domains, YbbN/TrxSC family	CnoX		21498507;29754824	3QDN
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_05360	COG3568	R	Metal-dependent hydrolase, endonuclease/exonuclease/phosphatase family	ElsH		15178340	
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_05370	COG3324	R	Lactoylglutathione lyase-related enzyme, vicinal oxygen chelate (VOC) family	VOC		31710815	3OXH
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_05375	COG0231	J	Translation elongation factor P (EF-P)/translation initiation factor 5A (eIF-5A)	Efp	Translation factors		1UEB
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_05380	COG0017	J	Aspartyl/asparaginyl-tRNA synthetase	AsnS	Aminoacyl-tRNA synthetases		3KFU
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_05385	COG1819	G	UDP:flavonoid glycosyltransferase YjiC, YdhE family	YjiC		23974133	2ACV
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_05390	COG0771	M	UDP-N-acetylmuramoylalanine-D-glutamate ligase	MurD	Mureine biosynthesis		1E0D
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_05415	COG0673	R	Predicted dehydrogenase	MviM			3UUW
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_05445	COG1209	M	dTDP-glucose pyrophosphorylase	RmlA1			1FXO
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_05450	COG0524	G	Sugar or nucleoside kinase, ribokinase family	RbsK	Glycolysis		2QCV
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_05455	COG3688	J	EndoRNase involved in mRNA decay, NYN (Nedd4-BP1/Rae1/YacP nuclease) family,  contains PIN domain	Rae1		28363943	5MQ8
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_05460	COG0231	J	Translation elongation factor P (EF-P)/translation initiation factor 5A (eIF-5A)	Efp	Translation factors		1UEB
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_05465	COG0041	F	Phosphoribosylcarboxyaminoimidazole (NCAIR) mutase	PurE	Purine biosynthesis		1D7A
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_05485	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_05520	COG1638	G	TRAP-type C4-dicarboxylate transport system, periplasmic component	DctP			2CEX
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_05530	COG4145	H	Na+/panthothenate symporter	PanF			
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_05550	COG0370	P	Fe2+ transporter FeoB	FeoB		32095817	3TAH
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_05555	COG3355	K	Predicted transcriptional regulator				2D1H
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_05560	COG0502	H	Biotin synthase or related enzyme	BioB	Biotin biosynthesis		1R30
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_05565	COG3010	G	Putative N-acetylmannosamine-6-phosphate epimerase	NanE			1Y0E
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_05570	COG2104	H	Sulfur carrier protein ThiS (thiamine biosynthesis)	ThiS	Thiamine biosynthesis		1F0Z
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_05580	COG1291	N	Flagellar motor component MotA	MotA			
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_05595	COG2319	R	WD40 repeat	WD40			3UVN
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_05600	COG1360	N	Flagellar motor protein MotB	MotB			
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_05605	COG2199	T	GGDEF domain, diguanylate cyclase (c-di-GMP synthetase) or its enzymatically inactive variants	GGDEF			6D9M
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_05615	COG2145	H	Hydroxyethylthiazole kinase, sugar kinase family	ThiM	Thiamine biosynthesis		1C3Q
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_05620	COG0016	J	Phenylalanyl-tRNA synthetase alpha subunit	PheS	Aminoacyl-tRNA synthetases		3L4G
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_05625	COG0500	QR	SAM-dependent methyltransferase	SmtA			5DNK
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_05630	COG4106	C	Trans-aconitate methyltransferase	Tam			2P35
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_05640	COG0276	H	Protoheme ferro-lyase (ferrochelatase)	HemH	Heme biosynthesis		1AK1
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_05645	COG1231	E	Monoamine oxidase	YobN			1B37
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_05650	COG2410	R	Predicted nuclease (RNAse H fold)				
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_05655	COG0407	H	Uroporphyrinogen-III decarboxylase HemE	HemE	Heme biosynthesis		2DG5
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_05665	COG1216	G	Glycosyltransferase, GT2 family	WcaE			2Z86
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_05670	COG2710	HP	Nitrogenase Mo-Fe protein NifD/coenzyme F430 biosynthesis subunit CfbD	NifD/CfbD		28225763	1FP4
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_05685	COG1087	M	UDP-glucose 4-epimerase	GalE			1A9Y
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_05690	COG0457	R	Tetratricopeptide (TPR) repeat	TPR			3AS4
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_05695	COG2148	M	Sugar transferase involved in LPS biosynthesis (colanic, teichoic acid)	WcaJ			5W7L
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_05710	COG0142	H	Geranylgeranyl pyrophosphate synthase	IspA	Isoprenoid biosynthesis		2AZJ
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_05715	COG0574	G	Phosphoenolpyruvate synthase/pyruvate phosphate dikinase	PpsA	Gluconeogenesis		5HV6
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_05725	COG0458	EF	Carbamoylphosphate synthase large subunit	CarB	Arginine biosynthesis		1C30
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_05730	COG2001	J	MraZ, DNA-binding transcriptional regulator and inhibitor of RsmH methyltransferase activity	MraZ			1N0E
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_05740	COG0275	J	16S rRNA C1402 N4-methylase RsmH	RmsH	16S rRNA modification		1M6Y
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_05750	COG0768	DM	Cell division protein FtsI, peptidoglycan transpeptidase (Penicillin-binding protein 2)	FtsI			6HZQ
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_05755	COG0285	H	Folylpolyglutamate synthase/Dihydropteroate synthase	FolC	Folate biosynthesis		1W78
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_05760	COG0771	M	UDP-N-acetylmuramoylalanine-D-glutamate ligase	MurD	Mureine biosynthesis		1E0D
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_05765	COG0472	M	UDP-N-acetylmuramyl pentapeptide phosphotransferase/UDP-N-acetylglucosamine-1-phosphate transferase	Rfe	Mureine biosynthesis		4J72
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_05770	COG0472	M	UDP-N-acetylmuramyl pentapeptide phosphotransferase/UDP-N-acetylglucosamine-1-phosphate transferase	Rfe	Mureine biosynthesis		4J72
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_05775	COG0770	M	UDP-N-acetylmuramyl pentapeptide synthase	MurF	Mureine biosynthesis		4CVK
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_05780	COG1388	M	LysM repeat	LysM			1E0G
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_05785	COG0772	D	Peptodoglycan polymerase FtsW/RodA/SpoVE	FtsW		30692671	6BAR
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_05790	COG2265	J	tRNA/tmRNA/rRNA uracil-C5-methylase, TrmA/RlmC/RlmD family	TrmA	tRNA modification		1UWV
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_05795	COG1187	J	Pseudouridylate synthase RsuA, specific for 16S rRNA U516  and 23S rRNA U2605	RsuA	16S rRNA modification		1KSK
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_05800	COG1041	J	tRNA G10 N-methylase Trm11	Trm11	tRNA modification		5E71
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_05805	COG3118	O	Chaperedoxin CnoX, contains thioredoxin-like and TPR-like domains, YbbN/TrxSC family	CnoX		21498507;29754824	3QDN
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_05810	COG0349	J	Ribonuclease D	Rnd		18821773	5C0Y
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_05815	COG0219	J	tRNA(Leu) C34 or U34 (ribose-2'-O)-methylase TrmL, contains SPOUT domain	TrmL	tRNA modification		4JAK
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_05820	COG0648	L	Endonuclease IV	Nfo			2NQH
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_05825	COG0021	G	Transketolase	TktA	Pentose phosphate pathway		1AY0
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_05830	COG1038	C	Pyruvate carboxylase	PycA	Urea cycle		5VYW
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_05835	COG0847	L	DNA polymerase III, epsilon subunit or related 3'-5' exonuclease	DnaQ			1J53
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_05840	COG0722	E	3-deoxy-D-arabino-heptulosonate 7-phosphate (DAHP) synthase	AroG1	Aromatic amino acid biosynthesis		6U8J
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_05850	COG4121	J	tRNA U34 5-methylaminomethyl-2-thiouridine-forming methyltransferase MnmC	MnmC	tRNA modification		3AWI
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_05855	COG0402	FR	Cytosine/adenosine deaminase or related metal-dependent hydrolase	SsnA	Pyrimidine salvage		3O7U
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_05860	COG0502	H	Biotin synthase or related enzyme	BioB	Biotin biosynthesis		1R30
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_05875	COG2116	P	Formate/nitrite transporter FocA, FNT family	FocA			3KCU
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_05880	COG0657	I	Acetyl esterase/lipase	Aes			1EVQ
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_05885	COG1089	M	GDP-D-mannose dehydratase	Gmd			1DB3
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_05890	COG1577	I	Mevalonate kinase	ERG12	Isoprenoid biosynthesis		
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_05895	COG1466	L	DNA polymerase III, delta subunit	HolA			3ZH9
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_05915	COG3119	P	Arylsulfatase A or related enzyme, AlkP superfamily	AslA			1E1Z
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_05925	COG1154	HI	Deoxyxylulose-5-phosphate synthase	Dxs	Pyridoxal phosphate biosynthesis		2O1S
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_05930	COG1606	R	ATP-utilizing enzyme, PP-loop superfamily				6B2O
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_05940	COG0564	J	Pseudouridine synthase RluA, 23S rRNA- or tRNA-specific	RluA	23S rRNA modification		2I82
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_05945	COG2873	E	O-acetylhomoserine/O-acetylserine sulfhydrylase, pyridoxal phosphate-dependent	MET17	Methionine biosynthesis		2CTZ
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_05950	COG0596	HR	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold	MenH	Menaquinone biosynthesis		4MYS
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_05955	COG3022	L	DNA-binding protein YaaA associated with the oxidative stress response	YaaA		21378183;32796037	5CAJ
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_05960	COG0622	R	Predicted phosphodiesterase, calcineurin family	YfcE		17586769	1SU1
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_05965	COG3011	R	Predicted thiol-disulfide oxidoreductase YuxK, DCC family	YuxK		15236740	
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_05970	COG1702	T	Phosphate starvation-inducible protein PhoH, predicted ATPase	PhoH		8444794;12762842	3B85
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_05975	COG5512	R	Predicted  nucleic acid-binding protein, contains Zn-ribbon domain (includes truncated derivatives)				
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_05980	COG0118	E	Imidazoleglycerol phosphate synthase glutamine amidotransferase subunit HisH	HisH	Histidine biosynthesis		1OX4
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_05985	COG0269	G	3-keto-L-gulonate-6-phosphate decarboxylase	UlaD			3F4W
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_05995	COG1643	J	HrpA-like RNA helicase	HrpA			5N8R
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_06000	COG1011	H	FMN and 5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YigB, HAD superfamily (riboflavin biosynthesis)	YigB		24123841	4JB3
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_06005	COG2242	H	Precorrin-6B methylase 2	CobL	Cobalamine/B12 biosynthesis		1F38
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_06015	COG4147	C	Na+(or H+)/acetate symporter ActP	ActP			
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_06020	COG0657	I	Acetyl esterase/lipase	Aes			1EVQ
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_06025	COG1189	J	Predicted rRNA methylase YqxC, contains S4 and FtsJ domains	YqxC			3OPN
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_06050	COG1192	DN	ParA-like ATPase involved in chromosome/plasmid partitioning or cellulose biosynthesis protein BcsQ	ParA			6NOO
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_06065	COG3844	E	Kynureninase	Bna5			
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_06070	COG0719	O	Fe-S cluster assembly scaffold protein SufB	SufB			1VH4
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_06075	COG1123	O	ABC-type glutathione transport system ATPase component, contains duplicated ATPase domain	GsiA			
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_06080	COG0719	O	Fe-S cluster assembly scaffold protein SufB	SufB			1VH4
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_06085	COG1378	K	Sugar-specific transcriptional regulator TrmB	YrhO			5BPD
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_06090	COG1694	V	NTP pyrophosphatase, house-cleaning of non-canonical NTPs	MazG			1VMG
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_06095	COG4372	S	Uncharacterized protein, contains DUF3084 domain				
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_06110	COG1560	I	Palmitoleoyl-ACP: Kdo2-lipid-IV acyltransferase (lipid A biosynthesis)	LpxP	Lipid A biosynthesis	11830595	5F2T
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_06115	COG3660	D	Mitochondrial fission protein ELM1	ELM1			
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_06120	COG0488	R	ATPase components of ABC transporters with duplicated ATPase domains	Uup			5ZXD
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_06125	COG0297	G	Glycogen synthase	GlgA			1RZU
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_06130	COG1807	M	PMT family glycosyltransferase ArnT/Agl22, involved in glycosylation of proteins and lipid IVA	ArnT		16226890;31233657;32706435	5EZM
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_06135	COG1215	N	Glycosyltransferase, catalytic subunit of cellulose synthase and poly-beta-1,6-N-acetylglucosamine synthase	BcsA			4HG6
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_06140	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Kiritimatiellaceae_bacterium_MED670	GCA_002691095.1	PJAANG_06150	COG1216	G	Glycosyltransferase, GT2 family	WcaE			2Z86

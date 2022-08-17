@@ -1,0 +1,997 @@
+#prefix	assemid	query	COG	category	name	Gene	pathway	pmid	pdb_id
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_00015	COG4126	E	Asp/Glu/hydantoin racemase	Dcg1			
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_00020	COG1064	G	D-arabinose 1-dehydrogenase, Zn-dependent alcohol dehydrogenase family	AdhP			5O8Q
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_00025	COG0024	J	Methionine aminopeptidase	Map			3J2I
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_00035	COG2186	K	DNA-binding transcriptional regulator, FadR family	FadR			1E2X
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_00070	COG3087	D	Cell division protein FtsN	FtsN			1UTA
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_00075	COG2367	V	Beta-lactamase class A	PenP			6W34
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_00080	COG1428	F	Deoxyadenosine/deoxycytidine kinase	Dck			1J90
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_00085	COG2812	L	DNA polymerase III, gamma/tau subunits	DnaX			1A5T
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_00095	COG0525	J	Valyl-tRNA synthetase	ValS	Aminoacyl-tRNA synthetases		1GAX
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_00100	COG3642	J	tRNA A-37 threonylcarbamoyl transferase component Bud32	Bud32	tRNA modification		2VWB
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_00115	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_00120	COG1712	E	L-aspartate dehydrogenase, NAD(P)-dependent	AspD		12496312	1H2H
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_00130	COG0608	L	ssDNA-specific exonuclease RecJ, DHH superfamily, may be involved in archaeal DNA replication intiation	RecJ			1IR6
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_00135	COG0499	H	S-adenosylhomocysteine hydrolase	SAM1			1A7A
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_00145	COG1807	M	PMT family glycosyltransferase ArnT/Agl22, involved in glycosylation of proteins and lipid IVA	ArnT		16226890;31233657;32706435	5EZM
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_00160	COG1126	E	ABC-type polar amino acid transport system, ATPase component	GlnQ			4YMS
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_00165	COG0845	MV	Multidrug efflux pump subunit AcrA (membrane-fusion protein)	AcrA			1T5E
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_00170	COG1538	M	Outer membrane protein TolC	TolC			1EK9
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_00175	COG0069	E	Glutamate synthase domain 2	GltB2	Glutamine biosynthesis		1EA0
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_00180	COG0716	C	Flavodoxin	FldA	Heme biosynthesis		1AG9
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_00185	COG0324	J	tRNA A37 N6-isopentenylltransferase MiaA	MiaA	tRNA modification		2ZM5
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_00190	COG1201	L	Lhr-like helicase	Lhr			5V9X
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_00200	COG4638	PR	Phenylpropionate dioxygenase or related ring-hydroxylating dioxygenase, large terminal subunit	HcaE			4QDC
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_00205	COG0279	G	Phosphoheptose isomerase	GmhA			1G76
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_00220	COG1105	G	1-phosphofructokinase or 6-phosphofructokinase II	FruK			2ABQ
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_00240	COG0599	R	Uncharacterized conserved protein YurZ, alkylhydroperoxidase/carboxymuconolactone decarboxylase family	YurZ			3BEY
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_00245	COG0579	G	L-2-hydroxyglutarate oxidase LhgO	LhgO			3DME
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_00250	COG2130	QR	NADPH-dependent curcumin reductase CurA	CurA		21467222	1V3T
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_00265	COG0066	E	3-isopropylmalate dehydratase small subunit	LeuD	Isoleucine, leucine, valine biosynthesis		3Q3W
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_00270	COG0065	E	Homoaconitase/3-isopropylmalate dehydratase large subunit	LeuC	Isoleucine, leucine, valine biosynthesis		4KP1
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_00280	COG1088	M	dTDP-D-glucose 4,6-dehydratase	RfbB			1G1A
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_00285	COG1832	R	Predicted CoA-binding protein	YccU			1IUK
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_00290	COG0740	O	ATP-dependent protease ClpP, protease subunit	ClpP			1TG6
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_00295	COG0447	H	1,4-Dihydroxy-2-naphthoyl-CoA synthase	MenB	Menaquinone biosynthesis		4ELS
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_00300	COG0349	J	Ribonuclease D	Rnd		18821773	5C0Y
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_00305	COG0697	GER	Permease of the drug/metabolite transporter (DMT) superfamily	RhaT			5I20
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_00310	COG1190	J	Lysyl-tRNA synthetase (class II)	LysU	Aminoacyl-tRNA synthetases		1BBU
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_00315	COG4531	P	ABC-type Zn2+ transport system, periplasmic component/surface adhesin ZnuA	ZnuA			2OGW
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_00325	COG0444	EP	ABC-type dipeptide/oligopeptide/nickel transport system, ATPase component	DppD			4FWI
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_00335	COG1884	I	Methylmalonyl-CoA mutase, N-terminal domain/subunit	Sbm			6OXC
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_00340	COG2226	H	Ubiquinone/menaquinone biosynthesis C-methylase UbiE/MenG	UbiE	Biotin biosynthesis		4OBW
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_00350	COG3173	R	Predicted  kinase, aminoglycoside phosphotransferase (APT) family	YcbJ			
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_00355	COG0365	I	Acyl-coenzyme A synthetase/AMP-(fatty) acid ligase	Acs		14638756	4B2O
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_00360	COG0679	R	Predicted permease, AEC (auxin efflux carrier) family	YfdV			
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_00365	COG0856	F	Orotate phosphoribosyltransferase homolog	PyrE2			
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_00370	COG0044	F	Dihydroorotase or related cyclic amidohydrolase	AllB	Pyrimidine biosynthesis		1J79
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_00385	COG0165	E	Argininosuccinate lyase	ArgH	Arginine biosynthesis		1AOS
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_00390	COG1948	L	ERCC4-type crossover junction endonuclease	MUS81			1J22
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_00395	COG0024	J	Methionine aminopeptidase	Map			3J2I
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_00400	COG1489	GT	DNA-binding protein, stimulates sugar fermentation	SfsA			4DA2
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_00405	COG4770	I	Acetyl/propionyl-CoA carboxylase, alpha subunit	PccA			3U9S
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_00420	COG0008	J	Glutamyl- or glutaminyl-tRNA synthetase	GlnS	Heme biosynthesis		1EUQ
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_00425	COG0215	J	Cysteinyl-tRNA synthetase	CysS	Aminoacyl-tRNA synthetases		1LI5
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_00435	COG1062	C	Zn-dependent alcohol/formaldehyde dehydrogenase	FrmA			1A71
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_00445	COG1360	N	Flagellar motor protein MotB	MotB			
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_00450	COG0036	G	Pentose-5-phosphate-3-epimerase	Rpe	Pentose phosphate pathway		1H1Y
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_00455	COG0104	F	Adenylosuccinate synthase	PurA	Purine biosynthesis		1ADE
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_00460	COG0124	J	Histidyl-tRNA synthetase	HisS	Aminoacyl-tRNA synthetases		1KMM
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_00465	COG2872	J	Ser-tRNA(Ala) deacylase AlaX (editing enzyme)	AlaX			2E1B
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_00470	COG2240	H	Pyridoxal/pyridoxine/pyridoxamine kinase	PdxK	Pyridoxal phosphate biosynthesis	19096365;23189126	5ZW9
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_00475	COG0033	G	Phosphoglucomutase/phosphomannomutase	Pgm		30938049	1C47
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_00480	COG0426	C	Flavorubredoxin	NorV			4JHC
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_00485	COG2226	H	Ubiquinone/menaquinone biosynthesis C-methylase UbiE/MenG	UbiE	Biotin biosynthesis		4OBW
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_00490	COG1605	E	Chorismate mutase	PheA	Aromatic amino acid biosynthesis		1ECM
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_00495	COG1167	KE	DNA-binding transcriptional regulator, MocR family, contains an aminotransferase domain	ARO8	Lysine biosynthesis		2R2N
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_00500	COG2084	I	3-hydroxyisobutyrate dehydrogenase or related beta-hydroxyacid dehydrogenase	MmsB			1I36
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_00515	COG0526	O	Thiol-disulfide isomerase or thioredoxin	TrxA			1XFL
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_00520	COG0526	O	Thiol-disulfide isomerase or thioredoxin	TrxA			1XFL
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_00525	COG0526	O	Thiol-disulfide isomerase or thioredoxin	TrxA			1XFL
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_00530	COG0015	F	Adenylosuccinate lyase	PurB	Purine biosynthesis		2HVG
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_00540	COG0019	E	Diaminopimelate decarboxylase	LysA	Lysine biosynthesis		1D7K
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_00560	COG4666	R	TRAP-type uncharacterized transport system, fused permease components				
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_00565	COG3090	G	TRAP-type C4-dicarboxylate transport system, small permease component YiaM	DctM			
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_00570	COG1638	G	TRAP-type C4-dicarboxylate transport system, periplasmic component	DctP			2CEX
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_00575	COG2513	G	2-Methylisocitrate lyase and related enzymes, PEP mutase family	PrpB			1XG3
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_00580	COG2195	E	Di- or tripeptidase	PepD2			2QYV
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_00590	COG1012	I	Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase	AdhE	Proline degradation		1A4S
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_00600	COG0251	V	Enamine deaminase RidA, house cleaning of reactive enamine intermediates, YjgF/YER057c/UK114 family	RidA	Pyrimidine degradation	22094463;32205462	1J7H
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_00605	COG1228	Q	Imidazolonepropionase or related amidohydrolase	HutI			3OOQ
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_00610	COG0512	EH	Anthranilate/para-aminobenzoate synthase component II (glutamine amidotransferase)	PabA	Aromatic amino acid biosynthesis		1I1Q
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_00615	COG0517	T	CBS domain	CBS			1B3O
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_00620	COG1189	J	Predicted rRNA methylase YqxC, contains S4 and FtsJ domains	YqxC			3OPN
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_00625	COG0443	O	Molecular chaperone DnaK (HSP70)	DnaK			3I33
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_00630	COG0607	P	Rhodanese-related sulfurtransferase	PspE	Urea cycle		1TQ1
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_00640	COG0640	K	DNA-binding transcriptional regulator, ArsR family	ArsR			3F6V
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_00645	COG0845	MV	Multidrug efflux pump subunit AcrA (membrane-fusion protein)	AcrA			1T5E
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_00650	COG0841	V	Multidrug efflux pump subunit AcrB	AcrB			1IWG
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_00655	COG0841	V	Multidrug efflux pump subunit AcrB	AcrB			1IWG
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_00665	COG0473	CE	Isocitrate/isopropylmalate dehydrogenase	LeuB	TCA cycle		1GC9
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_00670	COG0652	O	Peptidyl-prolyl cis-trans isomerase (rotamase) - cyclophilin family	PpiB			4DGD
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_00675	COG0652	O	Peptidyl-prolyl cis-trans isomerase (rotamase) - cyclophilin family	PpiB			4DGD
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_00680	COG1453	R	Predicted oxidoreductase of the aldo/keto reductase family				
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_00685	COG0082	E	Chorismate synthase	AroC	Aromatic amino acid biosynthesis		1Q1L
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_00690	COG4221	C	NADP-dependent 3-hydroxy acid dehydrogenase YdfG	YdfG	Pyrimidine degradation		3P19
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_00705	COG0404	E	Glycine cleavage system protein T (aminomethyltransferase)	GcvT	Glycine cleavage	25433025;25505271	2GAH
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_00715	COG1063	ER	Threonine dehydrogenase or related Zn-dependent dehydrogenase	Tdh	Non-phosphorylated Entner-Doudoroff pathway		4A2C
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_00725	COG0554	C	Glycerol kinase	GlpK			2ZF5
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_00735	COG0697	GER	Permease of the drug/metabolite transporter (DMT) superfamily	RhaT			5I20
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_00740	COG1360	N	Flagellar motor protein MotB	MotB			
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_00755	COG1612	H	Heme A synthase	CtaA			6A2J
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_00770	COG0459	O	Chaperonin GroEL (HSP60 family)	GroEL			1AON
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_00775	COG1957	F	Inosine-uridine nucleoside N-ribohydrolase	URH1	Pyrimidine salvage		1EZR
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_00785	COG0532	J	Translation initiation factor IF-2, a GTPase	InfB	Translation factors		5ME0
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_00835	COG3791	S	Uncharacterized conserved protein				1X6M
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_00845	COG0224	C	FoF1-type ATP synthase, gamma subunit	AtpG	FoF1-type ATP synthase	15326535	3OAA
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_00850	COG0055	C	FoF1-type ATP synthase, beta subunit	AtpD	FoF1-type ATP synthase		3OAA
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_00860	COG3686	S	Uncharacterized conserved protein, MAPEG superfamily				
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_00865	COG0697	GER	Permease of the drug/metabolite transporter (DMT) superfamily	RhaT			5I20
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_00885	COG1199	L	Rad3-related DNA helicase DinG	DinG			5H8W
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_00890	COG2835	J	RNA methyltransferase activator Trm112/YbaR	Trm112		27986851;30010922	2KPI
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_00900	COG0526	O	Thiol-disulfide isomerase or thioredoxin	TrxA			1XFL
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_00905	COG2606	J	Cys-tRNA(Pro) deacylase, prolyl-tRNA editing enzyme YbaK/EbsC	EbsC			1DBU
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_00910	COG0760	O	Peptidyl-prolyl isomerase, parvulin family	SurA			2ZR5
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_00930	COG0215	J	Cysteinyl-tRNA synthetase	CysS	Aminoacyl-tRNA synthetases		1LI5
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_00940	COG1466	L	DNA polymerase III, delta subunit	HolA			3ZH9
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_00945	COG0820	J	Adenine C2-methylase RlmN of 23S rRNA A2503 and tRNA A37	RlmN	23S rRNA modification		3RFA
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_00950	COG5342	R	Invasion protein IalB, involved in pathogenesis	IalB			3DTD
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_00960	COG0281	C	Malic enzyme	SfcA	Urea cycle		1DO8
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_00965	COG0249	L	DNA mismatch repair ATPase MutS	MutS			1E3M
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_00975	COG2244	M	Membrane protein involved in the export of O-antigen and teichoic acid	RfbX			
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_00985	COG0730	P	Sulfite exporter TauE/SafE/YfcA and related permeases, UPF0721 family	TauE		21183667;22797525	
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_00995	COG0589	T	Nucleotide-binding universal stress protein,  UspA family	UspA			1JMV
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_01005	COG2154	H	Pterin-4a-carbinolamine dehydratase	PhhB			1DCH
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_01010	COG0130	J	tRNA U55 pseudouridine synthase TruB, may also work on U342 of tmRNA	TruB	tRNA modification		1K8W
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_01015	COG0184	J	Ribosomal protein S15P/S13E	RpsO	Ribosome 30S subunit		4V4H
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_01020	COG1185	J	Polyribonucleotide nucleotidyltransferase (polynucleotide phosphorylase)	Pnp			1E3P
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_01025	COG4148	P	ABC-type molybdate transport system, ATPase component ModC	ModC	Molybdopterin biosynthesis		
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_01035	COG0460	E	Homoserine dehydrogenase	ThrA	Methionine biosynthesis	29124164	5AVO
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_01045	COG0673	R	Predicted dehydrogenase	MviM			3UUW
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_01050	COG3822	G	D-lyxose ketol-isomerase	YdaE			3MPB
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_01055	COG3509	G	Acetyl xylan esterase AxeA and related esterases, LpqC family	LpqC		9291122	2D80
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_01065	COG1453	R	Predicted oxidoreductase of the aldo/keto reductase family				
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_01070	COG4221	C	NADP-dependent 3-hydroxy acid dehydrogenase YdfG	YdfG	Pyrimidine degradation		3P19
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_01075	COG1028	I	NAD(P)-dependent dehydrogenase, short-chain alcohol dehydrogenase family	FabG	Fatty acid biosynthesis		6L1H
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_01080	COG0491	R	Glyoxylase or a related metal-dependent hydrolase, beta-lactamase superfamily II	GloB		25670698	1QH3
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_01085	COG1012	I	Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase	AdhE	Proline degradation		1A4S
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_01090	COG1414	K	DNA-binding transcriptional regulator, IclR family	IclR			1MKM
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_01095	COG0161	H	Adenosylmethionine-8-amino-7-oxononanoate aminotransferase	BioA	Biotin biosynthesis		1MLY
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_01100	COG2008	E	Threonine aldolase	GLY1			4LNJ
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_01110	COG0512	EH	Anthranilate/para-aminobenzoate synthase component II (glutamine amidotransferase)	PabA	Aromatic amino acid biosynthesis		1I1Q
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_01125	COG3968	E	Glutamine synthetase type III	GlnA3			
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_01130	COG1600	J	Epoxyqueuosine reductase QueG (queuosine biosynthesis)	QueG	tRNA modification	2150253	5D08
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_01135	COG0371	C	Glycerol dehydrogenase or related enzyme, iron-containing ADH family	GldA	Isoprenoid biosynthesis	20688982	3S99
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_01145	COG4101	R	Uncharacterized conserved protein, RmlC-like cupin domain	RmlC			
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_01155	COG1879	G	ABC-type sugar transport system, periplasmic component, contains N-terminal xre family HTH domain	RbsB			1BA2
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_01160	COG5485	R	Predicted ester cyclase				3EHC
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_01165	COG0141	E	Histidinol dehydrogenase	HisD	Histidine biosynthesis		1K75
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_01170	COG5485	R	Predicted ester cyclase				3EHC
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_01175	COG1177	E	ABC-type spermidine/putrescine transport system, permease component II	PotC			
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_01180	COG1178	P	ABC-type Fe3+ transport system, permease component	FbpB			
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_01185	COG1653	G	ABC-type glycerol-3-phosphate transport system, periplasmic component	UgpB			2Z8D
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_01190	COG1119	P	ABC-type molybdenum transport system, ATPase component ModF/photorepair protein PhrA	ModF			2IHY
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_01200	COG0739	M	Murein DD-endopeptidase MepM and murein hydrolase activator NlpD, contains LysM domain	NlpD			2GU1
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_01205	COG0146	EQ	N-methylhydantoinase B/oxoprolinase/acetone carboxylase, alpha subunit	HyuB			5L9W
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_01210	COG1012	I	Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase	AdhE	Proline degradation		1A4S
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_01225	COG0697	GER	Permease of the drug/metabolite transporter (DMT) superfamily	RhaT			5I20
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_01235	COG0436	E	Aspartate/methionine/tyrosine aminotransferase	AspB	Isoleucine, leucine, valine biosynthesis		2O0R
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_01240	COG0006	E	Xaa-Pro aminopeptidase	PepP			1A16
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_01245	COG2195	E	Di- or tripeptidase	PepD2			2QYV
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_01255	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_01260	COG1012	I	Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase	AdhE	Proline degradation		1A4S
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_01265	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_01270	COG0399	M	dTDP-4-amino-4,6-dideoxygalactose transaminase	WecE		15271350	4PIW
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_01275	COG1104	E	Cysteine desulfurase/Cysteine sulfinate desulfinase IscS or related enzyme, NifS family	NifS		22773787;25825430	4IXO
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_01280	COG0075	EF	Archaeal aspartate aminotransferase or a related aminotransferase, includes purine catabolism protein PucG	PucG	Serine biosynthesis		3NNK
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_01285	COG0174	E	Glutamine synthetase	GlnA	Glutamine biosynthesis		1F1H
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_01290	COG1304	CIR	FMN-dependent dehydrogenase, includes L-lactate dehydrogenase and type II isopentenyl diphosphate isomerase	LldD	Isoprenoid biosynthesis		6AI7
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_01295	COG2218	C	Formylmethanofuran dehydrogenase subunit C	FwdC			5T5I
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_01300	COG0034	F	Glutamine phosphoribosylpyrophosphate amidotransferase	PurF	Purine biosynthesis		1ECB
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_01305	COG0695	O	Glutaredoxin	GrxC			1AAZ
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_01320	COG5470	S	Uncharacterized conserved protein, DUF1330 family				
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_01325	COG1012	I	Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase	AdhE	Proline degradation		1A4S
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_01330	COG5285	Q	Ectoine hydroxylase-related dioxygenase, phytanoyl-CoA dioxygenase (PhyH) family	PhyH			2A1X
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_01335	COG1704	M	Magnetosome formation protein MamQ, lipoprotein antigen LemA family	LemA		14638756;20212111;26884433	2ETD
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_01350	COG0141	E	Histidinol dehydrogenase	HisD	Histidine biosynthesis		1K75
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_01355	COG0604	CR	NADPH:quinone reductase or related Zn-dependent oxidoreductase	Qor			2VCY
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_01365	COG1232	H	Protoporphyrinogen oxidase HemY/PPOX	HemY	Heme biosynthesis		3LOV
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_01370	COG0664	T	cAMP-binding domain of CRP or a regulatory subunit of cAMP-dependent protein kinases	Crp			1FT9
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_01380	COG2207	K	AraC-type DNA-binding domain and AraC-containing proteins	AraC			1BL0
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_01385	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_01390	COG4638	PR	Phenylpropionate dioxygenase or related ring-hydroxylating dioxygenase, large terminal subunit	HcaE			4QDC
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_01395	COG0300	R	Short-chain dehydrogenase	YqjQ			
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_01410	COG0623	I	Enoyl-[acyl-carrier-protein] reductase FabI	FabI	Fatty acid biosynthesis		1C14
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_01415	COG0287	E	Prephenate dehydrogenase	TyrA	Aromatic amino acid biosynthesis		2F1K
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_01425	COG0296	G	1,4-alpha-glucan branching enzyme	GlgB		25871919	4LPC
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_01430	COG1177	E	ABC-type spermidine/putrescine transport system, permease component II	PotC			
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_01435	COG1176	E	ABC-type spermidine/putrescine transport system, permease component I	PotB			
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_01440	COG2182	G	Maltose-binding periplasmic protein MalE	MalE			1T0K
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_01470	COG0128	E	5-enolpyruvylshikimate-3-phosphate synthase	AroA	Aromatic amino acid biosynthesis		4N3P
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_01475	COG1102	F	Cytidylate kinase	CmkB			
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_01480	COG2183	K	Transcriptional accessory protein Tex/SPT6	Tex			2OCE
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_01495	COG0373	H	Glutamyl-tRNA reductase	HemA	Heme biosynthesis		2XOE
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_01500	COG0109	HI	Polyprenyltransferase (heme O synthase)	CyoE			
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_01505	COG1385	J	16S rRNA U1498 N3-methylase RsmE	RsmE	16S rRNA modification		1NXZ
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_01510	COG2170	O	Gamma-glutamyl:cysteine ligase YbdK, ATP-grasp superfamily	YbdK		15211520	1R8G
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_01520	COG0326	O	Molecular chaperone, HSP90 family	HtpG		30150682	1Y4S
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_01525	COG4106	C	Trans-aconitate methyltransferase	Tam			2P35
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_01530	COG1040	R	DNA utilization protein ComFC/GntX, contains phosphoribosyltransferase domain	ComFC		28618091	
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_01535	COG0695	O	Glutaredoxin	GrxC			1AAZ
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_01545	COG4172	Q	ABC-type microcin C transport system, duplicated ATPase component YejF	YejF		17873039	
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_01575	COG4812	E	Ethanolamine utilization protein EutT, cobalamin adenosyltransferase	EutT			
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_01585	COG4290	F	Guanyl-specific ribonuclease Sa				1A2P
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_01595	COG1670	JO	Protein N-acetyltransferase, RimJ/RimL family	RimL			1S7F
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_01600	COG2301	G	Citrate lyase beta subunit	CitE			4ROQ
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_01605	COG1408	R	Predicted phosphohydrolase, MPP superfamily	YaeI			
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_01610	COG0297	G	Glycogen synthase	GlgA			1RZU
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_01620	COG2224	C	Isocitrate lyase	AceA	TCA cycle, glyoxylate bypass		1DQU
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_01625	COG1396	K	Transcriptional regulator, contains XRE-family HTH domain	HipB			1ADR
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_01630	COG0697	GER	Permease of the drug/metabolite transporter (DMT) superfamily	RhaT			5I20
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_01635	COG0730	P	Sulfite exporter TauE/SafE/YfcA and related permeases, UPF0721 family	TauE		21183667;22797525	
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_01650	COG0683	E	ABC-type branched-chain amino acid transport system, periplasmic component	LivK			1USG
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_01655	COG0821	I	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase IspG/GcpE	IspG	Isoprenoid biosynthesis		2Y0F
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_01660	COG0669	H	Phosphopantetheine adenylyltransferase	CoaD	Pantothenate/CoA biosynthesis		3F3M
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_01665	COG0143	J	Methionyl-tRNA synthetase	MetG	Aminoacyl-tRNA synthetases		1A8H
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_01680	COG1025	O	Secreted/periplasmic Zn-dependent peptidases, insulinase-like	Ptr			1Q2L
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_01685	COG1026	O	Zn-dependent peptidase, M16 (insulinase) family	Cym1			2FGE
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_01690	COG3741	E	N-formylglutamate amidohydrolase	HutG			
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_01700	COG3750	S	Uncharacterized conserved protein, UPF0335 family				6CFY
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_01710	COG0815	M	Apolipoprotein N-acyltransferase	Lnt			6NWR
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_01715	COG0156	H	7-keto-8-aminopelargonate synthetase or related enzyme	BioF	Biotin biosynthesis		1BS0
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_01725	COG0190	H	5,10-methylene-tetrahydrofolate dehydrogenase/Methenyl tetrahydrofolate cyclohydrolase	FolD			1A4I
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_01740	COG1012	I	Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase	AdhE	Proline degradation		1A4S
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_01745	COG0211	J	Ribosomal protein L27	RpmA	Ribosome 50S subunit		1VS6
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_01750	COG2931	Q	Ca2+-binding protein, RTX toxin-related			15135544	1AF0
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_01755	COG0042	J	tRNA-dihydrouridine synthase	DusA	tRNA modification		1VHN
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_01765	COG1670	JO	Protein N-acetyltransferase, RimJ/RimL family	RimL			1S7F
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_01775	COG0579	G	L-2-hydroxyglutarate oxidase LhgO	LhgO			3DME
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_01780	COG3931	E	Predicted N-formylglutamate amidohydrolase	HutG2			2ODF
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_01790	COG0044	F	Dihydroorotase or related cyclic amidohydrolase	AllB	Pyrimidine biosynthesis		1J79
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_01795	COG4598	E	ABC-type histidine transport system, ATPase component	HisP			1B0U
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_01800	COG4559	P	ABC-type hemin transport system, ATPase component				4G1U
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_01805	COG4177	E	ABC-type branched-chain amino acid transport system, permease component	LivM			
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_01810	COG0559	E	Branched-chain amino acid ABC-type transport system, permease component	LivH			
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_01820	COG0579	G	L-2-hydroxyglutarate oxidase LhgO	LhgO			3DME
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_01825	COG2335	R	Uncaracterized surface protein containing fasciclin (FAS1) repeats	FAS1			
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_01835	COG1131	V	ABC-type multidrug transport system, ATPase component	CcmA			5DO7
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_01840	COG2270	R	MFS-type transporter involved in bile tolerance, Atg22 family	BtlA		12583894	
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_01845	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_01850	COG0351	H	Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase	ThiD	Thiamine biosynthesis	17351295	1Y9X
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_01855	COG2009	C	Succinate dehydrogenase/fumarate reductase, cytochrome b subunit	SdhC		18511537	2WU2
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_01860	COG2142	C	Succinate dehydrogenase, hydrophobic anchor subunit	SdhD			2WS3
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_01865	COG1053	C	Succinate dehydrogenase/fumarate reductase, flavoprotein subunit	SdhA	TCA cycle		1KF6
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_01870	COG0247	C	Fe-S cluster-containing oxidoreductase, includes glycolate oxidase subunit GlcF	GlpC			
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_01890	COG0369	FP	Flavoprotein (flavin reductase) subunit CysJ of sulfite and N-hydroxylaminopurine reductases	CysJ	Cysteine biosynthesis	20118259	1YKG
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_01895	COG0607	P	Rhodanese-related sulfurtransferase	PspE	Urea cycle		1TQ1
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_01900	COG2221	P	Dissimilatory sulfite reductase (desulfoviridin), alpha and beta subunits	DsrA			
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_01910	COG0007	H	Uroporphyrinogen-III methylase (siroheme synthase)	CysG	Cobalamine/B12 biosynthesis		1PJQ
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_01925	COG1246	E	N-acetylglutamate synthase or related acetyltransferase, GNAT family	ArgA	Arginine biosynthesis		2R98
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_01930	COG1506	E	Dipeptidyl aminopeptidase/acylaminoacyl peptidase	DAP2			2JBW
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_01935	COG1902	C	2,4-dienoyl-CoA reductase or related NADH-dependent reductase, Old Yellow Enzyme (OYE) family	FadH			1BWK
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_01950	COG0596	HR	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold	MenH	Menaquinone biosynthesis		4MYS
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_01955	COG0312	R	Zn-dependent protease PmbA/TldA or its inactivated homolog	TldD		12029038	3TV9
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_01965	COG1570	L	Exonuclease VII, large subunit	XseA			
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_01970	COG0117	H	Riboflavin biosynthesis protein RibD, pyrimidine deaminase domain	RibD1	Riboflavin/FAD biosynthesis		2O7P
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_01975	COG0312	R	Zn-dependent protease PmbA/TldA or its inactivated homolog	TldD		12029038	3TV9
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_01980	COG1622	C	Heme/copper-type cytochrome/quinol oxidase, subunit 2	CyoA			1CYW
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_01985	COG0843	C	Heme/copper-type cytochrome/quinol oxidase, subunit 1	CyoB			1AR1
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_01990	COG0382	H	4-hydroxybenzoate polyprenyltransferase	UbiA	Ubiquinone biosynthesis	28830929	4OD4
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_02010	COG1845	C	Heme/copper-type cytochrome/quinol oxidase, subunit 3	CyoC			1QLE
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_02015	COG3346	O	Cytochrome oxidase assembly protein ShyY1	Shy1			
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_02025	COG0498	E	Threonine synthase	ThrC	Threonine biosynthesis		1VB3
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_02030	COG1025	O	Secreted/periplasmic Zn-dependent peptidases, insulinase-like	Ptr			1Q2L
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_02040	COG1678	K	Putative transcriptional regulator, AlgH/UPF0301 family	AlgH			2AJ2
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_02050	COG1225	O	Peroxiredoxin	Bcp			5IPH
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_02060	COG0328	L	Ribonuclease HI	RnhA			1LAW
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_02065	COG0761	I	4-Hydroxy-3-methylbut-2-enyl diphosphate reductase IspH	IspH	Isoprenoid biosynthesis		3DNF
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_02070	COG0606	O	Predicted Mg-chelatase, contains ChlI-like and ATPase domains, YifB family	YifB			
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_02075	COG0738	G	Fucose permease	FucP			3O7P
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_02080	COG0189	EHJQ	Glutathione synthase, LysX or RimK-type ligase, ATP-grasp superfamily	LysX	Lysine biosynthesis		1GLV
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_02090	COG0792	L	Predicted endonuclease distantly related to archaeal Holliday junction resolvase, YraN/UPF0102 family	YraN			3FOV
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_02095	COG1010	H	Precorrin-3B methylase	CobJ	Cobalamine/B12 biosynthesis		2ZVB
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_02100	COG1243	J	tRNA U34 5-carboxymethylaminomethylation enzyme Elp3 (RNA elongator complex protein 3), contains radical SAM and acetyltransferase domains	ELP3		25151136;27455459	6IA8
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_02105	COG0127	F	Inosine/xanthosine triphosphate pyrophosphatase, all-alpha NTP-PPase family	RdgB			1B78
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_02110	COG2123	U	Exosome complex RNA-binding protein Rrp42, RNase PH superfamily	Rrp42		23319881	4IFD
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_02120	COG1420	K	Transcriptional regulator of heat shock response	HrcA			1STZ
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_02125	COG0576	O	Molecular chaperone GrpE (heat shock protein HSP-70)	GrpE			1DKG
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_02130	COG0443	O	Molecular chaperone DnaK (HSP70)	DnaK			3I33
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_02135	COG2214	K	Curved DNA-binding protein CbpA, contains a DnaJ-like domain	CbpA			
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_02140	COG4539	I	2-hydroxy fatty acid dioxygenase MPO1 (alpha-oxidation of fatty acids)	MPO1		30530523	
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_02150	COG0002	E	N-acetyl-gamma-glutamylphosphate reductase	ArgC	Arginine biosynthesis		3DR3
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_02155	COG0473	CE	Isocitrate/isopropylmalate dehydrogenase	LeuB	TCA cycle		1GC9
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_02160	COG3807	S	SH3-like domain	SH3			
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_02180	COG0697	GER	Permease of the drug/metabolite transporter (DMT) superfamily	RhaT			5I20
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_02185	COG1012	I	Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase	AdhE	Proline degradation		1A4S
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_02195	COG1023	G	6-phosphogluconate dehydrogenase (decarboxylating)	YqeC			4E21
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_02210	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_02215	COG5454	S	Predicted secreted protein				
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_02220	COG0441	J	Threonyl-tRNA synthetase	ThrS	Aminoacyl-tRNA synthetases		1NYQ
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_02225	COG0577	V	ABC-type antimicrobial peptide transport system, permease component	SalY			
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_02230	COG0577	V	ABC-type antimicrobial peptide transport system, permease component	SalY			
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_02235	COG4172	Q	ABC-type microcin C transport system, duplicated ATPase component YejF	YejF		17873039	
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_02245	COG4223	S	Uncharacterized conserved protein				
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_02255	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_02265	COG0583	K	DNA-binding transcriptional regulator, LysR family	LysR			2FYI
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_02270	COG0535	DH	Radical SAM superfamily maturase, SkfB/NifB/PqqE family	SkfB		23282011	6Q2P
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_02275	COG0491	R	Glyoxylase or a related metal-dependent hydrolase, beta-lactamase superfamily II	GloB		25670698	1QH3
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_02285	COG0154	J	Asp-tRNAAsn/Glu-tRNAGln amidotransferase A subunit or related amidase	GatA	Aminoacyl-tRNA synthetases		3H0L
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_02290	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_02295	COG0288	P	Carbonic anhydrase	CynT		22081392	1EKJ
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_02300	COG3321	Q	Acyl transferase domain in polyketide synthase (PKS) enzymes	PksD			6IYO
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_02305	COG4123	J	tRNA1(Val) A37 N6-methylase TrmN6	TrmN6	tRNA modification		
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_02330	COG1105	G	1-phosphofructokinase or 6-phosphofructokinase II	FruK			2ABQ
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_02340	COG0642	T	Signal transduction histidine kinase	BaeS			1JOY
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_02345	COG4566	TK	DNA-binding response regulator, FixJ family, consists of REC and HTH domains	FixJ			1YIO
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_02360	COG0436	E	Aspartate/methionine/tyrosine aminotransferase	AspB	Isoleucine, leucine, valine biosynthesis		2O0R
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_02370	COG2226	H	Ubiquinone/menaquinone biosynthesis C-methylase UbiE/MenG	UbiE	Biotin biosynthesis		4OBW
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_02375	COG0749	L	DNA polymerase I, 3'-5' exonuclease and polymerase domains	PolA			1D8Y
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_02385	COG0787	M	Alanine racemase	Alr	Mureine biosynthesis		1BD0
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_02390	COG0767	M	Permease subunit MlaE of the ABC-type intermembrane phospholipid transporter Mla	MlaE			6IC4
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_02395	COG4674	R	ABC-type uncharacterized transport system, ATPase component			10686096	
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_02400	COG1066	L	DNA repair protein RadA/Sms, contains AAA+ ATPase domain	Sms		30877841	5LKM
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_02410	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_02415	COG0486	J	tRNA U34 5-carboxymethylaminomethyl modifying GTPase MnmE/TrmE	MnmE	tRNA modification		
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_02425	COG4649	S	TPR-like repeat domain	TPR1			
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_02435	COG3276	J	Selenocysteine-specific translation elongation factor SelB	SelB	Translation factors		4ZU9
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_02450	COG0653	U	Preprotein translocase subunit SecA (ATPase, RNA helicase)	SecA			2FSF
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_02455	COG0138	F	AICAR transformylase/IMP cyclohydrolase PurH	PurH	Purine biosynthesis		1G8M
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_02460	COG1092	J	23S rRNA G2069 N7-methylase RlmK or C1962 C5-methylase RlmI	RlmK	23S rRNA modification		2B78
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_02470	COG0533	J	tRNA A37 threonylcarbamoyltransferase TsaD	TsaD	tRNA modification	23072323;21285948;32385138	3ENO
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_02475	COG1587	H	Uroporphyrinogen-III synthase	HemD	Heme biosynthesis		1JR2
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_02485	COG3071	S	Uncharacterized protein HemY, contains HemY_N domain and TPR repeats (unrelated to protoporphyrinogen oxidase HemY)	HemYx			
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_02495	COG1225	O	Peroxiredoxin	Bcp			5IPH
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_02515	COG1070	G	Sugar (pentulose or hexulose) kinase	XylB	Non-phosphorylated Entner-Doudoroff pathway		4C23
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_02555	COG0346	Q	Catechol 2,3-dioxygenase or related enzyme, vicinal oxygen chelate (VOC) family	GloA		11830595	3R4Q
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_02560	COG3968	E	Glutamine synthetase type III	GlnA3			
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_02565	COG0579	G	L-2-hydroxyglutarate oxidase LhgO	LhgO			3DME
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_02570	COG1309	K	DNA-binding protein, AcrR family, includes nucleoid occlusion protein SlmA	AcrR			2QOP
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_02575	COG1231	E	Monoamine oxidase	YobN			1B37
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_02580	COG2081	R	Predicted flavoprotein YhiN	YhiN			3V76
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_02585	COG0354	O	Folate-binding protein YgfZ, synthesis and repair of Fe-S clusters	YgfZ		27941785;22081392	1NRK
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_02590	COG0161	H	Adenosylmethionine-8-amino-7-oxononanoate aminotransferase	BioA	Biotin biosynthesis		1MLY
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_02595	COG4143	H	ABC-type thiamine transport system, periplasmic component TbpA	TbpA			2QRY
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_02600	COG2226	H	Ubiquinone/menaquinone biosynthesis C-methylase UbiE/MenG	UbiE	Biotin biosynthesis		4OBW
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_02605	COG4638	PR	Phenylpropionate dioxygenase or related ring-hydroxylating dioxygenase, large terminal subunit	HcaE			4QDC
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_02610	COG4152	R	ABC-type uncharacterized transport system, ATPase component	YhaQ			
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_02615	COG1177	E	ABC-type spermidine/putrescine transport system, permease component II	PotC			
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_02625	COG1176	E	ABC-type spermidine/putrescine transport system, permease component I	PotB			
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_02640	COG4591	M	ABC-type transport system involved in lipoprotein release, permease component LolC	LolE			6F49
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_02645	COG0410	E	ABC-type branched-chain amino acid transport system, ATPase component LivF	LivF		26527648;32250026	1JI0
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_02665	COG0697	GER	Permease of the drug/metabolite transporter (DMT) superfamily	RhaT			5I20
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_02670	COG4638	PR	Phenylpropionate dioxygenase or related ring-hydroxylating dioxygenase, large terminal subunit	HcaE			4QDC
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_02675	COG0446	I	NADPH-dependent 2,4-dienoyl-CoA reductase, sulfur reductase, or a related oxidoreductase	FadH2			1VRQ
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_02685	COG2226	H	Ubiquinone/menaquinone biosynthesis C-methylase UbiE/MenG	UbiE	Biotin biosynthesis		4OBW
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_02695	COG4783	MO	Outer membrane protein chaperone/metalloprotease BepA/YfgC, contains M48 and TPR domains	BepA		24003122	6AIT
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_02710	COG0491	R	Glyoxylase or a related metal-dependent hydrolase, beta-lactamase superfamily II	GloB		25670698	1QH3
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_02730	COG1466	L	DNA polymerase III, delta subunit	HolA			3ZH9
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_02745	COG0105	F	Nucleoside diphosphate kinase	Ndk	Pyrimidine biosynthesis		1B4S
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_02750	COG4988	CO	ABC-type transport system involved in cytochrome bd biosynthesis, ATPase and permease components	CydD			
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_02755	COG2927	L	DNA polymerase III, chi subunit	HolC			1EM8
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_02760	COG1202	L	Superfamily II helicase, archaea-specific				
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_02770	COG0512	EH	Anthranilate/para-aminobenzoate synthase component II (glutamine amidotransferase)	PabA	Aromatic amino acid biosynthesis		1I1Q
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_02775	COG0010	E	Arginase/agmatinase family enzyme	SpeB	Urea cycle		1CEV
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_02785	COG0578	C	Glycerol-3-phosphate dehydrogenase	GlpA	Isoprenoid biosynthesis		2RGH
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_02790	COG0174	E	Glutamine synthetase	GlnA	Glutamine biosynthesis		1F1H
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_02795	COG0161	H	Adenosylmethionine-8-amino-7-oxononanoate aminotransferase	BioA	Biotin biosynthesis		1MLY
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_02820	COG0069	E	Glutamate synthase domain 2	GltB2	Glutamine biosynthesis		1EA0
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_02825	COG1022	I	Long-chain acyl-CoA synthetase (AMP-forming)	FAA1			
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_02830	COG0405	E	Gamma-glutamyltranspeptidase	Ggt		16618936	2Z8I
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_02870	COG3064	M	Membrane protein TolA involved in colicin uptake	TolA			1S62
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_02885	COG1056	H	Nicotinamide mononucleotide adenylyltransferase	NadR	NAD biosynthesis		1LW7
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_02890	COG1121	P	ABC-type Mn2+/Zn2+ transport system, ATPase component	ZnuC			
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_02910	COG3968	E	Glutamine synthetase type III	GlnA3			
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_02915	COG4929	S	Uncharacterized membrane-anchored protein				
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_02930	COG0187	L	DNA gyrase/topoisomerase IV, subunit B	GyrB			1EI1
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_02935	COG0596	HR	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold	MenH	Menaquinone biosynthesis		4MYS
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_02940	COG1201	L	Lhr-like helicase	Lhr			5V9X
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_02950	COG0772	D	Peptodoglycan polymerase FtsW/RodA/SpoVE	FtsW		30692671	6BAR
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_02955	COG0744	M	Penicillin-binding protein 1B/1F, peptidoglycan  transglycosylase/transpeptidase	MrcB			3FWL
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_02970	COG0849	D	Cell division ATPase FtsA	FtsA			3WT0
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_02980	COG2185	I	Methylmalonyl-CoA mutase, C-terminal domain/subunit (cobalamin-binding)	Sbm			1B1A
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_02985	COG0679	R	Predicted permease, AEC (auxin efflux carrier) family	YfdV			
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_02995	COG1778	MR	3-deoxy-D-manno-octulosonate 8-phosphate phosphatase KdsC and related HAD superfamily phosphatases	KdsC			3I6B
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_03000	COG0287	E	Prephenate dehydrogenase	TyrA	Aromatic amino acid biosynthesis		2F1K
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_03005	COG0075	EF	Archaeal aspartate aminotransferase or a related aminotransferase, includes purine catabolism protein PucG	PucG	Serine biosynthesis		3NNK
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_03015	COG0633	C	Ferredoxin	Fdx			1KRH
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_03020	COG0119	E	Isopropylmalate/homocitrate/citramalate synthases	LeuA	Isoleucine, leucine, valine biosynthesis		4JN6
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_03030	COG0059	EH	Ketol-acid reductoisomerase	IlvC	Isoleucine, leucine, valine biosynthesis		1NP3
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_03035	COG2716	E	Glycine cleavage system regulator GcvR	GcvR			1U8S
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_03040	COG0028	EH	Acetolactate synthase large subunit or other thiamine pyrophosphate-requiring enzyme	IlvB	Isoleucine, leucine, valine biosynthesis		1BFD
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_03045	COG2087	H	Adenosyl cobinamide kinase/adenosyl cobinamide phosphate guanylyltransferase	CobU	Cobalamine/B12 biosynthesis		1C9K
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_03050	COG0793	O	C-terminal processing protease CtpA/Prc, contains a PDZ domain	CtpA			6IQU
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_03060	COG5414
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_03065	COG0330	O	Regulator of protease activity HflC, stomatin/prohibitin superfamily	HflC			
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_03070	COG1266	O	Membrane protease YdiL, CAAX protease family	YdiL			
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_03075	COG1351	F	Thymidylate synthase ThyX, FAD-dependent family	ThyX	Thymidylate biosynthesis		1KQ4
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_03085	COG3814	O	SspB-like protein, predicted to bind SsrA peptide	SspB2			
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_03095	COG4321	R	Predicted DNA-binding protein, contains ribbon-helix-helix (RHH) domain				3KK4
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_03100	COG2982	M	Uncharacterized conserved protein AsmA involved in outer membrane biogenesis	AsmA			
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_03105	COG0777	I	Acetyl-CoA carboxylase beta subunit	AccD	Fatty acid biosynthesis		2F9I
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_03115	COG1011	H	FMN and 5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YigB, HAD superfamily (riboflavin biosynthesis)	YigB		24123841	4JB3
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_03120	COG1187	J	Pseudouridylate synthase RsuA, specific for 16S rRNA U516  and 23S rRNA U2605	RsuA	16S rRNA modification		1KSK
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_03125	COG0239	DP	Fluoride ion exporter CrcB/FEX, affects chromosome condensation	CrcB			5A40
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_03130	COG2812	L	DNA polymerase III, gamma/tau subunits	DnaX			1A5T
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_03140	COG0793	O	C-terminal processing protease CtpA/Prc, contains a PDZ domain	CtpA			6IQU
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_03150	COG0697	GER	Permease of the drug/metabolite transporter (DMT) superfamily	RhaT			5I20
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_03155	COG4619	P	ABC-type iron transporter FetAB, ATPase component	FetA			
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_03160	COG1079	F	ABC-type guanosine uptake system NupNOPQ, permease subunit NupQ	NupQ		21926227	
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_03165	COG4603	F	ABC-type guanosine uptake system NupNOPQ, permease component NupP	NupP		21926227	
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_03170	COG1744	T	Lipoprotein Med, regulator of KinD/Spo0A, PBP1-ABC superfamily, includes NupN	Med		21622736	2FQW
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_03175	COG0579	G	L-2-hydroxyglutarate oxidase LhgO	LhgO			3DME
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_03180	COG1647	Q	Esterase/lipase	YvaK			4DIU
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_03205	COG1934	M	Lipopolysaccharide export system protein LptA	LptA			2R19
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_03210	COG5598	H	Trimethylamine:corrinoid methyltransferase	MttB2			
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_03220	COG3324	R	Lactoylglutathione lyase-related enzyme, vicinal oxygen chelate (VOC) family	VOC		31710815	3OXH
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_03235	COG1924	I	Activator of 2-hydroxyglutaryl-CoA dehydratase (HSP70-class ATPase domain)	YjiL			1HUX
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_03255	COG0457	R	Tetratricopeptide (TPR) repeat	TPR			3AS4
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_03260	COG0359	J	Ribosomal protein L9	RplI	Ribosome 50S subunit	27112601	1VS6
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_03265	COG0238	J	Ribosomal protein S18	RpsR	Ribosome 30S subunit		4V4H
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_03275	COG0331	I	Malonyl CoA-acyl carrier protein transacylase	FabD	Fatty acid biosynthesis		1YXC
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_03280	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_03285	COG0236	I	Acyl carrier protein	AcpP	Fatty acid biosynthesis		1ACP
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_03290	COG0304	IQ	3-oxoacyl-(acyl-carrier-protein) synthase	FabB	Fatty acid biosynthesis	21652641	2UV8
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_03300	COG4221	C	NADP-dependent 3-hydroxy acid dehydrogenase YdfG	YdfG	Pyrimidine degradation		3P19
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_03310	COG3709	G	Ribose 1,5-bisphosphate kinase PhnN	PhnN			
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_03315	COG3963	I	Phosphatidylethanolamine N-methyltransferase				
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_03320	COG0760	O	Peptidyl-prolyl isomerase, parvulin family	SurA			2ZR5
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_03325	COG0625	O	Glutathione S-transferase	GstA			1A0F
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_03330	COG2303	IR	Choline dehydrogenase or related flavoprotein	BetA	Non-phosphorylated Entner-Doudoroff pathway		1B4V
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_03335	COG4167	V	ABC-type antimicrobial peptide export system, ATPase component SapF	SapF			
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_03355	COG0304	IQ	3-oxoacyl-(acyl-carrier-protein) synthase	FabB	Fatty acid biosynthesis	21652641	2UV8
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_03375	COG1062	C	Zn-dependent alcohol/formaldehyde dehydrogenase	FrmA			1A71
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_03380	COG1506	E	Dipeptidyl aminopeptidase/acylaminoacyl peptidase	DAP2			2JBW
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_03390	COG2873	E	O-acetylhomoserine/O-acetylserine sulfhydrylase, pyridoxal phosphate-dependent	MET17	Methionine biosynthesis		2CTZ
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_03395	COG3208	Q	Surfactin synthase thioesterase subunit	GrsT			6VAP
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_03400	COG0447	H	1,4-Dihydroxy-2-naphthoyl-CoA synthase	MenB	Menaquinone biosynthesis		4ELS
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_03405	COG0304	IQ	3-oxoacyl-(acyl-carrier-protein) synthase	FabB	Fatty acid biosynthesis	21652641	2UV8
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_03425	COG0596	HR	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold	MenH	Menaquinone biosynthesis		4MYS
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_03435	COG0730	P	Sulfite exporter TauE/SafE/YfcA and related permeases, UPF0721 family	TauE		21183667;22797525	
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_03440	COG0204	I	1-acyl-sn-glycerol-3-phosphate acyltransferase	PlsC	Phospholipid biosynthesis		1IUQ
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_03445	COG2816	F	NADH pyrophosphatase NudC, Nudix superfamily	NPY1			
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_03455	COG1366	T	Anti-anti-sigma regulatory factor (antagonist of anti-sigma factor)	SpoIIAA			1AUZ
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_03465	COG0102	J	Ribosomal protein L13	RplM	Ribosome 50S subunit		1VS6
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_03470	COG0103	J	Ribosomal protein S9	RpsI	Ribosome 30S subunit		4V4H
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_03480	COG5524	CT	Bacteriorhodopsin				
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_03485	COG0136	E	Aspartate-semialdehyde dehydrogenase	Asd	Lysine biosynthesis		1BRM
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_03490	COG1360	N	Flagellar motor protein MotB	MotB			
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_03495	COG1703	O	GTPase of the G3E family (not a periplasmic protein kinase)	ArgK		18950999	2QM7
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_03500	COG1192	DN	ParA-like ATPase involved in chromosome/plasmid partitioning or cellulose biosynthesis protein BcsQ	ParA			6NOO
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_03505	COG1396	K	Transcriptional regulator, contains XRE-family HTH domain	HipB			1ADR
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_03510	COG0498	E	Threonine synthase	ThrC	Threonine biosynthesis		1VB3
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_03520	COG0329	EM	4-hydroxy-tetrahydrodipicolinate synthase/N-acetylneuraminate lyase	DapA	Lysine biosynthesis	27574185	2R91
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_03525	COG0691	O	tmRNA-binding protein	SmpB		26251518	1J1H
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_03540	COG3147	D	Cell division protein DedD (periplasmic protein involved in septation)	DedD			
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_03545	COG3424	Q	Predicted naringenin-chalcone synthase	BH0617			1BI5
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_03550	COG1474	L	Cdc6-related protein, AAA superfamily ATPase	CDC6			1FNN
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_03560	COG1607	I	Acyl-CoA hydrolase	YciA			5DM5
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_03565	COG1951	C	Tartrate dehydratase alpha subunit/Fumarate hydratase class I, N-terminal domain	TtdA	TCA cycle	15613473	5L2R
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_03570	COG1879	G	ABC-type sugar transport system, periplasmic component, contains N-terminal xre family HTH domain	RbsB			1BA2
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_03580	COG1312	G	D-mannonate dehydratase	UxuA			1TZ9
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_03585	COG4213	G	ABC-type xylose transport system, periplasmic component	XylF			4YWH
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_03590	COG0673	R	Predicted dehydrogenase	MviM			3UUW
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_03595	COG0410	E	ABC-type branched-chain amino acid transport system, ATPase component LivF	LivF		26527648;32250026	1JI0
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_03600	COG4177	E	ABC-type branched-chain amino acid transport system, permease component	LivM			
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_03610	COG0673	R	Predicted dehydrogenase	MviM			3UUW
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_03615	COG1011	H	FMN and 5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YigB, HAD superfamily (riboflavin biosynthesis)	YigB		24123841	4JB3
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_03620	COG3917	Q	2-hydroxychromene-2-carboxylate isomerase	NahD			
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_03625	COG1349	KG	DNA-binding transcriptional regulator of sugar metabolism, DeoR/GlpR family	GlpR			
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_03630	COG1249	C	Dihydrolipoamide dehydrogenase (E3) component of pyruvate/2-oxoglutarate dehydrogenase complex or glutathione oxidoreductase	Lpd	Glycine cleavagePyruvate oxidation		6QKG
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_03640	COG2266	H	GTP:adenosylcobinamide-phosphate guanylyltransferase		Cobalamine/B12 biosynthesis	16895922	2MZB
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_03655	COG0468	L	RecA/RadA recombinase	RecA			1B22
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_03665	COG0483	G	Archaeal fructose-1,6-bisphosphatase or related enzyme, inositol monophosphatase family	SuhB	Gluconeogenesis		1AWB
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_03670	COG0697	GER	Permease of the drug/metabolite transporter (DMT) superfamily	RhaT			5I20
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_03675	COG0394	T	Protein-tyrosine-phosphatase	Wzb		26641313	4D74
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_03685	COG2243	H	Precorrin-2 methylase	CobF	Cobalamine/B12 biosynthesis		2QBU
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_03690	COG2241	H	Precorrin-6B methylase 1	CobL	Cobalamine/B12 biosynthesis		
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_03695	COG2241	H	Precorrin-6B methylase 1	CobL	Cobalamine/B12 biosynthesis		
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_03700	COG2241	H	Precorrin-6B methylase 1	CobL	Cobalamine/B12 biosynthesis		
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_03705	COG2082	H	Precorrin-8X methylmutase CbiC/CobH	CobH	Cobalamine/B12 biosynthesis		1F2V
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_03715	COG1270	H	Cobalamin biosynthesis protein CobD/CbiB	CbiB	Cobalamine/B12 biosynthesis		
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_03720	COG1797	H	Cobyrinic acid a,c-diamide synthase	CobB	Cobalamine/B12 biosynthesis		
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_03725	COG2109	H	ATP:corrinoid adenosyltransferase	BtuR	Cobalamine/B12 biosynthesis		4HUT
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_03735	COG0523	R	Zinc metallochaperone YeiR/ZagA and related GTPases, G3E family	YejR		19822009;31132310	1NIJ
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_03740	COG2087	H	Adenosyl cobinamide kinase/adenosyl cobinamide phosphate guanylyltransferase	CobU	Cobalamine/B12 biosynthesis		1C9K
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_03755	COG1903	H	Cobalamin biosynthesis protein CbiD (cobalt-precorrin-5B C-methyltransferase)	CbiD	Cobalamine/B12 biosynthesis		1SR8
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_03760	COG1010	H	Precorrin-3B methylase	CobJ	Cobalamine/B12 biosynthesis		2ZVB
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_03765	COG0857	R	BioD-like N-terminal domain of phosphotransacetylase	PtaN			2IOJ
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_03770	COG0579	G	L-2-hydroxyglutarate oxidase LhgO	LhgO			3DME
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_03775	COG0126	G	3-phosphoglycerate kinase	Pgk	Glycolysis		13PK
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_03780	COG2816	F	NADH pyrophosphatase NudC, Nudix superfamily	NPY1			
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_03785	COG0697	GER	Permease of the drug/metabolite transporter (DMT) superfamily	RhaT			5I20
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_03790	COG0526	O	Thiol-disulfide isomerase or thioredoxin	TrxA			1XFL
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_03795	COG1419	N	Flagellar biosynthesis GTPase FlhF	FlhF			3SYN
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_03800	COG1032	R	Radical SAM superfamily enzyme YgiQ, UPF0313 family	YgiQ			6FD2
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_03805	COG0253	E	Diaminopimelate epimerase	DapF	Lysine biosynthesis		1BWZ
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_03825	COG0057	G	Glyceraldehyde-3-phosphate dehydrogenase/erythrose-4-phosphate dehydrogenase	GapA	Glycolysis		3ZDF
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_03840	COG3842	E	ABC-type Fe3+/spermidine/putrescine transport systems, ATPase component	PotA			1Z47
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_03845	COG0469	G	Pyruvate kinase	PykF	Glycolysis		6QXL
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_03850	COG0257	J	Ribosomal protein L36	RpmJ	Ribosome 50S subunit	21627333	1DFE
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_03855	COG0457	R	Tetratricopeptide (TPR) repeat	TPR			3AS4
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_03860	COG1802	K	DNA-binding transcriptional regulator, GntR family	GntR			3FMS
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_03865	COG0617	J	tRNA nucleotidyltransferase/poly(A) polymerase	PcnB	tRNA modification		3WFR
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_03870	COG0494	V	8-oxo-dGTP pyrophosphatase MutT and related house-cleaning NTP pyrophosphohydrolases, NUDIX family	MutT			4V14
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_03895	COG2266	H	GTP:adenosylcobinamide-phosphate guanylyltransferase		Cobalamine/B12 biosynthesis	16895922	2MZB
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_03905	COG1249	C	Dihydrolipoamide dehydrogenase (E3) component of pyruvate/2-oxoglutarate dehydrogenase complex or glutathione oxidoreductase	Lpd	Glycine cleavagePyruvate oxidation		6QKG
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_03910	COG1349	KG	DNA-binding transcriptional regulator of sugar metabolism, DeoR/GlpR family	GlpR			
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_03915	COG0568	K	DNA-directed RNA polymerase, sigma subunit (sigma70/sigma32)	RpoD	RNA polymerase		1SIG
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_03920	COG0358	L	DNA primase (bacterial type)	DnaG		28128549	3B39
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_03925	COG2510	H	Riboflavin transporter RibN, EamA domain	RibN		23935051	
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_03935	COG0512	EH	Anthranilate/para-aminobenzoate synthase component II (glutamine amidotransferase)	PabA	Aromatic amino acid biosynthesis		1I1Q
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_03940	COG0439	I	Biotin carboxylase	AccC	Fatty acid biosynthesis		1BNC
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_03955	COG0435	C	Glutathionyl-hydroquinone reductase	ECM4			6GCA
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_03960	COG0111	H	Phosphoglycerate dehydrogenase or related dehydrogenase	SerA	Serine biosynthesis		3OET
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_03965	COG4148	P	ABC-type molybdate transport system, ATPase component ModC	ModC	Molybdopterin biosynthesis		
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_03970	COG4171	V	ABC-type antimicrobial peptide export system, permease component SapC	SapC			
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_03975	COG4168	V	ABC-type antimicrobial peptide export system, permease component SapB	SapB			
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_03990	COG1023	G	6-phosphogluconate dehydrogenase (decarboxylating)	YqeC			4E21
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_04000	COG1012	I	Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase	AdhE	Proline degradation		1A4S
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_04005	COG0697	GER	Permease of the drug/metabolite transporter (DMT) superfamily	RhaT			5I20
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_04035	COG0491	R	Glyoxylase or a related metal-dependent hydrolase, beta-lactamase superfamily II	GloB		25670698	1QH3
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_04040	COG1091	M	dTDP-4-dehydrorhamnose reductase	RfbD			1KBZ
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_04045	COG3425	I	3-hydroxy-3-methylglutaryl CoA synthase	PksG	Isoprenoid biosynthesis		1TVZ
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_04055	COG4666	R	TRAP-type uncharacterized transport system, fused permease components				
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_04065	COG4663	Q	TRAP-type mannitol/chloroaromatic compound transport system, periplasmic component	FcbT1			2HZK
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_04070	COG1042	C	Acyl-CoA synthetase (NDP forming)	PatZN		26251518	4YAK
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_04075	COG4221	C	NADP-dependent 3-hydroxy acid dehydrogenase YdfG	YdfG	Pyrimidine degradation		3P19
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_04080	COG0579	G	L-2-hydroxyglutarate oxidase LhgO	LhgO			3DME
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_04085	COG3916	T	N-acyl-homoserine lactone synthase LasI (autoinducer biosynthesis)	LasI			1K4J
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_04090	COG1846	K	DNA-binding transcriptional regulator, MarR family	MarR			1JGS
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_04095	COG3971	Q	2-keto-4-pentenoate hydratase	MhpD			1SV6
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_04100	COG0179	Q	2-keto-4-pentenoate hydratase/2-oxohepta-3-ene-1,7-dioic acid hydratase (catechol pathway)	YcgM			1GTT
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_04105	COG0346	Q	Catechol 2,3-dioxygenase or related enzyme, vicinal oxygen chelate (VOC) family	GloA		11830595	3R4Q
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_04110	COG1012	I	Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase	AdhE	Proline degradation		1A4S
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_04120	COG1233	Q	Phytoene dehydrogenase-related protein				4REP
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_04125	COG1846	K	DNA-binding transcriptional regulator, MarR family	MarR			1JGS
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_04135	COG4666	R	TRAP-type uncharacterized transport system, fused permease components				
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_04140	COG4663	Q	TRAP-type mannitol/chloroaromatic compound transport system, periplasmic component	FcbT1			2HZK
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_04145	COG0790	R	TPR repeat	TPR			1KLX
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_04160	COG1814	P	Predicted Fe2+/Mn2+ transporter, VIT1/CCC1 family	Ccc1			6IU3
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_04175	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_04200	COG1168	ER	Bifunctional PLP-dependent enzyme with beta-cystathionase and maltose regulon repressor activities	MalY			4DGT
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_04205	COG0006	E	Xaa-Pro aminopeptidase	PepP			1A16
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_04210	COG1541	H	Phenylacetate-coenzyme A ligase PaaK, adenylate-forming domain family	PaaK			2Y4O
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_04220	COG0744	M	Penicillin-binding protein 1B/1F, peptidoglycan  transglycosylase/transpeptidase	MrcB			3FWL
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_04225	COG1670	JO	Protein N-acetyltransferase, RimJ/RimL family	RimL			1S7F
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_04235	COG3970	R	Fumarylacetoacetate (FAA) hydrolase family protein				2Q18
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_04240	COG2100	R	Uncharacterized Fe-S cluster-containing enzyme, radical SAM superfamily				
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_04250	COG1309	K	DNA-binding protein, AcrR family, includes nucleoid occlusion protein SlmA	AcrR			2QOP
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_04255	COG0790	R	TPR repeat	TPR			1KLX
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_04260	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_04270	COG0280	C	Phosphotransacetylase (includes Pta, EutD and phosphobutyryltransferase)	Pta		28754323	1QZT
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_04275	COG1741	R	Redox-sensitive bicupin YhaK, pirin superfamily	YhaK		18561187	1J1L
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_04280	COG1342	R	Predicted DNA-binding protein, UPF0251 family				
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_04290	COG3321	Q	Acyl transferase domain in polyketide synthase (PKS) enzymes	PksD			6IYO
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_04295	COG5271	J	Midasin, AAA ATPase with  vWA domain, involved in ribosome maturation	MDN1			6HYP
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_04305	COG3485	Q	Protocatechuate 3,4-dioxygenase beta subunit	PcaH			1DLM
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_04310	COG2057	I	Acyl-CoA:acetate/3-ketoacid CoA transferase, beta subunit	AtoA			5DBN
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_04315	COG1788	I	Acyl CoA:acetate/3-ketoacid CoA transferase, alpha subunit	AtoD			1K6D
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_04325	COG1312	G	D-mannonate dehydratase	UxuA			1TZ9
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_04330	COG1940	GK	Sugar kinase of the NBD/HSP70 family, may contain an N-terminal HTH domain	NagC			1WOQ
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_04350	COG1228	Q	Imidazolonepropionase or related amidohydrolase	HutI			3OOQ
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_04355	COG0794	GM	D-arabinose 5-phosphate isomerase GutQ	GutQ			5UQI
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_04360	COG2186	K	DNA-binding transcriptional regulator, FadR family	FadR			1E2X
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_04365	COG0794	GM	D-arabinose 5-phosphate isomerase GutQ	GutQ			5UQI
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_04370	COG0555	P	ABC-type sulfate transport system, permease component	CysU			3D31
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_04375	COG1173	EP	ABC-type dipeptide/oligopeptide/nickel transport system, permease component	DppC			
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_04380	COG4533	K	DNA-binding transcriptional regulator SgrR of sgrS sRNA, contains a MarR-type HTH domain and a periplasmic-type solute-binding domain	SgrR			
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_04385	COG1119	P	ABC-type molybdenum transport system, ATPase component ModF/photorepair protein PhrA	ModF			2IHY
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_04390	COG4586	R	ABC-type uncharacterized transport system, ATPase component				
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_04400	COG2377	M	1,6-Anhydro-N-acetylmuramate kinase	AnmK		15901686	3CQY
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_04405	COG2227	H	2-polyprenyl-3-methyl-5-hydroxy-6-metoxy-1,4-benzoquinol methylase	UbiG	Ubiquinone biosynthesis		1BHJ
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_04415	COG0640	K	DNA-binding transcriptional regulator, ArsR family	ArsR			3F6V
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_04420	COG0701	S	Uncharacterized membrane protein YraQ, UPF0718 family	YraQ			
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_04455	COG3152	S	Uncharacterized membrane protein YhaH, DUF805 family	yhaH			
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_04460	COG0300	R	Short-chain dehydrogenase	YqjQ			
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_04470	COG0790	R	TPR repeat	TPR			1KLX
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_04475	COG0659	P	Sulfate permease or related transporter, MFS superfamily	SUL1			3NY7
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_04480	COG0589	T	Nucleotide-binding universal stress protein,  UspA family	UspA			1JMV
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_04505	COG0446	I	NADPH-dependent 2,4-dienoyl-CoA reductase, sulfur reductase, or a related oxidoreductase	FadH2			1VRQ
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_04515	COG0346	Q	Catechol 2,3-dioxygenase or related enzyme, vicinal oxygen chelate (VOC) family	GloA		11830595	3R4Q
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_04520	COG0179	Q	2-keto-4-pentenoate hydratase/2-oxohepta-3-ene-1,7-dioic acid hydratase (catechol pathway)	YcgM			1GTT
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_04530	COG1600	J	Epoxyqueuosine reductase QueG (queuosine biosynthesis)	QueG	tRNA modification	2150253	5D08
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_04535	COG1028	I	NAD(P)-dependent dehydrogenase, short-chain alcohol dehydrogenase family	FabG	Fatty acid biosynthesis		6L1H
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_04540	COG0697	GER	Permease of the drug/metabolite transporter (DMT) superfamily	RhaT			5I20
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_04545	COG3450	R	Predicted enzyme of the cupin superfamily				1LKN
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_04550	COG0623	I	Enoyl-[acyl-carrier-protein] reductase FabI	FabI	Fatty acid biosynthesis		1C14
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_04560	COG1448	E	Aspartate/aromatic aminotransferase	TyrB	Isoleucine, leucine, valine biosynthesis		1AAM
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_04570	COG0378	O	Hydrogenase/urease maturation factor HypB, Ni2+-binding GTPase	HypB		24338018;23899293	2HF8
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_04575	COG0499	H	S-adenosylhomocysteine hydrolase	SAM1			1A7A
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_04585	COG1841	J	Ribosomal protein L30/L7E	RpmD	Ribosome 50S subunit		1VS6
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_04590	COG0098	J	Ribosomal protein S5	RpsE	Ribosome 30S subunit		4V4H
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_04600	COG0097	J	Ribosomal protein L6P/L9E	RplF	Ribosome 50S subunit		1VS6
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_04605	COG0096	J	Ribosomal protein S8	RpsH	Ribosome 30S subunit		4V4H
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_04610	COG0199	J	Ribosomal protein S14	RpsN	Ribosome 30S subunit		4V4H
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_04615	COG0094	J	Ribosomal protein L5	RplE	Ribosome 50S subunit		1VS6
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_04625	COG0093	J	Ribosomal protein L14	RplN	Ribosome 50S subunit		4V4H
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_04630	COG0616	O	Periplasmic serine protease, ClpP class	SppA			3BEZ
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_04635	COG0494	V	8-oxo-dGTP pyrophosphatase MutT and related house-cleaning NTP pyrophosphohydrolases, NUDIX family	MutT			4V14
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_04640	COG0321	H	Lipoate-protein ligase B	LipB	Lipoate biosynthesis	19798051	2QHT
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_04650	COG1824	P	Permease, similar to cation transporters	MgtE2			
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_04655	COG2761	O	Predicted dithiol-disulfide isomerase, DsbA/YjbH family (virulence, stress resistance)	FrnE			6GHB
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_04660	COG0209	F	Ribonucleotide reductase alpha subunit	NrdA	Pyrimidine salvage		1R1R
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_04675	COG1463	M	Periplasmic subunit MlaD of the ABC-type intermembrane phospholipid transporter Mla	MlaD			5UW8
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_04680	COG1506	E	Dipeptidyl aminopeptidase/acylaminoacyl peptidase	DAP2			2JBW
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_04685	COG0162	J	Tyrosyl-tRNA synthetase	TyrS	Aminoacyl-tRNA synthetases		4OUD
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_04690	COG4770	I	Acetyl/propionyl-CoA carboxylase, alpha subunit	PccA			3U9S
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_04695	COG1076	O	DnaJ domain-containing protein	DjlA		15489435;11106641	
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_04705	COG0275	J	16S rRNA C1402 N4-methylase RsmH	RmsH	16S rRNA modification		1M6Y
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_04715	COG5009	M	Membrane carboxypeptidase/penicillin-binding protein	MrcA			3D0F
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_04720	COG0770	M	UDP-N-acetylmuramyl pentapeptide synthase	MurF	Mureine biosynthesis		4CVK
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_04725	COG0769	M	UDP-N-acetylmuramyl tripeptide synthase	MurE	Mureine biosynthesis		1E8C
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_04730	COG0472	M	UDP-N-acetylmuramyl pentapeptide phosphotransferase/UDP-N-acetylglucosamine-1-phosphate transferase	Rfe	Mureine biosynthesis		4J72
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_04735	COG0769	M	UDP-N-acetylmuramyl tripeptide synthase	MurE	Mureine biosynthesis		1E8C
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_04740	COG0772	D	Peptodoglycan polymerase FtsW/RodA/SpoVE	FtsW		30692671	6BAR
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_04745	COG1819	G	UDP:flavonoid glycosyltransferase YjiC, YdhE family	YjiC		23974133	2ACV
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_04750	COG0769	M	UDP-N-acetylmuramyl tripeptide synthase	MurE	Mureine biosynthesis		1E8C
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_04755	COG0812	M	UDP-N-acetylenolpyruvoylglucosamine reductase	MurB	Mureine biosynthesis		2MBR
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_04760	COG0458	EF	Carbamoylphosphate synthase large subunit	CarB	Arginine biosynthesis		1C30
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_04765	COG1589	D	Cell division septal protein FtsQ	FtsQ			1YR1
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_04770	COG4972	NW	Type IV pilus assembly protein, ATPase PilM	PilM			2YCH
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_04775	COG0206	D	Cell division GTPase FtsZ	FtsZ			1FSZ
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_04785	COG1729	D	Cell division protein CpoB, coordinates peptidoglycan biosynthesis and outer membrane constriction	CpoB		25951518	2WZ7
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_04790	COG0497	L	DNA repair ATPase RecN	RecN			4AD8
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_04795	COG0272	L	NAD-dependent DNA ligase	Lig			5TT5
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_04800	COG1012	I	Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase	AdhE	Proline degradation		1A4S
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_04805	COG1653	G	ABC-type glycerol-3-phosphate transport system, periplasmic component	UgpB			2Z8D
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_04810	COG3833	G	ABC-type maltose transport system, permease component MalG	MalG			2R6G
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_04815	COG4209	G	ABC-type polysaccharide transport system, permease component	LplB			4TQU
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_04820	COG3568	R	Metal-dependent hydrolase, endonuclease/exonuclease/phosphatase family	ElsH		15178340	
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_04825	COG5001	T	Cyclic di-GMP metabolism protein, combines GGDEF and EAL domains with a 6TM membrane domain				
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_04830	COG1228	Q	Imidazolonepropionase or related amidohydrolase	HutI			3OOQ
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_04845	COG2230	I	Cyclopropane fatty-acyl-phospholipid synthase and related methyltransferases	Cfa			5Z9O
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_04855	COG0697	GER	Permease of the drug/metabolite transporter (DMT) superfamily	RhaT			5I20
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_04865	COG5285	Q	Ectoine hydroxylase-related dioxygenase, phytanoyl-CoA dioxygenase (PhyH) family	PhyH			2A1X
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_04870	COG1268	H	Biotin transporter BioY	BioY			4DVE
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_04875	COG2884	D	Cell division ATPase FtsE	FtsE			
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_04880	COG4239	Q	ABC-type microcin C transport system, permease component YejE	YejE			
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_04885	COG1173	EP	ABC-type dipeptide/oligopeptide/nickel transport system, permease component	DppC			
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_04890	COG4166	E	ABC-type oligopeptide transport system, periplasmic component	OppA			1B05
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_04895	COG1535	Q	Isochorismate hydrolase	EntB1			3TB4
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_04905	COG1249	C	Dihydrolipoamide dehydrogenase (E3) component of pyruvate/2-oxoglutarate dehydrogenase complex or glutathione oxidoreductase	Lpd	Glycine cleavagePyruvate oxidation		6QKG
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_04910	COG1979	C	Alcohol dehydrogenase YqhD, Fe-dependent ADH family	YqdH			1OJ7
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_04915	COG1012	I	Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase	AdhE	Proline degradation		1A4S
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_04925	COG1003	E	Glycine cleavage system protein P (pyridoxal-binding), C-terminal domain	GcvP2	Glycine cleavage		4LGL
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_04930	COG0509	E	Glycine cleavage system protein H (lipoate-binding)	GcvH	Glycine cleavage		1DXM
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_04935	COG0354	O	Folate-binding protein YgfZ, synthesis and repair of Fe-S clusters	YgfZ		27941785;22081392	1NRK
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_04940	COG0625	O	Glutathione S-transferase	GstA			1A0F
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_04950	COG0596	HR	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold	MenH	Menaquinone biosynthesis		4MYS
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_04955	COG2186	K	DNA-binding transcriptional regulator, FadR family	FadR			1E2X
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_04965	COG1638	G	TRAP-type C4-dicarboxylate transport system, periplasmic component	DctP			2CEX
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_04985	COG4177	E	ABC-type branched-chain amino acid transport system, permease component	LivM			
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_04990	COG0559	E	Branched-chain amino acid ABC-type transport system, permease component	LivH			
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_04995	COG0444	EP	ABC-type dipeptide/oligopeptide/nickel transport system, ATPase component	DppD			4FWI
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_05000	COG1132	V	ABC-type multidrug transport system, ATPase and permease component	MdlB			2HYD
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_05005	COG1012	I	Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase	AdhE	Proline degradation		1A4S
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_05010	COG4942	D	Septal ring factor EnvC, activator of murein hydrolases AmiA and AmiB	EnvC			
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_05015	COG1143	C	Formate hydrogenlyase subunit 6/NADH:ubiquinone oxidoreductase 23 kD subunit (chain I)	NuoI	NADH dehydrogenase		1B0P
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_05020	COG0491	R	Glyoxylase or a related metal-dependent hydrolase, beta-lactamase superfamily II	GloB		25670698	1QH3
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_05030	COG2005	K	DNA-binding transcriptional regulator ModE (molybdenum-dependent)	ModE		19779461	1B9M
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_05035	COG5016	C	Pyruvate/oxaloacetate carboxyltransferase	OadA1	Urea cycle	18681940	2NX9
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_05040	COG1237	R	Metal-dependent hydrolase, beta-lactamase superfamily II				2P4Z
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_05045	COG0415	L	Deoxyribodipyrimidine photolyase	PhrB			1TEZ
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_05070	COG1905	C	NADH:ubiquinone oxidoreductase 24 kD subunit (chain E)	NuoE	NADH dehydrogenase		5XF9
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_05075	COG3383	R	Predicted molibdopterin-dependent oxidoreductase YjgC	YjgC			1AA6
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_05080	COG2759	F	Formyltetrahydrofolate synthetase	MIS1			1EG7
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_05085	COG1012	I	Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase	AdhE	Proline degradation		1A4S
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_05090	COG1207	M	Bifunctional protein GlmU, N-acetylglucosamine-1-phosphate-uridyltransferase/glucosamine-1-phosphate-acetyltransferase	GlmU			3FWW
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_05095	COG0166	G	Glucose-6-phosphate isomerase	Pgi	Glycolysis		1B0Z
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_05100	COG1012	I	Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase	AdhE	Proline degradation		1A4S
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_05110	COG0075	EF	Archaeal aspartate aminotransferase or a related aminotransferase, includes purine catabolism protein PucG	PucG	Serine biosynthesis		3NNK
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_05115	COG2303	IR	Choline dehydrogenase or related flavoprotein	BetA	Non-phosphorylated Entner-Doudoroff pathway		1B4V
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_05125	COG1668	CP	ABC-type Na+ efflux pump, permease component NatB	NatB			
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_05130	COG1178	P	ABC-type Fe3+ transport system, permease component	FbpB			
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_05135	COG3833	G	ABC-type maltose transport system, permease component MalG	MalG			2R6G
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_05140	COG2182	G	Maltose-binding periplasmic protein MalE	MalE			1T0K
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_05145	COG4148	P	ABC-type molybdate transport system, ATPase component ModC	ModC	Molybdopterin biosynthesis		
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_05155	COG2048	C	Heterodisulfide reductase, subunit B	HdrB			5ODC
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_05165	COG0812	M	UDP-N-acetylenolpyruvoylglucosamine reductase	MurB	Mureine biosynthesis		2MBR
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_05170	COG2188	K	DNA-binding transcriptional regulator, GntR family	MngR			2WV0
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_05175	COG2814	G	Predicted arabinose efflux permease AraJ, MFS family	AraJ			4LDS
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_05180	COG2301	G	Citrate lyase beta subunit	CitE			4ROQ
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_05185	COG0686	E	Alanine dehydrogenase (includes sporulation protein SpoVN)	Ald	Urea cycle		2EEZ
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_05200	COG1004	M	UDP-glucose 6-dehydrogenase	Ugd			1DLI
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_05205	COG0667	HR	Pyridoxal reductase PdxI or related oxidoreductase, aldo/keto reductase family	PdxI		32253339	1LQA
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_05210	COG3173	R	Predicted  kinase, aminoglycoside phosphotransferase (APT) family	YcbJ			
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_05215	COG0673	R	Predicted dehydrogenase	MviM			3UUW
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_05220	COG0555	P	ABC-type sulfate transport system, permease component	CysU			3D31
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_05225	COG0673	R	Predicted dehydrogenase	MviM			3UUW
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_05235	COG0118	E	Imidazoleglycerol phosphate synthase glutamine amidotransferase subunit HisH	HisH	Histidine biosynthesis		1OX4
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_05250	COG0799	J	Ribosomal silencing factor RsfS, regulates association of 30S and 50S subunits	RsfS			6SJ6
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_05260	COG0696	G	Phosphoglycerate mutase (BPG-independent), AlkP superfamily	GpmI	Glycolysis		1EJJ
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_05265	COG4942	D	Septal ring factor EnvC, activator of murein hydrolases AmiA and AmiB	EnvC			
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_05270	COG0265	O	Periplasmic serine protease, S1-C subfamily, contain C-terminal PDZ domain	DegQ		29686141	2HGA
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_05275	COG0494	V	8-oxo-dGTP pyrophosphatase MutT and related house-cleaning NTP pyrophosphohydrolases, NUDIX family	MutT			4V14
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_05290	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_05295	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_05320	COG2176	L	DNA polymerase III, alpha subunit (gram-positive type)	PolC			
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_05330	COG4544	S	Uncharacterized conserved protein				
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_05335	COG1396	K	Transcriptional regulator, contains XRE-family HTH domain	HipB			1ADR
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_05365	COG1290	C	Cytochrome b subunit of the bc complex	QcrB/PetB			1VF5
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_05390	COG0536	DL	GTPase involved in cell partioning and DNA repair	Obg			1LNZ
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_05395	COG0193	J	Peptidyl-tRNA hydrolase	Pth	Translation factors	11835511	1RYB
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_05400	COG1825	J	Ribosomal protein L25 (general stress protein Ctc)	RplY	Ribosome 50S subunit		1B75
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_05405	COG0462	F	Phosphoribosylpyrophosphate synthetase	PrsA	Histidine biosynthesis, Purine biosynthesis		1DKR
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_05410	COG1496	P	Copper oxidase (laccase) domain	YfiH			1RV9
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_05420	COG0682	M	Prolipoprotein diacylglyceryltransferase	Lgt			5AZB
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_05435	COG0345	E	Pyrroline-5-carboxylate reductase	ProC	Proline biosynthesis	22125496;26507882	3GT0
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_05440	COG0344	I	Phospholipid biosynthesis protein PlsY, probable glycerol-3-phosphate acyltransferase	PlsY		29684280	5XJ5
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_05445	COG0073	J	tRNA-binding EMAP/Myf domain	EMAP			1MKH
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_05450	COG0229	O	Peptide methionine sulfoxide reductase MsrB	MsrB			1L1D
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_05455	COG1670	JO	Protein N-acetyltransferase, RimJ/RimL family	RimL			1S7F
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_05465	COG0513	L	Superfamily II DNA and RNA helicase	SrmB			3RRM
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_05470	COG0530	P	Ca2+/Na+ antiporter	ECM27			3V5S
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_05475	COG0300	R	Short-chain dehydrogenase	YqjQ			
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_05485	COG0322	L	Excinuclease UvrABC, nuclease subunit	UvrC		24513124	2NRT
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_05490	COG0558	I	Phosphatidylglycerophosphate synthase	PgsA	Phospholipid biosynthesis		4MND
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_05500	COG1846	K	DNA-binding transcriptional regulator, MarR family	MarR			1JGS
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_05505	COG0399	M	dTDP-4-amino-4,6-dideoxygalactose transaminase	WecE		15271350	4PIW
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_05510	COG1638	G	TRAP-type C4-dicarboxylate transport system, periplasmic component	DctP			2CEX
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_05515	COG0063	F	NAD(P)H-hydrate repair enzyme Nnr, NAD(P)H-hydrate dehydratase domain	Nnr2			1KYH
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_05520	COG0134	E	Indole-3-glycerol phosphate synthase	TrpC	Aromatic amino acid biosynthesis		6BMA
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_05530	COG1246	E	N-acetylglutamate synthase or related acetyltransferase, GNAT family	ArgA	Arginine biosynthesis		2R98
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_05535	COG1023	G	6-phosphogluconate dehydrogenase (decarboxylating)	YqeC			4E21
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_05545	COG2137	O	SOS response regulatory protein OraA/RecX, interacts with RecA	RecX			3C1D
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_05550	COG4992	E	Acetylornithine/succinyldiaminopimelate/putrescine aminotransferase	ArgD	Arginine biosynthesis		2E54
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_05555	COG0078	E	Ornithine carbamoyltransferase	ArgF	Arginine biosynthesis		1A1S
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_05560	COG1281	O	Redox-regulated molecular chaperone, HSP33 family	HslO			1HW7
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_05565	COG0168	P	Trk-type K+ transport system, membrane component	TrkG			3PJZ
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_05570	COG0302	H	GTP cyclohydrolase I	FolE	Folate biosynthesis	19767425;30692671	1A8R
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_05575	COG4191	T	Signal transduction histidine kinase regulating C4-dicarboxylate transport system				4GCZ
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_05585	COG1044	M	UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase	LpxD	Lipid A biosynthesis		6P83
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_05590	COG1473	R	Metal-dependent amidase/aminoacylase/carboxypeptidase	AbgB	Lysine biosynthesis	17307853	3RAM
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_05595	COG0101	J	tRNA U38,U39,U40 pseudouridine synthase TruA	TruA	tRNA modification		1DJ0
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_05600	COG0299	F	Folate-dependent phosphoribosylglycinamide formyltransferase PurN	PurN	Purine biosynthesis	25013077	1C2T
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_05610	COG0242	J	Peptide deformylase	Def			1BS4
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_05615	COG2268	S	Uncharacterized membrane protein YqiK, contains Band7/PHB/SPFH domain	YqiK			1WIN
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_05620	COG1585	O	Membrane protein implicated in regulation of membrane protease activity	YbbJ			2EXD
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_05625	COG0353	L	Recombinational DNA repair protein RecR	RecR		26337406	2JGR
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_05635	COG0470	L	DNA polymerase III, delta prime subunit	HolB			1A5T
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_05645	COG0494	V	8-oxo-dGTP pyrophosphatase MutT and related house-cleaning NTP pyrophosphohydrolases, NUDIX family	MutT			4V14
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_05650	COG0077	E	Prephenate dehydratase	PheA2	Aromatic amino acid biosynthesis		1PHZ
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_05660	COG4166	E	ABC-type oligopeptide transport system, periplasmic component	OppA			1B05
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_05665	COG4168	V	ABC-type antimicrobial peptide export system, permease component SapB	SapB			
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_05675	COG1011	H	FMN and 5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YigB, HAD superfamily (riboflavin biosynthesis)	YigB		24123841	4JB3
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_05695	COG1721	S	Uncharacterized conserved protein, DUF58 family, contains vWF domain	YeaD2			
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_05700	COG5271	J	Midasin, AAA ATPase with  vWA domain, involved in ribosome maturation	MDN1			6HYP
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_05705	COG0457	R	Tetratricopeptide (TPR) repeat	TPR			3AS4
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_05710	COG1977	H	Molybdopterin synthase sulfur carrier subunit MoaD	MoaD	Molybdopterin biosynthesis	32239579	1FM0
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_05715	COG0744	M	Penicillin-binding protein 1B/1F, peptidoglycan  transglycosylase/transpeptidase	MrcB			3FWL
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_05720	COG0860	M	N-acetylmuramoyl-L-alanine amidase	AmiC			1JWQ
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_05725	COG1530	J	Ribonuclease G or E	CafA			1SLJ
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_05730	COG1186	J	Protein chain release factor PrfB	PrfB	Translation factors		1GQE
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_05735	COG3453	R	Predicted phosphohydrolase, protein tyrosine phosphatase (PTP) superfamily, DUF442 family				2F46
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_05740	COG3562	M	Capsule polysaccharide modification protein KpsS	KpsS			
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_05750	COG4249	R	Uncharacterized conserved protein, contains caspase domain				3UO8
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_05755	COG2258	FV	N-hydroxylaminopurine reductase YiiM, contains MOSC domain	YiiM		18312271;29459651	1O65
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_05760	COG2931	Q	Ca2+-binding protein, RTX toxin-related			15135544	1AF0
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_05765	COG0596	HR	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold	MenH	Menaquinone biosynthesis		4MYS
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_05770	COG2814	G	Predicted arabinose efflux permease AraJ, MFS family	AraJ			4LDS
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_05775	COG0371	C	Glycerol dehydrogenase or related enzyme, iron-containing ADH family	GldA	Isoprenoid biosynthesis	20688982	3S99
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_05780	COG0154	J	Asp-tRNAAsn/Glu-tRNAGln amidotransferase A subunit or related amidase	GatA	Aminoacyl-tRNA synthetases		3H0L
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_05785	COG0600	P	ABC-type nitrate/sulfonate/bicarbonate transport system, permease component	TauC			
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_05790	COG1732	M	Periplasmic glycine betaine/choline-binding (lipo)protein of an ABC-type transport system (osmoprotectant binding protein)	OsmF			4WEP
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_05795	COG4778	P	Alpha-D-ribose 1-methylphosphonate 5-triphosphate synthase subunit PhnL	PhnL			
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_05800	COG3977	E	Alanine-alpha-ketoisovalerate (or valine-pyruvate) aminotransferase	AvtA			3G7Q
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_05820	COG0673	R	Predicted dehydrogenase	MviM			3UUW
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_05825	COG2186	K	DNA-binding transcriptional regulator, FadR family	FadR			1E2X
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_05835	COG0625	O	Glutathione S-transferase	GstA			1A0F
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_05840	COG0579	G	L-2-hydroxyglutarate oxidase LhgO	LhgO			3DME
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_05845	COG0156	H	7-keto-8-aminopelargonate synthetase or related enzyme	BioF	Biotin biosynthesis		1BS0
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_05850	COG3507	G	Beta-xylosidase	XynB2			1Y7B
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_05855	COG0176	G	Transaldolase/fructose-6-phosphate aldolase	TalA	Pentose phosphate pathway		1F05
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_05860	COG1105	G	1-phosphofructokinase or 6-phosphofructokinase II	FruK			2ABQ
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_05865	COG5598	H	Trimethylamine:corrinoid methyltransferase	MttB2			
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_05870	COG3239	I	Fatty acid desaturase	DesA			
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_05875	COG4638	PR	Phenylpropionate dioxygenase or related ring-hydroxylating dioxygenase, large terminal subunit	HcaE			4QDC
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_05880	COG1276	P	Putative copper export protein	PcoD			
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_05885	COG2372	P	Copper-binding protein CopC (methionine-rich)	CopC			1IX2
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_05900	COG0807	H	GTP cyclohydrolase II	RibA	Riboflavin/FAD biosynthesis		2BZ0
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_05910	COG3713	M	Outer membrane scaffolding protein for murein synthesis, MipA/OmpV family	OmpV			
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_05925	COG1309	K	DNA-binding protein, AcrR family, includes nucleoid occlusion protein SlmA	AcrR			2QOP
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_05945	COG0259	H	Pyridoxine/pyridoxamine 5'-phosphate oxidase	PdxH	Pyridoxal phosphate biosynthesis		1CI0
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_05965	COG5002	T	Sensor histidine kinase WalK	WalK			4I5S
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_05970	COG3706	TK	Two-component response regulator, PleD family, consists of two REC domains and a diguanylate cyclase (GGDEF) domain	PleD			1W25
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_05980	COG2127	O	ATP-dependent Clp protease adapter protein ClpS	ClpS			1LZW
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_05985	COG0542	O	ATP-dependent Clp protease, ATP-binding subunit ClpA	ClpA			1KSF
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_05990	COG5653	N	Acetyltransferase involved in cellulose biosynthesis, CelD/BcsL family	BcsL			
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_05995	COG1194	L	Adenine-specific DNA glycosylase, acts on AG and A-oxoG pairs	MutY			1KG2
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_06000	COG0251	V	Enamine deaminase RidA, house cleaning of reactive enamine intermediates, YjgF/YER057c/UK114 family	RidA	Pyrimidine degradation	22094463;32205462	1J7H
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_06005	COG0039	C	Malate/lactate dehydrogenase	Mdh	TCA cycle		4WLO
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_06010	COG0045	C	Succinyl-CoA synthetase, beta subunit	SucC	TCA cycle		1SCU
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_06015	COG1042	C	Acyl-CoA synthetase (NDP forming)	PatZN		26251518	4YAK
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_06025	COG0022	C	Pyruvate/2-oxoglutarate/acetoin dehydrogenase complex, dehydrogenase (E1) component, beta subunit	AcoB	Pyruvate oxidation		2OZL
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_06030	COG0508	C	Pyruvate/2-oxoglutarate dehydrogenase complex, dihydrolipoamide acyltransferase (E2) component	AceF	Pyruvate oxidation		1B5S
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_06035	COG0508	C	Pyruvate/2-oxoglutarate dehydrogenase complex, dihydrolipoamide acyltransferase (E2) component	AceF	Pyruvate oxidation		1B5S
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_06040	COG0399	M	dTDP-4-amino-4,6-dideoxygalactose transaminase	WecE		15271350	4PIW
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_06060	COG0129	EG	Dihydroxyacid dehydratase/phosphogluconate dehydratase	IlvD	Isoleucine, leucine, valine biosynthesis		2GP4
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_06070	COG3568	R	Metal-dependent hydrolase, endonuclease/exonuclease/phosphatase family	ElsH		15178340	
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_06080	COG1078	R	HD superfamily phosphohydrolase	YdhJ			2HEK
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_06085	COG0018	J	Arginyl-tRNA synthetase	ArgS	Aminoacyl-tRNA synthetases		1BS2
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_06090	COG3147	D	Cell division protein DedD (periplasmic protein involved in septation)	DedD			
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_06100	COG1386	K	Chromosome segregation and condensation protein ScpB	ScpB			1T6S
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_06110	COG1826	U	Twin-arginine protein secretion pathway components TatA and TatB	TatA			2L16
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_06115	COG1287	O	Asparagine N-glycosylation enzyme, membrane subunit Stt3	Stt3			2LGZ
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_06120	COG0790	R	TPR repeat	TPR			1KLX
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_06130	COG0755	O	ABC-type transport system involved in cytochrome c biogenesis, permease component	CcmC			
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_06145	COG1138	CO	Cytochrome c biogenesis protein CcmF	CcmF			
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_06150	COG0526	O	Thiol-disulfide isomerase or thioredoxin	TrxA			1XFL
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_06160	COG4235	CO	Cytochrome c-type biogenesis protein CcmH/NrfG	NrfG			
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_06165	COG0697	GER	Permease of the drug/metabolite transporter (DMT) superfamily	RhaT			5I20
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_06170	COG1874	G	Beta-galactosidase GanA	GanA			1KWG
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_06180	COG1577	I	Mevalonate kinase	ERG12	Isoprenoid biosynthesis		
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_06190	COG2017	G	Galactose mutarotase or related enzyme	GalM			1LUR
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_06200	COG0623	I	Enoyl-[acyl-carrier-protein] reductase FabI	FabI	Fatty acid biosynthesis		1C14
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_06210	COG4583	E	Sarcosine oxidase gamma subunit	SoxG			
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_06215	COG0547	E	Anthranilate phosphoribosyltransferase, glycosyltransferase domain	TrpD	Aromatic amino acid biosynthesis		1KGZ
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_06220	COG0505	EF	Carbamoylphosphate synthase small subunit	CarA	Arginine biosynthesis		1C30
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_06225	COG1160	J	Double Era-like domain GTPase Der	Der			1MKY
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_06240	COG1226	P	Voltage-gated potassium channel Kch	Kch			3FWZ
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_06245	COG0784	T	CheY-like REC (receiver) domain, includes chemotaxis protein CheY  and sporulation regulator Spo0F	CheY			6QRJ
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_06250	COG5002	T	Sensor histidine kinase WalK	WalK			4I5S
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_06255	COG0784	T	CheY-like REC (receiver) domain, includes chemotaxis protein CheY  and sporulation regulator Spo0F	CheY			6QRJ
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_06260	COG2205	T	K+-sensing histidine kinase KdpD	KdpD			2KSF
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_06265	COG0167	F	Dihydroorotate dehydrogenase	PyrD	Pyrimidine biosynthesis		1GT8
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_06270	COG2919	D	Cell division protein FtsB	FtsB			4IFF
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_06275	COG0567	C	2-oxoglutarate dehydrogenase complex, dehydrogenase (E1) component, and related enzymes	SucA	TCA cycle		2JGD
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_06280	COG1154	HI	Deoxyxylulose-5-phosphate synthase	Dxs	Pyridoxal phosphate biosynthesis		2O1S
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_06285	COG0508	C	Pyruvate/2-oxoglutarate dehydrogenase complex, dihydrolipoamide acyltransferase (E2) component	AceF	Pyruvate oxidation		1B5S
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_06290	COG0446	I	NADPH-dependent 2,4-dienoyl-CoA reductase, sulfur reductase, or a related oxidoreductase	FadH2			1VRQ
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_06295	COG0502	H	Biotin synthase or related enzyme	BioB	Biotin biosynthesis		1R30
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_06300	COG2867	J	Ribosome association toxin PasT (RatA) of the RatAB toxin-antitoxin module	PasT		21323758	1T17
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_06310	COG2068	H	CTP:molybdopterin cytidylyltransferase MocA	MocA			2WAW
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_06315	COG0148	G	Enolase	Eno	Glycolysis		1E9I
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_06320	COG0504	F	CTP synthase (UTP-ammonia lyase)	PyrG	Pyrimidine biosynthesis		1S1M
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_06325	COG1314	U	Protein translocase subunit SecG	SecG			2AKH
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_06330	COG0149	G	Triosephosphate isomerase	TpiA	Glycolysis		1HG3
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_06340	COG0147	EH	Anthranilate/para-aminobenzoate synthases component I	TrpE	Aromatic amino acid biosynthesis		1I1Q
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_06345	COG1399	J	23S rRNA accumulation protein YceD (essential in plants, uncharacterized in bacteria)	YceD		27574185	
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_06350	COG5452	S	Uncharacterized conserved protein				6RWT
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_06355	COG2913	M	Outer membrane protein assembly factor BamE, lipoprotein component of the BamABCDE complex	BamE			2KM7
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_06365	COG0309	O	Carbamoyl dehydratase HypE (hydrogenase maturation factor)	HypE		28618091	2I6R
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_06375	COG0054	H	6,7-dimethyl-8-ribityllumazine synthase (Riboflavin synthase beta chain)	RibE	Riboflavin/FAD biosynthesis		1C2Y
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_06380	COG0108	H	3,4-dihydroxy-2-butanone 4-phosphate synthase	RibB	Riboflavin/FAD biosynthesis		1G57
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_06385	COG1661	R	Predicted DNA-binding protein with PD1-like DNA-binding motif, PPC/DUF296 domain	AF0104			2DT4
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_06390	COG2131	F	Deoxycytidylate deaminase	ComEB		25746996;31954084	2HVV
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_06395	COG1327	K	Transcriptional regulator NrdR, contains Zn-ribbon and ATP-cone domains	NrdR			
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_06400	COG0112	E	Glycine/serine hydroxymethyltransferase	GlyA	Serine biosynthesis		1BJ4
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_06405	COG0698	G	Ribose 5-phosphate isomerase RpiB	RpiB	Pentose phosphate pathway		1NN4
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_06410	COG1846	K	DNA-binding transcriptional regulator, MarR family	MarR			1JGS
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_06415	COG0113	H	Delta-aminolevulinic acid dehydratase, porphobilinogen synthase	HemB	Heme biosynthesis		1I8J
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_06420	COG0333	J	Ribosomal protein L32	RpmF	Ribosome 50S subunit	17114934	1VS6
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_06425	COG0416	I	Acyl-ACP:phosphate acyltransferase (fatty acid/phospholipid biosynthesis)	PlsX		18992246	2GK3
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_06430	COG1279	E	Arginine exporter protein ArgO	ArgO			
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_06440	COG0789	K	DNA-binding transcriptional regulator, MerR family	SoxR			2VZ4
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_06445	COG0616	O	Periplasmic serine protease, ClpP class	SppA			3BEZ
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_06450	COG1219	O	ATP-dependent protease Clp, ATPase subunit ClpX	ClpX			3HTE
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_06455	COG1073	T	Fermentation-respiration switch esterase FrsA, DUF1100 family	FrsA			
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_06460	COG1770	E	Protease II	PtrB			4BP9
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_06465	COG2520	J	tRNA G37 N-methylase Trm5	Trm5	tRNA modification		2YX1
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_06470	COG2225	C	Malate synthase	AceB	TCA cycle, glyoxylate bypass		1D8C
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_06480	COG0582	LX	Integrase/recombinase, includes phage integrase	FimB			
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_06495	COG3981	R	Predicted acetyltransferase				
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_06515	COG0064	J	Asp-tRNAAsn/Glu-tRNAGln amidotransferase B subunit	GatB	Aminoacyl-tRNA synthetases		3H0M
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_06520	COG0154	J	Asp-tRNAAsn/Glu-tRNAGln amidotransferase A subunit or related amidase	GatA	Aminoacyl-tRNA synthetases		3H0L
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_06525	COG0721	J	Asp-tRNAAsn/Glu-tRNAGln amidotransferase C subunit	GatC	Aminoacyl-tRNA synthetases		3H0L
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_06540	COG0758	L	Predicted Rossmann fold nucleotide-binding protein DprA/Smf involved in DNA uptake	Smf			3MAJ
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_06545	COG0550	L	DNA topoisomerase IA	TopA			1CY0
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_06550	COG0557	K	Exoribonuclease R	VacB			6H25
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_06555	COG0265	O	Periplasmic serine protease, S1-C subfamily, contain C-terminal PDZ domain	DegQ		29686141	2HGA
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_06560	COG0267	J	Ribosomal protein L33	RpmG	Ribosome 50S subunit		1VS6
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_06570	COG0596	HR	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold	MenH	Menaquinone biosynthesis		4MYS
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_06585	COG1044	M	UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase	LpxD	Lipid A biosynthesis		6P83
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_06590	COG4706	I	Predicted 3-hydroxylacyl-ACP dehydratase, HotDog domain				
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_06595	COG1043	M	Acyl-[acyl carrier protein]--UDP-N-acetylglucosamine O-acyltransferase	LpxA	Lipid A biosynthesis		1J2Z
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_06605	COG2831	U	Hemolysin activation/secretion protein	FhaC			2MHJ
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_06610	COG0265	O	Periplasmic serine protease, S1-C subfamily, contain C-terminal PDZ domain	DegQ		29686141	2HGA
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_06620	COG0743	I	1-deoxy-D-xylulose 5-phosphate reductoisomerase	Dxr	Isoprenoid biosynthesis		1JVS
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_06625	COG4589	R	Predicted CDP-diglyceride synthetase/phosphatidate cytidylyltransferase	YnbB			
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_06630	COG0020	I	Undecaprenyl pyrophosphate synthase	UppS			1X07
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_06635	COG0233	J	Ribosome recycling factor	Frr			1DD5
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_06640	COG0527	E	Aspartate kinase	MetL1	Lysine biosynthesis		2CDQ
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_06645	COG0264	J	Translation elongation factor EF-Ts	Tsf	Translation factors		1EFU
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_06650	COG0052	J	Ribosomal protein S2	RpsB	Ribosome 30S subunit		4V4H
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_06655	COG0589	T	Nucleotide-binding universal stress protein,  UspA family	UspA			1JMV
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_06660	COG3221	P	ABC-type phosphate/phosphonate transport system, periplasmic component	PhnD			3S4U
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_06665	COG1174	E	ABC-type proline/glycine betaine transport system, permease component	OpuBB			
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_06670	COG1430	S	Uncharacterized conserved membrane protein, UPF0127 family				3M7A
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_06675	COG2070	R	NAD(P)H-dependent flavin oxidoreductase YrpB, nitropropane dioxygenase family	YrpB			
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_06680	COG0371	C	Glycerol dehydrogenase or related enzyme, iron-containing ADH family	GldA	Isoprenoid biosynthesis	20688982	3S99
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_06700	COG2982	M	Uncharacterized conserved protein AsmA involved in outer membrane biogenesis	AsmA			
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_06705	COG0346	Q	Catechol 2,3-dioxygenase or related enzyme, vicinal oxygen chelate (VOC) family	GloA		11830595	3R4Q
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_06710	COG0568	K	DNA-directed RNA polymerase, sigma subunit (sigma70/sigma32)	RpoD	RNA polymerase		1SIG
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_06715	COG1187	J	Pseudouridylate synthase RsuA, specific for 16S rRNA U516  and 23S rRNA U2605	RsuA	16S rRNA modification		1KSK
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_06720	COG0399	M	dTDP-4-amino-4,6-dideoxygalactose transaminase	WecE		15271350	4PIW
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_06730	COG1233	Q	Phytoene dehydrogenase-related protein				4REP
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_06740	COG0203	J	Ribosomal protein L17	RplQ	Ribosome 50S subunit		1GD8
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_06745	COG0202	K	DNA-directed RNA polymerase, alpha subunit/40 kD subunit	RpoA	RNA polymerase		4KN7
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_06750	COG0100	J	Ribosomal protein S11	RpsK	Ribosome 30S subunit		4V4H
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_06760	COG0283	F	Cytidylate kinase	Cmk		19111750;25691594;28928205	3R20
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_06765	COG0201	U	Preprotein translocase subunit SecY	SecY			1RH5
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_06775	COG0491	R	Glyoxylase or a related metal-dependent hydrolase, beta-lactamase superfamily II	GloB		25670698	1QH3
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_06785	COG5485	R	Predicted ester cyclase				3EHC
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_06795	COG1055	P	Na+/H+ antiporter NhaD or related arsenite permease	ArsB			
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_06815	COG0284	F	Orotidine-5'-phosphate decarboxylase	PyrF	Pyrimidine biosynthesis		1DBT
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_06825	COG0135	E	Phosphoribosylanthranilate isomerase	TrpF	Aromatic amino acid biosynthesis		1DL3
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_06830	COG0133	E	Tryptophan synthase beta chain	TrpB	Aromatic amino acid biosynthesis		2DH5
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_06835	COG0159	E	Tryptophan synthase alpha chain	TrpA	Aromatic amino acid biosynthesis		6HUL
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_06840	COG4799	I	Acetyl-CoA carboxylase, carboxyltransferase component	MmdA			1OD2
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_06845	COG0770	M	UDP-N-acetylmuramyl pentapeptide synthase	MurF	Mureine biosynthesis		4CVK
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_06850	COG1848	V	VapC family ribonuclease, toxin component of the VapBC toxin-antitoxin module, contains PIN domain	VapC		30169502	
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_06855	COG0526	O	Thiol-disulfide isomerase or thioredoxin	TrxA			1XFL
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_06860	COG1074	L	3-5 helicase subunit RecB of the DNA repair enzyme RecBCD (exonuclease V)	RecB		29901759;30601118	3U44
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_06865	COG2887	L	RecB family exonuclease	Slr0479			
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_06870	COG3267	UW	Type II secretory pathway ATPase component GspA/ExeA/MshM	ExeA		21378198	
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_06885	COG0717	F	dCTP deaminase	Dcd	Thymidylate biosynthesis		1XS1
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_06890	COG0452	H	Phosphopantothenoylcysteine synthetase/decarboxylase CoaBC	CoaBC	Pantothenate/CoA biosynthesis		3QJG
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_06895	COG0661	HT	Predicted protein kinase regulating ubiquinone biosynthesis, AarF/ABC1/UbiB family	AarF	Ubiquinone biosynthesis		4PED
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_06900	COG2227	H	2-polyprenyl-3-methyl-5-hydroxy-6-metoxy-1,4-benzoquinol methylase	UbiG	Ubiquinone biosynthesis		1BHJ
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_06905	COG0266	L	Formamidopyrimidine-DNA glycosylase	Nei			1EE8
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_06910	COG0268	J	Ribosomal protein S20	RpsT	Ribosome 30S subunit		4V4H
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_06915	COG1484	L	DNA replication protein DnaC	DnaC			2QGZ
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_06940	COG1106	R	ATPase/GTPase, AAA15 family				
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_06945	COG0592	L	DNA polymerase III sliding clamp (beta) subunit, PCNA homolog	DnaN			1JQJ
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_06950	COG1426	D	Cytoskeletal protein RodZ, contains Xre-like HTH and DUF4115 domains	RodZ			3FYM
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_06960	COG1595	K	DNA-directed RNA polymerase specialized sigma subunit, sigma24 family	RpoE	RNA polymerase		2Q1Z
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_06970	COG1451	R	UTP pyrophosphatase, metal-dependent hydrolase family	YgjP		27941785	4JIU
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_06975	COG2169	L	Methylphosphotriester-DNA--protein-cysteine methyltransferase (N-terminal fragment of Ada), contains Zn-binding and two AraC-type DNA-binding domains	AdaA			1ADN
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_06980	COG0406	G	Broad specificity phosphatase PhoE	PhoE			1EBB
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_06990	COG2038	H	NaMN:DMB phosphoribosyltransferase	CobT	Cobalamine/B12 biosynthesis		1D0S
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_07000	COG0291	J	Ribosomal protein L35	RpmI	Ribosome 50S subunit	28373563	1VS6
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_07005	COG0292	J	Ribosomal protein L20	RplT	Ribosome 50S subunit	30270044	1VS6
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_07010	COG0016	J	Phenylalanyl-tRNA synthetase alpha subunit	PheS	Aminoacyl-tRNA synthetases		3L4G
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_07015	COG0072	J	Phenylalanyl-tRNA synthetase beta subunit	PheT	Aminoacyl-tRNA synthetases		3L4G
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_07025	COG1419	N	Flagellar biosynthesis GTPase FlhF	FlhF			3SYN
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_07040	COG0336	J	tRNA G37 N-methylase TrmD	TrmD	tRNA modification		1P9P
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_07050	COG0346	Q	Catechol 2,3-dioxygenase or related enzyme, vicinal oxygen chelate (VOC) family	GloA		11830595	3R4Q
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_07055	COG1236	J	RNA processing exonuclease, beta-lactamase fold, Cft2 family	YSH1			2DKF
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_07060	COG1521	H	Pantothenate kinase type III	CoaX			2F9T
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_07065	COG0340	H	Biotin-(acetyl-CoA carboxylase) ligase	BirA2	Biotin biosynthesis	32188788	1BIA
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_07070	COG0651	CP	Formate hydrogenlyase subunit 3/Multisubunit Na+/H+ antiporter, MnhD subunit	HyfB			6CFW
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_07075	COG1008	C	NADH:ubiquinone oxidoreductase subunit 4 (chain M)	NuoM	NADH dehydrogenase		6HUM
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_07080	COG1009	C	Membrane H+-translocase/NADH:ubiquinone oxidoreductase subunit 5 (chain L)/Multisubunit Na+/H+ antiporter, MnhA subunit	NuoL	NADH dehydrogenase		3RKO
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_07085	COG0713	C	NADH:ubiquinone oxidoreductase subunit 11 or 4L (chain K)	NuoK	NADH dehydrogenase		4HE8
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_07095	COG2768	S	Uncharacterized Fe-S cluster protein				
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_07100	COG1005	C	NADH:ubiquinone oxidoreductase subunit 1 (chain H)	NuoH	NADH dehydrogenase		6HUM
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_07105	COG1034	C	NADH dehydrogenase/NADH:ubiquinone oxidoreductase 75 kD subunit (chain G)	NuoG	NADH dehydrogenase		1C4A
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_07110	COG3713	M	Outer membrane scaffolding protein for murein synthesis, MipA/OmpV family	OmpV			
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_07115	COG0579	G	L-2-hydroxyglutarate oxidase LhgO	LhgO			3DME
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_07120	COG0697	GER	Permease of the drug/metabolite transporter (DMT) superfamily	RhaT			5I20
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_07125	COG3904	S	Predicted periplasmic protein				
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_07140	COG1083	M	CMP-N-acetylneuraminic acid synthetase, NeuA/PseF family	NeuA			1EYR
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_07155	COG3938	E	Proline racemase/hydroxyproline epimerase	PrdF		17849014	1TM0
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_07165	COG3977	E	Alanine-alpha-ketoisovalerate (or valine-pyruvate) aminotransferase	AvtA			3G7Q
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_07170	COG0534	V	Na+-driven multidrug efflux pump, DinF/NorM/MATE family	NorM		29915058	3VVN
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_07175	COG3152	S	Uncharacterized membrane protein YhaH, DUF805 family	yhaH			
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_07180	COG2084	I	3-hydroxyisobutyrate dehydrogenase or related beta-hydroxyacid dehydrogenase	MmsB			1I36
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_07185	COG1957	F	Inosine-uridine nucleoside N-ribohydrolase	URH1	Pyrimidine salvage		1EZR
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_07190	COG1105	G	1-phosphofructokinase or 6-phosphofructokinase II	FruK			2ABQ
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_07200	COG4638	PR	Phenylpropionate dioxygenase or related ring-hydroxylating dioxygenase, large terminal subunit	HcaE			4QDC
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_07205	COG3221	P	ABC-type phosphate/phosphonate transport system, periplasmic component	PhnD			3S4U
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_07210	COG0447	H	1,4-Dihydroxy-2-naphthoyl-CoA synthase	MenB	Menaquinone biosynthesis		4ELS
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_07215	COG0778	C	Nitroreductase	NfnB	Pyrimidine degradation		1F5V
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_07225	COG3840	H	ABC-type thiamine transport system, ATPase component ThiQ	ThiQ			
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_07230	COG1414	K	DNA-binding transcriptional regulator, IclR family	IclR			1MKM
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_07235	COG0719	O	Fe-S cluster assembly scaffold protein SufB	SufB			1VH4
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_07245	COG1123	O	ABC-type glutathione transport system ATPase component, contains duplicated ATPase domain	GsiA			
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_07250	COG0719	O	Fe-S cluster assembly scaffold protein SufB	SufB			1VH4
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_07255	COG3844	E	Kynureninase	Bna5			
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_07270	COG0633	C	Ferredoxin	Fdx			1KRH
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_07280	COG2169	L	Methylphosphotriester-DNA--protein-cysteine methyltransferase (N-terminal fragment of Ada), contains Zn-binding and two AraC-type DNA-binding domains	AdaA			1ADN
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_07290	COG0579	G	L-2-hydroxyglutarate oxidase LhgO	LhgO			3DME
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_07300	COG1249	C	Dihydrolipoamide dehydrogenase (E3) component of pyruvate/2-oxoglutarate dehydrogenase complex or glutathione oxidoreductase	Lpd	Glycine cleavagePyruvate oxidation		6QKG
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_07305	COG4583	E	Sarcosine oxidase gamma subunit	SoxG			
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_07310	COG3154	H	Ubiquinone biosynthesis accessory factor UbiT, lipid carrier SCP2 domain	UbiT		31289180	1C44
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_07320	COG1280	E	Threonine/homoserine/homoserine lactone efflux protein	RhtB			
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_07325	COG5598	H	Trimethylamine:corrinoid methyltransferase	MttB2			
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_07335	COG0260	E	Leucyl aminopeptidase	PepB		19553197;23825549	3H8E
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_07345	COG0697	GER	Permease of the drug/metabolite transporter (DMT) superfamily	RhaT			5I20
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_07365	COG2071	E	Gamma-glutamyl-gamma-aminobutyrate hydrolase PuuD (putrescine degradation), contains GATase1-like domain	PuuD			1L9X
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_07370	COG1600	J	Epoxyqueuosine reductase QueG (queuosine biosynthesis)	QueG	tRNA modification	2150253	5D08
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_07375	COG2333	U	DNA uptake channel protein ComEC C-terminal domain, metallo-beta-lactamase superfamily	ComEC			
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_07380	COG1099	R	Predicted metal-dependent hydrolase, TIM-barrel fold				3GUW
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_07385	COG3246	S	Uncharacterized conserved protein, DUF849 family				3C6C
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_07390	COG1250	I	3-hydroxyacyl-CoA dehydrogenase	FadB	Fatty acid biosynthesis		5ZQZ
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_07400	COG0172	J	Seryl-tRNA synthetase	SerS	Aminoacyl-tRNA synthetases		1SER
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_07410	COG2242	H	Precorrin-6B methylase 2	CobL	Cobalamine/B12 biosynthesis		1F38
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_07415	COG4942	D	Septal ring factor EnvC, activator of murein hydrolases AmiA and AmiB	EnvC			
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_07420	COG2607	R	Predicted ATPase, AAA+ superfamily	Atu1564			
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_07425	COG1862	U	Protein translocase subunit YajC	YajC			
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_07430	COG0341	U	Preprotein translocase subunit SecF	SecF		28830929	2FYH
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_07435	COG0342	U	Preprotein translocase subunit SecD	SecD		26100040	3AQP
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_07445	COG1562	I	Phytoene/squalene synthetase	ERG9			3WEK
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_07455	COG0605	P	Superoxide dismutase	SodA			1AP5
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_07470	COG0685	E	5,10-methylenetetrahydrofolate reductase	MetF			1B5T
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_07480	COG3172	H	Nicotinamide riboside kinase	NadR3	NAD biosynthesis		1LW7
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_07485	COG0446	I	NADPH-dependent 2,4-dienoyl-CoA reductase, sulfur reductase, or a related oxidoreductase	FadH2			1VRQ
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_07510	COG1647	Q	Esterase/lipase	YvaK			4DIU
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_07515	COG0568	K	DNA-directed RNA polymerase, sigma subunit (sigma70/sigma32)	RpoD	RNA polymerase		1SIG
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_07525	COG5612	P	Ni/Co/Cd-binding protein CnrX (heavy-metal resistance)	CnrX		18992246	
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_07540	COG3180	R	Uncharacterized membrane protein AbrB, regulator of aidB expression	AbrB			
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_07550	COG1606	R	ATP-utilizing enzyme, PP-loop superfamily				6B2O
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_07570	COG1033	R	Predicted exporter protein, RND superfamily	MMPL			5KHN
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_07575	COG1566	V	Multidrug resistance efflux pump EmrA	EmrA			4TKO
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_07580	COG3425	I	3-hydroxy-3-methylglutaryl CoA synthase	PksG	Isoprenoid biosynthesis		1TVZ
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_07590	COG1866	C	Phosphoenolpyruvate carboxykinase, ATP-dependent	PckA	Gluconeogenesis		1AQ2
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_07610	COG1182	C	FMN-dependent NADH-azoreductase	AzoR			1TIK
+Kiloniella_sp_MED755	GCA_002690455.1	MPAOKI_07615	COG0596	HR	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold	MenH	Menaquinone biosynthesis		4MYS

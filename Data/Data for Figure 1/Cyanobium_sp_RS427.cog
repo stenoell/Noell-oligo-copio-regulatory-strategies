@@ -1,0 +1,815 @@
+#prefix	assemid	query	COG	category	name	Gene	pathway	pmid	pdb_id
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_00005	COG1981	H	Protoporphyrinogen oxidase HemJ (unrelated to HemG or HemY)	HemJ		20823222;21642412;25108393;29925590	
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_00010	COG0613	F	5'-3' exoribonuclease TrpH/YciV (RNase AM), contains PHP domain	YciV		25871919	3E0F
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_00020	COG1429	H	Cobalamin biosynthesis protein CobN, Mg-chelatase	CobN	Cobalamine/B12 biosynthesis		4ZHJ
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_00025	COG0115	EH	Branched-chain amino acid aminotransferase/4-amino-4-deoxychorismate lyase	IlvE	Isoleucine, leucine, valine biosynthesis		1A3G
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_00035	COG0296	G	1,4-alpha-glucan branching enzyme	GlgB		25871919	4LPC
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_00040	COG1012	I	Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase	AdhE	Proline degradation		1A4S
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_00045	COG1388	M	LysM repeat	LysM			1E0G
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_00050	COG0513	L	Superfamily II DNA and RNA helicase	SrmB			3RRM
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_00065	COG0266	L	Formamidopyrimidine-DNA glycosylase	Nei			1EE8
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_00090	COG0222	J	Ribosomal protein L7/L12	RplL	Ribosome 50S subunit		1CTF
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_00105	COG0328	L	Ribonuclease HI	RnhA			1LAW
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_00110	COG0167	F	Dihydroorotate dehydrogenase	PyrD	Pyrimidine biosynthesis		1GT8
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_00120	COG3166	NW	Type IV pilus assembly protein PilN	PilN			
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_00130	COG4964	UW	Flp pilus assembly protein, secretin CpaC	CpaC			
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_00135	COG1357	S	Uncharacterized conserved protein YjbI, contains pentapeptide repeats	YjbI			2BM4
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_00140	COG0436	E	Aspartate/methionine/tyrosine aminotransferase	AspB	Isoleucine, leucine, valine biosynthesis		2O0R
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_00145	COG1819	G	UDP:flavonoid glycosyltransferase YjiC, YdhE family	YjiC		23974133	2ACV
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_00155	COG1023	G	6-phosphogluconate dehydrogenase (decarboxylating)	YqeC			4E21
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_00165	COG0126	G	3-phosphoglycerate kinase	Pgk	Glycolysis		13PK
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_00185	COG0693	V	Protein/nucleotide deglycase, PfpI/YajL/DJ-1 family (repair of methylglyoxal-glycated proteins and nucleic acids)	YajL		19028889;28596309;26678554	5SY4
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_00195	COG0457	R	Tetratricopeptide (TPR) repeat	TPR			3AS4
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_00200	COG2942	G	Mannose or cellobiose epimerase, N-acyl-D-glucosamine 2-epimerase family	YihS			2ZBL
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_00205	COG1523	G	Pullulanase/glycogen debranching enzyme	PulA			2WSK
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_00210	COG0659	P	Sulfate permease or related transporter, MFS superfamily	SUL1			3NY7
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_00220	COG5269
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_00225	COG0113	H	Delta-aminolevulinic acid dehydratase, porphobilinogen synthase	HemB	Heme biosynthesis		1I8J
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_00230	COG0346	Q	Catechol 2,3-dioxygenase or related enzyme, vicinal oxygen chelate (VOC) family	GloA		11830595	3R4Q
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_00235	COG1193	L	dsDNA-specific endonuclease/ATPase MutS2	MutS2			
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_00240	COG1119	P	ABC-type molybdenum transport system, ATPase component ModF/photorepair protein PhrA	ModF			2IHY
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_00245	COG0012	J	Ribosome-binding ATPase YchF, GTP1/OBG family	GTP1		21527254	2DWQ
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_00260	COG1245	J	Translation initiation factor RLI1, contains Fe-S and AAA+ ATPase domains	Rli1			3J16
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_00265	COG5413	S	Uncharacterized integral membrane protein				
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_00270	COG0625	O	Glutathione S-transferase	GstA			1A0F
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_00275	COG2988	E	Succinylglutamate desuccinylase	AstE			1YW4
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_00290	COG0005	F	Purine nucleoside phosphorylase	XapA	Purine salvage		1YQQ
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_00295	COG0449	M	Glucosamine 6-phosphate synthetase, contains amidotransferase and phosphosugar isomerase domains	GlmS			2J6H
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_00305	COG2214	K	Curved DNA-binding protein CbpA, contains a DnaJ-like domain	CbpA			
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_00310	COG0443	O	Molecular chaperone DnaK (HSP70)	DnaK			3I33
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_00315	COG4590	R	ABC-type uncharacterized transport system, permease component				
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_00320	COG1178	P	ABC-type Fe3+ transport system, permease component	FbpB			
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_00325	COG4525	P	ABC-type taurine transport system, ATPase component	TauB			
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_00330	COG0017	J	Aspartyl/asparaginyl-tRNA synthetase	AsnS	Aminoacyl-tRNA synthetases		3KFU
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_00335	COG0568	K	DNA-directed RNA polymerase, sigma subunit (sigma70/sigma32)	RpoD	RNA polymerase		1SIG
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_00340	COG0783	PV	DNA-binding ferritin-like protein (oxidative damage protectant)	Dps			1DPS
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_00345	COG0504	F	CTP synthase (UTP-ammonia lyase)	PyrG	Pyrimidine biosynthesis		1S1M
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_00350	COG1180	O	Pyruvate-formate lyase-activating enzyme	PflA			3CAN
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_00360	COG2084	I	3-hydroxyisobutyrate dehydrogenase or related beta-hydroxyacid dehydrogenase	MmsB			1I36
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_00365	COG0367	E	Asparagine synthetase B (glutamine-hydrolyzing)	AsnB	Asparagine biosynthesis	25951518	2ETD
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_00370	COG0147	EH	Anthranilate/para-aminobenzoate synthases component I	TrpE	Aromatic amino acid biosynthesis		1I1Q
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_00380	COG0561	HR	Hydroxymethylpyrimidine pyrophosphatase and other HAD family phosphatases	Cof			1YMQ
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_00405	COG4555	CP	ABC-type Na+ transport system, ATPase component NatA	NatA			
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_00410	COG4598	E	ABC-type histidine transport system, ATPase component	HisP			1B0U
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_00415	COG0559	E	Branched-chain amino acid ABC-type transport system, permease component	LivH			
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_00420	COG4177	E	ABC-type branched-chain amino acid transport system, permease component	LivM			
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_00435	COG4232	O	Thiol:disulfide interchange protein DsbD	DsbD			1JPE
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_00440	COG1351	F	Thymidylate synthase ThyX, FAD-dependent family	ThyX	Thymidylate biosynthesis		1KQ4
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_00445	COG0717	F	dCTP deaminase	Dcd	Thymidylate biosynthesis		1XS1
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_00455	COG0689	J	Ribonuclease PH	Rph			1UDO
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_00460	COG2390	K	DNA-binding transcriptional regulator LsrR, DeoR family	DeoR		23974133;24893262	2GNP
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_00465	COG1579	R	Predicted nucleic acid-binding protein DR0291, contains C4-type Zn-ribbon domain	DR0291			4ILO
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_00480	COG0193	J	Peptidyl-tRNA hydrolase	Pth	Translation factors	11835511	1RYB
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_00485	COG1826	U	Twin-arginine protein secretion pathway components TatA and TatB	TatA			2L16
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_00510	COG1452	M	LPS assembly outer membrane protein LptD (organic solvent tolerance protein OstA)	LptD			4N4R
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_00515	COG1357	S	Uncharacterized conserved protein YjbI, contains pentapeptide repeats	YjbI			2BM4
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_00520	COG0066	E	3-isopropylmalate dehydratase small subunit	LeuD	Isoleucine, leucine, valine biosynthesis		3Q3W
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_00525	COG1049	C	Aconitase B	AcnB	TCA cycle		1L5J
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_00530	COG0521	H	Molybdopterin biosynthesis enzyme MoaB/MogA	MoaB	Molybdopterin biosynthesis	32239579	1DI6
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_00540	COG0486	J	tRNA U34 5-carboxymethylaminomethyl modifying GTPase MnmE/TrmE	MnmE	tRNA modification		
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_00545	COG1055	P	Na+/H+ antiporter NhaD or related arsenite permease	ArsB			
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_00555	COG0490	PT	K+/H+ antiporter KhtSTU, c-di-AMP-binding regulatory subunit KhtT, contains RCK_C (TrkA_C) domain	KhtT		24330391;31061098	4J90
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_00560	COG2377	M	1,6-Anhydro-N-acetylmuramate kinase	AnmK		15901686	3CQY
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_00580	COG1357	S	Uncharacterized conserved protein YjbI, contains pentapeptide repeats	YjbI			2BM4
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_00585	COG0436	E	Aspartate/methionine/tyrosine aminotransferase	AspB	Isoleucine, leucine, valine biosynthesis		2O0R
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_00590	COG1819	G	UDP:flavonoid glycosyltransferase YjiC, YdhE family	YjiC		23974133	2ACV
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_00600	COG1023	G	6-phosphogluconate dehydrogenase (decarboxylating)	YqeC			4E21
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_00620	COG0101	J	tRNA U38,U39,U40 pseudouridine synthase TruA	TruA	tRNA modification		1DJ0
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_00625	COG0102	J	Ribosomal protein L13	RplM	Ribosome 50S subunit		1VS6
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_00630	COG0103	J	Ribosomal protein S9	RpsI	Ribosome 30S subunit		4V4H
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_00635	COG0254	J	Ribosomal protein L31	RpmE	Ribosome 50S subunit		1VS6
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_00640	COG0216	J	Protein chain release factor RF1	PrfA	Translation factors		1RQ0
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_00645	COG1403	V	5-methylcytosine-specific restriction endonuclease McrA	McrA			
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_00650	COG3457	E	Predicted amino acid racemase	YhfX		23091052	4KBX
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_00660	COG2367	V	Beta-lactamase class A	PenP			6W34
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_00670	COG1215	N	Glycosyltransferase, catalytic subunit of cellulose synthase and poly-beta-1,6-N-acetylglucosamine synthase	BcsA			4HG6
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_00680	COG0072	J	Phenylalanyl-tRNA synthetase beta subunit	PheT	Aminoacyl-tRNA synthetases		3L4G
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_00685	COG2265	J	tRNA/tmRNA/rRNA uracil-C5-methylase, TrmA/RlmC/RlmD family	TrmA	tRNA modification		1UWV
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_00695	COG2214	K	Curved DNA-binding protein CbpA, contains a DnaJ-like domain	CbpA			
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_00710	COG0568	K	DNA-directed RNA polymerase, sigma subunit (sigma70/sigma32)	RpoD	RNA polymerase		1SIG
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_00715	COG1085	G	Galactose-1-phosphate uridylyltransferase	GalT			1GUP
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_00720	COG1028	I	NAD(P)-dependent dehydrogenase, short-chain alcohol dehydrogenase family	FabG	Fatty acid biosynthesis		6L1H
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_00745	COG1074	L	3-5 helicase subunit RecB of the DNA repair enzyme RecBCD (exonuclease V)	RecB		29901759;30601118	3U44
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_00750	COG2877	M	3-deoxy-D-manno-octulosonic acid (KDO) 8-phosphate synthase	KdsA	Lipid A biosynthesis		1G7U
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_00775	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_00780	COG0297	G	Glycogen synthase	GlgA			1RZU
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_00820	COG1011	H	FMN and 5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YigB, HAD superfamily (riboflavin biosynthesis)	YigB		24123841	4JB3
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_00825	COG1608	I	Isopentenyl phosphate kinase			16621811	3LKK
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_00840	COG5054
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_00860	COG1492	H	Cobyric acid synthase	CobQ	Cobalamine/B12 biosynthesis		
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_00875	COG0739	M	Murein DD-endopeptidase MepM and murein hydrolase activator NlpD, contains LysM domain	NlpD			2GU1
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_00890	COG0472	M	UDP-N-acetylmuramyl pentapeptide phosphotransferase/UDP-N-acetylglucosamine-1-phosphate transferase	Rfe	Mureine biosynthesis		4J72
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_00905	COG0137	E	Argininosuccinate synthase	ArgG	Arginine biosynthesis		1J1Z
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_00910	COG3206	M	Exopolysaccharide export protein/domain GumC/Wzc1	GumC		15003255;23089617	
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_00925	COG0169	E	Shikimate 5-dehydrogenase	AroE	Aromatic amino acid biosynthesis		1NPD
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_00930	COG1077	DZ	Cell shape-determining ATPase MreB, actin-like superfamily	MreB			1JCE
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_00945	COG3709	G	Ribose 1,5-bisphosphate kinase PhnN	PhnN			
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_00955	COG0805	U	Twin-arginine protein secretion pathway component TatC	TatC			4B4A
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_00990	COG0773	M	UDP-N-acetylmuramate-alanine ligase MurC and related ligases, MurC/Mpl family	MurC	Mureine biosynthesis		
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_00995	COG2068	H	CTP:molybdopterin cytidylyltransferase MocA	MocA			2WAW
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_01005	COG5304	K	Predicted DNA binding protein, CopG/RHH family				
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_01030	COG1848	V	VapC family ribonuclease, toxin component of the VapBC toxin-antitoxin module, contains PIN domain	VapC		30169502	
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_01035	COG0528	F	Uridylate kinase	PyrH	Pyrimidine biosynthesis		2BND
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_01050	COG0472	M	UDP-N-acetylmuramyl pentapeptide phosphotransferase/UDP-N-acetylglucosamine-1-phosphate transferase	Rfe	Mureine biosynthesis		4J72
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_01065	COG0739	M	Murein DD-endopeptidase MepM and murein hydrolase activator NlpD, contains LysM domain	NlpD			2GU1
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_01080	COG1376	M	Lipoprotein-anchoring transpeptidase ErfK/SrfK	ErfK			4LZH
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_01085	COG0439	I	Biotin carboxylase	AccC	Fatty acid biosynthesis		1BNC
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_01090	COG0297	G	Glycogen synthase	GlgA			1RZU
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_01100	COG0229	O	Peptide methionine sulfoxide reductase MsrB	MsrB			1L1D
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_01105	COG3881	S	Uncharacterized conserved protein YrrD, contains PRC-barrel domain	YrrD			
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_01110	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_01125	COG1047	O	Peptidyl-prolyl cis-trans isomerase, FKBP type	SlpA			2M2A
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_01145	COG0134	E	Indole-3-glycerol phosphate synthase	TrpC	Aromatic amino acid biosynthesis		6BMA
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_01150	COG0446	I	NADPH-dependent 2,4-dienoyl-CoA reductase, sulfur reductase, or a related oxidoreductase	FadH2			1VRQ
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_01155	COG0565	J	tRNA C32,U32 (ribose-2'-O)-methylase TrmJ or a related methyltransferase	TrmJ	tRNA modification		3ONP
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_01170	COG0128	E	5-enolpyruvylshikimate-3-phosphate synthase	AroA	Aromatic amino acid biosynthesis		4N3P
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_01210	COG0568	K	DNA-directed RNA polymerase, sigma subunit (sigma70/sigma32)	RpoD	RNA polymerase		1SIG
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_01225	COG2755	DI	Lysophospholipase L1 or related esterase. Includes spore coat protein LipC/YcsK	TesA			1BWP
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_01230	COG3639	P	ABC-type phosphate/phosphonate transport system, permease component	PhnE			
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_01235	COG3845	F	ABC-type guanosine uptake system NupNOPQ, ATPase component NupO	NupO		21926227	
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_01240	COG1464	P	ABC-type metal ion transport system, periplasmic component/surface antigen	NlpA			1P99
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_01245	COG0399	M	dTDP-4-amino-4,6-dideoxygalactose transaminase	WecE		15271350	4PIW
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_01260	COG0821	I	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase IspG/GcpE	IspG	Isoprenoid biosynthesis		2Y0F
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_01270	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_01275	COG1902	C	2,4-dienoyl-CoA reductase or related NADH-dependent reductase, Old Yellow Enzyme (OYE) family	FadH			1BWK
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_01285	COG0486	J	tRNA U34 5-carboxymethylaminomethyl modifying GTPase MnmE/TrmE	MnmE	tRNA modification		
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_01300	COG0787	M	Alanine racemase	Alr	Mureine biosynthesis		1BD0
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_01305	COG1799	D	Cell division protein SepF/YlmF, interacts with FtsZ	SepF		16420366;24218584	3ZIH
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_01310	COG0345	E	Pyrroline-5-carboxylate reductase	ProC	Proline biosynthesis	22125496;26507882	3GT0
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_01315	COG0297	G	Glycogen synthase	GlgA			1RZU
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_01325	COG1381	L	Recombinational DNA repair protein RecO (RecF pathway)	RecO			1U5K
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_01355	COG0508	C	Pyruvate/2-oxoglutarate dehydrogenase complex, dihydrolipoamide acyltransferase (E2) component	AceF	Pyruvate oxidation		1B5S
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_01360	COG0809	J	S-adenosylmethionine:tRNA-ribosyltransferase-isomerase (queuine synthetase)	QueA	tRNA modification		1VKY
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_01365	COG0025	P	NhaP-type Na+/H+ or K+/H+ antiporter	NhaP			4CZB
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_01370	COG1171	E	Threonine deaminase	IlvA	Isoleucine, leucine, valine biosynthesis		3IAU
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_01380	COG0297	G	Glycogen synthase	GlgA			1RZU
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_01385	COG0297	G	Glycogen synthase	GlgA			1RZU
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_01390	COG0438	M	Glycosyltransferase involved in cell wall bisynthesis	RfaB			2IV7
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_01395	COG1123	O	ABC-type glutathione transport system ATPase component, contains duplicated ATPase domain	GsiA			
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_01405	COG0108	H	3,4-dihydroxy-2-butanone 4-phosphate synthase	RibB	Riboflavin/FAD biosynthesis		1G57
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_01410	COG0136	E	Aspartate-semialdehyde dehydrogenase	Asd	Lysine biosynthesis		1BRM
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_01415	COG0223	J	Methionyl-tRNA formyltransferase	Fmt			1FMT
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_01425	COG0308	E	Aminopeptidase N, contains DUF3458 domain	PepN		24123841	6ATK
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_01430	COG3023	M	N-acetyl-anhydromuramyl-L-alanine amidase AmpD	AmpD			2Y28
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_01445	COG2222	M	Fructoselysine-6-P-deglycase FrlB or related protein, duplicated sugar isomerase (SIS) domain	AgaS		16153181	3C3J
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_01450	COG0495	J	Leucyl-tRNA synthetase	LeuS	Aminoacyl-tRNA synthetases		6LPF
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_01455	COG0157	H	Nicotinate-nucleotide pyrophosphorylase	NadC	NAD biosynthesis		1O4U
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_01460	COG2252	F	Xanthine/guanine/uracil/vitamin C permease GhxP/GhxQ, nucleobase:cation symporter 2 ( NCS2) family	NCS2		24169576;24214977	
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_01465	COG1159	J	GTPase Era, involved in 16S rRNA processing	Era			1EGA
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_01470	COG3216	S	Uncharacterized conserved protein, DUF2062 family				
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_01475	COG0317	TK	(p)ppGpp synthase/hydrolase, HD superfamily	SpoT			1TDJ
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_01480	COG1117	P	ABC-type phosphate transport system, ATPase component	PstB			
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_01485	COG1243	J	tRNA U34 5-carboxymethylaminomethylation enzyme Elp3 (RNA elongator complex protein 3), contains radical SAM and acetyltransferase domains	ELP3		25151136;27455459	6IA8
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_01490	COG1266	O	Membrane protease YdiL, CAAX protease family	YdiL			
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_01495	COG2127	O	ATP-dependent Clp protease adapter protein ClpS	ClpS			1LZW
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_01500	COG0079	E	Histidinol-phosphate/aromatic aminotransferase or cobyric acid decarboxylase	HisC	Cobalamine/B12 biosynthesis		4R2N
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_01505	COG1032	R	Radical SAM superfamily enzyme YgiQ, UPF0313 family	YgiQ			6FD2
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_01510	COG0539	J	Ribosomal protein S1	RpsA	Ribosome 30S subunit		4NNH
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_01520	COG1039	L	Ribonuclease HIII	RnhC			2D0A
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_01535	COG2226	H	Ubiquinone/menaquinone biosynthesis C-methylase UbiE/MenG	UbiE	Biotin biosynthesis		4OBW
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_01540	COG0466	O	ATP-dependent Lon protease, bacterial type	Lon			6ON2
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_01545	COG0051	J	Ribosomal protein S10	RpsJ	Ribosome 30S subunit		4V4H
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_01565	COG1926	R	Predicted phosphoribosyltransferase				
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_01575	COG1316	M	Anionic cell wall polymer biosynthesis enzyme TagV/TagU,  LytR-Cps2A-Psr (LCP) family (peptidoglycan teichoic acid transferase)	Cps2a		29107701	2XXP
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_01580	COG0702	R	Uncharacterized conserved protein YbjT, contains NAD(P)-binding and DUF2867 domains	YbjT			5L3Z
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_01590	COG1426	D	Cytoskeletal protein RodZ, contains Xre-like HTH and DUF4115 domains	RodZ			3FYM
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_01595	COG0564	J	Pseudouridine synthase RluA, 23S rRNA- or tRNA-specific	RluA	23S rRNA modification		2I82
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_01600	COG5002	T	Sensor histidine kinase WalK	WalK			4I5S
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_01610	COG0784	T	CheY-like REC (receiver) domain, includes chemotaxis protein CheY  and sporulation regulator Spo0F	CheY			6QRJ
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_01630	COG0743	I	1-deoxy-D-xylulose 5-phosphate reductoisomerase	Dxr	Isoprenoid biosynthesis		1JVS
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_01645	COG0596	HR	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold	MenH	Menaquinone biosynthesis		4MYS
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_01655	COG3288	C	NAD/NADP transhydrogenase alpha subunit	PntA			1F8G
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_01660	COG1063	ER	Threonine dehydrogenase or related Zn-dependent dehydrogenase	Tdh	Non-phosphorylated Entner-Doudoroff pathway		4A2C
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_01685	COG0446	I	NADPH-dependent 2,4-dienoyl-CoA reductase, sulfur reductase, or a related oxidoreductase	FadH2			1VRQ
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_01695	COG0564	J	Pseudouridine synthase RluA, 23S rRNA- or tRNA-specific	RluA	23S rRNA modification		2I82
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_01700	COG2226	H	Ubiquinone/menaquinone biosynthesis C-methylase UbiE/MenG	UbiE	Biotin biosynthesis		4OBW
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_01710	COG0451	M	Nucleoside-diphosphate-sugar epimerase	WcaG			2X4G
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_01730	COG0171	H	NH3-dependent NAD+ synthetase	NadE	NAD biosynthesis		3HMQ
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_01755	COG0633	C	Ferredoxin	Fdx			1KRH
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_01765	COG0224	C	FoF1-type ATP synthase, gamma subunit	AtpG	FoF1-type ATP synthase	15326535	3OAA
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_01790	COG0424	Q	7-methyl-GTP pyrophosphatase and related NTP pyrophosphatases, Maf/HAM1 superfamily	Maf		24210219	2P5X
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_01795	COG1797	H	Cobyrinic acid a,c-diamide synthase	CobB	Cobalamine/B12 biosynthesis		
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_01800	COG3383	R	Predicted molibdopterin-dependent oxidoreductase YjgC	YjgC			1AA6
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_01810	COG0464	MDT	AAA+-type ATPase, SpoVK/Ycf46/Vps4 family	SpoVK			3SYL
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_01835	COG3011	R	Predicted thiol-disulfide oxidoreductase YuxK, DCC family	YuxK		15236740	
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_01850	COG2154	H	Pterin-4a-carbinolamine dehydratase	PhhB			1DCH
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_01855	COG0378	O	Hydrogenase/urease maturation factor HypB, Ni2+-binding GTPase	HypB		24338018;23899293	2HF8
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_01865	COG4143	H	ABC-type thiamine transport system, periplasmic component TbpA	TbpA			2QRY
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_01870	COG4149	P	ABC-type molybdate transport system, permease component ModB	ModB	Molybdopterin biosynthesis		
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_01880	COG4222	S	Uncharacterized conserved protein, contains a phytase-like domain				
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_01890	COG1641	H	CTP-dependent cyclometallase, nickel-pincer nucleotide (NPN) cofactor biosynthesis	LarC		29887527	3C19
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_01905	COG3071	S	Uncharacterized protein HemY, contains HemY_N domain and TPR repeats (unrelated to protoporphyrinogen oxidase HemY)	HemYx			
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_01915	COG3568	R	Metal-dependent hydrolase, endonuclease/exonuclease/phosphatase family	ElsH		15178340	
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_01920	COG0812	M	UDP-N-acetylenolpyruvoylglucosamine reductase	MurB	Mureine biosynthesis		2MBR
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_01925	COG0001	H	Glutamate-1-semialdehyde aminotransferase	HemL	Heme biosynthesis		2CFB
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_01935	COG0539	J	Ribosomal protein S1	RpsA	Ribosome 30S subunit		4NNH
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_01940	COG1402	H	Creatinine amidohydrolase/Fe(II)-dependent FAPy formamide hydrolase (riboflavin and F420 biosynthesis)	ArfB	Riboflavin/FAD biosynthesis		1J2T
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_01955	COG0825	I	Acetyl-CoA carboxylase alpha subunit	AccA	Fatty acid biosynthesis		2F9I
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_01975	COG1512	S	Uncharacterized membrane protein YgcG, contains a TPM-fold domain	YgcG			2KW7
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_01990	COG0566	J	tRNA G18 (ribose-2'-O)-methylase SpoU	SpoU	tRNA modification		1GZ0
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_02020	COG1357	S	Uncharacterized conserved protein YjbI, contains pentapeptide repeats	YjbI			2BM4
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_02025	COG0792	L	Predicted endonuclease distantly related to archaeal Holliday junction resolvase, YraN/UPF0102 family	YraN			3FOV
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_02040	COG2518	O	Protein-L-isoaspartate O-methyltransferase	Pcm		24909784	3LBF
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_02045	COG0083	E	Homoserine kinase	ThrB	Threonine biosynthesis		1FWK
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_02060	COG1154	HI	Deoxyxylulose-5-phosphate synthase	Dxs	Pyridoxal phosphate biosynthesis		2O1S
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_02065	COG0341	U	Preprotein translocase subunit SecF	SecF		28830929	2FYH
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_02070	COG0342	U	Preprotein translocase subunit SecD	SecD		26100040	3AQP
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_02075	COG1881	R	Uncharacterized conserved protein, phosphatidylethanolamine-binding protein (PEBP) family	PEBP			1A44
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_02105	COG2897	P	3-mercaptopyruvate sulfurtransferase SseA, contains two rhodanese domains	SseA			1BOH
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_02115	COG4585	T	Signal transduction histidine kinase ComP	ComP			4GT8
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_02130	COG2226	H	Ubiquinone/menaquinone biosynthesis C-methylase UbiE/MenG	UbiE	Biotin biosynthesis		4OBW
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_02135	COG3968	E	Glutamine synthetase type III	GlnA3			
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_02145	COG0520	E	Selenocysteine lyase/Cysteine desulfurase	CsdA			4LW2
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_02150	COG0117	H	Riboflavin biosynthesis protein RibD, pyrimidine deaminase domain	RibD1	Riboflavin/FAD biosynthesis		2O7P
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_02155	COG1104	E	Cysteine desulfurase/Cysteine sulfinate desulfinase IscS or related enzyme, NifS family	NifS		22773787;25825430	4IXO
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_02160	COG0486	J	tRNA U34 5-carboxymethylaminomethyl modifying GTPase MnmE/TrmE	MnmE	tRNA modification		
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_02170	COG1268	H	Biotin transporter BioY	BioY			4DVE
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_02185	COG1025	O	Secreted/periplasmic Zn-dependent peptidases, insulinase-like	Ptr			1Q2L
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_02195	COG1566	V	Multidrug resistance efflux pump EmrA	EmrA			4TKO
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_02200	COG0577	V	ABC-type antimicrobial peptide transport system, permease component	SalY			
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_02205	COG3845	F	ABC-type guanosine uptake system NupNOPQ, ATPase component NupO	NupO		21926227	
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_02215	COG1215	N	Glycosyltransferase, catalytic subunit of cellulose synthase and poly-beta-1,6-N-acetylglucosamine synthase	BcsA			4HG6
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_02225	COG1729	D	Cell division protein CpoB, coordinates peptidoglycan biosynthesis and outer membrane constriction	CpoB		25951518	2WZ7
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_02235	COG3010	G	Putative N-acetylmannosamine-6-phosphate epimerase	NanE			1Y0E
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_02245	COG1087	M	UDP-glucose 4-epimerase	GalE			1A9Y
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_02250	COG0297	G	Glycogen synthase	GlgA			1RZU
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_02255	COG0744	M	Penicillin-binding protein 1B/1F, peptidoglycan  transglycosylase/transpeptidase	MrcB			3FWL
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_02270	COG0512	EH	Anthranilate/para-aminobenzoate synthase component II (glutamine amidotransferase)	PabA	Aromatic amino acid biosynthesis		1I1Q
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_02280	COG0520	E	Selenocysteine lyase/Cysteine desulfurase	CsdA			4LW2
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_02285	COG0520	E	Selenocysteine lyase/Cysteine desulfurase	CsdA			4LW2
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_02300	COG3025	P	Inorganic triphosphatase YgiF, contains CYTH and CHAD domains	PPPi		22984449	5A60
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_02310	COG3180	R	Uncharacterized membrane protein AbrB, regulator of aidB expression	AbrB			
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_02325	COG0553	KL	Superfamily II DNA or RNA helicase, SNF2 family	HepA			6UXV
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_02340	COG0451	M	Nucleoside-diphosphate-sugar epimerase	WcaG			2X4G
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_02375	COG4555	CP	ABC-type Na+ transport system, ATPase component NatA	NatA			
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_02380	COG4147	C	Na+(or H+)/acetate symporter ActP	ActP			
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_02385	COG1032	R	Radical SAM superfamily enzyme YgiQ, UPF0313 family	YgiQ			6FD2
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_02405	COG0517	T	CBS domain	CBS			1B3O
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_02430	COG0190	H	5,10-methylene-tetrahydrofolate dehydrogenase/Methenyl tetrahydrofolate cyclohydrolase	FolD			1A4I
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_02435	COG2206	T	HD-GYP domain, c-di-GMP phosphodiesterase class II (or its inactivated variant)	HDGYP		23475961	5Z7C
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_02440	COG2931	Q	Ca2+-binding protein, RTX toxin-related			15135544	1AF0
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_02485	COG1177	E	ABC-type spermidine/putrescine transport system, permease component II	PotC			
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_02490	COG0119	E	Isopropylmalate/homocitrate/citramalate synthases	LeuA	Isoleucine, leucine, valine biosynthesis		4JN6
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_02495	COG1543	G	Predicted glycosyl hydrolase, contains GH57 and DUF1957 domains				1UFA
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_02510	COG2771	K	DNA-binding transcriptional regulator, CsgD family	CsgD			
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_02550	COG0225	O	Peptide methionine sulfoxide reductase MsrA	MsrA			1FF3
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_02560	COG0663	R	Carbonic anhydrase or acetyltransferase, isoleucine patch superfamily	PaaY			6IVE
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_02575	COG0664	T	cAMP-binding domain of CRP or a regulatory subunit of cAMP-dependent protein kinases	Crp			1FT9
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_02580	COG0176	G	Transaldolase/fructose-6-phosphate aldolase	TalA	Pentose phosphate pathway		1F05
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_02585	COG0768	DM	Cell division protein FtsI, peptidoglycan transpeptidase (Penicillin-binding protein 2)	FtsI			6HZQ
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_02595	COG1266	O	Membrane protease YdiL, CAAX protease family	YdiL			
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_02600	COG0588	G	Phosphoglycerate mutase (BPG-dependent)	GpmA	Glycolysis		1E58
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_02605	COG0044	F	Dihydroorotase or related cyclic amidohydrolase	AllB	Pyrimidine biosynthesis		1J79
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_02610	COG0681	U	Signal peptidase I	LepB		1925027	1B12
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_02625	COG0633	C	Ferredoxin	Fdx			1KRH
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_02640	COG0441	J	Threonyl-tRNA synthetase	ThrS	Aminoacyl-tRNA synthetases		1NYQ
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_02650	COG0104	F	Adenylosuccinate synthase	PurA	Purine biosynthesis		1ADE
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_02655	COG1105	G	1-phosphofructokinase or 6-phosphofructokinase II	FruK			2ABQ
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_02660	COG1324	P	Divalent cation tolerance protein CutA	CutA1			1NAQ
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_02665	COG2099	H	Precorrin-6x reductase	CobK	Cobalamine/B12 biosynthesis		4X7G
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_02670	COG0629	L	Single-stranded DNA-binding protein	Ssb			1EQQ
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_02685	COG1608	I	Isopentenyl phosphate kinase			16621811	3LKK
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_02705	COG2204	T	DNA-binding transcriptional response regulator, NtrC family, contains REC, AAA-type ATPase, and a Fis-type DNA-binding domains	AtoC			1ZY2
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_02715	COG0695	O	Glutaredoxin	GrxC			1AAZ
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_02720	COG0271	KT	DNA-binding global transcriptional regulator BolA, affects cell shape, cell division and biofilm formation	BolA		19111750;2569159	2DHM
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_02730	COG0204	I	1-acyl-sn-glycerol-3-phosphate acyltransferase	PlsC	Phospholipid biosynthesis		1IUQ
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_02735	COG0854	H	Pyridoxine 5'-phosphate synthase PdxJ	PdxJ	Pyridoxal phosphate biosynthesis		1HO1
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_02755	COG1538	M	Outer membrane protein TolC	TolC			1EK9
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_02765	COG1968	I	Undecaprenyl pyrophosphate phosphatase	UppP			5OON
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_02785	COG4243	R	Vitamin K epoxide reductase (VKOR) family protein, predicted involvement in disulfide bond formation			24576574	3KP9
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_02790	COG1032	R	Radical SAM superfamily enzyme YgiQ, UPF0313 family	YgiQ			6FD2
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_02800	COG4214	G	ABC-type xylose transport system, permease component	XylH			
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_02805	COG1612	H	Heme A synthase	CtaA			6A2J
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_02815	COG0396	O	Fe-S cluster assembly ATPase SufC	SufC			2D3W
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_02820	COG0842	V	ABC-type multidrug transport system, permease component	YadH			
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_02830	COG0269	G	3-keto-L-gulonate-6-phosphate decarboxylase	UlaD			3F4W
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_02835	COG0459	O	Chaperonin GroEL (HSP60 family)	GroEL			1AON
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_02845	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_02850	COG1226	P	Voltage-gated potassium channel Kch	Kch			3FWZ
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_02860	COG2068	H	CTP:molybdopterin cytidylyltransferase MocA	MocA			2WAW
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_02875	COG1053	C	Succinate dehydrogenase/fumarate reductase, flavoprotein subunit	SdhA	TCA cycle		1KF6
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_02915	COG5271	J	Midasin, AAA ATPase with  vWA domain, involved in ribosome maturation	MDN1			6HYP
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_02920	COG0480	J	Translation elongation factor EF-G, a GTPase	FusA	Translation factors		1DAR
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_02935	COG0309	O	Carbamoyl dehydratase HypE (hydrogenase maturation factor)	HypE		28618091	2I6R
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_02945	COG0667	HR	Pyridoxal reductase PdxI or related oxidoreductase, aldo/keto reductase family	PdxI		32253339	1LQA
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_02995	COG0455	DN	MinD-like ATPase FlhG/YlxH, activator of the FlhF-type GTPase	FlhG			1G3Q
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_03000	COG0772	D	Peptodoglycan polymerase FtsW/RodA/SpoVE	FtsW		30692671	6BAR
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_03005	COG3524	M	Capsule polysaccharide export protein KpsE/RkpR	KpsE			
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_03015	COG0147	EH	Anthranilate/para-aminobenzoate synthases component I	TrpE	Aromatic amino acid biosynthesis		1I1Q
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_03025	COG2352	C	Phosphoenolpyruvate carboxylase	Ppc	Urea cycle		1FIY
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_03060	COG0624	E	Acetylornithine deacetylase/Succinyl-diaminopimelate desuccinylase or related deacylase	ArgE	Arginine biosynthesis		1CG2
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_03065	COG0457	R	Tetratricopeptide (TPR) repeat	TPR			3AS4
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_03070	COG2256	L	Replication-associated recombination protein RarA (DNA-dependent ATPase)	RarA			3PVS
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_03075	COG0691	O	tmRNA-binding protein	SmpB		26251518	1J1H
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_03110	COG0589	T	Nucleotide-binding universal stress protein,  UspA family	UspA			1JMV
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_03115	COG0824	I	Acyl-CoA thioesterase FadM	FadM	Menaquinone biosynthesis		2FUJ
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_03125	COG0758	L	Predicted Rossmann fold nucleotide-binding protein DprA/Smf involved in DNA uptake	Smf			3MAJ
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_03130	COG4123	J	tRNA1(Val) A37 N6-methylase TrmN6	TrmN6	tRNA modification		
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_03135	COG0009	J	tRNA A37 threonylcarbamoyladenosine synthetase subunit TsaC/SUA5/YrdC	TsaC	tRNA modification		1HRU
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_03150	COG0851	D	Septum formation topological specificity factor MinE	MinE			1EV0
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_03165	COG1230	P	Co/Zn/Cd efflux system component	CzcD			
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_03180	COG0162	J	Tyrosyl-tRNA synthetase	TyrS	Aminoacyl-tRNA synthetases		4OUD
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_03225	COG1190	J	Lysyl-tRNA synthetase (class II)	LysU	Aminoacyl-tRNA synthetases		1BBU
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_03230	COG2197	TK	DNA-binding response regulator, NarL/FixJ family, contains REC and HTH domains	CitB			1A04
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_03250	COG0849	D	Cell division ATPase FtsA	FtsA			3WT0
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_03260	COG0760	O	Peptidyl-prolyl isomerase, parvulin family	SurA			2ZR5
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_03265	COG1088	M	dTDP-D-glucose 4,6-dehydratase	RfbB			1G1A
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_03270	COG2144	R	Selenophosphate synthetase-related protein				
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_03275	COG5305	R	Uncharacterized membrane protein PF0508, contains N-terminal glycosyltransferase domain of PMT family				
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_03285	COG0517	T	CBS domain	CBS			1B3O
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_03290	COG2217	P	Cation-transporting P-type ATPase	ZntA			4BBJ
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_03300	COG1861	M	Spore coat polysaccharide biosynthesis protein SpsF, cytidylyltransferase family	SpsF			
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_03315	COG0210	L	Superfamily I DNA or RNA helicase	UvrD			6PPR
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_03320	COG2831	U	Hemolysin activation/secretion protein	FhaC			2MHJ
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_03325	COG0152	F	Phosphoribosylaminoimidazole-succinocarboxamide synthase	PurC	Purine biosynthesis		1A48
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_03335	COG0439	I	Biotin carboxylase	AccC	Fatty acid biosynthesis		1BNC
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_03340	COG3852	T	Signal transduction histidine kinase NtrB, nitrogen specific	NtrB		23893111	
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_03345	COG2874	N	Archaellum biogenesis ATPase ArlH/FlaH	FlaH		32416640	4WIA
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_03375	COG0793	O	C-terminal processing protease CtpA/Prc, contains a PDZ domain	CtpA			6IQU
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_03380	COG1484	L	DNA replication protein DnaC	DnaC			2QGZ
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_03390	COG0625	O	Glutathione S-transferase	GstA			1A0F
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_03400	COG0446	I	NADPH-dependent 2,4-dienoyl-CoA reductase, sulfur reductase, or a related oxidoreductase	FadH2			1VRQ
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_03410	COG2226	H	Ubiquinone/menaquinone biosynthesis C-methylase UbiE/MenG	UbiE	Biotin biosynthesis		4OBW
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_03430	COG0696	G	Phosphoglycerate mutase (BPG-independent), AlkP superfamily	GpmI	Glycolysis		1EJJ
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_03435	COG0634	F	Hypoxanthine-guanine phosphoribosyltransferase	HptA	Purine salvage		1G9S
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_03450	COG1077	DZ	Cell shape-determining ATPase MreB, actin-like superfamily	MreB			1JCE
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_03485	COG0771	M	UDP-N-acetylmuramoylalanine-D-glutamate ligase	MurD	Mureine biosynthesis		1E0D
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_03495	COG0564	J	Pseudouridine synthase RluA, 23S rRNA- or tRNA-specific	RluA	23S rRNA modification		2I82
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_03505	COG4447	R	Uncharacterized conserved protein related to plant photosystem II stability/assembly factor				2XBG
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_03510	COG1773	P	Flavorubredoxin	NorV			4D02
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_03520	COG1941	C	Coenzyme F420-reducing hydrogenase, gamma subunit	FrhG			5ODC
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_03525	COG3262	C	Ni,Fe-hydrogenase III component G	HycE1			
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_03530	COG0391	GH	Archaeal 2-phospho-L-lactate transferase/Bacterial gluconeogenesis factor, CofD/UPF0052 family	CofD		11888293;18252724	1ZX8
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_03535	COG0488	R	ATPase components of ABC transporters with duplicated ATPase domains	Uup			5ZXD
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_03540	COG1463	M	Periplasmic subunit MlaD of the ABC-type intermembrane phospholipid transporter Mla	MlaD			5UW8
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_03545	COG1239	H	Mg-chelatase subunit ChlI	ChlI			1G8P
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_03555	COG0407	H	Uroporphyrinogen-III decarboxylase HemE	HemE	Heme biosynthesis		2DG5
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_03560	COG0451	M	Nucleoside-diphosphate-sugar epimerase	WcaG			2X4G
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_03565	COG4454	R	Uncharacterized copper-binding protein, cupredoxin-like subfamily				
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_03570	COG2010	C	Cytochrome c, mono- and diheme variants	CccA			1A2S
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_03590	COG0542	O	ATP-dependent Clp protease, ATP-binding subunit ClpA	ClpA			1KSF
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_03610	COG1003	E	Glycine cleavage system protein P (pyridoxal-binding), C-terminal domain	GcvP2	Glycine cleavage		4LGL
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_03615	COG0509	E	Glycine cleavage system protein H (lipoate-binding)	GcvH	Glycine cleavage		1DXM
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_03620	COG0626	E	Cystathionine beta-lyase/cystathionine gamma-synthase	MetC	Methionine biosynthesis		1CL1
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_03625	COG1398	I	Fatty-acid desaturase	OLE1			4YMK
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_03630	COG0046	F	Phosphoribosylformylglycinamidine (FGAM) synthase, synthetase domain	PurL1	Purine biosynthesis		3VIU
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_03640	COG0592	L	DNA polymerase III sliding clamp (beta) subunit, PCNA homolog	DnaN			1JQJ
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_03650	COG0031	E	Cysteine synthase	CysK	Cysteine biosynthesis		1FCJ
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_03660	COG3642	J	tRNA A-37 threonylcarbamoyl transferase component Bud32	Bud32	tRNA modification		2VWB
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_03665	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_03670	COG1121	P	ABC-type Mn2+/Zn2+ transport system, ATPase component	ZnuC			
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_03675	COG4188	R	Predicted dienelactone hydrolase				
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_03680	COG1109	G	Phosphomannomutase	ManB			6MNV
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_03690	COG0354	O	Folate-binding protein YgfZ, synthesis and repair of Fe-S clusters	YgfZ		27941785;22081392	1NRK
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_03705	COG1253	R	Hemolysin-related protein, contains CBS domains, UPF0053 family	TlyC			2NQW
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_03710	COG0673	R	Predicted dehydrogenase	MviM			3UUW
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_03725	COG0343	J	Queuine/archaeosine tRNA-ribosyltransferase	Tgt	tRNA modification	15805528	1XW8
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_03735	COG3290	T	Sensor histidine kinase DipB regulating citrate/malate metabolism	CitA			
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_03745	COG0412	Q	Dienelactone hydrolase	DLH			4ZV9
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_03750	COG0138	F	AICAR transformylase/IMP cyclohydrolase PurH	PurH	Purine biosynthesis		1G8M
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_03770	COG0004	P	Ammonia channel protein AmtB	AmtB			1U77
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_03775	COG1489	GT	DNA-binding protein, stimulates sugar fermentation	SfsA			4DA2
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_03780	COG0534	V	Na+-driven multidrug efflux pump, DinF/NorM/MATE family	NorM		29915058	3VVN
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_03805	COG0112	E	Glycine/serine hydroxymethyltransferase	GlyA	Serine biosynthesis		1BJ4
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_03810	COG0472	M	UDP-N-acetylmuramyl pentapeptide phosphotransferase/UDP-N-acetylglucosamine-1-phosphate transferase	Rfe	Mureine biosynthesis		4J72
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_03830	COG1339	H	Archaeal CTP-dependent riboflavin kinase	Rfk	Riboflavin/FAD biosynthesis		2OYN
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_03840	COG0299	F	Folate-dependent phosphoribosylglycinamide formyltransferase PurN	PurN	Purine biosynthesis	25013077	1C2T
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_03845	COG0312	R	Zn-dependent protease PmbA/TldA or its inactivated homolog	TldD		12029038	3TV9
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_03850	COG0312	R	Zn-dependent protease PmbA/TldA or its inactivated homolog	TldD		12029038	3TV9
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_03870	COG1095	K	DNA-directed RNA polymerase, subunit E'/Rpb7	RPB7	RNA polymerase		1NT9
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_03875	COG2119	R	Putative Ca2+/H+ antiporter, TMEM165/GDT1 family	Gdt1		23569283	
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_03880	COG2119	R	Putative Ca2+/H+ antiporter, TMEM165/GDT1 family	Gdt1		23569283	
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_03885	COG0727	R	Uncharacterized protein YkgJ, contains CxxCxxCC motif	YkgJ			
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_03905	COG0608	L	ssDNA-specific exonuclease RecJ, DHH superfamily, may be involved in archaeal DNA replication intiation	RecJ			1IR6
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_03910	COG0637	G	Beta-phosphoglucomutase, HAD superfamily	YcjU		29684280	3E58
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_03920	COG0572	F	Uridine kinase	Udk	Pyrimidine salvage		5B3F
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_03930	COG0465	O	ATP-dependent Zn proteases	HflB			1LV7
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_03940	COG2077	O	Peroxiredoxin	Tpx			4AF2
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_03960	COG4106	C	Trans-aconitate methyltransferase	Tam			2P35
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_03980	COG0156	H	7-keto-8-aminopelargonate synthetase or related enzyme	BioF	Biotin biosynthesis		1BS0
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_03990	COG0484	O	DnaJ-class molecular chaperone with C-terminal Zn finger domain	DnaJ			1BQ0
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_03995	COG0357	J	16S rRNA G527 N7-methylase RsmG (former glucose-inhibited division protein B)	RsmG	16S rRNA modification	15375115;22031445	1XDZ
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_04000	COG0667	HR	Pyridoxal reductase PdxI or related oxidoreductase, aldo/keto reductase family	PdxI		32253339	1LQA
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_04005	COG1141	C	Ferredoxin	Fer			1IQZ
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_04015	COG0579	G	L-2-hydroxyglutarate oxidase LhgO	LhgO			3DME
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_04025	COG0223	J	Methionyl-tRNA formyltransferase	Fmt			1FMT
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_04035	COG1032	R	Radical SAM superfamily enzyme YgiQ, UPF0313 family	YgiQ			6FD2
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_04045	COG1049	C	Aconitase B	AcnB	TCA cycle		1L5J
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_04050	COG0722	E	3-deoxy-D-arabino-heptulosonate 7-phosphate (DAHP) synthase	AroG1	Aromatic amino acid biosynthesis		6U8J
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_04065	COG0568	K	DNA-directed RNA polymerase, sigma subunit (sigma70/sigma32)	RpoD	RNA polymerase		1SIG
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_04075	COG2814	G	Predicted arabinose efflux permease AraJ, MFS family	AraJ			4LDS
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_04095	COG1793	L	ATP-dependent DNA ligase	CDC9			1A0I
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_04105	COG2521	R	Predicted archaeal methyltransferase				
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_04125	COG1204	L	Replicative superfamily II helicase	BRR2			2VA8
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_04130	COG0296	G	1,4-alpha-glucan branching enzyme	GlgB		25871919	4LPC
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_04140	COG0664	T	cAMP-binding domain of CRP or a regulatory subunit of cAMP-dependent protein kinases	Crp			1FT9
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_04200	COG0484	O	DnaJ-class molecular chaperone with C-terminal Zn finger domain	DnaJ			1BQ0
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_04210	COG2226	H	Ubiquinone/menaquinone biosynthesis C-methylase UbiE/MenG	UbiE	Biotin biosynthesis		4OBW
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_04240	COG0494	V	8-oxo-dGTP pyrophosphatase MutT and related house-cleaning NTP pyrophosphohydrolases, NUDIX family	MutT			4V14
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_04245	COG1129	G	ABC-type sugar transport system, ATPase component	MglA			
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_04250	COG0451	M	Nucleoside-diphosphate-sugar epimerase	WcaG			2X4G
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_04265	COG1030	O	Membrane-bound serine protease NfeD, ClpP class	NfeD			2DEO
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_04275	COG1566	V	Multidrug resistance efflux pump EmrA	EmrA			4TKO
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_04285	COG1136	M	ABC-type lipoprotein export system, ATPase component	LolD			5GKO
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_04290	COG4531	P	ABC-type Zn2+ transport system, periplasmic component/surface adhesin ZnuA	ZnuA			2OGW
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_04300	COG0633	C	Ferredoxin	Fdx			1KRH
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_04305	COG0572	F	Uridine kinase	Udk	Pyrimidine salvage		5B3F
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_04385	COG1090	R	NAD dependent epimerase/dehydratase family enzyme	YfcH			4B4O
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_04415	COG0724	J	RNA recognition motif (RRM) domain	RRM			1HL6
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_04430	COG1215	N	Glycosyltransferase, catalytic subunit of cellulose synthase and poly-beta-1,6-N-acetylglucosamine synthase	BcsA			4HG6
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_04460	COG5470	S	Uncharacterized conserved protein, DUF1330 family				
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_04485	COG2343	S	Uncharacterized conserved protein, DUF427 family				3DJM
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_04500	COG0405	E	Gamma-glutamyltranspeptidase	Ggt		16618936	2Z8I
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_04540	COG3330	S	Uncharacterized conserved protein BH1414				
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_04575	COG0020	I	Undecaprenyl pyrophosphate synthase	UppS			1X07
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_04580	COG1624	T	c-di-AMP synthetase, contains DisA_N domain	DisA			2FB5
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_04585	COG0019	E	Diaminopimelate decarboxylase	LysA	Lysine biosynthesis		1D7K
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_04590	COG0456	J	Ribosomal protein S18 acetylase RimI and related acetyltransferases	RimI			1GHE
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_04595	COG5271	J	Midasin, AAA ATPase with  vWA domain, involved in ribosome maturation	MDN1			6HYP
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_04600	COG1454	C	Alcohol dehydrogenase, class IV	EutG			6AHC
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_04605	COG0596	HR	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold	MenH	Menaquinone biosynthesis		4MYS
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_04615	COG4589	R	Predicted CDP-diglyceride synthetase/phosphatidate cytidylyltransferase	YnbB			
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_04630	COG0661	HT	Predicted protein kinase regulating ubiquinone biosynthesis, AarF/ABC1/UbiB family	AarF	Ubiquinone biosynthesis		4PED
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_04640	COG0784	T	CheY-like REC (receiver) domain, includes chemotaxis protein CheY  and sporulation regulator Spo0F	CheY			6QRJ
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_04650	COG0633	C	Ferredoxin	Fdx			1KRH
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_04655	COG0483	G	Archaeal fructose-1,6-bisphosphatase or related enzyme, inositol monophosphatase family	SuhB	Gluconeogenesis		1AWB
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_04665	COG1146	F	NAD-dependent dihydropyrimidine dehydrogenase, PreA subunit	PreA			
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_04675	COG0227	J	Ribosomal protein L28	RpmB	Ribosome 50S subunit		2JZ6
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_04680	COG0668	M	Small-conductance mechanosensitive channel	MscS			2OAU
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_04700	COG0776	L	Bacterial nucleoid DNA-binding protein IHF-alpha	HimA			1B8Z
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_04710	COG1523	G	Pullulanase/glycogen debranching enzyme	PulA			2WSK
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_04745	COG0382	H	4-hydroxybenzoate polyprenyltransferase	UbiA	Ubiquinone biosynthesis	28830929	4OD4
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_04750	COG0744	M	Penicillin-binding protein 1B/1F, peptidoglycan  transglycosylase/transpeptidase	MrcB			3FWL
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_04755	COG2226	H	Ubiquinone/menaquinone biosynthesis C-methylase UbiE/MenG	UbiE	Biotin biosynthesis		4OBW
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_04765	COG0219	J	tRNA(Leu) C34 or U34 (ribose-2'-O)-methylase TrmL, contains SPOUT domain	TrmL	tRNA modification		4JAK
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_04780	COG4239	Q	ABC-type microcin C transport system, permease component YejE	YejE			
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_04810	COG0461	F	Orotate phosphoribosyltransferase	PyrE	Pyrimidine biosynthesis		4WML
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_04840	COG2204	T	DNA-binding transcriptional response regulator, NtrC family, contains REC, AAA-type ATPase, and a Fis-type DNA-binding domains	AtoC			1ZY2
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_04845	COG5002	T	Sensor histidine kinase WalK	WalK			4I5S
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_04850	COG2326	C	Polyphosphate kinase 2, PPK2 family	PPK2			3CZP
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_04885	COG0136	E	Aspartate-semialdehyde dehydrogenase	Asd	Lysine biosynthesis		1BRM
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_04895	COG0480	J	Translation elongation factor EF-G, a GTPase	FusA	Translation factors		1DAR
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_04910	COG0779	J	Ribosome maturation factor RimP	RimP			1IB8
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_04925	COG0641	O	Sulfatase maturation enzyme AslB, radical SAM superfamily	AslB			4K37
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_04930	COG0793	O	C-terminal processing protease CtpA/Prc, contains a PDZ domain	CtpA			6IQU
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_04935	COG1349	KG	DNA-binding transcriptional regulator of sugar metabolism, DeoR/GlpR family	GlpR			
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_04940	COG0141	E	Histidinol dehydrogenase	HisD	Histidine biosynthesis		1K75
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_04945	COG0268	J	Ribosomal protein S20	RpsT	Ribosome 30S subunit		4V4H
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_04980	COG4783	MO	Outer membrane protein chaperone/metalloprotease BepA/YfgC, contains M48 and TPR domains	BepA		24003122	6AIT
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_04985	COG0457	R	Tetratricopeptide (TPR) repeat	TPR			3AS4
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_04990	COG0438	M	Glycosyltransferase involved in cell wall bisynthesis	RfaB			2IV7
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_05000	COG0242	J	Peptide deformylase	Def			1BS4
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_05005	COG0412	Q	Dienelactone hydrolase	DLH			4ZV9
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_05010	COG2931	Q	Ca2+-binding protein, RTX toxin-related			15135544	1AF0
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_05015	COG0075	EF	Archaeal aspartate aminotransferase or a related aminotransferase, includes purine catabolism protein PucG	PucG	Serine biosynthesis		3NNK
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_05020	COG0719	O	Fe-S cluster assembly scaffold protein SufB	SufB			1VH4
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_05035	COG4822	H	Cobalamin biosynthesis protein CbiK, Co2+ chelatase	CbiK	Cobalamine/B12 biosynthesis		1QGO
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_05045	COG1249	C	Dihydrolipoamide dehydrogenase (E3) component of pyruvate/2-oxoglutarate dehydrogenase complex or glutathione oxidoreductase	Lpd	Glycine cleavagePyruvate oxidation		6QKG
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_05065	COG0799	J	Ribosomal silencing factor RsfS, regulates association of 30S and 50S subunits	RsfS			6SJ6
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_05075	COG1038	C	Pyruvate carboxylase	PycA	Urea cycle		5VYW
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_05085	COG1115	E	Na+/alanine symporter	AlsT			6CSE
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_05095	COG4586	R	ABC-type uncharacterized transport system, ATPase component				
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_05100	COG1189	J	Predicted rRNA methylase YqxC, contains S4 and FtsJ domains	YqxC			3OPN
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_05105	COG0149	G	Triosephosphate isomerase	TpiA	Glycolysis		1HG3
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_05125	COG2931	Q	Ca2+-binding protein, RTX toxin-related			15135544	1AF0
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_05135	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_05145	COG0291	J	Ribosomal protein L35	RpmI	Ribosome 50S subunit	28373563	1VS6
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_05155	COG5010	UW	Flp pilus assembly protein TadD, contains TPR repeats	TadD			3WXX
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_05165	COG1233	Q	Phytoene dehydrogenase-related protein				4REP
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_05190	COG0451	M	Nucleoside-diphosphate-sugar epimerase	WcaG			2X4G
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_05195	COG1233	Q	Phytoene dehydrogenase-related protein				4REP
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_05205	COG3118	O	Chaperedoxin CnoX, contains thioredoxin-like and TPR-like domains, YbbN/TrxSC family	CnoX		21498507;29754824	3QDN
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_05210	COG0210	L	Superfamily I DNA or RNA helicase	UvrD			6PPR
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_05220	COG0662	G	Mannose-6-phosphate isomerase, cupin superfamily	ManC			1IPJ
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_05225	COG1205	L	ATP-dependent helicase YprA,  contains C-terminal metal-binding DUF1998 domain	YprA			
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_05230	COG0460	E	Homoserine dehydrogenase	ThrA	Methionine biosynthesis	29124164	5AVO
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_05235	COG0770	M	UDP-N-acetylmuramyl pentapeptide synthase	MurF	Mureine biosynthesis		4CVK
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_05240	COG0812	M	UDP-N-acetylenolpyruvoylglucosamine reductase	MurB	Mureine biosynthesis		2MBR
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_05250	COG1161	J	Ribosome biogenesis GTPase RbgA	RbgA			6G14
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_05260	COG2214	K	Curved DNA-binding protein CbpA, contains a DnaJ-like domain	CbpA			
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_05265	COG0576	O	Molecular chaperone GrpE (heat shock protein HSP-70)	GrpE			1DKG
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_05270	COG0630	NU	Type IV secretory pathway ATPase VirB11/Archaellum biosynthesis ATPase ArlI/FlaI	VirB11		32416640	1G6O
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_05275	COG0630	NU	Type IV secretory pathway ATPase VirB11/Archaellum biosynthesis ATPase ArlI/FlaI	VirB11		32416640	1G6O
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_05280	COG1459	NUW	Type II secretory pathway, component PulF	PulF			2VMA
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_05290	COG0229	O	Peptide methionine sulfoxide reductase MsrB	MsrB			1L1D
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_05295	COG0042	J	tRNA-dihydrouridine synthase	DusA	tRNA modification		1VHN
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_05300	COG0724	J	RNA recognition motif (RRM) domain	RRM			1HL6
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_05305	COG0015	F	Adenylosuccinate lyase	PurB	Purine biosynthesis		2HVG
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_05310	COG2203	T	GAF domain	GAF			
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_05315	COG1419	N	Flagellar biosynthesis GTPase FlhF	FlhF			3SYN
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_05325	COG2928	S	Uncharacterized membrane protein			19363116	
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_05335	COG1143	C	Formate hydrogenlyase subunit 6/NADH:ubiquinone oxidoreductase 23 kD subunit (chain I)	NuoI	NADH dehydrogenase		1B0P
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_05340	COG5010	UW	Flp pilus assembly protein TadD, contains TPR repeats	TadD			3WXX
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_05345	COG0188	L	DNA gyrase/topoisomerase IV, subunit A	GyrA			1SUU
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_05350	COG0367	E	Asparagine synthetase B (glutamine-hydrolyzing)	AsnB	Asparagine biosynthesis	25951518	2ETD
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_05355	COG0309	O	Carbamoyl dehydratase HypE (hydrogenase maturation factor)	HypE		28618091	2I6R
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_05360	COG0308	E	Aminopeptidase N, contains DUF3458 domain	PepN		24123841	6ATK
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_05375	COG5000	T	Signal transduction histidine kinase NtrY involved in nitrogen fixation and metabolism regulation	NtrY			
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_05390	COG1018	C	Flavodoxin/ferredoxin--NADP reductase	Fpr			3OZU
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_05395	COG0364	G	Glucose-6-phosphate 1-dehydrogenase	Zwf	Pentose phosphate pathway	18950999	5B7W
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_05410	COG2227	H	2-polyprenyl-3-methyl-5-hydroxy-6-metoxy-1,4-benzoquinol methylase	UbiG	Ubiquinone biosynthesis		1BHJ
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_05415	COG4108	J	Peptide chain release factor RF-3	PrfC	Translation factors		3UOQ
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_05430	COG1281	O	Redox-regulated molecular chaperone, HSP33 family	HslO			1HW7
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_05435	COG1136	M	ABC-type lipoprotein export system, ATPase component	LolD			5GKO
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_05445	COG4678	MX	Muramidase (phage lambda lysozyme)				
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_05460	COG0371	C	Glycerol dehydrogenase or related enzyme, iron-containing ADH family	GldA	Isoprenoid biosynthesis	20688982	3S99
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_05465	COG4209	G	ABC-type polysaccharide transport system, permease component	LplB			4TQU
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_05530	COG2771	K	DNA-binding transcriptional regulator, CsgD family	CsgD			
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_05540	COG0031	E	Cysteine synthase	CysK	Cysteine biosynthesis		1FCJ
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_05565	COG0148	G	Enolase	Eno	Glycolysis		1E9I
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_05570	COG0346	Q	Catechol 2,3-dioxygenase or related enzyme, vicinal oxygen chelate (VOC) family	GloA		11830595	3R4Q
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_05575	COG0542	O	ATP-dependent Clp protease, ATP-binding subunit ClpA	ClpA			1KSF
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_05580	COG0690	U	Preprotein translocase subunit SecE	SecE		29684280	5MG3
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_05590	COG0080	J	Ribosomal protein L11	RplK	Ribosome 50S subunit		2E34
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_05605	COG0024	J	Methionine aminopeptidase	Map			3J2I
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_05610	COG1028	I	NAD(P)-dependent dehydrogenase, short-chain alcohol dehydrogenase family	FabG	Fatty acid biosynthesis		6L1H
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_05620	COG0857	R	BioD-like N-terminal domain of phosphotransacetylase	PtaN			2IOJ
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_05625	COG0758	L	Predicted Rossmann fold nucleotide-binding protein DprA/Smf involved in DNA uptake	Smf			3MAJ
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_05630	COG3686	S	Uncharacterized conserved protein, MAPEG superfamily				
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_05645	COG2109	H	ATP:corrinoid adenosyltransferase	BtuR	Cobalamine/B12 biosynthesis		4HUT
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_05650	COG2226	H	Ubiquinone/menaquinone biosynthesis C-methylase UbiE/MenG	UbiE	Biotin biosynthesis		4OBW
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_05655	COG0582	LX	Integrase/recombinase, includes phage integrase	FimB			
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_05660	COG0276	H	Protoheme ferro-lyase (ferrochelatase)	HemH	Heme biosynthesis		1AK1
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_05665	COG4942	D	Septal ring factor EnvC, activator of murein hydrolases AmiA and AmiB	EnvC			
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_05675	COG3961	GHR	TPP-dependent 2-oxoacid decarboxylase, includes indolepyruvate decarboxylase	PDC1	Pyruvate oxidation		1PYD
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_05695	COG1249	C	Dihydrolipoamide dehydrogenase (E3) component of pyruvate/2-oxoglutarate dehydrogenase complex or glutathione oxidoreductase	Lpd	Glycine cleavagePyruvate oxidation		6QKG
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_05710	COG3245	C	Cytochrome c5	CytC5			1CC5
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_05725	COG0363	G	6-phosphogluconolactonase/Glucosamine-6-phosphate isomerase/deaminase	NagB	Pentose phosphate pathway	24163345	2RI0
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_05755	COG4638	PR	Phenylpropionate dioxygenase or related ring-hydroxylating dioxygenase, large terminal subunit	HcaE			4QDC
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_05775	COG2334	T	Ser/Thr protein kinase RdoA involved in Cpx stress response, MazF antagonist	SrkA	Threonine biosynthesis		1ZYL
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_05785	COG2951	M	Membrane-bound lytic murein transglycosylase B	MltB			1D0K
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_05795	COG2873	E	O-acetylhomoserine/O-acetylserine sulfhydrylase, pyridoxal phosphate-dependent	MET17	Methionine biosynthesis		2CTZ
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_05820	COG0679	R	Predicted permease, AEC (auxin efflux carrier) family	YfdV			
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_05840	COG4619	P	ABC-type iron transporter FetAB, ATPase component	FetA			
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_05845	COG4215	E	ABC-type arginine transport system, permease component	ArtQ			
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_05850	COG4215	E	ABC-type arginine transport system, permease component	ArtQ			
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_05855	COG3221	P	ABC-type phosphate/phosphonate transport system, periplasmic component	PhnD			3S4U
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_05865	COG1161	J	Ribosome biogenesis GTPase RbgA	RbgA			6G14
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_05870	COG1249	C	Dihydrolipoamide dehydrogenase (E3) component of pyruvate/2-oxoglutarate dehydrogenase complex or glutathione oxidoreductase	Lpd	Glycine cleavagePyruvate oxidation		6QKG
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_05875	COG0175	EH	3'-phosphoadenosine 5'-phosphosulfate sulfotransferase (PAPS reductase)/FAD synthetase or related enzyme	CysD	Cysteine biosynthesis		1ZUN
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_05880	COG1521	H	Pantothenate kinase type III	CoaX			2F9T
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_05885	COG0450	V	Alkyl hydroperoxide reductase subunit AhpC (peroxiredoxin)	AhpC			2RII
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_05890	COG2091	H	Phosphopantetheinyl transferase	Sfp			1QR0
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_05910	COG2255	L	Holliday junction resolvasome RuvABC, ATP-dependent DNA helicase subunit RuvB	RuvB			1HQC
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_05930	COG0846	O	NAD-dependent protein deacetylase, SIR2 family	SIR2			1M2N
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_05935	COG2110	J	O-acetyl-ADP-ribose deacetylase (regulator of RNase III), contains Macro domain	YmdB			1HJZ
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_05955	COG2227	H	2-polyprenyl-3-methyl-5-hydroxy-6-metoxy-1,4-benzoquinol methylase	UbiG	Ubiquinone biosynthesis		1BHJ
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_05960	COG0107	E	Imidazole glycerol phosphate synthase subunit HisF	HisF	Histidine biosynthesis		1OX4
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_05975	COG0060	J	Isoleucyl-tRNA synthetase	IleS	Aminoacyl-tRNA synthetases		1FFY
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_05980	COG0253	E	Diaminopimelate epimerase	DapF	Lysine biosynthesis		1BWZ
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_05985	COG0076	E	Glutamate or tyrosine decarboxylase or a related PLP-dependent protein	GadA	Pantothenate/CoA biosynthesis		1XEY
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_06005	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_06010	COG1057	H	Nicotinate-nucleotide adenylyltransferase NadD	NadD	NAD biosynthesis		1YUM
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_06020	COG0322	L	Excinuclease UvrABC, nuclease subunit	UvrC		24513124	2NRT
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_06030	COG0415	L	Deoxyribodipyrimidine photolyase	PhrB			1TEZ
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_06050	COG1411	R	Uncharacterized conserved protein related to proFAR isomerase (HisA)				
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_06055	COG0702	R	Uncharacterized conserved protein YbjT, contains NAD(P)-binding and DUF2867 domains	YbjT			5L3Z
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_06060	COG0558	I	Phosphatidylglycerophosphate synthase	PgsA	Phospholipid biosynthesis		4MND
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_06065	COG2524	K	Predicted transcriptional regulator, contains C-terminal CBS domains				
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_06080	COG1407	R	Metallophosphoesterase superfamily enzyme				
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_06090	COG0834	ET	ABC-type amino acid transport/signal transduction system, periplasmic component/domain	HisJ			1GGG
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_06100	COG1661	R	Predicted DNA-binding protein with PD1-like DNA-binding motif, PPC/DUF296 domain	AF0104			2DT4
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_06120	COG1232	H	Protoporphyrinogen oxidase HemY/PPOX	HemY	Heme biosynthesis		3LOV
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_06125	COG0705	O	Membrane-associated serine protease, rhomboid family	GlpG			2IC8
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_06130	COG0652	O	Peptidyl-prolyl cis-trans isomerase (rotamase) - cyclophilin family	PpiB			4DGD
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_06180	COG4214	G	ABC-type xylose transport system, permease component	XylH			
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_06185	COG0843	C	Heme/copper-type cytochrome/quinol oxidase, subunit 1	CyoB			1AR1
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_06190	COG1845	C	Heme/copper-type cytochrome/quinol oxidase, subunit 3	CyoC			1QLE
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_06200	COG0307	H	Riboflavin synthase alpha chain	RibC	Riboflavin/FAD biosynthesis		1I8D
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_06205	COG1259	R	Bifunctional DNase/RNase			20018603	1SJ5
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_06210	COG0656	Q	Aldo/keto reductase, related to diketogulonate reductase	ARA1			1Q13
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_06225	COG4241	S	Uncharacterized conserved protein YybS, DUF2232 family	YybS			
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_06230	COG0480	J	Translation elongation factor EF-G, a GTPase	FusA	Translation factors		1DAR
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_06240	COG1934	M	Lipopolysaccharide export system protein LptA	LptA			2R19
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_06245	COG4988	CO	ABC-type transport system involved in cytochrome bd biosynthesis, ATPase and permease components	CydD			
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_06250	COG0795	MN	Lipopolysaccharide export LptBFGC system, permease protein LptF	LptF			6S8H
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_06255	COG1138	CO	Cytochrome c biogenesis protein CcmF	CcmF			
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_06260	COG0036	G	Pentose-5-phosphate-3-epimerase	Rpe	Pentose phosphate pathway		1H1Y
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_06265	COG1494	G	Fructose-1,6-bisphosphatase/sedoheptulose 1,7-bisphosphatase or related protein	GlpX			1NI9
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_06270	COG2423	E	Ornithine cyclodeaminase/archaeal alanine dehydrogenase, mu-crystallin family	OCDMu	Proline biosynthesis		2I99
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_06275	COG1209	M	dTDP-glucose pyrophosphorylase	RmlA1			1FXO
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_06285	COG0363	G	6-phosphogluconolactonase/Glucosamine-6-phosphate isomerase/deaminase	NagB	Pentose phosphate pathway	24163345	2RI0
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_06315	COG0658	U	DNA uptake channel protein ComEC, N-terminal domain	ComEC			
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_06335	COG0533	J	tRNA A37 threonylcarbamoyltransferase TsaD	TsaD	tRNA modification	23072323;21285948;32385138	3ENO
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_06345	COG0630	NU	Type IV secretory pathway ATPase VirB11/Archaellum biosynthesis ATPase ArlI/FlaI	VirB11		32416640	1G6O
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_06350	COG0381	M	UDP-N-acetylglucosamine 2-epimerase	WecB		26641313;30389844	1F6D
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_06365	COG3263	CP	NhaP-type Na+/H+ and K+/H+ antiporter with C-terminal TrkAC and CorC domains	NhaP2			
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_06370	COG0008	J	Glutamyl- or glutaminyl-tRNA synthetase	GlnS	Heme biosynthesis		1EUQ
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_06395	COG1200	L	RecG-like helicase	RecG			1GM5
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_06405	COG2221	P	Dissimilatory sulfite reductase (desulfoviridin), alpha and beta subunits	DsrA			
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_06415	COG0493	ER	NADPH-dependent glutamate synthase beta chain or related oxidoreductase	GltD	Glutamine biosynthesis		1H7X
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_06425	COG0826	J	23S rRNA C2501 and tRNA U34 5'-hydroxylation protein RlhA/YrrN/YrrO, U32 peptidase family	RlhA	23S rRNA modification	31253794;31358606	5D88
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_06430	COG0050	J	Translation elongation factor EF-Tu, a GTPase	TufA	Translation factors		1EFU
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_06435	COG0226	P	ABC-type phosphate transport system, periplasmic component	PstS			2Q9T
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_06445	COG0847	L	DNA polymerase III, epsilon subunit or related 3'-5' exonuclease	DnaQ			1J53
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_06450	COG2077	O	Peroxiredoxin	Tpx			4AF2
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_06460	COG0365	I	Acyl-coenzyme A synthetase/AMP-(fatty) acid ligase	Acs		14638756	4B2O
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_06470	COG0142	H	Geranylgeranyl pyrophosphate synthase	IspA	Isoprenoid biosynthesis		2AZJ
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_06475	COG1794	M	Amino acid racemase YgeA	RacX			5ELL
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_06480	COG0860	M	N-acetylmuramoyl-L-alanine amidase	AmiC			1JWQ
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_06485	COG0815	M	Apolipoprotein N-acyltransferase	Lnt			6NWR
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_06495	COG1926	R	Predicted phosphoribosyltransferase				
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_06515	COG0762	O	Cytochrome b6 maturation protein CCB3/Ycf19 and related maturases, YggT family	Ycf19			
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_06525	COG0498	E	Threonine synthase	ThrC	Threonine biosynthesis		1VB3
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_06530	COG0021	G	Transketolase	TktA	Pentose phosphate pathway		1AY0
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_06535	COG3349	R	Uncharacterized protein, contains NAD-binding domain and a Fe-S cluster				5MOG
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_06560	COG4778	P	Alpha-D-ribose 1-methylphosphonate 5-triphosphate synthase subunit PhnL	PhnL			
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_06565	COG1177	E	ABC-type spermidine/putrescine transport system, permease component II	PotC			
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_06570	COG1178	P	ABC-type Fe3+ transport system, permease component	FbpB			
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_06575	COG2182	G	Maltose-binding periplasmic protein MalE	MalE			1T0K
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_06580	COG0438	M	Glycosyltransferase involved in cell wall bisynthesis	RfaB			2IV7
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_06585	COG0450	V	Alkyl hydroperoxide reductase subunit AhpC (peroxiredoxin)	AhpC			2RII
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_06590	COG0227	J	Ribosomal protein L28	RpmB	Ribosome 50S subunit		2JZ6
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_06595	COG1131	V	ABC-type multidrug transport system, ATPase component	CcmA			5DO7
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_06600	COG0697	GER	Permease of the drug/metabolite transporter (DMT) superfamily	RhaT			5I20
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_06605	COG1808	S	Uncharacterized membrane protein AF0785, contains DUF389 domain	AF0785			
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_06610	COG1028	I	NAD(P)-dependent dehydrogenase, short-chain alcohol dehydrogenase family	FabG	Fatty acid biosynthesis		6L1H
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_06615	COG3204	R	Uncharacterized Ca-binding beta-propeller protein YjiK	YjiK			3QQZ
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_06625	COG0300	R	Short-chain dehydrogenase	YqjQ			
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_06655	COG0480	J	Translation elongation factor EF-G, a GTPase	FusA	Translation factors		1DAR
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_06660	COG2076	V	Multidrug transporter EmrE and related cation transporters	EmrE			2I68
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_06665	COG2303	IR	Choline dehydrogenase or related flavoprotein	BetA	Non-phosphorylated Entner-Doudoroff pathway		1B4V
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_06670	COG0694	O	Fe-S cluster biogenesis protein NfuA, 4Fe-4S-binding domain	NifU			2Z51
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_06685	COG1104	E	Cysteine desulfurase/Cysteine sulfinate desulfinase IscS or related enzyme, NifS family	NifS		22773787;25825430	4IXO
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_06690	COG0771	M	UDP-N-acetylmuramoylalanine-D-glutamate ligase	MurD	Mureine biosynthesis		1E0D
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_06705	COG0522	J	Ribosomal protein S4 or related protein	RpsD	Ribosome 30S subunit		4V4H
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_06720	COG0697	GER	Permease of the drug/metabolite transporter (DMT) superfamily	RhaT			5I20
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_06725	COG1030	O	Membrane-bound serine protease NfeD, ClpP class	NfeD			2DEO
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_06755	COG0706	M	Membrane protein insertase Oxa1/YidC/SpoIIIJ	YidC			3WO6
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_06760	COG1399	J	23S rRNA accumulation protein YceD (essential in plants, uncharacterized in bacteria)	YceD		27574185	
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_06765	COG0466	O	ATP-dependent Lon protease, bacterial type	Lon			6ON2
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_06775	COG0172	J	Seryl-tRNA synthetase	SerS	Aminoacyl-tRNA synthetases		1SER
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_06780	COG0793	O	C-terminal processing protease CtpA/Prc, contains a PDZ domain	CtpA			6IQU
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_06785	COG0199	J	Ribosomal protein S14	RpsN	Ribosome 30S subunit		4V4H
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_06790	COG1185	J	Polyribonucleotide nucleotidyltransferase (polynucleotide phosphorylase)	Pnp			1E3P
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_06800	COG0313	J	16S rRNA C1402 (ribose-2'-O) methylase RsmI	RsmI	16S rRNA modification	24078611	3KWP
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_06815	COG3161	H	4-hydroxybenzoate synthetase (chorismate-pyruvate lyase)	UbiC	Ubiquinone biosynthesis		1FW9
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_06845	COG0272	L	NAD-dependent DNA ligase	Lig			5TT5
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_06860	COG0398	S	Uncharacterized membrane protein YdjX, related to fungal oxalate transporter, TVP38/TMEM64 family	TVP38		20889782	
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_06870	COG4587	R	ABC-type uncharacterized transport system, permease component				
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_06885	COG0760	O	Peptidyl-prolyl isomerase, parvulin family	SurA			2ZR5
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_06890	COG1086	MO	NDP-sugar epimerase, includes UDP-GlcNAc-inverting 4,6-dehydratase FlaA1 and capsular polysaccharide biosynthesis protein EpsC	FlaA1			2GN4
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_06895	COG2144	R	Selenophosphate synthetase-related protein				
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_06900	COG5305	R	Uncharacterized membrane protein PF0508, contains N-terminal glycosyltransferase domain of PMT family				
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_06915	COG1012	I	Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase	AdhE	Proline degradation		1A4S
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_06925	COG1075	I	Triacylglycerol esterase/lipase EstA, alpha/beta hydrolase fold	EstA			1I6W
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_06930	COG1164	E	Oligoendopeptidase F	PepF			3CE2
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_06935	COG1008	C	NADH:ubiquinone oxidoreductase subunit 4 (chain M)	NuoM	NADH dehydrogenase		6HUM
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_06940	COG1685	E	Archaeal shikimate kinase	AroK2	Aromatic amino acid biosynthesis		
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_06955	COG0441	J	Threonyl-tRNA synthetase	ThrS	Aminoacyl-tRNA synthetases		1NYQ
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_06960	COG0061	H	NAD kinase	NadK			1SUW
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_06975	COG1145	C	Ferredoxin	NapF			6FAH
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_06980	COG1005	C	NADH:ubiquinone oxidoreductase subunit 1 (chain H)	NuoH	NADH dehydrogenase		6HUM
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_06985	COG0372	C	Citrate synthase	GltA	TCA cycle	25211225	3TQG
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_06990	COG2062	T	Phosphohistidine phosphatase SixA	SixA			1UJB
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_07000	COG0607	P	Rhodanese-related sulfurtransferase	PspE	Urea cycle		1TQ1
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_07005	COG3482	S	Uncharacterized conserved protein				
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_07010	COG1171	E	Threonine deaminase	IlvA	Isoleucine, leucine, valine biosynthesis		3IAU
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_07020	COG3265	G	Gluconate kinase	GntK	Non-phosphorylated Entner-Doudoroff pathway		1KO4
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_07035	COG2874	N	Archaellum biogenesis ATPase ArlH/FlaH	FlaH		32416640	4WIA
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_07050	COG1199	L	Rad3-related DNA helicase DinG	DinG			5H8W
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_07055	COG0287	E	Prephenate dehydrogenase	TyrA	Aromatic amino acid biosynthesis		2F1K
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_07060	COG3380	R	Predicted NAD/FAD-dependent oxidoreductase				4ZCC
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_07065	COG2334	T	Ser/Thr protein kinase RdoA involved in Cpx stress response, MazF antagonist	SrkA	Threonine biosynthesis		1ZYL
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_07075	COG0502	H	Biotin synthase or related enzyme	BioB	Biotin biosynthesis		1R30
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_07085	COG0625	O	Glutathione S-transferase	GstA			1A0F
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_07100	COG0607	P	Rhodanese-related sulfurtransferase	PspE	Urea cycle		1TQ1
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_07105	COG1060	H	2-iminoacetate synthase ThiH/Menaquinone biosynthesis enzymes MqnC and MqnE	ThiH	Thiamine biosynthesis	18801996	4WCX
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_07110	COG0020	I	Undecaprenyl pyrophosphate synthase	UppS			1X07
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_07125	COG3686	S	Uncharacterized conserved protein, MAPEG superfamily				
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_07130	COG0823	U	Periplasmic component TolB of the Tol biopolymer transport system	TolB			1C5K
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_07135	COG0758	L	Predicted Rossmann fold nucleotide-binding protein DprA/Smf involved in DNA uptake	Smf			3MAJ
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_07140	COG0857	R	BioD-like N-terminal domain of phosphotransacetylase	PtaN			2IOJ
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_07155	COG0024	J	Methionine aminopeptidase	Map			3J2I
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_07180	COG0109	HI	Polyprenyltransferase (heme O synthase)	CyoE			
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_07185	COG0248	FT	Exopolyphosphatase/pppGpp-phosphohydrolase	GppA			1T6C
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_07190	COG1426	D	Cytoskeletal protein RodZ, contains Xre-like HTH and DUF4115 domains	RodZ			3FYM
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_07200	COG1010	H	Precorrin-3B methylase	CobJ	Cobalamine/B12 biosynthesis		2ZVB
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_07205	COG0682	M	Prolipoprotein diacylglyceryltransferase	Lgt			5AZB
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_07220	COG0493	ER	NADPH-dependent glutamate synthase beta chain or related oxidoreductase	GltD	Glutamine biosynthesis		1H7X
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_07240	COG3380	R	Predicted NAD/FAD-dependent oxidoreductase				4ZCC
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_07305	COG0123	Q	Acetoin utilization deacetylase AcuC or a related deacetylase	AcuC			1C3P
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_07315	COG5135	S	Uncharacterized conserved protein				2I51
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_07360	COG3177	K	Fic family protein				3CUC
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_07375	COG1799	D	Cell division protein SepF/YlmF, interacts with FtsZ	SepF		16420366;24218584	3ZIH
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_07380	COG0535	DH	Radical SAM superfamily maturase, SkfB/NifB/PqqE family	SkfB		23282011	6Q2P
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_07400	COG0486	J	tRNA U34 5-carboxymethylaminomethyl modifying GTPase MnmE/TrmE	MnmE	tRNA modification		
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_07405	COG5285	Q	Ectoine hydroxylase-related dioxygenase, phytanoyl-CoA dioxygenase (PhyH) family	PhyH			2A1X
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_07415	COG0245	I	2C-methyl-D-erythritol 2,4-cyclodiphosphate synthase	IspF	Isoprenoid biosynthesis		1GX1
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_07425	COG0041	F	Phosphoribosylcarboxyaminoimidazole (NCAIR) mutase	PurE	Purine biosynthesis		1D7A
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_07450	COG0082	E	Chorismate synthase	AroC	Aromatic amino acid biosynthesis		1Q1L
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_07465	COG0465	O	ATP-dependent Zn proteases	HflB			1LV7
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_07485	COG2931	Q	Ca2+-binding protein, RTX toxin-related			15135544	1AF0
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_07495	COG1198	L	Primosomal protein N' (replication factor Y) - superfamily II helicase	PriA			6DCR
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_07505	COG0265	O	Periplasmic serine protease, S1-C subfamily, contain C-terminal PDZ domain	DegQ		29686141	2HGA
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_07520	COG0526	O	Thiol-disulfide isomerase or thioredoxin	TrxA			1XFL
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_07525	COG0044	F	Dihydroorotase or related cyclic amidohydrolase	AllB	Pyrimidine biosynthesis		1J79
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_07530	COG0659	P	Sulfate permease or related transporter, MFS superfamily	SUL1			3NY7
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_07535	COG0530	P	Ca2+/Na+ antiporter	ECM27			3V5S
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_07545	COG4244	S	Uncharacterized membrane protein				
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_07550	COG1622	C	Heme/copper-type cytochrome/quinol oxidase, subunit 2	CyoA			1CYW
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_07575	COG1129	G	ABC-type sugar transport system, ATPase component	MglA			
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_07585	COG0793	O	C-terminal processing protease CtpA/Prc, contains a PDZ domain	CtpA			6IQU
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_07605	COG0513	L	Superfamily II DNA and RNA helicase	SrmB			3RRM
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_07640	COG1295	S	Uncharacterized membrane protein, BrkB/YihY/UPF0761 family (not an RNase)	BrkB			
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_07650	COG0749	L	DNA polymerase I, 3'-5' exonuclease and polymerase domains	PolA			1D8Y
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_07655	COG1566	V	Multidrug resistance efflux pump EmrA	EmrA			4TKO
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_07660	COG0536	DL	GTPase involved in cell partioning and DNA repair	Obg			1LNZ
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_07670	COG2814	G	Predicted arabinose efflux permease AraJ, MFS family	AraJ			4LDS
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_07675	COG4188	R	Predicted dienelactone hydrolase				
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_07680	COG4174	Q	ABC-type microcin C transport system, permease component YejB	YejB		17873039	
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_07700	COG0412	Q	Dienelactone hydrolase	DLH			4ZV9
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_07740	COG0526	O	Thiol-disulfide isomerase or thioredoxin	TrxA			1XFL
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_07745	COG0436	E	Aspartate/methionine/tyrosine aminotransferase	AspB	Isoleucine, leucine, valine biosynthesis		2O0R
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_07750	COG0415	L	Deoxyribodipyrimidine photolyase	PhrB			1TEZ
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_07755	COG0494	V	8-oxo-dGTP pyrophosphatase MutT and related house-cleaning NTP pyrophosphohydrolases, NUDIX family	MutT			4V14
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_07760	COG0740	O	ATP-dependent protease ClpP, protease subunit	ClpP			1TG6
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_07765	COG0740	O	ATP-dependent protease ClpP, protease subunit	ClpP			1TG6
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_07770	COG1439	J	rRNA maturation endonuclease Nob1	Nob1			2CON
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_07775	COG0413	H	Ketopantoate hydroxymethyltransferase	PanB	Pantothenate/CoA biosynthesis		3VAV
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_07785	COG0206	D	Cell division GTPase FtsZ	FtsZ			1FSZ
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_07790	COG1589	D	Cell division septal protein FtsQ	FtsQ			1YR1
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_07800	COG0439	I	Biotin carboxylase	AccC	Fatty acid biosynthesis		1BNC
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_07815	COG2241	H	Precorrin-6B methylase 1	CobL	Cobalamine/B12 biosynthesis		
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_07845	COG2131	F	Deoxycytidylate deaminase	ComEB		25746996;31954084	2HVV
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_07860	COG0524	G	Sugar or nucleoside kinase, ribokinase family	RbsK	Glycolysis		2QCV
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_07870	COG2135	L	ssDNA abasic site-binding protein YedK/HMCES, SRAP family	SRAP		30554877;31504793	1ZN6
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_07875	COG0465	O	ATP-dependent Zn proteases	HflB			1LV7
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_07880	COG0078	E	Ornithine carbamoyltransferase	ArgF	Arginine biosynthesis		1A1S
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_07895	COG1974	KT	SOS-response transcriptional repressor LexA (RecA-mediated autopeptidase)	LexA			1AY9
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_07905	COG1179	J	tRNA A37 threonylcarbamoyladenosine dehydratase	TcdA	tRNA modification	27913733	4D7A
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_07920	COG2334	T	Ser/Thr protein kinase RdoA involved in Cpx stress response, MazF antagonist	SrkA	Threonine biosynthesis		1ZYL
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_07925	COG3380	R	Predicted NAD/FAD-dependent oxidoreductase				4ZCC
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_07930	COG0287	E	Prephenate dehydrogenase	TyrA	Aromatic amino acid biosynthesis		2F1K
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_07950	COG1797	H	Cobyrinic acid a,c-diamide synthase	CobB	Cobalamine/B12 biosynthesis		
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_07955	COG1254	C	Acylphosphatase	AcyP			1APS
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_07965	COG0210	L	Superfamily I DNA or RNA helicase	UvrD			6PPR
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_07975	COG0142	H	Geranylgeranyl pyrophosphate synthase	IspA	Isoprenoid biosynthesis		2AZJ
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_07985	COG3063	NW	Type IV pilus assembly protein PilF/PilW	PilF		16403447	2VQ2
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_07990	COG2608	P	Copper chaperone CopZ	CopZ			1AFI
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_07995	COG0125	F	Thymidylate kinase	Tmk	Thymidylate biosynthesis		3LV8
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_08000	COG2812	L	DNA polymerase III, gamma/tau subunits	DnaX			1A5T
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_08005	COG2204	T	DNA-binding transcriptional response regulator, NtrC family, contains REC, AAA-type ATPase, and a Fis-type DNA-binding domains	AtoC			1ZY2
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_08015	COG0488	R	ATPase components of ABC transporters with duplicated ATPase domains	Uup			5ZXD
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_08035	COG1842	KT	Phage shock protein A	PspA			4WHE
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_08040	COG3118	O	Chaperedoxin CnoX, contains thioredoxin-like and TPR-like domains, YbbN/TrxSC family	CnoX		21498507;29754824	3QDN
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_08045	COG0079	E	Histidinol-phosphate/aromatic aminotransferase or cobyric acid decarboxylase	HisC	Cobalamine/B12 biosynthesis		4R2N
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_08050	COG0340	H	Biotin-(acetyl-CoA carboxylase) ligase	BirA2	Biotin biosynthesis	32188788	1BIA
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_08055	COG4942	D	Septal ring factor EnvC, activator of murein hydrolases AmiA and AmiB	EnvC			
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_08060	COG3710	K	DNA-binding winged helix-turn-helix (wHTH) domain	CadC1			
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_08065	COG1101	R	ABC-type uncharacterized transport system, ATPase component	PhnK			
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_08070	COG1007	C	NADH:ubiquinone oxidoreductase subunit 2 (chain N)	NuoN	NADH dehydrogenase		4HE8
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_08075	COG0550	L	DNA topoisomerase IA	TopA			1CY0
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_08090	COG1727	J	Ribosomal protein L18E	RPL18A	Archaeal ribosomal proteins		
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_08095	COG0201	U	Preprotein translocase subunit SecY	SecY			1RH5
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_08100	COG1936	F	Broad-specificity NMP kinase	Fap7			1RKB
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_08105	COG0257	J	Ribosomal protein L36	RpmJ	Ribosome 50S subunit	21627333	1DFE
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_08115	COG0100	J	Ribosomal protein S11	RpsK	Ribosome 30S subunit		4V4H
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_08120	COG0202	K	DNA-directed RNA polymerase, alpha subunit/40 kD subunit	RpoA	RNA polymerase		4KN7
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_08125	COG0203	J	Ribosomal protein L17	RplQ	Ribosome 50S subunit		1GD8
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_08130	COG0577	V	ABC-type antimicrobial peptide transport system, permease component	SalY			
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_08135	COG0465	O	ATP-dependent Zn proteases	HflB			1LV7
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_08140	COG0616	O	Periplasmic serine protease, ClpP class	SppA			3BEZ
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_08155	COG2127	O	ATP-dependent Clp protease adapter protein ClpS	ClpS			1LZW
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_08165	COG4031	S	Uncharacterized metal-binding protein, DUF2103 family				
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_08175	COG0547	E	Anthranilate phosphoribosyltransferase, glycosyltransferase domain	TrpD	Aromatic amino acid biosynthesis		1KGZ
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_08185	COG4615	P	ABC-type siderophore export system, fused ATPase and permease components	PvdE			
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_08195	COG0225	O	Peptide methionine sulfoxide reductase MsrA	MsrA			1FF3
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_08225	COG0568	K	DNA-directed RNA polymerase, sigma subunit (sigma70/sigma32)	RpoD	RNA polymerase		1SIG
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_08230	COG0517	T	CBS domain	CBS			1B3O
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_08245	COG0239	DP	Fluoride ion exporter CrcB/FEX, affects chromosome condensation	CrcB			5A40
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_08255	COG0187	L	DNA gyrase/topoisomerase IV, subunit B	GyrB			1EI1
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_08265	COG1109	G	Phosphomannomutase	ManB			6MNV
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_08270	COG2971	G	BadF-type ATPase, related to human N-acetylglucosamine kinase	BadF		17954692;12761179;12761179	
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_08300	COG0267	J	Ribosomal protein L33	RpmG	Ribosome 50S subunit		1VS6
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_08305	COG0238	J	Ribosomal protein S18	RpsR	Ribosome 30S subunit		4V4H
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_08310	COG4776	K	Exoribonuclease II	Rnb			2ID0
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_08320	COG0525	J	Valyl-tRNA synthetase	ValS	Aminoacyl-tRNA synthetases		1GAX
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_08330	COG1198	L	Primosomal protein N' (replication factor Y) - superfamily II helicase	PriA			6DCR
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_08335	COG0568	K	DNA-directed RNA polymerase, sigma subunit (sigma70/sigma32)	RpoD	RNA polymerase		1SIG
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_08350	COG0181	H	Porphobilinogen deaminase	HemC	Heme biosynthesis		1AH5
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_08355	COG1376	M	Lipoprotein-anchoring transpeptidase ErfK/SrfK	ErfK			4LZH
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_08370	COG0651	CP	Formate hydrogenlyase subunit 3/Multisubunit Na+/H+ antiporter, MnhD subunit	HyfB			6CFW
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_08375	COG1008	C	NADH:ubiquinone oxidoreductase subunit 4 (chain M)	NuoM	NADH dehydrogenase		6HUM
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_08385	COG2154	H	Pterin-4a-carbinolamine dehydratase	PhhB			1DCH
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_08390	COG0464	MDT	AAA+-type ATPase, SpoVK/Ycf46/Vps4 family	SpoVK			3SYL
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_08415	COG0724	J	RNA recognition motif (RRM) domain	RRM			1HL6
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_08425	COG4181	Q	Predicted ABC-type transport system involved in lysophospholipase L1 biosynthesis, ATPase component	YbbA			
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_08430	COG0025	P	NhaP-type Na+/H+ or K+/H+ antiporter	NhaP			4CZB
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_08450	COG1032	R	Radical SAM superfamily enzyme YgiQ, UPF0313 family	YgiQ			6FD2
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_08460	COG0402	FR	Cytosine/adenosine deaminase or related metal-dependent hydrolase	SsnA	Pyrimidine salvage		3O7U
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_08470	COG1357	S	Uncharacterized conserved protein YjbI, contains pentapeptide repeats	YjbI			2BM4
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_08475	COG0769	M	UDP-N-acetylmuramyl tripeptide synthase	MurE	Mureine biosynthesis		1E8C
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_08480	COG4992	E	Acetylornithine/succinyldiaminopimelate/putrescine aminotransferase	ArgD	Arginine biosynthesis		2E54
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_08500	COG1009	C	Membrane H+-translocase/NADH:ubiquinone oxidoreductase subunit 5 (chain L)/Multisubunit Na+/H+ antiporter, MnhA subunit	NuoL	NADH dehydrogenase		3RKO
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_08510	COG2005	K	DNA-binding transcriptional regulator ModE (molybdenum-dependent)	ModE		19779461	1B9M
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_08525	COG1232	H	Protoporphyrinogen oxidase HemY/PPOX	HemY	Heme biosynthesis		3LOV
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_08530	COG1562	I	Phytoene/squalene synthetase	ERG9			3WEK
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_08535	COG0724	J	RNA recognition motif (RRM) domain	RRM			1HL6
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_08540	COG0617	J	tRNA nucleotidyltransferase/poly(A) polymerase	PcnB	tRNA modification		3WFR
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_08555	COG2121	S	Uncharacterized conserved protein, lysophospholipid acyltransferase (LPLAT) superfamily				
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_08560	COG0331	I	Malonyl CoA-acyl carrier protein transacylase	FabD	Fatty acid biosynthesis		1YXC
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_08565	COG0332	I	3-oxoacyl-[acyl-carrier-protein] synthase III	FabH	Fatty acid biosynthesis		1UB7
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_08575	COG0841	V	Multidrug efflux pump subunit AcrB	AcrB			1IWG
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_08605	COG0668	M	Small-conductance mechanosensitive channel	MscS			2OAU
+Cyanobium_sp_RS427	GCA_002728955.1	PEIIJP_08625	COG0105	F	Nucleoside diphosphate kinase	Ndk	Pyrimidine biosynthesis		1B4S

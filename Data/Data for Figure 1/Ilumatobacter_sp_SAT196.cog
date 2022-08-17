@@ -1,0 +1,1128 @@
+#prefix	assemid	query	COG	category	name	Gene	pathway	pmid	pdb_id
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_00005	COG1714	S	Uncharacterized membrane protein YckC, RDD family	YckC			
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_00010	COG1409	T	3',5'-cyclic AMP phosphodiesterase CpdA	CpdA			2ZO9
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_00020	COG1249	C	Dihydrolipoamide dehydrogenase (E3) component of pyruvate/2-oxoglutarate dehydrogenase complex or glutathione oxidoreductase	Lpd	Glycine cleavagePyruvate oxidation		6QKG
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_00040	COG1143	C	Formate hydrogenlyase subunit 6/NADH:ubiquinone oxidoreductase 23 kD subunit (chain I)	NuoI	NADH dehydrogenase		1B0P
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_00050	COG1290	C	Cytochrome b subunit of the bc complex	QcrB/PetB			1VF5
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_00060	COG2010	C	Cytochrome c, mono- and diheme variants	CccA			1A2S
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_00075	COG1941	C	Coenzyme F420-reducing hydrogenase, gamma subunit	FrhG			5ODC
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_00080	COG3262	C	Ni,Fe-hydrogenase III component G	HycE1			
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_00085	COG0649	C	NADH:ubiquinone oxidoreductase 49 kD subunit (chain D)	NuoD	NADH dehydrogenase		2FUG
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_00105	COG0243	C	Anaerobic selenocysteine-containing dehydrogenase	BisC			1EU1
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_00110	COG1005	C	NADH:ubiquinone oxidoreductase subunit 1 (chain H)	NuoH	NADH dehydrogenase		6HUM
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_00115	COG1145	C	Ferredoxin	NapF			6FAH
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_00120	COG0839	C	NADH:ubiquinone oxidoreductase subunit 6 (chain J)	NuoJ	NADH dehydrogenase		4HE8
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_00125	COG0713	C	NADH:ubiquinone oxidoreductase subunit 11 or 4L (chain K)	NuoK	NADH dehydrogenase		4HE8
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_00130	COG1009	C	Membrane H+-translocase/NADH:ubiquinone oxidoreductase subunit 5 (chain L)/Multisubunit Na+/H+ antiporter, MnhA subunit	NuoL	NADH dehydrogenase		3RKO
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_00135	COG1008	C	NADH:ubiquinone oxidoreductase subunit 4 (chain M)	NuoM	NADH dehydrogenase		6HUM
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_00140	COG1007	C	NADH:ubiquinone oxidoreductase subunit 2 (chain N)	NuoN	NADH dehydrogenase		4HE8
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_00145	COG0647	F	Ribonucleotide monophosphatase NagD, HAD superfamily	NagD			1PW5
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_00150	COG0778	C	Nitroreductase	NfnB	Pyrimidine degradation		1F5V
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_00155	COG1670	JO	Protein N-acetyltransferase, RimJ/RimL family	RimL			1S7F
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_00160	COG1514	J	RNA 2',3'-cyclic phosphodiesterase (2'-5' RNA ligase)	ThpR		25239919	1IUH
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_00165	COG2372	P	Copper-binding protein CopC (methionine-rich)	CopC			1IX2
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_00175	COG1188	J	Ribosomal 50S subunit-recycling heat shock protein, contains S4 domain	HslR			3BBU
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_00180	COG5337	M	Spore coat protein CotH	CotH			5JD9
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_00200	COG1192	DN	ParA-like ATPase involved in chromosome/plasmid partitioning or cellulose biosynthesis protein BcsQ	ParA			6NOO
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_00210	COG0785	CO	Cytochrome c biogenesis protein CcdA	CcdA			5VKV
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_00215	COG1225	O	Peroxiredoxin	Bcp			5IPH
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_00230	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_00235	COG2372	P	Copper-binding protein CopC (methionine-rich)	CopC			1IX2
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_00240	COG2130	QR	NADPH-dependent curcumin reductase CurA	CurA		21467222	1V3T
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_00250	COG4195	X	Phage-related replication protein YjqB, UPF0714/DUF867 family	YjqB			3A9L
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_00255	COG5000	T	Signal transduction histidine kinase NtrY involved in nitrogen fixation and metabolism regulation	NtrY			
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_00265	COG0442	J	Prolyl-tRNA synthetase	ProS	Aminoacyl-tRNA synthetases		5XIF
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_00270	COG2135	L	ssDNA abasic site-binding protein YedK/HMCES, SRAP family	SRAP		30554877;31504793	1ZN6
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_00275	COG0640	K	DNA-binding transcriptional regulator, ArsR family	ArsR			3F6V
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_00280	COG2814	G	Predicted arabinose efflux permease AraJ, MFS family	AraJ			4LDS
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_00285	COG0057	G	Glyceraldehyde-3-phosphate dehydrogenase/erythrose-4-phosphate dehydrogenase	GapA	Glycolysis		3ZDF
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_00310	COG5031	H	Ubiquinone biosynthesis protein Coq4	COQ4	Ubiquinone biosynthesis		
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_00315	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_00330	COG5285	Q	Ectoine hydroxylase-related dioxygenase, phytanoyl-CoA dioxygenase (PhyH) family	PhyH			2A1X
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_00350	COG1205	L	ATP-dependent helicase YprA,  contains C-terminal metal-binding DUF1998 domain	YprA			
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_00355	COG0815	M	Apolipoprotein N-acyltransferase	Lnt			6NWR
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_00360	COG0402	FR	Cytosine/adenosine deaminase or related metal-dependent hydrolase	SsnA	Pyrimidine salvage		3O7U
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_00370	COG1506	E	Dipeptidyl aminopeptidase/acylaminoacyl peptidase	DAP2			2JBW
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_00380	COG1011	H	FMN and 5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YigB, HAD superfamily (riboflavin biosynthesis)	YigB		24123841	4JB3
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_00385	COG0019	E	Diaminopimelate decarboxylase	LysA	Lysine biosynthesis		1D7K
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_00400	COG0586	M	Membrane integrity protein DedA, putative transporter, DedA/Tvp38 family	DedA		24312110;25917916	
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_00430	COG0209	F	Ribonucleotide reductase alpha subunit	NrdA	Pyrimidine salvage		1R1R
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_00440	COG1804	I	Crotonobetainyl-CoA:carnitine CoA-transferase CaiB and related acyl-CoA transferases	CaiB			1P5H
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_00450	COG1038	C	Pyruvate carboxylase	PycA	Urea cycle		5VYW
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_00455	COG0003	P	Anion-transporting ATPase, ArsA/GET3 family	ArsA			1F48
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_00470	COG0392	M	Predicted membrane flippase AglD2/YbhN, UPF0104 family	AglD2		25583072	
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_00480	COG2226	H	Ubiquinone/menaquinone biosynthesis C-methylase UbiE/MenG	UbiE	Biotin biosynthesis		4OBW
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_00485	COG0177	L	Endonuclease III	Nth			4UOB
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_00490	COG2301	G	Citrate lyase beta subunit	CitE			4ROQ
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_00495	COG3836	G	2-keto-3-deoxy-L-rhamnonate aldolase RhmA	HpcH			1DXE
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_00515	COG0526	O	Thiol-disulfide isomerase or thioredoxin	TrxA			1XFL
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_00520	COG1506	E	Dipeptidyl aminopeptidase/acylaminoacyl peptidase	DAP2			2JBW
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_00525	COG1234	J	Ribonuclease BN, tRNA processing enzyme	ElaC			1WW1
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_00535	COG1770	E	Protease II	PtrB			4BP9
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_00540	COG1141	C	Ferredoxin	Fer			1IQZ
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_00545	COG0719	O	Fe-S cluster assembly scaffold protein SufB	SufB			1VH4
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_00555	COG2154	H	Pterin-4a-carbinolamine dehydratase	PhhB			1DCH
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_00570	COG3844	E	Kynureninase	Bna5			
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_00575	COG0410	E	ABC-type branched-chain amino acid transport system, ATPase component LivF	LivF		26527648;32250026	1JI0
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_00590	COG1236	J	RNA processing exonuclease, beta-lactamase fold, Cft2 family	YSH1			2DKF
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_00605	COG1239	H	Mg-chelatase subunit ChlI	ChlI			1G8P
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_00625	COG1403	V	5-methylcytosine-specific restriction endonuclease McrA	McrA			
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_00630	COG0095	H	Lipoate-protein ligase A	LplA	Lipoate biosynthesis		4TVW
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_00635	COG0488	R	ATPase components of ABC transporters with duplicated ATPase domains	Uup			5ZXD
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_00640	COG2017	G	Galactose mutarotase or related enzyme	GalM			1LUR
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_00645	COG1577	I	Mevalonate kinase	ERG12	Isoprenoid biosynthesis		
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_00650	COG1506	E	Dipeptidyl aminopeptidase/acylaminoacyl peptidase	DAP2			2JBW
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_00655	COG0640	K	DNA-binding transcriptional regulator, ArsR family	ArsR			3F6V
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_00665	COG1178	P	ABC-type Fe3+ transport system, permease component	FbpB			
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_00670	COG4209	G	ABC-type polysaccharide transport system, permease component	LplB			4TQU
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_00695	COG0397	O	Protein adenylyltransferase (AMPylase) SelO/YdiU (selenoprotein O)	SelO		30270044	6EAC
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_00700	COG1725	K	DNA-binding transcriptional regulator YhcF, GntR family	YhcF			4R1H
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_00705	COG0579	G	L-2-hydroxyglutarate oxidase LhgO	LhgO			3DME
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_00710	COG2086	C	Electron transfer flavoprotein, alpha and beta subunits	FixA			5OL2
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_00715	COG2025	C	Electron transfer flavoprotein, alpha subunit FixB	FixB			1EFP
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_00725	COG3118	O	Chaperedoxin CnoX, contains thioredoxin-like and TPR-like domains, YbbN/TrxSC family	CnoX		21498507;29754824	3QDN
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_00730	COG1309	K	DNA-binding protein, AcrR family, includes nucleoid occlusion protein SlmA	AcrR			2QOP
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_00740	COG0683	E	ABC-type branched-chain amino acid transport system, periplasmic component	LivK			1USG
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_00745	COG0559	E	Branched-chain amino acid ABC-type transport system, permease component	LivH			
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_00750	COG4172	Q	ABC-type microcin C transport system, duplicated ATPase component YejF	YejF		17873039	
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_00755	COG3839	G	ABC-type sugar transport system, ATPase component MalK	MalK			2ONK
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_00760	COG0778	C	Nitroreductase	NfnB	Pyrimidine degradation		1F5V
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_00765	COG0560	E	Phosphoserine phosphatase	SerB	Serine biosynthesis		3N28
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_00770	COG1167	KE	DNA-binding transcriptional regulator, MocR family, contains an aminotransferase domain	ARO8	Lysine biosynthesis		2R2N
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_00775	COG2043	S	Uncharacterized conserved protein, DUF169 family				
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_00785	COG0332	I	3-oxoacyl-[acyl-carrier-protein] synthase III	FabH	Fatty acid biosynthesis		1UB7
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_00795	COG1541	H	Phenylacetate-coenzyme A ligase PaaK, adenylate-forming domain family	PaaK			2Y4O
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_00800	COG2130	QR	NADPH-dependent curcumin reductase CurA	CurA		21467222	1V3T
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_00810	COG1396	K	Transcriptional regulator, contains XRE-family HTH domain	HipB			1ADR
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_00815	COG2820	F	Uridine phosphorylase	Udp	Pyrimidine salvage		1K3F
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_00825	COG1225	O	Peroxiredoxin	Bcp			5IPH
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_00830	COG2814	G	Predicted arabinose efflux permease AraJ, MFS family	AraJ			4LDS
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_00840	COG5598	H	Trimethylamine:corrinoid methyltransferase	MttB2			
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_00845	COG0633	C	Ferredoxin	Fdx			1KRH
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_00865	COG1748	E	Saccharopine dehydrogenase, NADP-dependent	Lys9	Lysine biosynthesis		1E5L
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_00870	COG0596	HR	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold	MenH	Menaquinone biosynthesis		4MYS
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_00875	COG4420	S	Uncharacterized membrane protein				
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_00880	COG2239	P	Mg/Co/Ni transporter MgtE (contains CBS domain)	MgtE			2YVX
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_00890	COG5013	CP	Nitrate reductase alpha subunit	NarG			1Q16
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_00895	COG0588	G	Phosphoglycerate mutase (BPG-dependent)	GpmA	Glycolysis		1E58
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_00900	COG0494	V	8-oxo-dGTP pyrophosphatase MutT and related house-cleaning NTP pyrophosphohydrolases, NUDIX family	MutT			4V14
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_00905	COG0446	I	NADPH-dependent 2,4-dienoyl-CoA reductase, sulfur reductase, or a related oxidoreductase	FadH2			1VRQ
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_00910	COG0075	EF	Archaeal aspartate aminotransferase or a related aminotransferase, includes purine catabolism protein PucG	PucG	Serine biosynthesis		3NNK
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_00920	COG3428	S	Uncharacterized membrane protein YdbT, contains bPH2 (bacterial pleckstrin homology) domain	YdbT			
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_00925	COG3402	S	Uncharacterized membrane protein YdbS, contains bPH2 (bacterial pleckstrin homology) domain	YdbS			
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_00965	COG1228	Q	Imidazolonepropionase or related amidohydrolase	HutI			3OOQ
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_00975	COG3710	K	DNA-binding winged helix-turn-helix (wHTH) domain	CadC1			
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_00980	COG0174	E	Glutamine synthetase	GlnA	Glutamine biosynthesis		1F1H
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_00995	COG0815	M	Apolipoprotein N-acyltransferase	Lnt			6NWR
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_01000	COG0494	V	8-oxo-dGTP pyrophosphatase MutT and related house-cleaning NTP pyrophosphohydrolases, NUDIX family	MutT			4V14
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_01005	COG0717	F	dCTP deaminase	Dcd	Thymidylate biosynthesis		1XS1
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_01015	COG0480	J	Translation elongation factor EF-G, a GTPase	FusA	Translation factors		1DAR
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_01035	COG0160	E	Acetylornithine aminotransferase/4-aminobutyrate aminotransferase	ArgD	Arginine biosynthesis		1SF2
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_01040	COG1846	K	DNA-binding transcriptional regulator, MarR family	MarR			1JGS
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_01060	COG0505	EF	Carbamoylphosphate synthase small subunit	CarA	Arginine biosynthesis		1C30
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_01065	COG3642	J	tRNA A-37 threonylcarbamoyl transferase component Bud32	Bud32	tRNA modification		2VWB
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_01080	COG0772	D	Peptodoglycan polymerase FtsW/RodA/SpoVE	FtsW		30692671	6BAR
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_01085	COG0631	T	Serine/threonine protein phosphatase PrpC	PTC1			6IHL
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_01090	COG1716	T	Forkhead associated (FHA) domain, binds pSer, pThr, pTyr	FHA			2FEZ
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_01095	COG1716	T	Forkhead associated (FHA) domain, binds pSer, pThr, pTyr	FHA			2FEZ
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_01105	COG3246	S	Uncharacterized conserved protein, DUF849 family				3C6C
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_01110	COG1250	I	3-hydroxyacyl-CoA dehydrogenase	FadB	Fatty acid biosynthesis		5ZQZ
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_01120	COG0004	P	Ammonia channel protein AmtB	AmtB			1U77
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_01130	COG0004	P	Ammonia channel protein AmtB	AmtB			1U77
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_01140	COG0289	E	4-hydroxy-tetrahydrodipicolinate reductase	DapB	Lysine biosynthesis	29684280	1ARZ
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_01145	COG2814	G	Predicted arabinose efflux permease AraJ, MFS family	AraJ			4LDS
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_01150	COG2207	K	AraC-type DNA-binding domain and AraC-containing proteins	AraC			1BL0
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_01155	COG3695	K	Alkylated DNA nucleotide flippase Atl1, participates in nucleotide excision repair, Ada-like DNA-binding domain	Atl1		19516334	2KIF
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_01160	COG0667	HR	Pyridoxal reductase PdxI or related oxidoreductase, aldo/keto reductase family	PdxI		32253339	1LQA
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_01170	COG4152	R	ABC-type uncharacterized transport system, ATPase component	YhaQ			
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_01180	COG1453	R	Predicted oxidoreductase of the aldo/keto reductase family				
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_01195	COG1226	P	Voltage-gated potassium channel Kch	Kch			3FWZ
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_01200	COG0018	J	Arginyl-tRNA synthetase	ArgS	Aminoacyl-tRNA synthetases		1BS2
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_01205	COG0019	E	Diaminopimelate decarboxylase	LysA	Lysine biosynthesis		1D7K
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_01210	COG1712	E	L-aspartate dehydrogenase, NAD(P)-dependent	AspD		12496312	1H2H
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_01215	COG0498	E	Threonine synthase	ThrC	Threonine biosynthesis		1VB3
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_01220	COG1157	NU	Flagellar biosynthesis/type III secretory pathway ATPase FliI	FliI			5B0O
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_01225	COG0254	J	Ribosomal protein L31	RpmE	Ribosome 50S subunit		1VS6
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_01240	COG0216	J	Protein chain release factor RF1	PrfA	Translation factors		1RQ0
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_01245	COG2813	J	16S rRNA G1207 methylase RsmC	RsmC	16S rRNA modification		1DUS
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_01255	COG1073	T	Fermentation-respiration switch esterase FrsA, DUF1100 family	FrsA			
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_01260	COG1957	F	Inosine-uridine nucleoside N-ribohydrolase	URH1	Pyrimidine salvage		1EZR
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_01275	COG0698	G	Ribose 5-phosphate isomerase RpiB	RpiB	Pentose phosphate pathway		1NN4
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_01280	COG0112	E	Glycine/serine hydroxymethyltransferase	GlyA	Serine biosynthesis		1BJ4
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_01290	COG0472	M	UDP-N-acetylmuramyl pentapeptide phosphotransferase/UDP-N-acetylglucosamine-1-phosphate transferase	Rfe	Mureine biosynthesis		4J72
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_01310	COG0636	C	FoF1-type ATP synthase, membrane subunit c/Archaeal/vacuolar-type H+-ATPase, subunit K	AtpE	FoF1-type ATP synthase		1C17
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_01325	COG0712	C	FoF1-type ATP synthase, delta subunit	AtpH	FoF1-type ATP synthase		1ABV
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_01330	COG0055	C	FoF1-type ATP synthase, beta subunit	AtpD	FoF1-type ATP synthase		3OAA
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_01335	COG0224	C	FoF1-type ATP synthase, gamma subunit	AtpG	FoF1-type ATP synthase	15326535	3OAA
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_01345	COG1157	NU	Flagellar biosynthesis/type III secretory pathway ATPase FliI	FliI			5B0O
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_01355	COG0580	G	Glycerol uptake facilitator or related aquaporin (Major Intrinsic protein Family)	GlpF			1FQY
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_01360	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_01370	COG0148	G	Enolase	Eno	Glycolysis		1E9I
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_01375	COG1694	V	NTP pyrophosphatase, house-cleaning of non-canonical NTPs	MazG			1VMG
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_01385	COG1198	L	Primosomal protein N' (replication factor Y) - superfamily II helicase	PriA			6DCR
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_01390	COG0193	J	Peptidyl-tRNA hydrolase	Pth	Translation factors	11835511	1RYB
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_01395	COG1825	J	Ribosomal protein L25 (general stress protein Ctc)	RplY	Ribosome 50S subunit		1B75
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_01400	COG1040	R	DNA utilization protein ComFC/GntX, contains phosphoribosyltransferase domain	ComFC		28618091	
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_01405	COG1209	M	dTDP-glucose pyrophosphorylase	RmlA1			1FXO
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_01420	COG3963	I	Phosphatidylethanolamine N-methyltransferase				
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_01430	COG1099	R	Predicted metal-dependent hydrolase, TIM-barrel fold				3GUW
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_01435	COG0525	J	Valyl-tRNA synthetase	ValS	Aminoacyl-tRNA synthetases		1GAX
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_01440	COG1946	I	Acyl-CoA thioesterase	TesB			1C8U
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_01445	COG1010	H	Precorrin-3B methylase	CobJ	Cobalamine/B12 biosynthesis		2ZVB
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_01450	COG1430	S	Uncharacterized conserved membrane protein, UPF0127 family				3M7A
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_01455	COG3840	H	ABC-type thiamine transport system, ATPase component ThiQ	ThiQ			
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_01465	COG0536	DL	GTPase involved in cell partioning and DNA repair	Obg			1LNZ
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_01480	COG1898	M	dTDP-4-dehydrorhamnose 3,5-epimerase or related enzyme	RfbC			1DZR
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_01485	COG1086	MO	NDP-sugar epimerase, includes UDP-GlcNAc-inverting 4,6-dehydratase FlaA1 and capsular polysaccharide biosynthesis protein EpsC	FlaA1			2GN4
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_01490	COG1210	M	UTP-glucose-1-phosphate uridylyltransferase	GalU			2E3D
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_01525	COG0447	H	1,4-Dihydroxy-2-naphthoyl-CoA synthase	MenB	Menaquinone biosynthesis		4ELS
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_01530	COG2084	I	3-hydroxyisobutyrate dehydrogenase or related beta-hydroxyacid dehydrogenase	MmsB			1I36
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_01535	COG2131	F	Deoxycytidylate deaminase	ComEB		25746996;31954084	2HVV
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_01545	COG0812	M	UDP-N-acetylenolpyruvoylglucosamine reductase	MurB	Mureine biosynthesis		2MBR
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_01565	COG0165	E	Argininosuccinate lyase	ArgH	Arginine biosynthesis		1AOS
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_01570	COG0104	F	Adenylosuccinate synthase	PurA	Purine biosynthesis		1ADE
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_01580	COG0141	E	Histidinol dehydrogenase	HisD	Histidine biosynthesis		1K75
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_01585	COG0542	O	ATP-dependent Clp protease, ATP-binding subunit ClpA	ClpA			1KSF
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_01590	COG0346	Q	Catechol 2,3-dioxygenase or related enzyme, vicinal oxygen chelate (VOC) family	GloA		11830595	3R4Q
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_01595	COG5285	Q	Ectoine hydroxylase-related dioxygenase, phytanoyl-CoA dioxygenase (PhyH) family	PhyH			2A1X
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_01600	COG0739	M	Murein DD-endopeptidase MepM and murein hydrolase activator NlpD, contains LysM domain	NlpD			2GU1
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_01610	COG0565	J	tRNA C32,U32 (ribose-2'-O)-methylase TrmJ or a related methyltransferase	TrmJ	tRNA modification		3ONP
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_01615	COG2226	H	Ubiquinone/menaquinone biosynthesis C-methylase UbiE/MenG	UbiE	Biotin biosynthesis		4OBW
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_01625	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_01630	COG2357	FT	ppGpp synthetase catalytic domain (RelA/SpoT-type nucleotidyltranferase)	YjbM			5F2V
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_01645	COG0039	C	Malate/lactate dehydrogenase	Mdh	TCA cycle		4WLO
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_01650	COG2272	I	Carboxylesterase type B	PnbA			1K4Y
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_01655	COG2072	P	Predicted flavoprotein CzcO associated with the cation diffusion facilitator CzcD	CzcO			4USQ
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_01665	COG1607	I	Acyl-CoA hydrolase	YciA			5DM5
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_01670	COG3318	S	Uncharacterized conserved protein YecA, UPF0149 family, contains C-terminal Zn-binding SEC-C motif	YecA			
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_01675	COG1018	C	Flavodoxin/ferredoxin--NADP reductase	Fpr			3OZU
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_01685	COG1278	K	Cold shock protein, CspA family	CspC			1C9O
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_01695	COG5516	R	Uncharacterized conserved protein containing a Zn-ribbon-like motif, possibly RNA-binding				3H0N
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_01725	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_01730	COG0365	I	Acyl-coenzyme A synthetase/AMP-(fatty) acid ligase	Acs		14638756	4B2O
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_01735	COG1020	Q	EntF, seryl-AMP synthase component  of non-ribosomal peptide synthetase	EntF			5ES5
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_01750	COG0447	H	1,4-Dihydroxy-2-naphthoyl-CoA synthase	MenB	Menaquinone biosynthesis		4ELS
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_01760	COG1647	Q	Esterase/lipase	YvaK			4DIU
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_01765	COG0021	G	Transketolase	TktA	Pentose phosphate pathway		1AY0
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_01780	COG0305	L	Replicative DNA helicase	DnaB			1B79
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_01785	COG0359	J	Ribosomal protein L9	RplI	Ribosome 50S subunit	27112601	1VS6
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_01800	COG0360	J	Ribosomal protein S6	RpsF	Ribosome 30S subunit		4V4H
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_01810	COG1430	S	Uncharacterized conserved membrane protein, UPF0127 family				3M7A
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_01820	COG0500	QR	SAM-dependent methyltransferase	SmtA			5DNK
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_01825	COG2202	T	PAS domain	PAS			2MWG
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_01830	COG0617	J	tRNA nucleotidyltransferase/poly(A) polymerase	PcnB	tRNA modification		3WFR
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_01845	COG2120	G	N-acetylglucosaminyl deacetylase, LmbE family	LmbE			1Q74
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_01855	COG1020	Q	EntF, seryl-AMP synthase component  of non-ribosomal peptide synthetase	EntF			5ES5
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_01865	COG1853	C	FMN reductase RutF, DIM6/NTAB family	RutF	Pyrimidine degradation		1EJE
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_01875	COG0761	I	4-Hydroxy-3-methylbut-2-enyl diphosphate reductase IspH	IspH	Isoprenoid biosynthesis		3DNF
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_01880	COG0793	O	C-terminal processing protease CtpA/Prc, contains a PDZ domain	CtpA			6IQU
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_01885	COG0486	J	tRNA U34 5-carboxymethylaminomethyl modifying GTPase MnmE/TrmE	MnmE	tRNA modification		
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_01920	COG3239	I	Fatty acid desaturase	DesA			
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_01925	COG2001	J	MraZ, DNA-binding transcriptional regulator and inhibitor of RsmH methyltransferase activity	MraZ			1N0E
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_01945	COG0744	M	Penicillin-binding protein 1B/1F, peptidoglycan  transglycosylase/transpeptidase	MrcB			3FWL
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_01950	COG0773	M	UDP-N-acetylmuramate-alanine ligase MurC and related ligases, MurC/Mpl family	MurC	Mureine biosynthesis		
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_01955	COG0472	M	UDP-N-acetylmuramyl pentapeptide phosphotransferase/UDP-N-acetylglucosamine-1-phosphate transferase	Rfe	Mureine biosynthesis		4J72
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_01960	COG0769	M	UDP-N-acetylmuramyl tripeptide synthase	MurE	Mureine biosynthesis		1E8C
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_01965	COG0772	D	Peptodoglycan polymerase FtsW/RodA/SpoVE	FtsW		30692671	6BAR
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_01970	COG1819	G	UDP:flavonoid glycosyltransferase YjiC, YdhE family	YjiC		23974133	2ACV
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_01975	COG0769	M	UDP-N-acetylmuramyl tripeptide synthase	MurE	Mureine biosynthesis		1E8C
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_01995	COG0517	T	CBS domain	CBS			1B3O
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_02000	COG1253	R	Hemolysin-related protein, contains CBS domains, UPF0053 family	TlyC			2NQW
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_02005	COG0513	L	Superfamily II DNA and RNA helicase	SrmB			3RRM
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_02010	COG1121	P	ABC-type Mn2+/Zn2+ transport system, ATPase component	ZnuC			
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_02025	COG0322	L	Excinuclease UvrABC, nuclease subunit	UvrC		24513124	2NRT
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_02035	COG2226	H	Ubiquinone/menaquinone biosynthesis C-methylase UbiE/MenG	UbiE	Biotin biosynthesis		4OBW
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_02040	COG2606	J	Cys-tRNA(Pro) deacylase, prolyl-tRNA editing enzyme YbaK/EbsC	EbsC			1DBU
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_02045	COG4783	MO	Outer membrane protein chaperone/metalloprotease BepA/YfgC, contains M48 and TPR domains	BepA		24003122	6AIT
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_02050	COG2878	C	Na+-translocating ferredoxin:NAD+ oxidoreductase RNF, RnfB subunit	RnfB	Na+-translocating Fd:NADH oxidoreductase	24045950	
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_02060	COG0596	HR	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold	MenH	Menaquinone biosynthesis		4MYS
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_02065	COG0682	M	Prolipoprotein diacylglyceryltransferase	Lgt			5AZB
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_02070	COG2378	K	Predicted DNA-binding transcriptional regulator YobV, contains HTH and WYL domains	YobV			
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_02085	COG2807	P	Cyanate permease	CynX			
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_02090	COG0721	J	Asp-tRNAAsn/Glu-tRNAGln amidotransferase C subunit	GatC	Aminoacyl-tRNA synthetases		3H0L
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_02095	COG0154	J	Asp-tRNAAsn/Glu-tRNAGln amidotransferase A subunit or related amidase	GatA	Aminoacyl-tRNA synthetases		3H0L
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_02100	COG2511	J	Archaeal Glu-tRNAGln amidotransferase subunit E, contains GAD domain	GatE			2D6F
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_02105	COG0129	EG	Dihydroxyacid dehydratase/phosphogluconate dehydratase	IlvD	Isoleucine, leucine, valine biosynthesis		2GP4
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_02160	COG0190	H	5,10-methylene-tetrahydrofolate dehydrogenase/Methenyl tetrahydrofolate cyclohydrolase	FolD			1A4I
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_02165	COG0028	EH	Acetolactate synthase large subunit or other thiamine pyrophosphate-requiring enzyme	IlvB	Isoleucine, leucine, valine biosynthesis		1BFD
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_02170	COG3978	E	Acetolactate synthase small subunit, contains ACT domain	IlvM			
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_02175	COG0059	EH	Ketol-acid reductoisomerase	IlvC	Isoleucine, leucine, valine biosynthesis		1NP3
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_02180	COG2873	E	O-acetylhomoserine/O-acetylserine sulfhydrylase, pyridoxal phosphate-dependent	MET17	Methionine biosynthesis		2CTZ
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_02185	COG2047	R	Proteasome assembly chaperone (PAC2) family protein				3VR0
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_02190	COG0075	EF	Archaeal aspartate aminotransferase or a related aminotransferase, includes purine catabolism protein PucG	PucG	Serine biosynthesis		3NNK
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_02205	COG0399	M	dTDP-4-amino-4,6-dideoxygalactose transaminase	WecE		15271350	4PIW
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_02210	COG2035	S	Uncharacterized membrane protein, DUF368 family				
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_02220	COG2038	H	NaMN:DMB phosphoribosyltransferase	CobT	Cobalamine/B12 biosynthesis		1D0S
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_02230	COG2109	H	ATP:corrinoid adenosyltransferase	BtuR	Cobalamine/B12 biosynthesis		4HUT
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_02240	COG4607	P	ABC-type enterochelin transport system, periplasmic component	CeuA			3ZKW
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_02245	COG4606	P	ABC-type enterochelin transport system, permease component	CeuB			
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_02250	COG4152	R	ABC-type uncharacterized transport system, ATPase component	YhaQ			
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_02260	COG2258	FV	N-hydroxylaminopurine reductase YiiM, contains MOSC domain	YiiM		18312271;29459651	1O65
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_02270	COG1494	G	Fructose-1,6-bisphosphatase/sedoheptulose 1,7-bisphosphatase or related protein	GlpX			1NI9
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_02275	COG0657	I	Acetyl esterase/lipase	Aes			1EVQ
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_02290	COG0596	HR	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold	MenH	Menaquinone biosynthesis		4MYS
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_02295	COG2814	G	Predicted arabinose efflux permease AraJ, MFS family	AraJ			4LDS
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_02300	COG0128	E	5-enolpyruvylshikimate-3-phosphate synthase	AroA	Aromatic amino acid biosynthesis		4N3P
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_02310	COG1246	E	N-acetylglutamate synthase or related acetyltransferase, GNAT family	ArgA	Arginine biosynthesis		2R98
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_02325	COG0378	O	Hydrogenase/urease maturation factor HypB, Ni2+-binding GTPase	HypB		24338018;23899293	2HF8
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_02330	COG0447	H	1,4-Dihydroxy-2-naphthoyl-CoA synthase	MenB	Menaquinone biosynthesis		4ELS
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_02335	COG2814	G	Predicted arabinose efflux permease AraJ, MFS family	AraJ			4LDS
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_02340	COG0297	G	Glycogen synthase	GlgA			1RZU
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_02345	COG3427	C	Carbon monoxide dehydrogenase subunit CoxG	CoxG			2NS9
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_02350	COG1085	G	Galactose-1-phosphate uridylyltransferase	GalT			1GUP
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_02365	COG0312	R	Zn-dependent protease PmbA/TldA or its inactivated homolog	TldD		12029038	3TV9
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_02370	COG0312	R	Zn-dependent protease PmbA/TldA or its inactivated homolog	TldD		12029038	3TV9
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_02375	COG1968	I	Undecaprenyl pyrophosphate phosphatase	UppP			5OON
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_02385	COG1208	JM	NDP-sugar pyrophosphorylase, includes eIF-2Bgamma, eIF-2Bepsilon, and LPS biosynthesis protein s	GCD1			6JQ8
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_02395	COG1058	L	ADP-ribose pyrophosphatase domain of DNA damage- and competence-inducible protein CinA	CinA		25313401	4CT9
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_02400	COG0535	DH	Radical SAM superfamily maturase, SkfB/NifB/PqqE family	SkfB		23282011	6Q2P
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_02410	COG0315	H	Molybdenum cofactor biosynthesis enzyme MoaC	MoaC	Molybdopterin biosynthesis	32239579	1EKR
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_02425	COG0308	E	Aminopeptidase N, contains DUF3458 domain	PepN		24123841	6ATK
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_02430	COG1105	G	1-phosphofructokinase or 6-phosphofructokinase II	FruK			2ABQ
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_02435	COG1109	G	Phosphomannomutase	ManB			6MNV
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_02440	COG0462	F	Phosphoribosylpyrophosphate synthetase	PrsA	Histidine biosynthesis, Purine biosynthesis		1DKR
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_02445	COG1816	F	Adenosine deaminase	Add	Menaquinone biosynthesis		1A4L
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_02450	COG5285	Q	Ectoine hydroxylase-related dioxygenase, phytanoyl-CoA dioxygenase (PhyH) family	PhyH			2A1X
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_02465	COG0559	E	Branched-chain amino acid ABC-type transport system, permease component	LivH			
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_02470	COG0559	E	Branched-chain amino acid ABC-type transport system, permease component	LivH			
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_02475	COG4608	E	ABC-type oligopeptide transport system, ATPase component	AppF			
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_02480	COG1744	T	Lipoprotein Med, regulator of KinD/Spo0A, PBP1-ABC superfamily, includes NupN	Med		21622736	2FQW
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_02500	COG0447	H	1,4-Dihydroxy-2-naphthoyl-CoA synthase	MenB	Menaquinone biosynthesis		4ELS
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_02515	COG0248	FT	Exopolyphosphatase/pppGpp-phosphohydrolase	GppA			1T6C
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_02520	COG1507	S	Uncharacterized conserved protein, DUF501 family				
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_02525	COG3427	C	Carbon monoxide dehydrogenase subunit CoxG	CoxG			2NS9
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_02530	COG1213	I	Choline kinase				4MND
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_02535	COG0791	M	Cell wall-associated hydrolase, NlpC_P60 family	NlpC			2EVR
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_02545	COG1975	O	Molybdoenzyme maturation factor PaoD (Mo cofactor insertion), XdhC/CoxF family	XdhC		24498065	2WE7
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_02550	COG2425	S	Uncharacterized conserved protein, contains a von Willebrand factor type A (vWA) domain	ViaA			
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_02555	COG5271	J	Midasin, AAA ATPase with  vWA domain, involved in ribosome maturation	MDN1			6HYP
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_02565	COG1541	H	Phenylacetate-coenzyme A ligase PaaK, adenylate-forming domain family	PaaK			2Y4O
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_02570	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_02585	COG4630	F	Xanthine dehydrogenase, Fe-S cluster and FAD-binding subunit XdhA	XdhA			
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_02590	COG1529	C	Aldehyde, CO or xanthine dehydrogenase, Mo-binding subunit	CoxL	Non-phosphorylated Entner-Doudoroff pathway	10095793	1DGJ
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_02595	COG3383	R	Predicted molibdopterin-dependent oxidoreductase YjgC	YjgC			1AA6
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_02610	COG0647	F	Ribonucleotide monophosphatase NagD, HAD superfamily	NagD			1PW5
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_02615	COG1226	P	Voltage-gated potassium channel Kch	Kch			3FWZ
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_02620	COG4341	R	Predicted HD phosphohydrolase				4MLN
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_02625	COG1529	C	Aldehyde, CO or xanthine dehydrogenase, Mo-binding subunit	CoxL	Non-phosphorylated Entner-Doudoroff pathway	10095793	1DGJ
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_02635	COG1246	E	N-acetylglutamate synthase or related acetyltransferase, GNAT family	ArgA	Arginine biosynthesis		2R98
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_02640	COG3845	F	ABC-type guanosine uptake system NupNOPQ, ATPase component NupO	NupO		21926227	
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_02645	COG1177	E	ABC-type spermidine/putrescine transport system, permease component II	PotC			
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_02650	COG1840	P	ABC-type Fe3+ transport system, periplasmic component	AfuA			6IVY
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_02675	COG0697	GER	Permease of the drug/metabolite transporter (DMT) superfamily	RhaT			5I20
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_02690	COG1033	R	Predicted exporter protein, RND superfamily	MMPL			5KHN
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_02695	COG2226	H	Ubiquinone/menaquinone biosynthesis C-methylase UbiE/MenG	UbiE	Biotin biosynthesis		4OBW
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_02700	COG0154	J	Asp-tRNAAsn/Glu-tRNAGln amidotransferase A subunit or related amidase	GatA	Aminoacyl-tRNA synthetases		3H0L
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_02710	COG0312	R	Zn-dependent protease PmbA/TldA or its inactivated homolog	TldD		12029038	3TV9
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_02715	COG0312	R	Zn-dependent protease PmbA/TldA or its inactivated homolog	TldD		12029038	3TV9
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_02720	COG0460	E	Homoserine dehydrogenase	ThrA	Methionine biosynthesis	29124164	5AVO
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_02725	COG2015	Q	Alkyl sulfatase BDS1 and related hydrolases, metallo-beta-lactamase superfamily	BDS1			2CFU
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_02730	COG2303	IR	Choline dehydrogenase or related flavoprotein	BetA	Non-phosphorylated Entner-Doudoroff pathway		1B4V
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_02735	COG2062	T	Phosphohistidine phosphatase SixA	SixA			1UJB
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_02740	COG2144	R	Selenophosphate synthetase-related protein				
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_02750	COG0152	F	Phosphoribosylaminoimidazole-succinocarboxamide synthase	PurC	Purine biosynthesis		1A48
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_02755	COG0449	M	Glucosamine 6-phosphate synthetase, contains amidotransferase and phosphosugar isomerase domains	GlmS			2J6H
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_02760	COG0309	O	Carbamoyl dehydratase HypE (hydrogenase maturation factor)	HypE		28618091	2I6R
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_02765	COG0788	F	Formyltetrahydrofolate hydrolase	PurU	Purine biosynthesis		3O1L
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_02770	COG0516	F	IMP dehydrogenase/GMP reductase	GuaB	Purine biosynthesis		1B3O
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_02780	COG2193	P	Bacterioferritin (cytochrome b1)	Bfr			4E6K
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_02785	COG1846	K	DNA-binding transcriptional regulator, MarR family	MarR			1JGS
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_02795	COG3022	L	DNA-binding protein YaaA associated with the oxidative stress response	YaaA		21378183;32796037	5CAJ
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_02800	COG1164	E	Oligoendopeptidase F	PepF			3CE2
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_02805	COG1012	I	Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase	AdhE	Proline degradation		1A4S
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_02820	COG3717	G	5-keto 4-deoxyuronate isomerase	KduI			1X8M
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_02825	COG0673	R	Predicted dehydrogenase	MviM			3UUW
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_02830	COG0050	J	Translation elongation factor EF-Tu, a GTPase	TufA	Translation factors		1EFU
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_02845	COG1670	JO	Protein N-acetyltransferase, RimJ/RimL family	RimL			1S7F
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_02865	COG0365	I	Acyl-coenzyme A synthetase/AMP-(fatty) acid ligase	Acs		14638756	4B2O
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_02885	COG1007	C	NADH:ubiquinone oxidoreductase subunit 2 (chain N)	NuoN	NADH dehydrogenase		4HE8
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_02890	COG1008	C	NADH:ubiquinone oxidoreductase subunit 4 (chain M)	NuoM	NADH dehydrogenase		6HUM
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_02895	COG1009	C	Membrane H+-translocase/NADH:ubiquinone oxidoreductase subunit 5 (chain L)/Multisubunit Na+/H+ antiporter, MnhA subunit	NuoL	NADH dehydrogenase		3RKO
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_02900	COG0713	C	NADH:ubiquinone oxidoreductase subunit 11 or 4L (chain K)	NuoK	NADH dehydrogenase		4HE8
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_02905	COG0839	C	NADH:ubiquinone oxidoreductase subunit 6 (chain J)	NuoJ	NADH dehydrogenase		4HE8
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_02910	COG4231	C	TPP-dependent indolepyruvate ferredoxin oxidoreductase, alpha subunit	IorA			
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_02915	COG0650	C	Formate hydrogenlyase subunit HyfC	HyfC			6CFW
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_02920	COG3259	C	Coenzyme F420-reducing hydrogenase, alpha subunit	FrhA			3ZFS
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_02925	COG3262	C	Ni,Fe-hydrogenase III component G	HycE1			
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_02930	COG1941	C	Coenzyme F420-reducing hydrogenase, gamma subunit	FrhG			5ODC
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_02935	COG0838	C	NADH:ubiquinone oxidoreductase subunit 3 (chain A)	NuoA	NADH dehydrogenase		3RKO
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_02940	COG1194	L	Adenine-specific DNA glycosylase, acts on AG and A-oxoG pairs	MutY			1KG2
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_02945	COG3888	K	Predicted transcriptional regulator				
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_02950	COG2185	I	Methylmalonyl-CoA mutase, C-terminal domain/subunit (cobalamin-binding)	Sbm			1B1A
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_02970	COG2866	M	Murein tripeptide amidase MpaA	MpaA			1ARL
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_02975	COG0737	FV	2',3'-cyclic-nucleotide 2'-phosphodiesterase/5'- or 3'-nucleotidase, 5'-nucleotidase family	UshA			1HO5
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_02980	COG3527	Q	Alpha-acetolactate decarboxylase	AlsD			1XV2
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_02985	COG2267	I	Lysophospholipase, alpha-beta hydrolase superfamily	PldB			5O7G
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_02990	COG0491	R	Glyoxylase or a related metal-dependent hydrolase, beta-lactamase superfamily II	GloB		25670698	1QH3
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_03010	COG0652	O	Peptidyl-prolyl cis-trans isomerase (rotamase) - cyclophilin family	PpiB			4DGD
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_03030	COG2833	S	Uncharacterized protein, contains ferritin-like DUF455 domain				
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_03040	COG1506	E	Dipeptidyl aminopeptidase/acylaminoacyl peptidase	DAP2			2JBW
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_03060	COG0568	K	DNA-directed RNA polymerase, sigma subunit (sigma70/sigma32)	RpoD	RNA polymerase		1SIG
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_03080	COG3152	S	Uncharacterized membrane protein YhaH, DUF805 family	yhaH			
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_03090	COG3502	S	Uncharacterized conserved protein, DUF952 family				2JQN
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_03100	COG1161	J	Ribosome biogenesis GTPase RbgA	RbgA			6G14
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_03105	COG0550	L	DNA topoisomerase IA	TopA			1CY0
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_03110	COG0125	F	Thymidylate kinase	Tmk	Thymidylate biosynthesis		3LV8
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_03120	COG2372	P	Copper-binding protein CopC (methionine-rich)	CopC			1IX2
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_03130	COG2184	T	Fido, protein-threonine AMPylation domain	FIDO		19503829	2F6S
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_03135	COG0024	J	Methionine aminopeptidase	Map			3J2I
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_03140	COG2857	C	Cytochrome c1	CYT1			
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_03150	COG0003	P	Anion-transporting ATPase, ArsA/GET3 family	ArsA			1F48
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_03155	COG1192	DN	ParA-like ATPase involved in chromosome/plasmid partitioning or cellulose biosynthesis protein BcsQ	ParA			6NOO
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_03160	COG0784	T	CheY-like REC (receiver) domain, includes chemotaxis protein CheY  and sporulation regulator Spo0F	CheY			6QRJ
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_03170	COG1694	V	NTP pyrophosphatase, house-cleaning of non-canonical NTPs	MazG			1VMG
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_03185	COG0002	E	N-acetyl-gamma-glutamylphosphate reductase	ArgC	Arginine biosynthesis		3DR3
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_03190	COG2226	H	Ubiquinone/menaquinone biosynthesis C-methylase UbiE/MenG	UbiE	Biotin biosynthesis		4OBW
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_03200	COG0528	F	Uridylate kinase	PyrH	Pyrimidine biosynthesis		2BND
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_03205	COG2329	H	Heme-degrading monooxygenase HmoA and related ABM domain proteins	HmoA		21873409	1IUJ
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_03220	COG1804	I	Crotonobetainyl-CoA:carnitine CoA-transferase CaiB and related acyl-CoA transferases	CaiB			1P5H
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_03230	COG0514	L	Superfamily II DNA helicase RecQ	RecQ			1OYW
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_03235	COG3409	M	Peptidoglycan-binding (PGRP) domain of peptidoglycan hydrolases	PGRP			4FET
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_03240	COG2964	K	Predicted transcriptional regulator YheO, contains PAS and DNA-binding HTH domains	YheO			
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_03245	COG1011	H	FMN and 5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YigB, HAD superfamily (riboflavin biosynthesis)	YigB		24123841	4JB3
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_03250	COG0572	F	Uridine kinase	Udk	Pyrimidine salvage		5B3F
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_03265	COG3460	Q	1,2-phenylacetyl-CoA epoxidase, PaaB subunit	PaaB			3EGR
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_03280	COG1846	K	DNA-binding transcriptional regulator, MarR family	MarR			1JGS
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_03285	COG2050	Q	Acyl-CoA thioesterase PaaI, contains HGG motif	PaaI			1PSU
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_03290	COG0596	HR	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold	MenH	Menaquinone biosynthesis		4MYS
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_03300	COG0769	M	UDP-N-acetylmuramyl tripeptide synthase	MurE	Mureine biosynthesis		1E8C
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_03305	COG0458	EF	Carbamoylphosphate synthase large subunit	CarB	Arginine biosynthesis		1C30
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_03310	COG1309	K	DNA-binding protein, AcrR family, includes nucleoid occlusion protein SlmA	AcrR			2QOP
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_03315	COG3320	Q	Thioester reductase domain of alpha aminoadipate reductase Lys2 and NRPSs	Lys2b	Lysine biosynthesis		5MSP
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_03320	COG1064	G	D-arabinose 1-dehydrogenase, Zn-dependent alcohol dehydrogenase family	AdhP			5O8Q
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_03325	COG3875	M	Nickel-dependent lactate racemase	LarA		24710389	2YJG
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_03330	COG0204	I	1-acyl-sn-glycerol-3-phosphate acyltransferase	PlsC	Phospholipid biosynthesis		1IUQ
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_03335	COG1038	C	Pyruvate carboxylase	PycA	Urea cycle		5VYW
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_03345	COG1089	M	GDP-D-mannose dehydratase	Gmd			1DB3
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_03350	COG1004	M	UDP-glucose 6-dehydrogenase	Ugd			1DLI
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_03355	COG1012	I	Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase	AdhE	Proline degradation		1A4S
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_03375	COG1541	H	Phenylacetate-coenzyme A ligase PaaK, adenylate-forming domain family	PaaK			2Y4O
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_03380	COG1104	E	Cysteine desulfurase/Cysteine sulfinate desulfinase IscS or related enzyme, NifS family	NifS		22773787;25825430	4IXO
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_03390	COG2175	Q	Taurine dioxygenase, alpha-ketoglutarate-dependent	TauD			1DRT
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_03395	COG0725	P	ABC-type molybdate transport system, periplasmic Mo-binding protein ModA	ModA	Molybdopterin biosynthesis		1AMF
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_03400	COG1177	E	ABC-type spermidine/putrescine transport system, permease component II	PotC			
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_03405	COG0488	R	ATPase components of ABC transporters with duplicated ATPase domains	Uup			5ZXD
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_03415	COG1228	Q	Imidazolonepropionase or related amidohydrolase	HutI			3OOQ
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_03420	COG0523	R	Zinc metallochaperone YeiR/ZagA and related GTPases, G3E family	YejR		19822009;31132310	1NIJ
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_03425	COG1804	I	Crotonobetainyl-CoA:carnitine CoA-transferase CaiB and related acyl-CoA transferases	CaiB			1P5H
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_03445	COG1587	H	Uroporphyrinogen-III synthase	HemD	Heme biosynthesis		1JR2
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_03455	COG0169	E	Shikimate 5-dehydrogenase	AroE	Aromatic amino acid biosynthesis		1NPD
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_03465	COG0365	I	Acyl-coenzyme A synthetase/AMP-(fatty) acid ligase	Acs		14638756	4B2O
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_03470	COG1022	I	Long-chain acyl-CoA synthetase (AMP-forming)	FAA1			
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_03475	COG0678	O	Peroxiredoxin	AHP1			1H4O
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_03480	COG0318	I	O-succinylbenzoic acid-CoA ligase MenE or related acyl-CoA synthetase (AMP-forming)	MenE/FadK	Menaquinone biosynthesis	25151136;27455459	5EY9
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_03490	COG2818	L	3-methyladenine DNA glycosylase Tag	Tag			1LMZ
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_03495	COG1320	P	Multisubunit Na+/H+ antiporter, MnhG subunit	MnhG			6CFW
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_03500	COG2212	P	Multisubunit Na+/H+ antiporter, MnhF subunit	MnhF			6CFW
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_03510	COG0651	CP	Formate hydrogenlyase subunit 3/Multisubunit Na+/H+ antiporter, MnhD subunit	HyfB			6CFW
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_03515	COG1006	P	Multisubunit Na+/H+ antiporter, MnhC subunit	MnhC			6CFW
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_03520	COG2111	P	Multisubunit Na+/H+ antiporter, MnhB subunit	MnhB			
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_03525	COG2111	P	Multisubunit Na+/H+ antiporter, MnhB subunit	MnhB			
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_03530	COG2084	I	3-hydroxyisobutyrate dehydrogenase or related beta-hydroxyacid dehydrogenase	MmsB			1I36
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_03535	COG2360	O	Leu/Phe-tRNA-protein transferase	Aat			2CXA
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_03540	COG1884	I	Methylmalonyl-CoA mutase, N-terminal domain/subunit	Sbm			6OXC
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_03550	COG0789	K	DNA-binding transcriptional regulator, MerR family	SoxR			2VZ4
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_03555	COG2214	K	Curved DNA-binding protein CbpA, contains a DnaJ-like domain	CbpA			
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_03560	COG0576	O	Molecular chaperone GrpE (heat shock protein HSP-70)	GrpE			1DKG
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_03565	COG0443	O	Molecular chaperone DnaK (HSP70)	DnaK			3I33
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_03575	COG1246	E	N-acetylglutamate synthase or related acetyltransferase, GNAT family	ArgA	Arginine biosynthesis		2R98
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_03590	COG3119	P	Arylsulfatase A or related enzyme, AlkP superfamily	AslA			1E1Z
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_03595	COG0664	T	cAMP-binding domain of CRP or a regulatory subunit of cAMP-dependent protein kinases	Crp			1FT9
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_03600	COG1150	C	Heterodisulfide reductase, subunit C	HdrC			5ODC
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_03605	COG0514	L	Superfamily II DNA helicase RecQ	RecQ			1OYW
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_03610	COG0756	FV	dUTP pyrophosphatase (dUTPase)	Dut	Thymidylate biosynthesis		1DUC
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_03630	COG1359	C	Quinol monooxygenase YgiN	YgiN		15613473	1R6Y
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_03635	COG0584	I	Glycerophosphoryl diester phosphodiesterase	UgpQ			1O1Z
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_03645	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_03655	COG2226	H	Ubiquinone/menaquinone biosynthesis C-methylase UbiE/MenG	UbiE	Biotin biosynthesis		4OBW
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_03665	COG0075	EF	Archaeal aspartate aminotransferase or a related aminotransferase, includes purine catabolism protein PucG	PucG	Serine biosynthesis		3NNK
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_03670	COG0037	J	tRNA(Ile)-lysidine synthase TilS/MesJ	TilS	tRNA modification	21435031	1NI5
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_03680	COG1041	J	tRNA G10 N-methylase Trm11	Trm11	tRNA modification		5E71
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_03695	COG0272	L	NAD-dependent DNA ligase	Lig			5TT5
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_03705	COG2815	M	PASTA domain, binds beta-lactams	PASTA			
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_03730	COG0111	H	Phosphoglycerate dehydrogenase or related dehydrogenase	SerA	Serine biosynthesis		3OET
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_03735	COG0284	F	Orotidine-5'-phosphate decarboxylase	PyrF	Pyrimidine biosynthesis		1DBT
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_03740	COG1141	C	Ferredoxin	Fer			1IQZ
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_03750	COG0119	E	Isopropylmalate/homocitrate/citramalate synthases	LeuA	Isoleucine, leucine, valine biosynthesis		4JN6
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_03755	COG0514	L	Superfamily II DNA helicase RecQ	RecQ			1OYW
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_03765	COG2814	G	Predicted arabinose efflux permease AraJ, MFS family	AraJ			4LDS
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_03780	COG4172	Q	ABC-type microcin C transport system, duplicated ATPase component YejF	YejF		17873039	
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_03785	COG0842	V	ABC-type multidrug transport system, permease component	YadH			
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_03790	COG0842	V	ABC-type multidrug transport system, permease component	YadH			
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_03800	COG1063	ER	Threonine dehydrogenase or related Zn-dependent dehydrogenase	Tdh	Non-phosphorylated Entner-Doudoroff pathway		4A2C
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_03810	COG0066	E	3-isopropylmalate dehydratase small subunit	LeuD	Isoleucine, leucine, valine biosynthesis		3Q3W
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_03815	COG0065	E	Homoaconitase/3-isopropylmalate dehydratase large subunit	LeuC	Isoleucine, leucine, valine biosynthesis		4KP1
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_03820	COG2512	R	Predicted transcriptional regulator, contains CW (cell wall-binding) repeats and an HTH domain				
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_03825	COG4270	S	Uncharacterized membrane protein				
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_03830	COG0379	H	Quinolinate synthase	NadA	NAD biosynthesis	24498065	4HHE
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_03840	COG0036	G	Pentose-5-phosphate-3-epimerase	Rpe	Pentose phosphate pathway		1H1Y
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_03845	COG0545	O	FKBP-type peptidyl-prolyl cis-trans isomerase	FkpA			1A7X
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_03850	COG0402	FR	Cytosine/adenosine deaminase or related metal-dependent hydrolase	SsnA	Pyrimidine salvage		3O7U
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_03860	COG0596	HR	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold	MenH	Menaquinone biosynthesis		4MYS
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_03870	COG0473	CE	Isocitrate/isopropylmalate dehydrogenase	LeuB	TCA cycle		1GC9
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_03885	COG1105	G	1-phosphofructokinase or 6-phosphofructokinase II	FruK			2ABQ
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_03910	COG0154	J	Asp-tRNAAsn/Glu-tRNAGln amidotransferase A subunit or related amidase	GatA	Aminoacyl-tRNA synthetases		3H0L
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_03950	COG0491	R	Glyoxylase or a related metal-dependent hydrolase, beta-lactamase superfamily II	GloB		25670698	1QH3
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_03955	COG0607	P	Rhodanese-related sulfurtransferase	PspE	Urea cycle		1TQ1
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_03960	COG0607	P	Rhodanese-related sulfurtransferase	PspE	Urea cycle		1TQ1
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_03965	COG0730	P	Sulfite exporter TauE/SafE/YfcA and related permeases, UPF0721 family	TauE		21183667;22797525	
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_03970	COG1047	O	Peptidyl-prolyl cis-trans isomerase, FKBP type	SlpA			2M2A
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_03975	COG0156	H	7-keto-8-aminopelargonate synthetase or related enzyme	BioF	Biotin biosynthesis		1BS0
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_03980	COG1023	G	6-phosphogluconate dehydrogenase (decarboxylating)	YqeC			4E21
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_03990	COG1197	LK	Transcription-repair coupling factor (superfamily II helicase)	Mfd			2EYQ
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_04035	COG0840	T	Methyl-accepting chemotaxis protein (MCP)	Tar			1QU7
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_04045	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_04055	COG3263	CP	NhaP-type Na+/H+ and K+/H+ antiporter with C-terminal TrkAC and CorC domains	NhaP2			
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_04075	COG2057	I	Acyl-CoA:acetate/3-ketoacid CoA transferase, beta subunit	AtoA			5DBN
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_04080	COG0392	M	Predicted membrane flippase AglD2/YbhN, UPF0104 family	AglD2		25583072	
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_04090	COG0204	I	1-acyl-sn-glycerol-3-phosphate acyltransferase	PlsC	Phospholipid biosynthesis		1IUQ
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_04100	COG0307	H	Riboflavin synthase alpha chain	RibC	Riboflavin/FAD biosynthesis		1I8D
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_04105	COG0807	H	GTP cyclohydrolase II	RibA	Riboflavin/FAD biosynthesis		2BZ0
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_04110	COG1731	H	Archaeal riboflavin synthase	RibC2	Riboflavin/FAD biosynthesis		5IM5
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_04115	COG2522	K	Predicted transcriptional regulator, contains XRE-type HTH domain	AF0184			
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_04125	COG0477	GEPR	MFS family permease, includes anhydromuropeptide permease AmpG	ProP		12426329	
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_04130	COG0791	M	Cell wall-associated hydrolase, NlpC_P60 family	NlpC			2EVR
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_04135	COG3264	M	Small-conductance mechanosensitive channel MscK	MscK			
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_04150	COG2949	M	Uncharacterized periplasmic protein SanA, affects membrane permeability for vancomycin	SanA			
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_04155	COG1251	C	NAD(P)H-nitrite reductase, large subunit	NirB			
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_04165	COG2179	R	Predicted phosphohydrolase YqeG, HAD superfamily	YqeG			
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_04175	COG1187	J	Pseudouridylate synthase RsuA, specific for 16S rRNA U516  and 23S rRNA U2605	RsuA	16S rRNA modification		1KSK
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_04180	COG3199	F	NAD kinase				
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_04185	COG1195	L	Recombinational DNA repair ATPase RecF	RecF			5Z67
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_04190	COG0504	F	CTP synthase (UTP-ammonia lyase)	PyrG	Pyrimidine biosynthesis		1S1M
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_04195	COG0494	V	8-oxo-dGTP pyrophosphatase MutT and related house-cleaning NTP pyrophosphohydrolases, NUDIX family	MutT			4V14
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_04200	COG0582	LX	Integrase/recombinase, includes phage integrase	FimB			
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_04210	COG0534	V	Na+-driven multidrug efflux pump, DinF/NorM/MATE family	NorM		29915058	3VVN
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_04215	COG0180	J	Tryptophanyl-tRNA synthetase	TrpS	Aminoacyl-tRNA synthetases		3N9I
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_04225	COG1386	K	Chromosome segregation and condensation protein ScpB	ScpB			1T6S
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_04230	COG0564	J	Pseudouridine synthase RluA, 23S rRNA- or tRNA-specific	RluA	23S rRNA modification		2I82
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_04240	COG4168	V	ABC-type antimicrobial peptide export system, permease component SapB	SapB			
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_04245	COG4239	Q	ABC-type microcin C transport system, permease component YejE	YejE			
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_04250	COG4674	R	ABC-type uncharacterized transport system, ATPase component			10686096	
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_04255	COG0215	J	Cysteinyl-tRNA synthetase	CysS	Aminoacyl-tRNA synthetases		1LI5
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_04260	COG0596	HR	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold	MenH	Menaquinone biosynthesis		4MYS
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_04265	COG0673	R	Predicted dehydrogenase	MviM			3UUW
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_04270	COG0673	R	Predicted dehydrogenase	MviM			3UUW
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_04275	COG0803	P	ABC-type Zn uptake system ZnuABC, Zn-binding component ZnuA	ZnuA			1K0F
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_04280	COG4172	Q	ABC-type microcin C transport system, duplicated ATPase component YejF	YejF		17873039	
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_04290	COG1414	K	DNA-binding transcriptional regulator, IclR family	IclR			1MKM
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_04295	COG0384	R	Predicted epimerase YddE/YHI9, PhzF superfamily	YHI9		24914732	1SDJ
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_04305	COG1938	R	Predicted ATP-dependent carboligase, ATP-grasp superfamily				3GAA
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_04310	COG2334	T	Ser/Thr protein kinase RdoA involved in Cpx stress response, MazF antagonist	SrkA	Threonine biosynthesis		1ZYL
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_04315	COG0526	O	Thiol-disulfide isomerase or thioredoxin	TrxA			1XFL
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_04330	COG0268	J	Ribosomal protein S20	RpsT	Ribosome 30S subunit		4V4H
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_04335	COG0532	J	Translation initiation factor IF-2, a GTPase	InfB	Translation factors		5ME0
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_04340	COG0365	I	Acyl-coenzyme A synthetase/AMP-(fatty) acid ligase	Acs		14638756	4B2O
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_04345	COG1574	R	Predicted amidohydrolase YtcJ	YtcJ			3ICJ
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_04360	COG2015	Q	Alkyl sulfatase BDS1 and related hydrolases, metallo-beta-lactamase superfamily	BDS1			2CFU
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_04365	COG3239	I	Fatty acid desaturase	DesA			
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_04375	COG2159	G	5-carboxyvanillate decarboxylase LigW (lignin degradation), amidohydro domain	LigW		26714575	2DVT
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_04380	COG1073	T	Fermentation-respiration switch esterase FrsA, DUF1100 family	FrsA			
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_04385	COG2130	QR	NADPH-dependent curcumin reductase CurA	CurA		21467222	1V3T
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_04405	COG0693	V	Protein/nucleotide deglycase, PfpI/YajL/DJ-1 family (repair of methylglyoxal-glycated proteins and nucleic acids)	YajL		19028889;28596309;26678554	5SY4
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_04420	COG0596	HR	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold	MenH	Menaquinone biosynthesis		4MYS
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_04430	COG3119	P	Arylsulfatase A or related enzyme, AlkP superfamily	AslA			1E1Z
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_04440	COG1316	M	Anionic cell wall polymer biosynthesis enzyme TagV/TagU,  LytR-Cps2A-Psr (LCP) family (peptidoglycan teichoic acid transferase)	Cps2a		29107701	2XXP
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_04445	COG2425	S	Uncharacterized conserved protein, contains a von Willebrand factor type A (vWA) domain	ViaA			
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_04450	COG1239	H	Mg-chelatase subunit ChlI	ChlI			1G8P
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_04455	COG1063	ER	Threonine dehydrogenase or related Zn-dependent dehydrogenase	Tdh	Non-phosphorylated Entner-Doudoroff pathway		4A2C
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_04460	COG1464	P	ABC-type metal ion transport system, periplasmic component/surface antigen	NlpA			1P99
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_04465	COG1063	ER	Threonine dehydrogenase or related Zn-dependent dehydrogenase	Tdh	Non-phosphorylated Entner-Doudoroff pathway		4A2C
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_04475	COG0612	R	Predicted Zn-dependent peptidase, M16 family	PqqL			6OFS
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_04480	COG1648	H	Siroheme synthase (precorrin-2 oxidase/ferrochelatase domain)	CysG2	Heme biosynthesis		1PJQ
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_04485	COG1648	H	Siroheme synthase (precorrin-2 oxidase/ferrochelatase domain)	CysG2	Heme biosynthesis		1PJQ
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_04505	COG2896	H	GTP 3',8-cyclase (molybdenum cofactor biosynthesis protein MoaA)	MoaA	Molybdopterin biosynthesis		1TV7
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_04510	COG3576	R	Predicted flavin-nucleotide-binding protein, pyridoxine 5'-phosphate oxidase superfamily				5ESC
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_04515	COG0344	I	Phospholipid biosynthesis protein PlsY, probable glycerol-3-phosphate acyltransferase	PlsY		29684280	5XJ5
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_04520	COG0446	I	NADPH-dependent 2,4-dienoyl-CoA reductase, sulfur reductase, or a related oxidoreductase	FadH2			1VRQ
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_04530	COG0692	L	Uracil-DNA glycosylase	Ung		16237021	1AKZ
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_04535	COG1765	R	Uncharacterized OsmC-related protein	YhfA			1LQL
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_04540	COG3263	CP	NhaP-type Na+/H+ and K+/H+ antiporter with C-terminal TrkAC and CorC domains	NhaP2			
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_04555	COG3568	R	Metal-dependent hydrolase, endonuclease/exonuclease/phosphatase family	ElsH		15178340	
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_04560	COG0210	L	Superfamily I DNA or RNA helicase	UvrD			6PPR
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_04565	COG3428	S	Uncharacterized membrane protein YdbT, contains bPH2 (bacterial pleckstrin homology) domain	YdbT			
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_04570	COG4558	P	ABC-type hemin transport system, periplasmic component	ChuT			3MD9
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_04575	COG1577	I	Mevalonate kinase	ERG12	Isoprenoid biosynthesis		
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_04580	COG2021	E	Homoserine O-acetyltransferase	MET2	Methionine biosynthesis		2VAT
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_04585	COG1804	I	Crotonobetainyl-CoA:carnitine CoA-transferase CaiB and related acyl-CoA transferases	CaiB			1P5H
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_04615	COG1078	R	HD superfamily phosphohydrolase	YdhJ			2HEK
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_04620	COG1163	J	Ribosome-interacting GTPase RBG1	Rbg1			4A9A
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_04625	COG1608	I	Isopentenyl phosphate kinase			16621811	3LKK
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_04630	COG1842	KT	Phage shock protein A	PspA			4WHE
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_04635	COG0534	V	Na+-driven multidrug efflux pump, DinF/NorM/MATE family	NorM		29915058	3VVN
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_04645	COG5271	J	Midasin, AAA ATPase with  vWA domain, involved in ribosome maturation	MDN1			6HYP
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_04660	COG0265	O	Periplasmic serine protease, S1-C subfamily, contain C-terminal PDZ domain	DegQ		29686141	2HGA
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_04665	COG0673	R	Predicted dehydrogenase	MviM			3UUW
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_04670	COG1879	G	ABC-type sugar transport system, periplasmic component, contains N-terminal xre family HTH domain	RbsB			1BA2
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_04685	COG4214	G	ABC-type xylose transport system, permease component	XylH			
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_04690	COG0488	R	ATPase components of ABC transporters with duplicated ATPase domains	Uup			5ZXD
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_04695	COG2240	H	Pyridoxal/pyridoxine/pyridoxamine kinase	PdxK	Pyridoxal phosphate biosynthesis	19096365;23189126	5ZW9
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_04700	COG1830	G	Fructose-bisphosphate aldolase class Ia, DhnA family	FbaB	Glycolysis		1OJX
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_04705	COG0345	E	Pyrroline-5-carboxylate reductase	ProC	Proline biosynthesis	22125496;26507882	3GT0
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_04710	COG3961	GHR	TPP-dependent 2-oxoacid decarboxylase, includes indolepyruvate decarboxylase	PDC1	Pyruvate oxidation		1PYD
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_04720	COG0126	G	3-phosphoglycerate kinase	Pgk	Glycolysis		13PK
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_04725	COG0149	G	Triosephosphate isomerase	TpiA	Glycolysis		1HG3
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_04730	COG4166	E	ABC-type oligopeptide transport system, periplasmic component	OppA			1B05
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_04735	COG1173	EP	ABC-type dipeptide/oligopeptide/nickel transport system, permease component	DppC			
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_04740	COG1177	E	ABC-type spermidine/putrescine transport system, permease component II	PotC			
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_04745	COG4525	P	ABC-type taurine transport system, ATPase component	TauB			
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_04750	COG0396	O	Fe-S cluster assembly ATPase SufC	SufC			2D3W
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_04760	COG1314	U	Protein translocase subunit SecG	SecG			2AKH
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_04770	COG5001	T	Cyclic di-GMP metabolism protein, combines GGDEF and EAL domains with a 6TM membrane domain				
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_04775	COG1359	C	Quinol monooxygenase YgiN	YgiN		15613473	1R6Y
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_04780	COG0823	U	Periplasmic component TolB of the Tol biopolymer transport system	TolB			1C5K
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_04785	COG0596	HR	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold	MenH	Menaquinone biosynthesis		4MYS
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_04795	COG2072	P	Predicted flavoprotein CzcO associated with the cation diffusion facilitator CzcD	CzcO			4USQ
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_04805	COG1359	C	Quinol monooxygenase YgiN	YgiN		15613473	1R6Y
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_04810	COG3884	I	Acyl-ACP thioesterase	FatA			2ESS
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_04820	COG2144	R	Selenophosphate synthetase-related protein				
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_04855	COG1023	G	6-phosphogluconate dehydrogenase (decarboxylating)	YqeC			4E21
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_04865	COG2015	Q	Alkyl sulfatase BDS1 and related hydrolases, metallo-beta-lactamase superfamily	BDS1			2CFU
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_04870	COG4221	C	NADP-dependent 3-hydroxy acid dehydrogenase YdfG	YdfG	Pyrimidine degradation		3P19
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_04880	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_04890	COG2265	J	tRNA/tmRNA/rRNA uracil-C5-methylase, TrmA/RlmC/RlmD family	TrmA	tRNA modification		1UWV
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_04895	COG2335	R	Uncaracterized surface protein containing fasciclin (FAS1) repeats	FAS1			
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_04905	COG1946	I	Acyl-CoA thioesterase	TesB			1C8U
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_04910	COG0494	V	8-oxo-dGTP pyrophosphatase MutT and related house-cleaning NTP pyrophosphohydrolases, NUDIX family	MutT			4V14
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_04920	COG2814	G	Predicted arabinose efflux permease AraJ, MFS family	AraJ			4LDS
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_04945	COG4172	Q	ABC-type microcin C transport system, duplicated ATPase component YejF	YejF		17873039	
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_04950	COG4178	R	ABC-type uncharacterized transport system, permease and ATPase components	YddA			6JBJ
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_04955	COG4618	U	ABC-type protease/lipase transport system, ATPase and permease components	ArpD			5L22
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_04960	COG4597	E	ABC-type amino acid transport system, permease component	BatB			
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_04965	COG4160	E	ABC-type arginine/histidine transport system, permease component	ArtM			
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_04980	COG3119	P	Arylsulfatase A or related enzyme, AlkP superfamily	AslA			1E1Z
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_04990	COG0596	HR	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold	MenH	Menaquinone biosynthesis		4MYS
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_04995	COG2814	G	Predicted arabinose efflux permease AraJ, MFS family	AraJ			4LDS
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_05010	COG2068	H	CTP:molybdopterin cytidylyltransferase MocA	MocA			2WAW
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_05015	COG0607	P	Rhodanese-related sulfurtransferase	PspE	Urea cycle		1TQ1
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_05035	COG0013	J	Alanyl-tRNA synthetase	AlaS	Aminoacyl-tRNA synthetases		2ZZE
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_05050	COG0373	H	Glutamyl-tRNA reductase	HemA	Heme biosynthesis		2XOE
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_05060	COG3265	G	Gluconate kinase	GntK	Non-phosphorylated Entner-Doudoroff pathway		1KO4
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_05065	COG0371	C	Glycerol dehydrogenase or related enzyme, iron-containing ADH family	GldA	Isoprenoid biosynthesis	20688982	3S99
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_05070	COG0673	R	Predicted dehydrogenase	MviM			3UUW
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_05075	COG0560	E	Phosphoserine phosphatase	SerB	Serine biosynthesis		3N28
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_05080	COG1249	C	Dihydrolipoamide dehydrogenase (E3) component of pyruvate/2-oxoglutarate dehydrogenase complex or glutathione oxidoreductase	Lpd	Glycine cleavagePyruvate oxidation		6QKG
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_05085	COG2141	HR	Flavin-dependent oxidoreductase, luciferase family (includes alkanesulfonate monooxygenase SsuD and methylene tetrahydromethanopterin reductase)	SsuD	Pyrimidine degradation		1BRL
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_05100	COG1305	O	Transglutaminase-like enzyme, putative cysteine protease	YebA			3ISR
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_05110	COG1804	I	Crotonobetainyl-CoA:carnitine CoA-transferase CaiB and related acyl-CoA transferases	CaiB			1P5H
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_05115	COG0075	EF	Archaeal aspartate aminotransferase or a related aminotransferase, includes purine catabolism protein PucG	PucG	Serine biosynthesis		3NNK
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_05125	COG1028	I	NAD(P)-dependent dehydrogenase, short-chain alcohol dehydrogenase family	FabG	Fatty acid biosynthesis		6L1H
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_05135	COG3173	R	Predicted  kinase, aminoglycoside phosphotransferase (APT) family	YcbJ			
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_05145	COG1541	H	Phenylacetate-coenzyme A ligase PaaK, adenylate-forming domain family	PaaK			2Y4O
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_05155	COG0145	EQ	N-methylhydantoinase A/oxoprolinase/acetone carboxylase, beta subunit	HyuA			
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_05165	COG2514	Q	Catechol-2,3-dioxygenase	CatE			
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_05170	COG4638	PR	Phenylpropionate dioxygenase or related ring-hydroxylating dioxygenase, large terminal subunit	HcaE			4QDC
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_05175	COG2188	K	DNA-binding transcriptional regulator, GntR family	MngR			2WV0
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_05180	COG0346	Q	Catechol 2,3-dioxygenase or related enzyme, vicinal oxygen chelate (VOC) family	GloA		11830595	3R4Q
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_05185	COG2814	G	Predicted arabinose efflux permease AraJ, MFS family	AraJ			4LDS
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_05195	COG1946	I	Acyl-CoA thioesterase	TesB			1C8U
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_05225	COG2227	H	2-polyprenyl-3-methyl-5-hydroxy-6-metoxy-1,4-benzoquinol methylase	UbiG	Ubiquinone biosynthesis		1BHJ
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_05265	COG1879	G	ABC-type sugar transport system, periplasmic component, contains N-terminal xre family HTH domain	RbsB			1BA2
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_05270	COG4076	R	Predicted RNA methylase				
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_05275	COG0447	H	1,4-Dihydroxy-2-naphthoyl-CoA synthase	MenB	Menaquinone biosynthesis		4ELS
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_05290	COG0460	E	Homoserine dehydrogenase	ThrA	Methionine biosynthesis	29124164	5AVO
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_05295	COG3384	Q	Aromatic ring-opening dioxygenase, catalytic subunit, LigB family	LigB		23258706	2PW6
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_05310	COG2159	G	5-carboxyvanillate decarboxylase LigW (lignin degradation), amidohydro domain	LigW		26714575	2DVT
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_05325	COG0684	J	RNA degradosome component RraA (regulator of RNase E activity)	RraA		20471400	1J3L
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_05330	COG2159	G	5-carboxyvanillate decarboxylase LigW (lignin degradation), amidohydro domain	LigW		26714575	2DVT
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_05335	COG0493	ER	NADPH-dependent glutamate synthase beta chain or related oxidoreductase	GltD	Glutamine biosynthesis		1H7X
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_05360	COG0664	T	cAMP-binding domain of CRP or a regulatory subunit of cAMP-dependent protein kinases	Crp			1FT9
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_05375	COG2440	C	Ferredoxin-like protein FixX	FixX			
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_05380	COG2086	C	Electron transfer flavoprotein, alpha and beta subunits	FixA			5OL2
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_05390	COG1216	G	Glycosyltransferase, GT2 family	WcaE			2Z86
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_05395	COG0787	M	Alanine racemase	Alr	Mureine biosynthesis		1BD0
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_05400	COG2311	S	Uncharacterized membrane protein YeiB	YeiB			
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_05420	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_05425	COG0483	G	Archaeal fructose-1,6-bisphosphatase or related enzyme, inositol monophosphatase family	SuhB	Gluconeogenesis		1AWB
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_05435	COG0565	J	tRNA C32,U32 (ribose-2'-O)-methylase TrmJ or a related methyltransferase	TrmJ	tRNA modification		3ONP
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_05440	COG0245	I	2C-methyl-D-erythritol 2,4-cyclodiphosphate synthase	IspF	Isoprenoid biosynthesis		1GX1
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_05460	COG3576	R	Predicted flavin-nucleotide-binding protein, pyridoxine 5'-phosphate oxidase superfamily				5ESC
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_05465	COG1022	I	Long-chain acyl-CoA synthetase (AMP-forming)	FAA1			
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_05470	COG0546	C	Phosphoglycolate phosphatase, HAD superfamily	Gph			2NYV
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_05485	COG4221	C	NADP-dependent 3-hydroxy acid dehydrogenase YdfG	YdfG	Pyrimidine degradation		3P19
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_05495	COG0596	HR	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold	MenH	Menaquinone biosynthesis		4MYS
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_05500	COG2887	L	RecB family exonuclease	Slr0479			
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_05505	COG0671	I	Membrane-associated phospholipid phosphatase	PgpB	Phospholipid biosynthesis		1D2T
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_05525	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_05535	COG0494	V	8-oxo-dGTP pyrophosphatase MutT and related house-cleaning NTP pyrophosphohydrolases, NUDIX family	MutT			4V14
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_05550	COG3394	G	Chitooligosaccharide deacetylase ChbG, YdjC/CelG family	ChbG		18177738;22797760	2I5I
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_05570	COG0705	O	Membrane-associated serine protease, rhomboid family	GlpG			2IC8
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_05575	COG0665	E	Glycine/D-amino acid oxidase (deaminating)	DadA			3AWI
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_05580	COG3228	T	Mlc titration factor MtfA, regulates ptsG expression	MtfA		16855233	3DL1
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_05595	COG0346	Q	Catechol 2,3-dioxygenase or related enzyme, vicinal oxygen chelate (VOC) family	GloA		11830595	3R4Q
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_05605	COG0179	Q	2-keto-4-pentenoate hydratase/2-oxohepta-3-ene-1,7-dioic acid hydratase (catechol pathway)	YcgM			1GTT
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_05620	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_05625	COG1760	E	L-serine deaminase	SdaA			4RQO
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_05630	COG1232	H	Protoporphyrinogen oxidase HemY/PPOX	HemY	Heme biosynthesis		3LOV
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_05645	COG0421	E	Spermidine synthase (polyamine aminopropyltransferase)	SpeE			6BQ2
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_05650	COG2814	G	Predicted arabinose efflux permease AraJ, MFS family	AraJ			4LDS
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_05660	COG1946	I	Acyl-CoA thioesterase	TesB			1C8U
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_05665	COG1249	C	Dihydrolipoamide dehydrogenase (E3) component of pyruvate/2-oxoglutarate dehydrogenase complex or glutathione oxidoreductase	Lpd	Glycine cleavagePyruvate oxidation		6QKG
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_05670	COG1541	H	Phenylacetate-coenzyme A ligase PaaK, adenylate-forming domain family	PaaK			2Y4O
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_05680	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_05685	COG0778	C	Nitroreductase	NfnB	Pyrimidine degradation		1F5V
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_05695	COG5470	S	Uncharacterized conserved protein, DUF1330 family				
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_05700	COG0219	J	tRNA(Leu) C34 or U34 (ribose-2'-O)-methylase TrmL, contains SPOUT domain	TrmL	tRNA modification		4JAK
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_05710	COG0596	HR	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold	MenH	Menaquinone biosynthesis		4MYS
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_05735	COG4221	C	NADP-dependent 3-hydroxy acid dehydrogenase YdfG	YdfG	Pyrimidine degradation		3P19
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_05745	COG2814	G	Predicted arabinose efflux permease AraJ, MFS family	AraJ			4LDS
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_05765	COG3232	E	5-carboxymethyl-2-hydroxymuconate isomerase	HpaF			1OTG
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_05770	COG1012	I	Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase	AdhE	Proline degradation		1A4S
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_05775	COG3971	Q	2-keto-4-pentenoate hydratase	MhpD			1SV6
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_05785	COG3301	P	Nitrite/polysulfide reductase, membrane component NrfD/PsrC	NrfD		11856339;22040142	
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_05790	COG5013	CP	Nitrate reductase alpha subunit	NarG			1Q16
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_05795	COG0243	C	Anaerobic selenocysteine-containing dehydrogenase	BisC			1EU1
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_05805	COG2141	HR	Flavin-dependent oxidoreductase, luciferase family (includes alkanesulfonate monooxygenase SsuD and methylene tetrahydromethanopterin reductase)	SsuD	Pyrimidine degradation		1BRL
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_05825	COG3383	R	Predicted molibdopterin-dependent oxidoreductase YjgC	YjgC			1AA6
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_05830	COG1029	C	Formylmethanofuran dehydrogenase subunit B	FwdB			5T5I
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_05835	COG1905	C	NADH:ubiquinone oxidoreductase 24 kD subunit (chain E)	NuoE	NADH dehydrogenase		5XF9
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_05840	COG0243	C	Anaerobic selenocysteine-containing dehydrogenase	BisC			1EU1
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_05895	COG0778	C	Nitroreductase	NfnB	Pyrimidine degradation		1F5V
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_05905	COG1104	E	Cysteine desulfurase/Cysteine sulfinate desulfinase IscS or related enzyme, NifS family	NifS		22773787;25825430	4IXO
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_05910	COG3642	J	tRNA A-37 threonylcarbamoyl transferase component Bud32	Bud32	tRNA modification		2VWB
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_05925	COG1691	F	NCAIR mutase (PurE)-related protein				
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_05930	COG0026	F	Phosphoribosylaminoimidazole carboxylase (NCAIR synthetase)	PurK	Purine biosynthesis		1B6R
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_05950	COG2021	E	Homoserine O-acetyltransferase	MET2	Methionine biosynthesis		2VAT
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_05960	COG1741	R	Redox-sensitive bicupin YhaK, pirin superfamily	YhaK		18561187	1J1L
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_05965	COG0220	J	tRNA G46 N7-methylase TrmB	TrmB	tRNA modification	19373903;16600901	1YZH
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_05970	COG0547	E	Anthranilate phosphoribosyltransferase, glycosyltransferase domain	TrpD	Aromatic amino acid biosynthesis		1KGZ
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_05975	COG0044	F	Dihydroorotase or related cyclic amidohydrolase	AllB	Pyrimidine biosynthesis		1J79
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_05980	COG1129	G	ABC-type sugar transport system, ATPase component	MglA			
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_05990	COG0001	H	Glutamate-1-semialdehyde aminotransferase	HemL	Heme biosynthesis		2CFB
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_05995	COG2249	R	Putative NADPH-quinone reductase (modulator of drug activity B)	MdaB			1D4A
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_06000	COG0346	Q	Catechol 2,3-dioxygenase or related enzyme, vicinal oxygen chelate (VOC) family	GloA		11830595	3R4Q
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_06010	COG1160	J	Double Era-like domain GTPase Der	Der			1MKY
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_06015	COG3424	Q	Predicted naringenin-chalcone synthase	BH0617			1BI5
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_06030	COG5285	Q	Ectoine hydroxylase-related dioxygenase, phytanoyl-CoA dioxygenase (PhyH) family	PhyH			2A1X
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_06040	COG1225	O	Peroxiredoxin	Bcp			5IPH
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_06050	COG1304	CIR	FMN-dependent dehydrogenase, includes L-lactate dehydrogenase and type II isopentenyl diphosphate isomerase	LldD	Isoprenoid biosynthesis		6AI7
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_06060	COG0111	H	Phosphoglycerate dehydrogenase or related dehydrogenase	SerA	Serine biosynthesis		3OET
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_06080	COG0175	EH	3'-phosphoadenosine 5'-phosphosulfate sulfotransferase (PAPS reductase)/FAD synthetase or related enzyme	CysD	Cysteine biosynthesis		1ZUN
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_06085	COG5257	J	Translation initiation factor 2, gamma subunit (eIF-2gamma; GTPase)	GCD11	Translation factors		1KJZ
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_06090	COG0565	J	tRNA C32,U32 (ribose-2'-O)-methylase TrmJ or a related methyltransferase	TrmJ	tRNA modification		3ONP
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_06095	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_06100	COG1804	I	Crotonobetainyl-CoA:carnitine CoA-transferase CaiB and related acyl-CoA transferases	CaiB			1P5H
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_06105	COG0251	V	Enamine deaminase RidA, house cleaning of reactive enamine intermediates, YjgF/YER057c/UK114 family	RidA	Pyrimidine degradation	22094463;32205462	1J7H
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_06110	COG3226	K	DNA-binding transcriptional regulator YbjK	YbjK			5X5I
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_06115	COG1524	T	c-di-AMP phosphodiesterase AtaC or nucleotide pyrophosphatase, AlkP superfamily	AtaC		32188788	1EI6
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_06125	COG2860	S	Uncharacterized membrane protein YeiH	YadS			5WUC
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_06130	COG2606	J	Cys-tRNA(Pro) deacylase, prolyl-tRNA editing enzyme YbaK/EbsC	EbsC			1DBU
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_06145	COG1056	H	Nicotinamide mononucleotide adenylyltransferase	NadR	NAD biosynthesis		1LW7
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_06150	COG4778	P	Alpha-D-ribose 1-methylphosphonate 5-triphosphate synthase subunit PhnL	PhnL			
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_06155	COG4591	M	ABC-type transport system involved in lipoprotein release, permease component LolC	LolE			6F49
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_06160	COG3871	S	General stress protein 26 (function unknown)	YzzA			2I02
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_06175	COG2227	H	2-polyprenyl-3-methyl-5-hydroxy-6-metoxy-1,4-benzoquinol methylase	UbiG	Ubiquinone biosynthesis		1BHJ
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_06180	COG1168	ER	Bifunctional PLP-dependent enzyme with beta-cystathionase and maltose regulon repressor activities	MalY			4DGT
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_06185	COG1052	CHR	Lactate dehydrogenase or related 2-hydroxyacid dehydrogenase	LdhA	Pyridoxal phosphate biosynthesis		1DXY
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_06190	COG3216	S	Uncharacterized conserved protein, DUF2062 family				
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_06205	COG0444	EP	ABC-type dipeptide/oligopeptide/nickel transport system, ATPase component	DppD			4FWI
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_06215	COG4603	F	ABC-type guanosine uptake system NupNOPQ, permease component NupP	NupP		21926227	
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_06220	COG1079	F	ABC-type guanosine uptake system NupNOPQ, permease subunit NupQ	NupQ		21926227	
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_06225	COG1143	C	Formate hydrogenlyase subunit 6/NADH:ubiquinone oxidoreductase 23 kD subunit (chain I)	NuoI	NADH dehydrogenase		1B0P
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_06230	COG2964	K	Predicted transcriptional regulator YheO, contains PAS and DNA-binding HTH domains	YheO			
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_06240	COG4630	F	Xanthine dehydrogenase, Fe-S cluster and FAD-binding subunit XdhA	XdhA			
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_06245	COG0815	M	Apolipoprotein N-acyltransferase	Lnt			6NWR
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_06250	COG1363	EG	Putative aminopeptidase FrvX	FrvX			1VHE
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_06260	COG4122	J	tRNA 5-hydroxyU34 O-methylase TrmR/YrrM	TrmR	tRNA modification	29982645	1H1D
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_06265	COG0778	C	Nitroreductase	NfnB	Pyrimidine degradation		1F5V
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_06270	COG1946	I	Acyl-CoA thioesterase	TesB			1C8U
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_06275	COG2133	G	Glucose/arabinose dehydrogenase, beta-propeller fold	YliI			1C9U
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_06280	COG0443	O	Molecular chaperone DnaK (HSP70)	DnaK			3I33
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_06290	COG0314	H	Molybdopterin synthase catalytic subunit MoaE	MoaE	Molybdopterin biosynthesis	32239579	1FM0
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_06300	COG0451	M	Nucleoside-diphosphate-sugar epimerase	WcaG			2X4G
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_06310	COG0477	GEPR	MFS family permease, includes anhydromuropeptide permease AmpG	ProP		12426329	
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_06320	COG3383	R	Predicted molibdopterin-dependent oxidoreductase YjgC	YjgC			1AA6
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_06325	COG2204	T	DNA-binding transcriptional response regulator, NtrC family, contains REC, AAA-type ATPase, and a Fis-type DNA-binding domains	AtoC			1ZY2
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_06330	COG3852	T	Signal transduction histidine kinase NtrB, nitrogen specific	NtrB		23893111	
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_06340	COG0488	R	ATPase components of ABC transporters with duplicated ATPase domains	Uup			5ZXD
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_06345	COG0555	P	ABC-type sulfate transport system, permease component	CysU			3D31
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_06350	COG4590	R	ABC-type uncharacterized transport system, permease component				
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_06355	COG0226	P	ABC-type phosphate transport system, periplasmic component	PstS			2Q9T
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_06375	COG1826	U	Twin-arginine protein secretion pathway components TatA and TatB	TatA			2L16
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_06385	COG1240	H	vWFA (von Willebrand factor type A) domain of Mg and Co chelatases	ChlD			
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_06405	COG2114	T	Adenylate cyclase, class 3	AcyC			1AB8
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_06410	COG2723	G	Beta-glucosidase/6-phospho-beta-glucosidase/beta-galactosidase	BglB			4HZ6
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_06435	COG0578	C	Glycerol-3-phosphate dehydrogenase	GlpA	Isoprenoid biosynthesis		2RGH
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_06465	COG5082
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_06475	COG2814	G	Predicted arabinose efflux permease AraJ, MFS family	AraJ			4LDS
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_06480	COG0039	C	Malate/lactate dehydrogenase	Mdh	TCA cycle		4WLO
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_06495	COG0685	E	5,10-methylenetetrahydrofolate reductase	MetF			1B5T
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_06500	COG0138	F	AICAR transformylase/IMP cyclohydrolase PurH	PurH	Purine biosynthesis		1G8M
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_06510	COG1042	C	Acyl-CoA synthetase (NDP forming)	PatZN		26251518	4YAK
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_06515	COG1038	C	Pyruvate carboxylase	PycA	Urea cycle		5VYW
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_06520	COG5012	C	Methanogenic corrinoid protein MtbC1	MtbC1			1Y80
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_06535	COG0210	L	Superfamily I DNA or RNA helicase	UvrD			6PPR
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_06545	COG3839	G	ABC-type sugar transport system, ATPase component MalK	MalK			2ONK
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_06555	COG5002	T	Sensor histidine kinase WalK	WalK			4I5S
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_06560	COG0784	T	CheY-like REC (receiver) domain, includes chemotaxis protein CheY  and sporulation regulator Spo0F	CheY			6QRJ
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_06580	COG1141	C	Ferredoxin	Fer			1IQZ
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_06585	COG0464	MDT	AAA+-type ATPase, SpoVK/Ycf46/Vps4 family	SpoVK			3SYL
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_06595	COG1041	J	tRNA G10 N-methylase Trm11	Trm11	tRNA modification		5E71
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_06605	COG0493	ER	NADPH-dependent glutamate synthase beta chain or related oxidoreductase	GltD	Glutamine biosynthesis		1H7X
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_06615	COG0296	G	1,4-alpha-glucan branching enzyme	GlgB		25871919	4LPC
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_06645	COG0021	G	Transketolase	TktA	Pentose phosphate pathway		1AY0
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_06655	COG2227	H	2-polyprenyl-3-methyl-5-hydroxy-6-metoxy-1,4-benzoquinol methylase	UbiG	Ubiquinone biosynthesis		1BHJ
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_06660	COG2872	J	Ser-tRNA(Ala) deacylase AlaX (editing enzyme)	AlaX			2E1B
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_06675	COG1309	K	DNA-binding protein, AcrR family, includes nucleoid occlusion protein SlmA	AcrR			2QOP
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_06680	COG1042	C	Acyl-CoA synthetase (NDP forming)	PatZN		26251518	4YAK
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_06685	COG1686	M	D-alanyl-D-alanine carboxypeptidase	DacC			1HD8
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_06695	COG0466	O	ATP-dependent Lon protease, bacterial type	Lon			6ON2
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_06720	COG1606	R	ATP-utilizing enzyme, PP-loop superfamily				6B2O
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_06725	COG2518	O	Protein-L-isoaspartate O-methyltransferase	Pcm		24909784	3LBF
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_06730	COG1141	C	Ferredoxin	Fer			1IQZ
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_06735	COG1474	L	Cdc6-related protein, AAA superfamily ATPase	CDC6			1FNN
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_06740	COG1748	E	Saccharopine dehydrogenase, NADP-dependent	Lys9	Lysine biosynthesis		1E5L
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_06755	COG5405	O	ATP-dependent protease HslVU (ClpYQ), peptidase subunit	HslV			5JI3
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_06760	COG0638	O	20S proteasome, alpha and beta subunits	PRE1			1FNT
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_06780	COG0681	U	Signal peptidase I	LepB		1925027	1B12
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_06790	COG1826	U	Twin-arginine protein secretion pathway components TatA and TatB	TatA			2L16
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_06795	COG0805	U	Twin-arginine protein secretion pathway component TatC	TatC			4B4A
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_06800	COG1201	L	Lhr-like helicase	Lhr			5V9X
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_06815	COG1351	F	Thymidylate synthase ThyX, FAD-dependent family	ThyX	Thymidylate biosynthesis		1KQ4
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_06845	COG0050	J	Translation elongation factor EF-Tu, a GTPase	TufA	Translation factors		1EFU
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_06850	COG0267	J	Ribosomal protein L33	RpmG	Ribosome 50S subunit		1VS6
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_06860	COG0690	U	Preprotein translocase subunit SecE	SecE		29684280	5MG3
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_06870	COG0080	J	Ribosomal protein L11	RplK	Ribosome 50S subunit		2E34
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_06875	COG0081	J	Ribosomal protein L1	RplA	Ribosome 50S subunit		3J65
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_06885	COG0222	J	Ribosomal protein L7/L12	RplL	Ribosome 50S subunit		1CTF
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_06895	COG0086	K	DNA-directed RNA polymerase, beta' subunit/160 kD subunit	RpoC	RNA polymerase		1NT9
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_06905	COG0049	J	Ribosomal protein S7	RpsG	Ribosome 30S subunit		4V4H
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_06910	COG0517	T	CBS domain	CBS			1B3O
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_06915	COG5256	J	Translation elongation factor EF-1alpha (GTPase)	TEF1	Translation factors		1F60
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_06920	COG0480	J	Translation elongation factor EF-G, a GTPase	FusA	Translation factors		1DAR
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_06925	COG0051	J	Ribosomal protein S10	RpsJ	Ribosome 30S subunit		4V4H
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_06930	COG0793	O	C-terminal processing protease CtpA/Prc, contains a PDZ domain	CtpA			6IQU
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_06945	COG1041	J	tRNA G10 N-methylase Trm11	Trm11	tRNA modification		5E71
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_06950	COG0421	E	Spermidine synthase (polyamine aminopropyltransferase)	SpeE			6BQ2
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_06955	COG0087	J	Ribosomal protein L3	RplC	Ribosome 50S subunit		1VS6
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_06960	COG0088	J	Ribosomal protein L4	RplD	Ribosome 50S subunit		1VS6
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_06970	COG0090	J	Ribosomal protein L2	RplB	Ribosome 50S subunit		1VS6
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_06975	COG0185	J	Ribosomal protein S19	RpsS	Ribosome 30S subunit		4V4H
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_06985	COG0092	J	Ribosomal protein S3	RpsC	Ribosome 30S subunit		1VS6
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_06990	COG0197	J	Ribosomal protein L16/L10AE	RplP	Ribosome 50S subunit		1WKI
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_06995	COG0255	J	Ribosomal protein L29	RpmC	Ribosome 50S subunit		1VS6
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_07000	COG0186	J	Ribosomal protein S17	RpsQ	Ribosome 30S subunit		4V4H
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_07005	COG0093	J	Ribosomal protein L14	RplN	Ribosome 50S subunit		4V4H
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_07010	COG0198	J	Ribosomal protein L24	RplX	Ribosome 50S subunit		1VS6
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_07015	COG0094	J	Ribosomal protein L5	RplE	Ribosome 50S subunit		1VS6
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_07020	COG0199	J	Ribosomal protein S14	RpsN	Ribosome 30S subunit		4V4H
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_07025	COG0096	J	Ribosomal protein S8	RpsH	Ribosome 30S subunit		4V4H
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_07030	COG0097	J	Ribosomal protein L6P/L9E	RplF	Ribosome 50S subunit		1VS6
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_07040	COG0098	J	Ribosomal protein S5	RpsE	Ribosome 30S subunit		4V4H
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_07045	COG1841	J	Ribosomal protein L30/L7E	RpmD	Ribosome 50S subunit		1VS6
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_07050	COG0200	J	Ribosomal protein L15	RplO	Ribosome 50S subunit		1VS6
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_07055	COG0201	U	Preprotein translocase subunit SecY	SecY			1RH5
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_07060	COG1102	F	Cytidylate kinase	CmkB			
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_07070	COG1309	K	DNA-binding protein, AcrR family, includes nucleoid occlusion protein SlmA	AcrR			2QOP
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_07085	COG0100	J	Ribosomal protein S11	RpsK	Ribosome 30S subunit		4V4H
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_07090	COG1189	J	Predicted rRNA methylase YqxC, contains S4 and FtsJ domains	YqxC			3OPN
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_07095	COG0202	K	DNA-directed RNA polymerase, alpha subunit/40 kD subunit	RpoA	RNA polymerase		4KN7
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_07105	COG0101	J	tRNA U38,U39,U40 pseudouridine synthase TruA	TruA	tRNA modification		1DJ0
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_07110	COG0297	G	Glycogen synthase	GlgA			1RZU
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_07115	COG0102	J	Ribosomal protein L13	RplM	Ribosome 50S subunit		1VS6
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_07120	COG0103	J	Ribosomal protein S9	RpsI	Ribosome 30S subunit		4V4H
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_07125	COG1109	G	Phosphomannomutase	ManB			6MNV
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_07130	COG2222	M	Fructoselysine-6-P-deglycase FrlB or related protein, duplicated sugar isomerase (SIS) domain	AgaS		16153181	3C3J
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_07135	COG2091	H	Phosphopantetheinyl transferase	Sfp			1QR0
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_07140	COG1541	H	Phenylacetate-coenzyme A ligase PaaK, adenylate-forming domain family	PaaK			2Y4O
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_07145	COG0063	F	NAD(P)H-hydrate repair enzyme Nnr, NAD(P)H-hydrate dehydratase domain	Nnr2			1KYH
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_07150	COG3616	E	D-serine deaminase, pyridoxal phosphate-dependent	Dsd1			3ANU
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_07160	COG0533	J	tRNA A37 threonylcarbamoyltransferase TsaD	TsaD	tRNA modification	23072323;21285948;32385138	3ENO
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_07165	COG0456	J	Ribosomal protein S18 acetylase RimI and related acetyltransferases	RimI			1GHE
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_07170	COG0533	J	tRNA A37 threonylcarbamoyltransferase TsaD	TsaD	tRNA modification	23072323;21285948;32385138	3ENO
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_07180	COG1902	C	2,4-dienoyl-CoA reductase or related NADH-dependent reductase, Old Yellow Enzyme (OYE) family	FadH			1BWK
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_07185	COG0424	Q	7-methyl-GTP pyrophosphatase and related NTP pyrophosphatases, Maf/HAM1 superfamily	Maf		24210219	2P5X
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_07195	COG0459	O	Chaperonin GroEL (HSP60 family)	GroEL			1AON
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_07205	COG0494	V	8-oxo-dGTP pyrophosphatase MutT and related house-cleaning NTP pyrophosphohydrolases, NUDIX family	MutT			4V14
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_07210	COG2814	G	Predicted arabinose efflux permease AraJ, MFS family	AraJ			4LDS
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_07215	COG0520	E	Selenocysteine lyase/Cysteine desulfurase	CsdA			4LW2
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_07220	COG0512	EH	Anthranilate/para-aminobenzoate synthase component II (glutamine amidotransferase)	PabA	Aromatic amino acid biosynthesis		1I1Q
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_07235	COG0510	H	Thiamine kinase or a related kinase	CotS			3DXQ
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_07240	COG0412	Q	Dienelactone hydrolase	DLH			4ZV9
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_07245	COG1022	I	Long-chain acyl-CoA synthetase (AMP-forming)	FAA1			
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_07250	COG1893	H	Ketopantoate reductase	PanE	Pantothenate/CoA biosynthesis		1BG6
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_07255	COG0365	I	Acyl-coenzyme A synthetase/AMP-(fatty) acid ligase	Acs		14638756	4B2O
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_07285	COG3506	S	Regulation of enolase protein 1 (function unknown), concanavalin A-like superfamily	Ree1			3MEP
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_07290	COG1977	H	Molybdopterin synthase sulfur carrier subunit MoaD	MoaD	Molybdopterin biosynthesis	32239579	1FM0
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_07295	COG2814	G	Predicted arabinose efflux permease AraJ, MFS family	AraJ			4LDS
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_07300	COG0189	EHJQ	Glutathione synthase, LysX or RimK-type ligase, ATP-grasp superfamily	LysX	Lysine biosynthesis		1GLV
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_07305	COG1526	C	Formate dehydrogenase assembly factor FdhD, a sulfurtransferase	FdhD			2PW9
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_07325	COG0494	V	8-oxo-dGTP pyrophosphatase MutT and related house-cleaning NTP pyrophosphohydrolases, NUDIX family	MutT			4V14
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_07330	COG2047	R	Proteasome assembly chaperone (PAC2) family protein				3VR0
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_07335	COG1246	E	N-acetylglutamate synthase or related acetyltransferase, GNAT family	ArgA	Arginine biosynthesis		2R98
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_07340	COG5116
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_07350	COG1750	R	Predicted archaeal serine protease, S18 family				
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_07355	COG3599	D	Cell division septum initiation protein DivIVA, interacts with FtsZ and MinD	DivIVA			2WUJ
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_07365	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_07370	COG0133	E	Tryptophan synthase beta chain	TrpB	Aromatic amino acid biosynthesis		2DH5
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_07380	COG1307	I	Fatty acid-binding protein DegV (function unknown)	DegV			1MGP
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_07385	COG3642	J	tRNA A-37 threonylcarbamoyl transferase component Bud32	Bud32	tRNA modification		2VWB
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_07390	COG4941	K	Predicted RNA polymerase sigma factor, contains C-terminal TPR domain				
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_07405	COG1249	C	Dihydrolipoamide dehydrogenase (E3) component of pyruvate/2-oxoglutarate dehydrogenase complex or glutathione oxidoreductase	Lpd	Glycine cleavagePyruvate oxidation		6QKG
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_07410	COG3118	O	Chaperedoxin CnoX, contains thioredoxin-like and TPR-like domains, YbbN/TrxSC family	CnoX		21498507;29754824	3QDN
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_07415	COG3409	M	Peptidoglycan-binding (PGRP) domain of peptidoglycan hydrolases	PGRP			4FET
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_07425	COG2894	D	Septum site-determining ATPase MinD	MinD			4V02
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_07430	COG0357	J	16S rRNA G527 N7-methylase RsmG (former glucose-inhibited division protein B)	RsmG	16S rRNA modification	15375115;22031445	1XDZ
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_07440	COG0706	M	Membrane protein insertase Oxa1/YidC/SpoIIIJ	YidC			3WO6
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_07460	COG1484	L	DNA replication protein DnaC	DnaC			2QGZ
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_07465	COG0592	L	DNA polymerase III sliding clamp (beta) subunit, PCNA homolog	DnaN			1JQJ
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_07470	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_07475	COG5512	R	Predicted  nucleic acid-binding protein, contains Zn-ribbon domain (includes truncated derivatives)				
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_07480	COG0187	L	DNA gyrase/topoisomerase IV, subunit B	GyrB			1EI1
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_07485	COG0188	L	DNA gyrase/topoisomerase IV, subunit A	GyrA			1SUU
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_07500	COG0041	F	Phosphoribosylcarboxyaminoimidazole (NCAIR) mutase	PurE	Purine biosynthesis		1D7A
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_07505	COG0077	E	Prephenate dehydratase	PheA2	Aromatic amino acid biosynthesis		1PHZ
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_07510	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_07520	COG1376	M	Lipoprotein-anchoring transpeptidase ErfK/SrfK	ErfK			4LZH
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_07530	COG1309	K	DNA-binding protein, AcrR family, includes nucleoid occlusion protein SlmA	AcrR			2QOP
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_07535	COG1808	S	Uncharacterized membrane protein AF0785, contains DUF389 domain	AF0785			
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_07540	COG2340	DR	Spore germination protein YkwD and related proteins with CAP (CSP/antigen 5/PR1) domain	YkwD		31199835	1CFE
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_07570	COG1228	Q	Imidazolonepropionase or related amidohydrolase	HutI			3OOQ
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_07580	COG0596	HR	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold	MenH	Menaquinone biosynthesis		4MYS
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_07585	COG3119	P	Arylsulfatase A or related enzyme, AlkP superfamily	AslA			1E1Z
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_07615	COG3105	S	Uncharacterized membrane-anchored protein YhcB, DUF1043 family	YhcB			
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_07620	COG1160	J	Double Era-like domain GTPase Der	Der			1MKY
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_07630	COG1077	DZ	Cell shape-determining ATPase MreB, actin-like superfamily	MreB			1JCE
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_07635	COG0404	E	Glycine cleavage system protein T (aminomethyltransferase)	GcvT	Glycine cleavage	25433025;25505271	2GAH
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_07640	COG2005	K	DNA-binding transcriptional regulator ModE (molybdenum-dependent)	ModE		19779461	1B9M
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_07650	COG1127	M	ATPase subunit MlaF of the ABC-type intermembrane phospholipid transporter Mla	MlaF			6IC4
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_07790	COG2101	K	TATA-box binding protein (TBP), component of TFIID and TFIIIB	SPT15			1NGM
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_07845	COG0265	O	Periplasmic serine protease, S1-C subfamily, contain C-terminal PDZ domain	DegQ		29686141	2HGA
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_07850	COG0447	H	1,4-Dihydroxy-2-naphthoyl-CoA synthase	MenB	Menaquinone biosynthesis		4ELS
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_07855	COG0483	G	Archaeal fructose-1,6-bisphosphatase or related enzyme, inositol monophosphatase family	SuhB	Gluconeogenesis		1AWB
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_07865	COG2388	R	Predicted acetyltransferase, GNAT superfamily	YidJ			1R57
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_07870	COG0075	EF	Archaeal aspartate aminotransferase or a related aminotransferase, includes purine catabolism protein PucG	PucG	Serine biosynthesis		3NNK
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_07880	COG1309	K	DNA-binding protein, AcrR family, includes nucleoid occlusion protein SlmA	AcrR			2QOP
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_07885	COG1062	C	Zn-dependent alcohol/formaldehyde dehydrogenase	FrmA			1A71
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_07890	COG0694	O	Fe-S cluster biogenesis protein NfuA, 4Fe-4S-binding domain	NifU			2Z51
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_07900	COG0697	GER	Permease of the drug/metabolite transporter (DMT) superfamily	RhaT			5I20
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_07915	COG0229	O	Peptide methionine sulfoxide reductase MsrB	MsrB			1L1D
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_07920	COG3246	S	Uncharacterized conserved protein, DUF849 family				3C6C
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_07925	COG2175	Q	Taurine dioxygenase, alpha-ketoglutarate-dependent	TauD			1DRT
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_07935	COG1146	F	NAD-dependent dihydropyrimidine dehydrogenase, PreA subunit	PreA			
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_07940	COG3317	M	Outer membrane beta-barrel protein assembly factor BamC	BamC		21823654;28760846	2LAE
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_07945	COG2272	I	Carboxylesterase type B	PnbA			1K4Y
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_07955	COG2062	T	Phosphohistidine phosphatase SixA	SixA			1UJB
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_07975	COG1141	C	Ferredoxin	Fer			1IQZ
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_07980	COG2025	C	Electron transfer flavoprotein, alpha subunit FixB	FixB			1EFP
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_07985	COG2086	C	Electron transfer flavoprotein, alpha and beta subunits	FixA			5OL2
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_07990	COG3199	F	NAD kinase				
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_08005	COG3852	T	Signal transduction histidine kinase NtrB, nitrogen specific	NtrB		23893111	
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_08010	COG0003	P	Anion-transporting ATPase, ArsA/GET3 family	ArsA			1F48
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_08015	COG3640	O	CO dehydrogenase nickel-insertion accessory protein CooC1	CooC		15466042	
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_08025	COG0693	V	Protein/nucleotide deglycase, PfpI/YajL/DJ-1 family (repair of methylglyoxal-glycated proteins and nucleic acids)	YajL		19028889;28596309;26678554	5SY4
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_08030	COG2345	K	Predicted transcriptional regulator, ArsR family				
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_08035	COG1348	HP	Nitrogenase ATPase subunit NifH/coenzyme F430 biosynthesis subunit CfbC	NifH/CfbC		28225763	1CP2
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_08040	COG3824	O	Predicted Zn-dependent protease, minimal metalloprotease (MMP)-like domain				3E11
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_08045	COG0749	L	DNA polymerase I, 3'-5' exonuclease and polymerase domains	PolA			1D8Y
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_08050	COG5281	X	Phage-related minor tail protein				
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_08055	COG0406	G	Broad specificity phosphatase PhoE	PhoE			1EBB
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_08065	COG3088	CO	Cytochrome c-type biogenesis protein CcmH/NrfF	NrfF			2HL7
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_08070	COG0526	O	Thiol-disulfide isomerase or thioredoxin	TrxA			1XFL
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_08075	COG1138	CO	Cytochrome c biogenesis protein CcmF	CcmF			
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_08080	COG2332	CO	Cytochrome c biogenesis protein CcmE	CcmE			1J6Q
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_08095	COG2386	O	ABC-type transport system involved in cytochrome c biogenesis, permease component	CcmB			
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_08100	COG3842	E	ABC-type Fe3+/spermidine/putrescine transport systems, ATPase component	PotA			1Z47
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_08110	COG1846	K	DNA-binding transcriptional regulator, MarR family	MarR			1JGS
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_08115	COG4889	R	Predicted helicase				5FFJ
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_08120	COG0513	L	Superfamily II DNA and RNA helicase	SrmB			3RRM
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_08130	COG1309	K	DNA-binding protein, AcrR family, includes nucleoid occlusion protein SlmA	AcrR			2QOP
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_08140	COG0447	H	1,4-Dihydroxy-2-naphthoyl-CoA synthase	MenB	Menaquinone biosynthesis		4ELS
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_08145	COG0210	L	Superfamily I DNA or RNA helicase	UvrD			6PPR
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_08150	COG0407	H	Uroporphyrinogen-III decarboxylase HemE	HemE	Heme biosynthesis		2DG5
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_08160	COG2235	E	Arginine deiminase	ArcA			2A9G
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_08165	COG1335	HR	Nicotinamidase-related amidase	PncA	Pyrimidine degradation		1ILW
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_08170	COG0493	ER	NADPH-dependent glutamate synthase beta chain or related oxidoreductase	GltD	Glutamine biosynthesis		1H7X
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_08200	COG2017	G	Galactose mutarotase or related enzyme	GalM			1LUR
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_08205	COG0297	G	Glycogen synthase	GlgA			1RZU
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_08210	COG2226	H	Ubiquinone/menaquinone biosynthesis C-methylase UbiE/MenG	UbiE	Biotin biosynthesis		4OBW
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_08215	COG3387	G	Glucoamylase (glucan-1,4-alpha-glucosidase), GH15 family	SGA1			1AGM
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_08230	COG5401	D	Spore germination protein GerM	GerM			6GZB
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_08235	COG4191	T	Signal transduction histidine kinase regulating C4-dicarboxylate transport system				4GCZ
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_08240	COG4753	TK	Two-component response regulator, YesN/AraC family, consists of REC and AraC-type DNA-binding domains	YesN			
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_08245	COG0483	G	Archaeal fructose-1,6-bisphosphatase or related enzyme, inositol monophosphatase family	SuhB	Gluconeogenesis		1AWB
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_08275	COG1305	O	Transglutaminase-like enzyme, putative cysteine protease	YebA			3ISR
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_08280	COG1721	S	Uncharacterized conserved protein, DUF58 family, contains vWF domain	YeaD2			
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_08295	COG0446	I	NADPH-dependent 2,4-dienoyl-CoA reductase, sulfur reductase, or a related oxidoreductase	FadH2			1VRQ
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_08300	COG0508	C	Pyruvate/2-oxoglutarate dehydrogenase complex, dihydrolipoamide acyltransferase (E2) component	AceF	Pyruvate oxidation		1B5S
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_08305	COG0502	H	Biotin synthase or related enzyme	BioB	Biotin biosynthesis		1R30
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_08310	COG0708	L	Exonuclease III	XthA			1AKO
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_08325	COG2315	K	Predicted DNA-binding protein with double-wing structural motif, MmcQ/YjbR family	MmcQ		17266124	2A1V
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_08330	COG5271	J	Midasin, AAA ATPase with  vWA domain, involved in ribosome maturation	MDN1			6HYP
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_08360	COG3710	K	DNA-binding winged helix-turn-helix (wHTH) domain	CadC1			
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_08365	COG0494	V	8-oxo-dGTP pyrophosphatase MutT and related house-cleaning NTP pyrophosphohydrolases, NUDIX family	MutT			4V14
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_08370	COG2176	L	DNA polymerase III, alpha subunit (gram-positive type)	PolC			
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_08390	COG1920	H	2-phospho-L-lactate guanylyltransferase, coenzyme F420 biosynthesis enzyme, CobY/MobA/RfbA family				6BWH
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_08400	COG1039	L	Ribonuclease HIII	RnhC			2D0A
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_08410	COG0438	M	Glycosyltransferase involved in cell wall bisynthesis	RfaB			2IV7
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_08415	COG0498	E	Threonine synthase	ThrC	Threonine biosynthesis		1VB3
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_08425	COG0626	E	Cystathionine beta-lyase/cystathionine gamma-synthase	MetC	Methionine biosynthesis		1CL1
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_08430	COG1171	E	Threonine deaminase	IlvA	Isoleucine, leucine, valine biosynthesis		3IAU
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_08435	COG0695	O	Glutaredoxin	GrxC			1AAZ
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_08440	COG0024	J	Methionine aminopeptidase	Map			3J2I
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_08460	COG0480	J	Translation elongation factor EF-G, a GTPase	FusA	Translation factors		1DAR
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_08470	COG0277	C	FAD/FMN-containing lactate dehydrogenase/glycolate oxidase	GlcD			1AHU
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_08475	COG0415	L	Deoxyribodipyrimidine photolyase	PhrB			1TEZ
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_08480	COG1420	K	Transcriptional regulator of heat shock response	HrcA			1STZ
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_08485	COG2214	K	Curved DNA-binding protein CbpA, contains a DnaJ-like domain	CbpA			
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_08490	COG1385	J	16S rRNA U1498 N3-methylase RsmE	RsmE	16S rRNA modification		1NXZ
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_08495	COG1426	D	Cytoskeletal protein RodZ, contains Xre-like HTH and DUF4115 domains	RodZ			3FYM
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_08500	COG1243	J	tRNA U34 5-carboxymethylaminomethylation enzyme Elp3 (RNA elongator complex protein 3), contains radical SAM and acetyltransferase domains	ELP3		25151136;27455459	6IA8
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_08505	COG2259	S	Uncharacterized membrane protein YphA, DoxX/SURF4 family	DoxX			
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_08515	COG4566	TK	DNA-binding response regulator, FixJ family, consists of REC and HTH domains	FixJ			1YIO
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_08535	COG0372	C	Citrate synthase	GltA	TCA cycle	25211225	3TQG
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_08540	COG0825	I	Acetyl-CoA carboxylase alpha subunit	AccA	Fatty acid biosynthesis		2F9I
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_08545	COG2005	K	DNA-binding transcriptional regulator ModE (molybdenum-dependent)	ModE		19779461	1B9M
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_08550	COG0283	F	Cytidylate kinase	Cmk		19111750;25691594;28928205	3R20
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_08555	COG0517	T	CBS domain	CBS			1B3O
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_08560	COG0596	HR	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold	MenH	Menaquinone biosynthesis		4MYS
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_08565	COG0009	J	tRNA A37 threonylcarbamoyladenosine synthetase subunit TsaC/SUA5/YrdC	TsaC	tRNA modification		1HRU
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_08575	COG0554	C	Glycerol kinase	GlpK			2ZF5
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_08580	COG0778	C	Nitroreductase	NfnB	Pyrimidine degradation		1F5V
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_08585	COG0683	E	ABC-type branched-chain amino acid transport system, periplasmic component	LivK			1USG
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_08595	COG4181	Q	Predicted ABC-type transport system involved in lysophospholipase L1 biosynthesis, ATPase component	YbbA			
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_08600	COG4608	E	ABC-type oligopeptide transport system, ATPase component	AppF			
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_08605	COG0559	E	Branched-chain amino acid ABC-type transport system, permease component	LivH			
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_08610	COG4177	E	ABC-type branched-chain amino acid transport system, permease component	LivM			
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_08615	COG1612	H	Heme A synthase	CtaA			6A2J
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_08625	COG0623	I	Enoyl-[acyl-carrier-protein] reductase FabI	FabI	Fatty acid biosynthesis		1C14
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_08630	COG0500	QR	SAM-dependent methyltransferase	SmtA			5DNK
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_08635	COG2062	T	Phosphohistidine phosphatase SixA	SixA			1UJB
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_08645	COG0410	E	ABC-type branched-chain amino acid transport system, ATPase component LivF	LivF		26527648;32250026	1JI0
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_08650	COG1123	O	ABC-type glutathione transport system ATPase component, contains duplicated ATPase domain	GsiA			
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_08660	COG0110	R	Acetyltransferase, isoleucine patch superfamily	WbbJ			
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_08665	COG0447	H	1,4-Dihydroxy-2-naphthoyl-CoA synthase	MenB	Menaquinone biosynthesis		4ELS
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_08670	COG0365	I	Acyl-coenzyme A synthetase/AMP-(fatty) acid ligase	Acs		14638756	4B2O
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_08680	COG0414	H	Panthothenate synthetase	PanC	Pantothenate/CoA biosynthesis	17968677	1DIN
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_08685	COG1266	O	Membrane protease YdiL, CAAX protease family	YdiL			
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_08690	COG0413	H	Ketopantoate hydroxymethyltransferase	PanB	Pantothenate/CoA biosynthesis		3VAV
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_08700	COG1012	I	Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase	AdhE	Proline degradation		1A4S
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_08705	COG0673	R	Predicted dehydrogenase	MviM			3UUW
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_08710	COG1236	J	RNA processing exonuclease, beta-lactamase fold, Cft2 family	YSH1			2DKF
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_08715	COG1388	M	LysM repeat	LysM			1E0G
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_08720	COG1249	C	Dihydrolipoamide dehydrogenase (E3) component of pyruvate/2-oxoglutarate dehydrogenase complex or glutathione oxidoreductase	Lpd	Glycine cleavagePyruvate oxidation		6QKG
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_08725	COG0069	E	Glutamate synthase domain 2	GltB2	Glutamine biosynthesis		1EA0
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_08730	COG0447	H	1,4-Dihydroxy-2-naphthoyl-CoA synthase	MenB	Menaquinone biosynthesis		4ELS
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_08735	COG0069	E	Glutamate synthase domain 2	GltB2	Glutamine biosynthesis		1EA0
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_08740	COG2186	K	DNA-binding transcriptional regulator, FadR family	FadR			1E2X
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_08745	COG0346	Q	Catechol 2,3-dioxygenase or related enzyme, vicinal oxygen chelate (VOC) family	GloA		11830595	3R4Q
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_08750	COG1048	C	Aconitase A	AcnA	Lysine biosynthesisTCA cycle		1ACO
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_08765	COG2303	IR	Choline dehydrogenase or related flavoprotein	BetA	Non-phosphorylated Entner-Doudoroff pathway		1B4V
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_08770	COG0434	M	Membrane biogenesis protein, BtpA/SgcQ family	BtpA			
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_08775	COG1171	E	Threonine deaminase	IlvA	Isoleucine, leucine, valine biosynthesis		3IAU
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_08780	COG0135	E	Phosphoribosylanthranilate isomerase	TrpF	Aromatic amino acid biosynthesis		1DL3
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_08785	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_08790	COG0134	E	Indole-3-glycerol phosphate synthase	TrpC	Aromatic amino acid biosynthesis		6BMA
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_08795	COG0423	J	Glycyl-tRNA synthetase, class II	GRS1	Aminoacyl-tRNA synthetases		2PME
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_08810	COG0020	I	Undecaprenyl pyrophosphate synthase	UppS			1X07
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_08815	COG1205	L	ATP-dependent helicase YprA,  contains C-terminal metal-binding DUF1998 domain	YprA			
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_08825	COG0191	G	Fructose/tagatose bisphosphate aldolase	Fba	Glycolysis		1B57
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_08830	COG0447	H	1,4-Dihydroxy-2-naphthoyl-CoA synthase	MenB	Menaquinone biosynthesis		4ELS
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_08835	COG0596	HR	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold	MenH	Menaquinone biosynthesis		4MYS
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_08840	COG1020	Q	EntF, seryl-AMP synthase component  of non-ribosomal peptide synthetase	EntF			5ES5
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_08845	COG0784	T	CheY-like REC (receiver) domain, includes chemotaxis protein CheY  and sporulation regulator Spo0F	CheY			6QRJ
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_08850	COG4191	T	Signal transduction histidine kinase regulating C4-dicarboxylate transport system				4GCZ
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_08880	COG2175	Q	Taurine dioxygenase, alpha-ketoglutarate-dependent	TauD			1DRT
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_08885	COG4533	K	DNA-binding transcriptional regulator SgrR of sgrS sRNA, contains a MarR-type HTH domain and a periplasmic-type solute-binding domain	SgrR			
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_08890	COG1398	I	Fatty-acid desaturase	OLE1			4YMK
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_08900	COG1063	ER	Threonine dehydrogenase or related Zn-dependent dehydrogenase	Tdh	Non-phosphorylated Entner-Doudoroff pathway		4A2C
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_08905	COG1309	K	DNA-binding protein, AcrR family, includes nucleoid occlusion protein SlmA	AcrR			2QOP
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_08915	COG0625	O	Glutathione S-transferase	GstA			1A0F
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_08925	COG1506	E	Dipeptidyl aminopeptidase/acylaminoacyl peptidase	DAP2			2JBW
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_08940	COG0625	O	Glutathione S-transferase	GstA			1A0F
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_08945	COG0625	O	Glutathione S-transferase	GstA			1A0F
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_08950	COG0189	EHJQ	Glutathione synthase, LysX or RimK-type ligase, ATP-grasp superfamily	LysX	Lysine biosynthesis		1GLV
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_08970	COG0725	P	ABC-type molybdate transport system, periplasmic Mo-binding protein ModA	ModA	Molybdopterin biosynthesis		1AMF
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_08975	COG1177	E	ABC-type spermidine/putrescine transport system, permease component II	PotC			
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_08980	COG4175	E	ABC-type proline/glycine betaine transport system, ATPase component	ProV			
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_08990	COG1702	T	Phosphate starvation-inducible protein PhoH, predicted ATPase	PhoH		8444794;12762842	3B85
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_09000	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_09005	COG1020	Q	EntF, seryl-AMP synthase component  of non-ribosomal peptide synthetase	EntF			5ES5
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_09020	COG0596	HR	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold	MenH	Menaquinone biosynthesis		4MYS
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_09025	COG3917	Q	2-hydroxychromene-2-carboxylate isomerase	NahD			
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_09030	COG0028	EH	Acetolactate synthase large subunit or other thiamine pyrophosphate-requiring enzyme	IlvB	Isoleucine, leucine, valine biosynthesis		1BFD
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_09040	COG2227	H	2-polyprenyl-3-methyl-5-hydroxy-6-metoxy-1,4-benzoquinol methylase	UbiG	Ubiquinone biosynthesis		1BHJ
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_09060	COG1020	Q	EntF, seryl-AMP synthase component  of non-ribosomal peptide synthetase	EntF			5ES5
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_09070	COG1160	J	Double Era-like domain GTPase Der	Der			1MKY
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_09100	COG1309	K	DNA-binding protein, AcrR family, includes nucleoid occlusion protein SlmA	AcrR			2QOP
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_09105	COG0825	I	Acetyl-CoA carboxylase alpha subunit	AccA	Fatty acid biosynthesis		2F9I
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_09110	COG1038	C	Pyruvate carboxylase	PycA	Urea cycle		5VYW
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_09125	COG3536	S	Uncharacterized conserved protein, DUF971 family				2L6N
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_09135	COG1186	J	Protein chain release factor PrfB	PrfB	Translation factors		1GQE
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_09145	COG0686	E	Alanine dehydrogenase (includes sporulation protein SpoVN)	Ald	Urea cycle		2EEZ
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_09150	COG4190	K	Predicted transcriptional regulator, contains HTH domain				
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_09155	COG0484	O	DnaJ-class molecular chaperone with C-terminal Zn finger domain	DnaJ			1BQ0
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_09180	COG4181	Q	Predicted ABC-type transport system involved in lysophospholipase L1 biosynthesis, ATPase component	YbbA			
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_09185	COG0739	M	Murein DD-endopeptidase MepM and murein hydrolase activator NlpD, contains LysM domain	NlpD			2GU1
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_09190	COG0510	H	Thiamine kinase or a related kinase	CotS			3DXQ
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_09195	COG1032	R	Radical SAM superfamily enzyme YgiQ, UPF0313 family	YgiQ			6FD2
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_09205	COG0456	J	Ribosomal protein S18 acetylase RimI and related acetyltransferases	RimI			1GHE
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_09215	COG1168	ER	Bifunctional PLP-dependent enzyme with beta-cystathionase and maltose regulon repressor activities	MalY			4DGT
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_09220	COG0131	E	Imidazoleglycerol phosphate dehydratase HisB	HisB2	Histidine biosynthesis		1RHY
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_09225	COG0518	F	GMP synthase, glutamine amidotransferase domain	GuaA1	Purine biosynthesis		4WIM
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_09230	COG0107	E	Imidazole glycerol phosphate synthase subunit HisF	HisF	Histidine biosynthesis		1OX4
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_09235	COG1646	I	Glycerol-1-phosphate heptaprenyltransferase	PcrB			1VIZ
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_09240	COG1024	I	Enoyl-CoA hydratase/carnithine racemase	CaiD	Fatty acid biosynthesis		1DCI
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_09245	COG1453	R	Predicted oxidoreductase of the aldo/keto reductase family				
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_09250	COG4757	R	Predicted alpha/beta hydrolase				
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_09265	COG0139	E	Phosphoribosyl-AMP cyclohydrolase	HisI1	Histidine biosynthesis		1ZPS
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_09270	COG0147	EH	Anthranilate/para-aminobenzoate synthases component I	TrpE	Aromatic amino acid biosynthesis		1I1Q
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_09295	COG0358	L	DNA primase (bacterial type)	DnaG		28128549	3B39
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_09300	COG0568	K	DNA-directed RNA polymerase, sigma subunit (sigma70/sigma32)	RpoD	RNA polymerase		1SIG
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_09325	COG1218	P	3'-Phosphoadenosine 5'-phosphosulfate (PAPS) 3'-phosphatase	CysQ			
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_09340	COG0214	H	Pyridoxal 5'-phosphate synthase subunit PdxS	PdxS	Pyridoxal phosphate biosynthesis		2NV2
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_09345	COG0118	E	Imidazoleglycerol phosphate synthase glutamine amidotransferase subunit HisH	HisH	Histidine biosynthesis		1OX4
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_09350	COG0217	KJ	Transcriptional and/or translational regulatory protein YebC/TACO1	TACO1			1KON
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_09355	COG2077	O	Peroxiredoxin	Tpx			4AF2
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_09365	COG2074	GI	2-phosphoglycerate kinase/Mevalonate-3-phosphate 5-kinase	Pgk2			
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_09370	COG2256	L	Replication-associated recombination protein RarA (DNA-dependent ATPase)	RarA			3PVS
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_09375	COG0809	J	S-adenosylmethionine:tRNA-ribosyltransferase-isomerase (queuine synthetase)	QueA	tRNA modification		1VKY
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_09380	COG0343	J	Queuine/archaeosine tRNA-ribosyltransferase	Tgt	tRNA modification	15805528	1XW8
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_09385	COG1862	U	Protein translocase subunit YajC	YajC			
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_09390	COG1033	R	Predicted exporter protein, RND superfamily	MMPL			5KHN
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_09395	COG0341	U	Preprotein translocase subunit SecF	SecF		28830929	2FYH
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_09400	COG0461	F	Orotate phosphoribosyltransferase	PyrE	Pyrimidine biosynthesis		4WML
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_09405	COG0317	TK	(p)ppGpp synthase/hydrolase, HD superfamily	SpoT			1TDJ
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_09410	COG0124	J	Histidyl-tRNA synthetase	HisS	Aminoacyl-tRNA synthetases		1KMM
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_09415	COG0173	J	Aspartyl-tRNA synthetase	AspS	Aminoacyl-tRNA synthetases		1C0A
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_09420	COG0526	O	Thiol-disulfide isomerase or thioredoxin	TrxA			1XFL
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_09425	COG5660	T	Anti-sigma-YlaC factor YlaD, contains Zn-finger domain	YlaD		16501307	
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_09450	COG2847	P	Copper(I)-binding protein				1X9L
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_09455	COG0024	J	Methionine aminopeptidase	Map			3J2I
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_09460	COG0231	J	Translation elongation factor P (EF-P)/translation initiation factor 5A (eIF-5A)	Efp	Translation factors		1UEB
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_09475	COG0634	F	Hypoxanthine-guanine phosphoribosyltransferase	HptA	Purine salvage		1G9S
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_09480	COG0540	F	Aspartate carbamoyltransferase, catalytic subunit	PyrB	Pyrimidine biosynthesis		1NBE
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_09485	COG3964	R	Predicted amidohydrolase				2OGJ
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_09490	COG0512	EH	Anthranilate/para-aminobenzoate synthase component II (glutamine amidotransferase)	PabA	Aromatic amino acid biosynthesis		1I1Q
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_09495	COG1038	C	Pyruvate carboxylase	PycA	Urea cycle		5VYW
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_09500	COG0042	J	tRNA-dihydrouridine synthase	DusA	tRNA modification		1VHN
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_09510	COG3709	G	Ribose 1,5-bisphosphate kinase PhnN	PhnN			
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_09515	COG1758	K	DNA-directed RNA polymerase, subunit K/omega	RpoZ	RNA polymerase		3LU0
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_09520	COG0163	H	Flavin prenyltransferase UbiX	UbiX	Ubiquinone biosynthesis	28754323;26083743	1SBZ
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_09525	COG0192	H	S-adenosylmethionine synthetase	MetK	Methionine biosynthesis		1FUG
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_09540	COG2242	H	Precorrin-6B methylase 2	CobL	Cobalamine/B12 biosynthesis		1F38
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_09545	COG0242	J	Peptide deformylase	Def			1BS4
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_09550	COG0299	F	Folate-dependent phosphoribosylglycinamide formyltransferase PurN	PurN	Purine biosynthesis	25013077	1C2T
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_09555	COG2226	H	Ubiquinone/menaquinone biosynthesis C-methylase UbiE/MenG	UbiE	Biotin biosynthesis		4OBW
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_09565	COG0040	E	ATP phosphoribosyltransferase	HisG	Histidine biosynthesis		1H3D
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_09575	COG3695	K	Alkylated DNA nucleotide flippase Atl1, participates in nucleotide excision repair, Ada-like DNA-binding domain	Atl1		19516334	2KIF
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_09585	COG0290	J	Translation initiation factor IF-3	InfC	Translation factors		2IFE
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_09595	COG0292	J	Ribosomal protein L20	RplT	Ribosome 50S subunit	30270044	1VS6
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_09600	COG0219	J	tRNA(Leu) C34 or U34 (ribose-2'-O)-methylase TrmL, contains SPOUT domain	TrmL	tRNA modification		4JAK
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_09610	COG0016	J	Phenylalanyl-tRNA synthetase alpha subunit	PheS	Aminoacyl-tRNA synthetases		3L4G
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_09615	COG0073	J	tRNA-binding EMAP/Myf domain	EMAP			1MKH
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_09620	COG3603	T	ACT domain, ACT-7 family	ACT-7		16987805	1ZHV
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_09630	COG0136	E	Aspartate-semialdehyde dehydrogenase	Asd	Lysine biosynthesis		1BRM
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_09635	COG0263	E	Glutamate 5-kinase	ProB	Proline biosynthesis		2W21
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_09640	COG0156	H	7-keto-8-aminopelargonate synthetase or related enzyme	BioF	Biotin biosynthesis		1BS0
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_09645	COG0078	E	Ornithine carbamoyltransferase	ArgF	Arginine biosynthesis		1A1S
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_09650	COG1349	KG	DNA-binding transcriptional regulator of sugar metabolism, DeoR/GlpR family	GlpR			
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_09655	COG0165	E	Argininosuccinate lyase	ArgH	Arginine biosynthesis		1AOS
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_09660	COG2094	L	3-methyladenine DNA glycosylase Mpg	Mpg			1BNK
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_09665	COG4221	C	NADP-dependent 3-hydroxy acid dehydrogenase YdfG	YdfG	Pyrimidine degradation		3P19
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_09675	COG0162	J	Tyrosyl-tRNA synthetase	TyrS	Aminoacyl-tRNA synthetases		4OUD
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_09685	COG0457	R	Tetratricopeptide (TPR) repeat	TPR			3AS4
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_09690	COG0494	V	8-oxo-dGTP pyrophosphatase MutT and related house-cleaning NTP pyrophosphohydrolases, NUDIX family	MutT			4V14
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_09695	COG2812	L	DNA polymerase III, gamma/tau subunits	DnaX			1A5T
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_09720	COG2334	T	Ser/Thr protein kinase RdoA involved in Cpx stress response, MazF antagonist	SrkA	Threonine biosynthesis		1ZYL
+Ilumatobacter_sp_SAT196	GCA_002711735.1	NDEFCE_09725	COG2940	R	SET domain-containing protein (function unknown)	SET			6BX3

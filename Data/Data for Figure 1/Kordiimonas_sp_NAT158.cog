@@ -1,0 +1,1470 @@
+#prefix	assemid	query	COG	category	name	Gene	pathway	pmid	pdb_id
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_00005	COG0050	J	Translation elongation factor EF-Tu, a GTPase	TufA	Translation factors		1EFU
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_00010	COG0051	J	Ribosomal protein S10	RpsJ	Ribosome 30S subunit		4V4H
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_00015	COG0087	J	Ribosomal protein L3	RplC	Ribosome 50S subunit		1VS6
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_00020	COG0088	J	Ribosomal protein L4	RplD	Ribosome 50S subunit		1VS6
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_00030	COG0090	J	Ribosomal protein L2	RplB	Ribosome 50S subunit		1VS6
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_00035	COG0185	J	Ribosomal protein S19	RpsS	Ribosome 30S subunit		4V4H
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_00045	COG0092	J	Ribosomal protein S3	RpsC	Ribosome 30S subunit		1VS6
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_00050	COG0197	J	Ribosomal protein L16/L10AE	RplP	Ribosome 50S subunit		1WKI
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_00055	COG0255	J	Ribosomal protein L29	RpmC	Ribosome 50S subunit		1VS6
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_00065	COG0093	J	Ribosomal protein L14	RplN	Ribosome 50S subunit		4V4H
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_00070	COG0198	J	Ribosomal protein L24	RplX	Ribosome 50S subunit		1VS6
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_00075	COG0094	J	Ribosomal protein L5	RplE	Ribosome 50S subunit		1VS6
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_00080	COG0199	J	Ribosomal protein S14	RpsN	Ribosome 30S subunit		4V4H
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_00085	COG0096	J	Ribosomal protein S8	RpsH	Ribosome 30S subunit		4V4H
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_00090	COG0097	J	Ribosomal protein L6P/L9E	RplF	Ribosome 50S subunit		1VS6
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_00100	COG0098	J	Ribosomal protein S5	RpsE	Ribosome 30S subunit		4V4H
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_00105	COG1841	J	Ribosomal protein L30/L7E	RpmD	Ribosome 50S subunit		1VS6
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_00115	COG0201	U	Preprotein translocase subunit SecY	SecY			1RH5
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_00120	COG0283	F	Cytidylate kinase	Cmk		19111750;25691594;28928205	3R20
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_00130	COG0100	J	Ribosomal protein S11	RpsK	Ribosome 30S subunit		4V4H
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_00135	COG0202	K	DNA-directed RNA polymerase, alpha subunit/40 kD subunit	RpoA	RNA polymerase		4KN7
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_00140	COG0203	J	Ribosomal protein L17	RplQ	Ribosome 50S subunit		1GD8
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_00145	COG0793	O	C-terminal processing protease CtpA/Prc, contains a PDZ domain	CtpA			6IQU
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_00150	COG2255	L	Holliday junction resolvasome RuvABC, ATP-dependent DNA helicase subunit RuvB	RuvB			1HQC
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_00160	COG1187	J	Pseudouridylate synthase RsuA, specific for 16S rRNA U516  and 23S rRNA U2605	RsuA	16S rRNA modification		1KSK
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_00165	COG0637	G	Beta-phosphoglucomutase, HAD superfamily	YcjU		29684280	3E58
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_00170	COG2982	M	Uncharacterized conserved protein AsmA involved in outer membrane biogenesis	AsmA			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_00180	COG0777	I	Acetyl-CoA carboxylase beta subunit	AccD	Fatty acid biosynthesis		2F9I
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_00185	COG4770	I	Acetyl/propionyl-CoA carboxylase, alpha subunit	PccA			3U9S
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_00190	COG1254	C	Acylphosphatase	AcyP			1APS
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_00195	COG0321	H	Lipoate-protein ligase B	LipB	Lipoate biosynthesis	19798051	2QHT
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_00200	COG1868	N	Flagellar motor switch protein FliM	FliM			2HP7
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_00205	COG0134	E	Indole-3-glycerol phosphate synthase	TrpC	Aromatic amino acid biosynthesis		6BMA
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_00210	COG0175	EH	3'-phosphoadenosine 5'-phosphosulfate sulfotransferase (PAPS reductase)/FAD synthetase or related enzyme	CysD	Cysteine biosynthesis		1ZUN
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_00225	COG0517	T	CBS domain	CBS			1B3O
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_00235	COG0414	H	Panthothenate synthetase	PanC	Pantothenate/CoA biosynthesis	17968677	1DIN
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_00240	COG1705	MN	Flagellum-specific peptidoglycan hydrolase FlgJ	FlgJ			2ZYC
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_00245	COG1192	DN	ParA-like ATPase involved in chromosome/plasmid partitioning or cellulose biosynthesis protein BcsQ	ParA			6NOO
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_00250	COG0484	O	DnaJ-class molecular chaperone with C-terminal Zn finger domain	DnaJ			1BQ0
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_00255	COG0033	G	Phosphoglucomutase/phosphomannomutase	Pgm		30938049	1C47
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_00260	COG5490	S	Predicted polyhydroxyalkanoate (PHA)-binding protein, phasin family	Phasin			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_00265	COG2127	O	ATP-dependent Clp protease adapter protein ClpS	ClpS			1LZW
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_00270	COG0542	O	ATP-dependent Clp protease, ATP-binding subunit ClpA	ClpA			1KSF
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_00290	COG0251	V	Enamine deaminase RidA, house cleaning of reactive enamine intermediates, YjgF/YER057c/UK114 family	RidA	Pyrimidine degradation	22094463;32205462	1J7H
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_00295	COG5001	T	Cyclic di-GMP metabolism protein, combines GGDEF and EAL domains with a 6TM membrane domain				
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_00310	COG2204	T	DNA-binding transcriptional response regulator, NtrC family, contains REC, AAA-type ATPase, and a Fis-type DNA-binding domains	AtoC			1ZY2
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_00315	COG5001	T	Cyclic di-GMP metabolism protein, combines GGDEF and EAL domains with a 6TM membrane domain				
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_00320	COG0267	J	Ribosomal protein L33	RpmG	Ribosome 50S subunit		1VS6
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_00325	COG3706	TK	Two-component response regulator, PleD family, consists of two REC domains and a diguanylate cyclase (GGDEF) domain	PleD			1W25
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_00330	COG0557	K	Exoribonuclease R	VacB			6H25
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_00335	COG0550	L	DNA topoisomerase IA	TopA			1CY0
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_00340	COG0758	L	Predicted Rossmann fold nucleotide-binding protein DprA/Smf involved in DNA uptake	Smf			3MAJ
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_00345	COG0344	I	Phospholipid biosynthesis protein PlsY, probable glycerol-3-phosphate acyltransferase	PlsY		29684280	5XJ5
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_00350	COG3964	R	Predicted amidohydrolase				2OGJ
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_00355	COG0540	F	Aspartate carbamoyltransferase, catalytic subunit	PyrB	Pyrimidine biosynthesis		1NBE
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_00365	COG0422	H	4-amino-2-methyl-5-hydroxymethylpyrimidine (HMP) synthase ThiC	ThiC	Thiamine biosynthesis	15326535	3EPN
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_00370	COG1032	R	Radical SAM superfamily enzyme YgiQ, UPF0313 family	YgiQ			6FD2
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_00380	COG0154	J	Asp-tRNAAsn/Glu-tRNAGln amidotransferase A subunit or related amidase	GatA	Aminoacyl-tRNA synthetases		3H0L
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_00385	COG0064	J	Asp-tRNAAsn/Glu-tRNAGln amidotransferase B subunit	GatB	Aminoacyl-tRNA synthetases		3H0M
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_00405	COG0179	Q	2-keto-4-pentenoate hydratase/2-oxohepta-3-ene-1,7-dioic acid hydratase (catechol pathway)	YcgM			1GTT
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_00415	COG1600	J	Epoxyqueuosine reductase QueG (queuosine biosynthesis)	QueG	tRNA modification	2150253	5D08
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_00420	COG1029	C	Formylmethanofuran dehydrogenase subunit B	FwdB			5T5I
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_00425	COG4638	PR	Phenylpropionate dioxygenase or related ring-hydroxylating dioxygenase, large terminal subunit	HcaE			4QDC
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_00430	COG0492	O	Thioredoxin reductase	TrxB			3FBS
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_00435	COG0396	O	Fe-S cluster assembly ATPase SufC	SufC			2D3W
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_00440	COG4986	P	ABC-type anion transport system, duplicated permease component				
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_00450	COG0784	T	CheY-like REC (receiver) domain, includes chemotaxis protein CheY  and sporulation regulator Spo0F	CheY			6QRJ
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_00455	COG0129	EG	Dihydroxyacid dehydratase/phosphogluconate dehydratase	IlvD	Isoleucine, leucine, valine biosynthesis		2GP4
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_00470	COG1233	Q	Phytoene dehydrogenase-related protein				4REP
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_00480	COG2518	O	Protein-L-isoaspartate O-methyltransferase	Pcm		24909784	3LBF
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_00500	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_00515	COG2202	T	PAS domain	PAS			2MWG
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_00520	COG0803	P	ABC-type Zn uptake system ZnuABC, Zn-binding component ZnuA	ZnuA			1K0F
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_00525	COG2202	T	PAS domain	PAS			2MWG
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_00530	COG1463	M	Periplasmic subunit MlaD of the ABC-type intermembrane phospholipid transporter Mla	MlaD			5UW8
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_00535	COG2202	T	PAS domain	PAS			2MWG
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_00570	COG5126	T	Ca2+-binding protein, EF-hand superfamily	FRQ1			2LHI
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_00575	COG0329	EM	4-hydroxy-tetrahydrodipicolinate synthase/N-acetylneuraminate lyase	DapA	Lysine biosynthesis	27574185	2R91
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_00580	COG0691	O	tmRNA-binding protein	SmpB		26251518	1J1H
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_00585	COG5586	S	Uncharacterized protein, contains DUF2293 domain				
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_00590	COG1304	CIR	FMN-dependent dehydrogenase, includes L-lactate dehydrogenase and type II isopentenyl diphosphate isomerase	LldD	Isoprenoid biosynthesis		6AI7
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_00595	COG3038	C	Cytochrome b561	CybB			5OC0
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_00600	COG4520	M	Surface antigen	LipA17			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_00615	COG0801	H	7,8-dihydro-6-hydroxymethylpterin pyrophosphokinase (folate biosynthesis)	FolK	Folate biosynthesis		1CBK
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_00620	COG1758	K	DNA-directed RNA polymerase, subunit K/omega	RpoZ	RNA polymerase		3LU0
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_00625	COG0317	TK	(p)ppGpp synthase/hydrolase, HD superfamily	SpoT			1TDJ
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_00630	COG0856	F	Orotate phosphoribosyltransferase homolog	PyrE2			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_00650	COG0681	U	Signal peptidase I	LepB		1925027	1B12
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_00655	COG0571	K	dsRNA-specific ribonuclease	Rnc			1DI2
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_00660	COG1160	J	Double Era-like domain GTPase Der	Der			1MKY
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_00670	COG0188	L	DNA gyrase/topoisomerase IV, subunit A	GyrA			1SUU
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_00675	COG4666	R	TRAP-type uncharacterized transport system, fused permease components				
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_00690	COG2935	O	Arginyl-tRNA--protein-N-Asp/Glu arginylyltransferase	Ate1			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_00695	COG1055	P	Na+/H+ antiporter NhaD or related arsenite permease	ArsB			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_00700	COG1360	N	Flagellar motor protein MotB	MotB			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_00705	COG0498	E	Threonine synthase	ThrC	Threonine biosynthesis		1VB3
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_00710	COG2348	M	Lipid II:glycine glycyltransferase (Peptidoglycan interpeptide bridge formation enzyme)	FmhB			1LRZ
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_00715	COG1291	N	Flagellar motor component MotA	MotA			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_00720	COG0113	H	Delta-aminolevulinic acid dehydratase, porphobilinogen synthase	HemB	Heme biosynthesis		1I8J
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_00725	COG1846	K	DNA-binding transcriptional regulator, MarR family	MarR			1JGS
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_00730	COG0520	E	Selenocysteine lyase/Cysteine desulfurase	CsdA			4LW2
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_00740	COG0698	G	Ribose 5-phosphate isomerase RpiB	RpiB	Pentose phosphate pathway		1NN4
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_00745	COG0112	E	Glycine/serine hydroxymethyltransferase	GlyA	Serine biosynthesis		1BJ4
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_00750	COG2857	C	Cytochrome c1	CYT1			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_00755	COG2131	F	Deoxycytidylate deaminase	ComEB		25746996;31954084	2HVV
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_00760	COG0307	H	Riboflavin synthase alpha chain	RibC	Riboflavin/FAD biosynthesis		1I8D
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_00765	COG0108	H	3,4-dihydroxy-2-butanone 4-phosphate synthase	RibB	Riboflavin/FAD biosynthesis		1G57
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_00770	COG0054	H	6,7-dimethyl-8-ribityllumazine synthase (Riboflavin synthase beta chain)	RibE	Riboflavin/FAD biosynthesis		1C2Y
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_00780	COG0309	O	Carbamoyl dehydratase HypE (hydrogenase maturation factor)	HypE		28618091	2I6R
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_00790	COG2913	M	Outer membrane protein assembly factor BamE, lipoprotein component of the BamABCDE complex	BamE			2KM7
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_00795	COG5452	S	Uncharacterized conserved protein				6RWT
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_00805	COG0416	I	Acyl-ACP:phosphate acyltransferase (fatty acid/phospholipid biosynthesis)	PlsX		18992246	2GK3
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_00810	COG3424	Q	Predicted naringenin-chalcone synthase	BH0617			1BI5
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_00820	COG0789	K	DNA-binding transcriptional regulator, MerR family	SoxR			2VZ4
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_00830	COG2202	T	PAS domain	PAS			2MWG
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_00835	COG4191	T	Signal transduction histidine kinase regulating C4-dicarboxylate transport system				4GCZ
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_00840	COG0686	E	Alanine dehydrogenase (includes sporulation protein SpoVN)	Ald	Urea cycle		2EEZ
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_00845	COG0281	C	Malic enzyme	SfcA	Urea cycle		1DO8
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_00850	COG1612	H	Heme A synthase	CtaA			6A2J
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_00860	COG2873	E	O-acetylhomoserine/O-acetylserine sulfhydrylase, pyridoxal phosphate-dependent	MET17	Methionine biosynthesis		2CTZ
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_00865	COG0102	J	Ribosomal protein L13	RplM	Ribosome 50S subunit		1VS6
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_00870	COG0103	J	Ribosomal protein S9	RpsI	Ribosome 30S subunit		4V4H
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_00880	COG0136	E	Aspartate-semialdehyde dehydrogenase	Asd	Lysine biosynthesis		1BRM
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_00885	COG1045	E	Serine acetyltransferase	CysE	Cysteine biosynthesis		1T3D
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_00890	COG3243	I	Poly-beta-hydroxybutyrate synthase	PhaC			5XAV
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_00895	COG1448	E	Aspartate/aromatic aminotransferase	TyrB	Isoleucine, leucine, valine biosynthesis		1AAM
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_00900	COG0673	R	Predicted dehydrogenase	MviM			3UUW
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_00905	COG1494	G	Fructose-1,6-bisphosphatase/sedoheptulose 1,7-bisphosphatase or related protein	GlpX			1NI9
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_00910	COG0608	L	ssDNA-specific exonuclease RecJ, DHH superfamily, may be involved in archaeal DNA replication intiation	RecJ			1IR6
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_00935	COG2856	O	Zn-dependent peptidase ImmA, M78 family	ImmA			3DTE
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_00950	COG3434	T	c-di-GMP phosphodiesterase YuxH/PdeH, contains EAL and HDOD domains	YuxH		23893111	
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_00955	COG2067	I	Long-chain fatty acid transport protein	FadL			1T16
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_00960	COG1484	L	DNA replication protein DnaC	DnaC			2QGZ
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_00965	COG1530	J	Ribonuclease G or E	CafA			1SLJ
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_00970	COG0860	M	N-acetylmuramoyl-L-alanine amidase	AmiC			1JWQ
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_00975	COG5009	M	Membrane carboxypeptidase/penicillin-binding protein	MrcA			3D0F
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_00980	COG1186	J	Protein chain release factor PrfB	PrfB	Translation factors		1GQE
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_00990	COG4942	D	Septal ring factor EnvC, activator of murein hydrolases AmiA and AmiB	EnvC			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_01000	COG2077	O	Peroxiredoxin	Tpx			4AF2
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_01010	COG3164	S	Uncharacterized conserved protein YhdP, contains DUF3971 and AsmA2 domains	YhdR			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_01015	COG0162	J	Tyrosyl-tRNA synthetase	TyrS	Aminoacyl-tRNA synthetases		4OUD
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_01020	COG2377	M	1,6-Anhydro-N-acetylmuramate kinase	AnmK		15901686	3CQY
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_01025	COG1506	E	Dipeptidyl aminopeptidase/acylaminoacyl peptidase	DAP2			2JBW
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_01030	COG0110	R	Acetyltransferase, isoleucine patch superfamily	WbbJ			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_01035	COG0076	E	Glutamate or tyrosine decarboxylase or a related PLP-dependent protein	GadA	Pantothenate/CoA biosynthesis		1XEY
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_01040	COG0076	E	Glutamate or tyrosine decarboxylase or a related PLP-dependent protein	GadA	Pantothenate/CoA biosynthesis		1XEY
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_01045	COG0633	C	Ferredoxin	Fdx			1KRH
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_01050	COG0447	H	1,4-Dihydroxy-2-naphthoyl-CoA synthase	MenB	Menaquinone biosynthesis		4ELS
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_01055	COG5001	T	Cyclic di-GMP metabolism protein, combines GGDEF and EAL domains with a 6TM membrane domain				
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_01060	COG0514	L	Superfamily II DNA helicase RecQ	RecQ			1OYW
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_01065	COG0187	L	DNA gyrase/topoisomerase IV, subunit B	GyrB			1EI1
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_01085	COG2716	E	Glycine cleavage system regulator GcvR	GcvR			1U8S
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_01090	COG2854	M	Periplasmic subunit MlaC of the ABC-type intermembrane phospholipid transporter Mla	MlaC		19383799	2QGU
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_01095	COG2010	C	Cytochrome c, mono- and diheme variants	CccA			1A2S
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_01115	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_01120	COG0784	T	CheY-like REC (receiver) domain, includes chemotaxis protein CheY  and sporulation regulator Spo0F	CheY			6QRJ
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_01130	COG0457	R	Tetratricopeptide (TPR) repeat	TPR			3AS4
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_01140	COG5442	N	Flagellar biosynthesis regulator FlaF	FlaF			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_01150	COG1334	R	Uncharacterized conserved protein, FlaG/YvyC family	FlaG			2HC5
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_01165	COG2945	R	Alpha/beta superfamily hydrolase				2FUK
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_01170	COG0412	Q	Dienelactone hydrolase	DLH			4ZV9
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_01180	COG0365	I	Acyl-coenzyme A synthetase/AMP-(fatty) acid ligase	Acs		14638756	4B2O
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_01185	COG0019	E	Diaminopimelate decarboxylase	LysA	Lysine biosynthesis		1D7K
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_01190	COG0367	E	Asparagine synthetase B (glutamine-hydrolyzing)	AsnB	Asparagine biosynthesis	25951518	2ETD
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_01195	COG1596	M	Periplasmic protein Wza involved in polysaccharide export, contains SLBB domain of the beta-grasp fold	Wza		17250770	2J58
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_01200	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_01205	COG1149	R	MinD superfamily P-loop ATPase, contains an inserted ferredoxin domain				
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_01215	COG1474	L	Cdc6-related protein, AAA superfamily ATPase	CDC6			1FNN
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_01220	COG0726	GM	Peptidoglycan/xylan/chitin deacetylase, PgdA/NodB/CDA1 family	CDA1			1NY1
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_01225	COG2348	M	Lipid II:glycine glycyltransferase (Peptidoglycan interpeptide bridge formation enzyme)	FmhB			1LRZ
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_01235	COG0034	F	Glutamine phosphoribosylpyrophosphate amidotransferase	PurF	Purine biosynthesis		1ECB
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_01240	COG0265	O	Periplasmic serine protease, S1-C subfamily, contain C-terminal PDZ domain	DegQ		29686141	2HGA
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_01250	COG2204	T	DNA-binding transcriptional response regulator, NtrC family, contains REC, AAA-type ATPase, and a Fis-type DNA-binding domains	AtoC			1ZY2
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_01255	COG1283	P	Na+/phosphate symporter	NptA			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_01260	COG3840	H	ABC-type thiamine transport system, ATPase component ThiQ	ThiQ			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_01265	COG1177	E	ABC-type spermidine/putrescine transport system, permease component II	PotC			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_01270	COG0555	P	ABC-type sulfate transport system, permease component	CysU			3D31
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_01275	COG0226	P	ABC-type phosphate transport system, periplasmic component	PstS			2Q9T
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_01280	COG5000	T	Signal transduction histidine kinase NtrY involved in nitrogen fixation and metabolism regulation	NtrY			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_01285	COG0560	E	Phosphoserine phosphatase	SerB	Serine biosynthesis		3N28
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_01290	COG1044	M	UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase	LpxD	Lipid A biosynthesis		6P83
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_01295	COG0449	M	Glucosamine 6-phosphate synthetase, contains amidotransferase and phosphosugar isomerase domains	GlmS			2J6H
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_01305	COG1251	C	NAD(P)H-nitrite reductase, large subunit	NirB			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_01310	COG3200	E	3-deoxy-D-arabino-heptulosonate 7-phosphate (DAHP) synthase, class II	AroG2	Aromatic amino acid biosynthesis		6BMC
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_01315	COG1606	R	ATP-utilizing enzyme, PP-loop superfamily				6B2O
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_01320	COG0008	J	Glutamyl- or glutaminyl-tRNA synthetase	GlnS	Heme biosynthesis		1EUQ
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_01325	COG0215	J	Cysteinyl-tRNA synthetase	CysS	Aminoacyl-tRNA synthetases		1LI5
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_01330	COG0219	J	tRNA(Leu) C34 or U34 (ribose-2'-O)-methylase TrmL, contains SPOUT domain	TrmL	tRNA modification		4JAK
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_01335	COG0564	J	Pseudouridine synthase RluA, 23S rRNA- or tRNA-specific	RluA	23S rRNA modification		2I82
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_01340	COG0278	O	Glutaredoxin-related protein	GrxD			1YKA
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_01345	COG0271	KT	DNA-binding global transcriptional regulator BolA, affects cell shape, cell division and biofilm formation	BolA		19111750;2569159	2DHM
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_01355	COG0309	O	Carbamoyl dehydratase HypE (hydrogenase maturation factor)	HypE		28618091	2I6R
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_01360	COG1492	H	Cobyric acid synthase	CobQ	Cobalamine/B12 biosynthesis		
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_01370	COG0152	F	Phosphoribosylaminoimidazole-succinocarboxamide synthase	PurC	Purine biosynthesis		1A48
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_01380	COG0165	E	Argininosuccinate lyase	ArgH	Arginine biosynthesis		1AOS
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_01385	COG1948	L	ERCC4-type crossover junction endonuclease	MUS81			1J22
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_01390	COG0024	J	Methionine aminopeptidase	Map			3J2I
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_01395	COG1489	GT	DNA-binding protein, stimulates sugar fermentation	SfsA			4DA2
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_01400	COG0521	H	Molybdopterin biosynthesis enzyme MoaB/MogA	MoaB	Molybdopterin biosynthesis	32239579	1DI6
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_01410	COG5330	S	Uncharacterized conserved protein, DUF2336 family				
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_01415	COG4191	T	Signal transduction histidine kinase regulating C4-dicarboxylate transport system				4GCZ
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_01425	COG0061	H	NAD kinase	NadK			1SUW
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_01430	COG0535	DH	Radical SAM superfamily maturase, SkfB/NifB/PqqE family	SkfB		23282011	6Q2P
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_01445	COG2199	T	GGDEF domain, diguanylate cyclase (c-di-GMP synthetase) or its enzymatically inactive variants	GGDEF			6D9M
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_01450	COG0513	L	Superfamily II DNA and RNA helicase	SrmB			3RRM
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_01455	COG2938	O	Succinate dehydrogenase flavin-adding protein, antitoxin component of the CptAB toxin-antitoxin module	SdhE			1PUZ
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_01460	COG1200	L	RecG-like helicase	RecG			1GM5
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_01465	COG1178	P	ABC-type Fe3+ transport system, permease component	FbpB			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_01475	COG3000	I	Sterol desaturase/sphingolipid hydroxylase, fatty acid hydroxylase superfamily	ERG3			4ZR0
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_01480	COG2244	M	Membrane protein involved in the export of O-antigen and teichoic acid	RfbX			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_01485	COG0795	MN	Lipopolysaccharide export LptBFGC system, permease protein LptF	LptF			6S8H
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_01490	COG0795	MN	Lipopolysaccharide export LptBFGC system, permease protein LptF	LptF			6S8H
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_01495	COG4704	S	Uncharacterized conserved protein, DUF2141 family				
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_01500	COG1597	IR	Phosphatidylglycerol kinase, diacylglycerol kinase family	LCB5		17351295	2BON
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_01510	COG0520	E	Selenocysteine lyase/Cysteine desulfurase	CsdA			4LW2
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_01515	COG0236	I	Acyl carrier protein	AcpP	Fatty acid biosynthesis		1ACP
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_01520	COG0702	R	Uncharacterized conserved protein YbjT, contains NAD(P)-binding and DUF2867 domains	YbjT			5L3Z
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_01525	COG1541	H	Phenylacetate-coenzyme A ligase PaaK, adenylate-forming domain family	PaaK			2Y4O
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_01530	COG2137	O	SOS response regulatory protein OraA/RecX, interacts with RecA	RecX			3C1D
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_01535	COG1089	M	GDP-D-mannose dehydratase	Gmd			1DB3
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_01545	COG3067	CP	Na+/H+ antiporter NhaB	NhaB			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_01555	COG1430	S	Uncharacterized conserved membrane protein, UPF0127 family				3M7A
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_01585	COG0139	E	Phosphoribosyl-AMP cyclohydrolase	HisI1	Histidine biosynthesis		1ZPS
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_01590	COG1846	K	DNA-binding transcriptional regulator, MarR family	MarR			1JGS
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_01595	COG4586	R	ABC-type uncharacterized transport system, ATPase component				
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_01605	COG0626	E	Cystathionine beta-lyase/cystathionine gamma-synthase	MetC	Methionine biosynthesis		1CL1
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_01610	COG0607	P	Rhodanese-related sulfurtransferase	PspE	Urea cycle		1TQ1
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_01615	COG0498	E	Threonine synthase	ThrC	Threonine biosynthesis		1VB3
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_01620	COG2904	J	NADPH-dependent 7-cyano-7-deazaguanine reductase QueF, N-terminal domain	QueFN			3BP1
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_01625	COG1180	O	Pyruvate-formate lyase-activating enzyme	PflA			3CAN
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_01630	COG0482	J	tRNA U34 2-thiouridine synthase MnmA/TrmU, contains the PP-loop ATPase domain	MnmA	tRNA modification	25825430	2HMA
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_01650	COG2227	H	2-polyprenyl-3-methyl-5-hydroxy-6-metoxy-1,4-benzoquinol methylase	UbiG	Ubiquinone biosynthesis		1BHJ
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_01655	COG1538	M	Outer membrane protein TolC	TolC			1EK9
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_01660	COG3827	D	Cell pole-organizing protein PopZ	PopZ			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_01665	COG0215	J	Cysteinyl-tRNA synthetase	CysS	Aminoacyl-tRNA synthetases		1LI5
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_01670	COG0346	Q	Catechol 2,3-dioxygenase or related enzyme, vicinal oxygen chelate (VOC) family	GloA		11830595	3R4Q
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_01675	COG3568	R	Metal-dependent hydrolase, endonuclease/exonuclease/phosphatase family	ElsH		15178340	
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_01685	COG1078	R	HD superfamily phosphohydrolase	YdhJ			2HEK
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_01690	COG0018	J	Arginyl-tRNA synthetase	ArgS	Aminoacyl-tRNA synthetases		1BS2
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_01695	COG3147	D	Cell division protein DedD (periplasmic protein involved in septation)	DedD			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_01705	COG1994	O	Zn-dependent protease (includes sporulation protein SpoIVFB)	SpoIVFB			3B4R
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_01715	COG1386	K	Chromosome segregation and condensation protein ScpB	ScpB			1T6S
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_01720	COG0555	P	ABC-type sulfate transport system, permease component	CysU			3D31
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_01725	COG4107	P	ABC-type phosphonate transport system, ATPase component PhnK	PhnK		19516334	
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_01735	COG1826	U	Twin-arginine protein secretion pathway components TatA and TatB	TatA			2L16
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_01740	COG0805	U	Twin-arginine protein secretion pathway component TatC	TatC			4B4A
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_01745	COG0172	J	Seryl-tRNA synthetase	SerS	Aminoacyl-tRNA synthetases		1SER
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_01750	COG0496	L	Broad specificity polyphosphatase and 5'/3'-nucleotidase SurE	SurE			2V4N
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_01755	COG2519	J	tRNA A58 N-methylase Trm61	Gcd14	tRNA modification		1I9G
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_01760	COG3858	D	Spore cortex hydrolase SleL/YaaH, N-acetylglucosaminidase of GH18 family	SleL			4S3J
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_01765	COG2607	R	Predicted ATPase, AAA+ superfamily	Atu1564			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_01775	COG0341	U	Preprotein translocase subunit SecF	SecF		28830929	2FYH
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_01780	COG0342	U	Preprotein translocase subunit SecD	SecD		26100040	3AQP
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_01785	COG1504	S	Uncharacterized conserved protein, DUF498 domain				1IHN
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_01805	COG0493	ER	NADPH-dependent glutamate synthase beta chain or related oxidoreductase	GltD	Glutamine biosynthesis		1H7X
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_01810	COG1121	P	ABC-type Mn2+/Zn2+ transport system, ATPase component	ZnuC			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_01825	COG1056	H	Nicotinamide mononucleotide adenylyltransferase	NadR	NAD biosynthesis		1LW7
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_01830	COG0652	O	Peptidyl-prolyl cis-trans isomerase (rotamase) - cyclophilin family	PpiB			4DGD
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_01835	COG0809	J	S-adenosylmethionine:tRNA-ribosyltransferase-isomerase (queuine synthetase)	QueA	tRNA modification		1VKY
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_01840	COG0343	J	Queuine/archaeosine tRNA-ribosyltransferase	Tgt	tRNA modification	15805528	1XW8
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_01850	COG1309	K	DNA-binding protein, AcrR family, includes nucleoid occlusion protein SlmA	AcrR			2QOP
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_01855	COG2932	X	Phage repressor protein C, contains Cro/C1-type HTH and peptisase s24 domains				
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_01860	COG3706	TK	Two-component response regulator, PleD family, consists of two REC domains and a diguanylate cyclase (GGDEF) domain	PleD			1W25
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_01870	COG1463	M	Periplasmic subunit MlaD of the ABC-type intermembrane phospholipid transporter Mla	MlaD			5UW8
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_01880	COG2360	O	Leu/Phe-tRNA-protein transferase	Aat			2CXA
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_01885	COG0458	EF	Carbamoylphosphate synthase large subunit	CarB	Arginine biosynthesis		1C30
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_01890	COG1038	C	Pyruvate carboxylase	PycA	Urea cycle		5VYW
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_01895	COG0757	E	3-dehydroquinate dehydratase	AroQ	Aromatic amino acid biosynthesis		1D0I
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_01900	COG2104	H	Sulfur carrier protein ThiS (thiamine biosynthesis)	ThiS	Thiamine biosynthesis		1F0Z
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_01905	COG2761	O	Predicted dithiol-disulfide isomerase, DsbA/YjbH family (virulence, stress resistance)	FrnE			6GHB
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_01910	COG4105	M	Outer membrane protein assembly factor BamD, BamD/ComL family	BamD			2YHC
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_01915	COG1168	ER	Bifunctional PLP-dependent enzyme with beta-cystathionase and maltose regulon repressor activities	MalY			4DGT
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_01920	COG2771	K	DNA-binding transcriptional regulator, CsgD family	CsgD			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_01925	COG5285	Q	Ectoine hydroxylase-related dioxygenase, phytanoyl-CoA dioxygenase (PhyH) family	PhyH			2A1X
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_01930	COG4977	K	Transcriptional regulator GlxA, contains an amidase domain and an AraC-type DNA-binding HTH domain	GlxA			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_01935	COG4638	PR	Phenylpropionate dioxygenase or related ring-hydroxylating dioxygenase, large terminal subunit	HcaE			4QDC
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_01940	COG1309	K	DNA-binding protein, AcrR family, includes nucleoid occlusion protein SlmA	AcrR			2QOP
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_01945	COG0695	O	Glutaredoxin	GrxC			1AAZ
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_01950	COG4638	PR	Phenylpropionate dioxygenase or related ring-hydroxylating dioxygenase, large terminal subunit	HcaE			4QDC
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_01955	COG0248	FT	Exopolyphosphatase/pppGpp-phosphohydrolase	GppA			1T6C
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_01960	COG1189	J	Predicted rRNA methylase YqxC, contains S4 and FtsJ domains	YqxC			3OPN
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_01965	COG0517	T	CBS domain	CBS			1B3O
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_01970	COG2226	H	Ubiquinone/menaquinone biosynthesis C-methylase UbiE/MenG	UbiE	Biotin biosynthesis		4OBW
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_01975	COG0512	EH	Anthranilate/para-aminobenzoate synthase component II (glutamine amidotransferase)	PabA	Aromatic amino acid biosynthesis		1I1Q
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_01980	COG0413	H	Ketopantoate hydroxymethyltransferase	PanB	Pantothenate/CoA biosynthesis		3VAV
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_01985	COG2976	T	Putative negative regulator of RcsB-dependent stress response, UPF0070 family	YfgM		23091052	
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_01990	COG1520	M	Outer membrane protein assembly factor BamB, contains PQQ-like beta-propeller repeat	PQQ			6TJG
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_01995	COG0486	J	tRNA U34 5-carboxymethylaminomethyl modifying GTPase MnmE/TrmE	MnmE	tRNA modification		
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_02000	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_02005	COG0367	E	Asparagine synthetase B (glutamine-hydrolyzing)	AsnB	Asparagine biosynthesis	25951518	2ETD
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_02010	COG1286	FM	Colicin V production accessory protein CvpA, regulator of purF expression and biofilm formation	CvpA		27795353	
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_02015	COG0467	T	RecA-superfamily ATPase, KaiC/GvpD/RAD55 family	RAD55			1TF7
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_02020	COG4674	R	ABC-type uncharacterized transport system, ATPase component			10686096	
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_02025	COG0767	M	Permease subunit MlaE of the ABC-type intermembrane phospholipid transporter Mla	MlaE			6IC4
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_02030	COG0787	M	Alanine racemase	Alr	Mureine biosynthesis		1BD0
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_02035	COG0305	L	Replicative DNA helicase	DnaB			1B79
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_02040	COG0359	J	Ribosomal protein L9	RplI	Ribosome 50S subunit	27112601	1VS6
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_02055	COG0331	I	Malonyl CoA-acyl carrier protein transacylase	FabD	Fatty acid biosynthesis		1YXC
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_02060	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_02065	COG0236	I	Acyl carrier protein	AcpP	Fatty acid biosynthesis		1ACP
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_02070	COG0304	IQ	3-oxoacyl-(acyl-carrier-protein) synthase	FabB	Fatty acid biosynthesis	21652641	2UV8
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_02075	COG1559	M	Endolytic transglycosylase MltG, terminates peptidoglycan polymerization	MltG		26507882	2R1F
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_02080	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_02090	COG3709	G	Ribose 1,5-bisphosphate kinase PhnN	PhnN			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_02095	COG2263	R	Predicted RNA methylase				6H2U
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_02100	COG1995	H	4-hydroxy-L-threonine phosphate dehydrogenase PdxA	PdxA	Pyridoxal phosphate biosynthesis		1PS6
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_02105	COG0760	O	Peptidyl-prolyl isomerase, parvulin family	SurA			2ZR5
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_02110	COG1934	M	Lipopolysaccharide export system protein LptA	LptA			2R19
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_02115	COG0260	E	Leucyl aminopeptidase	PepB		19553197;23825549	3H8E
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_02125	COG2274	V	ABC-type bacteriocin/lantibiotic exporters, contain an N-terminal double-glycine peptidase domain	SunT			3K8U
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_02130	COG0105	F	Nucleoside diphosphate kinase	Ndk	Pyrimidine biosynthesis		1B4S
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_02135	COG0223	J	Methionyl-tRNA formyltransferase	Fmt			1FMT
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_02140	COG0150	F	Phosphoribosylaminoimidazole (AIR) synthetase	PurM	Purine biosynthesis		1CLI
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_02150	COG0593	L	Chromosomal replication initiation ATPase DnaA	DnaA			1L8Q
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_02160	COG0248	FT	Exopolyphosphatase/pppGpp-phosphohydrolase	GppA			1T6C
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_02165	COG0349	J	Ribonuclease D	Rnd		18821773	5C0Y
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_02170	COG0173	J	Aspartyl-tRNA synthetase	AspS	Aminoacyl-tRNA synthetases		1C0A
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_02180	COG5010	UW	Flp pilus assembly protein TadD, contains TPR repeats	TadD			3WXX
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_02185	COG2261	R	Uncharacterized membrane protein YeaQ/YmgE, transglycosylase-associated protein family	YeaQ			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_02190	COG1605	E	Chorismate mutase	PheA	Aromatic amino acid biosynthesis		1ECM
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_02200	COG2021	E	Homoserine O-acetyltransferase	MET2	Methionine biosynthesis		2VAT
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_02205	COG4638	PR	Phenylpropionate dioxygenase or related ring-hydroxylating dioxygenase, large terminal subunit	HcaE			4QDC
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_02210	COG4774	P	Outer membrane receptor for monomeric catechols	Fiu			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_02215	COG1239	H	Mg-chelatase subunit ChlI	ChlI			1G8P
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_02225	COG2951	M	Membrane-bound lytic murein transglycosylase B	MltB			1D0K
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_02230	COG3147	D	Cell division protein DedD (periplasmic protein involved in septation)	DedD			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_02235	COG2367	V	Beta-lactamase class A	PenP			6W34
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_02240	COG4088	JV	tRNA uridine 5-carbamoylmethylation protein Kti12 (Killer toxin insensitivity protein)	Kti12			3A4L
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_02245	COG0470	L	DNA polymerase III, delta prime subunit	HolB			1A5T
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_02250	COG0495	J	Leucyl-tRNA synthetase	LeuS	Aminoacyl-tRNA synthetases		6LPF
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_02255	COG1099	R	Predicted metal-dependent hydrolase, TIM-barrel fold				3GUW
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_02260	COG1237	R	Metal-dependent hydrolase, beta-lactamase superfamily II				2P4Z
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_02275	COG0483	G	Archaeal fructose-1,6-bisphosphatase or related enzyme, inositol monophosphatase family	SuhB	Gluconeogenesis		1AWB
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_02280	COG1160	J	Double Era-like domain GTPase Der	Der			1MKY
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_02295	COG1226	P	Voltage-gated potassium channel Kch	Kch			3FWZ
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_02300	COG0784	T	CheY-like REC (receiver) domain, includes chemotaxis protein CheY  and sporulation regulator Spo0F	CheY			6QRJ
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_02305	COG3290	T	Sensor histidine kinase DipB regulating citrate/malate metabolism	CitA			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_02310	COG0784	T	CheY-like REC (receiver) domain, includes chemotaxis protein CheY  and sporulation regulator Spo0F	CheY			6QRJ
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_02315	COG2205	T	K+-sensing histidine kinase KdpD	KdpD			2KSF
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_02320	COG0106	E	Phosphoribosylformimino-5-aminoimidazole carboxamide ribonucleotide (ProFAR) isomerase	HisA	Histidine biosynthesis		4U28
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_02325	COG2068	H	CTP:molybdopterin cytidylyltransferase MocA	MocA			2WAW
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_02335	COG1546	H	Nicotinamide mononucleotide (NMN) deamidase PncC	PncC	NAD biosynthesis		2A9S
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_02345	COG0502	H	Biotin synthase or related enzyme	BioB	Biotin biosynthesis		1R30
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_02350	COG1252	C	NADH dehydrogenase, FAD-containing subunit	Ndh			5NA4
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_02355	COG0508	C	Pyruvate/2-oxoglutarate dehydrogenase complex, dihydrolipoamide acyltransferase (E2) component	AceF	Pyruvate oxidation		1B5S
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_02360	COG1154	HI	Deoxyxylulose-5-phosphate synthase	Dxs	Pyridoxal phosphate biosynthesis		2O1S
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_02365	COG0567	C	2-oxoglutarate dehydrogenase complex, dehydrogenase (E1) component, and related enzymes	SucA	TCA cycle		2JGD
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_02375	COG0148	G	Enolase	Eno	Glycolysis		1E9I
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_02380	COG0504	F	CTP synthase (UTP-ammonia lyase)	PyrG	Pyrimidine biosynthesis		1S1M
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_02385	COG1314	U	Protein translocase subunit SecG	SecG			2AKH
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_02390	COG2176	L	DNA polymerase III, alpha subunit (gram-positive type)	PolC			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_02395	COG0760	O	Peptidyl-prolyl isomerase, parvulin family	SurA			2ZR5
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_02400	COG0147	EH	Anthranilate/para-aminobenzoate synthases component I	TrpE	Aromatic amino acid biosynthesis		1I1Q
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_02410	COG3633	E	Na+/serine and Na+/threonine symporter SstT	SstT			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_02415	COG0518	F	GMP synthase, glutamine amidotransferase domain	GuaA1	Purine biosynthesis		4WIM
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_02420	COG0213	F	Thymidine phosphorylase	DeoA	Pyrimidine salvage		1AZY
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_02425	COG0134	E	Indole-3-glycerol phosphate synthase	TrpC	Aromatic amino acid biosynthesis		6BMA
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_02430	COG0315	H	Molybdenum cofactor biosynthesis enzyme MoaC	MoaC	Molybdopterin biosynthesis	32239579	1EKR
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_02435	COG0303	H	Molybdopterin Mo-transferase (molybdopterin biosynthesis)	MoeA	Molybdopterin biosynthesis	18801996;32239579	2NQU
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_02440	COG1846	K	DNA-binding transcriptional regulator, MarR family	MarR			1JGS
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_02450	COG0008	J	Glutamyl- or glutaminyl-tRNA synthetase	GlnS	Heme biosynthesis		1EUQ
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_02455	COG0372	C	Citrate synthase	GltA	TCA cycle	25211225	3TQG
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_02460	COG0346	Q	Catechol 2,3-dioxygenase or related enzyme, vicinal oxygen chelate (VOC) family	GloA		11830595	3R4Q
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_02465	COG4706	I	Predicted 3-hydroxylacyl-ACP dehydratase, HotDog domain				
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_02475	COG4775	M	Outer membrane protein assembly factor BamA	BamA			5EKQ
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_02480	COG0793	O	C-terminal processing protease CtpA/Prc, contains a PDZ domain	CtpA			6IQU
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_02485	COG0743	I	1-deoxy-D-xylulose 5-phosphate reductoisomerase	Dxr	Isoprenoid biosynthesis		1JVS
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_02490	COG4589	R	Predicted CDP-diglyceride synthetase/phosphatidate cytidylyltransferase	YnbB			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_02495	COG0020	I	Undecaprenyl pyrophosphate synthase	UppS			1X07
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_02500	COG0233	J	Ribosome recycling factor	Frr			1DD5
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_02505	COG0527	E	Aspartate kinase	MetL1	Lysine biosynthesis		2CDQ
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_02510	COG0264	J	Translation elongation factor EF-Ts	Tsf	Translation factors		1EFU
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_02515	COG0052	J	Ribosomal protein S2	RpsB	Ribosome 30S subunit		4V4H
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_02520	COG0494	V	8-oxo-dGTP pyrophosphatase MutT and related house-cleaning NTP pyrophosphohydrolases, NUDIX family	MutT			4V14
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_02525	COG2176	L	DNA polymerase III, alpha subunit (gram-positive type)	PolC			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_02535	COG2401	R	ABC-type ATPase fused to a predicted acetyltransferase domain	MK0520			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_02540	COG0577	V	ABC-type antimicrobial peptide transport system, permease component	SalY			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_02545	COG0441	J	Threonyl-tRNA synthetase	ThrS	Aminoacyl-tRNA synthetases		1NYQ
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_02555	COG5454	S	Predicted secreted protein				
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_02560	COG3185	ER	4-hydroxyphenylpyruvate dioxygenase and related hemolysins	HppD			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_02565	COG1236	J	RNA processing exonuclease, beta-lactamase fold, Cft2 family	YSH1			2DKF
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_02570	COG1521	H	Pantothenate kinase type III	CoaX			2F9T
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_02575	COG0340	H	Biotin-(acetyl-CoA carboxylase) ligase	BirA2	Biotin biosynthesis	32188788	1BIA
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_02580	COG1007	C	NADH:ubiquinone oxidoreductase subunit 2 (chain N)	NuoN	NADH dehydrogenase		4HE8
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_02585	COG1008	C	NADH:ubiquinone oxidoreductase subunit 4 (chain M)	NuoM	NADH dehydrogenase		6HUM
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_02590	COG1009	C	Membrane H+-translocase/NADH:ubiquinone oxidoreductase subunit 5 (chain L)/Multisubunit Na+/H+ antiporter, MnhA subunit	NuoL	NADH dehydrogenase		3RKO
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_02600	COG1511	S	Uncharacterized membrane protein YhgE, phage infection protein (PIP) family	YhgE			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_02605	COG3383	R	Predicted molibdopterin-dependent oxidoreductase YjgC	YjgC			1AA6
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_02610	COG1005	C	NADH:ubiquinone oxidoreductase subunit 1 (chain H)	NuoH	NADH dehydrogenase		6HUM
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_02615	COG1034	C	NADH dehydrogenase/NADH:ubiquinone oxidoreductase 75 kD subunit (chain G)	NuoG	NADH dehydrogenase		1C4A
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_02620	COG1894	C	NADH:ubiquinone oxidoreductase, NADH-binding 51 kD subunit (chain F)	NuoF	NADH dehydrogenase		2FUG
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_02625	COG1905	C	NADH:ubiquinone oxidoreductase 24 kD subunit (chain E)	NuoE	NADH dehydrogenase		5XF9
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_02630	COG0649	C	NADH:ubiquinone oxidoreductase 49 kD subunit (chain D)	NuoD	NADH dehydrogenase		2FUG
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_02635	COG3262	C	Ni,Fe-hydrogenase III component G	HycE1			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_02640	COG1941	C	Coenzyme F420-reducing hydrogenase, gamma subunit	FrhG			5ODC
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_02665	COG1750	R	Predicted archaeal serine protease, S18 family				
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_02670	COG1219	O	ATP-dependent protease Clp, ATPase subunit ClpX	ClpX			3HTE
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_02675	COG0740	O	ATP-dependent protease ClpP, protease subunit	ClpP			1TG6
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_02680	COG0544	O	FKBP-type peptidyl-prolyl cis-trans isomerase (trigger factor)	Tig			5OWI
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_02690	COG0063	F	NAD(P)H-hydrate repair enzyme Nnr, NAD(P)H-hydrate dehydratase domain	Nnr2			1KYH
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_02705	COG0174	E	Glutamine synthetase	GlnA	Glutamine biosynthesis		1F1H
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_02715	COG0845	MV	Multidrug efflux pump subunit AcrA (membrane-fusion protein)	AcrA			1T5E
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_02720	COG0841	V	Multidrug efflux pump subunit AcrB	AcrB			1IWG
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_02725	COG1183	I	Phosphatidylserine synthase	PssA			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_02730	COG0688	I	Phosphatidylserine decarboxylase	Psd	Phospholipid biosynthesis		6L06
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_02735	COG4598	E	ABC-type histidine transport system, ATPase component	HisP			1B0U
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_02755	COG0473	CE	Isocitrate/isopropylmalate dehydrogenase	LeuB	TCA cycle		1GC9
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_02760	COG2872	J	Ser-tRNA(Ala) deacylase AlaX (editing enzyme)	AlaX			2E1B
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_02765	COG0468	L	RecA/RadA recombinase	RecA			1B22
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_02770	COG0784	T	CheY-like REC (receiver) domain, includes chemotaxis protein CheY  and sporulation regulator Spo0F	CheY			6QRJ
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_02775	COG2257	U	Type III secretion system substrate exporter, FlhB-like	YlqH			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_02780	COG4791	U	Type III secretory pathway, EscT/YscT component	EscT			6R6B
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_02795	COG1815	N	Flagellar basal body rod protein FlgB	FlgB			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_02800	COG1815	N	Flagellar basal body rod protein FlgB	FlgB			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_02805	COG2257	U	Type III secretion system substrate exporter, FlhB-like	YlqH			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_02815	COG1338	N	Flagellar biosynthesis protein FliP	FliP			5H72
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_02835	COG3143	NT	Phosphoaspartate phosphatase CheZ, dephosphorylates CheY~P	CheZ			1KMI
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_02840	COG2239	P	Mg/Co/Ni transporter MgtE (contains CBS domain)	MgtE			2YVX
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_02860	COG1749	N	Flagellar hook protein FlgE	FlgE			3A69
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_02865	COG1256	N	Flagellar hook-associated protein FlgK	FlgK			2D4Y
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_02870	COG1261	N	Flagellar basal body P-ring formation protein FlgA	FlgA			3VJP
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_02875	COG2063	N	Flagellar basal body L-ring protein FlgH	FlgH			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_02890	COG1706	N	Flagellar basal body P-ring protein FlgI	FlgI			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_02895	COG3951	N	Rod binding protein domain	FlgJ1			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_02910	COG0297	G	Glycogen synthase	GlgA			1RZU
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_02920	COG0438	M	Glycosyltransferase involved in cell wall bisynthesis	RfaB			2IV7
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_02925	COG0297	G	Glycogen synthase	GlgA			1RZU
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_02930	COG0297	G	Glycogen synthase	GlgA			1RZU
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_02940	COG1322	L	DNA anti-recombination protein (rearrangement mutator) RmuC	RmuC			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_02945	COG3063	NW	Type IV pilus assembly protein PilF/PilW	PilF		16403447	2VQ2
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_02950	COG4567	TK	DNA-binding response regulator, ActR/RegA family, consists of REC and Fis-type HTH domains				3RQI
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_02955	COG4191	T	Signal transduction histidine kinase regulating C4-dicarboxylate transport system				4GCZ
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_02960	COG1086	MO	NDP-sugar epimerase, includes UDP-GlcNAc-inverting 4,6-dehydratase FlaA1 and capsular polysaccharide biosynthesis protein EpsC	FlaA1			2GN4
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_02965	COG1033	R	Predicted exporter protein, RND superfamily	MMPL			5KHN
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_02970	COG1033	R	Predicted exporter protein, RND superfamily	MMPL			5KHN
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_02980	COG1748	E	Saccharopine dehydrogenase, NADP-dependent	Lys9	Lysine biosynthesis		1E5L
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_02985	COG4783	MO	Outer membrane protein chaperone/metalloprotease BepA/YfgC, contains M48 and TPR domains	BepA		24003122	6AIT
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_02990	COG3916	T	N-acyl-homoserine lactone synthase LasI (autoinducer biosynthesis)	LasI			1K4J
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_03005	COG2038	H	NaMN:DMB phosphoribosyltransferase	CobT	Cobalamine/B12 biosynthesis		1D0S
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_03010	COG1010	H	Precorrin-3B methylase	CobJ	Cobalamine/B12 biosynthesis		2ZVB
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_03015	COG1209	M	dTDP-glucose pyrophosphorylase	RmlA1			1FXO
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_03030	COG1215	N	Glycosyltransferase, catalytic subunit of cellulose synthase and poly-beta-1,6-N-acetylglucosamine synthase	BcsA			4HG6
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_03035	COG5066
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_03045	COG0308	E	Aminopeptidase N, contains DUF3458 domain	PepN		24123841	6ATK
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_03055	COG1217	T	Predicted membrane GTPase TypA/BipA involved in stress response	TypA			5A9V
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_03060	COG1396	K	Transcriptional regulator, contains XRE-family HTH domain	HipB			1ADR
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_03100	COG1251	C	NAD(P)H-nitrite reductase, large subunit	NirB			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_03110	COG2608	P	Copper chaperone CopZ	CopZ			1AFI
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_03120	COG0789	K	DNA-binding transcriptional regulator, MerR family	SoxR			2VZ4
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_03135	COG0526	O	Thiol-disulfide isomerase or thioredoxin	TrxA			1XFL
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_03170	COG3552	S	Uncharacterized protein CoxE, contains von Willebrand factor type A (vWA) domain	CoxE			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_03190	COG5271	J	Midasin, AAA ATPase with  vWA domain, involved in ribosome maturation	MDN1			6HYP
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_03195	COG5377	X	Phage-related protein, predicted endonuclease				
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_03210	COG0629	L	Single-stranded DNA-binding protein	Ssb			1EQQ
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_03250	COG4959	OU	Type IV secretory pathway, protease TraF	TraF			1B12
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_03280	COG2253	V	Predicted nucleotidyltransferase component of viral defense system				4O8S
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_03320	COG2856	O	Zn-dependent peptidase ImmA, M78 family	ImmA			3DTE
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_03340	COG1674	D	DNA segregation ATPase FtsK/SpoIIIE or related protein	FtsK			2IUT
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_03345	COG3481	J	3'-5' exoribonuclease YhaM, can participate in 23S rRNA maturation,  HD superfamily	YhaM	23S rRNA modification	19880604	
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_03350	COG1674	D	DNA segregation ATPase FtsK/SpoIIIE or related protein	FtsK			2IUT
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_03360	COG1061	KL	Superfamily II DNA or RNA helicase	SSL2			6JDE
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_03370	COG0732	V	Restriction endonuclease S subunit	HsdS			1YDX
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_03375	COG0286	V	Type I restriction-modification system, DNA methylase subunit	HsdM		26872910	2AR0
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_03380	COG2378	K	Predicted DNA-binding transcriptional regulator YobV, contains HTH and WYL domains	YobV			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_03395	COG2963	X	Transposase InsE and inactivated derivatives	InsE		23818957	2JN6
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_03410	COG1974	KT	SOS-response transcriptional repressor LexA (RecA-mediated autopeptidase)	LexA			1AY9
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_03435	COG0582	LX	Integrase/recombinase, includes phage integrase	FimB			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_03445	COG1961	L	Site-specific DNA recombinase SpoIVCA/DNA invertase PinE	SpoIVCA			1GDT
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_03455	COG2353	R	Polyisoprenoid-binding periplasmic protein YceI	YceI		15741337;20236316	1WUB
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_03460	COG2249	R	Putative NADPH-quinone reductase (modulator of drug activity B)	MdaB			1D4A
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_03465	COG1846	K	DNA-binding transcriptional regulator, MarR family	MarR			1JGS
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_03470	COG2184	T	Fido, protein-threonine AMPylation domain	FIDO		19503829	2F6S
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_03505	COG0286	V	Type I restriction-modification system, DNA methylase subunit	HsdM		26872910	2AR0
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_03530	COG4638	PR	Phenylpropionate dioxygenase or related ring-hydroxylating dioxygenase, large terminal subunit	HcaE			4QDC
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_03550	COG1600	J	Epoxyqueuosine reductase QueG (queuosine biosynthesis)	QueG	tRNA modification	2150253	5D08
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_03560	COG1600	J	Epoxyqueuosine reductase QueG (queuosine biosynthesis)	QueG	tRNA modification	2150253	5D08
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_03570	COG1606	R	ATP-utilizing enzyme, PP-loop superfamily				6B2O
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_03575	COG0241	E	Histidinol phosphatase/D-glycero-mannoheptose bisphosphatephosphatase, HAD superfamily	HisB1/GmhB	Histidine biosynthesis	20050615;20050614	2GMW
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_03585	COG1749	N	Flagellar hook protein FlgE	FlgE			3A69
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_03590	COG3144	N	Flagellar hook-length control protein FliK	FliK			2RRL
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_03600	COG1256	N	Flagellar hook-associated protein FlgK	FlgK			2D4Y
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_03610	COG4669	U	Type III secretory pathway, lipoprotein EscJ	EscJ			1YJ7
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_03615	COG1536	N	Flagellar motor switch protein FliG	FliG			4FHR
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_03625	COG1886	NU	Flagellar motor switch/type III secretory pathway protein FliN	FliN			1O9Y
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_03635	COG2204	T	DNA-binding transcriptional response regulator, NtrC family, contains REC, AAA-type ATPase, and a Fis-type DNA-binding domains	AtoC			1ZY2
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_03640	COG1298	N	Flagellar biosynthesis protein FlhA	FlhA			6AI0
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_03645	COG0552	U	Signal recognition particle GTPase FtsY	FtsY			4AK9
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_03650	COG2894	D	Septum site-determining ATPase MinD	MinD			4V02
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_03670	COG1158	K	Transcription termination factor Rho	Rho			1PVO
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_03675	COG0784	T	CheY-like REC (receiver) domain, includes chemotaxis protein CheY  and sporulation regulator Spo0F	CheY			6QRJ
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_03680	COG1352	T	Methylase of chemotaxis methyl-accepting proteins	CheR			1AF7
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_03685	COG2197	TK	DNA-binding response regulator, NarL/FixJ family, contains REC and HTH domains	CitB			1A04
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_03690	COG3706	TK	Two-component response regulator, PleD family, consists of two REC domains and a diguanylate cyclase (GGDEF) domain	PleD			1W25
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_03700	COG0784	T	CheY-like REC (receiver) domain, includes chemotaxis protein CheY  and sporulation regulator Spo0F	CheY			6QRJ
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_03710	COG1218	P	3'-Phosphoadenosine 5'-phosphosulfate (PAPS) 3'-phosphatase	CysQ			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_03715	COG1279	E	Arginine exporter protein ArgO	ArgO			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_03735	COG1187	J	Pseudouridylate synthase RsuA, specific for 16S rRNA U516  and 23S rRNA U2605	RsuA	16S rRNA modification		1KSK
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_03740	COG0568	K	DNA-directed RNA polymerase, sigma subunit (sigma70/sigma32)	RpoD	RNA polymerase		1SIG
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_03755	COG0104	F	Adenylosuccinate synthase	PurA	Purine biosynthesis		1ADE
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_03760	COG0124	J	Histidyl-tRNA synthetase	HisS	Aminoacyl-tRNA synthetases		1KMM
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_03765	COG0111	H	Phosphoglycerate dehydrogenase or related dehydrogenase	SerA	Serine biosynthesis		3OET
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_03770	COG0075	EF	Archaeal aspartate aminotransferase or a related aminotransferase, includes purine catabolism protein PucG	PucG	Serine biosynthesis		3NNK
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_03775	COG2240	H	Pyridoxal/pyridoxine/pyridoxamine kinase	PdxK	Pyridoxal phosphate biosynthesis	19096365;23189126	5ZW9
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_03780	COG0033	G	Phosphoglucomutase/phosphomannomutase	Pgm		30938049	1C47
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_03790	COG0465	O	ATP-dependent Zn proteases	HflB			1LV7
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_03795	COG0175	EH	3'-phosphoadenosine 5'-phosphosulfate sulfotransferase (PAPS reductase)/FAD synthetase or related enzyme	CysD	Cysteine biosynthesis		1ZUN
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_03800	COG0457	R	Tetratricopeptide (TPR) repeat	TPR			3AS4
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_03805	COG1360	N	Flagellar motor protein MotB	MotB			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_03810	COG1506	E	Dipeptidyl aminopeptidase/acylaminoacyl peptidase	DAP2			2JBW
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_03825	COG1291	N	Flagellar motor component MotA	MotA			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_03835	COG2256	L	Replication-associated recombination protein RarA (DNA-dependent ATPase)	RarA			3PVS
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_03840	COG0632	L	Holliday junction resolvasome RuvABC DNA-binding subunit	RuvA			1BDX
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_03845	COG0817	L	Holliday junction resolvasome RuvABC endonuclease subunit RuvC	RuvC			1HJR
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_03850	COG0217	KJ	Transcriptional and/or translational regulatory protein YebC/TACO1	TACO1			1KON
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_03855	COG1692	T	2',3'- and 3',5'-cNMP phosphodiesterase YmdB, calcineurin family	YmdB		24163345	2CV9
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_03880	COG4026	R	Uncharacterized conserved protein, contains TOPRIM domain, potential nuclease				
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_03885	COG0021	G	Transketolase	TktA	Pentose phosphate pathway		1AY0
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_03890	COG0057	G	Glyceraldehyde-3-phosphate dehydrogenase/erythrose-4-phosphate dehydrogenase	GapA	Glycolysis		3ZDF
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_03895	COG0126	G	3-phosphoglycerate kinase	Pgk	Glycolysis		13PK
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_03905	COG0840	T	Methyl-accepting chemotaxis protein (MCP)	Tar			1QU7
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_03910	COG0352	H	Thiamine monophosphate synthase	ThiE	Thiamine biosynthesis	19060138	1G4T
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_03935	COG3409	M	Peptidoglycan-binding (PGRP) domain of peptidoglycan hydrolases	PGRP			4FET
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_03940	COG0484	O	DnaJ-class molecular chaperone with C-terminal Zn finger domain	DnaJ			1BQ0
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_03945	COG2814	G	Predicted arabinose efflux permease AraJ, MFS family	AraJ			4LDS
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_03960	COG3041	JV	mRNA-degrading endonuclease YafQ (mRNA interferase), toxin component of the YafQ-DinJ toxin-antitoxin module	YafQ			4MMG
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_03965	COG2161	V	Antitoxin component YafN of the YafNO toxin-antitoxin module, PHD/YefM family	StbD			2A6Q
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_03970	COG0146	EQ	N-methylhydantoinase B/oxoprolinase/acetone carboxylase, alpha subunit	HyuB			5L9W
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_03985	COG2185	I	Methylmalonyl-CoA mutase, C-terminal domain/subunit (cobalamin-binding)	Sbm			1B1A
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_03990	COG0646	E	Methionine synthase I (cobalamin-dependent), methyltransferase domain	MetH1	Methionine biosynthesis		1LT7
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_03995	COG0685	E	5,10-methylenetetrahydrofolate reductase	MetF			1B5T
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_04000	COG2226	H	Ubiquinone/menaquinone biosynthesis C-methylase UbiE/MenG	UbiE	Biotin biosynthesis		4OBW
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_04005	COG0784	T	CheY-like REC (receiver) domain, includes chemotaxis protein CheY  and sporulation regulator Spo0F	CheY			6QRJ
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_04020	COG3839	G	ABC-type sugar transport system, ATPase component MalK	MalK			2ONK
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_04030	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_04035	COG4774	P	Outer membrane receptor for monomeric catechols	Fiu			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_04040	COG4206	H	Outer membrane cobalamin receptor protein BtuB	BtuB			1NQE
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_04050	COG0568	K	DNA-directed RNA polymerase, sigma subunit (sigma70/sigma32)	RpoD	RNA polymerase		1SIG
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_04055	COG0358	L	DNA primase (bacterial type)	DnaG		28128549	3B39
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_04065	COG0512	EH	Anthranilate/para-aminobenzoate synthase component II (glutamine amidotransferase)	PabA	Aromatic amino acid biosynthesis		1I1Q
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_04070	COG0439	I	Biotin carboxylase	AccC	Fatty acid biosynthesis		1BNC
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_04080	COG5331	S	Uncharacterized conserved protein				
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_04085	COG1349	KG	DNA-binding transcriptional regulator of sugar metabolism, DeoR/GlpR family	GlpR			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_04090	COG5330	S	Uncharacterized conserved protein, DUF2336 family				
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_04105	COG4960	OT	Flp pilus assembly protein, peptidase CpaA	CpaA		19493340	3S0X
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_04115	COG4796	U	Type II secretory pathway, component HofQ	HofQ			4AV2
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_04120	COG5461	W	Type IV pilus biogenesis protein CpaD/CtpE	CpaD		10880436	
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_04125	COG1192	DN	ParA-like ATPase involved in chromosome/plasmid partitioning or cellulose biosynthesis protein BcsQ	ParA			6NOO
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_04130	COG2804	NUW	Type II secretory pathway ATPase GspE/PulE or T4P pilus assembly pathway ATPase PilB	PulE			4KSR
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_04135	COG1459	NUW	Type II secretory pathway, component PulF	PulF			2VMA
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_04140	COG2064	W	Flp pilus assembly protein TadC	TadC			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_04145	COG4961	UW	Flp pilus assembly protein TadG, includes N-terminal TadE domain	TadG		12010986	
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_04155	COG0730	P	Sulfite exporter TauE/SafE/YfcA and related permeases, UPF0721 family	TauE		21183667;22797525	
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_04160	COG2205	T	K+-sensing histidine kinase KdpD	KdpD			2KSF
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_04180	COG2885	M	Outer membrane protein OmpA and related peptidoglycan-associated (lipo)proteins	OmpA			1OAP
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_04205	COG5449	S	Uncharacterized conserved protein, DUF2163 domain				
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_04225	COG0029	H	Aspartate oxidase	NadB	NAD biosynthesis		1KNP
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_04230	COG4148	P	ABC-type molybdate transport system, ATPase component ModC	ModC	Molybdopterin biosynthesis		
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_04240	COG0749	L	DNA polymerase I, 3'-5' exonuclease and polymerase domains	PolA			1D8Y
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_04245	COG0596	HR	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold	MenH	Menaquinone biosynthesis		4MYS
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_04250	COG0442	J	Prolyl-tRNA synthetase	ProS	Aminoacyl-tRNA synthetases		5XIF
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_04255	COG0290	J	Translation initiation factor IF-3	InfC	Translation factors		2IFE
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_04260	COG1566	V	Multidrug resistance efflux pump EmrA	EmrA			4TKO
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_04265	COG0841	V	Multidrug efflux pump subunit AcrB	AcrB			1IWG
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_04270	COG1916	S	Pheromone shutdown protein TraB, contains GTxH motif (function unknown)				
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_04275	COG0291	J	Ribosomal protein L35	RpmI	Ribosome 50S subunit	28373563	1VS6
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_04280	COG0292	J	Ribosomal protein L20	RplT	Ribosome 50S subunit	30270044	1VS6
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_04285	COG0016	J	Phenylalanyl-tRNA synthetase alpha subunit	PheS	Aminoacyl-tRNA synthetases		3L4G
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_04290	COG0072	J	Phenylalanyl-tRNA synthetase beta subunit	PheT	Aminoacyl-tRNA synthetases		3L4G
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_04295	COG2230	I	Cyclopropane fatty-acyl-phospholipid synthase and related methyltransferases	Cfa			5Z9O
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_04300	COG0532	J	Translation initiation factor IF-2, a GTPase	InfB	Translation factors		5ME0
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_04305	COG0333	J	Ribosomal protein L32	RpmF	Ribosome 50S subunit	17114934	1VS6
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_04320	COG2357	FT	ppGpp synthetase catalytic domain (RelA/SpoT-type nucleotidyltranferase)	YjbM			5F2V
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_04325	COG0500	QR	SAM-dependent methyltransferase	SmtA			5DNK
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_04340	COG1600	J	Epoxyqueuosine reductase QueG (queuosine biosynthesis)	QueG	tRNA modification	2150253	5D08
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_04345	COG1600	J	Epoxyqueuosine reductase QueG (queuosine biosynthesis)	QueG	tRNA modification	2150253	5D08
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_04350	COG1600	J	Epoxyqueuosine reductase QueG (queuosine biosynthesis)	QueG	tRNA modification	2150253	5D08
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_04355	COG1600	J	Epoxyqueuosine reductase QueG (queuosine biosynthesis)	QueG	tRNA modification	2150253	5D08
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_04360	COG1600	J	Epoxyqueuosine reductase QueG (queuosine biosynthesis)	QueG	tRNA modification	2150253	5D08
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_04365	COG1226	P	Voltage-gated potassium channel Kch	Kch			3FWZ
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_04375	COG0119	E	Isopropylmalate/homocitrate/citramalate synthases	LeuA	Isoleucine, leucine, valine biosynthesis		4JN6
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_04380	COG0673	R	Predicted dehydrogenase	MviM			3UUW
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_04385	COG3971	Q	2-keto-4-pentenoate hydratase	MhpD			1SV6
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_04390	COG4783	MO	Outer membrane protein chaperone/metalloprotease BepA/YfgC, contains M48 and TPR domains	BepA		24003122	6AIT
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_04395	COG0457	R	Tetratricopeptide (TPR) repeat	TPR			3AS4
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_04410	COG0640	K	DNA-binding transcriptional regulator, ArsR family	ArsR			3F6V
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_04415	COG0595	J	mRNA degradation ribonuclease J1/J2	RnjA			3T3N
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_04430	COG0625	O	Glutathione S-transferase	GstA			1A0F
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_04435	COG0260	E	Leucyl aminopeptidase	PepB		19553197;23825549	3H8E
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_04440	COG1846	K	DNA-binding transcriptional regulator, MarR family	MarR			1JGS
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_04460	COG0762	O	Cytochrome b6 maturation protein CCB3/Ycf19 and related maturases, YggT family	Ycf19			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_04470	COG0190	H	5,10-methylene-tetrahydrofolate dehydrogenase/Methenyl tetrahydrofolate cyclohydrolase	FolD			1A4I
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_04480	COG0137	E	Argininosuccinate synthase	ArgG	Arginine biosynthesis		1J1Z
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_04490	COG0297	G	Glycogen synthase	GlgA			1RZU
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_04495	COG0438	M	Glycosyltransferase involved in cell wall bisynthesis	RfaB			2IV7
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_04500	COG0820	J	Adenine C2-methylase RlmN of 23S rRNA A2503 and tRNA A37	RlmN	23S rRNA modification		3RFA
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_04510	COG0566	J	tRNA G18 (ribose-2'-O)-methylase SpoU	SpoU	tRNA modification		1GZ0
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_04515	COG4670	I	Acyl CoA:acetate/3-ketoacid CoA transferase	YdiF			5VIT
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_04520	COG2057	I	Acyl-CoA:acetate/3-ketoacid CoA transferase, beta subunit	AtoA			5DBN
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_04535	COG4259	S	Uncharacterized conserved protein, DUF4810 domain				
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_04550	COG0697	GER	Permease of the drug/metabolite transporter (DMT) superfamily	RhaT			5I20
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_04555	COG0697	GER	Permease of the drug/metabolite transporter (DMT) superfamily	RhaT			5I20
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_04560	COG3339	S	Uncharacterized membrane protein YkvA, DUF1232 family	YkvA			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_04565	COG2154	H	Pterin-4a-carbinolamine dehydratase	PhhB			1DCH
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_04570	COG0846	O	NAD-dependent protein deacetylase, SIR2 family	SIR2			1M2N
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_04575	COG4551	R	Predicted protein tyrosine phosphatase				
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_04615	COG0787	M	Alanine racemase	Alr	Mureine biosynthesis		1BD0
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_04625	COG1670	JO	Protein N-acetyltransferase, RimJ/RimL family	RimL			1S7F
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_04635	COG2089	M	Sialic acid synthase SpsE, contains C-terminal SAF domain	SpsE			1VLI
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_04640	COG0707	M	UDP-N-acetylglucosamine:LPS N-acetylglucosamine transferase	MurG	Mureine biosynthesis		1F0K
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_04645	COG1212	M	CMP-2-keto-3-deoxyoctulosonic acid synthetase	KdsB	Lipid A biosynthesis		1VH1
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_04650	COG0626	E	Cystathionine beta-lyase/cystathionine gamma-synthase	MetC	Methionine biosynthesis		1CL1
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_04655	COG0451	M	Nucleoside-diphosphate-sugar epimerase	WcaG			2X4G
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_04660	COG0297	G	Glycogen synthase	GlgA			1RZU
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_04665	COG0110	R	Acetyltransferase, isoleucine patch superfamily	WbbJ			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_04685	COG0367	E	Asparagine synthetase B (glutamine-hydrolyzing)	AsnB	Asparagine biosynthesis	25951518	2ETD
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_04690	COG3206	M	Exopolysaccharide export protein/domain GumC/Wzc1	GumC		15003255;23089617	
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_04695	COG0545	O	FKBP-type peptidyl-prolyl cis-trans isomerase	FkpA			1A7X
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_04700	COG2135	L	ssDNA abasic site-binding protein YedK/HMCES, SRAP family	SRAP		30554877;31504793	1ZN6
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_04710	COG3203	M	Outer membrane porin OmpC/OmpF/PhoE	OmpC			1PHO
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_04715	COG1053	C	Succinate dehydrogenase/fumarate reductase, flavoprotein subunit	SdhA	TCA cycle		1KF6
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_04720	COG4191	T	Signal transduction histidine kinase regulating C4-dicarboxylate transport system				4GCZ
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_04735	COG0842	V	ABC-type multidrug transport system, permease component	YadH			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_04740	COG4992	E	Acetylornithine/succinyldiaminopimelate/putrescine aminotransferase	ArgD	Arginine biosynthesis		2E54
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_04745	COG0078	E	Ornithine carbamoyltransferase	ArgF	Arginine biosynthesis		1A1S
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_04750	COG1281	O	Redox-regulated molecular chaperone, HSP33 family	HslO			1HW7
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_04755	COG1473	R	Metal-dependent amidase/aminoacylase/carboxypeptidase	AbgB	Lysine biosynthesis	17307853	3RAM
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_04760	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_04765	COG1033	R	Predicted exporter protein, RND superfamily	MMPL			5KHN
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_04770	COG0168	P	Trk-type K+ transport system, membrane component	TrkG			3PJZ
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_04775	COG0780	J	NADPH-dependent 7-cyano-7-deazaguanine reductase QueF, C-terminal domain, T-fold superfamily	QueFC	tRNA modification	14660578;17384645	3BP1
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_04785	COG0520	E	Selenocysteine lyase/Cysteine desulfurase	CsdA			4LW2
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_04790	COG5014	R	Uncharacterized conserved protein TM0948, MoaA-related, radical SAM superfamily	TM0948			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_04795	COG2348	M	Lipid II:glycine glycyltransferase (Peptidoglycan interpeptide bridge formation enzyme)	FmhB			1LRZ
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_04810	COG4206	H	Outer membrane cobalamin receptor protein BtuB	BtuB			1NQE
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_04820	COG1004	M	UDP-glucose 6-dehydrogenase	Ugd			1DLI
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_04825	COG1207	M	Bifunctional protein GlmU, N-acetylglucosamine-1-phosphate-uridyltransferase/glucosamine-1-phosphate-acetyltransferase	GlmU			3FWW
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_04830	COG0166	G	Glucose-6-phosphate isomerase	Pgi	Glycolysis		1B0Z
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_04840	COG0589	T	Nucleotide-binding universal stress protein,  UspA family	UspA			1JMV
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_04845	COG3671	S	Uncharacterized membrane protein				
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_04860	COG1508	K	DNA-directed RNA polymerase specialized sigma subunit, sigma54 homolog	RpoN	RNA polymerase		5BYH
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_04875	COG1342	R	Predicted DNA-binding protein, UPF0251 family				
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_04880	COG0028	EH	Acetolactate synthase large subunit or other thiamine pyrophosphate-requiring enzyme	IlvB	Isoleucine, leucine, valine biosynthesis		1BFD
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_04885	COG1014	C	Pyruvate:ferredoxin oxidoreductase or related 2-oxoacid:ferredoxin oxidoreductase, gamma subunit	PorG	Pyruvate oxidation		1B0P
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_04890	COG2005	K	DNA-binding transcriptional regulator ModE (molybdenum-dependent)	ModE		19779461	1B9M
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_04905	COG0534	V	Na+-driven multidrug efflux pump, DinF/NorM/MATE family	NorM		29915058	3VVN
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_04915	COG4143	H	ABC-type thiamine transport system, periplasmic component TbpA	TbpA			2QRY
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_04920	COG1646	I	Glycerol-1-phosphate heptaprenyltransferase	PcrB			1VIZ
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_04925	COG1396	K	Transcriptional regulator, contains XRE-family HTH domain	HipB			1ADR
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_04930	COG0815	M	Apolipoprotein N-acyltransferase	Lnt			6NWR
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_04935	COG0517	T	CBS domain	CBS			1B3O
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_04940	COG0319	J	ssRNA-specific RNase YbeY, 16S rRNA maturation enzyme	YbeY	16S rRNA modification	17407324;23543739	1XM5
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_04945	COG1702	T	Phosphate starvation-inducible protein PhoH, predicted ATPase	PhoH		8444794;12762842	3B85
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_04950	COG1032	R	Radical SAM superfamily enzyme YgiQ, UPF0313 family	YgiQ			6FD2
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_04970	COG0456	J	Ribosomal protein S18 acetylase RimI and related acetyltransferases	RimI			1GHE
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_04975	COG0533	J	tRNA A37 threonylcarbamoyltransferase TsaD	TsaD	tRNA modification	23072323;21285948;32385138	3ENO
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_04980	COG0778	C	Nitroreductase	NfnB	Pyrimidine degradation		1F5V
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_04985	COG0726	GM	Peptidoglycan/xylan/chitin deacetylase, PgdA/NodB/CDA1 family	CDA1			1NY1
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_05010	COG0180	J	Tryptophanyl-tRNA synthetase	TrpS	Aminoacyl-tRNA synthetases		3N9I
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_05015	COG2244	M	Membrane protein involved in the export of O-antigen and teichoic acid	RfbX			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_05020	COG2844	OT	UTP:GlnB (protein PII) uridylyltransferase	GlnD			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_05025	COG1193	L	dsDNA-specific endonuclease/ATPase MutS2	MutS2			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_05030	COG0281	C	Malic enzyme	SfcA	Urea cycle		1DO8
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_05055	COG1239	H	Mg-chelatase subunit ChlI	ChlI			1G8P
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_05060	COG3654	X	Prophage maintenance system killer protein	Doc			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_05080	COG2931	Q	Ca2+-binding protein, RTX toxin-related			15135544	1AF0
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_05095	COG2999	O	Glutaredoxin 2	GrxB			1G7O
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_05105	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_05115	COG1618	F	Nucleoside-triphosphatase THEP1	THEP1			1YE8
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_05120	COG0574	G	Phosphoenolpyruvate synthase/pyruvate phosphate dikinase	PpsA	Gluconeogenesis		5HV6
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_05125	COG0751	J	Glycyl-tRNA synthetase, beta subunit	GlyS	Aminoacyl-tRNA synthetases		
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_05130	COG0752	J	Glycyl-tRNA synthetase, alpha subunit	GlyQ	Aminoacyl-tRNA synthetases		1J5W
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_05135	COG1030	O	Membrane-bound serine protease NfeD, ClpP class	NfeD			2DEO
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_05140	COG2813	J	16S rRNA G1207 methylase RsmC	RsmC	16S rRNA modification		1DUS
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_05145	COG0142	H	Geranylgeranyl pyrophosphate synthase	IspA	Isoprenoid biosynthesis		2AZJ
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_05150	COG0491	R	Glyoxylase or a related metal-dependent hydrolase, beta-lactamase superfamily II	GloB		25670698	1QH3
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_05160	COG0379	H	Quinolinate synthase	NadA	NAD biosynthesis	24498065	4HHE
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_05165	COG0036	G	Pentose-5-phosphate-3-epimerase	Rpe	Pentose phosphate pathway		1H1Y
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_05170	COG0520	E	Selenocysteine lyase/Cysteine desulfurase	CsdA			4LW2
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_05180	COG3965	P	Predicted Co/Zn/Cd cation transporter, cation efflux family				
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_05185	COG3871	S	General stress protein 26 (function unknown)	YzzA			2I02
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_05190	COG4520	M	Surface antigen	LipA17			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_05195	COG0484	O	DnaJ-class molecular chaperone with C-terminal Zn finger domain	DnaJ			1BQ0
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_05205	COG4221	C	NADP-dependent 3-hydroxy acid dehydrogenase YdfG	YdfG	Pyrimidine degradation		3P19
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_05210	COG0082	E	Chorismate synthase	AroC	Aromatic amino acid biosynthesis		1Q1L
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_05215	COG4123	J	tRNA1(Val) A37 N6-methylase TrmN6	TrmN6	tRNA modification		
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_05220	COG2263	R	Predicted RNA methylase				6H2U
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_05225	COG0021	G	Transketolase	TktA	Pentose phosphate pathway		1AY0
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_05230	COG0142	H	Geranylgeranyl pyrophosphate synthase	IspA	Isoprenoid biosynthesis		2AZJ
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_05235	COG1722	L	Exonuclease VII small subunit	XseB			1VP7
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_05240	COG0123	Q	Acetoin utilization deacetylase AcuC or a related deacetylase	AcuC			1C3P
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_05245	COG1541	H	Phenylacetate-coenzyme A ligase PaaK, adenylate-forming domain family	PaaK			2Y4O
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_05250	COG4274	S	Uncharacterized conserved protein, contains GYD domain				
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_05255	COG0068	O	Hydrogenase maturation factor HypF (carbamoyltransferase)	HypF			3TSP
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_05265	COG1647	Q	Esterase/lipase	YvaK			4DIU
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_05270	COG0494	V	8-oxo-dGTP pyrophosphatase MutT and related house-cleaning NTP pyrophosphohydrolases, NUDIX family	MutT			4V14
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_05285	COG0730	P	Sulfite exporter TauE/SafE/YfcA and related permeases, UPF0721 family	TauE		21183667;22797525	
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_05290	COG3022	L	DNA-binding protein YaaA associated with the oxidative stress response	YaaA		21378183;32796037	5CAJ
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_05300	COG3278	C	Cbb3-type cytochrome oxidase, subunit 1	CcoN			3MK7
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_05305	COG2993	C	Cbb3-type cytochrome oxidase, cytochrome c subunit FixO	CcoO			3MK7
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_05315	COG2010	C	Cytochrome c, mono- and diheme variants	CccA			1A2S
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_05320	COG1143	C	Formate hydrogenlyase subunit 6/NADH:ubiquinone oxidoreductase 23 kD subunit (chain I)	NuoI	NADH dehydrogenase		1B0P
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_05330	COG2217	P	Cation-transporting P-type ATPase	ZntA			4BBJ
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_05335	COG3197	O	Cytochrome oxidase maturation protein, CcoS/FixS family	FixS			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_05340	COG0534	V	Na+-driven multidrug efflux pump, DinF/NorM/MATE family	NorM		29915058	3VVN
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_05355	COG2766	T	Predicted Ser/Thr protein kinase	PrkA			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_05365	COG2719	D	Stage V sporulation protein SpoVR/YcgB, involved in spore cortex formation (function unknown)	SpoVR			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_05370	COG0520	E	Selenocysteine lyase/Cysteine desulfurase	CsdA			4LW2
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_05375	COG2020	O	Protein-S-isoprenylcysteine O-methyltransferase Ste14	STE14			5V7P
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_05395	COG1309	K	DNA-binding protein, AcrR family, includes nucleoid occlusion protein SlmA	AcrR			2QOP
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_05400	COG0733	R	Na+-dependent transporter, SNF family	YocR			2A65
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_05410	COG1047	O	Peptidyl-prolyl cis-trans isomerase, FKBP type	SlpA			2M2A
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_05420	COG4520	M	Surface antigen	LipA17			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_05425	COG2205	T	K+-sensing histidine kinase KdpD	KdpD			2KSF
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_05430	COG0784	T	CheY-like REC (receiver) domain, includes chemotaxis protein CheY  and sporulation regulator Spo0F	CheY			6QRJ
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_05440	COG2072	P	Predicted flavoprotein CzcO associated with the cation diffusion facilitator CzcD	CzcO			4USQ
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_05455	COG3264	M	Small-conductance mechanosensitive channel MscK	MscK			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_05465	COG5653	N	Acetyltransferase involved in cellulose biosynthesis, CelD/BcsL family	BcsL			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_05470	COG3964	R	Predicted amidohydrolase				2OGJ
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_05475	COG0404	E	Glycine cleavage system protein T (aminomethyltransferase)	GcvT	Glycine cleavage	25433025;25505271	2GAH
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_05480	COG2818	L	3-methyladenine DNA glycosylase Tag	Tag			1LMZ
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_05490	COG0772	D	Peptodoglycan polymerase FtsW/RodA/SpoVE	FtsW		30692671	6BAR
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_05495	COG5009	M	Membrane carboxypeptidase/penicillin-binding protein	MrcA			3D0F
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_05510	COG0443	O	Molecular chaperone DnaK (HSP70)	DnaK			3I33
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_05515	COG0119	E	Isopropylmalate/homocitrate/citramalate synthases	LeuA	Isoleucine, leucine, valine biosynthesis		4JN6
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_05525	COG2315	K	Predicted DNA-binding protein with double-wing structural motif, MmcQ/YjbR family	MmcQ		17266124	2A1V
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_05530	COG0059	EH	Ketol-acid reductoisomerase	IlvC	Isoleucine, leucine, valine biosynthesis		1NP3
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_05540	COG0028	EH	Acetolactate synthase large subunit or other thiamine pyrophosphate-requiring enzyme	IlvB	Isoleucine, leucine, valine biosynthesis		1BFD
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_05545	COG3896	V	Chloramphenicol 3-O-phosphotransferase				1GRQ
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_05550	COG1778	MR	3-deoxy-D-manno-octulosonate 8-phosphate phosphatase KdsC and related HAD superfamily phosphatases	KdsC			3I6B
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_05555	COG0793	O	C-terminal processing protease CtpA/Prc, contains a PDZ domain	CtpA			6IQU
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_05565	COG2268	S	Uncharacterized membrane protein YqiK, contains Band7/PHB/SPFH domain	YqiK			1WIN
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_05570	COG2268	S	Uncharacterized membrane protein YqiK, contains Band7/PHB/SPFH domain	YqiK			1WIN
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_05575	COG0455	DN	MinD-like ATPase FlhG/YlxH, activator of the FlhF-type GTPase	FlhG			1G3Q
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_05580	COG1042	C	Acyl-CoA synthetase (NDP forming)	PatZN		26251518	4YAK
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_05600	COG1592	C	Rubrerythrin	YotD			1B71
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_05610	COG3852	T	Signal transduction histidine kinase NtrB, nitrogen specific	NtrB		23893111	
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_05620	COG0207	F	Thymidylate synthase	ThyA	Thymidylate biosynthesis		1AN5
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_05635	COG1951	C	Tartrate dehydratase alpha subunit/Fumarate hydratase class I, N-terminal domain	TtdA	TCA cycle	15613473	5L2R
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_05640	COG4321	R	Predicted DNA-binding protein, contains ribbon-helix-helix (RHH) domain				3KK4
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_05645	COG3164	S	Uncharacterized conserved protein YhdP, contains DUF3971 and AsmA2 domains	YhdR			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_05650	COG0824	I	Acyl-CoA thioesterase FadM	FadM	Menaquinone biosynthesis		2FUJ
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_05655	COG1357	S	Uncharacterized conserved protein YjbI, contains pentapeptide repeats	YjbI			2BM4
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_05660	COG0517	T	CBS domain	CBS			1B3O
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_05665	COG0210	L	Superfamily I DNA or RNA helicase	UvrD			6PPR
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_05670	COG4123	J	tRNA1(Val) A37 N6-methylase TrmN6	TrmN6	tRNA modification		
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_05680	COG0272	L	NAD-dependent DNA ligase	Lig			5TT5
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_05685	COG0497	L	DNA repair ATPase RecN	RecN			4AD8
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_05690	COG1729	D	Cell division protein CpoB, coordinates peptidoglycan biosynthesis and outer membrane constriction	CpoB		25951518	2WZ7
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_05695	COG0206	D	Cell division GTPase FtsZ	FtsZ			1FSZ
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_05700	COG4820	E	Ethanolamine utilization protein EutJ, possible chaperonin	EutJ			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_05710	COG1181	MR	D-alanine-D-alanine ligase or related ATP-grasp enzyme	DdlA	Mureine biosynthesis		1E4E
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_05715	COG0812	M	UDP-N-acetylenolpyruvoylglucosamine reductase	MurB	Mureine biosynthesis		2MBR
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_05720	COG0773	M	UDP-N-acetylmuramate-alanine ligase MurC and related ligases, MurC/Mpl family	MurC	Mureine biosynthesis		
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_05725	COG1819	G	UDP:flavonoid glycosyltransferase YjiC, YdhE family	YjiC		23974133	2ACV
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_05730	COG0772	D	Peptodoglycan polymerase FtsW/RodA/SpoVE	FtsW		30692671	6BAR
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_05735	COG0472	M	UDP-N-acetylmuramyl pentapeptide phosphotransferase/UDP-N-acetylglucosamine-1-phosphate transferase	Rfe	Mureine biosynthesis		4J72
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_05740	COG0771	M	UDP-N-acetylmuramoylalanine-D-glutamate ligase	MurD	Mureine biosynthesis		1E0D
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_05745	COG0771	M	UDP-N-acetylmuramoylalanine-D-glutamate ligase	MurD	Mureine biosynthesis		1E0D
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_05750	COG0768	DM	Cell division protein FtsI, peptidoglycan transpeptidase (Penicillin-binding protein 2)	FtsI			6HZQ
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_05755	COG5462	S	Predicted secreted (periplasmic) protein				
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_05760	COG0275	J	16S rRNA C1402 N4-methylase RsmH	RmsH	16S rRNA modification		1M6Y
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_05770	COG0512	EH	Anthranilate/para-aminobenzoate synthase component II (glutamine amidotransferase)	PabA	Aromatic amino acid biosynthesis		1I1Q
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_05775	COG0231	J	Translation elongation factor P (EF-P)/translation initiation factor 5A (eIF-5A)	Efp	Translation factors		1UEB
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_05780	COG0483	G	Archaeal fructose-1,6-bisphosphatase or related enzyme, inositol monophosphatase family	SuhB	Gluconeogenesis		1AWB
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_05790	COG1538	M	Outer membrane protein TolC	TolC			1EK9
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_05795	COG2885	M	Outer membrane protein OmpA and related peptidoglycan-associated (lipo)proteins	OmpA			1OAP
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_05800	COG1134	G	ABC-type polysaccharide/polyol phosphate transport system, ATPase component	TagH			6JBH
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_05805	COG0254	J	Ribosomal protein L31	RpmE	Ribosome 50S subunit		1VS6
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_05810	COG5317	S	Uncharacterized conserved protein, DUF1465 domain				3CTW
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_05830	COG1062	C	Zn-dependent alcohol/formaldehyde dehydrogenase	FrmA			1A71
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_05840	COG1674	D	DNA segregation ATPase FtsK/SpoIIIE or related protein	FtsK			2IUT
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_05845	COG1011	H	FMN and 5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YigB, HAD superfamily (riboflavin biosynthesis)	YigB		24123841	4JB3
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_05850	COG0469	G	Pyruvate kinase	PykF	Glycolysis		6QXL
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_05855	COG3741	E	N-formylglutamate amidohydrolase	HutG			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_05860	COG3750	S	Uncharacterized conserved protein, UPF0335 family				6CFY
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_05865	COG4566	TK	DNA-binding response regulator, FixJ family, consists of REC and HTH domains	FixJ			1YIO
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_05870	COG1164	E	Oligoendopeptidase F	PepF			3CE2
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_05875	COG3288	C	NAD/NADP transhydrogenase alpha subunit	PntA			1F8G
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_05885	COG1282	C	NAD/NADP transhydrogenase beta subunit	PntB			1D4O
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_05890	COG0596	HR	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold	MenH	Menaquinone biosynthesis		4MYS
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_05895	COG0828	J	Ribosomal protein S21	RpsU	Ribosome 30S subunit		4V4H
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_05900	COG0242	J	Peptide deformylase	Def			1BS4
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_05910	COG0458	EF	Carbamoylphosphate synthase large subunit	CarB	Arginine biosynthesis		1C30
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_05915	COG1691	F	NCAIR mutase (PurE)-related protein				
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_05920	COG3706	TK	Two-component response regulator, PleD family, consists of two REC domains and a diguanylate cyclase (GGDEF) domain	PleD			1W25
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_05930	COG5589	S	Uncharacterized conserved protein, DUF2390 domain				
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_05960	COG0783	PV	DNA-binding ferritin-like protein (oxidative damage protectant)	Dps			1DPS
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_05975	COG2204	T	DNA-binding transcriptional response regulator, NtrC family, contains REC, AAA-type ATPase, and a Fis-type DNA-binding domains	AtoC			1ZY2
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_05995	COG1062	C	Zn-dependent alcohol/formaldehyde dehydrogenase	FrmA			1A71
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_06000	COG4108	J	Peptide chain release factor RF-3	PrfC	Translation factors		3UOQ
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_06005	COG0579	G	L-2-hydroxyglutarate oxidase LhgO	LhgO			3DME
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_06010	COG1218	P	3'-Phosphoadenosine 5'-phosphosulfate (PAPS) 3'-phosphatase	CysQ			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_06015	COG0596	HR	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold	MenH	Menaquinone biosynthesis		4MYS
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_06025	COG0678	O	Peroxiredoxin	AHP1			1H4O
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_06030	COG0446	I	NADPH-dependent 2,4-dienoyl-CoA reductase, sulfur reductase, or a related oxidoreductase	FadH2			1VRQ
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_06035	COG2005	K	DNA-binding transcriptional regulator ModE (molybdenum-dependent)	ModE		19779461	1B9M
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_06040	COG0399	M	dTDP-4-amino-4,6-dideoxygalactose transaminase	WecE		15271350	4PIW
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_06045	COG0513	L	Superfamily II DNA and RNA helicase	SrmB			3RRM
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_06050	COG0530	P	Ca2+/Na+ antiporter	ECM27			3V5S
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_06055	COG0300	R	Short-chain dehydrogenase	YqjQ			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_06060	COG1539	H	Dihydroneopterin aldolase	FolB	Folate biosynthesis		1B9L
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_06065	COG0322	L	Excinuclease UvrABC, nuclease subunit	UvrC		24513124	2NRT
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_06075	COG1977	H	Molybdopterin synthase sulfur carrier subunit MoaD	MoaD	Molybdopterin biosynthesis	32239579	1FM0
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_06080	COG0314	H	Molybdopterin synthase catalytic subunit MoaE	MoaE	Molybdopterin biosynthesis	32239579	1FM0
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_06095	COG3211	R	Secreted phosphatase, PhoX family	PhoX			3ZWU
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_06105	COG1846	K	DNA-binding transcriptional regulator, MarR family	MarR			1JGS
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_06110	COG0345	E	Pyrroline-5-carboxylate reductase	ProC	Proline biosynthesis	22125496;26507882	3GT0
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_06125	COG0682	M	Prolipoprotein diacylglyceryltransferase	Lgt			5AZB
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_06130	COG1565	R	SAM-dependent methyltransferase, MidA family	MidA			1ZKD
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_06135	COG1496	P	Copper oxidase (laccase) domain	YfiH			1RV9
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_06140	COG0462	F	Phosphoribosylpyrophosphate synthetase	PrsA	Histidine biosynthesis, Purine biosynthesis		1DKR
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_06150	COG0193	J	Peptidyl-tRNA hydrolase	Pth	Translation factors	11835511	1RYB
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_06155	COG0536	DL	GTPase involved in cell partioning and DNA repair	Obg			1LNZ
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_06160	COG0461	F	Orotate phosphoribosyltransferase	PyrE	Pyrimidine biosynthesis		4WML
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_06165	COG2099	H	Precorrin-6x reductase	CobK	Cobalamine/B12 biosynthesis		4X7G
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_06170	COG2857	C	Cytochrome c1	CYT1			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_06175	COG1290	C	Cytochrome b subunit of the bc complex	QcrB/PetB			1VF5
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_06180	COG4544	S	Uncharacterized conserved protein				
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_06185	COG0566	J	tRNA G18 (ribose-2'-O)-methylase SpoU	SpoU	tRNA modification		1GZ0
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_06200	COG0617	J	tRNA nucleotidyltransferase/poly(A) polymerase	PcnB	tRNA modification		3WFR
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_06210	COG0494	V	8-oxo-dGTP pyrophosphatase MutT and related house-cleaning NTP pyrophosphohydrolases, NUDIX family	MutT			4V14
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_06220	COG1246	E	N-acetylglutamate synthase or related acetyltransferase, GNAT family	ArgA	Arginine biosynthesis		2R98
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_06235	COG1251	C	NAD(P)H-nitrite reductase, large subunit	NirB			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_06245	COG0459	O	Chaperonin GroEL (HSP60 family)	GroEL			1AON
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_06255	COG3199	F	NAD kinase				
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_06260	COG5447	S	Uncharacterized conserved protein, DUF1491 domain				2KNR
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_06265	COG2807	P	Cyanate permease	CynX			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_06270	COG1309	K	DNA-binding protein, AcrR family, includes nucleoid occlusion protein SlmA	AcrR			2QOP
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_06275	COG1497	K	Predicted transcriptional regulator MJ0558, contains a CRP-type HTH domain	MJ0558			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_06295	COG2113	E	ABC-type proline/glycine betaine transport system, periplasmic component	ProX			1R9L
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_06305	COG1089	M	GDP-D-mannose dehydratase	Gmd			1DB3
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_06310	COG1434	M	Lipid carrier protein ElyC involved in cell wall biogenesis, DUF218 family	ElyC		24391520	3CA8
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_06315	COG2084	I	3-hydroxyisobutyrate dehydrogenase or related beta-hydroxyacid dehydrogenase	MmsB			1I36
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_06325	COG1596	M	Periplasmic protein Wza involved in polysaccharide export, contains SLBB domain of the beta-grasp fold	Wza		17250770	2J58
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_06330	COG0083	E	Homoserine kinase	ThrB	Threonine biosynthesis		1FWK
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_06335	COG0457	R	Tetratricopeptide (TPR) repeat	TPR			3AS4
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_06340	COG1053	C	Succinate dehydrogenase/fumarate reductase, flavoprotein subunit	SdhA	TCA cycle		1KF6
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_06350	COG4623	MT	Membrane-bound lytic murein transglycosylase MltF	MltF			4OWD
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_06355	COG1058	L	ADP-ribose pyrophosphatase domain of DNA damage- and competence-inducible protein CinA	CinA		25313401	4CT9
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_06360	COG3222	S	Uncharacterized conserved protein, glycosyltransferase A (GT-A) superfamily, DUF2064 family				3CGX
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_06365	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_06370	COG1039	L	Ribonuclease HIII	RnhC			2D0A
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_06375	COG4123	J	tRNA1(Val) A37 N6-methylase TrmN6	TrmN6	tRNA modification		
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_06385	COG0177	L	Endonuclease III	Nth			4UOB
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_06390	COG5389	S	Uncharacterized conserved protein, DUF721 domain				
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_06395	COG3917	Q	2-hydroxychromene-2-carboxylate isomerase	NahD			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_06400	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_06410	COG0356	C	FoF1-type ATP synthase, membrane subunit a	AtpB	FoF1-type ATP synthase	22931285	
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_06415	COG0636	C	FoF1-type ATP synthase, membrane subunit c/Archaeal/vacuolar-type H+-ATPase, subunit K	AtpE	FoF1-type ATP synthase		1C17
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_06420	COG0711	C	FoF1-type ATP synthase, membrane subunit b or b'	AtpF	FoF1-type ATP synthase		1B9U
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_06425	COG0711	C	FoF1-type ATP synthase, membrane subunit b or b'	AtpF	FoF1-type ATP synthase		1B9U
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_06440	COG2346	P	Truncated hemoglobin YjbI	YjbI			1DLW
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_06445	COG3840	H	ABC-type thiamine transport system, ATPase component ThiQ	ThiQ			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_06450	COG0403	E	Glycine cleavage system protein P (pyridoxal-binding), N-terminal domain	GcvP1	Glycine cleavage		4LGL
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_06455	COG0403	E	Glycine cleavage system protein P (pyridoxal-binding), N-terminal domain	GcvP1	Glycine cleavage		4LGL
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_06460	COG0508	C	Pyruvate/2-oxoglutarate dehydrogenase complex, dihydrolipoamide acyltransferase (E2) component	AceF	Pyruvate oxidation		1B5S
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_06465	COG0354	O	Folate-binding protein YgfZ, synthesis and repair of Fe-S clusters	YgfZ		27941785;22081392	1NRK
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_06475	COG0761	I	4-Hydroxy-3-methylbut-2-enyl diphosphate reductase IspH	IspH	Isoprenoid biosynthesis		3DNF
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_06480	COG3173	R	Predicted  kinase, aminoglycoside phosphotransferase (APT) family	YcbJ			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_06485	COG0328	L	Ribonuclease HI	RnhA			1LAW
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_06500	COG0826	J	23S rRNA C2501 and tRNA U34 5'-hydroxylation protein RlhA/YrrN/YrrO, U32 peptidase family	RlhA	23S rRNA modification	31253794;31358606	5D88
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_06510	COG0450	V	Alkyl hydroperoxide reductase subunit AhpC (peroxiredoxin)	AhpC			2RII
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_06520	COG1678	K	Putative transcriptional regulator, AlgH/UPF0301 family	AlgH			2AJ2
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_06525	COG1025	O	Secreted/periplasmic Zn-dependent peptidases, insulinase-like	Ptr			1Q2L
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_06530	COG0498	E	Threonine synthase	ThrC	Threonine biosynthesis		1VB3
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_06535	COG3346	O	Cytochrome oxidase assembly protein ShyY1	Shy1			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_06540	COG5349	S	Uncharacterized conserved protein, DUF983 family				
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_06545	COG1845	C	Heme/copper-type cytochrome/quinol oxidase, subunit 3	CyoC			1QLE
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_06560	COG0382	H	4-hydroxybenzoate polyprenyltransferase	UbiA	Ubiquinone biosynthesis	28830929	4OD4
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_06565	COG0843	C	Heme/copper-type cytochrome/quinol oxidase, subunit 1	CyoB			1AR1
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_06570	COG4263	P	Nitrous oxide reductase	NosZ			1FWX
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_06575	COG0312	R	Zn-dependent protease PmbA/TldA or its inactivated homolog	TldD		12029038	3TV9
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_06580	COG3572	H	Gamma-glutamylcysteine synthetase	Gsh2			2GWD
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_06590	COG1385	J	16S rRNA U1498 N3-methylase RsmE	RsmE	16S rRNA modification		1NXZ
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_06595	COG0109	HI	Polyprenyltransferase (heme O synthase)	CyoE			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_06615	COG0043	H	3-polyprenyl-4-hydroxybenzoate decarboxylase	UbiD	Ubiquinone biosynthesis	28057757	2IDB
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_06620	COG1846	K	DNA-binding transcriptional regulator, MarR family	MarR			1JGS
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_06625	COG0312	R	Zn-dependent protease PmbA/TldA or its inactivated homolog	TldD		12029038	3TV9
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_06630	COG0483	G	Archaeal fructose-1,6-bisphosphatase or related enzyme, inositol monophosphatase family	SuhB	Gluconeogenesis		1AWB
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_06645	COG4942	D	Septal ring factor EnvC, activator of murein hydrolases AmiA and AmiB	EnvC			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_06650	COG3908	S	Uncharacterized conserved protein, DUF2093 domain				
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_06655	COG1570	L	Exonuclease VII, large subunit	XseA			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_06660	COG0439	I	Biotin carboxylase	AccC	Fatty acid biosynthesis		1BNC
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_06670	COG0117	H	Riboflavin biosynthesis protein RibD, pyrimidine deaminase domain	RibD1	Riboflavin/FAD biosynthesis		2O7P
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_06675	COG0564	J	Pseudouridine synthase RluA, 23S rRNA- or tRNA-specific	RluA	23S rRNA modification		2I82
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_06680	COG1092	J	23S rRNA G2069 N7-methylase RlmK or C1962 C5-methylase RlmI	RlmK	23S rRNA modification		2B78
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_06690	COG0323	L	DNA mismatch repair ATPase MutL	MutL			1B62
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_06700	COG0612	R	Predicted Zn-dependent peptidase, M16 family	PqqL			6OFS
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_06705	COG1025	O	Secreted/periplasmic Zn-dependent peptidases, insulinase-like	Ptr			1Q2L
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_06720	COG0143	J	Methionyl-tRNA synthetase	MetG	Aminoacyl-tRNA synthetases		1A8H
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_06725	COG0196	H	FAD synthase	RibF	Riboflavin/FAD biosynthesis		1MRZ
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_06735	COG0784	T	CheY-like REC (receiver) domain, includes chemotaxis protein CheY  and sporulation regulator Spo0F	CheY			6QRJ
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_06740	COG3143	NT	Phosphoaspartate phosphatase CheZ, dephosphorylates CheY~P	CheZ			1KMI
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_06745	COG2179	R	Predicted phosphohydrolase YqeG, HAD superfamily	YqeG			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_06750	COG4943	T	Redox-sensing c-di-GMP phosphodiesterase, contains CSS-motif and EAL domains	YjcC		29514851	
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_06765	COG0848	U	Biopolymer transport protein ExbD	ExbD			2JWK
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_06775	COG1291	N	Flagellar motor component MotA	MotA			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_06780	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_06795	COG3512
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_06805	COG3513	V	CRISPR-Cas system type-II protein Cas9	Cas9	CRISPR-Cas system		4OGC
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_06820	COG1495	O	Disulfide bond formation protein DsbB	DsbB			2LTQ
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_06850	COG1884	I	Methylmalonyl-CoA mutase, N-terminal domain/subunit	Sbm			6OXC
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_06855	COG1062	C	Zn-dependent alcohol/formaldehyde dehydrogenase	FrmA			1A71
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_06870	COG2096	H	Cob(II)alamin adenosyltransferase	PduO	Cobalamine/B12 biosynthesis		1NOG
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_06875	COG2025	C	Electron transfer flavoprotein, alpha subunit FixB	FixB			1EFP
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_06880	COG2025	C	Electron transfer flavoprotein, alpha subunit FixB	FixB			1EFP
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_06885	COG2084	I	3-hydroxyisobutyrate dehydrogenase or related beta-hydroxyacid dehydrogenase	MmsB			1I36
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_06910	COG0596	HR	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold	MenH	Menaquinone biosynthesis		4MYS
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_06915	COG0304	IQ	3-oxoacyl-(acyl-carrier-protein) synthase	FabB	Fatty acid biosynthesis	21652641	2UV8
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_06920	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_06925	COG2226	H	Ubiquinone/menaquinone biosynthesis C-methylase UbiE/MenG	UbiE	Biotin biosynthesis		4OBW
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_06930	COG2226	H	Ubiquinone/menaquinone biosynthesis C-methylase UbiE/MenG	UbiE	Biotin biosynthesis		4OBW
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_06935	COG2021	E	Homoserine O-acetyltransferase	MET2	Methionine biosynthesis		2VAT
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_06940	COG1605	E	Chorismate mutase	PheA	Aromatic amino acid biosynthesis		1ECM
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_06945	COG1167	KE	DNA-binding transcriptional regulator, MocR family, contains an aminotransferase domain	ARO8	Lysine biosynthesis		2R2N
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_06950	COG1052	CHR	Lactate dehydrogenase or related 2-hydroxyacid dehydrogenase	LdhA	Pyridoxal phosphate biosynthesis		1DXY
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_06955	COG4093	S	Uncharacterized conserved protein, DUF2125 domain				
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_06980	COG1119	P	ABC-type molybdenum transport system, ATPase component ModF/photorepair protein PhrA	ModF			2IHY
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_06990	COG2236	H	Hypoxanthine phosphoribosyltransferase	Hpt1	Purine salvage		2JKZ
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_06995	COG2204	T	DNA-binding transcriptional response regulator, NtrC family, contains REC, AAA-type ATPase, and a Fis-type DNA-binding domains	AtoC			1ZY2
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_07005	COG0019	E	Diaminopimelate decarboxylase	LysA	Lysine biosynthesis		1D7K
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_07015	COG0165	E	Argininosuccinate lyase	ArgH	Arginine biosynthesis		1AOS
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_07020	COG0526	O	Thiol-disulfide isomerase or thioredoxin	TrxA			1XFL
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_07025	COG4206	H	Outer membrane cobalamin receptor protein BtuB	BtuB			1NQE
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_07030	COG0589	T	Nucleotide-binding universal stress protein,  UspA family	UspA			1JMV
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_07040	COG2345	K	Predicted transcriptional regulator, ArsR family				
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_07045	COG0261	J	Ribosomal protein L21	RplU	Ribosome 50S subunit		1VS6
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_07050	COG0211	J	Ribosomal protein L27	RpmA	Ribosome 50S subunit		1VS6
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_07060	COG1163	J	Ribosome-interacting GTPase RBG1	Rbg1			4A9A
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_07065	COG0548	E	N-acetylglutamate kinase	ArgB	Arginine biosynthesis		3S6G
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_07070	COG1012	I	Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase	AdhE	Proline degradation		1A4S
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_07075	COG1057	H	Nicotinate-nucleotide adenylyltransferase NadD	NadD	NAD biosynthesis		1YUM
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_07080	COG1576	J	23S rRNA pseudoU1915 N3-methylase RlmH	RlmH	23S rRNA modification		1NS5
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_07085	COG0696	G	Phosphoglycerate mutase (BPG-independent), AlkP superfamily	GpmI	Glycolysis		1EJJ
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_07090	COG0739	M	Murein DD-endopeptidase MepM and murein hydrolase activator NlpD, contains LysM domain	NlpD			2GU1
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_07095	COG0265	O	Periplasmic serine protease, S1-C subfamily, contain C-terminal PDZ domain	DegQ		29686141	2HGA
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_07105	COG0625	O	Glutathione S-transferase	GstA			1A0F
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_07110	COG0494	V	8-oxo-dGTP pyrophosphatase MutT and related house-cleaning NTP pyrophosphohydrolases, NUDIX family	MutT			4V14
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_07135	COG0240	C	Glycerol-3-phosphate dehydrogenase	GpsA	Isoprenoid biosynthesis		1EVY
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_07155	COG0055	C	FoF1-type ATP synthase, beta subunit	AtpD	FoF1-type ATP synthase		3OAA
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_07160	COG0224	C	FoF1-type ATP synthase, gamma subunit	AtpG	FoF1-type ATP synthase	15326535	3OAA
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_07165	COG0056	C	FoF1-type ATP synthase, alpha subunit	AtpA	FoF1-type ATP synthase		3OAA
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_07170	COG0712	C	FoF1-type ATP synthase, delta subunit	AtpH	FoF1-type ATP synthase		1ABV
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_07175	COG1198	L	Primosomal protein N' (replication factor Y) - superfamily II helicase	PriA			6DCR
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_07180	COG0176	G	Transaldolase/fructose-6-phosphate aldolase	TalA	Pentose phosphate pathway		1F05
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_07185	COG3159	S	Uncharacterized conserved protein YigA, DUF484 family	YigA			3E98
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_07190	COG0582	LX	Integrase/recombinase, includes phage integrase	FimB			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_07195	COG0415	L	Deoxyribodipyrimidine photolyase	PhrB			1TEZ
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_07200	COG0492	O	Thioredoxin reductase	TrxB			3FBS
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_07205	COG0508	C	Pyruvate/2-oxoglutarate dehydrogenase complex, dihydrolipoamide acyltransferase (E2) component	AceF	Pyruvate oxidation		1B5S
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_07210	COG1071	C	TPP-dependent pyruvate or acetoin dehydrogenase subunit alpha	AcoA	Pyruvate oxidation		1DTW
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_07215	COG1042	C	Acyl-CoA synthetase (NDP forming)	PatZN		26251518	4YAK
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_07220	COG0045	C	Succinyl-CoA synthetase, beta subunit	SucC	TCA cycle		1SCU
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_07225	COG1250	I	3-hydroxyacyl-CoA dehydrogenase	FadB	Fatty acid biosynthesis		5ZQZ
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_07230	COG1485	D	Cell division protein ZapE (Z ring-associated ATPase), AFG1 superfamily	ZapE			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_07240	COG0247	C	Fe-S cluster-containing oxidoreductase, includes glycolate oxidase subunit GlcF	GlpC			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_07245	COG1053	C	Succinate dehydrogenase/fumarate reductase, flavoprotein subunit	SdhA	TCA cycle		1KF6
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_07250	COG2142	C	Succinate dehydrogenase, hydrophobic anchor subunit	SdhD			2WS3
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_07255	COG2009	C	Succinate dehydrogenase/fumarate reductase, cytochrome b subunit	SdhC		18511537	2WU2
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_07260	COG2030	I	Acyl-CoA dehydratase PaaZ	MaoC			5ZY8
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_07265	COG2301	G	Citrate lyase beta subunit	CitE			4ROQ
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_07270	COG0002	E	N-acetyl-gamma-glutamylphosphate reductase	ArgC	Arginine biosynthesis		3DR3
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_07275	COG0473	CE	Isocitrate/isopropylmalate dehydrogenase	LeuB	TCA cycle		1GC9
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_07280	COG1048	C	Aconitase A	AcnA	Lysine biosynthesisTCA cycle		1ACO
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_07285	COG1049	C	Aconitase B	AcnB	TCA cycle		1L5J
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_07295	COG0336	J	tRNA G37 N-methylase TrmD	TrmD	tRNA modification		1P9P
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_07310	COG0541	U	Signal recognition particle GTPase	Ffh			2V3C
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_07320	COG1055	P	Na+/H+ antiporter NhaD or related arsenite permease	ArsB			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_07335	COG1032	R	Radical SAM superfamily enzyme YgiQ, UPF0313 family	YgiQ			6FD2
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_07340	COG1419	N	Flagellar biosynthesis GTPase FlhF	FlhF			3SYN
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_07350	COG4185	R	Predicted ABC-type ATPase or kinase				
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_07360	COG1051	F	ADP-ribose pyrophosphatase YjhB, NUDIX family	YjhB			3GZ5
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_07370	COG4235	CO	Cytochrome c-type biogenesis protein CcmH/NrfG	NrfG			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_07380	COG0526	O	Thiol-disulfide isomerase or thioredoxin	TrxA			1XFL
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_07385	COG1138	CO	Cytochrome c biogenesis protein CcmF	CcmF			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_07390	COG2332	CO	Cytochrome c biogenesis protein CcmE	CcmE			1J6Q
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_07405	COG2386	O	ABC-type transport system involved in cytochrome c biogenesis, permease component	CcmB			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_07410	COG1121	P	ABC-type Mn2+/Zn2+ transport system, ATPase component	ZnuC			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_07415	COG4770	I	Acetyl/propionyl-CoA carboxylase, alpha subunit	PccA			3U9S
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_07425	COG1049	C	Aconitase B	AcnB	TCA cycle		1L5J
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_07430	COG1246	E	N-acetylglutamate synthase or related acetyltransferase, GNAT family	ArgA	Arginine biosynthesis		2R98
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_07440	COG0326	O	Molecular chaperone, HSP90 family	HtpG		30150682	1Y4S
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_07470	COG3182	S	PepSY-associated TM region	PiuB		15124630	
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_07480	COG3746	P	Phosphate-selective porin	OprP			2O4V
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_07490	COG0288	P	Carbonic anhydrase	CynT		22081392	1EKJ
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_07495	COG0223	J	Methionyl-tRNA formyltransferase	Fmt			1FMT
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_07500	COG0147	EH	Anthranilate/para-aminobenzoate synthases component I	TrpE	Aromatic amino acid biosynthesis		1I1Q
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_07505	COG0790	R	TPR repeat	TPR			1KLX
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_07510	COG1149	R	MinD superfamily P-loop ATPase, contains an inserted ferredoxin domain				
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_07520	COG5010	UW	Flp pilus assembly protein TadD, contains TPR repeats	TadD			3WXX
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_07530	COG4668	G	Mannitol/fructose-specific phosphotransferase system, IIA domain	MtlA2			1A3A
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_07540	COG1508	K	DNA-directed RNA polymerase specialized sigma subunit, sigma54 homolog	RpoN	RNA polymerase		5BYH
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_07545	COG4586	R	ABC-type uncharacterized transport system, ATPase component				
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_07550	COG1934	M	Lipopolysaccharide export system protein LptA	LptA			2R19
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_07555	COG5375	S	Uncharacterized conserved protein				
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_07560	COG0749	L	DNA polymerase I, 3'-5' exonuclease and polymerase domains	PolA			1D8Y
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_07590	COG3108	S	Uncharacterized conserved protein YcbK, DUF882 family	YcbK			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_07620	COG3941	X	Phage tail tape-measure protein, controls tail length	HI1514			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_07645	COG5614	X	Phage head-tail adaptor				2Y3D
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_07725	COG1396	K	Transcriptional regulator, contains XRE-family HTH domain	HipB			1ADR
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_07780	COG1041	J	tRNA G10 N-methylase Trm11	Trm11	tRNA modification		5E71
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_07790	COG4570	L	Holliday junction resolvase RusA (prophage-encoded endonuclease)	RusA			1Q8R
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_07805	COG1396	K	Transcriptional regulator, contains XRE-family HTH domain	HipB			1ADR
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_07810	COG0847	L	DNA polymerase III, epsilon subunit or related 3'-5' exonuclease	DnaQ			1J53
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_07840	COG5321	S	Uncharacterized conserved protein				3DNX
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_07855	COG0582	LX	Integrase/recombinase, includes phage integrase	FimB			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_07865	COG1091	M	dTDP-4-dehydrorhamnose reductase	RfbD			1KBZ
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_07870	COG1968	I	Undecaprenyl pyrophosphate phosphatase	UppP			5OON
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_07880	COG2999	O	Glutaredoxin 2	GrxB			1G7O
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_07885	COG1600	J	Epoxyqueuosine reductase QueG (queuosine biosynthesis)	QueG	tRNA modification	2150253	5D08
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_07890	COG4235	CO	Cytochrome c-type biogenesis protein CcmH/NrfG	NrfG			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_07900	COG0451	M	Nucleoside-diphosphate-sugar epimerase	WcaG			2X4G
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_07910	COG5265	O	ABC-type transport system involved in Fe-S cluster assembly, permease and ATPase components	ATM1			4MRN
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_07915	COG4171	V	ABC-type antimicrobial peptide export system, permease component SapC	SapC			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_07920	COG4168	V	ABC-type antimicrobial peptide export system, permease component SapB	SapB			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_07925	COG4533	K	DNA-binding transcriptional regulator SgrR of sgrS sRNA, contains a MarR-type HTH domain and a periplasmic-type solute-binding domain	SgrR			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_07930	COG2010	C	Cytochrome c, mono- and diheme variants	CccA			1A2S
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_07935	COG0077	E	Prephenate dehydratase	PheA2	Aromatic amino acid biosynthesis		1PHZ
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_07940	COG0494	V	8-oxo-dGTP pyrophosphatase MutT and related house-cleaning NTP pyrophosphohydrolases, NUDIX family	MutT			4V14
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_07945	COG0746	H	Molybdopterin-guanine dinucleotide biosynthesis protein A	MobA	Molybdopterin biosynthesis	32239579	1E5K
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_07950	COG0560	E	Phosphoserine phosphatase	SerB	Serine biosynthesis		3N28
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_07960	COG2812	L	DNA polymerase III, gamma/tau subunits	DnaX			1A5T
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_07970	COG0353	L	Recombinational DNA repair protein RecR	RecR		26337406	2JGR
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_07990	COG1579	R	Predicted nucleic acid-binding protein DR0291, contains C4-type Zn-ribbon domain	DR0291			4ILO
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_07995	COG0242	J	Peptide deformylase	Def			1BS4
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_08000	COG0299	F	Folate-dependent phosphoribosylglycinamide formyltransferase PurN	PurN	Purine biosynthesis	25013077	1C2T
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_08005	COG0101	J	tRNA U38,U39,U40 pseudouridine synthase TruA	TruA	tRNA modification		1DJ0
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_08015	COG1473	R	Metal-dependent amidase/aminoacylase/carboxypeptidase	AbgB	Lysine biosynthesis	17307853	3RAM
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_08020	COG1044	M	UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase	LpxD	Lipid A biosynthesis		6P83
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_08025	COG0241	E	Histidinol phosphatase/D-glycero-mannoheptose bisphosphatephosphatase, HAD superfamily	HisB1/GmhB	Histidine biosynthesis	20050615;20050614	2GMW
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_08030	COG2203	T	GAF domain	GAF			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_08035	COG5330	S	Uncharacterized conserved protein, DUF2336 family				
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_08040	COG1608	I	Isopentenyl phosphate kinase			16621811	3LKK
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_08045	COG1161	J	Ribosome biogenesis GTPase RbgA	RbgA			6G14
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_08050	COG0706	M	Membrane protein insertase Oxa1/YidC/SpoIIIJ	YidC			3WO6
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_08065	COG0230	J	Ribosomal protein L34	RpmH	Ribosome 50S subunit		6SPB
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_08075	COG0446	I	NADPH-dependent 2,4-dienoyl-CoA reductase, sulfur reductase, or a related oxidoreductase	FadH2			1VRQ
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_08080	COG3852	T	Signal transduction histidine kinase NtrB, nitrogen specific	NtrB		23893111	
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_08085	COG2894	D	Septum site-determining ATPase MinD	MinD			4V02
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_08090	COG0405	E	Gamma-glutamyltranspeptidase	Ggt		16618936	2Z8I
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_08145	COG0666	T	Ankyrin repeat	ANKYR			6AUN
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_08150	COG2452	X	Predicted site-specific integrase-resolvase				3ILX
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_08160	COG0863	L	DNA modification methylase	YhdJ			1BOO
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_08165	COG0210	L	Superfamily I DNA or RNA helicase	UvrD			6PPR
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_08180	COG0433	L	Archaeal DNA helicase HerA or a related bacterial ATPase, contains HAS-barrel and ATPase domains	HerA			4D2I
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_08190	COG4734	V	Antirestriction protein ArdA	ArdA			2W82
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_08205	COG1961	L	Site-specific DNA recombinase SpoIVCA/DNA invertase PinE	SpoIVCA			1GDT
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_08230	COG1674	D	DNA segregation ATPase FtsK/SpoIIIE or related protein	FtsK			2IUT
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_08240	COG5635	T	Predicted NTPase, NACHT family domain	NACHT			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_08245	COG0515	T	Serine/threonine protein kinase	SPS1			6G4J
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_08260	COG3193	T	Heme-binding protein HbpS, GlcG/HbpS family	GlcG		19244623;25342754	2A2L
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_08265	COG0589	T	Nucleotide-binding universal stress protein,  UspA family	UspA			1JMV
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_08275	COG0845	MV	Multidrug efflux pump subunit AcrA (membrane-fusion protein)	AcrA			1T5E
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_08280	COG4591	M	ABC-type transport system involved in lipoprotein release, permease component LolC	LolE			6F49
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_08285	COG4133	O	ABC-type transport system involved in cytochrome c biogenesis, ATPase component	CcmA			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_08290	COG0605	P	Superoxide dismutase	SodA			1AP5
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_08295	COG0365	I	Acyl-coenzyme A synthetase/AMP-(fatty) acid ligase	Acs		14638756	4B2O
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_08305	COG4145	H	Na+/panthothenate symporter	PanF			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_08315	COG4191	T	Signal transduction histidine kinase regulating C4-dicarboxylate transport system				4GCZ
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_08320	COG4566	TK	DNA-binding response regulator, FixJ family, consists of REC and HTH domains	FixJ			1YIO
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_08325	COG0365	I	Acyl-coenzyme A synthetase/AMP-(fatty) acid ligase	Acs		14638756	4B2O
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_08340	COG0730	P	Sulfite exporter TauE/SafE/YfcA and related permeases, UPF0721 family	TauE		21183667;22797525	
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_08345	COG1703	O	GTPase of the G3E family (not a periplasmic protein kinase)	ArgK		18950999	2QM7
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_08360	COG0717	F	dCTP deaminase	Dcd	Thymidylate biosynthesis		1XS1
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_08365	COG0128	E	5-enolpyruvylshikimate-3-phosphate synthase	AroA	Aromatic amino acid biosynthesis		4N3P
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_08375	COG0040	E	ATP phosphoribosyltransferase	HisG	Histidine biosynthesis		1H3D
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_08380	COG0141	E	Histidinol dehydrogenase	HisD	Histidine biosynthesis		1K75
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_08390	COG4551	R	Predicted protein tyrosine phosphatase				
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_08400	COG0424	Q	7-methyl-GTP pyrophosphatase and related NTP pyrophosphatases, Maf/HAM1 superfamily	Maf		24210219	2P5X
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_08405	COG1530	J	Ribonuclease G or E	CafA			1SLJ
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_08415	COG3852	T	Signal transduction histidine kinase NtrB, nitrogen specific	NtrB		23893111	
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_08420	COG4566	TK	DNA-binding response regulator, FixJ family, consists of REC and HTH domains	FixJ			1YIO
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_08430	COG1113	E	L-asparagine transporter or related permease	AnsP			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_08435	COG2982	M	Uncharacterized conserved protein AsmA involved in outer membrane biogenesis	AsmA			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_08445	COG3108	S	Uncharacterized conserved protein YcbK, DUF882 family	YcbK			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_08460	COG0640	K	DNA-binding transcriptional regulator, ArsR family	ArsR			3F6V
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_08465	COG5016	C	Pyruvate/oxaloacetate carboxyltransferase	OadA1	Urea cycle	18681940	2NX9
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_08475	COG0679	R	Predicted permease, AEC (auxin efflux carrier) family	YfdV			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_08480	COG0679	R	Predicted permease, AEC (auxin efflux carrier) family	YfdV			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_08490	COG0484	O	DnaJ-class molecular chaperone with C-terminal Zn finger domain	DnaJ			1BQ0
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_08495	COG5271	J	Midasin, AAA ATPase with  vWA domain, involved in ribosome maturation	MDN1			6HYP
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_08510	COG4222	S	Uncharacterized conserved protein, contains a phytase-like domain				
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_08515	COG0227	J	Ribosomal protein L28	RpmB	Ribosome 50S subunit		2JZ6
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_08520	COG0378	O	Hydrogenase/urease maturation factor HypB, Ni2+-binding GTPase	HypB		24338018;23899293	2HF8
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_08530	COG2233	F	Xanthine/uracil permease	UraA	Pyrimidine degradation		3QE7
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_08535	COG1884	I	Methylmalonyl-CoA mutase, N-terminal domain/subunit	Sbm			6OXC
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_08540	COG0346	Q	Catechol 2,3-dioxygenase or related enzyme, vicinal oxygen chelate (VOC) family	GloA		11830595	3R4Q
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_08545	COG3064	M	Membrane protein TolA involved in colicin uptake	TolA			1S62
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_08550	COG1188	J	Ribosomal 50S subunit-recycling heat shock protein, contains S4 domain	HslR			3BBU
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_08560	COG4103	P	Tellurite resistance protein TerB	TerB2		23044854	2JXU
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_08565	COG1146	F	NAD-dependent dihydropyrimidine dehydrogenase, PreA subunit	PreA			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_08570	COG1197	LK	Transcription-repair coupling factor (superfamily II helicase)	Mfd			2EYQ
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_08585	COG1525	L	Endonuclease YncB, thermonuclease family	YncB			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_08595	COG1073	T	Fermentation-respiration switch esterase FrsA, DUF1100 family	FrsA			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_08605	COG3004	CP	Na+/H+ antiporter NhaA	NhaA		25746996	1ZCD
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_08610	COG1225	O	Peroxiredoxin	Bcp			5IPH
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_08615	COG1063	ER	Threonine dehydrogenase or related Zn-dependent dehydrogenase	Tdh	Non-phosphorylated Entner-Doudoroff pathway		4A2C
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_08620	COG4567	TK	DNA-binding response regulator, ActR/RegA family, consists of REC and Fis-type HTH domains				3RQI
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_08625	COG0024	J	Methionine aminopeptidase	Map			3J2I
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_08630	COG0161	H	Adenosylmethionine-8-amino-7-oxononanoate aminotransferase	BioA	Biotin biosynthesis		1MLY
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_08635	COG1060	H	2-iminoacetate synthase ThiH/Menaquinone biosynthesis enzymes MqnC and MqnE	ThiH	Thiamine biosynthesis	18801996	4WCX
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_08640	COG1167	KE	DNA-binding transcriptional regulator, MocR family, contains an aminotransferase domain	ARO8	Lysine biosynthesis		2R2N
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_08655	COG4232	O	Thiol:disulfide interchange protein DsbD	DsbD			1JPE
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_08665	COG0730	P	Sulfite exporter TauE/SafE/YfcA and related permeases, UPF0721 family	TauE		21183667;22797525	
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_08670	COG0789	K	DNA-binding transcriptional regulator, MerR family	SoxR			2VZ4
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_08680	COG3321	Q	Acyl transferase domain in polyketide synthase (PKS) enzymes	PksD			6IYO
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_08685	COG0287	E	Prephenate dehydrogenase	TyrA	Aromatic amino acid biosynthesis		2F1K
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_08700	COG0432	H	Thiamin phosphate synthase YjbQ, UPF0047 family	YjbQ			1VE0
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_08705	COG1064	G	D-arabinose 1-dehydrogenase, Zn-dependent alcohol dehydrogenase family	AdhP			5O8Q
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_08720	COG4136	R	ABC-type uncharacterized transport system YnjBCD, ATPase component	YnjD			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_08735	COG2866	M	Murein tripeptide amidase MpaA	MpaA			1ARL
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_08740	COG0778	C	Nitroreductase	NfnB	Pyrimidine degradation		1F5V
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_08745	COG3442	R	Glutamine amidotransferase related to the GATase domain of CobQ				5N9M
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_08760	COG0447	H	1,4-Dihydroxy-2-naphthoyl-CoA synthase	MenB	Menaquinone biosynthesis		4ELS
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_08765	COG1846	K	DNA-binding transcriptional regulator, MarR family	MarR			1JGS
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_08770	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_08775	COG1902	C	2,4-dienoyl-CoA reductase or related NADH-dependent reductase, Old Yellow Enzyme (OYE) family	FadH			1BWK
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_08780	COG0251	V	Enamine deaminase RidA, house cleaning of reactive enamine intermediates, YjgF/YER057c/UK114 family	RidA	Pyrimidine degradation	22094463;32205462	1J7H
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_08785	COG3836	G	2-keto-3-deoxy-L-rhamnonate aldolase RhmA	HpcH			1DXE
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_08790	COG2188	K	DNA-binding transcriptional regulator, GntR family	MngR			2WV0
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_08795	COG0436	E	Aspartate/methionine/tyrosine aminotransferase	AspB	Isoleucine, leucine, valine biosynthesis		2O0R
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_08805	COG3243	I	Poly-beta-hydroxybutyrate synthase	PhaC			5XAV
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_08810	COG4221	C	NADP-dependent 3-hydroxy acid dehydrogenase YdfG	YdfG	Pyrimidine degradation		3P19
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_08820	COG3426	C	Butyrate kinase	Buk			1SAZ
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_08825	COG2148	M	Sugar transferase involved in LPS biosynthesis (colanic, teichoic acid)	WcaJ			5W7L
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_08835	COG1199	L	Rad3-related DNA helicase DinG	DinG			5H8W
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_08840	COG0412	Q	Dienelactone hydrolase	DLH			4ZV9
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_08850	COG2146	PQ	Ferredoxin subunit of nitrite reductase or a ring-hydroxylating dioxygenase	NirD		23844911	1FQT
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_08855	COG2350	QR	YciI superfamily enzyme, includes 5-CHQ dehydrochlorinase, contains active-site pHis	YciI		15779043;23955343	1MWQ
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_08860	COG1893	H	Ketopantoate reductase	PanE	Pantothenate/CoA biosynthesis		1BG6
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_08865	COG1309	K	DNA-binding protein, AcrR family, includes nucleoid occlusion protein SlmA	AcrR			2QOP
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_08870	COG0533	J	tRNA A37 threonylcarbamoyltransferase TsaD	TsaD	tRNA modification	23072323;21285948;32385138	3ENO
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_08875	COG0181	H	Porphobilinogen deaminase	HemC	Heme biosynthesis		1AH5
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_08880	COG1587	H	Uroporphyrinogen-III synthase	HemD	Heme biosynthesis		1JR2
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_08885	COG4223	S	Uncharacterized conserved protein				
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_08890	COG3071	S	Uncharacterized protein HemY, contains HemY_N domain and TPR repeats (unrelated to protoporphyrinogen oxidase HemY)	HemYx			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_08905	COG1181	MR	D-alanine-D-alanine ligase or related ATP-grasp enzyme	DdlA	Mureine biosynthesis		1E4E
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_08920	COG0297	G	Glycogen synthase	GlgA			1RZU
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_08925	COG4181	Q	Predicted ABC-type transport system involved in lysophospholipase L1 biosynthesis, ATPase component	YbbA			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_08930	COG4606	P	ABC-type enterochelin transport system, permease component	CeuB			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_08935	COG0614	P	ABC-type Fe3+-hydroxamate transport system, periplasmic component	FepB			1ESZ
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_08950	COG3706	TK	Two-component response regulator, PleD family, consists of two REC domains and a diguanylate cyclase (GGDEF) domain	PleD			1W25
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_08955	COG1366	T	Anti-anti-sigma regulatory factor (antagonist of anti-sigma factor)	SpoIIAA			1AUZ
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_08965	COG1466	L	DNA polymerase III, delta subunit	HolA			3ZH9
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_08970	COG5468	S	Predicted lipoprotein involved in lipopolysaccharide assembly				
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_08975	COG0143	J	Methionyl-tRNA synthetase	MetG	Aminoacyl-tRNA synthetases		1A8H
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_08985	COG3203	M	Outer membrane porin OmpC/OmpF/PhoE	OmpC			1PHO
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_08990	COG0352	H	Thiamine monophosphate synthase	ThiE	Thiamine biosynthesis	19060138	1G4T
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_08995	COG0325	H	Pyridoxal 5'-phosphate homeostasis protein YggS, UPF0001 family	YggS		26872910	3SY1
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_09000	COG3034	M	Murein L,D-transpeptidase YafK	YafK			4XZZ
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_09005	COG0807	H	GTP cyclohydrolase II	RibA	Riboflavin/FAD biosynthesis		2BZ0
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_09010	COG2197	TK	DNA-binding response regulator, NarL/FixJ family, contains REC and HTH domains	CitB			1A04
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_09015	COG3568	R	Metal-dependent hydrolase, endonuclease/exonuclease/phosphatase family	ElsH		15178340	
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_09030	COG2834	M	Outer membrane lipoprotein-sorting protein	LolA			1IWL
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_09035	COG1674	D	DNA segregation ATPase FtsK/SpoIIIE or related protein	FtsK			2IUT
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_09040	COG0079	E	Histidinol-phosphate/aromatic aminotransferase or cobyric acid decarboxylase	HisC	Cobalamine/B12 biosynthesis		4R2N
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_09045	COG0004	P	Ammonia channel protein AmtB	AmtB			1U77
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_09050	COG0004	P	Ammonia channel protein AmtB	AmtB			1U77
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_09065	COG3536	S	Uncharacterized conserved protein, DUF971 family				2L6N
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_09070	COG2835	J	RNA methyltransferase activator Trm112/YbaR	Trm112		27986851;30010922	2KPI
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_09075	COG0466	O	ATP-dependent Lon protease, bacterial type	Lon			6ON2
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_09080	COG0526	O	Thiol-disulfide isomerase or thioredoxin	TrxA			1XFL
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_09095	COG1309	K	DNA-binding protein, AcrR family, includes nucleoid occlusion protein SlmA	AcrR			2QOP
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_09100	COG1600	J	Epoxyqueuosine reductase QueG (queuosine biosynthesis)	QueG	tRNA modification	2150253	5D08
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_09105	COG1309	K	DNA-binding protein, AcrR family, includes nucleoid occlusion protein SlmA	AcrR			2QOP
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_09110	COG1143	C	Formate hydrogenlyase subunit 6/NADH:ubiquinone oxidoreductase 23 kD subunit (chain I)	NuoI	NADH dehydrogenase		1B0P
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_09120	COG1600	J	Epoxyqueuosine reductase QueG (queuosine biosynthesis)	QueG	tRNA modification	2150253	5D08
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_09125	COG1309	K	DNA-binding protein, AcrR family, includes nucleoid occlusion protein SlmA	AcrR			2QOP
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_09130	COG4638	PR	Phenylpropionate dioxygenase or related ring-hydroxylating dioxygenase, large terminal subunit	HcaE			4QDC
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_09135	COG1309	K	DNA-binding protein, AcrR family, includes nucleoid occlusion protein SlmA	AcrR			2QOP
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_09165	COG5388	S	Uncharacterized conserved protein				
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_09170	COG2902	E	NAD-specific glutamate dehydrogenase	Gdh2			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_09175	COG0138	F	AICAR transformylase/IMP cyclohydrolase PurH	PurH	Purine biosynthesis		1G8M
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_09185	COG0269	G	3-keto-L-gulonate-6-phosphate decarboxylase	UlaD			3F4W
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_09190	COG1092	J	23S rRNA G2069 N7-methylase RlmK or C1962 C5-methylase RlmI	RlmK	23S rRNA modification		2B78
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_09195	COG4783	MO	Outer membrane protein chaperone/metalloprotease BepA/YfgC, contains M48 and TPR domains	BepA		24003122	6AIT
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_09205	COG3000	I	Sterol desaturase/sphingolipid hydroxylase, fatty acid hydroxylase superfamily	ERG3			4ZR0
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_09210	COG0406	G	Broad specificity phosphatase PhoE	PhoE			1EBB
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_09225	COG5133
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_09230	COG0075	EF	Archaeal aspartate aminotransferase or a related aminotransferase, includes purine catabolism protein PucG	PucG	Serine biosynthesis		3NNK
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_09235	COG0719	O	Fe-S cluster assembly scaffold protein SufB	SufB			1VH4
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_09240	COG1120	PH	ABC-type cobalamin/Fe3+-siderophores transport system, ATPase component	FepC			2NQ2
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_09245	COG0719	O	Fe-S cluster assembly scaffold protein SufB	SufB			1VH4
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_09260	COG0455	DN	MinD-like ATPase FlhG/YlxH, activator of the FlhF-type GTPase	FlhG			1G3Q
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_09265	COG0357	J	16S rRNA G527 N7-methylase RsmG (former glucose-inhibited division protein B)	RsmG	16S rRNA modification	15375115;22031445	1XDZ
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_09270	COG0445	J	tRNA U34 5-carboxymethylaminomethyl modifying enzyme MnmG/GidA	MnmG	tRNA modification		2ZXH
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_09275	COG1160	J	Double Era-like domain GTPase Der	Der			1MKY
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_09280	COG1905	C	NADH:ubiquinone oxidoreductase 24 kD subunit (chain E)	NuoE	NADH dehydrogenase		5XF9
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_09290	COG3695	K	Alkylated DNA nucleotide flippase Atl1, participates in nucleotide excision repair, Ada-like DNA-binding domain	Atl1		19516334	2KIF
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_09295	COG1157	NU	Flagellar biosynthesis/type III secretory pathway ATPase FliI	FliI			5B0O
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_09300	COG1981	H	Protoporphyrinogen oxidase HemJ (unrelated to HemG or HemY)	HemJ		20823222;21642412;25108393;29925590	
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_09305	COG0276	H	Protoheme ferro-lyase (ferrochelatase)	HemH	Heme biosynthesis		1AK1
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_09310	COG0407	H	Uroporphyrinogen-III decarboxylase HemE	HemE	Heme biosynthesis		2DG5
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_09320	COG0424	Q	7-methyl-GTP pyrophosphatase and related NTP pyrophosphatases, Maf/HAM1 superfamily	Maf		24210219	2P5X
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_09325	COG0373	H	Glutamyl-tRNA reductase	HemA	Heme biosynthesis		2XOE
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_09340	COG1952	U	Preprotein translocase subunit SecB	SecB			1OZB
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_09345	COG5563	S	Uncharacterized conserved protein CPn0794, contains PKD-like HAF repeats				
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_09365	COG2840	L	DNA-nicking endonuclease, Smr domain	SmrA		12730195	3QD7
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_09370	COG1396	K	Transcriptional regulator, contains XRE-family HTH domain	HipB			1ADR
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_09375	COG4536	P	Mg2+ and Co2+ transporter CorB, contains DUF21, CBS pair, and CorC-HlyC domains	CorB		1779764	
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_09380	COG0371	C	Glycerol dehydrogenase or related enzyme, iron-containing ADH family	GldA	Isoprenoid biosynthesis	20688982	3S99
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_09385	COG1102	F	Cytidylate kinase	CmkB			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_09395	COG0582	LX	Integrase/recombinase, includes phage integrase	FimB			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_09400	COG4799	I	Acetyl-CoA carboxylase, carboxyltransferase component	MmdA			1OD2
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_09415	COG3012	S	Uncharacterized conserved protein YchJ, contains N- and C-terminal SEC-C domains	YchJ			2I9W
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_09420	COG1364	E	Glutamate N-acetyltransferase (ornithine transacetylase)	ArgJ	Arginine biosynthesis		1VRA
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_09425	COG0494	V	8-oxo-dGTP pyrophosphatase MutT and related house-cleaning NTP pyrophosphohydrolases, NUDIX family	MutT			4V14
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_09435	COG4976	R	Predicted methyltransferase, contains TPR repeat				
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_09440	COG0462	F	Phosphoribosylpyrophosphate synthetase	PrsA	Histidine biosynthesis, Purine biosynthesis		1DKR
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_09445	COG0278	O	Glutaredoxin-related protein	GrxD			1YKA
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_09450	COG0815	M	Apolipoprotein N-acyltransferase	Lnt			6NWR
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_09460	COG2068	H	CTP:molybdopterin cytidylyltransferase MocA	MocA			2WAW
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_09470	COG1153	C	Formylmethanofuran dehydrogenase subunit D	FwdD			2KI8
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_09485	COG1526	C	Formate dehydrogenase assembly factor FdhD, a sulfurtransferase	FdhD			2PW9
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_09490	COG2230	I	Cyclopropane fatty-acyl-phospholipid synthase and related methyltransferases	Cfa			5Z9O
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_09495	COG0528	F	Uridylate kinase	PyrH	Pyrimidine biosynthesis		2BND
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_09500	COG2022	H	Thiazole synthase ThiGH, ThiG subunit (thiamin biosynthesis)	ThiG	Thiamine biosynthesis		1TYG
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_09505	COG3605	T	Signal transduction protein containing GAF and PtsI domains	PtsP			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_09510	COG1426	D	Cytoskeletal protein RodZ, contains Xre-like HTH and DUF4115 domains	RodZ			3FYM
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_09515	COG0821	I	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase IspG/GcpE	IspG	Isoprenoid biosynthesis		2Y0F
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_09520	COG0124	J	Histidyl-tRNA synthetase	HisS	Aminoacyl-tRNA synthetases		1KMM
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_09525	COG0216	J	Protein chain release factor RF1	PrfA	Translation factors		1RQ0
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_09530	COG4123	J	tRNA1(Val) A37 N6-methylase TrmN6	TrmN6	tRNA modification		
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_09540	COG5271	J	Midasin, AAA ATPase with  vWA domain, involved in ribosome maturation	MDN1			6HYP
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_09545	COG1520	M	Outer membrane protein assembly factor BamB, contains PQQ-like beta-propeller repeat	PQQ			6TJG
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_09550	COG4942	D	Septal ring factor EnvC, activator of murein hydrolases AmiA and AmiB	EnvC			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_09560	COG4615	P	ABC-type siderophore export system, fused ATPase and permease components	PvdE			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_09565	COG1119	P	ABC-type molybdenum transport system, ATPase component ModF/photorepair protein PhrA	ModF			2IHY
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_09570	COG1566	V	Multidrug resistance efflux pump EmrA	EmrA			4TKO
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_09575	COG0189	EHJQ	Glutathione synthase, LysX or RimK-type ligase, ATP-grasp superfamily	LysX	Lysine biosynthesis		1GLV
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_09585	COG1637	L	Endonuclease NucS, RecB family	NucS			2VLD
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_09590	COG0313	J	16S rRNA C1402 (ribose-2'-O) methylase RsmI	RsmI	16S rRNA modification	24078611	3KWP
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_09595	COG0683	E	ABC-type branched-chain amino acid transport system, periplasmic component	LivK			1USG
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_09600	COG1243	J	tRNA U34 5-carboxymethylaminomethylation enzyme Elp3 (RNA elongator complex protein 3), contains radical SAM and acetyltransferase domains	ELP3		25151136;27455459	6IA8
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_09605	COG0127	F	Inosine/xanthosine triphosphate pyrophosphatase, all-alpha NTP-PPase family	RdgB			1B78
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_09610	COG2123	U	Exosome complex RNA-binding protein Rrp42, RNase PH superfamily	Rrp42		23319881	4IFD
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_09615	COG1420	K	Transcriptional regulator of heat shock response	HrcA			1STZ
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_09620	COG0576	O	Molecular chaperone GrpE (heat shock protein HSP-70)	GrpE			1DKG
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_09630	COG5002	T	Sensor histidine kinase WalK	WalK			4I5S
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_09640	COG0443	O	Molecular chaperone DnaK (HSP70)	DnaK			3I33
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_09645	COG2214	K	Curved DNA-binding protein CbpA, contains a DnaJ-like domain	CbpA			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_09665	COG0289	E	4-hydroxy-tetrahydrodipicolinate reductase	DapB	Lysine biosynthesis	29684280	1ARZ
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_09675	COG2231	L	3-Methyladenine DNA glycosylase, HhH-GPD/Endo3 superfamily	HP0602		14517230;20410075	1PU6
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_09685	COG2981	EP	Sulfate transporter CysZ	CysZ		24657232	3TX3
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_09690	COG1105	G	1-phosphofructokinase or 6-phosphofructokinase II	FruK			2ABQ
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_09710	COG1411	R	Uncharacterized conserved protein related to proFAR isomerase (HisA)				
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_09715	COG1411	R	Uncharacterized conserved protein related to proFAR isomerase (HisA)				
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_09725	COG0518	F	GMP synthase, glutamine amidotransferase domain	GuaA1	Purine biosynthesis		4WIM
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_09735	COG0131	E	Imidazoleglycerol phosphate dehydratase HisB	HisB2	Histidine biosynthesis		1RHY
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_09740	COG0638	O	20S proteasome, alpha and beta subunits	PRE1			1FNT
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_09745	COG1220	O	ATP-dependent protease HslVU (ClpYQ), ATPase subunit HslU	HslU			1DO0
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_09760	COG0128	E	5-enolpyruvylshikimate-3-phosphate synthase	AroA	Aromatic amino acid biosynthesis		4N3P
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_09765	COG1102	F	Cytidylate kinase	CmkB			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_09770	COG2183	K	Transcriptional accessory protein Tex/SPT6	Tex			2OCE
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_09775	COG1030	O	Membrane-bound serine protease NfeD, ClpP class	NfeD			2DEO
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_09790	COG0269	G	3-keto-L-gulonate-6-phosphate decarboxylase	UlaD			3F4W
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_09795	COG0135	E	Phosphoribosylanthranilate isomerase	TrpF	Aromatic amino acid biosynthesis		1DL3
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_09800	COG0133	E	Tryptophan synthase beta chain	TrpB	Aromatic amino acid biosynthesis		2DH5
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_09805	COG0159	E	Tryptophan synthase alpha chain	TrpA	Aromatic amino acid biosynthesis		6HUL
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_09810	COG0777	I	Acetyl-CoA carboxylase beta subunit	AccD	Fatty acid biosynthesis		2F9I
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_09815	COG0769	M	UDP-N-acetylmuramyl tripeptide synthase	MurE	Mureine biosynthesis		1E8C
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_09820	COG0526	O	Thiol-disulfide isomerase or thioredoxin	TrxA			1XFL
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_09825	COG1074	L	3-5 helicase subunit RecB of the DNA repair enzyme RecBCD (exonuclease V)	RecB		29901759;30601118	3U44
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_09835	COG1207	M	Bifunctional protein GlmU, N-acetylglucosamine-1-phosphate-uridyltransferase/glucosamine-1-phosphate-acetyltransferase	GlmU			3FWW
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_09840	COG0802	J	tRNA A37 threonylcarbamoyladenosine biosynthesis protein TsaE	TsaE	tRNA modification		1FL9
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_09845	COG3852	T	Signal transduction histidine kinase NtrB, nitrogen specific	NtrB		23893111	
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_09850	COG0499	H	S-adenosylhomocysteine hydrolase	SAM1			1A7A
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_09855	COG1925	TG	HPr or related phosphotransfer protein	PtsH			1CM2
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_09860	COG2893	G	Phosphotransferase system, mannose/fructose-specific component IIA	ManX			1PDO
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_09870	COG3842	E	ABC-type Fe3+/spermidine/putrescine transport systems, ATPase component	PotA			1Z47
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_09875	COG3852	T	Signal transduction histidine kinase NtrB, nitrogen specific	NtrB		23893111	
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_09880	COG3437	T	Response regulator c-di-GMP phosphodiesterase, RpfG family, contains REC and HD-GYP domains	RpfG			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_09885	COG1866	C	Phosphoenolpyruvate carboxykinase, ATP-dependent	PckA	Gluconeogenesis		1AQ2
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_09890	COG1988	R	Membrane-bound metal-dependent hydrolase YbcI, DUF457 family	YbcI			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_09895	COG0484	O	DnaJ-class molecular chaperone with C-terminal Zn finger domain	DnaJ			1BQ0
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_09900	COG2814	G	Predicted arabinose efflux permease AraJ, MFS family	AraJ			4LDS
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_09905	COG3025	P	Inorganic triphosphatase YgiF, contains CYTH and CHAD domains	PPPi		22984449	5A60
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_09910	COG4963	UW	Flp pilus assembly ATPase CpaE/TadZ, contains N-terminal REC/TadZ_N domain	CpaE			4LDA
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_09915	COG3025	P	Inorganic triphosphatase YgiF, contains CYTH and CHAD domains	PPPi		22984449	5A60
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_09920	COG0494	V	8-oxo-dGTP pyrophosphatase MutT and related house-cleaning NTP pyrophosphohydrolases, NUDIX family	MutT			4V14
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_09925	COG2251	R	Predicted nuclease, RecB family				
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_09930	COG1396	K	Transcriptional regulator, contains XRE-family HTH domain	HipB			1ADR
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_09940	COG3016	R	Putative heme-binding protein PhuW	PhuW		16950397	2G5G
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_09945	COG2346	P	Truncated hemoglobin YjbI	YjbI			1DLW
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_09950	COG2166	O	Sulfur transfer protein SufE, Fe-S cluster assembly	SufE			1MZG
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_09955	COG0425	JHO	Sulfur carrier protein TusA (tRNA thiolation, molybdenum cofactor biosynthesis)	TusA		23894086	1DCJ
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_09960	COG3434	T	c-di-GMP phosphodiesterase YuxH/PdeH, contains EAL and HDOD domains	YuxH		23893111	
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_09965	COG1804	I	Crotonobetainyl-CoA:carnitine CoA-transferase CaiB and related acyl-CoA transferases	CaiB			1P5H
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_09970	COG0665	E	Glycine/D-amino acid oxidase (deaminating)	DadA			3AWI
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_09980	COG0633	C	Ferredoxin	Fdx			1KRH
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_09985	COG4097	P	Predicted ferric reductase				
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_10015	COG2761	O	Predicted dithiol-disulfide isomerase, DsbA/YjbH family (virulence, stress resistance)	FrnE			6GHB
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_10030	COG1033	R	Predicted exporter protein, RND superfamily	MMPL			5KHN
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_10035	COG4447	R	Uncharacterized conserved protein related to plant photosystem II stability/assembly factor				2XBG
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_10040	COG1221	KT	Transcriptional regulators containing an AAA-type ATPase domain and a DNA-binding domain	PspF			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_10045	COG2508	K	DNA-binding transcriptional regulator, PucR/PutR family	PucR		14990804	
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_10055	COG4774	P	Outer membrane receptor for monomeric catechols	Fiu			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_10060	COG0225	O	Peptide methionine sulfoxide reductase MsrA	MsrA			1FF3
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_10065	COG4989	R	Predicted oxidoreductase YdhF	YdhF			1UR3
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_10075	COG1808	S	Uncharacterized membrane protein AF0785, contains DUF389 domain	AF0785			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_10080	COG0229	O	Peptide methionine sulfoxide reductase MsrB	MsrB			1L1D
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_10095	COG4783	MO	Outer membrane protein chaperone/metalloprotease BepA/YfgC, contains M48 and TPR domains	BepA		24003122	6AIT
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_10105	COG0208	F	Ribonucleotide reductase beta subunit, ferritin-like domain	NrdB	Pyrimidine salvage		1AV8
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_10110	COG0209	F	Ribonucleotide reductase alpha subunit	NrdA	Pyrimidine salvage		1R1R
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_10115	COG1643	J	HrpA-like RNA helicase	HrpA			5N8R
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_10120	COG0069	E	Glutamate synthase domain 2	GltB2	Glutamine biosynthesis		1EA0
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_10125	COG1249	C	Dihydrolipoamide dehydrogenase (E3) component of pyruvate/2-oxoglutarate dehydrogenase complex or glutathione oxidoreductase	Lpd	Glycine cleavagePyruvate oxidation		6QKG
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_10140	COG3096	D	Chromosome condensin MukBEF, ATPase and DNA-binding subunit MukB	MukB			1QHL
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_10180	COG1713	TR	Diadenosine tetraphosphatase YqeK or a related HD superfamily phosphohydrolase	YqeK		32152217	2OGI
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_10185	COG3672	O	Predicted transglutaminase-like protein				4FGO
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_10200	COG0666	T	Ankyrin repeat	ANKYR			6AUN
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_10210	COG2983	R	Uncharacterized cysteine cluster protein YcgN, CxxCxxCC family	YcgN			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_10215	COG1451	R	UTP pyrophosphatase, metal-dependent hydrolase family	YgjP		27941785	4JIU
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_10220	COG0744	M	Penicillin-binding protein 1B/1F, peptidoglycan  transglycosylase/transpeptidase	MrcB			3FWL
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_10230	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_10235	COG0592	L	DNA polymerase III sliding clamp (beta) subunit, PCNA homolog	DnaN			1JQJ
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_10240	COG1484	L	DNA replication protein DnaC	DnaC			2QGZ
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_10245	COG0607	P	Rhodanese-related sulfurtransferase	PspE	Urea cycle		1TQ1
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_10250	COG0268	J	Ribosomal protein S20	RpsT	Ribosome 30S subunit		4V4H
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_10265	COG0266	L	Formamidopyrimidine-DNA glycosylase	Nei			1EE8
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_10270	COG0500	QR	SAM-dependent methyltransferase	SmtA			5DNK
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_10275	COG0478	T	RIO-like serine/threonine protein kinase fused to N-terminal HTH domain	RIO2			1TQI
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_10280	COG1036	C	Archaeal flavoprotein	AfpA			3WIS
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_10285	COG0717	F	dCTP deaminase	Dcd	Thymidylate biosynthesis		1XS1
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_10290	COG2524	K	Predicted transcriptional regulator, contains C-terminal CBS domains				
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_10295	COG1171	E	Threonine deaminase	IlvA	Isoleucine, leucine, valine biosynthesis		3IAU
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_10300	COG1748	E	Saccharopine dehydrogenase, NADP-dependent	Lys9	Lysine biosynthesis		1E5L
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_10305	COG1052	CHR	Lactate dehydrogenase or related 2-hydroxyacid dehydrogenase	LdhA	Pyridoxal phosphate biosynthesis		1DXY
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_10310	COG3103	R	Uncharacterized conserved protein YgiM, contains N-terminal SH3 domain, DUF1202 family	YgiM			2KQ8
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_10320	COG2070	R	NAD(P)H-dependent flavin oxidoreductase YrpB, nitropropane dioxygenase family	YrpB			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_10325	COG0539	J	Ribosomal protein S1	RpsA	Ribosome 30S subunit		4NNH
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_10335	COG0130	J	tRNA U55 pseudouridine synthase TruB, may also work on U342 of tmRNA	TruB	tRNA modification		1K8W
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_10345	COG0480	J	Translation elongation factor EF-G, a GTPase	FusA	Translation factors		1DAR
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_10350	COG2740	R	Nucleoid-associated protein YlxR, Predicted RNA-binding, DUF448 family	YlxR		11679764;31118925	1G2R
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_10360	COG0779	J	Ribosome maturation factor RimP	RimP			1IB8
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_10365	COG0220	J	tRNA G46 N7-methylase TrmB	TrmB	tRNA modification	19373903;16600901	1YZH
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_10375	COG0840	T	Methyl-accepting chemotaxis protein (MCP)	Tar			1QU7
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_10395	COG4704	S	Uncharacterized conserved protein, DUF2141 family				
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_10400	COG0297	G	Glycogen synthase	GlgA			1RZU
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_10415	COG0297	G	Glycogen synthase	GlgA			1RZU
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_10430	COG0638	O	20S proteasome, alpha and beta subunits	PRE1			1FNT
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_10445	COG2308	R	Circularly permuted ATP-grasp protein			20023723	3N6X
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_10450	COG1600	J	Epoxyqueuosine reductase QueG (queuosine biosynthesis)	QueG	tRNA modification	2150253	5D08
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_10455	COG1186	J	Protein chain release factor PrfB	PrfB	Translation factors		1GQE
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_10460	COG1137	M	ABC-type lipopolysaccharide export system, ATPase component	LptB		12029038	5L75
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_10465	COG4208	P	ABC-type sulfate transport system, permease component	CysW			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_10470	COG0725	P	ABC-type molybdate transport system, periplasmic Mo-binding protein ModA	ModA	Molybdopterin biosynthesis		1AMF
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_10475	COG1036	C	Archaeal flavoprotein	AfpA			3WIS
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_10480	COG2186	K	DNA-binding transcriptional regulator, FadR family	FadR			1E2X
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_10485	COG1181	MR	D-alanine-D-alanine ligase or related ATP-grasp enzyme	DdlA	Mureine biosynthesis		1E4E
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_10490	COG2266	H	GTP:adenosylcobinamide-phosphate guanylyltransferase		Cobalamine/B12 biosynthesis	16895922	2MZB
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_10495	COG0514	L	Superfamily II DNA helicase RecQ	RecQ			1OYW
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_10500	COG2346	P	Truncated hemoglobin YjbI	YjbI			1DLW
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_10505	COG1741	R	Redox-sensitive bicupin YhaK, pirin superfamily	YhaK		18561187	1J1L
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_10510	COG0435	C	Glutathionyl-hydroquinone reductase	ECM4			6GCA
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_10525	COG3917	Q	2-hydroxychromene-2-carboxylate isomerase	NahD			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_10530	COG2814	G	Predicted arabinose efflux permease AraJ, MFS family	AraJ			4LDS
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_10535	COG0397	O	Protein adenylyltransferase (AMPylase) SelO/YdiU (selenoprotein O)	SelO		30270044	6EAC
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_10555	COG0385	R	Predicted Na+-dependent transporter YfeH	YfeH		21175741	4N7X
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_10585	COG2994	O	ACP:hemolysin acyltransferase (hemolysin-activating protein)	HlyC		23319881	
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_10595	COG2382	P	Enterochelin esterase or related enzyme	Fes			2B20
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_10625	COG3550	T	Serine/threonine protein kinase HipA, toxin component of the HipAB toxin-antitoxin module	HipA			2WIU
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_10630	COG3620	K	Predicted transcriptional regulator, contains an XRE-type HTH domain (archaeal members contain CBS pair)	AF2118			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_10635	COG0789	K	DNA-binding transcriptional regulator, MerR family	SoxR			2VZ4
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_10645	COG2608	P	Copper chaperone CopZ	CopZ			1AFI
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_10650	COG1251	C	NAD(P)H-nitrite reductase, large subunit	NirB			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_10660	COG0532	J	Translation initiation factor IF-2, a GTPase	InfB	Translation factors		5ME0
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_10670	COG0690	U	Preprotein translocase subunit SecE	SecE		29684280	5MG3
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_10680	COG0080	J	Ribosomal protein L11	RplK	Ribosome 50S subunit		2E34
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_10685	COG0081	J	Ribosomal protein L1	RplA	Ribosome 50S subunit		3J65
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_10700	COG1293	JO	Ribosome quality control (RQC) protein RqcH, Rqc2/NEMF/Tae2 family, contains fibronectin-(FbpA) and RNA- (NFACT) binding domains	RqcH		31155236;24646681	5H3W
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_10710	COG0048	J	Ribosomal protein S12	RpsL	Ribosome 30S subunit		4V4H
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_10715	COG0049	J	Ribosomal protein S7	RpsG	Ribosome 30S subunit		4V4H
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_10720	COG5256	J	Translation elongation factor EF-1alpha (GTPase)	TEF1	Translation factors		1F60
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_10725	COG0050	J	Translation elongation factor EF-Tu, a GTPase	TufA	Translation factors		1EFU
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_10740	COG1541	H	Phenylacetate-coenzyme A ligase PaaK, adenylate-forming domain family	PaaK			2Y4O
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_10745	COG0840	T	Methyl-accepting chemotaxis protein (MCP)	Tar			1QU7
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_10750	COG0251	V	Enamine deaminase RidA, house cleaning of reactive enamine intermediates, YjgF/YER057c/UK114 family	RidA	Pyrimidine degradation	22094463;32205462	1J7H
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_10755	COG3384	Q	Aromatic ring-opening dioxygenase, catalytic subunit, LigB family	LigB		23258706	2PW6
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_10765	COG4753	TK	Two-component response regulator, YesN/AraC family, consists of REC and AraC-type DNA-binding domains	YesN			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_10770	COG4753	TK	Two-component response regulator, YesN/AraC family, consists of REC and AraC-type DNA-binding domains	YesN			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_10775	COG3485	Q	Protocatechuate 3,4-dioxygenase beta subunit	PcaH			1DLM
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_10780	COG2843	M	Poly-gamma-glutamate biosynthesis protein CapA/YwtB (capsule formation), metallophosphatase superfamily	CapA			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_10785	COG4638	PR	Phenylpropionate dioxygenase or related ring-hydroxylating dioxygenase, large terminal subunit	HcaE			4QDC
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_10790	COG5517	Q	3-phenylpropionate/cinnamic acid dioxygenase, small subunit	HcaF			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_10800	COG1062	C	Zn-dependent alcohol/formaldehyde dehydrogenase	FrmA			1A71
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_10810	COG0412	Q	Dienelactone hydrolase	DLH			4ZV9
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_10815	COG1506	E	Dipeptidyl aminopeptidase/acylaminoacyl peptidase	DAP2			2JBW
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_10820	COG1541	H	Phenylacetate-coenzyme A ligase PaaK, adenylate-forming domain family	PaaK			2Y4O
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_10840	COG1012	I	Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase	AdhE	Proline degradation		1A4S
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_10845	COG1012	I	Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase	AdhE	Proline degradation		1A4S
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_10855	COG1032	R	Radical SAM superfamily enzyme YgiQ, UPF0313 family	YgiQ			6FD2
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_10870	COG4977	K	Transcriptional regulator GlxA, contains an amidase domain and an AraC-type DNA-binding HTH domain	GlxA			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_10875	COG4773	P	Outer membrane receptor for ferric coprogen and ferric-rhodotorulic acid	FhuE			3EFM
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_10880	COG1414	K	DNA-binding transcriptional regulator, IclR family	IclR			1MKM
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_10890	COG0219	J	tRNA(Leu) C34 or U34 (ribose-2'-O)-methylase TrmL, contains SPOUT domain	TrmL	tRNA modification		4JAK
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_10905	COG0050	J	Translation elongation factor EF-Tu, a GTPase	TufA	Translation factors		1EFU
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_10920	COG0513	L	Superfamily II DNA and RNA helicase	SrmB			3RRM
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_10925	COG0124	J	Histidyl-tRNA synthetase	HisS	Aminoacyl-tRNA synthetases		1KMM
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_10955	COG0464	MDT	AAA+-type ATPase, SpoVK/Ycf46/Vps4 family	SpoVK			3SYL
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_10970	COG1961	L	Site-specific DNA recombinase SpoIVCA/DNA invertase PinE	SpoIVCA			1GDT
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_10975	COG4974	L	Site-specific recombinase XerD	XerD			1A0P
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_10980	COG3965	P	Predicted Co/Zn/Cd cation transporter, cation efflux family				
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_10985	COG0053	P	Divalent metal cation (Fe/Co/Zn/Cd) efflux pump	FieF			2QFI
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_10990	COG0841	V	Multidrug efflux pump subunit AcrB	AcrB			1IWG
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_10995	COG0845	MV	Multidrug efflux pump subunit AcrA (membrane-fusion protein)	AcrA			1T5E
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_11000	COG1538	M	Outer membrane protein TolC	TolC			1EK9
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_11010	COG2217	P	Cation-transporting P-type ATPase	ZntA			4BBJ
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_11015	COG1113	E	L-asparagine transporter or related permease	AnsP			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_11020	COG0789	K	DNA-binding transcriptional regulator, MerR family	SoxR			2VZ4
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_11025	COG4319	R	Ketosteroid isomerase homolog YybH	YybH			2GXF
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_11030	COG5569	P	Periplasmic Cu and Ag efflux protein CusF	CusF			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_11035	COG0841	V	Multidrug efflux pump subunit AcrB	AcrB			1IWG
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_11040	COG1566	V	Multidrug resistance efflux pump EmrA	EmrA			4TKO
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_11045	COG1538	M	Outer membrane protein TolC	TolC			1EK9
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_11055	COG1043	M	Acyl-[acyl carrier protein]--UDP-N-acetylglucosamine O-acyltransferase	LpxA	Lipid A biosynthesis		1J2Z
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_11065	COG4734	V	Antirestriction protein ArdA	ArdA			2W82
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_11070	COG4559	P	ABC-type hemin transport system, ATPase component				4G1U
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_11080	COG1061	KL	Superfamily II DNA or RNA helicase	SSL2			6JDE
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_11090	COG1002	V	Type II restriction/modification system, endonuclease and methylase domains	YeeA			5HR4
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_11095	COG2452	X	Predicted site-specific integrase-resolvase				3ILX
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_11110	COG4974	L	Site-specific recombinase XerD	XerD			1A0P
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_11115	COG2865	K	Predicted transcriptional regulator, contains HTH domain				3LMM
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_11120	COG0385	R	Predicted Na+-dependent transporter YfeH	YfeH		21175741	4N7X
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_11130	COG0346	Q	Catechol 2,3-dioxygenase or related enzyme, vicinal oxygen chelate (VOC) family	GloA		11830595	3R4Q
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_11135	COG0640	K	DNA-binding transcriptional regulator, ArsR family	ArsR			3F6V
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_11145	COG0446	I	NADPH-dependent 2,4-dienoyl-CoA reductase, sulfur reductase, or a related oxidoreductase	FadH2			1VRQ
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_11150	COG2608	P	Copper chaperone CopZ	CopZ			1AFI
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_11160	COG0789	K	DNA-binding transcriptional regulator, MerR family	SoxR			2VZ4
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_11175	COG3668	X	Plasmid stabilization system protein ParE	ParE			3KXE
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_11180	COG3609	K	Transcriptional regulator, contains Arc/MetJ-type RHH (ribbon-helix-helix) DNA-binding domain	ParD			3KXE
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_11205	COG2905	T	Signal-transduction protein containing cAMP-binding, CBS, and nucleotidyltransferase domains				
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_11215	COG4446	S	Uncharacterized conserved protein, DUF1499 family				
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_11220	COG4191	T	Signal transduction histidine kinase regulating C4-dicarboxylate transport system				4GCZ
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_11230	COG0769	M	UDP-N-acetylmuramyl tripeptide synthase	MurE	Mureine biosynthesis		1E8C
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_11240	COG0057	G	Glyceraldehyde-3-phosphate dehydrogenase/erythrose-4-phosphate dehydrogenase	GapA	Glycolysis		3ZDF
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_11250	COG1409	T	3',5'-cyclic AMP phosphodiesterase CpdA	CpdA			2ZO9
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_11255	COG0297	G	Glycogen synthase	GlgA			1RZU
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_11260	COG5388	S	Uncharacterized conserved protein				
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_11265	COG0175	EH	3'-phosphoadenosine 5'-phosphosulfate sulfotransferase (PAPS reductase)/FAD synthetase or related enzyme	CysD	Cysteine biosynthesis		1ZUN
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_11270	COG5257	J	Translation initiation factor 2, gamma subunit (eIF-2gamma; GTPase)	GCD11	Translation factors		1KJZ
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_11280	COG1647	Q	Esterase/lipase	YvaK			4DIU
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_11285	COG3384	Q	Aromatic ring-opening dioxygenase, catalytic subunit, LigB family	LigB		23258706	2PW6
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_11300	COG2207	K	AraC-type DNA-binding domain and AraC-containing proteins	AraC			1BL0
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_11305	COG3384	Q	Aromatic ring-opening dioxygenase, catalytic subunit, LigB family	LigB		23258706	2PW6
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_11315	COG1012	I	Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase	AdhE	Proline degradation		1A4S
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_11325	COG2761	O	Predicted dithiol-disulfide isomerase, DsbA/YjbH family (virulence, stress resistance)	FrnE			6GHB
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_11330	COG1635	GH	Thiazole synthase/Archaeal ribulose 1,5-bisphosphate synthetase	THI4		15375115	3FPZ
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_11335	COG2072	P	Predicted flavoprotein CzcO associated with the cation diffusion facilitator CzcD	CzcO			4USQ
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_11340	COG0596	HR	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold	MenH	Menaquinone biosynthesis		4MYS
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_11345	COG0346	Q	Catechol 2,3-dioxygenase or related enzyme, vicinal oxygen chelate (VOC) family	GloA		11830595	3R4Q
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_11350	COG2204	T	DNA-binding transcriptional response regulator, NtrC family, contains REC, AAA-type ATPase, and a Fis-type DNA-binding domains	AtoC			1ZY2
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_11355	COG2514	Q	Catechol-2,3-dioxygenase	CatE			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_11360	COG4097	P	Predicted ferric reductase				
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_11365	COG4771	P	Outer membrane receptor for ferrienterochelin and colicins	FepA		16468998	2HDF
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_11370	COG1600	J	Epoxyqueuosine reductase QueG (queuosine biosynthesis)	QueG	tRNA modification	2150253	5D08
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_11375	COG1600	J	Epoxyqueuosine reductase QueG (queuosine biosynthesis)	QueG	tRNA modification	2150253	5D08
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_11380	COG1600	J	Epoxyqueuosine reductase QueG (queuosine biosynthesis)	QueG	tRNA modification	2150253	5D08
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_11385	COG1600	J	Epoxyqueuosine reductase QueG (queuosine biosynthesis)	QueG	tRNA modification	2150253	5D08
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_11390	COG1600	J	Epoxyqueuosine reductase QueG (queuosine biosynthesis)	QueG	tRNA modification	2150253	5D08
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_11395	COG4977	K	Transcriptional regulator GlxA, contains an amidase domain and an AraC-type DNA-binding HTH domain	GlxA			
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_11405	COG3485	Q	Protocatechuate 3,4-dioxygenase beta subunit	PcaH			1DLM
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_11415	COG1979	C	Alcohol dehydrogenase YqhD, Fe-dependent ADH family	YqdH			1OJ7
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_11420	COG2057	I	Acyl-CoA:acetate/3-ketoacid CoA transferase, beta subunit	AtoA			5DBN
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_11430	COG1012	I	Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase	AdhE	Proline degradation		1A4S
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_11455	COG0553	KL	Superfamily II DNA or RNA helicase, SNF2 family	HepA			6UXV
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_11460	COG0863	L	DNA modification methylase	YhdJ			1BOO
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_11465	COG1061	KL	Superfamily II DNA or RNA helicase	SSL2			6JDE
+Kordiimonas_sp_NAT158	GCA_002700365.1	FLNHFB_11470	COG4559	P	ABC-type hemin transport system, ATPase component				4G1U

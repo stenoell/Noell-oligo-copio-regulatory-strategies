@@ -1,0 +1,1276 @@
+#prefix	assemid	query	COG	category	name	Gene	pathway	pmid	pdb_id
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_00020	COG1026	O	Zn-dependent peptidase, M16 (insulinase) family	Cym1			2FGE
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_00030	COG1121	P	ABC-type Mn2+/Zn2+ transport system, ATPase component	ZnuC			
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_00035	COG0159	E	Tryptophan synthase alpha chain	TrpA	Aromatic amino acid biosynthesis		6HUL
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_00040	COG1023	G	6-phosphogluconate dehydrogenase (decarboxylating)	YqeC			4E21
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_00045	COG0161	H	Adenosylmethionine-8-amino-7-oxononanoate aminotransferase	BioA	Biotin biosynthesis		1MLY
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_00050	COG0394	T	Protein-tyrosine-phosphatase	Wzb		26641313	4D74
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_00070	COG2133	G	Glucose/arabinose dehydrogenase, beta-propeller fold	YliI			1C9U
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_00075	COG0346	Q	Catechol 2,3-dioxygenase or related enzyme, vicinal oxygen chelate (VOC) family	GloA		11830595	3R4Q
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_00085	COG0075	EF	Archaeal aspartate aminotransferase or a related aminotransferase, includes purine catabolism protein PucG	PucG	Serine biosynthesis		3NNK
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_00090	COG3393	R	Predicted acetyltransferase, GNAT family				
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_00105	COG0658	U	DNA uptake channel protein ComEC, N-terminal domain	ComEC			
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_00110	COG1555	L	DNA uptake protein ComE or related DNA-binding protein	ComEA			2DUY
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_00120	COG0344	I	Phospholipid biosynthesis protein PlsY, probable glycerol-3-phosphate acyltransferase	PlsY		29684280	5XJ5
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_00140	COG2068	H	CTP:molybdopterin cytidylyltransferase MocA	MocA			2WAW
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_00150	COG2414	C	Aldehyde:ferredoxin oxidoreductase	YdhV			1AOR
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_00155	COG2140	G	Oxalate decarboxylase/archaeal phosphoglucose isomerase, cupin superfamily	OxdD	Glycolysis		2VQA
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_00170	COG3383	R	Predicted molibdopterin-dependent oxidoreductase YjgC	YjgC			1AA6
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_00175	COG0405	E	Gamma-glutamyltranspeptidase	Ggt		16618936	2Z8I
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_00185	COG1748	E	Saccharopine dehydrogenase, NADP-dependent	Lys9	Lysine biosynthesis		1E5L
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_00190	COG2140	G	Oxalate decarboxylase/archaeal phosphoglucose isomerase, cupin superfamily	OxdD	Glycolysis		2VQA
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_00200	COG0537	FR	Purine nucleoside phosphoramidase/Ap4A hydrolase, histidine triade (HIT) family	HinT		20934431	1AV5
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_00205	COG0303	H	Molybdopterin Mo-transferase (molybdopterin biosynthesis)	MoeA	Molybdopterin biosynthesis	18801996;32239579	2NQU
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_00215	COG3391	R	DNA-binding beta-propeller fold protein YncE	YncE		22120742;28628661	3VGZ
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_00230	COG0142	H	Geranylgeranyl pyrophosphate synthase	IspA	Isoprenoid biosynthesis		2AZJ
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_00235	COG2896	H	GTP 3',8-cyclase (molybdenum cofactor biosynthesis protein MoaA)	MoaA	Molybdopterin biosynthesis		1TV7
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_00245	COG0142	H	Geranylgeranyl pyrophosphate synthase	IspA	Isoprenoid biosynthesis		2AZJ
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_00250	COG2896	H	GTP 3',8-cyclase (molybdenum cofactor biosynthesis protein MoaA)	MoaA	Molybdopterin biosynthesis		1TV7
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_00260	COG1088	M	dTDP-D-glucose 4,6-dehydratase	RfbB			1G1A
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_00265	COG1657	I	Terpene cyclase SqhC	SqhC		21627333	1GSZ
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_00275	COG1562	I	Phytoene/squalene synthetase	ERG9			3WEK
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_00280	COG2084	I	3-hydroxyisobutyrate dehydrogenase or related beta-hydroxyacid dehydrogenase	MmsB			1I36
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_00285	COG1070	G	Sugar (pentulose or hexulose) kinase	XylB	Non-phosphorylated Entner-Doudoroff pathway		4C23
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_00300	COG1091	M	dTDP-4-dehydrorhamnose reductase	RfbD			1KBZ
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_00310	COG0656	Q	Aldo/keto reductase, related to diketogulonate reductase	ARA1			1Q13
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_00320	COG2358	R	TRAP-type uncharacterized transport system, periplasmic component	Imp			1US4
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_00325	COG1099	R	Predicted metal-dependent hydrolase, TIM-barrel fold				3GUW
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_00330	COG0719	O	Fe-S cluster assembly scaffold protein SufB	SufB			1VH4
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_00335	COG1124	EP	ABC-type dipeptide/oligopeptide/nickel transport system, ATPase component	DppF			
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_00340	COG0719	O	Fe-S cluster assembly scaffold protein SufB	SufB			1VH4
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_00345	COG1103	J	Archaeal Cys-tRNA synthase (O-phospho-L-seryl-tRNA:Cys-tRNA synthase)				2E7I
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_00360	COG4533	K	DNA-binding transcriptional regulator SgrR of sgrS sRNA, contains a MarR-type HTH domain and a periplasmic-type solute-binding domain	SgrR			
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_00370	COG3777	I	Hydroxyacyl-ACP dehydratase HTD2, hotdog domain	HTD2		10781606	
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_00375	COG1804	I	Crotonobetainyl-CoA:carnitine CoA-transferase CaiB and related acyl-CoA transferases	CaiB			1P5H
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_00385	COG1804	I	Crotonobetainyl-CoA:carnitine CoA-transferase CaiB and related acyl-CoA transferases	CaiB			1P5H
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_00390	COG0504	F	CTP synthase (UTP-ammonia lyase)	PyrG	Pyrimidine biosynthesis		1S1M
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_00395	COG0176	G	Transaldolase/fructose-6-phosphate aldolase	TalA	Pentose phosphate pathway		1F05
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_00415	COG3960	Q	Glyoxylate carboligase	Gcl			
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_00430	COG1641	H	CTP-dependent cyclometallase, nickel-pincer nucleotide (NPN) cofactor biosynthesis	LarC		29887527	3C19
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_00435	COG0346	Q	Catechol 2,3-dioxygenase or related enzyme, vicinal oxygen chelate (VOC) family	GloA		11830595	3R4Q
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_00440	COG0370	P	Fe2+ transporter FeoB	FeoB		32095817	3TAH
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_00445	COG2006	S	Uncharacterized conserved protein, DUF362 family				
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_00450	COG0382	H	4-hydroxybenzoate polyprenyltransferase	UbiA	Ubiquinone biosynthesis	28830929	4OD4
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_00455	COG0392	M	Predicted membrane flippase AglD2/YbhN, UPF0104 family	AglD2		25583072	
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_00475	COG1179	J	tRNA A37 threonylcarbamoyladenosine dehydratase	TcdA	tRNA modification	27913733	4D7A
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_00480	COG0498	E	Threonine synthase	ThrC	Threonine biosynthesis		1VB3
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_00490	COG2740	R	Nucleoid-associated protein YlxR, Predicted RNA-binding, DUF448 family	YlxR		11679764;31118925	1G2R
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_00495	COG5256	J	Translation elongation factor EF-1alpha (GTPase)	TEF1	Translation factors		1F60
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_00500	COG0858	J	Ribosome-binding factor RbfA	RbfA			1JOS
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_00505	COG0130	J	tRNA U55 pseudouridine synthase TruB, may also work on U342 of tmRNA	TruB	tRNA modification		1K8W
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_00510	COG0613	F	5'-3' exoribonuclease TrpH/YciV (RNase AM), contains PHP domain	YciV		25871919	3E0F
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_00530	COG0520	E	Selenocysteine lyase/Cysteine desulfurase	CsdA			4LW2
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_00540	COG0210	L	Superfamily I DNA or RNA helicase	UvrD			6PPR
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_00545	COG1062	C	Zn-dependent alcohol/formaldehyde dehydrogenase	FrmA			1A71
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_00550	COG2153	R	Predicted N-acyltransferase, GNAT family	ElaA			1XEB
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_00555	COG2346	P	Truncated hemoglobin YjbI	YjbI			1DLW
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_00575	COG1695	K	DNA-binding transcriptional regulator, PadR family	PadR		19096365	1XMA
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_00580	COG2226	H	Ubiquinone/menaquinone biosynthesis C-methylase UbiE/MenG	UbiE	Biotin biosynthesis		4OBW
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_00605	COG2271	G	Sugar phosphate permease	UhpC			1PW4
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_00610	COG0607	P	Rhodanese-related sulfurtransferase	PspE	Urea cycle		1TQ1
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_00620	COG1529	C	Aldehyde, CO or xanthine dehydrogenase, Mo-binding subunit	CoxL	Non-phosphorylated Entner-Doudoroff pathway	10095793	1DGJ
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_00625	COG1529	C	Aldehyde, CO or xanthine dehydrogenase, Mo-binding subunit	CoxL	Non-phosphorylated Entner-Doudoroff pathway	10095793	1DGJ
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_00630	COG3435	Q	Gentisate 1,2-dioxygenase				3BU7
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_00635	COG0346	Q	Catechol 2,3-dioxygenase or related enzyme, vicinal oxygen chelate (VOC) family	GloA		11830595	3R4Q
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_00650	COG1791	E	Acireductone dioxygenase (methionine salvage), cupin superfamily	Adi1			1VR3
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_00655	COG3391	R	DNA-binding beta-propeller fold protein YncE	YncE		22120742;28628661	3VGZ
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_00685	COG0620	E	Methionine synthase II (cobalamin-independent)	MetE	Methionine biosynthesis		1T7L
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_00705	COG0526	O	Thiol-disulfide isomerase or thioredoxin	TrxA			1XFL
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_00710	COG2271	G	Sugar phosphate permease	UhpC			1PW4
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_00735	COG0664	T	cAMP-binding domain of CRP or a regulatory subunit of cAMP-dependent protein kinases	Crp			1FT9
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_00740	COG0673	R	Predicted dehydrogenase	MviM			3UUW
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_00745	COG3221	P	ABC-type phosphate/phosphonate transport system, periplasmic component	PhnD			3S4U
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_00750	COG2159	G	5-carboxyvanillate decarboxylase LigW (lignin degradation), amidohydro domain	LigW		26714575	2DVT
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_00755	COG0346	Q	Catechol 2,3-dioxygenase or related enzyme, vicinal oxygen chelate (VOC) family	GloA		11830595	3R4Q
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_00760	COG2814	G	Predicted arabinose efflux permease AraJ, MFS family	AraJ			4LDS
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_00770	COG2271	G	Sugar phosphate permease	UhpC			1PW4
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_00775	COG2761	O	Predicted dithiol-disulfide isomerase, DsbA/YjbH family (virulence, stress resistance)	FrnE			6GHB
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_00795	COG0024	J	Methionine aminopeptidase	Map			3J2I
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_00800	COG0006	E	Xaa-Pro aminopeptidase	PepP			1A16
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_00805	COG1233	Q	Phytoene dehydrogenase-related protein				4REP
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_00830	COG0596	HR	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold	MenH	Menaquinone biosynthesis		4MYS
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_00835	COG2807	P	Cyanate permease	CynX			
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_00845	COG0623	I	Enoyl-[acyl-carrier-protein] reductase FabI	FabI	Fatty acid biosynthesis		1C14
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_00860	COG1506	E	Dipeptidyl aminopeptidase/acylaminoacyl peptidase	DAP2			2JBW
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_00865	COG4950	S	N-terminal domain of uncharacterized protein YciW (function unknown)	YciW1			
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_00870	COG2128	P	Alkylhydroperoxidase family enzyme, contains CxxC motif	YciW			1GU9
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_00890	COG4766	E	Ethanolamine utilization protein EutQ, cupin superfamily (function unknown)	EutQ			2PYT
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_00895	COG3193	T	Heme-binding protein HbpS, GlcG/HbpS family	GlcG		19244623;25342754	2A2L
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_00900	COG0607	P	Rhodanese-related sulfurtransferase	PspE	Urea cycle		1TQ1
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_00905	COG1770	E	Protease II	PtrB			4BP9
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_00910	COG3391	R	DNA-binding beta-propeller fold protein YncE	YncE		22120742;28628661	3VGZ
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_00925	COG0526	O	Thiol-disulfide isomerase or thioredoxin	TrxA			1XFL
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_00930	COG1136	M	ABC-type lipoprotein export system, ATPase component	LolD			5GKO
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_00940	COG0439	I	Biotin carboxylase	AccC	Fatty acid biosynthesis		1BNC
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_00950	COG0518	F	GMP synthase, glutamine amidotransferase domain	GuaA1	Purine biosynthesis		4WIM
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_00955	COG3964	R	Predicted amidohydrolase				2OGJ
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_00960	COG0540	F	Aspartate carbamoyltransferase, catalytic subunit	PyrB	Pyrimidine biosynthesis		1NBE
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_00965	COG0634	F	Hypoxanthine-guanine phosphoribosyltransferase	HptA	Purine salvage		1G9S
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_00970	COG1240	H	vWFA (von Willebrand factor type A) domain of Mg and Co chelatases	ChlD			
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_00975	COG1804	I	Crotonobetainyl-CoA:carnitine CoA-transferase CaiB and related acyl-CoA transferases	CaiB			1P5H
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_00980	COG1804	I	Crotonobetainyl-CoA:carnitine CoA-transferase CaiB and related acyl-CoA transferases	CaiB			1P5H
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_00985	COG1535	Q	Isochorismate hydrolase	EntB1			3TB4
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_01000	COG2224	C	Isocitrate lyase	AceA	TCA cycle, glyoxylate bypass		1DQU
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_01005	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_01010	COG0280	C	Phosphotransacetylase (includes Pta, EutD and phosphobutyryltransferase)	Pta		28754323	1QZT
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_01015	COG2030	I	Acyl-CoA dehydratase PaaZ	MaoC			5ZY8
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_01020	COG0665	E	Glycine/D-amino acid oxidase (deaminating)	DadA			3AWI
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_01025	COG0303	H	Molybdopterin Mo-transferase (molybdopterin biosynthesis)	MoeA	Molybdopterin biosynthesis	18801996;32239579	2NQU
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_01030	COG0265	O	Periplasmic serine protease, S1-C subfamily, contain C-terminal PDZ domain	DegQ		29686141	2HGA
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_01035	COG0691	O	tmRNA-binding protein	SmpB		26251518	1J1H
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_01060	COG0616	O	Periplasmic serine protease, ClpP class	SppA			3BEZ
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_01065	COG1322	L	DNA anti-recombination protein (rearrangement mutator) RmuC	RmuC			
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_01070	COG1714	S	Uncharacterized membrane protein YckC, RDD family	YckC			
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_01075	COG2337	V	mRNA-degrading endonuclease MazF, toxin component of the MazEF toxin-antitoxin module	MazF			2MF2
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_01085	COG0281	C	Malic enzyme	SfcA	Urea cycle		1DO8
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_01090	COG0129	EG	Dihydroxyacid dehydratase/phosphogluconate dehydratase	IlvD	Isoleucine, leucine, valine biosynthesis		2GP4
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_01105	COG0001	H	Glutamate-1-semialdehyde aminotransferase	HemL	Heme biosynthesis		2CFB
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_01110	COG0113	H	Delta-aminolevulinic acid dehydratase, porphobilinogen synthase	HemB	Heme biosynthesis		1I8J
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_01115	COG1010	H	Precorrin-3B methylase	CobJ	Cobalamine/B12 biosynthesis		2ZVB
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_01120	COG0181	H	Porphobilinogen deaminase	HemC	Heme biosynthesis		1AH5
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_01125	COG1648	H	Siroheme synthase (precorrin-2 oxidase/ferrochelatase domain)	CysG2	Heme biosynthesis		1PJQ
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_01130	COG1522	K	DNA-binding transcriptional regulator, Lrp family	Lrp			1I1G
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_01135	COG2452	X	Predicted site-specific integrase-resolvase				3ILX
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_01140	COG2519	J	tRNA A58 N-methylase Trm61	Gcd14	tRNA modification		1I9G
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_01145	COG3264	M	Small-conductance mechanosensitive channel MscK	MscK			
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_01155	COG4166	E	ABC-type oligopeptide transport system, periplasmic component	OppA			1B05
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_01165	COG1173	EP	ABC-type dipeptide/oligopeptide/nickel transport system, permease component	DppC			
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_01170	COG1173	EP	ABC-type dipeptide/oligopeptide/nickel transport system, permease component	DppC			
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_01195	COG0154	J	Asp-tRNAAsn/Glu-tRNAGln amidotransferase A subunit or related amidase	GatA	Aminoacyl-tRNA synthetases		3H0L
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_01205	COG3218	R	ABC-type uncharacterized transport system, auxiliary component				2IQI
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_01210	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_01230	COG1635	GH	Thiazole synthase/Archaeal ribulose 1,5-bisphosphate synthetase	THI4		15375115	3FPZ
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_01240	COG2814	G	Predicted arabinose efflux permease AraJ, MFS family	AraJ			4LDS
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_01260	COG0815	M	Apolipoprotein N-acyltransferase	Lnt			6NWR
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_01275	COG3744	V	PIN domain nuclease, a component of toxin-antitoxin system (PIN domain)				
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_01285	COG1207	M	Bifunctional protein GlmU, N-acetylglucosamine-1-phosphate-uridyltransferase/glucosamine-1-phosphate-acetyltransferase	GlmU			3FWW
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_01290	COG1239	H	Mg-chelatase subunit ChlI	ChlI			1G8P
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_01310	COG0054	H	6,7-dimethyl-8-ribityllumazine synthase (Riboflavin synthase beta chain)	RibE	Riboflavin/FAD biosynthesis		1C2Y
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_01315	COG0558	I	Phosphatidylglycerophosphate synthase	PgsA	Phospholipid biosynthesis		4MND
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_01320	COG1519	M	3-deoxy-D-manno-octulosonic-acid transferase	KdtA	Lipid A biosynthesis		2XCI
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_01325	COG1260	I	Myo-inositol-1-phosphate synthase	INO1			1GR0
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_01330	COG0631	T	Serine/threonine protein phosphatase PrpC	PTC1			6IHL
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_01340	COG3361	S	Uncharacterized conserved protein YqjF, DUF2071 family	YqjF			
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_01345	COG3011	R	Predicted thiol-disulfide oxidoreductase YuxK, DCC family	YuxK		15236740	
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_01360	COG0457	R	Tetratricopeptide (TPR) repeat	TPR			3AS4
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_01380	COG2203	T	GAF domain	GAF			
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_01385	COG1404	O	Serine protease, subtilisin family	AprE			1SCJ
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_01405	COG0111	H	Phosphoglycerate dehydrogenase or related dehydrogenase	SerA	Serine biosynthesis		3OET
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_01410	COG2355	OE	Zn-dependent dipeptidase, microsomal dipeptidase homolog			14499931	1ITQ
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_01415	COG0373	H	Glutamyl-tRNA reductase	HemA	Heme biosynthesis		2XOE
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_01430	COG1001	F	Adenine deaminase	AdeC			3NQB
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_01435	COG1506	E	Dipeptidyl aminopeptidase/acylaminoacyl peptidase	DAP2			2JBW
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_01440	COG0491	R	Glyoxylase or a related metal-dependent hydrolase, beta-lactamase superfamily II	GloB		25670698	1QH3
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_01450	COG2021	E	Homoserine O-acetyltransferase	MET2	Methionine biosynthesis		2VAT
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_01455	COG5485	R	Predicted ester cyclase				3EHC
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_01470	COG0346	Q	Catechol 2,3-dioxygenase or related enzyme, vicinal oxygen chelate (VOC) family	GloA		11830595	3R4Q
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_01475	COG1506	E	Dipeptidyl aminopeptidase/acylaminoacyl peptidase	DAP2			2JBW
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_01480	COG0251	V	Enamine deaminase RidA, house cleaning of reactive enamine intermediates, YjgF/YER057c/UK114 family	RidA	Pyrimidine degradation	22094463;32205462	1J7H
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_01485	COG0512	EH	Anthranilate/para-aminobenzoate synthase component II (glutamine amidotransferase)	PabA	Aromatic amino acid biosynthesis		1I1Q
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_01490	COG3154	H	Ubiquinone biosynthesis accessory factor UbiT, lipid carrier SCP2 domain	UbiT		31289180	1C44
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_01495	COG1804	I	Crotonobetainyl-CoA:carnitine CoA-transferase CaiB and related acyl-CoA transferases	CaiB			1P5H
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_01505	COG0154	J	Asp-tRNAAsn/Glu-tRNAGln amidotransferase A subunit or related amidase	GatA	Aminoacyl-tRNA synthetases		3H0L
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_01510	COG1228	Q	Imidazolonepropionase or related amidohydrolase	HutI			3OOQ
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_01520	COG0154	J	Asp-tRNAAsn/Glu-tRNAGln amidotransferase A subunit or related amidase	GatA	Aminoacyl-tRNA synthetases		3H0L
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_01550	COG1674	D	DNA segregation ATPase FtsK/SpoIIIE or related protein	FtsK			2IUT
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_01560	COG1833	R	Uri superfamily endonuclease				
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_01565	COG0346	Q	Catechol 2,3-dioxygenase or related enzyme, vicinal oxygen chelate (VOC) family	GloA		11830595	3R4Q
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_01580	COG0346	Q	Catechol 2,3-dioxygenase or related enzyme, vicinal oxygen chelate (VOC) family	GloA		11830595	3R4Q
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_01595	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_01600	COG1228	Q	Imidazolonepropionase or related amidohydrolase	HutI			3OOQ
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_01605	COG2814	G	Predicted arabinose efflux permease AraJ, MFS family	AraJ			4LDS
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_01615	COG0402	FR	Cytosine/adenosine deaminase or related metal-dependent hydrolase	SsnA	Pyrimidine salvage		3O7U
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_01620	COG1049	C	Aconitase B	AcnB	TCA cycle		1L5J
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_01625	COG2816	F	NADH pyrophosphatase NudC, Nudix superfamily	NPY1			
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_01630	COG4032	H	Sulfopyruvate decarboxylase, TPP-binding subunit (coenzyme M biosynthesis)				
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_01635	COG0028	EH	Acetolactate synthase large subunit or other thiamine pyrophosphate-requiring enzyme	IlvB	Isoleucine, leucine, valine biosynthesis		1BFD
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_01645	COG1062	C	Zn-dependent alcohol/formaldehyde dehydrogenase	FrmA			1A71
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_01650	COG0589	T	Nucleotide-binding universal stress protein,  UspA family	UspA			1JMV
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_01655	COG0402	FR	Cytosine/adenosine deaminase or related metal-dependent hydrolase	SsnA	Pyrimidine salvage		3O7U
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_01665	COG1524	T	c-di-AMP phosphodiesterase AtaC or nucleotide pyrophosphatase, AlkP superfamily	AtaC		32188788	1EI6
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_01700	COG3961	GHR	TPP-dependent 2-oxoacid decarboxylase, includes indolepyruvate decarboxylase	PDC1	Pyruvate oxidation		1PYD
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_01710	COG1878	E	Kynurenine formamidase				1R61
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_01725	COG2086	C	Electron transfer flavoprotein, alpha and beta subunits	FixA			5OL2
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_01730	COG2025	C	Electron transfer flavoprotein, alpha subunit FixB	FixB			1EFP
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_01740	COG0414	H	Panthothenate synthetase	PanC	Pantothenate/CoA biosynthesis	17968677	1DIN
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_01745	COG0413	H	Ketopantoate hydroxymethyltransferase	PanB	Pantothenate/CoA biosynthesis		3VAV
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_01750	COG2084	I	3-hydroxyisobutyrate dehydrogenase or related beta-hydroxyacid dehydrogenase	MmsB			1I36
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_01760	COG2814	G	Predicted arabinose efflux permease AraJ, MFS family	AraJ			4LDS
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_01765	COG0623	I	Enoyl-[acyl-carrier-protein] reductase FabI	FabI	Fatty acid biosynthesis		1C14
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_01775	COG0623	I	Enoyl-[acyl-carrier-protein] reductase FabI	FabI	Fatty acid biosynthesis		1C14
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_01780	COG0346	Q	Catechol 2,3-dioxygenase or related enzyme, vicinal oxygen chelate (VOC) family	GloA		11830595	3R4Q
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_01805	COG0340	H	Biotin-(acetyl-CoA carboxylase) ligase	BirA2	Biotin biosynthesis	32188788	1BIA
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_01810	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_01815	COG0300	R	Short-chain dehydrogenase	YqjQ			
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_01820	COG0124	J	Histidyl-tRNA synthetase	HisS	Aminoacyl-tRNA synthetases		1KMM
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_01825	COG0040	E	ATP phosphoribosyltransferase	HisG	Histidine biosynthesis		1H3D
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_01840	COG0141	E	Histidinol dehydrogenase	HisD	Histidine biosynthesis		1K75
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_01845	COG1167	KE	DNA-binding transcriptional regulator, MocR family, contains an aminotransferase domain	ARO8	Lysine biosynthesis		2R2N
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_01850	COG0131	E	Imidazoleglycerol phosphate dehydratase HisB	HisB2	Histidine biosynthesis		1RHY
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_01860	COG1165	H	2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate synthase	MenD	Menaquinone biosynthesis		5Z2P
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_01865	COG3536	S	Uncharacterized conserved protein, DUF971 family				2L6N
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_01870	COG2814	G	Predicted arabinose efflux permease AraJ, MFS family	AraJ			4LDS
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_01875	COG2331	R	Predicted nucleic acid-binding protein, contains Zn-ribbon domain				
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_01880	COG0579	G	L-2-hydroxyglutarate oxidase LhgO	LhgO			3DME
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_01885	COG4925	S	Uncharacterized conserved protein				
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_01890	COG1804	I	Crotonobetainyl-CoA:carnitine CoA-transferase CaiB and related acyl-CoA transferases	CaiB			1P5H
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_01895	COG0143	J	Methionyl-tRNA synthetase	MetG	Aminoacyl-tRNA synthetases		1A8H
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_01900	COG0378	O	Hydrogenase/urease maturation factor HypB, Ni2+-binding GTPase	HypB		24338018;23899293	2HF8
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_01905	COG2410	R	Predicted nuclease (RNAse H fold)				
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_01920	COG2268	S	Uncharacterized membrane protein YqiK, contains Band7/PHB/SPFH domain	YqiK			1WIN
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_01925	COG1585	O	Membrane protein implicated in regulation of membrane protease activity	YbbJ			2EXD
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_01930	COG2081	R	Predicted flavoprotein YhiN	YhiN			3V76
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_01935	COG2188	K	DNA-binding transcriptional regulator, GntR family	MngR			2WV0
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_01940	COG1144	C	Pyruvate:ferredoxin oxidoreductase or related 2-oxoacid:ferredoxin oxidoreductase, delta subunit	PorD	Pyruvate oxidation		5C4I
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_01945	COG4231	C	TPP-dependent indolepyruvate ferredoxin oxidoreductase, alpha subunit	IorA			
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_01950	COG5018	T	3'-5' exonuclease KapD, inhibitor of KinA-controlled sporulation	KapD			
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_01955	COG1387	ER	Histidinol phosphatase or related hydrolase of the PHP family	HIS2	Histidine biosynthesis		1M65
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_01960	COG1607	I	Acyl-CoA hydrolase	YciA			5DM5
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_01970	COG1574	R	Predicted amidohydrolase YtcJ	YtcJ			3ICJ
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_01975	COG1506	E	Dipeptidyl aminopeptidase/acylaminoacyl peptidase	DAP2			2JBW
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_01995	COG1057	H	Nicotinate-nucleotide adenylyltransferase NadD	NadD	NAD biosynthesis		1YUM
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_02000	COG0838	C	NADH:ubiquinone oxidoreductase subunit 3 (chain A)	NuoA	NADH dehydrogenase		3RKO
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_02005	COG1941	C	Coenzyme F420-reducing hydrogenase, gamma subunit	FrhG			5ODC
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_02010	COG3262	C	Ni,Fe-hydrogenase III component G	HycE1			
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_02025	COG0649	C	NADH:ubiquinone oxidoreductase 49 kD subunit (chain D)	NuoD	NADH dehydrogenase		2FUG
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_02030	COG1005	C	NADH:ubiquinone oxidoreductase subunit 1 (chain H)	NuoH	NADH dehydrogenase		6HUM
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_02035	COG1143	C	Formate hydrogenlyase subunit 6/NADH:ubiquinone oxidoreductase 23 kD subunit (chain I)	NuoI	NADH dehydrogenase		1B0P
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_02040	COG0839	C	NADH:ubiquinone oxidoreductase subunit 6 (chain J)	NuoJ	NADH dehydrogenase		4HE8
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_02045	COG0713	C	NADH:ubiquinone oxidoreductase subunit 11 or 4L (chain K)	NuoK	NADH dehydrogenase		4HE8
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_02050	COG1009	C	Membrane H+-translocase/NADH:ubiquinone oxidoreductase subunit 5 (chain L)/Multisubunit Na+/H+ antiporter, MnhA subunit	NuoL	NADH dehydrogenase		3RKO
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_02055	COG0651	CP	Formate hydrogenlyase subunit 3/Multisubunit Na+/H+ antiporter, MnhD subunit	HyfB			6CFW
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_02060	COG1007	C	NADH:ubiquinone oxidoreductase subunit 2 (chain N)	NuoN	NADH dehydrogenase		4HE8
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_02065	COG0758	L	Predicted Rossmann fold nucleotide-binding protein DprA/Smf involved in DNA uptake	Smf			3MAJ
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_02070	COG0148	G	Enolase	Eno	Glycolysis		1E9I
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_02075	COG0491	R	Glyoxylase or a related metal-dependent hydrolase, beta-lactamase superfamily II	GloB		25670698	1QH3
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_02080	COG0057	G	Glyceraldehyde-3-phosphate dehydrogenase/erythrose-4-phosphate dehydrogenase	GapA	Glycolysis		3ZDF
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_02090	COG1804	I	Crotonobetainyl-CoA:carnitine CoA-transferase CaiB and related acyl-CoA transferases	CaiB			1P5H
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_02095	COG1804	I	Crotonobetainyl-CoA:carnitine CoA-transferase CaiB and related acyl-CoA transferases	CaiB			1P5H
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_02100	COG1105	G	1-phosphofructokinase or 6-phosphofructokinase II	FruK			2ABQ
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_02120	COG3777	I	Hydroxyacyl-ACP dehydratase HTD2, hotdog domain	HTD2		10781606	
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_02135	COG4959	OU	Type IV secretory pathway, protease TraF	TraF			1B12
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_02140	COG0169	E	Shikimate 5-dehydrogenase	AroE	Aromatic amino acid biosynthesis		1NPD
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_02145	COG0673	R	Predicted dehydrogenase	MviM			3UUW
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_02150	COG0673	R	Predicted dehydrogenase	MviM			3UUW
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_02155	COG0717	F	dCTP deaminase	Dcd	Thymidylate biosynthesis		1XS1
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_02160	COG3480	T	Predicted secreted protein YlbL, contains PDZ domain	SdrC			
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_02165	COG2814	G	Predicted arabinose efflux permease AraJ, MFS family	AraJ			4LDS
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_02170	COG2141	HR	Flavin-dependent oxidoreductase, luciferase family (includes alkanesulfonate monooxygenase SsuD and methylene tetrahydromethanopterin reductase)	SsuD	Pyrimidine degradation		1BRL
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_02175	COG0532	J	Translation initiation factor IF-2, a GTPase	InfB	Translation factors		5ME0
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_02185	COG0069	E	Glutamate synthase domain 2	GltB2	Glutamine biosynthesis		1EA0
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_02195	COG0579	G	L-2-hydroxyglutarate oxidase LhgO	LhgO			3DME
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_02200	COG2221	P	Dissimilatory sulfite reductase (desulfoviridin), alpha and beta subunits	DsrA			
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_02205	COG1587	H	Uroporphyrinogen-III synthase	HemD	Heme biosynthesis		1JR2
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_02210	COG2211	G	Na+/melibiose symporter or related transporter	MelB			4M64
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_02225	COG1011	H	FMN and 5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YigB, HAD superfamily (riboflavin biosynthesis)	YigB		24123841	4JB3
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_02230	COG1957	F	Inosine-uridine nucleoside N-ribohydrolase	URH1	Pyrimidine salvage		1EZR
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_02235	COG2077	O	Peroxiredoxin	Tpx			4AF2
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_02240	COG0405	E	Gamma-glutamyltranspeptidase	Ggt		16618936	2Z8I
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_02245	COG3706	TK	Two-component response regulator, PleD family, consists of two REC domains and a diguanylate cyclase (GGDEF) domain	PleD			1W25
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_02250	COG3852	T	Signal transduction histidine kinase NtrB, nitrogen specific	NtrB		23893111	
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_02260	COG2897	P	3-mercaptopyruvate sulfurtransferase SseA, contains two rhodanese domains	SseA			1BOH
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_02280	COG0152	F	Phosphoribosylaminoimidazole-succinocarboxamide synthase	PurC	Purine biosynthesis		1A48
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_02285	COG0114	C	Fumarate hydratase class II	FumC	TCA cycle		1KQ7
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_02290	COG5406
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_02295	COG1691	F	NCAIR mutase (PurE)-related protein				
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_02310	COG0439	I	Biotin carboxylase	AccC	Fatty acid biosynthesis		1BNC
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_02315	COG0512	EH	Anthranilate/para-aminobenzoate synthase component II (glutamine amidotransferase)	PabA	Aromatic amino acid biosynthesis		1I1Q
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_02320	COG0009	J	tRNA A37 threonylcarbamoyladenosine synthetase subunit TsaC/SUA5/YrdC	TsaC	tRNA modification		1HRU
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_02325	COG0142	H	Geranylgeranyl pyrophosphate synthase	IspA	Isoprenoid biosynthesis		2AZJ
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_02330	COG0126	G	3-phosphoglycerate kinase	Pgk	Glycolysis		13PK
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_02340	COG0149	G	Triosephosphate isomerase	TpiA	Glycolysis		1HG3
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_02345	COG0324	J	tRNA A37 N6-isopentenylltransferase MiaA	MiaA	tRNA modification		2ZM5
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_02350	COG0253	E	Diaminopimelate epimerase	DapF	Lysine biosynthesis		1BWZ
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_02355	COG1168	ER	Bifunctional PLP-dependent enzyme with beta-cystathionase and maltose regulon repressor activities	MalY			4DGT
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_02365	COG0588	G	Phosphoglycerate mutase (BPG-dependent)	GpmA	Glycolysis		1E58
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_02370	COG3442	R	Glutamine amidotransferase related to the GATase domain of CobQ				5N9M
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_02375	COG2087	H	Adenosyl cobinamide kinase/adenosyl cobinamide phosphate guanylyltransferase	CobU	Cobalamine/B12 biosynthesis		1C9K
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_02380	COG1577	I	Mevalonate kinase	ERG12	Isoprenoid biosynthesis		
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_02385	COG0473	CE	Isocitrate/isopropylmalate dehydrogenase	LeuB	TCA cycle		1GC9
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_02395	COG4447	R	Uncharacterized conserved protein related to plant photosystem II stability/assembly factor				2XBG
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_02400	COG4670	I	Acyl CoA:acetate/3-ketoacid CoA transferase	YdiF			5VIT
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_02405	COG4670	I	Acyl CoA:acetate/3-ketoacid CoA transferase	YdiF			5VIT
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_02410	COG0623	I	Enoyl-[acyl-carrier-protein] reductase FabI	FabI	Fatty acid biosynthesis		1C14
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_02415	COG4591	M	ABC-type transport system involved in lipoprotein release, permease component LolC	LolE			6F49
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_02420	COG0577	V	ABC-type antimicrobial peptide transport system, permease component	SalY			
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_02425	COG4778	P	Alpha-D-ribose 1-methylphosphonate 5-triphosphate synthase subunit PhnL	PhnL			
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_02430	COG1119	P	ABC-type molybdenum transport system, ATPase component ModF/photorepair protein PhrA	ModF			2IHY
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_02435	COG1249	C	Dihydrolipoamide dehydrogenase (E3) component of pyruvate/2-oxoglutarate dehydrogenase complex or glutathione oxidoreductase	Lpd	Glycine cleavagePyruvate oxidation		6QKG
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_02440	COG1249	C	Dihydrolipoamide dehydrogenase (E3) component of pyruvate/2-oxoglutarate dehydrogenase complex or glutathione oxidoreductase	Lpd	Glycine cleavagePyruvate oxidation		6QKG
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_02460	COG2009	C	Succinate dehydrogenase/fumarate reductase, cytochrome b subunit	SdhC		18511537	2WU2
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_02470	COG1150	C	Heterodisulfide reductase, subunit C	HdrC			5ODC
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_02485	COG5553	R	Predicted metal-dependent enzyme of the double-stranded beta helix superfamily				
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_02490	COG1335	HR	Nicotinamidase-related amidase	PncA	Pyrimidine degradation		1ILW
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_02495	COG1506	E	Dipeptidyl aminopeptidase/acylaminoacyl peptidase	DAP2			2JBW
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_02520	COG1804	I	Crotonobetainyl-CoA:carnitine CoA-transferase CaiB and related acyl-CoA transferases	CaiB			1P5H
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_02525	COG2514	Q	Catechol-2,3-dioxygenase	CatE			
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_02540	COG2814	G	Predicted arabinose efflux permease AraJ, MFS family	AraJ			4LDS
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_02550	COG1228	Q	Imidazolonepropionase or related amidohydrolase	HutI			3OOQ
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_02555	COG0623	I	Enoyl-[acyl-carrier-protein] reductase FabI	FabI	Fatty acid biosynthesis		1C14
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_02560	COG1154	HI	Deoxyxylulose-5-phosphate synthase	Dxs	Pyridoxal phosphate biosynthesis		2O1S
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_02565	COG3959	G	Transketolase, N-terminal subunit	TktA1			
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_02585	COG2271	G	Sugar phosphate permease	UhpC			1PW4
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_02590	COG1168	ER	Bifunctional PLP-dependent enzyme with beta-cystathionase and maltose regulon repressor activities	MalY			4DGT
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_02595	COG0095	H	Lipoate-protein ligase A	LplA	Lipoate biosynthesis		4TVW
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_02600	COG0508	C	Pyruvate/2-oxoglutarate dehydrogenase complex, dihydrolipoamide acyltransferase (E2) component	AceF	Pyruvate oxidation		1B5S
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_02605	COG0022	C	Pyruvate/2-oxoglutarate/acetoin dehydrogenase complex, dehydrogenase (E1) component, beta subunit	AcoB	Pyruvate oxidation		2OZL
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_02610	COG3959	G	Transketolase, N-terminal subunit	TktA1			
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_02615	COG1484	L	DNA replication protein DnaC	DnaC			2QGZ
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_02620	COG0603	J	7-cyano-7-deazaguanine synthase (queuosine biosynthesis)	QueC	tRNA modification	14660578;17384645	2PG3
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_02635	COG1979	C	Alcohol dehydrogenase YqhD, Fe-dependent ADH family	YqdH			1OJ7
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_02640	COG0457	R	Tetratricopeptide (TPR) repeat	TPR			3AS4
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_02665	COG0730	P	Sulfite exporter TauE/SafE/YfcA and related permeases, UPF0721 family	TauE		21183667;22797525	
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_02670	COG3576	R	Predicted flavin-nucleotide-binding protein, pyridoxine 5'-phosphate oxidase superfamily				5ESC
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_02690	COG0156	H	7-keto-8-aminopelargonate synthetase or related enzyme	BioF	Biotin biosynthesis		1BS0
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_02695	COG2271	G	Sugar phosphate permease	UhpC			1PW4
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_02720	COG3383	R	Predicted molibdopterin-dependent oxidoreductase YjgC	YjgC			1AA6
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_02725	COG1142	C	Fe-S-cluster-containing hydrogenase component 2	HycB			
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_02730	COG2194	M	Phosphoethanolamine transferase for periplasmic glucans OpgE, AlkP superfamily	OpgE			5ZZU
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_02735	COG5557	C	Ni/Fe-hydrogenase 2 integral membrane subunit HybB	HybB			
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_02745	COG2010	C	Cytochrome c, mono- and diheme variants	CccA			1A2S
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_02750	COG3088	CO	Cytochrome c-type biogenesis protein CcmH/NrfF	NrfF			2HL7
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_02770	COG0526	O	Thiol-disulfide isomerase or thioredoxin	TrxA			1XFL
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_02795	COG0623	I	Enoyl-[acyl-carrier-protein] reductase FabI	FabI	Fatty acid biosynthesis		1C14
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_02800	COG1846	K	DNA-binding transcriptional regulator, MarR family	MarR			1JGS
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_02805	COG2202	T	PAS domain	PAS			2MWG
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_02815	COG0179	Q	2-keto-4-pentenoate hydratase/2-oxohepta-3-ene-1,7-dioic acid hydratase (catechol pathway)	YcgM			1GTT
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_02820	COG0599	R	Uncharacterized conserved protein YurZ, alkylhydroperoxidase/carboxymuconolactone decarboxylase family	YurZ			3BEY
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_02825	COG2226	H	Ubiquinone/menaquinone biosynthesis C-methylase UbiE/MenG	UbiE	Biotin biosynthesis		4OBW
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_02830	COG1606	R	ATP-utilizing enzyme, PP-loop superfamily				6B2O
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_02835	COG1058	L	ADP-ribose pyrophosphatase domain of DNA damage- and competence-inducible protein CinA	CinA		25313401	4CT9
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_02840	COG0303	H	Molybdopterin Mo-transferase (molybdopterin biosynthesis)	MoeA	Molybdopterin biosynthesis	18801996;32239579	2NQU
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_02850	COG1146	F	NAD-dependent dihydropyrimidine dehydrogenase, PreA subunit	PreA			
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_02855	COG0578	C	Glycerol-3-phosphate dehydrogenase	GlpA	Isoprenoid biosynthesis		2RGH
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_02860	COG1884	I	Methylmalonyl-CoA mutase, N-terminal domain/subunit	Sbm			6OXC
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_02870	COG3185	ER	4-hydroxyphenylpyruvate dioxygenase and related hemolysins	HppD			
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_02875	COG5012	C	Methanogenic corrinoid protein MtbC1	MtbC1			1Y80
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_02880	COG1399	J	23S rRNA accumulation protein YceD (essential in plants, uncharacterized in bacteria)	YceD		27574185	
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_02885	COG0331	I	Malonyl CoA-acyl carrier protein transacylase	FabD	Fatty acid biosynthesis		1YXC
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_02895	COG0236	I	Acyl carrier protein	AcpP	Fatty acid biosynthesis		1ACP
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_02905	COG1236	J	RNA processing exonuclease, beta-lactamase fold, Cft2 family	YSH1			2DKF
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_02910	COG1674	D	DNA segregation ATPase FtsK/SpoIIIE or related protein	FtsK			2IUT
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_02915	COG0613	F	5'-3' exoribonuclease TrpH/YciV (RNase AM), contains PHP domain	YciV		25871919	3E0F
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_02920	COG0488	R	ATPase components of ABC transporters with duplicated ATPase domains	Uup			5ZXD
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_02925	COG0580	G	Glycerol uptake facilitator or related aquaporin (Major Intrinsic protein Family)	GlpF			1FQY
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_02975	COG3766	S	Uncharacterized membrane protein YjfL, UPF0719 family	YjfL			
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_02985	COG3221	P	ABC-type phosphate/phosphonate transport system, periplasmic component	PhnD			3S4U
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_02990	COG2159	G	5-carboxyvanillate decarboxylase LigW (lignin degradation), amidohydro domain	LigW		26714575	2DVT
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_03010	COG2211	G	Na+/melibiose symporter or related transporter	MelB			4M64
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_03015	COG1587	H	Uroporphyrinogen-III synthase	HemD	Heme biosynthesis		1JR2
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_03020	COG2221	P	Dissimilatory sulfite reductase (desulfoviridin), alpha and beta subunits	DsrA			
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_03025	COG0579	G	L-2-hydroxyglutarate oxidase LhgO	LhgO			3DME
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_03035	COG0069	E	Glutamate synthase domain 2	GltB2	Glutamine biosynthesis		1EA0
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_03045	COG0532	J	Translation initiation factor IF-2, a GTPase	InfB	Translation factors		5ME0
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_03050	COG1243	J	tRNA U34 5-carboxymethylaminomethylation enzyme Elp3 (RNA elongator complex protein 3), contains radical SAM and acetyltransferase domains	ELP3		25151136;27455459	6IA8
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_03065	COG1032	R	Radical SAM superfamily enzyme YgiQ, UPF0313 family	YgiQ			6FD2
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_03085	COG1240	H	vWFA (von Willebrand factor type A) domain of Mg and Co chelatases	ChlD			
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_03090	COG0466	O	ATP-dependent Lon protease, bacterial type	Lon			6ON2
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_03100	COG1878	E	Kynurenine formamidase				1R61
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_03105	COG2271	G	Sugar phosphate permease	UhpC			1PW4
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_03115	COG3915	S	Uncharacterized conserved protein				
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_03120	COG3837	S	Uncharacterized conserved protein, cupin superfamily				
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_03130	COG0607	P	Rhodanese-related sulfurtransferase	PspE	Urea cycle		1TQ1
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_03140	COG1131	V	ABC-type multidrug transport system, ATPase component	CcmA			5DO7
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_03150	COG0803	P	ABC-type Zn uptake system ZnuABC, Zn-binding component ZnuA	ZnuA			1K0F
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_03155	COG4148	P	ABC-type molybdate transport system, ATPase component ModC	ModC	Molybdopterin biosynthesis		
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_03170	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_03175	COG0721	J	Asp-tRNAAsn/Glu-tRNAGln amidotransferase C subunit	GatC	Aminoacyl-tRNA synthetases		3H0L
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_03180	COG0154	J	Asp-tRNAAsn/Glu-tRNAGln amidotransferase A subunit or related amidase	GatA	Aminoacyl-tRNA synthetases		3H0L
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_03185	COG0173	J	Aspartyl-tRNA synthetase	AspS	Aminoacyl-tRNA synthetases		1C0A
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_03190	COG0286	V	Type I restriction-modification system, DNA methylase subunit	HsdM		26872910	2AR0
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_03195	COG4032	H	Sulfopyruvate decarboxylase, TPP-binding subunit (coenzyme M biosynthesis)				
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_03200	COG0028	EH	Acetolactate synthase large subunit or other thiamine pyrophosphate-requiring enzyme	IlvB	Isoleucine, leucine, valine biosynthesis		1BFD
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_03210	COG0028	EH	Acetolactate synthase large subunit or other thiamine pyrophosphate-requiring enzyme	IlvB	Isoleucine, leucine, valine biosynthesis		1BFD
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_03215	COG1846	K	DNA-binding transcriptional regulator, MarR family	MarR			1JGS
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_03220	COG4133	O	ABC-type transport system involved in cytochrome c biogenesis, ATPase component	CcmA			
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_03225	COG0725	P	ABC-type molybdate transport system, periplasmic Mo-binding protein ModA	ModA	Molybdopterin biosynthesis		1AMF
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_03230	COG1177	E	ABC-type spermidine/putrescine transport system, permease component II	PotC			
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_03240	COG0778	C	Nitroreductase	NfnB	Pyrimidine degradation		1F5V
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_03245	COG1917	R	Cupin domain protein related to quercetin dioxygenase	QdoI			2H0V
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_03255	COG0823	U	Periplasmic component TolB of the Tol biopolymer transport system	TolB			1C5K
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_03260	COG2221	P	Dissimilatory sulfite reductase (desulfoviridin), alpha and beta subunits	DsrA			
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_03265	COG1673	R	Predicted RNA-binding protein, contains PUA-like EVE domain				1WMM
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_03270	COG0332	I	3-oxoacyl-[acyl-carrier-protein] synthase III	FabH	Fatty acid biosynthesis		1UB7
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_03275	COG0582	LX	Integrase/recombinase, includes phage integrase	FimB			
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_03285	COG0322	L	Excinuclease UvrABC, nuclease subunit	UvrC		24513124	2NRT
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_03315	COG2814	G	Predicted arabinose efflux permease AraJ, MFS family	AraJ			4LDS
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_03325	COG0823	U	Periplasmic component TolB of the Tol biopolymer transport system	TolB			1C5K
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_03330	COG1163	J	Ribosome-interacting GTPase RBG1	Rbg1			4A9A
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_03335	COG0669	H	Phosphopantetheine adenylyltransferase	CoaD	Pantothenate/CoA biosynthesis		3F3M
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_03340	COG0856	F	Orotate phosphoribosyltransferase homolog	PyrE2			
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_03360	COG1357	S	Uncharacterized conserved protein YjbI, contains pentapeptide repeats	YjbI			2BM4
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_03385	COG1106	R	ATPase/GTPase, AAA15 family				
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_03390	COG0046	F	Phosphoribosylformylglycinamidine (FGAM) synthase, synthetase domain	PurL1	Purine biosynthesis		3VIU
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_03395	COG0297	G	Glycogen synthase	GlgA			1RZU
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_03400	COG3408	G	Glycogen debranching enzyme (alpha-1,6-glucosidase)	GDB1			5D06
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_03405	COG1432	R	NYN domain, predicted PIN-related RNAse, tRNA/rRNA maturation	LabA			2QIP
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_03410	COG0623	I	Enoyl-[acyl-carrier-protein] reductase FabI	FabI	Fatty acid biosynthesis		1C14
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_03415	COG0145	EQ	N-methylhydantoinase A/oxoprolinase/acetone carboxylase, beta subunit	HyuA			
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_03420	COG3535	S	Uncharacterized conserved protein, DUF917 family				2O3I
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_03425	COG1529	C	Aldehyde, CO or xanthine dehydrogenase, Mo-binding subunit	CoxL	Non-phosphorylated Entner-Doudoroff pathway	10095793	1DGJ
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_03435	COG0823	U	Periplasmic component TolB of the Tol biopolymer transport system	TolB			1C5K
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_03440	COG0823	U	Periplasmic component TolB of the Tol biopolymer transport system	TolB			1C5K
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_03465	COG4101	R	Uncharacterized conserved protein, RmlC-like cupin domain	RmlC			
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_03475	COG2003	L	DNA repair protein RadC, contains a helix-hairpin-helix DNA-binding motif	RadC		9695921	2QLC
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_03480	COG2271	G	Sugar phosphate permease	UhpC			1PW4
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_03485	COG0028	EH	Acetolactate synthase large subunit or other thiamine pyrophosphate-requiring enzyme	IlvB	Isoleucine, leucine, valine biosynthesis		1BFD
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_03490	COG3871	S	General stress protein 26 (function unknown)	YzzA			2I02
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_03505	COG2145	H	Hydroxyethylthiazole kinase, sugar kinase family	ThiM	Thiamine biosynthesis		1C3Q
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_03515	COG0685	E	5,10-methylenetetrahydrofolate reductase	MetF			1B5T
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_03530	COG2453	T	Protein-tyrosine phosphatase	CDC14			1D5R
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_03550	COG0491	R	Glyoxylase or a related metal-dependent hydrolase, beta-lactamase superfamily II	GloB		25670698	1QH3
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_03575	COG0010	E	Arginase/agmatinase family enzyme	SpeB	Urea cycle		1CEV
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_03585	COG0657	I	Acetyl esterase/lipase	Aes			1EVQ
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_03590	COG1506	E	Dipeptidyl aminopeptidase/acylaminoacyl peptidase	DAP2			2JBW
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_03595	COG2271	G	Sugar phosphate permease	UhpC			1PW4
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_03600	COG0312	R	Zn-dependent protease PmbA/TldA or its inactivated homolog	TldD		12029038	3TV9
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_03605	COG0312	R	Zn-dependent protease PmbA/TldA or its inactivated homolog	TldD		12029038	3TV9
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_03615	COG0156	H	7-keto-8-aminopelargonate synthetase or related enzyme	BioF	Biotin biosynthesis		1BS0
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_03645	COG0346	Q	Catechol 2,3-dioxygenase or related enzyme, vicinal oxygen chelate (VOC) family	GloA		11830595	3R4Q
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_03655	COG0405	E	Gamma-glutamyltranspeptidase	Ggt		16618936	2Z8I
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_03660	COG3384	Q	Aromatic ring-opening dioxygenase, catalytic subunit, LigB family	LigB		23258706	2PW6
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_03670	COG1778	MR	3-deoxy-D-manno-octulosonate 8-phosphate phosphatase KdsC and related HAD superfamily phosphatases	KdsC			3I6B
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_03680	COG2514	Q	Catechol-2,3-dioxygenase	CatE			
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_03705	COG0193	J	Peptidyl-tRNA hydrolase	Pth	Translation factors	11835511	1RYB
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_03715	COG3968	E	Glutamine synthetase type III	GlnA3			
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_03720	COG0004	P	Ammonia channel protein AmtB	AmtB			1U77
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_03725	COG0607	P	Rhodanese-related sulfurtransferase	PspE	Urea cycle		1TQ1
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_03730	COG0465	O	ATP-dependent Zn proteases	HflB			1LV7
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_03750	COG1042	C	Acyl-CoA synthetase (NDP forming)	PatZN		26251518	4YAK
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_03755	COG0025	P	NhaP-type Na+/H+ or K+/H+ antiporter	NhaP			4CZB
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_03760	COG1355	R	Predicted class III extradiol dioxygenase, MEMO1 family	Mho1			3BCZ
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_03770	COG0491	R	Glyoxylase or a related metal-dependent hydrolase, beta-lactamase superfamily II	GloB		25670698	1QH3
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_03775	COG0251	V	Enamine deaminase RidA, house cleaning of reactive enamine intermediates, YjgF/YER057c/UK114 family	RidA	Pyrimidine degradation	22094463;32205462	1J7H
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_03785	COG1529	C	Aldehyde, CO or xanthine dehydrogenase, Mo-binding subunit	CoxL	Non-phosphorylated Entner-Doudoroff pathway	10095793	1DGJ
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_03790	COG1788	I	Acyl CoA:acetate/3-ketoacid CoA transferase, alpha subunit	AtoD			1K6D
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_03795	COG1525	L	Endonuclease YncB, thermonuclease family	YncB			
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_03800	COG1506	E	Dipeptidyl aminopeptidase/acylaminoacyl peptidase	DAP2			2JBW
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_03820	COG0031	E	Cysteine synthase	CysK	Cysteine biosynthesis		1FCJ
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_03830	COG1977	H	Molybdopterin synthase sulfur carrier subunit MoaD	MoaD	Molybdopterin biosynthesis	32239579	1FM0
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_03835	COG0343	J	Queuine/archaeosine tRNA-ribosyltransferase	Tgt	tRNA modification	15805528	1XW8
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_03845	COG0730	P	Sulfite exporter TauE/SafE/YfcA and related permeases, UPF0721 family	TauE		21183667;22797525	
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_03850	COG0371	C	Glycerol dehydrogenase or related enzyme, iron-containing ADH family	GldA	Isoprenoid biosynthesis	20688982	3S99
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_03855	COG0703	E	Shikimate kinase	AroK	Aromatic amino acid biosynthesis		1E6C
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_03885	COG0028	EH	Acetolactate synthase large subunit or other thiamine pyrophosphate-requiring enzyme	IlvB	Isoleucine, leucine, valine biosynthesis		1BFD
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_03900	COG1032	R	Radical SAM superfamily enzyme YgiQ, UPF0313 family	YgiQ			6FD2
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_03920	COG2159	G	5-carboxyvanillate decarboxylase LigW (lignin degradation), amidohydro domain	LigW		26714575	2DVT
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_03925	COG0076	E	Glutamate or tyrosine decarboxylase or a related PLP-dependent protein	GadA	Pantothenate/CoA biosynthesis		1XEY
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_03930	COG2223	P	Nitrate/nitrite transporter NarK	NarK			4JR9
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_03940	COG5553	R	Predicted metal-dependent enzyme of the double-stranded beta helix superfamily				
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_03950	COG2006	S	Uncharacterized conserved protein, DUF362 family				
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_03955	COG0370	P	Fe2+ transporter FeoB	FeoB		32095817	3TAH
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_03960	COG0346	Q	Catechol 2,3-dioxygenase or related enzyme, vicinal oxygen chelate (VOC) family	GloA		11830595	3R4Q
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_03965	COG1641	H	CTP-dependent cyclometallase, nickel-pincer nucleotide (NPN) cofactor biosynthesis	LarC		29887527	3C19
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_03980	COG3960	Q	Glyoxylate carboligase	Gcl			
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_03985	COG2141	HR	Flavin-dependent oxidoreductase, luciferase family (includes alkanesulfonate monooxygenase SsuD and methylene tetrahydromethanopterin reductase)	SsuD	Pyrimidine degradation		1BRL
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_04005	COG0346	Q	Catechol 2,3-dioxygenase or related enzyme, vicinal oxygen chelate (VOC) family	GloA		11830595	3R4Q
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_04035	COG4221	C	NADP-dependent 3-hydroxy acid dehydrogenase YdfG	YdfG	Pyrimidine degradation		3P19
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_04040	COG4221	C	NADP-dependent 3-hydroxy acid dehydrogenase YdfG	YdfG	Pyrimidine degradation		3P19
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_04055	COG2121	S	Uncharacterized conserved protein, lysophospholipid acyltransferase (LPLAT) superfamily				
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_04060	COG1102	F	Cytidylate kinase	CmkB			
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_04065	COG0671	I	Membrane-associated phospholipid phosphatase	PgpB	Phospholipid biosynthesis		1D2T
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_04075	COG1403	V	5-methylcytosine-specific restriction endonuclease McrA	McrA			
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_04080	COG1774	T	Cell fate regulator YaaT, PSP1 superfamily (controls sporulation, competence, biofilm development)	YaaT		23490197	
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_04085	COG0470	L	DNA polymerase III, delta prime subunit	HolB			1A5T
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_04090	COG0019	E	Diaminopimelate decarboxylase	LysA	Lysine biosynthesis		1D7K
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_04095	COG3383	R	Predicted molibdopterin-dependent oxidoreductase YjgC	YjgC			1AA6
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_04100	COG1529	C	Aldehyde, CO or xanthine dehydrogenase, Mo-binding subunit	CoxL	Non-phosphorylated Entner-Doudoroff pathway	10095793	1DGJ
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_04105	COG1319	C	Aldehyde, CO, or xanthine dehydrogenase, FAD-binding subunit	CutB	Non-phosphorylated Entner-Doudoroff pathway		5Y6Q
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_04110	COG0496	L	Broad specificity polyphosphatase and 5'/3'-nucleotidase SurE	SurE			2V4N
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_04135	COG4913	S	Uncharacterized conserved protein, contains a C-terminal ATPase domain				
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_04145	COG3958	G	Transketolase, C-terminal subunit	TktA2			
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_04150	COG1071	C	TPP-dependent pyruvate or acetoin dehydrogenase subunit alpha	AcoA	Pyruvate oxidation		1DTW
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_04155	COG2236	H	Hypoxanthine phosphoribosyltransferase	Hpt1	Purine salvage		2JKZ
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_04170	COG0346	Q	Catechol 2,3-dioxygenase or related enzyme, vicinal oxygen chelate (VOC) family	GloA		11830595	3R4Q
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_04175	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_04180	COG0154	J	Asp-tRNAAsn/Glu-tRNAGln amidotransferase A subunit or related amidase	GatA	Aminoacyl-tRNA synthetases		3H0L
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_04185	COG2271	G	Sugar phosphate permease	UhpC			1PW4
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_04200	COG0778	C	Nitroreductase	NfnB	Pyrimidine degradation		1F5V
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_04205	COG0596	HR	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold	MenH	Menaquinone biosynthesis		4MYS
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_04225	COG0705	O	Membrane-associated serine protease, rhomboid family	GlpG			2IC8
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_04230	COG2814	G	Predicted arabinose efflux permease AraJ, MFS family	AraJ			4LDS
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_04235	COG0673	R	Predicted dehydrogenase	MviM			3UUW
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_04255	COG2227	H	2-polyprenyl-3-methyl-5-hydroxy-6-metoxy-1,4-benzoquinol methylase	UbiG	Ubiquinone biosynthesis		1BHJ
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_04260	COG1032	R	Radical SAM superfamily enzyme YgiQ, UPF0313 family	YgiQ			6FD2
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_04265	COG1087	M	UDP-glucose 4-epimerase	GalE			1A9Y
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_04275	COG2055	C	Malate/lactate/ureidoglycolate dehydrogenase, LDH2 family	AllD	TCA cycle		1NXU
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_04285	COG3173	R	Predicted  kinase, aminoglycoside phosphotransferase (APT) family	YcbJ			
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_04305	COG1185	J	Polyribonucleotide nucleotidyltransferase (polynucleotide phosphorylase)	Pnp			1E3P
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_04315	COG0002	E	N-acetyl-gamma-glutamylphosphate reductase	ArgC	Arginine biosynthesis		3DR3
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_04320	COG0329	EM	4-hydroxy-tetrahydrodipicolinate synthase/N-acetylneuraminate lyase	DapA	Lysine biosynthesis	27574185	2R91
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_04330	COG0104	F	Adenylosuccinate synthase	PurA	Purine biosynthesis		1ADE
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_04335	COG2814	G	Predicted arabinose efflux permease AraJ, MFS family	AraJ			4LDS
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_04350	COG0447	H	1,4-Dihydroxy-2-naphthoyl-CoA synthase	MenB	Menaquinone biosynthesis		4ELS
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_04360	COG0004	P	Ammonia channel protein AmtB	AmtB			1U77
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_04370	COG1038	C	Pyruvate carboxylase	PycA	Urea cycle		5VYW
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_04375	COG0458	EF	Carbamoylphosphate synthase large subunit	CarB	Arginine biosynthesis		1C30
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_04380	COG1381	L	Recombinational DNA repair protein RecO (RecF pathway)	RecO			1U5K
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_04385	COG0353	L	Recombinational DNA repair protein RecR	RecR		26337406	2JGR
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_04390	COG0718	K	DNA-binding nucleoid-associated protein YbaB/EfbC	YbaB		19594923;22544270	1J8B
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_04395	COG0470	L	DNA polymerase III, delta prime subunit	HolB			1A5T
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_04410	COG0637	G	Beta-phosphoglucomutase, HAD superfamily	YcjU		29684280	3E58
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_04415	COG0069	E	Glutamate synthase domain 2	GltB2	Glutamine biosynthesis		1EA0
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_04430	COG3837	S	Uncharacterized conserved protein, cupin superfamily				
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_04440	COG4799	I	Acetyl-CoA carboxylase, carboxyltransferase component	MmdA			1OD2
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_04445	COG1181	MR	D-alanine-D-alanine ligase or related ATP-grasp enzyme	DdlA	Mureine biosynthesis		1E4E
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_04450	COG4770	I	Acetyl/propionyl-CoA carboxylase, alpha subunit	PccA			3U9S
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_04455	COG1099	R	Predicted metal-dependent hydrolase, TIM-barrel fold				3GUW
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_04460	COG0479	C	Succinate dehydrogenase/fumarate reductase, Fe-S protein subunit	SdhB/FrdB	TCA cycle		6LUM
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_04465	COG1529	C	Aldehyde, CO or xanthine dehydrogenase, Mo-binding subunit	CoxL	Non-phosphorylated Entner-Doudoroff pathway	10095793	1DGJ
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_04485	COG3961	GHR	TPP-dependent 2-oxoacid decarboxylase, includes indolepyruvate decarboxylase	PDC1	Pyruvate oxidation		1PYD
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_04505	COG2195	E	Di- or tripeptidase	PepD2			2QYV
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_04510	COG3391	R	DNA-binding beta-propeller fold protein YncE	YncE		22120742;28628661	3VGZ
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_04530	COG1028	I	NAD(P)-dependent dehydrogenase, short-chain alcohol dehydrogenase family	FabG	Fatty acid biosynthesis		6L1H
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_04535	COG0451	M	Nucleoside-diphosphate-sugar epimerase	WcaG			2X4G
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_04545	COG0514	L	Superfamily II DNA helicase RecQ	RecQ			1OYW
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_04555	COG0494	V	8-oxo-dGTP pyrophosphatase MutT and related house-cleaning NTP pyrophosphohydrolases, NUDIX family	MutT			4V14
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_04560	COG1073	T	Fermentation-respiration switch esterase FrsA, DUF1100 family	FrsA			
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_04570	COG2141	HR	Flavin-dependent oxidoreductase, luciferase family (includes alkanesulfonate monooxygenase SsuD and methylene tetrahydromethanopterin reductase)	SsuD	Pyrimidine degradation		1BRL
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_04585	COG0778	C	Nitroreductase	NfnB	Pyrimidine degradation		1F5V
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_04590	COG2143	O	Thioredoxin-related protein SoxW	SoxW			4FYB
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_04595	COG0173	J	Aspartyl-tRNA synthetase	AspS	Aminoacyl-tRNA synthetases		1C0A
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_04600	COG3588	G	Fructose-bisphosphate aldolase class 1	Fba1	Glycolysis		
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_04615	COG1062	C	Zn-dependent alcohol/formaldehyde dehydrogenase	FrmA			1A71
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_04630	COG1180	O	Pyruvate-formate lyase-activating enzyme	PflA			3CAN
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_04635	COG0367	E	Asparagine synthetase B (glutamine-hydrolyzing)	AsnB	Asparagine biosynthesis	25951518	2ETD
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_04665	COG4558	P	ABC-type hemin transport system, periplasmic component	ChuT			3MD9
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_04670	COG4558	P	ABC-type hemin transport system, periplasmic component	ChuT			3MD9
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_04675	COG0466	O	ATP-dependent Lon protease, bacterial type	Lon			6ON2
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_04680	COG4564	T	Signal transduction histidine kinase				2QHK
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_04695	COG0526	O	Thiol-disulfide isomerase or thioredoxin	TrxA			1XFL
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_04700	COG0513	L	Superfamily II DNA and RNA helicase	SrmB			3RRM
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_04705	COG1608	I	Isopentenyl phosphate kinase			16621811	3LKK
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_04710	COG1012	I	Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase	AdhE	Proline degradation		1A4S
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_04715	COG3899	R	Predicted ATPase				
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_04720	COG3899	R	Predicted ATPase				
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_04725	COG2197	TK	DNA-binding response regulator, NarL/FixJ family, contains REC and HTH domains	CitB			1A04
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_04730	COG4982	I	3-oxoacyl-ACP reductase domain of yeast-type fatty acid synthase FAS1	FabG2			2UV8
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_04735	COG4319	R	Ketosteroid isomerase homolog YybH	YybH			2GXF
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_04740	COG1225	O	Peroxiredoxin	Bcp			5IPH
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_04745	COG1225	O	Peroxiredoxin	Bcp			5IPH
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_04750	COG3618	R	Predicted metal-dependent hydrolase, TIM-barrel fold				
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_04755	COG3663	L	G:T/U-mismatch repair DNA glycosylase	Mug			1MTL
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_04765	COG1194	L	Adenine-specific DNA glycosylase, acts on AG and A-oxoG pairs	MutY			1KG2
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_04775	COG1419	N	Flagellar biosynthesis GTPase FlhF	FlhF			3SYN
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_04780	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_04785	COG2227	H	2-polyprenyl-3-methyl-5-hydroxy-6-metoxy-1,4-benzoquinol methylase	UbiG	Ubiquinone biosynthesis		1BHJ
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_04795	COG1529	C	Aldehyde, CO or xanthine dehydrogenase, Mo-binding subunit	CoxL	Non-phosphorylated Entner-Doudoroff pathway	10095793	1DGJ
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_04805	COG0749	L	DNA polymerase I, 3'-5' exonuclease and polymerase domains	PolA			1D8Y
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_04815	COG0656	Q	Aldo/keto reductase, related to diketogulonate reductase	ARA1			1Q13
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_04835	COG1804	I	Crotonobetainyl-CoA:carnitine CoA-transferase CaiB and related acyl-CoA transferases	CaiB			1P5H
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_04840	COG2072	P	Predicted flavoprotein CzcO associated with the cation diffusion facilitator CzcD	CzcO			4USQ
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_04845	COG2072	P	Predicted flavoprotein CzcO associated with the cation diffusion facilitator CzcD	CzcO			4USQ
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_04855	COG1249	C	Dihydrolipoamide dehydrogenase (E3) component of pyruvate/2-oxoglutarate dehydrogenase complex or glutathione oxidoreductase	Lpd	Glycine cleavagePyruvate oxidation		6QKG
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_04860	COG1042	C	Acyl-CoA synthetase (NDP forming)	PatZN		26251518	4YAK
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_04870	COG1249	C	Dihydrolipoamide dehydrogenase (E3) component of pyruvate/2-oxoglutarate dehydrogenase complex or glutathione oxidoreductase	Lpd	Glycine cleavagePyruvate oxidation		6QKG
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_04875	COG0412	Q	Dienelactone hydrolase	DLH			4ZV9
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_04880	COG3135	Q	Predicted benzoate:H+ symporter BenE	BenE			
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_04885	COG0145	EQ	N-methylhydantoinase A/oxoprolinase/acetone carboxylase, beta subunit	HyuA			
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_04895	COG2226	H	Ubiquinone/menaquinone biosynthesis C-methylase UbiE/MenG	UbiE	Biotin biosynthesis		4OBW
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_04900	COG0179	Q	2-keto-4-pentenoate hydratase/2-oxohepta-3-ene-1,7-dioic acid hydratase (catechol pathway)	YcgM			1GTT
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_04905	COG0684	J	RNA degradosome component RraA (regulator of RNase E activity)	RraA		20471400	1J3L
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_04910	COG1052	CHR	Lactate dehydrogenase or related 2-hydroxyacid dehydrogenase	LdhA	Pyridoxal phosphate biosynthesis		1DXY
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_04915	COG1804	I	Crotonobetainyl-CoA:carnitine CoA-transferase CaiB and related acyl-CoA transferases	CaiB			1P5H
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_04920	COG1804	I	Crotonobetainyl-CoA:carnitine CoA-transferase CaiB and related acyl-CoA transferases	CaiB			1P5H
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_04925	COG1225	O	Peroxiredoxin	Bcp			5IPH
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_04930	COG0433	L	Archaeal DNA helicase HerA or a related bacterial ATPase, contains HAS-barrel and ATPase domains	HerA			4D2I
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_04935	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_04940	COG0528	F	Uridylate kinase	PyrH	Pyrimidine biosynthesis		2BND
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_04945	COG1947	I	4-diphosphocytidyl-2C-methyl-D-erythritol kinase	IspE	Isoprenoid biosynthesis		1OJ4
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_04955	COG0449	M	Glucosamine 6-phosphate synthetase, contains amidotransferase and phosphosugar isomerase domains	GlmS			2J6H
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_04960	COG3427	C	Carbon monoxide dehydrogenase subunit CoxG	CoxG			2NS9
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_04965	COG1319	C	Aldehyde, CO, or xanthine dehydrogenase, FAD-binding subunit	CutB	Non-phosphorylated Entner-Doudoroff pathway		5Y6Q
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_04970	COG3383	R	Predicted molibdopterin-dependent oxidoreductase YjgC	YjgC			1AA6
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_04980	COG2079	G	2-methylcitrate dehydratase PrpD	PrpD			1SZQ
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_04995	COG0580	G	Glycerol uptake facilitator or related aquaporin (Major Intrinsic protein Family)	GlpF			1FQY
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_05000	COG0488	R	ATPase components of ABC transporters with duplicated ATPase domains	Uup			5ZXD
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_05005	COG0613	F	5'-3' exoribonuclease TrpH/YciV (RNase AM), contains PHP domain	YciV		25871919	3E0F
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_05010	COG1674	D	DNA segregation ATPase FtsK/SpoIIIE or related protein	FtsK			2IUT
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_05015	COG1236	J	RNA processing exonuclease, beta-lactamase fold, Cft2 family	YSH1			2DKF
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_05035	COG2814	G	Predicted arabinose efflux permease AraJ, MFS family	AraJ			4LDS
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_05045	COG2331	R	Predicted nucleic acid-binding protein, contains Zn-ribbon domain				
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_05050	COG4478	S	Uncharacterized membrane protein				
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_05055	COG1694	V	NTP pyrophosphatase, house-cleaning of non-canonical NTPs	MazG			1VMG
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_05060	COG1030	O	Membrane-bound serine protease NfeD, ClpP class	NfeD			2DEO
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_05070	COG1529	C	Aldehyde, CO or xanthine dehydrogenase, Mo-binding subunit	CoxL	Non-phosphorylated Entner-Doudoroff pathway	10095793	1DGJ
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_05090	COG0756	FV	dUTP pyrophosphatase (dUTPase)	Dut	Thymidylate biosynthesis		1DUC
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_05095	COG0459	O	Chaperonin GroEL (HSP60 family)	GroEL			1AON
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_05100	COG0801	H	7,8-dihydro-6-hydroxymethylpterin pyrophosphokinase (folate biosynthesis)	FolK	Folate biosynthesis		1CBK
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_05110	COG4799	I	Acetyl-CoA carboxylase, carboxyltransferase component	MmdA			1OD2
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_05120	COG2812	L	DNA polymerase III, gamma/tau subunits	DnaX			1A5T
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_05125	COG1335	HR	Nicotinamidase-related amidase	PncA	Pyrimidine degradation		1ILW
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_05135	COG0520	E	Selenocysteine lyase/Cysteine desulfurase	CsdA			4LW2
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_05140	COG0412	Q	Dienelactone hydrolase	DLH			4ZV9
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_05150	COG1187	J	Pseudouridylate synthase RsuA, specific for 16S rRNA U516  and 23S rRNA U2605	RsuA	16S rRNA modification		1KSK
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_05155	COG0180	J	Tryptophanyl-tRNA synthetase	TrpS	Aminoacyl-tRNA synthetases		3N9I
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_05165	COG0526	O	Thiol-disulfide isomerase or thioredoxin	TrxA			1XFL
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_05170	COG2242	H	Precorrin-6B methylase 2	CobL	Cobalamine/B12 biosynthesis		1F38
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_05180	COG0805	U	Twin-arginine protein secretion pathway component TatC	TatC			4B4A
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_05185	COG1826	U	Twin-arginine protein secretion pathway components TatA and TatB	TatA			2L16
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_05195	COG0579	G	L-2-hydroxyglutarate oxidase LhgO	LhgO			3DME
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_05200	COG1063	ER	Threonine dehydrogenase or related Zn-dependent dehydrogenase	Tdh	Non-phosphorylated Entner-Doudoroff pathway		4A2C
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_05205	COG1251	C	NAD(P)H-nitrite reductase, large subunit	NirB			
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_05210	COG4231	C	TPP-dependent indolepyruvate ferredoxin oxidoreductase, alpha subunit	IorA			
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_05215	COG4231	C	TPP-dependent indolepyruvate ferredoxin oxidoreductase, alpha subunit	IorA			
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_05220	COG1038	C	Pyruvate carboxylase	PycA	Urea cycle		5VYW
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_05225	COG1165	H	2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate synthase	MenD	Menaquinone biosynthesis		5Z2P
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_05235	COG3806	T	Anti-sigma factor ChrR, cupin superfamily	ChrR			2Q1Z
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_05240	COG4941	K	Predicted RNA polymerase sigma factor, contains C-terminal TPR domain				
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_05250	COG2079	G	2-methylcitrate dehydratase PrpD	PrpD			1SZQ
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_05260	COG0457	R	Tetratricopeptide (TPR) repeat	TPR			3AS4
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_05265	COG3576	R	Predicted flavin-nucleotide-binding protein, pyridoxine 5'-phosphate oxidase superfamily				5ESC
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_05270	COG0028	EH	Acetolactate synthase large subunit or other thiamine pyrophosphate-requiring enzyme	IlvB	Isoleucine, leucine, valine biosynthesis		1BFD
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_05275	COG0028	EH	Acetolactate synthase large subunit or other thiamine pyrophosphate-requiring enzyme	IlvB	Isoleucine, leucine, valine biosynthesis		1BFD
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_05290	COG2040	E	Homocysteine/selenocysteine methylase (S-methylmethionine-dependent)	MHT1			5DML
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_05305	COG2185	I	Methylmalonyl-CoA mutase, C-terminal domain/subunit (cobalamin-binding)	Sbm			1B1A
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_05315	COG0633	C	Ferredoxin	Fdx			1KRH
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_05335	COG0154	J	Asp-tRNAAsn/Glu-tRNAGln amidotransferase A subunit or related amidase	GatA	Aminoacyl-tRNA synthetases		3H0L
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_05350	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_05360	COG4152	R	ABC-type uncharacterized transport system, ATPase component	YhaQ			
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_05365	COG4152	R	ABC-type uncharacterized transport system, ATPase component	YhaQ			
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_05370	COG0600	P	ABC-type nitrate/sulfonate/bicarbonate transport system, permease component	TauC			
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_05375	COG1173	EP	ABC-type dipeptide/oligopeptide/nickel transport system, permease component	DppC			
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_05390	COG0028	EH	Acetolactate synthase large subunit or other thiamine pyrophosphate-requiring enzyme	IlvB	Isoleucine, leucine, valine biosynthesis		1BFD
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_05400	COG1804	I	Crotonobetainyl-CoA:carnitine CoA-transferase CaiB and related acyl-CoA transferases	CaiB			1P5H
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_05405	COG1804	I	Crotonobetainyl-CoA:carnitine CoA-transferase CaiB and related acyl-CoA transferases	CaiB			1P5H
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_05410	COG1048	C	Aconitase A	AcnA	Lysine biosynthesisTCA cycle		1ACO
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_05415	COG4922	R	Predicted SnoaL-like aldol condensation-catalyzing enzyme			15071504	
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_05420	COG1049	C	Aconitase B	AcnB	TCA cycle		1L5J
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_05425	COG0308	E	Aminopeptidase N, contains DUF3458 domain	PepN		24123841	6ATK
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_05430	COG1410	E	Methionine synthase I, cobalamin-binding domain	MetH2	Methionine biosynthesis		4DJD
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_05435	COG4126	E	Asp/Glu/hydantoin racemase	Dcg1			
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_05450	COG2897	P	3-mercaptopyruvate sulfurtransferase SseA, contains two rhodanese domains	SseA			1BOH
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_05455	COG0787	M	Alanine racemase	Alr	Mureine biosynthesis		1BD0
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_05465	COG2072	P	Predicted flavoprotein CzcO associated with the cation diffusion facilitator CzcD	CzcO			4USQ
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_05470	COG2072	P	Predicted flavoprotein CzcO associated with the cation diffusion facilitator CzcD	CzcO			4USQ
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_05480	COG0346	Q	Catechol 2,3-dioxygenase or related enzyme, vicinal oxygen chelate (VOC) family	GloA		11830595	3R4Q
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_05485	COG0657	I	Acetyl esterase/lipase	Aes			1EVQ
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_05490	COG3618	R	Predicted metal-dependent hydrolase, TIM-barrel fold				
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_05510	COG2814	G	Predicted arabinose efflux permease AraJ, MFS family	AraJ			4LDS
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_05525	COG0069	E	Glutamate synthase domain 2	GltB2	Glutamine biosynthesis		1EA0
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_05550	COG4799	I	Acetyl-CoA carboxylase, carboxyltransferase component	MmdA			1OD2
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_05560	COG4566	TK	DNA-binding response regulator, FixJ family, consists of REC and HTH domains	FixJ			1YIO
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_05565	COG4559	P	ABC-type hemin transport system, ATPase component				4G1U
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_05585	COG2332	CO	Cytochrome c biogenesis protein CcmE	CcmE			1J6Q
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_05590	COG5660	T	Anti-sigma-YlaC factor YlaD, contains Zn-finger domain	YlaD		16501307	
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_05600	COG0028	EH	Acetolactate synthase large subunit or other thiamine pyrophosphate-requiring enzyme	IlvB	Isoleucine, leucine, valine biosynthesis		1BFD
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_05605	COG4231	C	TPP-dependent indolepyruvate ferredoxin oxidoreductase, alpha subunit	IorA			
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_05610	COG0758	L	Predicted Rossmann fold nucleotide-binding protein DprA/Smf involved in DNA uptake	Smf			3MAJ
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_05615	COG0758	L	Predicted Rossmann fold nucleotide-binding protein DprA/Smf involved in DNA uptake	Smf			3MAJ
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_05620	COG0551	L	DNA topoisomerase I, ssDNA-binding Zn-finger and Zn-ribbon domains	YrdD			1YUA
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_05625	COG0582	LX	Integrase/recombinase, includes phage integrase	FimB			
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_05635	COG0024	J	Methionine aminopeptidase	Map			3J2I
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_05640	COG0231	J	Translation elongation factor P (EF-P)/translation initiation factor 5A (eIF-5A)	Efp	Translation factors		1UEB
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_05645	COG1570	L	Exonuclease VII, large subunit	XseA			
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_05650	COG1722	L	Exonuclease VII small subunit	XseB			1VP7
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_05655	COG0788	F	Formyltetrahydrofolate hydrolase	PurU	Purine biosynthesis		3O1L
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_05660	COG0464	MDT	AAA+-type ATPase, SpoVK/Ycf46/Vps4 family	SpoVK			3SYL
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_05665	COG0616	O	Periplasmic serine protease, ClpP class	SppA			3BEZ
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_05675	COG0275	J	16S rRNA C1402 N4-methylase RsmH	RmsH	16S rRNA modification		1M6Y
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_05680	COG4972	NW	Type IV pilus assembly protein, ATPase PilM	PilM			2YCH
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_05685	COG0206	D	Cell division GTPase FtsZ	FtsZ			1FSZ
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_05690	COG1327	K	Transcriptional regulator NrdR, contains Zn-ribbon and ATP-cone domains	NrdR			
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_05700	COG0162	J	Tyrosyl-tRNA synthetase	TyrS	Aminoacyl-tRNA synthetases		4OUD
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_05720	COG4634	R	Predicted nuclease, contains PIN domain, potential toxin-antitoxin system component			19493340	
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_05725	COG0123	Q	Acetoin utilization deacetylase AcuC or a related deacetylase	AcuC			1C3P
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_05735	COG0443	O	Molecular chaperone DnaK (HSP70)	DnaK			3I33
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_05740	COG0576	O	Molecular chaperone GrpE (heat shock protein HSP-70)	GrpE			1DKG
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_05745	COG0789	K	DNA-binding transcriptional regulator, MerR family	SoxR			2VZ4
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_05760	COG0611	H	Thiamine monophosphate kinase	ThiL	Thiamine biosynthesis		5CC8
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_05765	COG0206	D	Cell division GTPase FtsZ	FtsZ			1FSZ
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_05770	COG5415
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_05780	COG3241	C	Azurin	BlueCu			
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_05795	COG0154	J	Asp-tRNAAsn/Glu-tRNAGln amidotransferase A subunit or related amidase	GatA	Aminoacyl-tRNA synthetases		3H0L
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_05800	COG0826	J	23S rRNA C2501 and tRNA U34 5'-hydroxylation protein RlhA/YrrN/YrrO, U32 peptidase family	RlhA	23S rRNA modification	31253794;31358606	5D88
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_05805	COG5485	R	Predicted ester cyclase				3EHC
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_05810	COG0021	G	Transketolase	TktA	Pentose phosphate pathway		1AY0
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_05825	COG0251	V	Enamine deaminase RidA, house cleaning of reactive enamine intermediates, YjgF/YER057c/UK114 family	RidA	Pyrimidine degradation	22094463;32205462	1J7H
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_05830	COG0400	R	Predicted esterase	YpfH			
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_05840	COG3239	I	Fatty acid desaturase	DesA			
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_05845	COG0703	E	Shikimate kinase	AroK	Aromatic amino acid biosynthesis		1E6C
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_05850	COG0596	HR	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold	MenH	Menaquinone biosynthesis		4MYS
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_05855	COG3386	G	Sugar lactone lactonase YvrE	YvrE	Non-phosphorylated Entner-Doudoroff pathway		1E1A
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_05860	COG0579	G	L-2-hydroxyglutarate oxidase LhgO	LhgO			3DME
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_05870	COG1804	I	Crotonobetainyl-CoA:carnitine CoA-transferase CaiB and related acyl-CoA transferases	CaiB			1P5H
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_05875	COG1804	I	Crotonobetainyl-CoA:carnitine CoA-transferase CaiB and related acyl-CoA transferases	CaiB			1P5H
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_05880	COG0622	R	Predicted phosphodiesterase, calcineurin family	YfcE		17586769	1SU1
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_05885	COG1570	L	Exonuclease VII, large subunit	XseA			
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_05900	COG1489	GT	DNA-binding protein, stimulates sugar fermentation	SfsA			4DA2
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_05905	COG0122	L	3-methyladenine DNA glycosylase/8-oxoguanine DNA glycosylase	AlkA			1DIZ
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_05915	COG0346	Q	Catechol 2,3-dioxygenase or related enzyme, vicinal oxygen chelate (VOC) family	GloA		11830595	3R4Q
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_05920	COG0596	HR	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold	MenH	Menaquinone biosynthesis		4MYS
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_05925	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_05930	COG1804	I	Crotonobetainyl-CoA:carnitine CoA-transferase CaiB and related acyl-CoA transferases	CaiB			1P5H
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_05935	COG1033	R	Predicted exporter protein, RND superfamily	MMPL			5KHN
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_05950	COG0334	E	Glutamate dehydrogenase/leucine dehydrogenase	GdhA	Glutamine biosynthesis	24391520	1B3B
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_05955	COG0405	E	Gamma-glutamyltranspeptidase	Ggt		16618936	2Z8I
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_05960	COG0623	I	Enoyl-[acyl-carrier-protein] reductase FabI	FabI	Fatty acid biosynthesis		1C14
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_05965	COG1225	O	Peroxiredoxin	Bcp			5IPH
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_05970	COG1276	P	Putative copper export protein	PcoD			
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_05990	COG4948	MR	L-alanine-DL-glutamate epimerase or related enzyme of enolase superfamily	RspA	Non-phosphorylated Entner-Doudoroff pathway		1BKH
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_06015	COG1994	O	Zn-dependent protease (includes sporulation protein SpoIVFB)	SpoIVFB			3B4R
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_06025	COG0044	F	Dihydroorotase or related cyclic amidohydrolase	AllB	Pyrimidine biosynthesis		1J79
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_06035	COG1473	R	Metal-dependent amidase/aminoacylase/carboxypeptidase	AbgB	Lysine biosynthesis	17307853	3RAM
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_06040	COG0290	J	Translation initiation factor IF-3	InfC	Translation factors		2IFE
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_06050	COG0292	J	Ribosomal protein L20	RplT	Ribosome 50S subunit	30270044	1VS6
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_06060	COG0303	H	Molybdopterin Mo-transferase (molybdopterin biosynthesis)	MoeA	Molybdopterin biosynthesis	18801996;32239579	2NQU
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_06065	COG0072	J	Phenylalanyl-tRNA synthetase beta subunit	PheT	Aminoacyl-tRNA synthetases		3L4G
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_06070	COG0016	J	Phenylalanyl-tRNA synthetase alpha subunit	PheS	Aminoacyl-tRNA synthetases		3L4G
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_06100	COG0441	J	Threonyl-tRNA synthetase	ThrS	Aminoacyl-tRNA synthetases		1NYQ
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_06105	COG0821	I	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase IspG/GcpE	IspG	Isoprenoid biosynthesis		2Y0F
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_06110	COG0265	O	Periplasmic serine protease, S1-C subfamily, contain C-terminal PDZ domain	DegQ		29686141	2HGA
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_06115	COG0743	I	1-deoxy-D-xylulose 5-phosphate reductoisomerase	Dxr	Isoprenoid biosynthesis		1JVS
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_06120	COG4589	R	Predicted CDP-diglyceride synthetase/phosphatidate cytidylyltransferase	YnbB			
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_06125	COG0020	I	Undecaprenyl pyrophosphate synthase	UppS			1X07
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_06130	COG0233	J	Ribosome recycling factor	Frr			1DD5
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_06135	COG1608	I	Isopentenyl phosphate kinase			16621811	3LKK
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_06145	COG0052	J	Ribosomal protein S2	RpsB	Ribosome 30S subunit		4V4H
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_06155	COG1082	G	Sugar phosphate isomerase/epimerase	YcjR		30742415	3KTC
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_06160	COG2130	QR	NADPH-dependent curcumin reductase CurA	CurA		21467222	1V3T
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_06165	COG0342	U	Preprotein translocase subunit SecD	SecD		26100040	3AQP
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_06170	COG0341	U	Preprotein translocase subunit SecF	SecF		28830929	2FYH
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_06180	COG0242	J	Peptide deformylase	Def			1BS4
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_06185	COG1200	L	RecG-like helicase	RecG			1GM5
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_06200	COG3554	S	Uncharacterized conserved protein				2H1T
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_06220	COG0673	R	Predicted dehydrogenase	MviM			3UUW
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_06235	COG0645	R	Predicted kinase, contains AAA domain				2RHM
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_06240	COG2223	P	Nitrate/nitrite transporter NarK	NarK			4JR9
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_06255	COG2084	I	3-hydroxyisobutyrate dehydrogenase or related beta-hydroxyacid dehydrogenase	MmsB			1I36
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_06265	COG1917	R	Cupin domain protein related to quercetin dioxygenase	QdoI			2H0V
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_06270	COG0778	C	Nitroreductase	NfnB	Pyrimidine degradation		1F5V
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_06280	COG4149	P	ABC-type molybdate transport system, permease component ModB	ModB	Molybdopterin biosynthesis		
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_06285	COG1574	R	Predicted amidohydrolase YtcJ	YtcJ			3ICJ
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_06300	COG0299	F	Folate-dependent phosphoribosylglycinamide formyltransferase PurN	PurN	Purine biosynthesis	25013077	1C2T
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_06310	COG1837	R	Predicted RNA-binding protein YlqC, contains KH domain, UPF0109 family	YlqC			
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_06320	COG0217	KJ	Transcriptional and/or translational regulatory protein YebC/TACO1	TACO1			1KON
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_06335	COG0513	L	Superfamily II DNA and RNA helicase	SrmB			3RRM
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_06350	COG3710	K	DNA-binding winged helix-turn-helix (wHTH) domain	CadC1			
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_06355	COG1200	L	RecG-like helicase	RecG			1GM5
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_06360	COG1307	I	Fatty acid-binding protein DegV (function unknown)	DegV			1MGP
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_06365	COG1461	R	Predicted kinase related to dihydroxyacetone kinase	YloV			
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_06370	COG0261	J	Ribosomal protein L21	RplU	Ribosome 50S subunit		1VS6
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_06375	COG0211	J	Ribosomal protein L27	RpmA	Ribosome 50S subunit		1VS6
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_06380	COG0254	J	Ribosomal protein L31	RpmE	Ribosome 50S subunit		1VS6
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_06400	COG0332	I	3-oxoacyl-[acyl-carrier-protein] synthase III	FabH	Fatty acid biosynthesis		1UB7
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_06405	COG1032	R	Radical SAM superfamily enzyme YgiQ, UPF0313 family	YgiQ			6FD2
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_06410	COG1804	I	Crotonobetainyl-CoA:carnitine CoA-transferase CaiB and related acyl-CoA transferases	CaiB			1P5H
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_06415	COG1804	I	Crotonobetainyl-CoA:carnitine CoA-transferase CaiB and related acyl-CoA transferases	CaiB			1P5H
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_06430	COG1804	I	Crotonobetainyl-CoA:carnitine CoA-transferase CaiB and related acyl-CoA transferases	CaiB			1P5H
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_06440	COG1102	F	Cytidylate kinase	CmkB			
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_06445	COG0024	J	Methionine aminopeptidase	Map			3J2I
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_06460	COG0100	J	Ribosomal protein S11	RpsK	Ribosome 30S subunit		4V4H
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_06465	COG1189	J	Predicted rRNA methylase YqxC, contains S4 and FtsJ domains	YqxC			3OPN
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_06470	COG0202	K	DNA-directed RNA polymerase, alpha subunit/40 kD subunit	RpoA	RNA polymerase		4KN7
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_06475	COG0203	J	Ribosomal protein L17	RplQ	Ribosome 50S subunit		1GD8
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_06480	COG0101	J	tRNA U38,U39,U40 pseudouridine synthase TruA	TruA	tRNA modification		1DJ0
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_06485	COG0102	J	Ribosomal protein L13	RplM	Ribosome 50S subunit		1VS6
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_06490	COG0103	J	Ribosomal protein S9	RpsI	Ribosome 30S subunit		4V4H
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_06495	COG1109	G	Phosphomannomutase	ManB			6MNV
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_06510	COG0192	H	S-adenosylmethionine synthetase	MetK	Methionine biosynthesis		1FUG
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_06515	COG0499	H	S-adenosylhomocysteine hydrolase	SAM1			1A7A
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_06520	COG0607	P	Rhodanese-related sulfurtransferase	PspE	Urea cycle		1TQ1
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_06525	COG0005	F	Purine nucleoside phosphorylase	XapA	Purine salvage		1YQQ
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_06530	COG0182	E	5-methylthioribose/5-deoxyribulose 1-phosphate isomerase (methionine salvage pathway), a paralog of eIF-2B alpha subunit	MtnA		31950558	1T5O
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_06535	COG1488	H	Nicotinic acid phosphoribosyltransferase	PncB	NAD biosynthesis		1VLP
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_06540	COG2025	C	Electron transfer flavoprotein, alpha subunit FixB	FixB			1EFP
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_06560	COG0346	Q	Catechol 2,3-dioxygenase or related enzyme, vicinal oxygen chelate (VOC) family	GloA		11830595	3R4Q
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_06565	COG1075	I	Triacylglycerol esterase/lipase EstA, alpha/beta hydrolase fold	EstA			1I6W
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_06580	COG1087	M	UDP-glucose 4-epimerase	GalE			1A9Y
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_06585	COG2272	I	Carboxylesterase type B	PnbA			1K4Y
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_06595	COG0402	FR	Cytosine/adenosine deaminase or related metal-dependent hydrolase	SsnA	Pyrimidine salvage		3O7U
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_06605	COG1102	F	Cytidylate kinase	CmkB			
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_06610	COG0705	O	Membrane-associated serine protease, rhomboid family	GlpG			2IC8
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_06615	COG0607	P	Rhodanese-related sulfurtransferase	PspE	Urea cycle		1TQ1
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_06625	COG1529	C	Aldehyde, CO or xanthine dehydrogenase, Mo-binding subunit	CoxL	Non-phosphorylated Entner-Doudoroff pathway	10095793	1DGJ
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_06640	COG1712	E	L-aspartate dehydrogenase, NAD(P)-dependent	AspD		12496312	1H2H
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_06645	COG1937	K	DNA-binding transcriptional regulator, FrmR family	FrmR			2HH7
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_06650	COG5470	S	Uncharacterized conserved protein, DUF1330 family				
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_06655	COG2217	P	Cation-transporting P-type ATPase	ZntA			4BBJ
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_06665	COG3318	S	Uncharacterized conserved protein YecA, UPF0149 family, contains C-terminal Zn-binding SEC-C motif	YecA			
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_06670	COG2070	R	NAD(P)H-dependent flavin oxidoreductase YrpB, nitropropane dioxygenase family	YrpB			
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_06675	COG0086	K	DNA-directed RNA polymerase, beta' subunit/160 kD subunit	RpoC	RNA polymerase		1NT9
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_06685	COG2807	P	Cyanate permease	CynX			
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_06690	COG1001	F	Adenine deaminase	AdeC			3NQB
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_06695	COG1022	I	Long-chain acyl-CoA synthetase (AMP-forming)	FAA1			
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_06705	COG0028	EH	Acetolactate synthase large subunit or other thiamine pyrophosphate-requiring enzyme	IlvB	Isoleucine, leucine, valine biosynthesis		1BFD
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_06710	COG2243	H	Precorrin-2 methylase	CobF	Cobalamine/B12 biosynthesis		2QBU
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_06715	COG0652	O	Peptidyl-prolyl cis-trans isomerase (rotamase) - cyclophilin family	PpiB			4DGD
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_06725	COG0334	E	Glutamate dehydrogenase/leucine dehydrogenase	GdhA	Glutamine biosynthesis	24391520	1B3B
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_06735	COG2207	K	AraC-type DNA-binding domain and AraC-containing proteins	AraC			1BL0
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_06740	COG2331	R	Predicted nucleic acid-binding protein, contains Zn-ribbon domain				
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_06745	COG4478	S	Uncharacterized membrane protein				
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_06750	COG1694	V	NTP pyrophosphatase, house-cleaning of non-canonical NTPs	MazG			1VMG
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_06760	COG0616	O	Periplasmic serine protease, ClpP class	SppA			3BEZ
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_06765	COG0616	O	Periplasmic serine protease, ClpP class	SppA			3BEZ
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_06790	COG2002	KV	Bifunctional DNA-binding transcriptional regulator of stationary/sporulation/toxin gene expression and antitoxin component of the YhaV-PrlF toxin-antitoxin module	AbrB			2RO5
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_06795	COG5611	R	Predicted nucleic-acid-binding protein, contains PIN domain				
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_06800	COG4221	C	NADP-dependent 3-hydroxy acid dehydrogenase YdfG	YdfG	Pyrimidine degradation		3P19
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_06805	COG1804	I	Crotonobetainyl-CoA:carnitine CoA-transferase CaiB and related acyl-CoA transferases	CaiB			1P5H
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_06825	COG2818	L	3-methyladenine DNA glycosylase Tag	Tag			1LMZ
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_06850	COG3618	R	Predicted metal-dependent hydrolase, TIM-barrel fold				
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_06860	COG2070	R	NAD(P)H-dependent flavin oxidoreductase YrpB, nitropropane dioxygenase family	YrpB			
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_06865	COG2021	E	Homoserine O-acetyltransferase	MET2	Methionine biosynthesis		2VAT
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_06870	COG0588	G	Phosphoglycerate mutase (BPG-dependent)	GpmA	Glycolysis		1E58
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_06910	COG1178	P	ABC-type Fe3+ transport system, permease component	FbpB			
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_06915	COG1173	EP	ABC-type dipeptide/oligopeptide/nickel transport system, permease component	DppC			
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_06920	COG4533	K	DNA-binding transcriptional regulator SgrR of sgrS sRNA, contains a MarR-type HTH domain and a periplasmic-type solute-binding domain	SgrR			
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_06930	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_06935	COG1514	J	RNA 2',3'-cyclic phosphodiesterase (2'-5' RNA ligase)	ThpR		25239919	1IUH
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_06940	COG2224	C	Isocitrate lyase	AceA	TCA cycle, glyoxylate bypass		1DQU
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_06960	COG2159	G	5-carboxyvanillate decarboxylase LigW (lignin degradation), amidohydro domain	LigW		26714575	2DVT
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_06965	COG0179	Q	2-keto-4-pentenoate hydratase/2-oxohepta-3-ene-1,7-dioic acid hydratase (catechol pathway)	YcgM			1GTT
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_06970	COG3324	R	Lactoylglutathione lyase-related enzyme, vicinal oxygen chelate (VOC) family	VOC		31710815	3OXH
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_06975	COG2227	H	2-polyprenyl-3-methyl-5-hydroxy-6-metoxy-1,4-benzoquinol methylase	UbiG	Ubiquinone biosynthesis		1BHJ
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_06985	COG1848	V	VapC family ribonuclease, toxin component of the VapBC toxin-antitoxin module, contains PIN domain	VapC		30169502	
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_06990	COG2165	NUW	Type II secretory pathway, pseudopilin PulG	PulG			1AY2
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_06995	COG4638	PR	Phenylpropionate dioxygenase or related ring-hydroxylating dioxygenase, large terminal subunit	HcaE			4QDC
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_07005	COG1062	C	Zn-dependent alcohol/formaldehyde dehydrogenase	FrmA			1A71
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_07010	COG0491	R	Glyoxylase or a related metal-dependent hydrolase, beta-lactamase superfamily II	GloB		25670698	1QH3
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_07030	COG3391	R	DNA-binding beta-propeller fold protein YncE	YncE		22120742;28628661	3VGZ
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_07040	COG1268	H	Biotin transporter BioY	BioY			4DVE
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_07045	COG2814	G	Predicted arabinose efflux permease AraJ, MFS family	AraJ			4LDS
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_07050	COG0154	J	Asp-tRNAAsn/Glu-tRNAGln amidotransferase A subunit or related amidase	GatA	Aminoacyl-tRNA synthetases		3H0L
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_07060	COG2421	C	Acetamidase/formamidase	FmdA			2F4L
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_07065	COG0520	E	Selenocysteine lyase/Cysteine desulfurase	CsdA			4LW2
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_07070	COG4742	K	Predicted transcriptional regulator, contains HTH domain				
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_07080	COG1529	C	Aldehyde, CO or xanthine dehydrogenase, Mo-binding subunit	CoxL	Non-phosphorylated Entner-Doudoroff pathway	10095793	1DGJ
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_07085	COG3960	Q	Glyoxylate carboligase	Gcl			
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_07090	COG2814	G	Predicted arabinose efflux permease AraJ, MFS family	AraJ			4LDS
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_07095	COG3509	G	Acetyl xylan esterase AxeA and related esterases, LpqC family	LpqC		9291122	2D80
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_07100	COG2807	P	Cyanate permease	CynX			
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_07105	COG2271	G	Sugar phosphate permease	UhpC			1PW4
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_07110	COG2931	Q	Ca2+-binding protein, RTX toxin-related			15135544	1AF0
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_07115	COG4221	C	NADP-dependent 3-hydroxy acid dehydrogenase YdfG	YdfG	Pyrimidine degradation		3P19
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_07120	COG1228	Q	Imidazolonepropionase or related amidohydrolase	HutI			3OOQ
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_07125	COG1506	E	Dipeptidyl aminopeptidase/acylaminoacyl peptidase	DAP2			2JBW
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_07135	COG0451	M	Nucleoside-diphosphate-sugar epimerase	WcaG			2X4G
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_07145	COG0346	Q	Catechol 2,3-dioxygenase or related enzyme, vicinal oxygen chelate (VOC) family	GloA		11830595	3R4Q
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_07150	COG0346	Q	Catechol 2,3-dioxygenase or related enzyme, vicinal oxygen chelate (VOC) family	GloA		11830595	3R4Q
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_07155	COG0578	C	Glycerol-3-phosphate dehydrogenase	GlpA	Isoprenoid biosynthesis		2RGH
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_07170	COG2211	G	Na+/melibiose symporter or related transporter	MelB			4M64
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_07175	COG0614	P	ABC-type Fe3+-hydroxamate transport system, periplasmic component	FepB			1ESZ
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_07185	COG1647	Q	Esterase/lipase	YvaK			4DIU
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_07190	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_07195	COG0512	EH	Anthranilate/para-aminobenzoate synthase component II (glutamine amidotransferase)	PabA	Aromatic amino acid biosynthesis		1I1Q
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_07200	COG1975	O	Molybdoenzyme maturation factor PaoD (Mo cofactor insertion), XdhC/CoxF family	XdhC		24498065	2WE7
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_07205	COG0746	H	Molybdopterin-guanine dinucleotide biosynthesis protein A	MobA	Molybdopterin biosynthesis	32239579	1E5K
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_07210	COG0595	J	mRNA degradation ribonuclease J1/J2	RnjA			3T3N
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_07215	COG1225	O	Peroxiredoxin	Bcp			5IPH
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_07220	COG0450	V	Alkyl hydroperoxide reductase subunit AhpC (peroxiredoxin)	AhpC			2RII
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_07230	COG2130	QR	NADPH-dependent curcumin reductase CurA	CurA		21467222	1V3T
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_07240	COG0455	DN	MinD-like ATPase FlhG/YlxH, activator of the FlhF-type GTPase	FlhG			1G3Q
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_07245	COG0825	I	Acetyl-CoA carboxylase alpha subunit	AccA	Fatty acid biosynthesis		2F9I
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_07250	COG1681	N	Archaellin (archaeal flagellin)	FlaB			5O4U
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_07260	COG0154	J	Asp-tRNAAsn/Glu-tRNAGln amidotransferase A subunit or related amidase	GatA	Aminoacyl-tRNA synthetases		3H0L
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_07265	COG0726	GM	Peptidoglycan/xylan/chitin deacetylase, PgdA/NodB/CDA1 family	CDA1			1NY1
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_07270	COG0726	GM	Peptidoglycan/xylan/chitin deacetylase, PgdA/NodB/CDA1 family	CDA1			1NY1
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_07280	COG3744	V	PIN domain nuclease, a component of toxin-antitoxin system (PIN domain)				
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_07295	COG0588	G	Phosphoglycerate mutase (BPG-dependent)	GpmA	Glycolysis		1E58
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_07300	COG0517	T	CBS domain	CBS			1B3O
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_07305	COG0533	J	tRNA A37 threonylcarbamoyltransferase TsaD	TsaD	tRNA modification	23072323;21285948;32385138	3ENO
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_07320	COG0346	Q	Catechol 2,3-dioxygenase or related enzyme, vicinal oxygen chelate (VOC) family	GloA		11830595	3R4Q
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_07325	COG1047	O	Peptidyl-prolyl cis-trans isomerase, FKBP type	SlpA			2M2A
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_07330	COG0596	HR	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold	MenH	Menaquinone biosynthesis		4MYS
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_07335	COG3224	R	Antibiotic biosynthesis monooxygenase (ABM) superfamily enzyme				
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_07345	COG2894	D	Septum site-determining ATPase MinD	MinD			4V02
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_07355	COG2865	K	Predicted transcriptional regulator, contains HTH domain				3LMM
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_07360	COG0517	T	CBS domain	CBS			1B3O
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_07375	COG1529	C	Aldehyde, CO or xanthine dehydrogenase, Mo-binding subunit	CoxL	Non-phosphorylated Entner-Doudoroff pathway	10095793	1DGJ
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_07395	COG0596	HR	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold	MenH	Menaquinone biosynthesis		4MYS
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_07400	COG1053	C	Succinate dehydrogenase/fumarate reductase, flavoprotein subunit	SdhA	TCA cycle		1KF6
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_07405	COG1053	C	Succinate dehydrogenase/fumarate reductase, flavoprotein subunit	SdhA	TCA cycle		1KF6
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_07420	COG4108	J	Peptide chain release factor RF-3	PrfC	Translation factors		3UOQ
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_07425	COG2329	H	Heme-degrading monooxygenase HmoA and related ABM domain proteins	HmoA		21873409	1IUJ
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_07435	COG1600	J	Epoxyqueuosine reductase QueG (queuosine biosynthesis)	QueG	tRNA modification	2150253	5D08
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_07440	COG0304	IQ	3-oxoacyl-(acyl-carrier-protein) synthase	FabB	Fatty acid biosynthesis	21652641	2UV8
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_07445	COG2303	IR	Choline dehydrogenase or related flavoprotein	BetA	Non-phosphorylated Entner-Doudoroff pathway		1B4V
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_07450	COG3391	R	DNA-binding beta-propeller fold protein YncE	YncE		22120742;28628661	3VGZ
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_07480	COG1011	H	FMN and 5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YigB, HAD superfamily (riboflavin biosynthesis)	YigB		24123841	4JB3
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_07500	COG1804	I	Crotonobetainyl-CoA:carnitine CoA-transferase CaiB and related acyl-CoA transferases	CaiB			1P5H
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_07505	COG0252	JE	L-asparaginase/archaeal Glu-tRNAGln amidotransferase subunit D	AnsA			1ZQ1
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_07510	COG1529	C	Aldehyde, CO or xanthine dehydrogenase, Mo-binding subunit	CoxL	Non-phosphorylated Entner-Doudoroff pathway	10095793	1DGJ
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_07530	COG3549	V	Plasmid maintenance system killer protein	HigB			
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_07535	COG3576	R	Predicted flavin-nucleotide-binding protein, pyridoxine 5'-phosphate oxidase superfamily				5ESC
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_07540	COG2130	QR	NADPH-dependent curcumin reductase CurA	CurA		21467222	1V3T
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_07550	COG3386	G	Sugar lactone lactonase YvrE	YvrE	Non-phosphorylated Entner-Doudoroff pathway		1E1A
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_07555	COG3233	R	Predicted deacetylase				
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_07560	COG1205	L	ATP-dependent helicase YprA,  contains C-terminal metal-binding DUF1998 domain	YprA			
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_07570	COG0526	O	Thiol-disulfide isomerase or thioredoxin	TrxA			1XFL
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_07575	COG0664	T	cAMP-binding domain of CRP or a regulatory subunit of cAMP-dependent protein kinases	Crp			1FT9
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_07580	COG0402	FR	Cytosine/adenosine deaminase or related metal-dependent hydrolase	SsnA	Pyrimidine salvage		3O7U
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_07585	COG0412	Q	Dienelactone hydrolase	DLH			4ZV9
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_07590	COG2021	E	Homoserine O-acetyltransferase	MET2	Methionine biosynthesis		2VAT
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_07595	COG1948	L	ERCC4-type crossover junction endonuclease	MUS81			1J22
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_07600	COG0143	J	Methionyl-tRNA synthetase	MetG	Aminoacyl-tRNA synthetases		1A8H
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_07610	COG1226	P	Voltage-gated potassium channel Kch	Kch			3FWZ
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_07615	COG0589	T	Nucleotide-binding universal stress protein,  UspA family	UspA			1JMV
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_07620	COG1748	E	Saccharopine dehydrogenase, NADP-dependent	Lys9	Lysine biosynthesis		1E5L
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_07625	COG1226	P	Voltage-gated potassium channel Kch	Kch			3FWZ
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_07630	COG0077	E	Prephenate dehydratase	PheA2	Aromatic amino acid biosynthesis		1PHZ
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_07645	COG3391	R	DNA-binding beta-propeller fold protein YncE	YncE		22120742;28628661	3VGZ
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_07650	COG4175	E	ABC-type proline/glycine betaine transport system, ATPase component	ProV			
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_07655	COG4172	Q	ABC-type microcin C transport system, duplicated ATPase component YejF	YejF		17873039	
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_07660	COG2761	O	Predicted dithiol-disulfide isomerase, DsbA/YjbH family (virulence, stress resistance)	FrnE			6GHB
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_07665	COG0637	G	Beta-phosphoglucomutase, HAD superfamily	YcjU		29684280	3E58
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_07675	COG0438	M	Glycosyltransferase involved in cell wall bisynthesis	RfaB			2IV7
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_07710	COG0240	C	Glycerol-3-phosphate dehydrogenase	GpsA	Isoprenoid biosynthesis		1EVY
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_07715	COG3709	G	Ribose 1,5-bisphosphate kinase PhnN	PhnN			
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_07720	COG0502	H	Biotin synthase or related enzyme	BioB	Biotin biosynthesis		1R30
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_07725	COG0392	M	Predicted membrane flippase AglD2/YbhN, UPF0104 family	AglD2		25583072	
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_07730	COG1846	K	DNA-binding transcriptional regulator, MarR family	MarR			1JGS
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_07735	COG0346	Q	Catechol 2,3-dioxygenase or related enzyme, vicinal oxygen chelate (VOC) family	GloA		11830595	3R4Q
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_07740	COG1228	Q	Imidazolonepropionase or related amidohydrolase	HutI			3OOQ
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_07745	COG0142	H	Geranylgeranyl pyrophosphate synthase	IspA	Isoprenoid biosynthesis		2AZJ
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_07750	COG0495	J	Leucyl-tRNA synthetase	LeuS	Aminoacyl-tRNA synthetases		6LPF
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_07755	COG0028	EH	Acetolactate synthase large subunit or other thiamine pyrophosphate-requiring enzyme	IlvB	Isoleucine, leucine, valine biosynthesis		1BFD
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_07760	COG3978	E	Acetolactate synthase small subunit, contains ACT domain	IlvM			
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_07765	COG0059	EH	Ketol-acid reductoisomerase	IlvC	Isoleucine, leucine, valine biosynthesis		1NP3
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_07775	COG0119	E	Isopropylmalate/homocitrate/citramalate synthases	LeuA	Isoleucine, leucine, valine biosynthesis		4JN6
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_07785	COG0346	Q	Catechol 2,3-dioxygenase or related enzyme, vicinal oxygen chelate (VOC) family	GloA		11830595	3R4Q
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_07800	COG1387	ER	Histidinol phosphatase or related hydrolase of the PHP family	HIS2	Histidine biosynthesis		1M65
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_07805	COG0637	G	Beta-phosphoglucomutase, HAD superfamily	YcjU		29684280	3E58
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_07810	COG0673	R	Predicted dehydrogenase	MviM			3UUW
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_07820	COG1579	R	Predicted nucleic acid-binding protein DR0291, contains C4-type Zn-ribbon domain	DR0291			4ILO
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_07825	COG1409	T	3',5'-cyclic AMP phosphodiesterase CpdA	CpdA			2ZO9
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_07830	COG1304	CIR	FMN-dependent dehydrogenase, includes L-lactate dehydrogenase and type II isopentenyl diphosphate isomerase	LldD	Isoprenoid biosynthesis		6AI7
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_07840	COG4372	S	Uncharacterized protein, contains DUF3084 domain				
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_07845	COG0346	Q	Catechol 2,3-dioxygenase or related enzyme, vicinal oxygen chelate (VOC) family	GloA		11830595	3R4Q
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_07850	COG4638	PR	Phenylpropionate dioxygenase or related ring-hydroxylating dioxygenase, large terminal subunit	HcaE			4QDC
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_07855	COG4447	R	Uncharacterized conserved protein related to plant photosystem II stability/assembly factor				2XBG
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_07870	COG2159	G	5-carboxyvanillate decarboxylase LigW (lignin degradation), amidohydro domain	LigW		26714575	2DVT
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_07890	COG3324	R	Lactoylglutathione lyase-related enzyme, vicinal oxygen chelate (VOC) family	VOC		31710815	3OXH
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_07900	COG3324	R	Lactoylglutathione lyase-related enzyme, vicinal oxygen chelate (VOC) family	VOC		31710815	3OXH
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_07905	COG3324	R	Lactoylglutathione lyase-related enzyme, vicinal oxygen chelate (VOC) family	VOC		31710815	3OXH
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_07910	COG2514	Q	Catechol-2,3-dioxygenase	CatE			
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_07915	COG2816	F	NADH pyrophosphatase NudC, Nudix superfamily	NPY1			
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_07935	COG1404	O	Serine protease, subtilisin family	AprE			1SCJ
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_07950	COG1506	E	Dipeptidyl aminopeptidase/acylaminoacyl peptidase	DAP2			2JBW
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_07985	COG2363	S	Uncharacterized membrane protein YgdD, TMEM256/DUF423 family	YgdD			
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_08005	COG1234	J	Ribonuclease BN, tRNA processing enzyme	ElaC			1WW1
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_08025	COG0622	R	Predicted phosphodiesterase, calcineurin family	YfcE		17586769	1SU1
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_08045	COG0596	HR	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold	MenH	Menaquinone biosynthesis		4MYS
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_08055	COG3380	R	Predicted NAD/FAD-dependent oxidoreductase				4ZCC
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_08060	COG0596	HR	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold	MenH	Menaquinone biosynthesis		4MYS
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_08065	COG0596	HR	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold	MenH	Menaquinone biosynthesis		4MYS
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_08075	COG0673	R	Predicted dehydrogenase	MviM			3UUW
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_08095	COG0249	L	DNA mismatch repair ATPase MutS	MutS			1E3M
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_08115	COG0323	L	DNA mismatch repair ATPase MutL	MutL			1B62
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_08120	COG0491	R	Glyoxylase or a related metal-dependent hydrolase, beta-lactamase superfamily II	GloB		25670698	1QH3
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_08130	COG3349	R	Uncharacterized protein, contains NAD-binding domain and a Fe-S cluster				5MOG
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_08135	COG0392	M	Predicted membrane flippase AglD2/YbhN, UPF0104 family	AglD2		25583072	
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_08140	COG1807	M	PMT family glycosyltransferase ArnT/Agl22, involved in glycosylation of proteins and lipid IVA	ArnT		16226890;31233657;32706435	5EZM
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_08150	COG0552	U	Signal recognition particle GTPase FtsY	FtsY			4AK9
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_08155	COG0571	K	dsRNA-specific ribonuclease	Rnc			1DI2
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_08160	COG2761	O	Predicted dithiol-disulfide isomerase, DsbA/YjbH family (virulence, stress resistance)	FrnE			6GHB
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_08175	COG2130	QR	NADPH-dependent curcumin reductase CurA	CurA		21467222	1V3T
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_08180	COG1804	I	Crotonobetainyl-CoA:carnitine CoA-transferase CaiB and related acyl-CoA transferases	CaiB			1P5H
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_08185	COG0177	L	Endonuclease III	Nth			4UOB
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_08190	COG5018	T	3'-5' exonuclease KapD, inhibitor of KinA-controlled sporulation	KapD			
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_08195	COG1387	ER	Histidinol phosphatase or related hydrolase of the PHP family	HIS2	Histidine biosynthesis		1M65
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_08200	COG1607	I	Acyl-CoA hydrolase	YciA			5DM5
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_08210	COG1574	R	Predicted amidohydrolase YtcJ	YtcJ			3ICJ
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_08215	COG1506	E	Dipeptidyl aminopeptidase/acylaminoacyl peptidase	DAP2			2JBW
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_08230	COG0007	H	Uroporphyrinogen-III methylase (siroheme synthase)	CysG	Cobalamine/B12 biosynthesis		1PJQ
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_08240	COG2243	H	Precorrin-2 methylase	CobF	Cobalamine/B12 biosynthesis		2QBU
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_08245	COG1010	H	Precorrin-3B methylase	CobJ	Cobalamine/B12 biosynthesis		2ZVB
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_08250	COG2518	O	Protein-L-isoaspartate O-methyltransferase	Pcm		24909784	3LBF
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_08255	COG1903	H	Cobalamin biosynthesis protein CbiD (cobalt-precorrin-5B C-methyltransferase)	CbiD	Cobalamine/B12 biosynthesis		1SR8
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_08265	COG2082	H	Precorrin-8X methylmutase CbiC/CobH	CobH	Cobalamine/B12 biosynthesis		1F2V
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_08270	COG0169	E	Shikimate 5-dehydrogenase	AroE	Aromatic amino acid biosynthesis		1NPD
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_08285	COG0013	J	Alanyl-tRNA synthetase	AlaS	Aminoacyl-tRNA synthetases		2ZZE
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_08295	COG0815	M	Apolipoprotein N-acyltransferase	Lnt			6NWR
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_08330	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_08335	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_08340	COG0138	F	AICAR transformylase/IMP cyclohydrolase PurH	PurH	Purine biosynthesis		1G8M
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_08345	COG0611	H	Thiamine monophosphate kinase	ThiL	Thiamine biosynthesis		5CC8
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_08350	COG0367	E	Asparagine synthetase B (glutamine-hydrolyzing)	AsnB	Asparagine biosynthesis	25951518	2ETD
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_08355	COG1847	R	Predicted RNA-binding protein Jag (SpoIIIJ-associated), conains KH and R3H domains	Jag			3GKU
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_08375	COG0594	J	RNase P protein component	RnpA			1A6F
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_08380	COG0589	T	Nucleotide-binding universal stress protein,  UspA family	UspA			1JMV
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_08405	COG0636	C	FoF1-type ATP synthase, membrane subunit c/Archaeal/vacuolar-type H+-ATPase, subunit K	AtpE	FoF1-type ATP synthase		1C17
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_08410	COG0711	C	FoF1-type ATP synthase, membrane subunit b or b'	AtpF	FoF1-type ATP synthase		1B9U
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_08415	COG0712	C	FoF1-type ATP synthase, delta subunit	AtpH	FoF1-type ATP synthase		1ABV
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_08420	COG0055	C	FoF1-type ATP synthase, beta subunit	AtpD	FoF1-type ATP synthase		3OAA
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_08425	COG0224	C	FoF1-type ATP synthase, gamma subunit	AtpG	FoF1-type ATP synthase	15326535	3OAA
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_08430	COG0055	C	FoF1-type ATP synthase, beta subunit	AtpD	FoF1-type ATP synthase		3OAA
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_08445	COG1550	S	Stress-induced protein YlxP, DUF503 family	YlxP		15805528	1J27
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_08455	COG1073	T	Fermentation-respiration switch esterase FrsA, DUF1100 family	FrsA			
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_08460	COG0499	H	S-adenosylhomocysteine hydrolase	SAM1			1A7A
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_08470	COG1150	C	Heterodisulfide reductase, subunit C	HdrC			5ODC
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_08480	COG0179	Q	2-keto-4-pentenoate hydratase/2-oxohepta-3-ene-1,7-dioic acid hydratase (catechol pathway)	YcgM			1GTT
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_08505	COG0593	L	Chromosomal replication initiation ATPase DnaA	DnaA			1L8Q
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_08520	COG2358	R	TRAP-type uncharacterized transport system, periplasmic component	Imp			1US4
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_08525	COG1566	V	Multidrug resistance efflux pump EmrA	EmrA			4TKO
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_08530	COG0841	V	Multidrug efflux pump subunit AcrB	AcrB			1IWG
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_08535	COG1846	K	DNA-binding transcriptional regulator, MarR family	MarR			1JGS
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_08545	COG2204	T	DNA-binding transcriptional response regulator, NtrC family, contains REC, AAA-type ATPase, and a Fis-type DNA-binding domains	AtoC			1ZY2
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_08550	COG0642	T	Signal transduction histidine kinase	BaeS			1JOY
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_08570	COG2205	T	K+-sensing histidine kinase KdpD	KdpD			2KSF
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_08580	COG2154	H	Pterin-4a-carbinolamine dehydratase	PhhB			1DCH
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_08590	COG0015	F	Adenylosuccinate lyase	PurB	Purine biosynthesis		2HVG
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_08595	COG0036	G	Pentose-5-phosphate-3-epimerase	Rpe	Pentose phosphate pathway		1H1Y
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_08600	COG0227	J	Ribosomal protein L28	RpmB	Ribosome 50S subunit		2JZ6
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_08605	COG3576	R	Predicted flavin-nucleotide-binding protein, pyridoxine 5'-phosphate oxidase superfamily				5ESC
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_08615	COG2301	G	Citrate lyase beta subunit	CitE			4ROQ
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_08625	COG0749	L	DNA polymerase I, 3'-5' exonuclease and polymerase domains	PolA			1D8Y
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_08630	COG2331	R	Predicted nucleic acid-binding protein, contains Zn-ribbon domain				
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_08635	COG0352	H	Thiamine monophosphate synthase	ThiE	Thiamine biosynthesis	19060138	1G4T
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_08645	COG1236	J	RNA processing exonuclease, beta-lactamase fold, Cft2 family	YSH1			2DKF
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_08655	COG2812	L	DNA polymerase III, gamma/tau subunits	DnaX			1A5T
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_08670	COG2159	G	5-carboxyvanillate decarboxylase LigW (lignin degradation), amidohydro domain	LigW		26714575	2DVT
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_08690	COG0243	C	Anaerobic selenocysteine-containing dehydrogenase	BisC			1EU1
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_08695	COG0028	EH	Acetolactate synthase large subunit or other thiamine pyrophosphate-requiring enzyme	IlvB	Isoleucine, leucine, valine biosynthesis		1BFD
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_08710	COG3391	R	DNA-binding beta-propeller fold protein YncE	YncE		22120742;28628661	3VGZ
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_08715	COG2814	G	Predicted arabinose efflux permease AraJ, MFS family	AraJ			4LDS
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_08720	COG2514	Q	Catechol-2,3-dioxygenase	CatE			
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_08730	COG0730	P	Sulfite exporter TauE/SafE/YfcA and related permeases, UPF0721 family	TauE		21183667;22797525	
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_08740	COG0491	R	Glyoxylase or a related metal-dependent hydrolase, beta-lactamase superfamily II	GloB		25670698	1QH3
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_08750	COG1173	EP	ABC-type dipeptide/oligopeptide/nickel transport system, permease component	DppC			
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_08755	COG1173	EP	ABC-type dipeptide/oligopeptide/nickel transport system, permease component	DppC			
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_08760	COG4533	K	DNA-binding transcriptional regulator SgrR of sgrS sRNA, contains a MarR-type HTH domain and a periplasmic-type solute-binding domain	SgrR			
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_08770	COG0673	R	Predicted dehydrogenase	MviM			3UUW
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_08785	COG3435	Q	Gentisate 1,2-dioxygenase				3BU7
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_08790	COG0624	E	Acetylornithine deacetylase/Succinyl-diaminopimelate desuccinylase or related deacylase	ArgE	Arginine biosynthesis		1CG2
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_08795	COG0154	J	Asp-tRNAAsn/Glu-tRNAGln amidotransferase A subunit or related amidase	GatA	Aminoacyl-tRNA synthetases		3H0L
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_08800	COG1804	I	Crotonobetainyl-CoA:carnitine CoA-transferase CaiB and related acyl-CoA transferases	CaiB			1P5H
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_08805	COG1063	ER	Threonine dehydrogenase or related Zn-dependent dehydrogenase	Tdh	Non-phosphorylated Entner-Doudoroff pathway		4A2C
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_08815	COG0539	J	Ribosomal protein S1	RpsA	Ribosome 30S subunit		4NNH
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_08820	COG0411	E	ABC-type branched-chain amino acid transport system, ATPase component LivG	LivG		29514851	1G9X
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_08830	COG2114	T	Adenylate cyclase, class 3	AcyC			1AB8
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_08840	COG3391	R	DNA-binding beta-propeller fold protein YncE	YncE		22120742;28628661	3VGZ
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_08860	COG0596	HR	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold	MenH	Menaquinone biosynthesis		4MYS
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_08870	COG0265	O	Periplasmic serine protease, S1-C subfamily, contain C-terminal PDZ domain	DegQ		29686141	2HGA
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_08880	COG1977	H	Molybdopterin synthase sulfur carrier subunit MoaD	MoaD	Molybdopterin biosynthesis	32239579	1FM0
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_08885	COG0314	H	Molybdopterin synthase catalytic subunit MoaE	MoaE	Molybdopterin biosynthesis	32239579	1FM0
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_08890	COG1066	L	DNA repair protein RadA/Sms, contains AAA+ ATPase domain	Sms		30877841	5LKM
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_08895	COG5271	J	Midasin, AAA ATPase with  vWA domain, involved in ribosome maturation	MDN1			6HYP
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_08905	COG0516	F	IMP dehydrogenase/GMP reductase	GuaB	Purine biosynthesis		1B3O
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_08930	COG1387	ER	Histidinol phosphatase or related hydrolase of the PHP family	HIS2	Histidine biosynthesis		1M65
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_08935	COG2021	E	Homoserine O-acetyltransferase	MET2	Methionine biosynthesis		2VAT
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_08940	COG3695	K	Alkylated DNA nucleotide flippase Atl1, participates in nucleotide excision repair, Ada-like DNA-binding domain	Atl1		19516334	2KIF
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_08945	COG1305	O	Transglutaminase-like enzyme, putative cysteine protease	YebA			3ISR
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_08955	COG1239	H	Mg-chelatase subunit ChlI	ChlI			1G8P
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_08965	COG0526	O	Thiol-disulfide isomerase or thioredoxin	TrxA			1XFL
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_08980	COG0206	D	Cell division GTPase FtsZ	FtsZ			1FSZ
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_08990	COG0412	Q	Dienelactone hydrolase	DLH			4ZV9
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_08995	COG2271	G	Sugar phosphate permease	UhpC			1PW4
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_09010	COG1359	C	Quinol monooxygenase YgiN	YgiN		15613473	1R6Y
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_09015	COG0161	H	Adenosylmethionine-8-amino-7-oxononanoate aminotransferase	BioA	Biotin biosynthesis		1MLY
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_09025	COG1804	I	Crotonobetainyl-CoA:carnitine CoA-transferase CaiB and related acyl-CoA transferases	CaiB			1P5H
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_09030	COG1804	I	Crotonobetainyl-CoA:carnitine CoA-transferase CaiB and related acyl-CoA transferases	CaiB			1P5H
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_09045	COG0819	H	Aminopyrimidine aminohydrolase TenA (thiamine salvage pathway)	TenA		17618314	2QCX
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_09070	COG0069	E	Glutamate synthase domain 2	GltB2	Glutamine biosynthesis		1EA0
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_09075	COG0069	E	Glutamate synthase domain 2	GltB2	Glutamine biosynthesis		1EA0
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_09080	COG0028	EH	Acetolactate synthase large subunit or other thiamine pyrophosphate-requiring enzyme	IlvB	Isoleucine, leucine, valine biosynthesis		1BFD
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_09085	COG4231	C	TPP-dependent indolepyruvate ferredoxin oxidoreductase, alpha subunit	IorA			
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_09090	COG1144	C	Pyruvate:ferredoxin oxidoreductase or related 2-oxoacid:ferredoxin oxidoreductase, delta subunit	PorD	Pyruvate oxidation		5C4I
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_09095	COG2188	K	DNA-binding transcriptional regulator, GntR family	MngR			2WV0
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_09100	COG2081	R	Predicted flavoprotein YhiN	YhiN			3V76
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_09105	COG0616	O	Periplasmic serine protease, ClpP class	SppA			3BEZ
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_09110	COG4447	R	Uncharacterized conserved protein related to plant photosystem II stability/assembly factor				2XBG
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_09115	COG5553	R	Predicted metal-dependent enzyme of the double-stranded beta helix superfamily				
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_09125	COG0491	R	Glyoxylase or a related metal-dependent hydrolase, beta-lactamase superfamily II	GloB		25670698	1QH3
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_09130	COG1023	G	6-phosphogluconate dehydrogenase (decarboxylating)	YqeC			4E21
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_09140	COG2442	V	Predicted antitoxin component of a toxin-antitoxin system, DUF433 family				2GA1
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_09165	COG4656	C	Na+-translocating ferredoxin:NAD+ oxidoreductase  RNF, RnfC subunit	RnfC	Na+-translocating Fd:NADH oxidoreductase		
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_09170	COG3383	R	Predicted molibdopterin-dependent oxidoreductase YjgC	YjgC			1AA6
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_09180	COG0249	L	DNA mismatch repair ATPase MutS	MutS			1E3M
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_09200	COG0346	Q	Catechol 2,3-dioxygenase or related enzyme, vicinal oxygen chelate (VOC) family	GloA		11830595	3R4Q
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_09205	COG0079	E	Histidinol-phosphate/aromatic aminotransferase or cobyric acid decarboxylase	HisC	Cobalamine/B12 biosynthesis		4R2N
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_09210	COG2159	G	5-carboxyvanillate decarboxylase LigW (lignin degradation), amidohydro domain	LigW		26714575	2DVT
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_09215	COG0623	I	Enoyl-[acyl-carrier-protein] reductase FabI	FabI	Fatty acid biosynthesis		1C14
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_09220	COG0346	Q	Catechol 2,3-dioxygenase or related enzyme, vicinal oxygen chelate (VOC) family	GloA		11830595	3R4Q
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_09225	COG1714	S	Uncharacterized membrane protein YckC, RDD family	YckC			
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_09230	COG4447	R	Uncharacterized conserved protein related to plant photosystem II stability/assembly factor				2XBG
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_09250	COG1804	I	Crotonobetainyl-CoA:carnitine CoA-transferase CaiB and related acyl-CoA transferases	CaiB			1P5H
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_09265	COG0701	S	Uncharacterized membrane protein YraQ, UPF0718 family	YraQ			
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_09270	COG0600	P	ABC-type nitrate/sulfonate/bicarbonate transport system, permease component	TauC			
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_09275	COG4239	Q	ABC-type microcin C transport system, permease component YejE	YejE			
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_09280	COG4533	K	DNA-binding transcriptional regulator SgrR of sgrS sRNA, contains a MarR-type HTH domain and a periplasmic-type solute-binding domain	SgrR			
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_09295	COG2271	G	Sugar phosphate permease	UhpC			1PW4
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_09300	COG0300	R	Short-chain dehydrogenase	YqjQ			
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_09305	COG1529	C	Aldehyde, CO or xanthine dehydrogenase, Mo-binding subunit	CoxL	Non-phosphorylated Entner-Doudoroff pathway	10095793	1DGJ
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_09320	COG3384	Q	Aromatic ring-opening dioxygenase, catalytic subunit, LigB family	LigB		23258706	2PW6
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_09325	COG4319	R	Ketosteroid isomerase homolog YybH	YybH			2GXF
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_09330	COG2606	J	Cys-tRNA(Pro) deacylase, prolyl-tRNA editing enzyme YbaK/EbsC	EbsC			1DBU
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_09335	COG2227	H	2-polyprenyl-3-methyl-5-hydroxy-6-metoxy-1,4-benzoquinol methylase	UbiG	Ubiquinone biosynthesis		1BHJ
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_09340	COG2814	G	Predicted arabinose efflux permease AraJ, MFS family	AraJ			4LDS
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_09350	COG1574	R	Predicted amidohydrolase YtcJ	YtcJ			3ICJ
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_09360	COG0579	G	L-2-hydroxyglutarate oxidase LhgO	LhgO			3DME
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_09365	COG0300	R	Short-chain dehydrogenase	YqjQ			
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_09375	COG0726	GM	Peptidoglycan/xylan/chitin deacetylase, PgdA/NodB/CDA1 family	CDA1			1NY1
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_09380	COG0726	GM	Peptidoglycan/xylan/chitin deacetylase, PgdA/NodB/CDA1 family	CDA1			1NY1
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_09395	COG0332	I	3-oxoacyl-[acyl-carrier-protein] synthase III	FabH	Fatty acid biosynthesis		1UB7
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_09400	COG2931	Q	Ca2+-binding protein, RTX toxin-related			15135544	1AF0
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_09410	COG4168	V	ABC-type antimicrobial peptide export system, permease component SapB	SapB			
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_09415	COG4239	Q	ABC-type microcin C transport system, permease component YejE	YejE			
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_09420	COG1137	M	ABC-type lipopolysaccharide export system, ATPase component	LptB		12029038	5L75
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_09425	COG0410	E	ABC-type branched-chain amino acid transport system, ATPase component LivF	LivF		26527648;32250026	1JI0
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_09445	COG4108	J	Peptide chain release factor RF-3	PrfC	Translation factors		3UOQ
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_09460	COG1884	I	Methylmalonyl-CoA mutase, N-terminal domain/subunit	Sbm			6OXC
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_09465	COG0180	J	Tryptophanyl-tRNA synthetase	TrpS	Aminoacyl-tRNA synthetases		3N9I
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_09470	COG1323	J	tRNA-Met C34-N4-acetylcytidine synthase TmcAL	TmcAL	tRNA modification	30150682	5Y0T
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_09475	COG1123	O	ABC-type glutathione transport system ATPase component, contains duplicated ATPase domain	GsiA			
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_09480	COG0834	ET	ABC-type amino acid transport/signal transduction system, periplasmic component/domain	HisJ			1GGG
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_09485	COG1092	J	23S rRNA G2069 N7-methylase RlmK or C1962 C5-methylase RlmI	RlmK	23S rRNA modification		2B78
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_09490	COG1057	H	Nicotinate-nucleotide adenylyltransferase NadD	NadD	NAD biosynthesis		1YUM
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_09500	COG0466	O	ATP-dependent Lon protease, bacterial type	Lon			6ON2
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_09505	COG1259	R	Bifunctional DNase/RNase			20018603	1SJ5
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_09520	COG0636	C	FoF1-type ATP synthase, membrane subunit c/Archaeal/vacuolar-type H+-ATPase, subunit K	AtpE	FoF1-type ATP synthase		1C17
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_09525	COG0711	C	FoF1-type ATP synthase, membrane subunit b or b'	AtpF	FoF1-type ATP synthase		1B9U
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_09530	COG0712	C	FoF1-type ATP synthase, delta subunit	AtpH	FoF1-type ATP synthase		1ABV
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_09535	COG0055	C	FoF1-type ATP synthase, beta subunit	AtpD	FoF1-type ATP synthase		3OAA
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_09555	COG0015	F	Adenylosuccinate lyase	PurB	Purine biosynthesis		2HVG
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_09560	COG0579	G	L-2-hydroxyglutarate oxidase LhgO	LhgO			3DME
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_09565	COG0371	C	Glycerol dehydrogenase or related enzyme, iron-containing ADH family	GldA	Isoprenoid biosynthesis	20688982	3S99
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_09570	COG0028	EH	Acetolactate synthase large subunit or other thiamine pyrophosphate-requiring enzyme	IlvB	Isoleucine, leucine, valine biosynthesis		1BFD
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_09580	COG1032	R	Radical SAM superfamily enzyme YgiQ, UPF0313 family	YgiQ			6FD2
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_09585	COG0491	R	Glyoxylase or a related metal-dependent hydrolase, beta-lactamase superfamily II	GloB		25670698	1QH3
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_09595	COG3391	R	DNA-binding beta-propeller fold protein YncE	YncE		22120742;28628661	3VGZ
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_09600	COG0008	J	Glutamyl- or glutaminyl-tRNA synthetase	GlnS	Heme biosynthesis		1EUQ
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_09605	COG0008	J	Glutamyl- or glutaminyl-tRNA synthetase	GlnS	Heme biosynthesis		1EUQ
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_09610	COG1187	J	Pseudouridylate synthase RsuA, specific for 16S rRNA U516  and 23S rRNA U2605	RsuA	16S rRNA modification		1KSK
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_09620	COG0412	Q	Dienelactone hydrolase	DLH			4ZV9
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_09625	COG0156	H	7-keto-8-aminopelargonate synthetase or related enzyme	BioF	Biotin biosynthesis		1BS0
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_09635	COG4987	CO	ABC-type transport system involved in cytochrome bd biosynthesis, fused ATPase and permease components	CydC			
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_09640	COG1178	P	ABC-type Fe3+ transport system, permease component	FbpB			
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_09645	COG0725	P	ABC-type molybdate transport system, periplasmic Mo-binding protein ModA	ModA	Molybdopterin biosynthesis		1AMF
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_09660	COG1476	K	DNA-binding transcriptional regulator, XRE-family HTH domain	XRE			1UTX
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_09690	COG0146	EQ	N-methylhydantoinase B/oxoprolinase/acetone carboxylase, alpha subunit	HyuB			5L9W
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_09700	COG2227	H	2-polyprenyl-3-methyl-5-hydroxy-6-metoxy-1,4-benzoquinol methylase	UbiG	Ubiquinone biosynthesis		1BHJ
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_09705	COG0145	EQ	N-methylhydantoinase A/oxoprolinase/acetone carboxylase, beta subunit	HyuA			
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_09710	COG2110	J	O-acetyl-ADP-ribose deacetylase (regulator of RNase III), contains Macro domain	YmdB			1HJZ
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_09715	COG2872	J	Ser-tRNA(Ala) deacylase AlaX (editing enzyme)	AlaX			2E1B
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_09720	COG0592	L	DNA polymerase III sliding clamp (beta) subunit, PCNA homolog	DnaN			1JQJ
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_09725	COG2271	G	Sugar phosphate permease	UhpC			1PW4
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_09730	COG1082	G	Sugar phosphate isomerase/epimerase	YcjR		30742415	3KTC
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_09735	COG0346	Q	Catechol 2,3-dioxygenase or related enzyme, vicinal oxygen chelate (VOC) family	GloA		11830595	3R4Q
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_09745	COG5010	UW	Flp pilus assembly protein TadD, contains TPR repeats	TadD			3WXX
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_09755	COG0595	J	mRNA degradation ribonuclease J1/J2	RnjA			3T3N
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_09760	COG2159	G	5-carboxyvanillate decarboxylase LigW (lignin degradation), amidohydro domain	LigW		26714575	2DVT
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_09770	COG1218	P	3'-Phosphoadenosine 5'-phosphosulfate (PAPS) 3'-phosphatase	CysQ			
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_09775	COG0726	GM	Peptidoglycan/xylan/chitin deacetylase, PgdA/NodB/CDA1 family	CDA1			1NY1
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_09780	COG0726	GM	Peptidoglycan/xylan/chitin deacetylase, PgdA/NodB/CDA1 family	CDA1			1NY1
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_09785	COG0179	Q	2-keto-4-pentenoate hydratase/2-oxohepta-3-ene-1,7-dioic acid hydratase (catechol pathway)	YcgM			1GTT
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_09795	COG4619	P	ABC-type iron transporter FetAB, ATPase component	FetA			
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_09800	COG4152	R	ABC-type uncharacterized transport system, ATPase component	YhaQ			
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_09820	COG0346	Q	Catechol 2,3-dioxygenase or related enzyme, vicinal oxygen chelate (VOC) family	GloA		11830595	3R4Q
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_09825	COG0069	E	Glutamate synthase domain 2	GltB2	Glutamine biosynthesis		1EA0
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_09835	COG0572	F	Uridine kinase	Udk	Pyrimidine salvage		5B3F
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_09845	COG0044	F	Dihydroorotase or related cyclic amidohydrolase	AllB	Pyrimidine biosynthesis		1J79
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_09855	COG0832	E	Urease beta subunit	UreB			
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_09860	COG3968	E	Glutamine synthetase type III	GlnA3			
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_09865	COG1129	G	ABC-type sugar transport system, ATPase component	MglA			
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_09870	COG2274	V	ABC-type bacteriocin/lantibiotic exporters, contain an N-terminal double-glycine peptidase domain	SunT			3K8U
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_09875	COG0559	E	Branched-chain amino acid ABC-type transport system, permease component	LivH			
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_09880	COG4177	E	ABC-type branched-chain amino acid transport system, permease component	LivM			
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_09885	COG0683	E	ABC-type branched-chain amino acid transport system, periplasmic component	LivK			1USG
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_09895	COG0494	V	8-oxo-dGTP pyrophosphatase MutT and related house-cleaning NTP pyrophosphohydrolases, NUDIX family	MutT			4V14
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_09900	COG5271	J	Midasin, AAA ATPase with  vWA domain, involved in ribosome maturation	MDN1			6HYP
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_09910	COG0456	J	Ribosomal protein S18 acetylase RimI and related acetyltransferases	RimI			1GHE
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_09930	COG0459	O	Chaperonin GroEL (HSP60 family)	GroEL			1AON
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_09935	COG0596	HR	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold	MenH	Menaquinone biosynthesis		4MYS
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_09940	COG0399	M	dTDP-4-amino-4,6-dideoxygalactose transaminase	WecE		15271350	4PIW
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_09960	COG2518	O	Protein-L-isoaspartate O-methyltransferase	Pcm		24909784	3LBF
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_09975	COG0304	IQ	3-oxoacyl-(acyl-carrier-protein) synthase	FabB	Fatty acid biosynthesis	21652641	2UV8
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_09980	COG1032	R	Radical SAM superfamily enzyme YgiQ, UPF0313 family	YgiQ			6FD2
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_09990	COG0451	M	Nucleoside-diphosphate-sugar epimerase	WcaG			2X4G
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_09995	COG0285	H	Folylpolyglutamate synthase/Dihydropteroate synthase	FolC	Folate biosynthesis		1W78
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_10000	COG0304	IQ	3-oxoacyl-(acyl-carrier-protein) synthase	FabB	Fatty acid biosynthesis	21652641	2UV8
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_10010	COG1804	I	Crotonobetainyl-CoA:carnitine CoA-transferase CaiB and related acyl-CoA transferases	CaiB			1P5H
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_10015	COG0028	EH	Acetolactate synthase large subunit or other thiamine pyrophosphate-requiring enzyme	IlvB	Isoleucine, leucine, valine biosynthesis		1BFD
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_10025	COG0346	Q	Catechol 2,3-dioxygenase or related enzyme, vicinal oxygen chelate (VOC) family	GloA		11830595	3R4Q
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_10045	COG1023	G	6-phosphogluconate dehydrogenase (decarboxylating)	YqeC			4E21
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_10050	COG0179	Q	2-keto-4-pentenoate hydratase/2-oxohepta-3-ene-1,7-dioic acid hydratase (catechol pathway)	YcgM			1GTT
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_10065	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_10070	COG2159	G	5-carboxyvanillate decarboxylase LigW (lignin degradation), amidohydro domain	LigW		26714575	2DVT
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_10075	COG2159	G	5-carboxyvanillate decarboxylase LigW (lignin degradation), amidohydro domain	LigW		26714575	2DVT
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_10085	COG3473	Q	Maleate cis-trans isomerase				2DGD
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_10090	COG4989	R	Predicted oxidoreductase YdhF	YdhF			1UR3
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_10095	COG2204	T	DNA-binding transcriptional response regulator, NtrC family, contains REC, AAA-type ATPase, and a Fis-type DNA-binding domains	AtoC			1ZY2
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_10100	COG0823	U	Periplasmic component TolB of the Tol biopolymer transport system	TolB			1C5K
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_10120	COG1230	P	Co/Zn/Cd efflux system component	CzcD			
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_10130	COG1529	C	Aldehyde, CO or xanthine dehydrogenase, Mo-binding subunit	CoxL	Non-phosphorylated Entner-Doudoroff pathway	10095793	1DGJ
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_10140	COG3981	R	Predicted acetyltransferase				
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_10145	COG2814	G	Predicted arabinose efflux permease AraJ, MFS family	AraJ			4LDS
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_10150	COG0421	E	Spermidine synthase (polyamine aminopropyltransferase)	SpeE			6BQ2
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_10160	COG2165	NUW	Type II secretory pathway, pseudopilin PulG	PulG			1AY2
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_10165	COG3706	TK	Two-component response regulator, PleD family, consists of two REC domains and a diguanylate cyclase (GGDEF) domain	PleD			1W25
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_10175	COG1535	Q	Isochorismate hydrolase	EntB1			3TB4
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_10180	COG0579	G	L-2-hydroxyglutarate oxidase LhgO	LhgO			3DME
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_10185	COG1529	C	Aldehyde, CO or xanthine dehydrogenase, Mo-binding subunit	CoxL	Non-phosphorylated Entner-Doudoroff pathway	10095793	1DGJ
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_10190	COG1228	Q	Imidazolonepropionase or related amidohydrolase	HutI			3OOQ
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_10195	COG3320	Q	Thioester reductase domain of alpha aminoadipate reductase Lys2 and NRPSs	Lys2b	Lysine biosynthesis		5MSP
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_10210	COG0666	T	Ankyrin repeat	ANKYR			6AUN
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_10215	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_10235	COG0117	H	Riboflavin biosynthesis protein RibD, pyrimidine deaminase domain	RibD1	Riboflavin/FAD biosynthesis		2O7P
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_10240	COG1506	E	Dipeptidyl aminopeptidase/acylaminoacyl peptidase	DAP2			2JBW
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_10290	COG0491	R	Glyoxylase or a related metal-dependent hydrolase, beta-lactamase superfamily II	GloB		25670698	1QH3
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_10295	COG0402	FR	Cytosine/adenosine deaminase or related metal-dependent hydrolase	SsnA	Pyrimidine salvage		3O7U
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_10300	COG0579	G	L-2-hydroxyglutarate oxidase LhgO	LhgO			3DME
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_10310	COG4963	UW	Flp pilus assembly ATPase CpaE/TadZ, contains N-terminal REC/TadZ_N domain	CpaE			4LDA
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_10315	COG0850	D	Septum site-determining protein MinC	MinC			1HF2
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_10320	COG3425	I	3-hydroxy-3-methylglutaryl CoA synthase	PksG	Isoprenoid biosynthesis		1TVZ
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_10325	COG0332	I	3-oxoacyl-[acyl-carrier-protein] synthase III	FabH	Fatty acid biosynthesis		1UB7
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_10345	COG0111	H	Phosphoglycerate dehydrogenase or related dehydrogenase	SerA	Serine biosynthesis		3OET
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_10365	COG2104	H	Sulfur carrier protein ThiS (thiamine biosynthesis)	ThiS	Thiamine biosynthesis		1F0Z
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_10370	COG0269	G	3-keto-L-gulonate-6-phosphate decarboxylase	UlaD			3F4W
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_10375	COG2022	H	Thiazole synthase ThiGH, ThiG subunit (thiamin biosynthesis)	ThiG	Thiamine biosynthesis		1TYG
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_10380	COG4670	I	Acyl CoA:acetate/3-ketoacid CoA transferase	YdiF			5VIT
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_10385	COG4670	I	Acyl CoA:acetate/3-ketoacid CoA transferase	YdiF			5VIT
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_10390	COG1788	I	Acyl CoA:acetate/3-ketoacid CoA transferase, alpha subunit	AtoD			1K6D
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_10415	COG0024	J	Methionine aminopeptidase	Map			3J2I
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_10420	COG2021	E	Homoserine O-acetyltransferase	MET2	Methionine biosynthesis		2VAT
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_10425	COG3386	G	Sugar lactone lactonase YvrE	YvrE	Non-phosphorylated Entner-Doudoroff pathway		1E1A
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_10435	COG3836	G	2-keto-3-deoxy-L-rhamnonate aldolase RhmA	HpcH			1DXE
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_10440	COG1099	R	Predicted metal-dependent hydrolase, TIM-barrel fold				3GUW
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_10455	COG3391	R	DNA-binding beta-propeller fold protein YncE	YncE		22120742;28628661	3VGZ
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_10470	COG0623	I	Enoyl-[acyl-carrier-protein] reductase FabI	FabI	Fatty acid biosynthesis		1C14
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_10475	COG2814	G	Predicted arabinose efflux permease AraJ, MFS family	AraJ			4LDS
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_10480	COG0044	F	Dihydroorotase or related cyclic amidohydrolase	AllB	Pyrimidine biosynthesis		1J79
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_10485	COG1670	JO	Protein N-acetyltransferase, RimJ/RimL family	RimL			1S7F
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_10495	COG0402	FR	Cytosine/adenosine deaminase or related metal-dependent hydrolase	SsnA	Pyrimidine salvage		3O7U
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_10500	COG0371	C	Glycerol dehydrogenase or related enzyme, iron-containing ADH family	GldA	Isoprenoid biosynthesis	20688982	3S99
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_10505	COG1878	E	Kynurenine formamidase				1R61
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_10510	COG1121	P	ABC-type Mn2+/Zn2+ transport system, ATPase component	ZnuC			
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_10520	COG2706	G	6-phosphogluconolactonase, cycloisomerase 2 family	Pgl			1JOF
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_10525	COG0647	F	Ribonucleotide monophosphatase NagD, HAD superfamily	NagD			1PW5
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_10545	COG4232	O	Thiol:disulfide interchange protein DsbD	DsbD			1JPE
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_10555	COG2226	H	Ubiquinone/menaquinone biosynthesis C-methylase UbiE/MenG	UbiE	Biotin biosynthesis		4OBW
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_10560	COG4101	R	Uncharacterized conserved protein, RmlC-like cupin domain	RmlC			
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_10565	COG1249	C	Dihydrolipoamide dehydrogenase (E3) component of pyruvate/2-oxoglutarate dehydrogenase complex or glutathione oxidoreductase	Lpd	Glycine cleavagePyruvate oxidation		6QKG
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_10575	COG0582	LX	Integrase/recombinase, includes phage integrase	FimB			
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_10585	COG0214	H	Pyridoxal 5'-phosphate synthase subunit PdxS	PdxS	Pyridoxal phosphate biosynthesis		2NV2
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_10590	COG0047	F	Phosphoribosylformylglycinamidine (FGAM) synthase, glutamine amidotransferase domain	PurL2	Purine biosynthesis		1T3T
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_10600	COG1618	F	Nucleoside-triphosphatase THEP1	THEP1			1YE8
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_10605	COG0125	F	Thymidylate kinase	Tmk	Thymidylate biosynthesis		3LV8
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_10625	COG0373	H	Glutamyl-tRNA reductase	HemA	Heme biosynthesis		2XOE
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_10635	COG0060	J	Isoleucyl-tRNA synthetase	IleS	Aminoacyl-tRNA synthetases		1FFY
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_10640	COG0539	J	Ribosomal protein S1	RpsA	Ribosome 30S subunit		4NNH
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_10650	COG0613	F	5'-3' exoribonuclease TrpH/YciV (RNase AM), contains PHP domain	YciV		25871919	3E0F
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_10665	COG2159	G	5-carboxyvanillate decarboxylase LigW (lignin degradation), amidohydro domain	LigW		26714575	2DVT
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_10670	COG0156	H	7-keto-8-aminopelargonate synthetase or related enzyme	BioF	Biotin biosynthesis		1BS0
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_10675	COG2223	P	Nitrate/nitrite transporter NarK	NarK			4JR9
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_10685	COG5553	R	Predicted metal-dependent enzyme of the double-stranded beta helix superfamily				
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_10695	COG1473	R	Metal-dependent amidase/aminoacylase/carboxypeptidase	AbgB	Lysine biosynthesis	17307853	3RAM
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_10700	COG0447	H	1,4-Dihydroxy-2-naphthoyl-CoA synthase	MenB	Menaquinone biosynthesis		4ELS
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_10710	COG1804	I	Crotonobetainyl-CoA:carnitine CoA-transferase CaiB and related acyl-CoA transferases	CaiB			1P5H
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_10720	COG1878	E	Kynurenine formamidase				1R61
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_10735	COG1506	E	Dipeptidyl aminopeptidase/acylaminoacyl peptidase	DAP2			2JBW
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_10740	COG0447	H	1,4-Dihydroxy-2-naphthoyl-CoA synthase	MenB	Menaquinone biosynthesis		4ELS
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_10745	COG0202	K	DNA-directed RNA polymerase, alpha subunit/40 kD subunit	RpoA	RNA polymerase		4KN7
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_10755	COG0666	T	Ankyrin repeat	ANKYR			6AUN
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_10765	COG0329	EM	4-hydroxy-tetrahydrodipicolinate synthase/N-acetylneuraminate lyase	DapA	Lysine biosynthesis	27574185	2R91
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_10780	COG1804	I	Crotonobetainyl-CoA:carnitine CoA-transferase CaiB and related acyl-CoA transferases	CaiB			1P5H
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_10785	COG1804	I	Crotonobetainyl-CoA:carnitine CoA-transferase CaiB and related acyl-CoA transferases	CaiB			1P5H
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_10790	COG1237	R	Metal-dependent hydrolase, beta-lactamase superfamily II				2P4Z
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_10815	COG2363	S	Uncharacterized membrane protein YgdD, TMEM256/DUF423 family	YgdD			
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_10820	COG2159	G	5-carboxyvanillate decarboxylase LigW (lignin degradation), amidohydro domain	LigW		26714575	2DVT
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_10830	COG2355	OE	Zn-dependent dipeptidase, microsomal dipeptidase homolog			14499931	1ITQ
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_10835	COG0362	G	6-phosphogluconate dehydrogenase	Gnd	Pentose phosphate pathway	25329577	2ZYA
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_10850	COG1165	H	2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate synthase	MenD	Menaquinone biosynthesis		5Z2P
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_10855	COG2021	E	Homoserine O-acetyltransferase	MET2	Methionine biosynthesis		2VAT
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_10860	COG0044	F	Dihydroorotase or related cyclic amidohydrolase	AllB	Pyrimidine biosynthesis		1J79
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_10875	COG0467	T	RecA-superfamily ATPase, KaiC/GvpD/RAD55 family	RAD55			1TF7
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_10880	COG0513	L	Superfamily II DNA and RNA helicase	SrmB			3RRM
+Dehalococcoidia_bacterium_SAT2604	GCA_002708395.1	NPGBJI_10890	COG1804	I	Crotonobetainyl-CoA:carnitine CoA-transferase CaiB and related acyl-CoA transferases	CaiB			1P5H

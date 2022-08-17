@@ -1,0 +1,1519 @@
+#prefix	assemid	query	COG	category	name	Gene	pathway	pmid	pdb_id
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_00005	COG1066	L	DNA repair protein RadA/Sms, contains AAA+ ATPase domain	Sms		30877841	5LKM
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_00010	COG2972	T	Sensor histidine kinase YesM	YesM			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_00015	COG4753	TK	Two-component response regulator, YesN/AraC family, consists of REC and AraC-type DNA-binding domains	YesN			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_00025	COG3401	R	Fibronectin type 3 domain	FN3			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_00040	COG2819	R	Predicted hydrolase of the alpha/beta superfamily	YbbA			3GFF
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_00045	COG0392	M	Predicted membrane flippase AglD2/YbhN, UPF0104 family	AglD2		25583072	
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_00050	COG0853	H	Aspartate 1-decarboxylase	PanD	Pantothenate/CoA biosynthesis		1AW8
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_00055	COG0414	H	Panthothenate synthetase	PanC	Pantothenate/CoA biosynthesis	17968677	1DIN
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_00060	COG0297	G	Glycogen synthase	GlgA			1RZU
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_00070	COG0367	E	Asparagine synthetase B (glutamine-hydrolyzing)	AsnB	Asparagine biosynthesis	25951518	2ETD
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_00075	COG0055	C	FoF1-type ATP synthase, beta subunit	AtpD	FoF1-type ATP synthase		3OAA
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_00095	COG0493	ER	NADPH-dependent glutamate synthase beta chain or related oxidoreductase	GltD	Glutamine biosynthesis		1H7X
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_00100	COG0348	C	Polyferredoxin NapH	NapH		27322068	
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_00110	COG3629	K	DNA-binding transcriptional regulator DnrI/AfsR/EmbR, SARP family, contains BTAD domain	DnrI		12625841	2FEZ
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_00120	COG0526	O	Thiol-disulfide isomerase or thioredoxin	TrxA			1XFL
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_00125	COG1409	T	3',5'-cyclic AMP phosphodiesterase CpdA	CpdA			2ZO9
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_00130	COG2129	R	Predicted phosphoesterase, related to the Icc protein				2YVT
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_00140	COG0589	T	Nucleotide-binding universal stress protein,  UspA family	UspA			1JMV
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_00145	COG0779	J	Ribosome maturation factor RimP	RimP			1IB8
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_00155	COG3276	J	Selenocysteine-specific translation elongation factor SelB	SelB	Translation factors		4ZU9
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_00170	COG3474	C	Cytochrome c2	Cyc7			1YEA
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_00175	COG1142	C	Fe-S-cluster-containing hydrogenase component 2	HycB			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_00180	COG5557	C	Ni/Fe-hydrogenase 2 integral membrane subunit HybB	HybB			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_00190	COG2010	C	Cytochrome c, mono- and diheme variants	CccA			1A2S
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_00200	COG1622	C	Heme/copper-type cytochrome/quinol oxidase, subunit 2	CyoA			1CYW
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_00205	COG0843	C	Heme/copper-type cytochrome/quinol oxidase, subunit 1	CyoB			1AR1
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_00210	COG1225	O	Peroxiredoxin	Bcp			5IPH
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_00215	COG2256	L	Replication-associated recombination protein RarA (DNA-dependent ATPase)	RarA			3PVS
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_00225	COG2878	C	Na+-translocating ferredoxin:NAD+ oxidoreductase RNF, RnfB subunit	RnfB	Na+-translocating Fd:NADH oxidoreductase	24045950	
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_00230	COG1879	G	ABC-type sugar transport system, periplasmic component, contains N-terminal xre family HTH domain	RbsB			1BA2
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_00235	COG4774	P	Outer membrane receptor for monomeric catechols	Fiu			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_00240	COG0695	O	Glutaredoxin	GrxC			1AAZ
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_00245	COG2211	G	Na+/melibiose symporter or related transporter	MelB			4M64
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_00250	COG3408	G	Glycogen debranching enzyme (alpha-1,6-glucosidase)	GDB1			5D06
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_00255	COG2870	M	ADP-heptose synthase, bifunctional sugar kinase/adenylyltransferase	RfaE			5X9Q
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_00260	COG3339	S	Uncharacterized membrane protein YkvA, DUF1232 family	YkvA			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_00265	COG0281	C	Malic enzyme	SfcA	Urea cycle		1DO8
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_00270	COG0632	L	Holliday junction resolvasome RuvABC DNA-binding subunit	RuvA			1BDX
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_00280	COG0509	E	Glycine cleavage system protein H (lipoate-binding)	GcvH	Glycine cleavage		1DXM
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_00285	COG5652	S	VanZ-like family protein (function unknown)	VanZ			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_00305	COG0491	R	Glyoxylase or a related metal-dependent hydrolase, beta-lactamase superfamily II	GloB		25670698	1QH3
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_00310	COG0382	H	4-hydroxybenzoate polyprenyltransferase	UbiA	Ubiquinone biosynthesis	28830929	4OD4
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_00315	COG2322	R	Predicted membrane metallochaperone YozB (3H, Sco1 fusion), DUF420 family	YozB			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_00335	COG1999	O	Cytochrome oxidase Cu insertion factor, SCO1/SenC/PrrC family	Sco1			1ON4
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_00340	COG2322	R	Predicted membrane metallochaperone YozB (3H, Sco1 fusion), DUF420 family	YozB			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_00350	COG1119	P	ABC-type molybdenum transport system, ATPase component ModF/photorepair protein PhrA	ModF			2IHY
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_00355	COG4591	M	ABC-type transport system involved in lipoprotein release, permease component LolC	LolE			6F49
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_00360	COG4591	M	ABC-type transport system involved in lipoprotein release, permease component LolC	LolE			6F49
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_00365	COG1566	V	Multidrug resistance efflux pump EmrA	EmrA			4TKO
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_00370	COG1538	M	Outer membrane protein TolC	TolC			1EK9
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_00375	COG1038	C	Pyruvate carboxylase	PycA	Urea cycle		5VYW
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_00380	COG0533	J	tRNA A37 threonylcarbamoyltransferase TsaD	TsaD	tRNA modification	23072323;21285948;32385138	3ENO
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_00390	COG1331	R	Uncharacterized conserved protein YyaL, SSP411 family, contains thoiredoxin and six-hairpin glycosidase-like domains	YyaL			3IRA
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_00400	COG0306	P	Phosphate/sulfate permease	PitA		31358606	
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_00405	COG0694	O	Fe-S cluster biogenesis protein NfuA, 4Fe-4S-binding domain	NifU			2Z51
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_00415	COG2067	I	Long-chain fatty acid transport protein	FadL			1T16
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_00425	COG0441	J	Threonyl-tRNA synthetase	ThrS	Aminoacyl-tRNA synthetases		1NYQ
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_00440	COG0268	J	Ribosomal protein S20	RpsT	Ribosome 30S subunit		4V4H
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_00445	COG1158	K	Transcription termination factor Rho	Rho			1PVO
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_00455	COG1360	N	Flagellar motor protein MotB	MotB			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_00475	COG1570	L	Exonuclease VII, large subunit	XseA			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_00485	COG0512	EH	Anthranilate/para-aminobenzoate synthase component II (glutamine amidotransferase)	PabA	Aromatic amino acid biosynthesis		1I1Q
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_00490	COG0683	E	ABC-type branched-chain amino acid transport system, periplasmic component	LivK			1USG
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_00500	COG5661	O	Predicted secreted Zn-dependent protease				
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_00505	COG0167	F	Dihydroorotate dehydrogenase	PyrD	Pyrimidine biosynthesis		1GT8
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_00510	COG0603	J	7-cyano-7-deazaguanine synthase (queuosine biosynthesis)	QueC	tRNA modification	14660578;17384645	2PG3
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_00525	COG0760	O	Peptidyl-prolyl isomerase, parvulin family	SurA			2ZR5
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_00540	COG0760	O	Peptidyl-prolyl isomerase, parvulin family	SurA			2ZR5
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_00545	COG1239	H	Mg-chelatase subunit ChlI	ChlI			1G8P
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_00550	COG1049	C	Aconitase B	AcnB	TCA cycle		1L5J
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_00555	COG1396	K	Transcriptional regulator, contains XRE-family HTH domain	HipB			1ADR
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_00560	COG0526	O	Thiol-disulfide isomerase or thioredoxin	TrxA			1XFL
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_00575	COG1562	I	Phytoene/squalene synthetase	ERG9			3WEK
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_00580	COG1232	H	Protoporphyrinogen oxidase HemY/PPOX	HemY	Heme biosynthesis		3LOV
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_00585	COG0789	K	DNA-binding transcriptional regulator, MerR family	SoxR			2VZ4
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_00605	COG3265	G	Gluconate kinase	GntK	Non-phosphorylated Entner-Doudoroff pathway		1KO4
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_00610	COG2065	F	Pyrimidine operon attenuation protein PyrR/uracil phosphoribosyltransferase	PyrR	Pyrimidine salvage		1A3C
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_00620	COG1188	J	Ribosomal 50S subunit-recycling heat shock protein, contains S4 domain	HslR			3BBU
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_00625	COG0545	O	FKBP-type peptidyl-prolyl cis-trans isomerase	FkpA			1A7X
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_00630	COG2609	C	Pyruvate dehydrogenase complex, dehydrogenase (E1) component	AceE	Pyruvate oxidation		1L8A
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_00635	COG2609	C	Pyruvate dehydrogenase complex, dehydrogenase (E1) component	AceE	Pyruvate oxidation		1L8A
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_00640	COG0343	J	Queuine/archaeosine tRNA-ribosyltransferase	Tgt	tRNA modification	15805528	1XW8
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_00645	COG0795	MN	Lipopolysaccharide export LptBFGC system, permease protein LptF	LptF			6S8H
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_00650	COG0697	GER	Permease of the drug/metabolite transporter (DMT) superfamily	RhaT			5I20
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_00655	COG4799	I	Acetyl-CoA carboxylase, carboxyltransferase component	MmdA			1OD2
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_00660	COG0305	L	Replicative DNA helicase	DnaB			1B79
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_00675	COG0292	J	Ribosomal protein L20	RplT	Ribosome 50S subunit	30270044	1VS6
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_00680	COG0291	J	Ribosomal protein L35	RpmI	Ribosome 50S subunit	28373563	1VS6
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_00685	COG0290	J	Translation initiation factor IF-3	InfC	Translation factors		2IFE
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_00690	COG0442	J	Prolyl-tRNA synthetase	ProS	Aminoacyl-tRNA synthetases		5XIF
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_00695	COG4807	S	Uncharacterized conserved protein YehS, DUF1456 family	YehS			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_00705	COG2176	L	DNA polymerase III, alpha subunit (gram-positive type)	PolC			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_00710	COG0215	J	Cysteinyl-tRNA synthetase	CysS	Aminoacyl-tRNA synthetases		1LI5
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_00715	COG0302	H	GTP cyclohydrolase I	FolE	Folate biosynthesis	19767425;30692671	1A8R
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_00725	COG4935	O	Regulatory P domain of the subtilisin-like proprotein convertases and other proteases				1OT5
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_00735	COG1039	L	Ribonuclease HIII	RnhC			2D0A
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_00760	COG0173	J	Aspartyl-tRNA synthetase	AspS	Aminoacyl-tRNA synthetases		1C0A
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_00790	COG0771	M	UDP-N-acetylmuramoylalanine-D-glutamate ligase	MurD	Mureine biosynthesis		1E0D
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_00795	COG1262	O	Formylglycine-generating enzyme, required for sulfatase activity, contains SUMF1/FGE domain	YfmG			2AFT
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_00805	COG2067	I	Long-chain fatty acid transport protein	FadL			1T16
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_00815	COG0028	EH	Acetolactate synthase large subunit or other thiamine pyrophosphate-requiring enzyme	IlvB	Isoleucine, leucine, valine biosynthesis		1BFD
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_00820	COG0508	C	Pyruvate/2-oxoglutarate dehydrogenase complex, dihydrolipoamide acyltransferase (E2) component	AceF	Pyruvate oxidation		1B5S
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_00825	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_00830	COG3091	R	Predicted Zn-dependent metalloprotease, SprT family	SprT			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_00835	COG1211	I	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase	IspD	Isoprenoid biosynthesis		1H3M
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_00840	COG1289	S	Uncharacterized membrane protein YccC	YccC			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_00850	COG0142	H	Geranylgeranyl pyrophosphate synthase	IspA	Isoprenoid biosynthesis		2AZJ
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_00860	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_00865	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_00870	COG3321	Q	Acyl transferase domain in polyketide synthase (PKS) enzymes	PksD			6IYO
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_00890	COG2008	E	Threonine aldolase	GLY1			4LNJ
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_00895	COG1285	P	Magnesium uptake protein YhiD/SapB, involved in acid resistance	SapB		19798051	
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_00910	COG3655	K	DNA-binding transcriptional regulator, XRE family	YozG			3TYR
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_00930	COG1309	K	DNA-binding protein, AcrR family, includes nucleoid occlusion protein SlmA	AcrR			2QOP
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_00935	COG4097	P	Predicted ferric reductase				
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_00940	COG3396	Q	1,2-phenylacetyl-CoA epoxidase, catalytic subunit	YdbO			1OTK
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_00960	COG2151	O	Metal-sulfur cluster biosynthetic enzyme	PaaD			1UWD
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_00965	COG1030	O	Membrane-bound serine protease NfeD, ClpP class	NfeD			2DEO
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_00970	COG0240	C	Glycerol-3-phosphate dehydrogenase	GpsA	Isoprenoid biosynthesis		1EVY
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_00980	COG2050	Q	Acyl-CoA thioesterase PaaI, contains HGG motif	PaaI			1PSU
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_00985	COG2321	R	Predicted metalloprotease	YpfJ			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_00995	COG3321	Q	Acyl transferase domain in polyketide synthase (PKS) enzymes	PksD			6IYO
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_01000	COG1028	I	NAD(P)-dependent dehydrogenase, short-chain alcohol dehydrogenase family	FabG	Fatty acid biosynthesis		6L1H
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_01005	COG3183	V	Predicted restriction endonuclease, HNH family				6GHC
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_01010	COG1012	I	Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase	AdhE	Proline degradation		1A4S
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_01015	COG2827	L	Predicted endonuclease, GIY-YIG superfamily	YhbQ			1YWL
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_01025	COG2827	L	Predicted endonuclease, GIY-YIG superfamily	YhbQ			1YWL
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_01030	COG0110	R	Acetyltransferase, isoleucine patch superfamily	WbbJ			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_01035	COG2345	K	Predicted transcriptional regulator, ArsR family				
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_01040	COG0508	C	Pyruvate/2-oxoglutarate dehydrogenase complex, dihydrolipoamide acyltransferase (E2) component	AceF	Pyruvate oxidation		1B5S
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_01055	COG3958	G	Transketolase, C-terminal subunit	TktA2			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_01090	COG0019	E	Diaminopimelate decarboxylase	LysA	Lysine biosynthesis		1D7K
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_01095	COG0045	C	Succinyl-CoA synthetase, beta subunit	SucC	TCA cycle		1SCU
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_01105	COG2234	OE	Zn-dependent amino- or carboxypeptidase, M28 family	Iap			1AMP
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_01110	COG4676	S	Uncharacterized conserved protein YfaP, DUF2135 family	YfaP			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_01120	COG0500	QR	SAM-dependent methyltransferase	SmtA			5DNK
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_01125	COG4123	J	tRNA1(Val) A37 N6-methylase TrmN6	TrmN6	tRNA modification		
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_01140	COG4076	R	Predicted RNA methylase				
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_01145	COG4992	E	Acetylornithine/succinyldiaminopimelate/putrescine aminotransferase	ArgD	Arginine biosynthesis		2E54
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_01170	COG1193	L	dsDNA-specific endonuclease/ATPase MutS2	MutS2			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_01180	COG0076	E	Glutamate or tyrosine decarboxylase or a related PLP-dependent protein	GadA	Pantothenate/CoA biosynthesis		1XEY
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_01185	COG4619	P	ABC-type iron transporter FetAB, ATPase component	FetA			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_01190	COG2831	U	Hemolysin activation/secretion protein	FhaC			2MHJ
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_01195	COG0225	O	Peptide methionine sulfoxide reductase MsrA	MsrA			1FF3
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_01200	COG0780	J	NADPH-dependent 7-cyano-7-deazaguanine reductase QueF, C-terminal domain, T-fold superfamily	QueFC	tRNA modification	14660578;17384645	3BP1
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_01235	COG5403	S	Uncharacterized conserved protein, DUF937 domain				
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_01240	COG4585	T	Signal transduction histidine kinase ComP	ComP			4GT8
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_01245	COG0784	T	CheY-like REC (receiver) domain, includes chemotaxis protein CheY  and sporulation regulator Spo0F	CheY			6QRJ
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_01250	COG0111	H	Phosphoglycerate dehydrogenase or related dehydrogenase	SerA	Serine biosynthesis		3OET
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_01255	COG0075	EF	Archaeal aspartate aminotransferase or a related aminotransferase, includes purine catabolism protein PucG	PucG	Serine biosynthesis		3NNK
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_01265	COG1143	C	Formate hydrogenlyase subunit 6/NADH:ubiquinone oxidoreductase 23 kD subunit (chain I)	NuoI	NADH dehydrogenase		1B0P
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_01285	COG0477	GEPR	MFS family permease, includes anhydromuropeptide permease AmpG	ProP		12426329	
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_01295	COG1629	P	Outer membrane receptor protein, Fe transport	CirA			1BY3
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_01310	COG1004	M	UDP-glucose 6-dehydrogenase	Ugd			1DLI
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_01315	COG0342	U	Preprotein translocase subunit SecD	SecD		26100040	3AQP
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_01320	COG2234	OE	Zn-dependent amino- or carboxypeptidase, M28 family	Iap			1AMP
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_01335	COG0104	F	Adenylosuccinate synthase	PurA	Purine biosynthesis		1ADE
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_01340	COG0735	P	Fe2+ or Zn2+ uptake regulation protein Fur/Zur	Fur			1MZB
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_01350	COG0501	O	Zn-dependent protease with chaperone function	HtpX			2YPT
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_01355	COG0219	J	tRNA(Leu) C34 or U34 (ribose-2'-O)-methylase TrmL, contains SPOUT domain	TrmL	tRNA modification		4JAK
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_01365	COG1721	S	Uncharacterized conserved protein, DUF58 family, contains vWF domain	YeaD2			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_01370	COG0606	O	Predicted Mg-chelatase, contains ChlI-like and ATPase domains, YifB family	YifB			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_01385	COG0514	L	Superfamily II DNA helicase RecQ	RecQ			1OYW
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_01390	COG0127	F	Inosine/xanthosine triphosphate pyrophosphatase, all-alpha NTP-PPase family	RdgB			1B78
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_01395	COG0072	J	Phenylalanyl-tRNA synthetase beta subunit	PheT	Aminoacyl-tRNA synthetases		3L4G
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_01400	COG0405	E	Gamma-glutamyltranspeptidase	Ggt		16618936	2Z8I
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_01410	COG0033	G	Phosphoglucomutase/phosphomannomutase	Pgm		30938049	1C47
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_01425	COG2244	M	Membrane protein involved in the export of O-antigen and teichoic acid	RfbX			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_01435	COG0406	G	Broad specificity phosphatase PhoE	PhoE			1EBB
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_01440	COG4222	S	Uncharacterized conserved protein, contains a phytase-like domain				
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_01455	COG1506	E	Dipeptidyl aminopeptidase/acylaminoacyl peptidase	DAP2			2JBW
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_01470	COG3851	T	Signal transduction histidine kinase UhpB, glucose-6-phosphate specific	UhpB			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_01475	COG4753	TK	Two-component response regulator, YesN/AraC family, consists of REC and AraC-type DNA-binding domains	YesN			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_01480	COG1239	H	Mg-chelatase subunit ChlI	ChlI			1G8P
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_01490	COG1914	P	Mn2+ or Fe2+ transporter, NRAMP family	MntH			5KTE
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_01510	COG1012	I	Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase	AdhE	Proline degradation		1A4S
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_01525	COG2013	C	AIM24 protein, required for mitochondrial respiration	AIM24		24928273;24714493	1YOX
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_01530	COG0635	H	Coproporphyrinogen-III oxidase HemN  (oxygen-independent) or related Fe-S oxidoreductase	HemN	Heme biosynthesis		1OLT
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_01535	COG1846	K	DNA-binding transcriptional regulator, MarR family	MarR			1JGS
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_01545	COG0451	M	Nucleoside-diphosphate-sugar epimerase	WcaG			2X4G
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_01550	COG0139	E	Phosphoribosyl-AMP cyclohydrolase	HisI1	Histidine biosynthesis		1ZPS
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_01555	COG0106	E	Phosphoribosylformimino-5-aminoimidazole carboxamide ribonucleotide (ProFAR) isomerase	HisA	Histidine biosynthesis		4U28
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_01560	COG0107	E	Imidazole glycerol phosphate synthase subunit HisF	HisF	Histidine biosynthesis		1OX4
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_01565	COG0518	F	GMP synthase, glutamine amidotransferase domain	GuaA1	Purine biosynthesis		4WIM
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_01570	COG0131	E	Imidazoleglycerol phosphate dehydratase HisB	HisB2	Histidine biosynthesis		1RHY
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_01575	COG1167	KE	DNA-binding transcriptional regulator, MocR family, contains an aminotransferase domain	ARO8	Lysine biosynthesis		2R2N
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_01580	COG0141	E	Histidinol dehydrogenase	HisD	Histidine biosynthesis		1K75
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_01585	COG0040	E	ATP phosphoribosyltransferase	HisG	Histidine biosynthesis		1H3D
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_01590	COG1360	N	Flagellar motor protein MotB	MotB			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_01600	COG1246	E	N-acetylglutamate synthase or related acetyltransferase, GNAT family	ArgA	Arginine biosynthesis		2R98
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_01605	COG0010	E	Arginase/agmatinase family enzyme	SpeB	Urea cycle		1CEV
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_01610	COG0402	FR	Cytosine/adenosine deaminase or related metal-dependent hydrolase	SsnA	Pyrimidine salvage		3O7U
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_01615	COG0075	EF	Archaeal aspartate aminotransferase or a related aminotransferase, includes purine catabolism protein PucG	PucG	Serine biosynthesis		3NNK
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_01630	COG4166	E	ABC-type oligopeptide transport system, periplasmic component	OppA			1B05
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_01635	COG1032	R	Radical SAM superfamily enzyme YgiQ, UPF0313 family	YgiQ			6FD2
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_01650	COG1741	R	Redox-sensitive bicupin YhaK, pirin superfamily	YhaK		18561187	1J1L
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_01660	COG0691	O	tmRNA-binding protein	SmpB		26251518	1J1H
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_01665	COG2096	H	Cob(II)alamin adenosyltransferase	PduO	Cobalamine/B12 biosynthesis		1NOG
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_01675	COG0653	U	Preprotein translocase subunit SecA (ATPase, RNA helicase)	SecA			2FSF
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_01680	COG3965	P	Predicted Co/Zn/Cd cation transporter, cation efflux family				
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_01685	COG2067	I	Long-chain fatty acid transport protein	FadL			1T16
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_01695	COG0739	M	Murein DD-endopeptidase MepM and murein hydrolase activator NlpD, contains LysM domain	NlpD			2GU1
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_01725	COG1618	F	Nucleoside-triphosphatase THEP1	THEP1			1YE8
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_01730	COG0671	I	Membrane-associated phospholipid phosphatase	PgpB	Phospholipid biosynthesis		1D2T
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_01740	COG0728	M	Lipid II flippase MurJ/MviN (peptidoglycan biosynthesis)	MurJ		25013077	5T77
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_01750	COG2220	G	L-ascorbate lactonase UlaG, metallo-beta-lactamase superfamily	UlaG			2WYM
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_01755	COG4886	K	Leucine-rich repeat (LRR) protein	LRR			4OW2
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_01760	COG3211	R	Secreted phosphatase, PhoX family	PhoX			3ZWU
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_01770	COG1186	J	Protein chain release factor PrfB	PrfB	Translation factors		1GQE
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_01790	COG1629	P	Outer membrane receptor protein, Fe transport	CirA			1BY3
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_01800	COG0112	E	Glycine/serine hydroxymethyltransferase	GlyA	Serine biosynthesis		1BJ4
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_01815	COG1127	M	ATPase subunit MlaF of the ABC-type intermembrane phospholipid transporter Mla	MlaF			6IC4
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_01830	COG2231	L	3-Methyladenine DNA glycosylase, HhH-GPD/Endo3 superfamily	HP0602		14517230;20410075	1PU6
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_01845	COG5473	S	Uncharacterized membrane protein				
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_01855	COG1714	S	Uncharacterized membrane protein YckC, RDD family	YckC			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_01860	COG2860	S	Uncharacterized membrane protein YeiH	YadS			5WUC
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_01865	COG0652	O	Peptidyl-prolyl cis-trans isomerase (rotamase) - cyclophilin family	PpiB			4DGD
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_01870	COG0494	V	8-oxo-dGTP pyrophosphatase MutT and related house-cleaning NTP pyrophosphohydrolases, NUDIX family	MutT			4V14
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_01875	COG0204	I	1-acyl-sn-glycerol-3-phosphate acyltransferase	PlsC	Phospholipid biosynthesis		1IUQ
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_01880	COG2367	V	Beta-lactamase class A	PenP			6W34
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_01885	COG0477	GEPR	MFS family permease, includes anhydromuropeptide permease AmpG	ProP		12426329	
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_01890	COG0346	Q	Catechol 2,3-dioxygenase or related enzyme, vicinal oxygen chelate (VOC) family	GloA		11830595	3R4Q
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_01905	COG0574	G	Phosphoenolpyruvate synthase/pyruvate phosphate dikinase	PpsA	Gluconeogenesis		5HV6
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_01910	COG2910	R	Putative NADH-flavin reductase	YwnB			3EW7
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_01915	COG2267	I	Lysophospholipase, alpha-beta hydrolase superfamily	PldB			5O7G
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_01920	COG0514	L	Superfamily II DNA helicase RecQ	RecQ			1OYW
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_01925	COG0727	R	Uncharacterized protein YkgJ, contains CxxCxxCC motif	YkgJ			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_01930	COG2230	I	Cyclopropane fatty-acyl-phospholipid synthase and related methyltransferases	Cfa			5Z9O
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_01935	COG3184	S	Uncharacterized conserved protein, contains DUF2059 domain			15741337	2X3O
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_01945	COG1228	Q	Imidazolonepropionase or related amidohydrolase	HutI			3OOQ
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_01955	COG0436	E	Aspartate/methionine/tyrosine aminotransferase	AspB	Isoleucine, leucine, valine biosynthesis		2O0R
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_01965	COG0438	M	Glycosyltransferase involved in cell wall bisynthesis	RfaB			2IV7
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_01970	COG0110	R	Acetyltransferase, isoleucine patch superfamily	WbbJ			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_01975	COG2813	J	16S rRNA G1207 methylase RsmC	RsmC	16S rRNA modification		1DUS
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_01990	COG0272	L	NAD-dependent DNA ligase	Lig			5TT5
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_02005	COG4935	O	Regulatory P domain of the subtilisin-like proprotein convertases and other proteases				1OT5
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_02015	COG0346	Q	Catechol 2,3-dioxygenase or related enzyme, vicinal oxygen chelate (VOC) family	GloA		11830595	3R4Q
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_02025	COG0564	J	Pseudouridine synthase RluA, 23S rRNA- or tRNA-specific	RluA	23S rRNA modification		2I82
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_02040	COG1560	I	Palmitoleoyl-ACP: Kdo2-lipid-IV acyltransferase (lipid A biosynthesis)	LpxP	Lipid A biosynthesis	11830595	5F2T
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_02045	COG0705	O	Membrane-associated serine protease, rhomboid family	GlpG			2IC8
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_02050	COG2859	M	Outer membrane channel-forming protein BP26/OMP28, SIMPL family	SIMPL		23353825;32703422	4HVZ
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_02055	COG1225	O	Peroxiredoxin	Bcp			5IPH
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_02065	COG4339	R	Predicted metal-dependent phosphohydrolase, HD superfamily				
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_02070	COG4775	M	Outer membrane protein assembly factor BamA	BamA			5EKQ
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_02085	COG0783	PV	DNA-binding ferritin-like protein (oxidative damage protectant)	Dps			1DPS
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_02105	COG0565	J	tRNA C32,U32 (ribose-2'-O)-methylase TrmJ or a related methyltransferase	TrmJ	tRNA modification		3ONP
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_02125	COG0533	J	tRNA A37 threonylcarbamoyltransferase TsaD	TsaD	tRNA modification	23072323;21285948;32385138	3ENO
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_02135	COG4147	C	Na+(or H+)/acetate symporter ActP	ActP			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_02140	COG1218	P	3'-Phosphoadenosine 5'-phosphosulfate (PAPS) 3'-phosphatase	CysQ			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_02145	COG1086	MO	NDP-sugar epimerase, includes UDP-GlcNAc-inverting 4,6-dehydratase FlaA1 and capsular polysaccharide biosynthesis protein EpsC	FlaA1			2GN4
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_02150	COG1898	M	dTDP-4-dehydrorhamnose 3,5-epimerase or related enzyme	RfbC			1DZR
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_02155	COG0451	M	Nucleoside-diphosphate-sugar epimerase	WcaG			2X4G
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_02160	COG0381	M	UDP-N-acetylglucosamine 2-epimerase	WecB		26641313;30389844	1F6D
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_02170	COG1089	M	GDP-D-mannose dehydratase	Gmd			1DB3
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_02175	COG2084	I	3-hydroxyisobutyrate dehydrogenase or related beta-hydroxyacid dehydrogenase	MmsB			1I36
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_02180	COG0448	G	Glucose-1-phosphate adenylyltransferase (ADP-glucose pyrophosphorylase)	GlgC		27545622	5MNI
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_02190	COG0436	E	Aspartate/methionine/tyrosine aminotransferase	AspB	Isoleucine, leucine, valine biosynthesis		2O0R
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_02195	COG0223	J	Methionyl-tRNA formyltransferase	Fmt			1FMT
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_02200	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_02210	COG0707	M	UDP-N-acetylglucosamine:LPS N-acetylglucosamine transferase	MurG	Mureine biosynthesis		1F0K
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_02215	COG0438	M	Glycosyltransferase involved in cell wall bisynthesis	RfaB			2IV7
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_02230	COG1062	C	Zn-dependent alcohol/formaldehyde dehydrogenase	FrmA			1A71
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_02240	COG0438	M	Glycosyltransferase involved in cell wall bisynthesis	RfaB			2IV7
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_02245	COG0110	R	Acetyltransferase, isoleucine patch superfamily	WbbJ			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_02255	COG2267	I	Lysophospholipase, alpha-beta hydrolase superfamily	PldB			5O7G
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_02260	COG0659	P	Sulfate permease or related transporter, MFS superfamily	SUL1			3NY7
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_02280	COG4604	P	ABC-type enterochelin transport system, ATPase component	CeuD			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_02285	COG1064	G	D-arabinose 1-dehydrogenase, Zn-dependent alcohol dehydrogenase family	AdhP			5O8Q
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_02300	COG1862	U	Protein translocase subunit YajC	YajC			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_02305	COG1012	I	Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase	AdhE	Proline degradation		1A4S
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_02320	COG0488	R	ATPase components of ABC transporters with duplicated ATPase domains	Uup			5ZXD
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_02330	COG0457	R	Tetratricopeptide (TPR) repeat	TPR			3AS4
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_02335	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_02340	COG4122	J	tRNA 5-hydroxyU34 O-methylase TrmR/YrrM	TrmR	tRNA modification	29982645	1H1D
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_02360	COG1055	P	Na+/H+ antiporter NhaD or related arsenite permease	ArsB			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_02365	COG0526	O	Thiol-disulfide isomerase or thioredoxin	TrxA			1XFL
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_02375	COG0230	J	Ribosomal protein L34	RpmH	Ribosome 50S subunit		6SPB
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_02380	COG1038	C	Pyruvate carboxylase	PycA	Urea cycle		5VYW
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_02395	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_02400	COG4167	V	ABC-type antimicrobial peptide export system, ATPase component SapF	SapF			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_02410	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_02415	COG2982	M	Uncharacterized conserved protein AsmA involved in outer membrane biogenesis	AsmA			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_02420	COG0057	G	Glyceraldehyde-3-phosphate dehydrogenase/erythrose-4-phosphate dehydrogenase	GapA	Glycolysis		3ZDF
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_02425	COG0793	O	C-terminal processing protease CtpA/Prc, contains a PDZ domain	CtpA			6IQU
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_02430	COG0253	E	Diaminopimelate epimerase	DapF	Lysine biosynthesis		1BWZ
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_02435	COG1670	JO	Protein N-acetyltransferase, RimJ/RimL family	RimL			1S7F
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_02465	COG1484	L	DNA replication protein DnaC	DnaC			2QGZ
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_02475	COG1739	R	Putative translation regulator, IMPACT (imprinted ancient) protein family	YIH1		15126500	1VI7
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_02480	COG4975	G	Glucose uptake protein GlcU	GlcU			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_02485	COG1011	H	FMN and 5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YigB, HAD superfamily (riboflavin biosynthesis)	YigB		24123841	4JB3
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_02490	COG2131	F	Deoxycytidylate deaminase	ComEB		25746996;31954084	2HVV
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_02495	COG1670	JO	Protein N-acetyltransferase, RimJ/RimL family	RimL			1S7F
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_02505	COG1765	R	Uncharacterized OsmC-related protein	YhfA			1LQL
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_02515	COG4447	R	Uncharacterized conserved protein related to plant photosystem II stability/assembly factor				2XBG
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_02520	COG1228	Q	Imidazolonepropionase or related amidohydrolase	HutI			3OOQ
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_02525	COG1228	Q	Imidazolonepropionase or related amidohydrolase	HutI			3OOQ
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_02535	COG0624	E	Acetylornithine deacetylase/Succinyl-diaminopimelate desuccinylase or related deacylase	ArgE	Arginine biosynthesis		1CG2
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_02540	COG1893	H	Ketopantoate reductase	PanE	Pantothenate/CoA biosynthesis		1BG6
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_02545	COG0548	E	N-acetylglutamate kinase	ArgB	Arginine biosynthesis		3S6G
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_02550	COG1012	I	Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase	AdhE	Proline degradation		1A4S
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_02555	COG4191	T	Signal transduction histidine kinase regulating C4-dicarboxylate transport system				4GCZ
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_02560	COG1011	H	FMN and 5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YigB, HAD superfamily (riboflavin biosynthesis)	YigB		24123841	4JB3
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_02575	COG0491	R	Glyoxylase or a related metal-dependent hydrolase, beta-lactamase superfamily II	GloB		25670698	1QH3
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_02580	COG0730	P	Sulfite exporter TauE/SafE/YfcA and related permeases, UPF0721 family	TauE		21183667;22797525	
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_02585	COG0664	T	cAMP-binding domain of CRP or a regulatory subunit of cAMP-dependent protein kinases	Crp			1FT9
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_02590	COG1053	C	Succinate dehydrogenase/fumarate reductase, flavoprotein subunit	SdhA	TCA cycle		1KF6
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_02610	COG1476	K	DNA-binding transcriptional regulator, XRE-family HTH domain	XRE			1UTX
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_02620	COG0545	O	FKBP-type peptidyl-prolyl cis-trans isomerase	FkpA			1A7X
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_02625	COG1159	J	GTPase Era, involved in 16S rRNA processing	Era			1EGA
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_02630	COG3296	R	Uncharacterized Tic20-related protein, DUF4870 domain	Tic20a		9817756;20100520	
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_02635	COG4772	P	Outer membrane receptor for Fe3+-dicitrate	FecA			1KMP
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_02640	COG0592	L	DNA polymerase III sliding clamp (beta) subunit, PCNA homolog	DnaN			1JQJ
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_02645	COG0640	K	DNA-binding transcriptional regulator, ArsR family	ArsR			3F6V
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_02650	COG0520	E	Selenocysteine lyase/Cysteine desulfurase	CsdA			4LW2
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_02655	COG1757	C	Na+/H+ antiporter NhaC/MleN	NhaC			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_02660	COG4753	TK	Two-component response regulator, YesN/AraC family, consists of REC and AraC-type DNA-binding domains	YesN			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_02665	COG4564	T	Signal transduction histidine kinase				2QHK
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_02690	COG4605	P	ABC-type enterochelin transport system, permease component	CeuC			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_02720	COG3228	T	Mlc titration factor MtfA, regulates ptsG expression	MtfA		16855233	3DL1
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_02725	COG2072	P	Predicted flavoprotein CzcO associated with the cation diffusion facilitator CzcD	CzcO			4USQ
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_02730	COG2021	E	Homoserine O-acetyltransferase	MET2	Methionine biosynthesis		2VAT
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_02735	COG0269	G	3-keto-L-gulonate-6-phosphate decarboxylase	UlaD			3F4W
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_02740	COG0568	K	DNA-directed RNA polymerase, sigma subunit (sigma70/sigma32)	RpoD	RNA polymerase		1SIG
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_02745	COG0446	I	NADPH-dependent 2,4-dienoyl-CoA reductase, sulfur reductase, or a related oxidoreductase	FadH2			1VRQ
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_02755	COG0229	O	Peptide methionine sulfoxide reductase MsrB	MsrB			1L1D
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_02760	COG0229	O	Peptide methionine sulfoxide reductase MsrB	MsrB			1L1D
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_02765	COG0596	HR	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold	MenH	Menaquinone biosynthesis		4MYS
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_02770	COG3620	K	Predicted transcriptional regulator, contains an XRE-type HTH domain (archaeal members contain CBS pair)	AF2118			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_02775	COG0501	O	Zn-dependent protease with chaperone function	HtpX			2YPT
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_02790	COG2885	M	Outer membrane protein OmpA and related peptidoglycan-associated (lipo)proteins	OmpA			1OAP
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_02795	COG1215	N	Glycosyltransferase, catalytic subunit of cellulose synthase and poly-beta-1,6-N-acetylglucosamine synthase	BcsA			4HG6
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_02800	COG3947	TK	Two-component response regulator, SAPR family, consists of REC, wHTH and BTAD domains	SAPR			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_02845	COG1132	V	ABC-type multidrug transport system, ATPase and permease component	MdlB			2HYD
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_02850	COG0599	R	Uncharacterized conserved protein YurZ, alkylhydroperoxidase/carboxymuconolactone decarboxylase family	YurZ			3BEY
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_02855	COG0805	U	Twin-arginine protein secretion pathway component TatC	TatC			4B4A
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_02860	COG0517	T	CBS domain	CBS			1B3O
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_02865	COG0513	L	Superfamily II DNA and RNA helicase	SrmB			3RRM
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_02875	COG2010	C	Cytochrome c, mono- and diheme variants	CccA			1A2S
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_02880	COG2133	G	Glucose/arabinose dehydrogenase, beta-propeller fold	YliI			1C9U
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_02885	COG0450	V	Alkyl hydroperoxide reductase subunit AhpC (peroxiredoxin)	AhpC			2RII
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_02895	COG2513	G	2-Methylisocitrate lyase and related enzymes, PEP mutase family	PrpB			1XG3
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_02900	COG2225	C	Malate synthase	AceB	TCA cycle, glyoxylate bypass		1D8C
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_02905	COG3800	R	Predicted transcriptional regulator				6CYJ
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_02915	COG1185	J	Polyribonucleotide nucleotidyltransferase (polynucleotide phosphorylase)	Pnp			1E3P
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_02920	COG0184	J	Ribosomal protein S15P/S13E	RpsO	Ribosome 30S subunit		4V4H
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_02930	COG4799	I	Acetyl-CoA carboxylase, carboxyltransferase component	MmdA			1OD2
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_02935	COG0191	G	Fructose/tagatose bisphosphate aldolase	Fba	Glycolysis		1B57
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_02940	COG4775	M	Outer membrane protein assembly factor BamA	BamA			5EKQ
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_02945	COG0219	J	tRNA(Leu) C34 or U34 (ribose-2'-O)-methylase TrmL, contains SPOUT domain	TrmL	tRNA modification		4JAK
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_02955	COG0500	QR	SAM-dependent methyltransferase	SmtA			5DNK
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_02960	COG1226	P	Voltage-gated potassium channel Kch	Kch			3FWZ
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_02965	COG0168	P	Trk-type K+ transport system, membrane component	TrkG			3PJZ
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_02995	COG1595	K	DNA-directed RNA polymerase specialized sigma subunit, sigma24 family	RpoE	RNA polymerase		2Q1Z
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_03025	COG3332	R	Uncharacterized stress-responsive protein, TANGO2 (Transport and Golgi organisation 2) family, contains NRDE motif	Tango2		26631869	
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_03055	COG1805	C	Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrB	NqrB	Na+-translocating NADH dehydrogenase		4P6V
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_03060	COG4659	C	Na+-translocating ferredoxin:NAD+ oxidoreductase RNF, RnfG subunit	RnfG	Na+-translocating Fd:NADH oxidoreductase		
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_03065	COG4657	C	Na+-translocating ferredoxin:NAD+ oxidoreductase RNF, RnfA subunit	RnfA	Na+-translocating Fd:NADH oxidoreductase		
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_03070	COG4660	C	Na+-translocating ferredoxin:NAD+ oxidoreductase  RNF, RnfE subunit	RnfE	Na+-translocating Fd:NADH oxidoreductase		
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_03075	COG1018	C	Flavodoxin/ferredoxin--NADP reductase	Fpr			3OZU
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_03095	COG2226	H	Ubiquinone/menaquinone biosynthesis C-methylase UbiE/MenG	UbiE	Biotin biosynthesis		4OBW
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_03100	COG0006	E	Xaa-Pro aminopeptidase	PepP			1A16
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_03105	COG0526	O	Thiol-disulfide isomerase or thioredoxin	TrxA			1XFL
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_03110	COG0696	G	Phosphoglycerate mutase (BPG-independent), AlkP superfamily	GpmI	Glycolysis		1EJJ
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_03115	COG2761	O	Predicted dithiol-disulfide isomerase, DsbA/YjbH family (virulence, stress resistance)	FrnE			6GHB
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_03125	COG1309	K	DNA-binding protein, AcrR family, includes nucleoid occlusion protein SlmA	AcrR			2QOP
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_03130	COG1032	R	Radical SAM superfamily enzyme YgiQ, UPF0313 family	YgiQ			6FD2
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_03150	COG2234	OE	Zn-dependent amino- or carboxypeptidase, M28 family	Iap			1AMP
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_03155	COG4276	R	Ligand-binding SRPBCC domain	SRPBCC			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_03165	COG4146	R	Uncharacterized membrane permease YidK, sodium:solute symporter family	YidK			2XQ2
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_03175	COG0668	M	Small-conductance mechanosensitive channel	MscS			2OAU
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_03185	COG1478	H	F420-0:Gamma-glutamyl ligase (F420 biosynthesis)	CofE			2G9I
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_03190	COG0382	H	4-hydroxybenzoate polyprenyltransferase	UbiA	Ubiquinone biosynthesis	28830929	4OD4
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_03195	COG3782	S	Uncharacterized conserved protein, DUF1853 domain				
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_03200	COG2972	T	Sensor histidine kinase YesM	YesM			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_03210	COG0582	LX	Integrase/recombinase, includes phage integrase	FimB			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_03245	COG0657	I	Acetyl esterase/lipase	Aes			1EVQ
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_03270	COG1116	P	ABC-type nitrate/sulfonate/bicarbonate transport system, ATPase component	TauB			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_03275	COG3871	S	General stress protein 26 (function unknown)	YzzA			2I02
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_03280	COG2062	T	Phosphohistidine phosphatase SixA	SixA			1UJB
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_03305	COG1466	L	DNA polymerase III, delta subunit	HolA			3ZH9
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_03310	COG0739	M	Murein DD-endopeptidase MepM and murein hydrolase activator NlpD, contains LysM domain	NlpD			2GU1
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_03320	COG0219	J	tRNA(Leu) C34 or U34 (ribose-2'-O)-methylase TrmL, contains SPOUT domain	TrmL	tRNA modification		4JAK
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_03325	COG2335	R	Uncaracterized surface protein containing fasciclin (FAS1) repeats	FAS1			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_03345	COG0791	M	Cell wall-associated hydrolase, NlpC_P60 family	NlpC			2EVR
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_03350	COG0304	IQ	3-oxoacyl-(acyl-carrier-protein) synthase	FabB	Fatty acid biosynthesis	21652641	2UV8
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_03355	COG2206	T	HD-GYP domain, c-di-GMP phosphodiesterase class II (or its inactivated variant)	HDGYP		23475961	5Z7C
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_03370	COG4974	L	Site-specific recombinase XerD	XerD			1A0P
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_03380	COG0664	T	cAMP-binding domain of CRP or a regulatory subunit of cAMP-dependent protein kinases	Crp			1FT9
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_03385	COG0730	P	Sulfite exporter TauE/SafE/YfcA and related permeases, UPF0721 family	TauE		21183667;22797525	
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_03390	COG3000	I	Sterol desaturase/sphingolipid hydroxylase, fatty acid hydroxylase superfamily	ERG3			4ZR0
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_03395	COG0607	P	Rhodanese-related sulfurtransferase	PspE	Urea cycle		1TQ1
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_03400	COG0491	R	Glyoxylase or a related metal-dependent hydrolase, beta-lactamase superfamily II	GloB		25670698	1QH3
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_03405	COG0526	O	Thiol-disulfide isomerase or thioredoxin	TrxA			1XFL
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_03410	COG0737	FV	2',3'-cyclic-nucleotide 2'-phosphodiesterase/5'- or 3'-nucleotidase, 5'-nucleotidase family	UshA			1HO5
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_03415	COG1416	P	Intracellular sulfur oxidation protein, DsrE/DsrF family			9695921	1L1S
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_03420	COG2259	S	Uncharacterized membrane protein YphA, DoxX/SURF4 family	DoxX			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_03465	COG3696	P	Cu/Ag efflux pump CusA	CusA			3K07
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_03470	COG1538	M	Outer membrane protein TolC	TolC			1EK9
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_03475	COG2207	K	AraC-type DNA-binding domain and AraC-containing proteins	AraC			1BL0
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_03485	COG1164	E	Oligoendopeptidase F	PepF			3CE2
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_03490	COG1691	F	NCAIR mutase (PurE)-related protein				
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_03495	COG0458	EF	Carbamoylphosphate synthase large subunit	CarB	Arginine biosynthesis		1C30
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_03500	COG1102	F	Cytidylate kinase	CmkB			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_03505	COG1163	J	Ribosome-interacting GTPase RBG1	Rbg1			4A9A
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_03520	COG1729	D	Cell division protein CpoB, coordinates peptidoglycan biosynthesis and outer membrane constriction	CpoB		25951518	2WZ7
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_03525	COG0770	M	UDP-N-acetylmuramyl pentapeptide synthase	MurF	Mureine biosynthesis		4CVK
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_03535	COG2003	L	DNA repair protein RadC, contains a helix-hairpin-helix DNA-binding motif	RadC		9695921	2QLC
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_03545	COG0637	G	Beta-phosphoglucomutase, HAD superfamily	YcjU		29684280	3E58
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_03565	COG2812	L	DNA polymerase III, gamma/tau subunits	DnaX			1A5T
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_03570	COG0705	O	Membrane-associated serine protease, rhomboid family	GlpG			2IC8
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_03575	COG0219	J	tRNA(Leu) C34 or U34 (ribose-2'-O)-methylase TrmL, contains SPOUT domain	TrmL	tRNA modification		4JAK
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_03605	COG4206	H	Outer membrane cobalamin receptor protein BtuB	BtuB			1NQE
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_03610	COG4775	M	Outer membrane protein assembly factor BamA	BamA			5EKQ
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_03615	COG0048	J	Ribosomal protein S12	RpsL	Ribosome 30S subunit		4V4H
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_03620	COG0049	J	Ribosomal protein S7	RpsG	Ribosome 30S subunit		4V4H
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_03625	COG0480	J	Translation elongation factor EF-G, a GTPase	FusA	Translation factors		1DAR
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_03630	COG0051	J	Ribosomal protein S10	RpsJ	Ribosome 30S subunit		4V4H
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_03635	COG0087	J	Ribosomal protein L3	RplC	Ribosome 50S subunit		1VS6
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_03640	COG0088	J	Ribosomal protein L4	RplD	Ribosome 50S subunit		1VS6
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_03645	COG0089	J	Ribosomal protein L23	RplW	Ribosome 50S subunit		1VS6
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_03650	COG0090	J	Ribosomal protein L2	RplB	Ribosome 50S subunit		1VS6
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_03655	COG0185	J	Ribosomal protein S19	RpsS	Ribosome 30S subunit		4V4H
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_03665	COG0092	J	Ribosomal protein S3	RpsC	Ribosome 30S subunit		1VS6
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_03670	COG0197	J	Ribosomal protein L16/L10AE	RplP	Ribosome 50S subunit		1WKI
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_03675	COG0255	J	Ribosomal protein L29	RpmC	Ribosome 50S subunit		1VS6
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_03680	COG0186	J	Ribosomal protein S17	RpsQ	Ribosome 30S subunit		4V4H
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_03685	COG0093	J	Ribosomal protein L14	RplN	Ribosome 50S subunit		4V4H
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_03690	COG0198	J	Ribosomal protein L24	RplX	Ribosome 50S subunit		1VS6
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_03695	COG0094	J	Ribosomal protein L5	RplE	Ribosome 50S subunit		1VS6
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_03700	COG0199	J	Ribosomal protein S14	RpsN	Ribosome 30S subunit		4V4H
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_03705	COG0096	J	Ribosomal protein S8	RpsH	Ribosome 30S subunit		4V4H
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_03710	COG0097	J	Ribosomal protein L6P/L9E	RplF	Ribosome 50S subunit		1VS6
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_03720	COG0098	J	Ribosomal protein S5	RpsE	Ribosome 30S subunit		4V4H
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_03725	COG1841	J	Ribosomal protein L30/L7E	RpmD	Ribosome 50S subunit		1VS6
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_03730	COG1727	J	Ribosomal protein L18E	RPL18A	Archaeal ribosomal proteins		
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_03735	COG0201	U	Preprotein translocase subunit SecY	SecY			1RH5
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_03750	COG0100	J	Ribosomal protein S11	RpsK	Ribosome 30S subunit		4V4H
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_03755	COG1189	J	Predicted rRNA methylase YqxC, contains S4 and FtsJ domains	YqxC			3OPN
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_03760	COG0202	K	DNA-directed RNA polymerase, alpha subunit/40 kD subunit	RpoA	RNA polymerase		4KN7
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_03765	COG0203	J	Ribosomal protein L17	RplQ	Ribosome 50S subunit		1GD8
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_03770	COG0512	EH	Anthranilate/para-aminobenzoate synthase component II (glutamine amidotransferase)	PabA	Aromatic amino acid biosynthesis		1I1Q
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_03775	COG0148	G	Enolase	Eno	Glycolysis		1E9I
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_03785	COG1404	O	Serine protease, subtilisin family	AprE			1SCJ
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_03790	COG0372	C	Citrate synthase	GltA	TCA cycle	25211225	3TQG
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_03795	COG1834	E	N-Dimethylarginine dimethylaminohydrolase	DdaH			6LRH
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_03800	COG2908	M	UDP-2,3-diacylglucosamine pyrophosphatase LpxH	LpxH			5WLY
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_03805	COG0720	H	6-pyruvoyl-tetrahydropterin synthase	QueD	tRNA modification	14660578;17384645	1B66
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_03810	COG3751	JO	Proline 4-hydroxylase (includes Rps23 Pro-64 3,4-dihydroxylase Tpa1), contains SM-20 domain	EGL9			2G19
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_03820	COG0534	V	Na+-driven multidrug efflux pump, DinF/NorM/MATE family	NorM		29915058	3VVN
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_03825	COG2227	H	2-polyprenyl-3-methyl-5-hydroxy-6-metoxy-1,4-benzoquinol methylase	UbiG	Ubiquinone biosynthesis		1BHJ
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_03830	COG1215	N	Glycosyltransferase, catalytic subunit of cellulose synthase and poly-beta-1,6-N-acetylglucosamine synthase	BcsA			4HG6
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_03835	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_03840	COG0438	M	Glycosyltransferase involved in cell wall bisynthesis	RfaB			2IV7
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_03845	COG0589	T	Nucleotide-binding universal stress protein,  UspA family	UspA			1JMV
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_03855	COG1826	U	Twin-arginine protein secretion pathway components TatA and TatB	TatA			2L16
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_03860	COG4942	D	Septal ring factor EnvC, activator of murein hydrolases AmiA and AmiB	EnvC			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_03880	COG1088	M	dTDP-D-glucose 4,6-dehydratase	RfbB			1G1A
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_03885	COG1091	M	dTDP-4-dehydrorhamnose reductase	RfbD			1KBZ
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_03890	COG2244	M	Membrane protein involved in the export of O-antigen and teichoic acid	RfbX			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_03895	COG0438	M	Glycosyltransferase involved in cell wall bisynthesis	RfaB			2IV7
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_03905	COG2194	M	Phosphoethanolamine transferase for periplasmic glucans OpgE, AlkP superfamily	OpgE			5ZZU
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_03910	COG0438	M	Glycosyltransferase involved in cell wall bisynthesis	RfaB			2IV7
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_03915	COG1045	E	Serine acetyltransferase	CysE	Cysteine biosynthesis		1T3D
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_03920	COG0438	M	Glycosyltransferase involved in cell wall bisynthesis	RfaB			2IV7
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_03925	COG1089	M	GDP-D-mannose dehydratase	Gmd			1DB3
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_03930	COG2148	M	Sugar transferase involved in LPS biosynthesis (colanic, teichoic acid)	WcaJ			5W7L
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_03935	COG0438	M	Glycosyltransferase involved in cell wall bisynthesis	RfaB			2IV7
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_03945	COG0439	I	Biotin carboxylase	AccC	Fatty acid biosynthesis		1BNC
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_03970	COG0859	M	ADP-heptose:LPS heptosyltransferase	RfaF			1PSW
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_03975	COG4097	P	Predicted ferric reductase				
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_03985	COG3638	P	ABC-type phosphate/phosphonate transport system, ATPase component	PhnC			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_03990	COG4105	M	Outer membrane protein assembly factor BamD, BamD/ComL family	BamD			2YHC
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_04015	COG0636	C	FoF1-type ATP synthase, membrane subunit c/Archaeal/vacuolar-type H+-ATPase, subunit K	AtpE	FoF1-type ATP synthase		1C17
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_04020	COG0711	C	FoF1-type ATP synthase, membrane subunit b or b'	AtpF	FoF1-type ATP synthase		1B9U
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_04025	COG0712	C	FoF1-type ATP synthase, delta subunit	AtpH	FoF1-type ATP synthase		1ABV
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_04030	COG0055	C	FoF1-type ATP synthase, beta subunit	AtpD	FoF1-type ATP synthase		3OAA
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_04035	COG1157	NU	Flagellar biosynthesis/type III secretory pathway ATPase FliI	FliI			5B0O
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_04040	COG0224	C	FoF1-type ATP synthase, gamma subunit	AtpG	FoF1-type ATP synthase	15326535	3OAA
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_04070	COG1357	S	Uncharacterized conserved protein YjbI, contains pentapeptide repeats	YjbI			2BM4
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_04075	COG2057	I	Acyl-CoA:acetate/3-ketoacid CoA transferase, beta subunit	AtoA			5DBN
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_04080	COG4670	I	Acyl CoA:acetate/3-ketoacid CoA transferase	YdiF			5VIT
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_04085	COG0265	O	Periplasmic serine protease, S1-C subfamily, contain C-terminal PDZ domain	DegQ		29686141	2HGA
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_04100	COG0469	G	Pyruvate kinase	PykF	Glycolysis		6QXL
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_04115	COG0304	IQ	3-oxoacyl-(acyl-carrier-protein) synthase	FabB	Fatty acid biosynthesis	21652641	2UV8
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_04120	COG0236	I	Acyl carrier protein	AcpP	Fatty acid biosynthesis		1ACP
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_04125	COG0223	J	Methionyl-tRNA formyltransferase	Fmt			1FMT
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_04135	COG1105	G	1-phosphofructokinase or 6-phosphofructokinase II	FruK			2ABQ
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_04140	COG0367	E	Asparagine synthetase B (glutamine-hydrolyzing)	AsnB	Asparagine biosynthesis	25951518	2ETD
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_04145	COG0605	P	Superoxide dismutase	SodA			1AP5
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_04150	COG0210	L	Superfamily I DNA or RNA helicase	UvrD			6PPR
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_04155	COG0436	E	Aspartate/methionine/tyrosine aminotransferase	AspB	Isoleucine, leucine, valine biosynthesis		2O0R
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_04160	COG1360	N	Flagellar motor protein MotB	MotB			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_04165	COG3893	L	Inactivated superfamily I helicase				
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_04170	COG1506	E	Dipeptidyl aminopeptidase/acylaminoacyl peptidase	DAP2			2JBW
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_04175	COG3015	MV	Uncharacterized lipoprotein NlpE involved in copper resistance	CutF			2Z4H
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_04180	COG0167	F	Dihydroorotate dehydrogenase	PyrD	Pyrimidine biosynthesis		1GT8
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_04185	COG0532	J	Translation initiation factor IF-2, a GTPase	InfB	Translation factors		5ME0
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_04190	COG0373	H	Glutamyl-tRNA reductase	HemA	Heme biosynthesis		2XOE
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_04195	COG0491	R	Glyoxylase or a related metal-dependent hydrolase, beta-lactamase superfamily II	GloB		25670698	1QH3
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_04200	COG1404	O	Serine protease, subtilisin family	AprE			1SCJ
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_04205	COG0308	E	Aminopeptidase N, contains DUF3458 domain	PepN		24123841	6ATK
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_04220	COG1020	Q	EntF, seryl-AMP synthase component  of non-ribosomal peptide synthetase	EntF			5ES5
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_04225	COG2072	P	Predicted flavoprotein CzcO associated with the cation diffusion facilitator CzcD	CzcO			4USQ
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_04240	COG0784	T	CheY-like REC (receiver) domain, includes chemotaxis protein CheY  and sporulation regulator Spo0F	CheY			6QRJ
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_04245	COG5000	T	Signal transduction histidine kinase NtrY involved in nitrogen fixation and metabolism regulation	NtrY			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_04255	COG3185	ER	4-hydroxyphenylpyruvate dioxygenase and related hemolysins	HppD			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_04265	COG2177	D	Cell division protein FtsX	FtsX			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_04270	COG3755	S	Uncharacterized conserved protein YecT, DUF1311 family	YecT			3GI7
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_04280	COG0741	M	Soluble lytic murein transglycosylase or regulatory protein s ( may contain LysM/invasin domain)	MltE			153L
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_04285	COG0126	G	3-phosphoglycerate kinase	Pgk	Glycolysis		13PK
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_04290	COG2812	L	DNA polymerase III, gamma/tau subunits	DnaX			1A5T
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_04295	COG0382	H	4-hydroxybenzoate polyprenyltransferase	UbiA	Ubiquinone biosynthesis	28830929	4OD4
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_04300	COG0812	M	UDP-N-acetylenolpyruvoylglucosamine reductase	MurB	Mureine biosynthesis		2MBR
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_04305	COG0300	R	Short-chain dehydrogenase	YqjQ			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_04310	COG0560	E	Phosphoserine phosphatase	SerB	Serine biosynthesis		3N28
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_04320	COG2227	H	2-polyprenyl-3-methyl-5-hydroxy-6-metoxy-1,4-benzoquinol methylase	UbiG	Ubiquinone biosynthesis		1BHJ
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_04325	COG0445	J	tRNA U34 5-carboxymethylaminomethyl modifying enzyme MnmG/GidA	MnmG	tRNA modification		2ZXH
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_04335	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_04340	COG0008	J	Glutamyl- or glutaminyl-tRNA synthetase	GlnS	Heme biosynthesis		1EUQ
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_04360	COG1129	G	ABC-type sugar transport system, ATPase component	MglA			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_04380	COG0008	J	Glutamyl- or glutaminyl-tRNA synthetase	GlnS	Heme biosynthesis		1EUQ
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_04405	COG0557	K	Exoribonuclease R	VacB			6H25
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_04410	COG0698	G	Ribose 5-phosphate isomerase RpiB	RpiB	Pentose phosphate pathway		1NN4
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_04425	COG3000	I	Sterol desaturase/sphingolipid hydroxylase, fatty acid hydroxylase superfamily	ERG3			4ZR0
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_04430	COG0744	M	Penicillin-binding protein 1B/1F, peptidoglycan  transglycosylase/transpeptidase	MrcB			3FWL
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_04440	COG1774	T	Cell fate regulator YaaT, PSP1 superfamily (controls sporulation, competence, biofilm development)	YaaT		23490197	
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_04445	COG0607	P	Rhodanese-related sulfurtransferase	PspE	Urea cycle		1TQ1
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_04450	COG1118	P	ABC-type sulfate/molybdate transport systems, ATPase component	CysA			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_04460	COG4566	TK	DNA-binding response regulator, FixJ family, consists of REC and HTH domains	FixJ			1YIO
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_04475	COG0162	J	Tyrosyl-tRNA synthetase	TyrS	Aminoacyl-tRNA synthetases		4OUD
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_04485	COG0758	L	Predicted Rossmann fold nucleotide-binding protein DprA/Smf involved in DNA uptake	Smf			3MAJ
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_04495	COG1607	I	Acyl-CoA hydrolase	YciA			5DM5
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_04500	COG0739	M	Murein DD-endopeptidase MepM and murein hydrolase activator NlpD, contains LysM domain	NlpD			2GU1
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_04510	COG5010	UW	Flp pilus assembly protein TadD, contains TPR repeats	TadD			3WXX
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_04515	COG1207	M	Bifunctional protein GlmU, N-acetylglucosamine-1-phosphate-uridyltransferase/glucosamine-1-phosphate-acetyltransferase	GlmU			3FWW
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_04520	COG0717	F	dCTP deaminase	Dcd	Thymidylate biosynthesis		1XS1
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_04530	COG0410	E	ABC-type branched-chain amino acid transport system, ATPase component LivF	LivF		26527648;32250026	1JI0
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_04535	COG3979	G	Chitodextrinase				1WVU
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_04550	COG3359	R	Uncharacterized conserved protein YprB, contains RNaseH-like and TPR domains	YprB			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_04560	COG3695	K	Alkylated DNA nucleotide flippase Atl1, participates in nucleotide excision repair, Ada-like DNA-binding domain	Atl1		19516334	2KIF
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_04565	COG4535	P	Mg2+ and Co2+ transporter CorC, contains CBS pair and CorC-HlyC domains	CorC		1779764	4HG0
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_04570	COG0494	V	8-oxo-dGTP pyrophosphatase MutT and related house-cleaning NTP pyrophosphohydrolases, NUDIX family	MutT			4V14
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_04575	COG0113	H	Delta-aminolevulinic acid dehydratase, porphobilinogen synthase	HemB	Heme biosynthesis		1I8J
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_04590	COG2981	EP	Sulfate transporter CysZ	CysZ		24657232	3TX3
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_04605	COG0407	H	Uroporphyrinogen-III decarboxylase HemE	HemE	Heme biosynthesis		2DG5
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_04610	COG1587	H	Uroporphyrinogen-III synthase	HemD	Heme biosynthesis		1JR2
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_04615	COG0181	H	Porphobilinogen deaminase	HemC	Heme biosynthesis		1AH5
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_04620	COG1748	E	Saccharopine dehydrogenase, NADP-dependent	Lys9	Lysine biosynthesis		1E5L
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_04625	COG2207	K	AraC-type DNA-binding domain and AraC-containing proteins	AraC			1BL0
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_04635	COG0276	H	Protoheme ferro-lyase (ferrochelatase)	HemH	Heme biosynthesis		1AK1
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_04640	COG0728	M	Lipid II flippase MurJ/MviN (peptidoglycan biosynthesis)	MurJ		25013077	5T77
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_04650	COG4447	R	Uncharacterized conserved protein related to plant photosystem II stability/assembly factor				2XBG
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_04660	COG3290	T	Sensor histidine kinase DipB regulating citrate/malate metabolism	CitA			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_04680	COG1713	TR	Diadenosine tetraphosphatase YqeK or a related HD superfamily phosphohydrolase	YqeK		32152217	2OGI
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_04690	COG0204	I	1-acyl-sn-glycerol-3-phosphate acyltransferase	PlsC	Phospholipid biosynthesis		1IUQ
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_04700	COG0484	O	DnaJ-class molecular chaperone with C-terminal Zn finger domain	DnaJ			1BQ0
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_04705	COG1446	E	Isoaspartyl peptidase or L-asparaginase, Ntn-hydrolase superfamily	IaaA			1APY
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_04710	COG1409	T	3',5'-cyclic AMP phosphodiesterase CpdA	CpdA			2ZO9
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_04715	COG3324	R	Lactoylglutathione lyase-related enzyme, vicinal oxygen chelate (VOC) family	VOC		31710815	3OXH
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_04720	COG0111	H	Phosphoglycerate dehydrogenase or related dehydrogenase	SerA	Serine biosynthesis		3OET
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_04725	COG3837	S	Uncharacterized conserved protein, cupin superfamily				
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_04730	COG3884	I	Acyl-ACP thioesterase	FatA			2ESS
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_04735	COG1824	P	Permease, similar to cation transporters	MgtE2			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_04740	COG3963	I	Phosphatidylethanolamine N-methyltransferase				
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_04750	COG4105	M	Outer membrane protein assembly factor BamD, BamD/ComL family	BamD			2YHC
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_04755	COG0441	J	Threonyl-tRNA synthetase	ThrS	Aminoacyl-tRNA synthetases		1NYQ
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_04760	COG0499	H	S-adenosylhomocysteine hydrolase	SAM1			1A7A
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_04765	COG2091	H	Phosphopantetheinyl transferase	Sfp			1QR0
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_04770	COG0106	E	Phosphoribosylformimino-5-aminoimidazole carboxamide ribonucleotide (ProFAR) isomerase	HisA	Histidine biosynthesis		4U28
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_04775	COG2911	U	Autotransporter translocation and assembly protein TamB	TamB			5VTG
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_04780	COG0729	M	Outer membrane translocation and assembly module TamA	TamA			4BZA
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_04785	COG1020	Q	EntF, seryl-AMP synthase component  of non-ribosomal peptide synthetase	EntF			5ES5
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_04790	COG4927	R	Predicted choloylglycine hydrolase				
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_04795	COG2850	J	Ribosomal protein L16 Arg81 hydroxylase, contains JmjC domain	RoxA			1VRB
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_04800	COG3380	R	Predicted NAD/FAD-dependent oxidoreductase				4ZCC
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_04805	COG1033	R	Predicted exporter protein, RND superfamily	MMPL			5KHN
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_04810	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_04840	COG0332	I	3-oxoacyl-[acyl-carrier-protein] synthase III	FabH	Fatty acid biosynthesis		1UB7
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_04845	COG0236	I	Acyl carrier protein	AcpP	Fatty acid biosynthesis		1ACP
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_04855	COG3321	Q	Acyl transferase domain in polyketide synthase (PKS) enzymes	PksD			6IYO
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_04865	COG4706	I	Predicted 3-hydroxylacyl-ACP dehydratase, HotDog domain				
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_04870	COG1560	I	Palmitoleoyl-ACP: Kdo2-lipid-IV acyltransferase (lipid A biosynthesis)	LpxP	Lipid A biosynthesis	11830595	5F2T
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_04875	COG0236	I	Acyl carrier protein	AcpP	Fatty acid biosynthesis		1ACP
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_04880	COG0304	IQ	3-oxoacyl-(acyl-carrier-protein) synthase	FabB	Fatty acid biosynthesis	21652641	2UV8
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_04885	COG0623	I	Enoyl-[acyl-carrier-protein] reductase FabI	FabI	Fatty acid biosynthesis		1C14
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_04895	COG1233	Q	Phytoene dehydrogenase-related protein				4REP
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_04900	COG1089	M	GDP-D-mannose dehydratase	Gmd			1DB3
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_04915	COG0793	O	C-terminal processing protease CtpA/Prc, contains a PDZ domain	CtpA			6IQU
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_04930	COG2262	J	50S ribosomal subunit-associated GTPase HflX	HflX		22905870	2QTF
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_04940	COG0265	O	Periplasmic serine protease, S1-C subfamily, contain C-terminal PDZ domain	DegQ		29686141	2HGA
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_04945	COG0117	H	Riboflavin biosynthesis protein RibD, pyrimidine deaminase domain	RibD1	Riboflavin/FAD biosynthesis		2O7P
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_04960	COG0634	F	Hypoxanthine-guanine phosphoribosyltransferase	HptA	Purine salvage		1G9S
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_04965	COG1825	J	Ribosomal protein L25 (general stress protein Ctc)	RplY	Ribosome 50S subunit		1B75
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_04970	COG0193	J	Peptidyl-tRNA hydrolase	Pth	Translation factors	11835511	1RYB
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_04975	COG1057	H	Nicotinate-nucleotide adenylyltransferase NadD	NadD	NAD biosynthesis		1YUM
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_04980	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_04985	COG1033	R	Predicted exporter protein, RND superfamily	MMPL			5KHN
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_04995	COG0233	J	Ribosome recycling factor	Frr			1DD5
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_05000	COG0527	E	Aspartate kinase	MetL1	Lysine biosynthesis		2CDQ
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_05020	COG0264	J	Translation elongation factor EF-Ts	Tsf	Translation factors		1EFU
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_05025	COG0052	J	Ribosomal protein S2	RpsB	Ribosome 30S subunit		4V4H
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_05030	COG0103	J	Ribosomal protein S9	RpsI	Ribosome 30S subunit		4V4H
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_05035	COG0102	J	Ribosomal protein L13	RplM	Ribosome 50S subunit		1VS6
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_05045	COG1629	P	Outer membrane receptor protein, Fe transport	CirA			1BY3
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_05055	COG4856	T	Cyclic di-AMP synthase regulator CdaR, YbbR domain	YbbR		26527648	2KQ1
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_05070	COG0123	Q	Acetoin utilization deacetylase AcuC or a related deacetylase	AcuC			1C3P
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_05075	COG0525	J	Valyl-tRNA synthetase	ValS	Aminoacyl-tRNA synthetases		1GAX
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_05085	COG1078	R	HD superfamily phosphohydrolase	YdhJ			2HEK
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_05095	COG3227	O	Zn-dependent metalloprotease (Neutral protease B)	LasB			3NQY
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_05105	COG1154	HI	Deoxyxylulose-5-phosphate synthase	Dxs	Pyridoxal phosphate biosynthesis		2O1S
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_05110	COG0117	H	Riboflavin biosynthesis protein RibD, pyrimidine deaminase domain	RibD1	Riboflavin/FAD biosynthesis		2O7P
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_05115	COG3222	S	Uncharacterized conserved protein, glycosyltransferase A (GT-A) superfamily, DUF2064 family				3CGX
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_05130	COG0591	E	Na+/proline symporter	PutP			5NVA
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_05135	COG0622	R	Predicted phosphodiesterase, calcineurin family	YfcE		17586769	1SU1
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_05150	COG0760	O	Peptidyl-prolyl isomerase, parvulin family	SurA			2ZR5
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_05155	COG0517	T	CBS domain	CBS			1B3O
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_05170	COG0457	R	Tetratricopeptide (TPR) repeat	TPR			3AS4
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_05175	COG2067	I	Long-chain fatty acid transport protein	FadL			1T16
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_05200	COG0729	M	Outer membrane translocation and assembly module TamA	TamA			4BZA
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_05205	COG0020	I	Undecaprenyl pyrophosphate synthase	UppS			1X07
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_05215	COG0061	H	NAD kinase	NadK			1SUW
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_05230	COG1647	Q	Esterase/lipase	YvaK			4DIU
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_05255	COG0616	O	Periplasmic serine protease, ClpP class	SppA			3BEZ
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_05260	COG1223	R	Predicted ATPase, AAA+ superfamily				
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_05265	COG1794	M	Amino acid racemase YgeA	RacX			5ELL
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_05280	COG3208	Q	Surfactin synthase thioesterase subunit	GrsT			6VAP
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_05285	COG2144	R	Selenophosphate synthetase-related protein				
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_05290	COG5276	S	Uncharacterized secreted protein, contains LVIVD repeats, choice-of-anchor domain				
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_05295	COG5276	S	Uncharacterized secreted protein, contains LVIVD repeats, choice-of-anchor domain				
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_05300	COG5276	S	Uncharacterized secreted protein, contains LVIVD repeats, choice-of-anchor domain				
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_05325	COG0719	O	Fe-S cluster assembly scaffold protein SufB	SufB			1VH4
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_05330	COG0491	R	Glyoxylase or a related metal-dependent hydrolase, beta-lactamase superfamily II	GloB		25670698	1QH3
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_05340	COG1123	O	ABC-type glutathione transport system ATPase component, contains duplicated ATPase domain	GsiA			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_05345	COG0719	O	Fe-S cluster assembly scaffold protein SufB	SufB			1VH4
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_05350	COG0520	E	Selenocysteine lyase/Cysteine desulfurase	CsdA			4LW2
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_05355	COG3187	O	Heat shock protein HslJ	HslJ			2KTS
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_05380	COG1360	N	Flagellar motor protein MotB	MotB			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_05400	COG1159	J	GTPase Era, involved in 16S rRNA processing	Era			1EGA
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_05415	COG0495	J	Leucyl-tRNA synthetase	LeuS	Aminoacyl-tRNA synthetases		6LPF
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_05420	COG4591	M	ABC-type transport system involved in lipoprotein release, permease component LolC	LolE			6F49
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_05430	COG1968	I	Undecaprenyl pyrophosphate phosphatase	UppP			5OON
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_05435	COG0130	J	tRNA U55 pseudouridine synthase TruB, may also work on U342 of tmRNA	TruB	tRNA modification		1K8W
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_05445	COG3118	O	Chaperedoxin CnoX, contains thioredoxin-like and TPR-like domains, YbbN/TrxSC family	CnoX		21498507;29754824	3QDN
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_05450	COG2818	L	3-methyladenine DNA glycosylase Tag	Tag			1LMZ
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_05465	COG2360	O	Leu/Phe-tRNA-protein transferase	Aat			2CXA
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_05470	COG0388	C	Omega-amidase YafV/Nit2, hydrolyzes alpha-ketoglutaramate	Nit2		28373563	
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_05480	COG0109	HI	Polyprenyltransferase (heme O synthase)	CyoE			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_05485	COG1577	I	Mevalonate kinase	ERG12	Isoprenoid biosynthesis		
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_05500	COG0847	L	DNA polymerase III, epsilon subunit or related 3'-5' exonuclease	DnaQ			1J53
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_05535	COG2813	J	16S rRNA G1207 methylase RsmC	RsmC	16S rRNA modification		1DUS
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_05555	COG0322	L	Excinuclease UvrABC, nuclease subunit	UvrC		24513124	2NRT
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_05570	COG2865	K	Predicted transcriptional regulator, contains HTH domain				3LMM
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_05575	COG1150	C	Heterodisulfide reductase, subunit C	HdrC			5ODC
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_05580	COG1233	Q	Phytoene dehydrogenase-related protein				4REP
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_05590	COG4447	R	Uncharacterized conserved protein related to plant photosystem II stability/assembly factor				2XBG
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_05595	COG0024	J	Methionine aminopeptidase	Map			3J2I
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_05600	COG0623	I	Enoyl-[acyl-carrier-protein] reductase FabI	FabI	Fatty acid biosynthesis		1C14
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_05605	COG0079	E	Histidinol-phosphate/aromatic aminotransferase or cobyric acid decarboxylase	HisC	Cobalamine/B12 biosynthesis		4R2N
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_05615	COG1091	M	dTDP-4-dehydrorhamnose reductase	RfbD			1KBZ
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_05635	COG2234	OE	Zn-dependent amino- or carboxypeptidase, M28 family	Iap			1AMP
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_05640	COG2872	J	Ser-tRNA(Ala) deacylase AlaX (editing enzyme)	AlaX			2E1B
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_05645	COG4942	D	Septal ring factor EnvC, activator of murein hydrolases AmiA and AmiB	EnvC			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_05650	COG0789	K	DNA-binding transcriptional regulator, MerR family	SoxR			2VZ4
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_05655	COG1704	M	Magnetosome formation protein MamQ, lipoprotein antigen LemA family	LemA		14638756;20212111;26884433	2ETD
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_05660	COG3762	S	Uncharacterized membrane protein				
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_05670	COG2227	H	2-polyprenyl-3-methyl-5-hydroxy-6-metoxy-1,4-benzoquinol methylase	UbiG	Ubiquinone biosynthesis		1BHJ
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_05675	COG1246	E	N-acetylglutamate synthase or related acetyltransferase, GNAT family	ArgA	Arginine biosynthesis		2R98
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_05680	COG1159	J	GTPase Era, involved in 16S rRNA processing	Era			1EGA
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_05685	COG0412	Q	Dienelactone hydrolase	DLH			4ZV9
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_05690	COG2814	G	Predicted arabinose efflux permease AraJ, MFS family	AraJ			4LDS
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_05695	COG2143	O	Thioredoxin-related protein SoxW	SoxW			4FYB
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_05705	COG0791	M	Cell wall-associated hydrolase, NlpC_P60 family	NlpC			2EVR
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_05720	COG0496	L	Broad specificity polyphosphatase and 5'/3'-nucleotidase SurE	SurE			2V4N
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_05725	COG0793	O	C-terminal processing protease CtpA/Prc, contains a PDZ domain	CtpA			6IQU
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_05730	COG0765	E	ABC-type amino acid transport system, permease component	HisM			4YMS
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_05740	COG2982	M	Uncharacterized conserved protein AsmA involved in outer membrane biogenesis	AsmA			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_05750	COG0125	F	Thymidylate kinase	Tmk	Thymidylate biosynthesis		3LV8
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_05755	COG1988	R	Membrane-bound metal-dependent hydrolase YbcI, DUF457 family	YbcI			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_05760	COG1193	L	dsDNA-specific endonuclease/ATPase MutS2	MutS2			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_05765	COG2315	K	Predicted DNA-binding protein with double-wing structural motif, MmcQ/YjbR family	MmcQ		17266124	2A1V
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_05780	COG1878	E	Kynurenine formamidase				1R61
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_05785	COG1291	N	Flagellar motor component MotA	MotA			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_05790	COG2972	T	Sensor histidine kinase YesM	YesM			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_05795	COG3947	TK	Two-component response regulator, SAPR family, consists of REC, wHTH and BTAD domains	SAPR			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_05800	COG1243	J	tRNA U34 5-carboxymethylaminomethylation enzyme Elp3 (RNA elongator complex protein 3), contains radical SAM and acetyltransferase domains	ELP3		25151136;27455459	6IA8
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_05815	COG1215	N	Glycosyltransferase, catalytic subunit of cellulose synthase and poly-beta-1,6-N-acetylglucosamine synthase	BcsA			4HG6
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_05825	COG0778	C	Nitroreductase	NfnB	Pyrimidine degradation		1F5V
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_05835	COG1721	S	Uncharacterized conserved protein, DUF58 family, contains vWF domain	YeaD2			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_05840	COG0526	O	Thiol-disulfide isomerase or thioredoxin	TrxA			1XFL
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_05850	COG0579	G	L-2-hydroxyglutarate oxidase LhgO	LhgO			3DME
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_05860	COG1104	E	Cysteine desulfurase/Cysteine sulfinate desulfinase IscS or related enzyme, NifS family	NifS		22773787;25825430	4IXO
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_05870	COG0624	E	Acetylornithine deacetylase/Succinyl-diaminopimelate desuccinylase or related deacylase	ArgE	Arginine biosynthesis		1CG2
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_05885	COG2824	R	Uncharacterized Zn-ribbon-containing protein	PhnA			2AKK
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_05890	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_05900	COG3000	I	Sterol desaturase/sphingolipid hydroxylase, fatty acid hydroxylase superfamily	ERG3			4ZR0
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_05910	COG2226	H	Ubiquinone/menaquinone biosynthesis C-methylase UbiE/MenG	UbiE	Biotin biosynthesis		4OBW
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_05915	COG0005	F	Purine nucleoside phosphorylase	XapA	Purine salvage		1YQQ
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_05920	COG1920	H	2-phospho-L-lactate guanylyltransferase, coenzyme F420 biosynthesis enzyme, CobY/MobA/RfbA family				6BWH
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_05925	COG0607	P	Rhodanese-related sulfurtransferase	PspE	Urea cycle		1TQ1
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_05930	COG0535	DH	Radical SAM superfamily maturase, SkfB/NifB/PqqE family	SkfB		23282011	6Q2P
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_05935	COG0599	R	Uncharacterized conserved protein YurZ, alkylhydroperoxidase/carboxymuconolactone decarboxylase family	YurZ			3BEY
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_05940	COG0366	G	Glycosidase/amylase (phosphorylase)	AmyA		29684280	2P67
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_05970	COG2211	G	Na+/melibiose symporter or related transporter	MelB			4M64
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_05975	COG1011	H	FMN and 5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YigB, HAD superfamily (riboflavin biosynthesis)	YigB		24123841	4JB3
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_05980	COG3459	G	Cellobiose phosphorylase			17307853	1V7V
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_05985	COG3280	G	Maltooligosyltrehalose synthase	TreY			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_05990	COG2819	R	Predicted hydrolase of the alpha/beta superfamily	YbbA			3GFF
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_05995	COG0296	G	1,4-alpha-glucan branching enzyme	GlgB		25871919	4LPC
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_06000	COG1523	G	Pullulanase/glycogen debranching enzyme	PulA			2WSK
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_06005	COG0205	G	6-phosphofructokinase	PfkA	Glycolysis		1KZH
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_06010	COG0057	G	Glyceraldehyde-3-phosphate dehydrogenase/erythrose-4-phosphate dehydrogenase	GapA	Glycolysis		3ZDF
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_06015	COG2971	G	BadF-type ATPase, related to human N-acetylglucosamine kinase	BadF		17954692;12761179;12761179	
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_06020	COG0166	G	Glucose-6-phosphate isomerase	Pgi	Glycolysis		1B0Z
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_06025	COG0166	G	Glucose-6-phosphate isomerase	Pgi	Glycolysis		1B0Z
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_06045	COG0566	J	tRNA G18 (ribose-2'-O)-methylase SpoU	SpoU	tRNA modification		1GZ0
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_06055	COG0249	L	DNA mismatch repair ATPase MutS	MutS			1E3M
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_06065	COG1766	NU	Flagellar biosynthesis/type III secretory pathway M-ring protein FliF/YscJ	FliF			6SCN
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_06070	COG5256	J	Translation elongation factor EF-1alpha (GTPase)	TEF1	Translation factors		1F60
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_06080	COG0086	K	DNA-directed RNA polymerase, beta' subunit/160 kD subunit	RpoC	RNA polymerase		1NT9
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_06095	COG0244	J	Ribosomal protein L10	RplJ	Ribosome 50S subunit		5IT8
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_06100	COG0081	J	Ribosomal protein L1	RplA	Ribosome 50S subunit		3J65
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_06105	COG0080	J	Ribosomal protein L11	RplK	Ribosome 50S subunit		2E34
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_06115	COG0690	U	Preprotein translocase subunit SecE	SecE		29684280	5MG3
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_06125	COG0480	J	Translation elongation factor EF-G, a GTPase	FusA	Translation factors		1DAR
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_06155	COG0582	LX	Integrase/recombinase, includes phage integrase	FimB			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_06160	COG0828	J	Ribosomal protein S21	RpsU	Ribosome 30S subunit		4V4H
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_06165	COG0296	G	1,4-alpha-glucan branching enzyme	GlgB		25871919	4LPC
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_06185	COG1226	P	Voltage-gated potassium channel Kch	Kch			3FWZ
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_06205	COG2755	DI	Lysophospholipase L1 or related esterase. Includes spore coat protein LipC/YcsK	TesA			1BWP
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_06210	COG2149	S	Uncharacterized membrane protein YidH, DUF202 family	YidH			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_06215	COG1171	E	Threonine deaminase	IlvA	Isoleucine, leucine, valine biosynthesis		3IAU
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_06220	COG0577	V	ABC-type antimicrobial peptide transport system, permease component	SalY			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_06245	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_06250	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_06260	COG4555	CP	ABC-type Na+ transport system, ATPase component NatA	NatA			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_06265	COG1729	D	Cell division protein CpoB, coordinates peptidoglycan biosynthesis and outer membrane constriction	CpoB		25951518	2WZ7
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_06275	COG5256	J	Translation elongation factor EF-1alpha (GTPase)	TEF1	Translation factors		1F60
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_06325	COG0582	LX	Integrase/recombinase, includes phage integrase	FimB			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_06330	COG0605	P	Superoxide dismutase	SodA			1AP5
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_06340	COG0456	J	Ribosomal protein S18 acetylase RimI and related acetyltransferases	RimI			1GHE
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_06350	COG4469	R	Competence protein CoiA, contains predicted nuclease domain	CoiA			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_06385	COG3577	R	Predicted aspartyl protease				5C9F
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_06390	COG2050	Q	Acyl-CoA thioesterase PaaI, contains HGG motif	PaaI			1PSU
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_06400	COG1396	K	Transcriptional regulator, contains XRE-family HTH domain	HipB			1ADR
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_06405	COG0863	L	DNA modification methylase	YhdJ			1BOO
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_06410	COG3587	V	Restriction endonuclease, type III RM system	PM0699			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_06430	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_06435	COG4221	C	NADP-dependent 3-hydroxy acid dehydrogenase YdfG	YdfG	Pyrimidine degradation		3P19
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_06445	COG2207	K	AraC-type DNA-binding domain and AraC-containing proteins	AraC			1BL0
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_06455	COG0640	K	DNA-binding transcriptional regulator, ArsR family	ArsR			3F6V
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_06470	COG0798	P	Arsenite efflux pump ArsB, ACR3 family	ACR3			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_06485	COG1723	J	Mitochondrial translation protein, Rmd1/RMND1/DUF155 family	Rmd1		23022098	
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_06500	COG0010	E	Arginase/agmatinase family enzyme	SpeB	Urea cycle		1CEV
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_06505	COG0019	E	Diaminopimelate decarboxylase	LysA	Lysine biosynthesis		1D7K
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_06525	COG4083	U	Exosortase/Archaeosortase			22037399	
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_06530	COG2203	T	GAF domain	GAF			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_06535	COG4591	M	ABC-type transport system involved in lipoprotein release, permease component LolC	LolE			6F49
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_06540	COG0138	F	AICAR transformylase/IMP cyclohydrolase PurH	PurH	Purine biosynthesis		1G8M
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_06545	COG0443	O	Molecular chaperone DnaK (HSP70)	DnaK			3I33
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_06560	COG0768	DM	Cell division protein FtsI, peptidoglycan transpeptidase (Penicillin-binding protein 2)	FtsI			6HZQ
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_06565	COG0772	D	Peptodoglycan polymerase FtsW/RodA/SpoVE	FtsW		30692671	6BAR
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_06600	COG4625	S	Uncharacterized conserved protein, contains a C-terminal beta-barrel porin domain				
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_06620	COG1388	M	LysM repeat	LysM			1E0G
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_06625	COG0001	H	Glutamate-1-semialdehyde aminotransferase	HemL	Heme biosynthesis		2CFB
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_06645	COG0459	O	Chaperonin GroEL (HSP60 family)	GroEL			1AON
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_06655	COG1314	U	Protein translocase subunit SecG	SecG			2AKH
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_06670	COG2204	T	DNA-binding transcriptional response regulator, NtrC family, contains REC, AAA-type ATPase, and a Fis-type DNA-binding domains	AtoC			1ZY2
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_06675	COG1032	R	Radical SAM superfamily enzyme YgiQ, UPF0313 family	YgiQ			6FD2
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_06680	COG5276	S	Uncharacterized secreted protein, contains LVIVD repeats, choice-of-anchor domain				
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_06690	COG0550	L	DNA topoisomerase IA	TopA			1CY0
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_06720	COG0665	E	Glycine/D-amino acid oxidase (deaminating)	DadA			3AWI
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_06725	COG1249	C	Dihydrolipoamide dehydrogenase (E3) component of pyruvate/2-oxoglutarate dehydrogenase complex or glutathione oxidoreductase	Lpd	Glycine cleavagePyruvate oxidation		6QKG
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_06735	COG1149	R	MinD superfamily P-loop ATPase, contains an inserted ferredoxin domain				
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_06740	COG1189	J	Predicted rRNA methylase YqxC, contains S4 and FtsJ domains	YqxC			3OPN
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_06760	COG2222	M	Fructoselysine-6-P-deglycase FrlB or related protein, duplicated sugar isomerase (SIS) domain	AgaS		16153181	3C3J
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_06775	COG3593	L	Predicted ATP-dependent endonuclease of the OLD family, contains P-loop ATPase and TOPRIM domains	YbjD			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_06780	COG1729	D	Cell division protein CpoB, coordinates peptidoglycan biosynthesis and outer membrane constriction	CpoB		25951518	2WZ7
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_06785	COG0054	H	6,7-dimethyl-8-ribityllumazine synthase (Riboflavin synthase beta chain)	RibE	Riboflavin/FAD biosynthesis		1C2Y
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_06795	COG1721	S	Uncharacterized conserved protein, DUF58 family, contains vWF domain	YeaD2			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_06800	COG1239	H	Mg-chelatase subunit ChlI	ChlI			1G8P
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_06810	COG5495	R	Predicted oxidoreductase, contains short-chain dehydrogenase (SDR) and DUF2520 domains				
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_06815	COG1138	CO	Cytochrome c biogenesis protein CcmF	CcmF			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_06840	COG0114	C	Fumarate hydratase class II	FumC	TCA cycle		1KQ7
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_06850	COG1163	J	Ribosome-interacting GTPase RBG1	Rbg1			4A9A
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_06855	COG1201	L	Lhr-like helicase	Lhr			5V9X
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_06870	COG0147	EH	Anthranilate/para-aminobenzoate synthases component I	TrpE	Aromatic amino acid biosynthesis		1I1Q
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_06885	COG4233	OC	Thiol-disulfide interchange protein, contains DsbC and DsbD domains				
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_06895	COG0542	O	ATP-dependent Clp protease, ATP-binding subunit ClpA	ClpA			1KSF
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_06900	COG0466	O	ATP-dependent Lon protease, bacterial type	Lon			6ON2
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_06905	COG0400	R	Predicted esterase	YpfH			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_06920	COG1148	C	Heterodisulfide reductase, subunit A (polyferredoxin)	HdrA			5ODC
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_06970	COG1198	L	Primosomal protein N' (replication factor Y) - superfamily II helicase	PriA			6DCR
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_06975	COG3947	TK	Two-component response regulator, SAPR family, consists of REC, wHTH and BTAD domains	SAPR			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_06980	COG0360	J	Ribosomal protein S6	RpsF	Ribosome 30S subunit		4V4H
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_06985	COG0238	J	Ribosomal protein S18	RpsR	Ribosome 30S subunit		4V4H
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_06990	COG0359	J	Ribosomal protein L9	RplI	Ribosome 50S subunit	27112601	1VS6
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_07000	COG2602	V	Beta-lactamase class D	YbxI			5CTN
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_07010	COG0210	L	Superfamily I DNA or RNA helicase	UvrD			6PPR
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_07025	COG0758	L	Predicted Rossmann fold nucleotide-binding protein DprA/Smf involved in DNA uptake	Smf			3MAJ
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_07035	COG2133	G	Glucose/arabinose dehydrogenase, beta-propeller fold	YliI			1C9U
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_07040	COG0604	CR	NADPH:quinone reductase or related Zn-dependent oxidoreductase	Qor			2VCY
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_07045	COG0697	GER	Permease of the drug/metabolite transporter (DMT) superfamily	RhaT			5I20
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_07055	COG0477	GEPR	MFS family permease, includes anhydromuropeptide permease AmpG	ProP		12426329	
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_07060	COG1309	K	DNA-binding protein, AcrR family, includes nucleoid occlusion protein SlmA	AcrR			2QOP
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_07065	COG1538	M	Outer membrane protein TolC	TolC			1EK9
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_07070	COG1033	R	Predicted exporter protein, RND superfamily	MMPL			5KHN
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_07075	COG1566	V	Multidrug resistance efflux pump EmrA	EmrA			4TKO
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_07085	COG0458	EF	Carbamoylphosphate synthase large subunit	CarB	Arginine biosynthesis		1C30
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_07095	COG4753	TK	Two-component response regulator, YesN/AraC family, consists of REC and AraC-type DNA-binding domains	YesN			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_07100	COG1237	R	Metal-dependent hydrolase, beta-lactamase superfamily II				2P4Z
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_07115	COG2610	G	H+/gluconate symporter GntT or related permease, GntP/DsdX family	GntT			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_07120	COG3155	V	Glyoxalase ElbB, DJ-1 superfamily	ElbB		26678554	1VHQ
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_07130	COG5485	R	Predicted ester cyclase				3EHC
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_07135	COG2353	R	Polyisoprenoid-binding periplasmic protein YceI	YceI		15741337;20236316	1WUB
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_07140	COG3710	K	DNA-binding winged helix-turn-helix (wHTH) domain	CadC1			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_07145	COG1061	KL	Superfamily II DNA or RNA helicase	SSL2			6JDE
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_07150	COG0484	O	DnaJ-class molecular chaperone with C-terminal Zn finger domain	DnaJ			1BQ0
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_07155	COG1028	I	NAD(P)-dependent dehydrogenase, short-chain alcohol dehydrogenase family	FabG	Fatty acid biosynthesis		6L1H
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_07160	COG3239	I	Fatty acid desaturase	DesA			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_07165	COG0664	T	cAMP-binding domain of CRP or a regulatory subunit of cAMP-dependent protein kinases	Crp			1FT9
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_07175	COG2130	QR	NADPH-dependent curcumin reductase CurA	CurA		21467222	1V3T
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_07185	COG2207	K	AraC-type DNA-binding domain and AraC-containing proteins	AraC			1BL0
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_07190	COG0447	H	1,4-Dihydroxy-2-naphthoyl-CoA synthase	MenB	Menaquinone biosynthesis		4ELS
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_07195	COG1063	ER	Threonine dehydrogenase or related Zn-dependent dehydrogenase	Tdh	Non-phosphorylated Entner-Doudoroff pathway		4A2C
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_07205	COG4221	C	NADP-dependent 3-hydroxy acid dehydrogenase YdfG	YdfG	Pyrimidine degradation		3P19
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_07210	COG1182	C	FMN-dependent NADH-azoreductase	AzoR			1TIK
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_07215	COG1226	P	Voltage-gated potassium channel Kch	Kch			3FWZ
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_07235	COG2814	G	Predicted arabinose efflux permease AraJ, MFS family	AraJ			4LDS
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_07245	COG1607	I	Acyl-CoA hydrolase	YciA			5DM5
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_07255	COG3021	R	Uncharacterized conserved protein YafD, endonuclease/exonuclease/phosphatase (EEP) superfamily	YafD			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_07260	COG0668	M	Small-conductance mechanosensitive channel	MscS			2OAU
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_07270	COG0499	H	S-adenosylhomocysteine hydrolase	SAM1			1A7A
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_07295	COG4447	R	Uncharacterized conserved protein related to plant photosystem II stability/assembly factor				2XBG
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_07300	COG2230	I	Cyclopropane fatty-acyl-phospholipid synthase and related methyltransferases	Cfa			5Z9O
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_07305	COG2356	L	Endonuclease I	EndA			1OUO
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_07310	COG0595	J	mRNA degradation ribonuclease J1/J2	RnjA			3T3N
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_07320	COG0540	F	Aspartate carbamoyltransferase, catalytic subunit	PyrB	Pyrimidine biosynthesis		1NBE
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_07325	COG0634	F	Hypoxanthine-guanine phosphoribosyltransferase	HptA	Purine salvage		1G9S
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_07330	COG2183	K	Transcriptional accessory protein Tex/SPT6	Tex			2OCE
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_07350	COG1538	M	Outer membrane protein TolC	TolC			1EK9
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_07355	COG0841	V	Multidrug efflux pump subunit AcrB	AcrB			1IWG
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_07360	COG0845	MV	Multidrug efflux pump subunit AcrA (membrane-fusion protein)	AcrA			1T5E
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_07370	COG2259	S	Uncharacterized membrane protein YphA, DoxX/SURF4 family	DoxX			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_07380	COG0162	J	Tyrosyl-tRNA synthetase	TyrS	Aminoacyl-tRNA synthetases		4OUD
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_07385	COG3320	Q	Thioester reductase domain of alpha aminoadipate reductase Lys2 and NRPSs	Lys2b	Lysine biosynthesis		5MSP
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_07395	COG0402	FR	Cytosine/adenosine deaminase or related metal-dependent hydrolase	SsnA	Pyrimidine salvage		3O7U
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_07400	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_07410	COG1587	H	Uroporphyrinogen-III synthase	HemD	Heme biosynthesis		1JR2
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_07415	COG1866	C	Phosphoenolpyruvate carboxykinase, ATP-dependent	PckA	Gluconeogenesis		1AQ2
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_07420	COG2363	S	Uncharacterized membrane protein YgdD, TMEM256/DUF423 family	YgdD			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_07425	COG0673	R	Predicted dehydrogenase	MviM			3UUW
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_07430	COG0640	K	DNA-binding transcriptional regulator, ArsR family	ArsR			3F6V
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_07445	COG2205	T	K+-sensing histidine kinase KdpD	KdpD			2KSF
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_07465	COG0633	C	Ferredoxin	Fdx			1KRH
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_07470	COG5038
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_07475	COG4988	CO	ABC-type transport system involved in cytochrome bd biosynthesis, ATPase and permease components	CydD			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_07480	COG0815	M	Apolipoprotein N-acyltransferase	Lnt			6NWR
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_07490	COG0462	F	Phosphoribosylpyrophosphate synthetase	PrsA	Histidine biosynthesis, Purine biosynthesis		1DKR
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_07495	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_07500	COG0124	J	Histidyl-tRNA synthetase	HisS	Aminoacyl-tRNA synthetases		1KMM
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_07520	COG0708	L	Exonuclease III	XthA			1AKO
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_07525	COG2885	M	Outer membrane protein OmpA and related peptidoglycan-associated (lipo)proteins	OmpA			1OAP
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_07530	COG0656	Q	Aldo/keto reductase, related to diketogulonate reductase	ARA1			1Q13
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_07535	COG0656	Q	Aldo/keto reductase, related to diketogulonate reductase	ARA1			1Q13
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_07540	COG0622	R	Predicted phosphodiesterase, calcineurin family	YfcE		17586769	1SU1
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_07545	COG4667	I	Predicted phospholipase, patatin/cPLA2 family	YjjU			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_07550	COG3695	K	Alkylated DNA nucleotide flippase Atl1, participates in nucleotide excision repair, Ada-like DNA-binding domain	Atl1		19516334	2KIF
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_07560	COG2226	H	Ubiquinone/menaquinone biosynthesis C-methylase UbiE/MenG	UbiE	Biotin biosynthesis		4OBW
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_07565	COG4671	R	Predicted glycosyl transferase				
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_07570	COG3852	T	Signal transduction histidine kinase NtrB, nitrogen specific	NtrB		23893111	
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_07575	COG2204	T	DNA-binding transcriptional response regulator, NtrC family, contains REC, AAA-type ATPase, and a Fis-type DNA-binding domains	AtoC			1ZY2
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_07580	COG1629	P	Outer membrane receptor protein, Fe transport	CirA			1BY3
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_07595	COG1541	H	Phenylacetate-coenzyme A ligase PaaK, adenylate-forming domain family	PaaK			2Y4O
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_07615	COG3449	L	DNA gyrase inhibitor GyrI/SbmC	SbmC			1JYH
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_07620	COG1357	S	Uncharacterized conserved protein YjbI, contains pentapeptide repeats	YjbI			2BM4
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_07635	COG1246	E	N-acetylglutamate synthase or related acetyltransferase, GNAT family	ArgA	Arginine biosynthesis		2R98
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_07645	COG4974	L	Site-specific recombinase XerD	XerD			1A0P
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_07665	COG0863	L	DNA modification methylase	YhdJ			1BOO
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_07675	COG1061	KL	Superfamily II DNA or RNA helicase	SSL2			6JDE
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_07680	COG0613	F	5'-3' exoribonuclease TrpH/YciV (RNase AM), contains PHP domain	YciV		25871919	3E0F
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_07730	COG4372	S	Uncharacterized protein, contains DUF3084 domain				
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_07740	COG1205	L	ATP-dependent helicase YprA,  contains C-terminal metal-binding DUF1998 domain	YprA			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_07745	COG4753	TK	Two-component response regulator, YesN/AraC family, consists of REC and AraC-type DNA-binding domains	YesN			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_07750	COG4913	S	Uncharacterized conserved protein, contains a C-terminal ATPase domain				
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_07760	COG0517	T	CBS domain	CBS			1B3O
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_07780	COG0173	J	Aspartyl-tRNA synthetase	AspS	Aminoacyl-tRNA synthetases		1C0A
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_07785	COG1629	P	Outer membrane receptor protein, Fe transport	CirA			1BY3
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_07800	COG0841	V	Multidrug efflux pump subunit AcrB	AcrB			1IWG
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_07805	COG1566	V	Multidrug resistance efflux pump EmrA	EmrA			4TKO
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_07810	COG1538	M	Outer membrane protein TolC	TolC			1EK9
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_07815	COG1309	K	DNA-binding protein, AcrR family, includes nucleoid occlusion protein SlmA	AcrR			2QOP
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_07820	COG0142	H	Geranylgeranyl pyrophosphate synthase	IspA	Isoprenoid biosynthesis		2AZJ
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_07835	COG2067	I	Long-chain fatty acid transport protein	FadL			1T16
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_07840	COG0567	C	2-oxoglutarate dehydrogenase complex, dehydrogenase (E1) component, and related enzymes	SucA	TCA cycle		2JGD
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_07845	COG0508	C	Pyruvate/2-oxoglutarate dehydrogenase complex, dihydrolipoamide acyltransferase (E2) component	AceF	Pyruvate oxidation		1B5S
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_07860	COG2329	H	Heme-degrading monooxygenase HmoA and related ABM domain proteins	HmoA		21873409	1IUJ
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_07875	COG4531	P	ABC-type Zn2+ transport system, periplasmic component/surface adhesin ZnuA	ZnuA			2OGW
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_07880	COG4586	R	ABC-type uncharacterized transport system, ATPase component				
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_07905	COG2095	E	Small neutral amino acid transporter SnatA, MarC family	MarC		17954692;12761179	
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_07915	COG0208	F	Ribonucleotide reductase beta subunit, ferritin-like domain	NrdB	Pyrimidine salvage		1AV8
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_07920	COG0209	F	Ribonucleotide reductase alpha subunit	NrdA	Pyrimidine salvage		1R1R
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_07925	COG0792	L	Predicted endonuclease distantly related to archaeal Holliday junction resolvase, YraN/UPF0102 family	YraN			3FOV
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_07930	COG0075	EF	Archaeal aspartate aminotransferase or a related aminotransferase, includes purine catabolism protein PucG	PucG	Serine biosynthesis		3NNK
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_07945	COG0659	P	Sulfate permease or related transporter, MFS superfamily	SUL1			3NY7
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_07950	COG2233	F	Xanthine/uracil permease	UraA	Pyrimidine degradation		3QE7
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_07960	COG0457	R	Tetratricopeptide (TPR) repeat	TPR			3AS4
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_07975	COG3063	NW	Type IV pilus assembly protein PilF/PilW	PilF		16403447	2VQ2
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_07985	COG1240	H	vWFA (von Willebrand factor type A) domain of Mg and Co chelatases	ChlD			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_07990	COG1240	H	vWFA (von Willebrand factor type A) domain of Mg and Co chelatases	ChlD			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_07995	COG3105	S	Uncharacterized membrane-anchored protein YhcB, DUF1043 family	YhcB			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_08000	COG1240	H	vWFA (von Willebrand factor type A) domain of Mg and Co chelatases	ChlD			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_08005	COG1239	H	Mg-chelatase subunit ChlI	ChlI			1G8P
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_08010	COG1453	R	Predicted oxidoreductase of the aldo/keto reductase family				
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_08020	COG0596	HR	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold	MenH	Menaquinone biosynthesis		4MYS
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_08025	COG1309	K	DNA-binding protein, AcrR family, includes nucleoid occlusion protein SlmA	AcrR			2QOP
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_08030	COG5658	V	Bacterial immunity/signal transduction membrane protein SdpI,  SdpI/YbgB/DUF1648 family	SdpI		20563570;31064832	
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_08040	COG3709	G	Ribose 1,5-bisphosphate kinase PhnN	PhnN			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_08045	COG0669	H	Phosphopantetheine adenylyltransferase	CoaD	Pantothenate/CoA biosynthesis		3F3M
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_08050	COG1652	P	Cytoplasmic potassium-binding protein Kbp/XkdP/YgaU, contains LysM domain	XkdP		27112601	5FIM
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_08065	COG1510	K	DNA-binding transcriptional regulator GbsR, MarR family	GbsR			1KU9
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_08085	COG0016	J	Phenylalanyl-tRNA synthetase alpha subunit	PheS	Aminoacyl-tRNA synthetases		3L4G
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_08090	COG1670	JO	Protein N-acetyltransferase, RimJ/RimL family	RimL			1S7F
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_08100	COG1407	R	Metallophosphoesterase superfamily enzyme				
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_08105	COG0513	L	Superfamily II DNA and RNA helicase	SrmB			3RRM
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_08110	COG1793	L	ATP-dependent DNA ligase	CDC9			1A0I
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_08115	COG2333	U	DNA uptake channel protein ComEC C-terminal domain, metallo-beta-lactamase superfamily	ComEC			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_08120	COG0745	TK	DNA-binding response regulator, OmpR family, contains REC and winged-helix (wHTH) domain	OmpR			1XHF
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_08125	COG1100	R	GTPase SAR1 family domain	Gem1			4C0J
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_08140	COG0158	G	Fructose-1,6-bisphosphatase	Fbp	Gluconeogenesis		1BK4
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_08145	COG1246	E	N-acetylglutamate synthase or related acetyltransferase, GNAT family	ArgA	Arginine biosynthesis		2R98
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_08150	COG0528	F	Uridylate kinase	PyrH	Pyrimidine biosynthesis		2BND
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_08155	COG3176	R	Putative hemolysin				
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_08175	COG1399	J	23S rRNA accumulation protein YceD (essential in plants, uncharacterized in bacteria)	YceD		27574185	
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_08180	COG0333	J	Ribosomal protein L32	RpmF	Ribosome 50S subunit	17114934	1VS6
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_08185	COG3425	I	3-hydroxy-3-methylglutaryl CoA synthase	PksG	Isoprenoid biosynthesis		1TVZ
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_08190	COG0511	I	Biotin carboxyl carrier protein	AccB	Fatty acid biosynthesis		1A6X
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_08195	COG0439	I	Biotin carboxylase	AccC	Fatty acid biosynthesis		1BNC
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_08200	COG0665	E	Glycine/D-amino acid oxidase (deaminating)	DadA			3AWI
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_08205	COG4953	M	Membrane carboxypeptidase/penicillin-binding protein PbpC	PbpC			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_08220	COG1117	P	ABC-type phosphate transport system, ATPase component	PstB			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_08240	COG0002	E	N-acetyl-gamma-glutamylphosphate reductase	ArgC	Arginine biosynthesis		3DR3
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_08250	COG0787	M	Alanine racemase	Alr	Mureine biosynthesis		1BD0
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_08270	COG1010	H	Precorrin-3B methylase	CobJ	Cobalamine/B12 biosynthesis		2ZVB
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_08280	COG1012	I	Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase	AdhE	Proline degradation		1A4S
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_08285	COG4101	R	Uncharacterized conserved protein, RmlC-like cupin domain	RmlC			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_08290	COG1181	MR	D-alanine-D-alanine ligase or related ATP-grasp enzyme	DdlA	Mureine biosynthesis		1E4E
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_08295	COG4067	S	Uncharacterized conserved protein				
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_08300	COG1181	MR	D-alanine-D-alanine ligase or related ATP-grasp enzyme	DdlA	Mureine biosynthesis		1E4E
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_08305	COG2988	E	Succinylglutamate desuccinylase	AstE			1YW4
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_08315	COG0597	MU	Lipoprotein signal peptidase	LspA			5DIR
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_08330	COG0060	J	Isoleucyl-tRNA synthetase	IleS	Aminoacyl-tRNA synthetases		1FFY
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_08335	COG4774	P	Outer membrane receptor for monomeric catechols	Fiu			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_08340	COG1381	L	Recombinational DNA repair protein RecO (RecF pathway)	RecO			1U5K
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_08350	COG1807	M	PMT family glycosyltransferase ArnT/Agl22, involved in glycosylation of proteins and lipid IVA	ArnT		16226890;31233657;32706435	5EZM
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_08355	COG0334	E	Glutamate dehydrogenase/leucine dehydrogenase	GdhA	Glutamine biosynthesis	24391520	1B3B
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_08365	COG0626	E	Cystathionine beta-lyase/cystathionine gamma-synthase	MetC	Methionine biosynthesis		1CL1
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_08380	COG0697	GER	Permease of the drug/metabolite transporter (DMT) superfamily	RhaT			5I20
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_08390	COG1249	C	Dihydrolipoamide dehydrogenase (E3) component of pyruvate/2-oxoglutarate dehydrogenase complex or glutathione oxidoreductase	Lpd	Glycine cleavagePyruvate oxidation		6QKG
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_08400	COG4098	L	Superfamily II DNA/RNA helicase required for DNA uptake (late competence protein)	ComFA			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_08415	COG1252	C	NADH dehydrogenase, FAD-containing subunit	Ndh			5NA4
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_08430	COG0749	L	DNA polymerase I, 3'-5' exonuclease and polymerase domains	PolA			1D8Y
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_08455	COG4942	D	Septal ring factor EnvC, activator of murein hydrolases AmiA and AmiB	EnvC			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_08465	COG0526	O	Thiol-disulfide isomerase or thioredoxin	TrxA			1XFL
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_08485	COG0697	GER	Permease of the drug/metabolite transporter (DMT) superfamily	RhaT			5I20
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_08500	COG0517	T	CBS domain	CBS			1B3O
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_08510	COG0177	L	Endonuclease III	Nth			4UOB
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_08515	COG0776	L	Bacterial nucleoid DNA-binding protein IHF-alpha	HimA			1B8Z
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_08520	COG1530	J	Ribonuclease G or E	CafA			1SLJ
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_08525	COG2137	O	SOS response regulatory protein OraA/RecX, interacts with RecA	RecX			3C1D
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_08535	COG1060	H	2-iminoacetate synthase ThiH/Menaquinone biosynthesis enzymes MqnC and MqnE	ThiH	Thiamine biosynthesis	18801996	4WCX
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_08540	COG1026	O	Zn-dependent peptidase, M16 (insulinase) family	Cym1			2FGE
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_08545	COG1025	O	Secreted/periplasmic Zn-dependent peptidases, insulinase-like	Ptr			1Q2L
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_08550	COG0612	R	Predicted Zn-dependent peptidase, M16 family	PqqL			6OFS
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_08560	COG0261	J	Ribosomal protein L21	RplU	Ribosome 50S subunit		1VS6
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_08565	COG0211	J	Ribosomal protein L27	RpmA	Ribosome 50S subunit		1VS6
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_08570	COG0173	J	Aspartyl-tRNA synthetase	AspS	Aminoacyl-tRNA synthetases		1C0A
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_08575	COG1187	J	Pseudouridylate synthase RsuA, specific for 16S rRNA U516  and 23S rRNA U2605	RsuA	16S rRNA modification		1KSK
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_08580	COG1508	K	DNA-directed RNA polymerase specialized sigma subunit, sigma54 homolog	RpoN	RNA polymerase		5BYH
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_08610	COG1291	N	Flagellar motor component MotA	MotA			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_08620	COG0252	JE	L-asparaginase/archaeal Glu-tRNAGln amidotransferase subunit D	AnsA			1ZQ1
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_08625	COG1099	R	Predicted metal-dependent hydrolase, TIM-barrel fold				3GUW
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_08645	COG0702	R	Uncharacterized conserved protein YbjT, contains NAD(P)-binding and DUF2867 domains	YbjT			5L3Z
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_08655	COG2128	P	Alkylhydroperoxidase family enzyme, contains CxxC motif	YciW			1GU9
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_08665	COG0608	L	ssDNA-specific exonuclease RecJ, DHH superfamily, may be involved in archaeal DNA replication intiation	RecJ			1IR6
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_08675	COG2908	M	UDP-2,3-diacylglucosamine pyrophosphatase LpxH	LpxH			5WLY
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_08685	COG1102	F	Cytidylate kinase	CmkB			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_08700	COG3121	W	P pilus assembly protein, chaperone PapD	FimC			1BF8
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_08715	COG4591	M	ABC-type transport system involved in lipoprotein release, permease component LolC	LolE			6F49
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_08720	COG0441	J	Threonyl-tRNA synthetase	ThrS	Aminoacyl-tRNA synthetases		1NYQ
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_08735	COG4123	J	tRNA1(Val) A37 N6-methylase TrmN6	TrmN6	tRNA modification		
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_08745	COG0655	C	Multimeric flavodoxin WrbA, includes NAD(P)H:quinone oxidoreductase	WrbA			4DY4
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_08750	COG0288	P	Carbonic anhydrase	CynT		22081392	1EKJ
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_08755	COG0047	F	Phosphoribosylformylglycinamidine (FGAM) synthase, glutamine amidotransferase domain	PurL2	Purine biosynthesis		1T3T
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_08770	COG1846	K	DNA-binding transcriptional regulator, MarR family	MarR			1JGS
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_08775	COG2866	M	Murein tripeptide amidase MpaA	MpaA			1ARL
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_08780	COG4800	K	Predicted transcriptional regulator with an HTH domain				
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_08795	COG0793	O	C-terminal processing protease CtpA/Prc, contains a PDZ domain	CtpA			6IQU
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_08800	COG4667	I	Predicted phospholipase, patatin/cPLA2 family	YjjU			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_08805	COG0308	E	Aminopeptidase N, contains DUF3458 domain	PepN		24123841	6ATK
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_08810	COG1200	L	RecG-like helicase	RecG			1GM5
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_08815	COG1011	H	FMN and 5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YigB, HAD superfamily (riboflavin biosynthesis)	YigB		24123841	4JB3
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_08820	COG1012	I	Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase	AdhE	Proline degradation		1A4S
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_08825	COG1902	C	2,4-dienoyl-CoA reductase or related NADH-dependent reductase, Old Yellow Enzyme (OYE) family	FadH			1BWK
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_08830	COG0664	T	cAMP-binding domain of CRP or a regulatory subunit of cAMP-dependent protein kinases	Crp			1FT9
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_08840	COG0861	P	Tellurite resistance membrane protein TerC	TerC			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_08855	COG3958	G	Transketolase, C-terminal subunit	TktA2			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_08860	COG0668	M	Small-conductance mechanosensitive channel	MscS			2OAU
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_08880	COG3579	E	Aminopeptidase C	PepC			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_08890	COG0506	E	Proline dehydrogenase	PutA	Proline degradation		5KF6
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_08895	COG0371	C	Glycerol dehydrogenase or related enzyme, iron-containing ADH family	GldA	Isoprenoid biosynthesis	20688982	3S99
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_08925	COG1083	M	CMP-N-acetylneuraminic acid synthetase, NeuA/PseF family	NeuA			1EYR
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_08935	COG0210	L	Superfamily I DNA or RNA helicase	UvrD			6PPR
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_08950	COG1092	J	23S rRNA G2069 N7-methylase RlmK or C1962 C5-methylase RlmI	RlmK	23S rRNA modification		2B78
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_08960	COG0598	P	Mg2+ and Co2+ transporter CorA	CorA			2BBH
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_08970	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_08990	COG2234	OE	Zn-dependent amino- or carboxypeptidase, M28 family	Iap			1AMP
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_09005	COG1974	KT	SOS-response transcriptional repressor LexA (RecA-mediated autopeptidase)	LexA			1AY9
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_09015	COG1760	E	L-serine deaminase	SdaA			4RQO
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_09025	COG0413	H	Ketopantoate hydroxymethyltransferase	PanB	Pantothenate/CoA biosynthesis		3VAV
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_09030	COG1187	J	Pseudouridylate synthase RsuA, specific for 16S rRNA U516  and 23S rRNA U2605	RsuA	16S rRNA modification		1KSK
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_09035	COG0105	F	Nucleoside diphosphate kinase	Ndk	Pyrimidine biosynthesis		1B4S
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_09040	COG3887	T	Cyclic di-AMP phosphodiesterase GdpP, contains GGDEF-like and DHH domains	GdpP			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_09045	COG1047	O	Peptidyl-prolyl cis-trans isomerase, FKBP type	SlpA			2M2A
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_09050	COG1047	O	Peptidyl-prolyl cis-trans isomerase, FKBP type	SlpA			2M2A
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_09065	COG1192	DN	ParA-like ATPase involved in chromosome/plasmid partitioning or cellulose biosynthesis protein BcsQ	ParA			6NOO
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_09075	COG1087	M	UDP-glucose 4-epimerase	GalE			1A9Y
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_09080	COG0399	M	dTDP-4-amino-4,6-dideoxygalactose transaminase	WecE		15271350	4PIW
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_09085	COG2148	M	Sugar transferase involved in LPS biosynthesis (colanic, teichoic acid)	WcaJ			5W7L
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_09100	COG0823	U	Periplasmic component TolB of the Tol biopolymer transport system	TolB			1C5K
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_09105	COG0176	G	Transaldolase/fructose-6-phosphate aldolase	TalA	Pentose phosphate pathway		1F05
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_09110	COG0451	M	Nucleoside-diphosphate-sugar epimerase	WcaG			2X4G
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_09115	COG1240	H	vWFA (von Willebrand factor type A) domain of Mg and Co chelatases	ChlD			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_09165	COG2076	V	Multidrug transporter EmrE and related cation transporters	EmrE			2I68
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_09185	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_09195	COG2240	H	Pyridoxal/pyridoxine/pyridoxamine kinase	PdxK	Pyridoxal phosphate biosynthesis	19096365;23189126	5ZW9
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_09205	COG0352	H	Thiamine monophosphate synthase	ThiE	Thiamine biosynthesis	19060138	1G4T
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_09210	COG0063	F	NAD(P)H-hydrate repair enzyme Nnr, NAD(P)H-hydrate dehydratase domain	Nnr2			1KYH
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_09230	COG1123	O	ABC-type glutathione transport system ATPase component, contains duplicated ATPase domain	GsiA			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_09235	COG0778	C	Nitroreductase	NfnB	Pyrimidine degradation		1F5V
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_09240	COG0236	I	Acyl carrier protein	AcpP	Fatty acid biosynthesis		1ACP
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_09245	COG0332	I	3-oxoacyl-[acyl-carrier-protein] synthase III	FabH	Fatty acid biosynthesis		1UB7
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_09255	COG0623	I	Enoyl-[acyl-carrier-protein] reductase FabI	FabI	Fatty acid biosynthesis		1C14
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_09260	COG0332	I	3-oxoacyl-[acyl-carrier-protein] synthase III	FabH	Fatty acid biosynthesis		1UB7
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_09265	COG2226	H	Ubiquinone/menaquinone biosynthesis C-methylase UbiE/MenG	UbiE	Biotin biosynthesis		4OBW
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_09275	COG1360	N	Flagellar motor protein MotB	MotB			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_09290	COG1154	HI	Deoxyxylulose-5-phosphate synthase	Dxs	Pyridoxal phosphate biosynthesis		2O1S
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_09325	COG0692	L	Uracil-DNA glycosylase	Ung		16237021	1AKZ
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_09330	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_09335	COG3011	R	Predicted thiol-disulfide oxidoreductase YuxK, DCC family	YuxK		15236740	
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_09360	COG0189	EHJQ	Glutathione synthase, LysX or RimK-type ligase, ATP-grasp superfamily	LysX	Lysine biosynthesis		1GLV
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_09365	COG3633	E	Na+/serine and Na+/threonine symporter SstT	SstT			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_09370	COG0082	E	Chorismate synthase	AroC	Aromatic amino acid biosynthesis		1Q1L
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_09375	COG1407	R	Metallophosphoesterase superfamily enzyme				
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_09395	COG0297	G	Glycogen synthase	GlgA			1RZU
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_09400	COG1472	G	Periplasmic beta-glucosidase and related glycosidases	BglX			2X40
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_09415	COG0647	F	Ribonucleotide monophosphatase NagD, HAD superfamily	NagD			1PW5
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_09425	COG1150	C	Heterodisulfide reductase, subunit C	HdrC			5ODC
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_09430	COG1463	M	Periplasmic subunit MlaD of the ABC-type intermembrane phospholipid transporter Mla	MlaD			5UW8
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_09435	COG0860	M	N-acetylmuramoyl-L-alanine amidase	AmiC			1JWQ
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_09440	COG1452	M	LPS assembly outer membrane protein LptD (organic solvent tolerance protein OstA)	LptD			4N4R
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_09465	COG0028	EH	Acetolactate synthase large subunit or other thiamine pyrophosphate-requiring enzyme	IlvB	Isoleucine, leucine, valine biosynthesis		1BFD
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_09475	COG3063	NW	Type IV pilus assembly protein PilF/PilW	PilF		16403447	2VQ2
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_09485	COG0542	O	ATP-dependent Clp protease, ATP-binding subunit ClpA	ClpA			1KSF
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_09495	COG2986	E	Histidine ammonia-lyase	HutH			1B8F
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_09500	COG1305	O	Transglutaminase-like enzyme, putative cysteine protease	YebA			3ISR
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_09510	COG0063	F	NAD(P)H-hydrate repair enzyme Nnr, NAD(P)H-hydrate dehydratase domain	Nnr2			1KYH
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_09515	COG0354	O	Folate-binding protein YgfZ, synthesis and repair of Fe-S clusters	YgfZ		27941785;22081392	1NRK
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_09525	COG2154	H	Pterin-4a-carbinolamine dehydratase	PhhB			1DCH
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_09530	COG2831	U	Hemolysin activation/secretion protein	FhaC			2MHJ
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_09550	COG5043
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_09555	COG0009	J	tRNA A37 threonylcarbamoyladenosine synthetase subunit TsaC/SUA5/YrdC	TsaC	tRNA modification		1HRU
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_09565	COG0657	I	Acetyl esterase/lipase	Aes			1EVQ
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_09570	COG0254	J	Ribosomal protein L31	RpmE	Ribosome 50S subunit		1VS6
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_09580	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_09585	COG1109	G	Phosphomannomutase	ManB			6MNV
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_09590	COG1119	P	ABC-type molybdenum transport system, ATPase component ModF/photorepair protein PhrA	ModF			2IHY
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_09595	COG1249	C	Dihydrolipoamide dehydrogenase (E3) component of pyruvate/2-oxoglutarate dehydrogenase complex or glutathione oxidoreductase	Lpd	Glycine cleavagePyruvate oxidation		6QKG
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_09600	COG1062	C	Zn-dependent alcohol/formaldehyde dehydrogenase	FrmA			1A71
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_09605	COG4948	MR	L-alanine-DL-glutamate epimerase or related enzyme of enolase superfamily	RspA	Non-phosphorylated Entner-Doudoroff pathway		1BKH
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_09630	COG4989	R	Predicted oxidoreductase YdhF	YdhF			1UR3
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_09640	COG0300	R	Short-chain dehydrogenase	YqjQ			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_09645	COG0415	L	Deoxyribodipyrimidine photolyase	PhrB			1TEZ
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_09650	COG2885	M	Outer membrane protein OmpA and related peptidoglycan-associated (lipo)proteins	OmpA			1OAP
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_09655	COG2265	J	tRNA/tmRNA/rRNA uracil-C5-methylase, TrmA/RlmC/RlmD family	TrmA	tRNA modification		1UWV
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_09665	COG0568	K	DNA-directed RNA polymerase, sigma subunit (sigma70/sigma32)	RpoD	RNA polymerase		1SIG
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_09680	COG1204	L	Replicative superfamily II helicase	BRR2			2VA8
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_09685	COG0777	I	Acetyl-CoA carboxylase beta subunit	AccD	Fatty acid biosynthesis		2F9I
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_09690	COG0458	EF	Carbamoylphosphate synthase large subunit	CarB	Arginine biosynthesis		1C30
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_09695	COG4770	I	Acetyl/propionyl-CoA carboxylase, alpha subunit	PccA			3U9S
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_09700	COG1566	V	Multidrug resistance efflux pump EmrA	EmrA			4TKO
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_09705	COG3544	S	Uncharacterized conserved protein, DUF305 family				5FEJ
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_09710	COG2217	P	Cation-transporting P-type ATPase	ZntA			4BBJ
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_09720	COG1538	M	Outer membrane protein TolC	TolC			1EK9
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_09725	COG3696	P	Cu/Ag efflux pump CusA	CusA			3K07
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_09735	COG1607	I	Acyl-CoA hydrolase	YciA			5DM5
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_09740	COG0671	I	Membrane-associated phospholipid phosphatase	PgpB	Phospholipid biosynthesis		1D2T
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_09745	COG3204	R	Uncharacterized Ca-binding beta-propeller protein YjiK	YjiK			3QQZ
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_09755	COG1171	E	Threonine deaminase	IlvA	Isoleucine, leucine, valine biosynthesis		3IAU
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_09775	COG0753	P	Catalase	KatE			6RJR
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_09780	COG3182	S	PepSY-associated TM region	PiuB		15124630	
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_09785	COG4771	P	Outer membrane receptor for ferrienterochelin and colicins	FepA		16468998	2HDF
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_09810	COG1484	L	DNA replication protein DnaC	DnaC			2QGZ
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_09830	COG2217	P	Cation-transporting P-type ATPase	ZntA			4BBJ
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_09835	COG2608	P	Copper chaperone CopZ	CopZ			1AFI
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_09845	COG0053	P	Divalent metal cation (Fe/Co/Zn/Cd) efflux pump	FieF			2QFI
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_09850	COG2217	P	Cation-transporting P-type ATPase	ZntA			4BBJ
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_09855	COG0053	P	Divalent metal cation (Fe/Co/Zn/Cd) efflux pump	FieF			2QFI
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_09865	COG0053	P	Divalent metal cation (Fe/Co/Zn/Cd) efflux pump	FieF			2QFI
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_09870	COG1566	V	Multidrug resistance efflux pump EmrA	EmrA			4TKO
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_09875	COG1538	M	Outer membrane protein TolC	TolC			1EK9
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_09885	COG1566	V	Multidrug resistance efflux pump EmrA	EmrA			4TKO
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_09890	COG3544	S	Uncharacterized conserved protein, DUF305 family				5FEJ
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_09905	COG2217	P	Cation-transporting P-type ATPase	ZntA			4BBJ
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_09910	COG0701	S	Uncharacterized membrane protein YraQ, UPF0718 family	YraQ			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_09935	COG0045	C	Succinyl-CoA synthetase, beta subunit	SucC	TCA cycle		1SCU
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_09940	COG0019	E	Diaminopimelate decarboxylase	LysA	Lysine biosynthesis		1D7K
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_09975	COG2905	T	Signal-transduction protein containing cAMP-binding, CBS, and nucleotidyltransferase domains				
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_09995	COG0706	M	Membrane protein insertase Oxa1/YidC/SpoIIIJ	YidC			3WO6
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_10000	COG0504	F	CTP synthase (UTP-ammonia lyase)	PyrG	Pyrimidine biosynthesis		1S1M
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_10005	COG3530	S	Uncharacterized conserved protein, DUF3820 family				
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_10010	COG0737	FV	2',3'-cyclic-nucleotide 2'-phosphodiesterase/5'- or 3'-nucleotidase, 5'-nucleotidase family	UshA			1HO5
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_10015	COG0119	E	Isopropylmalate/homocitrate/citramalate synthases	LeuA	Isoleucine, leucine, valine biosynthesis		4JN6
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_10020	COG1279	E	Arginine exporter protein ArgO	ArgO			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_10025	COG2070	R	NAD(P)H-dependent flavin oxidoreductase YrpB, nitropropane dioxygenase family	YrpB			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_10030	COG0624	E	Acetylornithine deacetylase/Succinyl-diaminopimelate desuccinylase or related deacylase	ArgE	Arginine biosynthesis		1CG2
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_10035	COG5649	S	Uncharacterized conserved protein, DUF1801 domain				
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_10050	COG0157	H	Nicotinate-nucleotide pyrophosphorylase	NadC	NAD biosynthesis		1O4U
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_10060	COG1576	J	23S rRNA pseudoU1915 N3-methylase RlmH	RlmH	23S rRNA modification		1NS5
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_10065	COG1012	I	Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase	AdhE	Proline degradation		1A4S
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_10075	COG2885	M	Outer membrane protein OmpA and related peptidoglycan-associated (lipo)proteins	OmpA			1OAP
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_10085	COG0152	F	Phosphoribosylaminoimidazole-succinocarboxamide synthase	PurC	Purine biosynthesis		1A48
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_10090	COG1702	T	Phosphate starvation-inducible protein PhoH, predicted ATPase	PhoH		8444794;12762842	3B85
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_10105	COG1277	O	ABC-type transport system involved in multi-copper enzyme maturation, permease component	NosY			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_10115	COG0526	O	Thiol-disulfide isomerase or thioredoxin	TrxA			1XFL
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_10120	COG1484	L	DNA replication protein DnaC	DnaC			2QGZ
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_10130	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_10140	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_10145	COG1124	EP	ABC-type dipeptide/oligopeptide/nickel transport system, ATPase component	DppF			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_10160	COG4799	I	Acetyl-CoA carboxylase, carboxyltransferase component	MmdA			1OD2
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_10165	COG0365	I	Acyl-coenzyme A synthetase/AMP-(fatty) acid ligase	Acs		14638756	4B2O
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_10170	COG1266	O	Membrane protease YdiL, CAAX protease family	YdiL			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_10175	COG1249	C	Dihydrolipoamide dehydrogenase (E3) component of pyruvate/2-oxoglutarate dehydrogenase complex or glutathione oxidoreductase	Lpd	Glycine cleavagePyruvate oxidation		6QKG
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_10180	COG1595	K	DNA-directed RNA polymerase specialized sigma subunit, sigma24 family	RpoE	RNA polymerase		2Q1Z
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_10190	COG2197	TK	DNA-binding response regulator, NarL/FixJ family, contains REC and HTH domains	CitB			1A04
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_10205	COG1668	CP	ABC-type Na+ efflux pump, permease component NatB	NatB			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_10210	COG1119	P	ABC-type molybdenum transport system, ATPase component ModF/photorepair protein PhrA	ModF			2IHY
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_10215	COG2214	K	Curved DNA-binding protein CbpA, contains a DnaJ-like domain	CbpA			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_10220	COG0576	O	Molecular chaperone GrpE (heat shock protein HSP-70)	GrpE			1DKG
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_10225	COG2353	R	Polyisoprenoid-binding periplasmic protein YceI	YceI		15741337;20236316	1WUB
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_10235	COG0330	O	Regulator of protease activity HflC, stomatin/prohibitin superfamily	HflC			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_10245	COG0623	I	Enoyl-[acyl-carrier-protein] reductase FabI	FabI	Fatty acid biosynthesis		1C14
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_10275	COG1026	O	Zn-dependent peptidase, M16 (insulinase) family	Cym1			2FGE
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_10280	COG1042	C	Acyl-CoA synthetase (NDP forming)	PatZN		26251518	4YAK
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_10290	COG1043	M	Acyl-[acyl carrier protein]--UDP-N-acetylglucosamine O-acyltransferase	LpxA	Lipid A biosynthesis		1J2Z
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_10295	COG2226	H	Ubiquinone/menaquinone biosynthesis C-methylase UbiE/MenG	UbiE	Biotin biosynthesis		4OBW
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_10300	COG0231	J	Translation elongation factor P (EF-P)/translation initiation factor 5A (eIF-5A)	Efp	Translation factors		1UEB
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_10305	COG0663	R	Carbonic anhydrase or acetyltransferase, isoleucine patch superfamily	PaaY			6IVE
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_10310	COG4706	I	Predicted 3-hydroxylacyl-ACP dehydratase, HotDog domain				
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_10315	COG1043	M	Acyl-[acyl carrier protein]--UDP-N-acetylglucosamine O-acyltransferase	LpxA	Lipid A biosynthesis		1J2Z
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_10320	COG1078	R	HD superfamily phosphohydrolase	YdhJ			2HEK
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_10325	COG2204	T	DNA-binding transcriptional response regulator, NtrC family, contains REC, AAA-type ATPase, and a Fis-type DNA-binding domains	AtoC			1ZY2
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_10355	COG1167	KE	DNA-binding transcriptional regulator, MocR family, contains an aminotransferase domain	ARO8	Lysine biosynthesis		2R2N
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_10370	COG1171	E	Threonine deaminase	IlvA	Isoleucine, leucine, valine biosynthesis		3IAU
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_10375	COG1770	E	Protease II	PtrB			4BP9
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_10385	COG2143	O	Thioredoxin-related protein SoxW	SoxW			4FYB
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_10390	COG2885	M	Outer membrane protein OmpA and related peptidoglycan-associated (lipo)proteins	OmpA			1OAP
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_10400	COG0156	H	7-keto-8-aminopelargonate synthetase or related enzyme	BioF	Biotin biosynthesis		1BS0
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_10415	COG2205	T	K+-sensing histidine kinase KdpD	KdpD			2KSF
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_10420	COG2205	T	K+-sensing histidine kinase KdpD	KdpD			2KSF
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_10430	COG0044	F	Dihydroorotase or related cyclic amidohydrolase	AllB	Pyrimidine biosynthesis		1J79
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_10440	COG4099	R	Predicted peptidase				3DOH
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_10445	COG0846	O	NAD-dependent protein deacetylase, SIR2 family	SIR2			1M2N
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_10450	COG0159	E	Tryptophan synthase alpha chain	TrpA	Aromatic amino acid biosynthesis		6HUL
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_10465	COG3022	L	DNA-binding protein YaaA associated with the oxidative stress response	YaaA		21378183;32796037	5CAJ
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_10470	COG1187	J	Pseudouridylate synthase RsuA, specific for 16S rRNA U516  and 23S rRNA U2605	RsuA	16S rRNA modification		1KSK
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_10475	COG2815	M	PASTA domain, binds beta-lactams	PASTA			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_10480	COG0458	EF	Carbamoylphosphate synthase large subunit	CarB	Arginine biosynthesis		1C30
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_10485	COG1057	H	Nicotinate-nucleotide adenylyltransferase NadD	NadD	NAD biosynthesis		1YUM
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_10490	COG1729	D	Cell division protein CpoB, coordinates peptidoglycan biosynthesis and outer membrane constriction	CpoB		25951518	2WZ7
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_10495	COG4219	T	Signal transducer regulating beta-lactamase production, contains metallopeptidase domain	MecR1			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_10500	COG3682	K	Transcriptional regulator, CopY/TcrY family	CopY			1OKR
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_10510	COG2866	M	Murein tripeptide amidase MpaA	MpaA			1ARL
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_10520	COG0494	V	8-oxo-dGTP pyrophosphatase MutT and related house-cleaning NTP pyrophosphohydrolases, NUDIX family	MutT			4V14
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_10525	COG0503	F	Adenine/guanine phosphoribosyltransferase or related PRPP-binding protein	Apt	Purine salvage		1QB7
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_10535	COG0095	H	Lipoate-protein ligase A	LplA	Lipoate biosynthesis		4TVW
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_10540	COG0799	J	Ribosomal silencing factor RsfS, regulates association of 30S and 50S subunits	RsfS			6SJ6
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_10545	COG0465	O	ATP-dependent Zn proteases	HflB			1LV7
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_10560	COG0688	I	Phosphatidylserine decarboxylase	Psd	Phospholipid biosynthesis		6L06
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_10565	COG4281	I	Acyl-CoA-binding protein	ACB			1ACA
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_10570	COG0143	J	Methionyl-tRNA synthetase	MetG	Aminoacyl-tRNA synthetases		1A8H
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_10580	COG0793	O	C-terminal processing protease CtpA/Prc, contains a PDZ domain	CtpA			6IQU
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_10585	COG1448	E	Aspartate/aromatic aminotransferase	TyrB	Isoleucine, leucine, valine biosynthesis		1AAM
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_10590	COG0812	M	UDP-N-acetylenolpyruvoylglucosamine reductase	MurB	Mureine biosynthesis		2MBR
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_10595	COG2335	R	Uncaracterized surface protein containing fasciclin (FAS1) repeats	FAS1			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_10605	COG1215	N	Glycosyltransferase, catalytic subunit of cellulose synthase and poly-beta-1,6-N-acetylglucosamine synthase	BcsA			4HG6
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_10610	COG1595	K	DNA-directed RNA polymerase specialized sigma subunit, sigma24 family	RpoE	RNA polymerase		2Q1Z
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_10615	COG0502	H	Biotin synthase or related enzyme	BioB	Biotin biosynthesis		1R30
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_10620	COG0057	G	Glyceraldehyde-3-phosphate dehydrogenase/erythrose-4-phosphate dehydrogenase	GapA	Glycolysis		3ZDF
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_10625	COG4191	T	Signal transduction histidine kinase regulating C4-dicarboxylate transport system				4GCZ
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_10635	COG0327	H	Putative GTP cyclohydrolase 1 type 2, NIF3 family	NIF3	Folate biosynthesis	24435797;26385509	3SY1
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_10640	COG1579	R	Predicted nucleic acid-binding protein DR0291, contains C4-type Zn-ribbon domain	DR0291			4ILO
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_10650	COG0225	O	Peptide methionine sulfoxide reductase MsrA	MsrA			1FF3
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_10660	COG1853	C	FMN reductase RutF, DIM6/NTAB family	RutF	Pyrimidine degradation		1EJE
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_10670	COG0415	L	Deoxyribodipyrimidine photolyase	PhrB			1TEZ
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_10685	COG3682	K	Transcriptional regulator, CopY/TcrY family	CopY			1OKR
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_10690	COG4219	T	Signal transducer regulating beta-lactamase production, contains metallopeptidase domain	MecR1			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_10695	COG2207	K	AraC-type DNA-binding domain and AraC-containing proteins	AraC			1BL0
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_10715	COG1921	J	Seryl-tRNA(Sec) selenium transferase	SelA			3W1J
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_10720	COG1694	V	NTP pyrophosphatase, house-cleaning of non-canonical NTPs	MazG			1VMG
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_10735	COG0809	J	S-adenosylmethionine:tRNA-ribosyltransferase-isomerase (queuine synthetase)	QueA	tRNA modification		1VKY
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_10740	COG2896	H	GTP 3',8-cyclase (molybdenum cofactor biosynthesis protein MoaA)	MoaA	Molybdopterin biosynthesis		1TV7
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_10745	COG0488	R	ATPase components of ABC transporters with duplicated ATPase domains	Uup			5ZXD
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_10755	COG1524	T	c-di-AMP phosphodiesterase AtaC or nucleotide pyrophosphatase, AlkP superfamily	AtaC		32188788	1EI6
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_10760	COG1215	N	Glycosyltransferase, catalytic subunit of cellulose synthase and poly-beta-1,6-N-acetylglucosamine synthase	BcsA			4HG6
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_10770	COG3425	I	3-hydroxy-3-methylglutaryl CoA synthase	PksG	Isoprenoid biosynthesis		1TVZ
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_10775	COG1003	E	Glycine cleavage system protein P (pyridoxal-binding), C-terminal domain	GcvP2	Glycine cleavage		4LGL
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_10790	COG1595	K	DNA-directed RNA polymerase specialized sigma subunit, sigma24 family	RpoE	RNA polymerase		2Q1Z
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_10805	COG0308	E	Aminopeptidase N, contains DUF3458 domain	PepN		24123841	6ATK
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_10815	COG2936	R	Predicted acyl esterase				1JU3
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_10820	COG3528	S	Uncharacterized conserved protein, DUF2219 family				3FID
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_10825	COG0508	C	Pyruvate/2-oxoglutarate dehydrogenase complex, dihydrolipoamide acyltransferase (E2) component	AceF	Pyruvate oxidation		1B5S
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_10830	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_10835	COG0353	L	Recombinational DNA repair protein RecR	RecR		26337406	2JGR
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_10840	COG4147	C	Na+(or H+)/acetate symporter ActP	ActP			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_10845	COG1832	R	Predicted CoA-binding protein	YccU			1IUK
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_10870	COG0697	GER	Permease of the drug/metabolite transporter (DMT) superfamily	RhaT			5I20
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_10875	COG3425	I	3-hydroxy-3-methylglutaryl CoA synthase	PksG	Isoprenoid biosynthesis		1TVZ
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_10880	COG3642	J	tRNA A-37 threonylcarbamoyl transferase component Bud32	Bud32	tRNA modification		2VWB
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_10900	COG4270	S	Uncharacterized membrane protein				
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_10915	COG0530	P	Ca2+/Na+ antiporter	ECM27			3V5S
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_10920	COG3968	E	Glutamine synthetase type III	GlnA3			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_10930	COG2855	S	Uncharacterized membrane protein YadS, UPF0324 family	YeiH			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_10935	COG0265	O	Periplasmic serine protease, S1-C subfamily, contain C-terminal PDZ domain	DegQ		29686141	2HGA
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_10940	COG1073	T	Fermentation-respiration switch esterase FrsA, DUF1100 family	FrsA			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_10950	COG3682	K	Transcriptional regulator, CopY/TcrY family	CopY			1OKR
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_10955	COG4219	T	Signal transducer regulating beta-lactamase production, contains metallopeptidase domain	MecR1			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_10960	COG1826	U	Twin-arginine protein secretion pathway components TatA and TatB	TatA			2L16
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_10965	COG0671	I	Membrane-associated phospholipid phosphatase	PgpB	Phospholipid biosynthesis		1D2T
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_10970	COG2519	J	tRNA A58 N-methylase Trm61	Gcd14	tRNA modification		1I9G
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_10975	COG2159	G	5-carboxyvanillate decarboxylase LigW (lignin degradation), amidohydro domain	LigW		26714575	2DVT
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_10980	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_10985	COG1012	I	Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase	AdhE	Proline degradation		1A4S
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_10990	COG0527	E	Aspartate kinase	MetL1	Lysine biosynthesis		2CDQ
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_10995	COG1685	E	Archaeal shikimate kinase	AroK2	Aromatic amino acid biosynthesis		
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_11000	COG0498	E	Threonine synthase	ThrC	Threonine biosynthesis		1VB3
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_11010	COG1233	Q	Phytoene dehydrogenase-related protein				4REP
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_11015	COG1490	J	D-aminoacyl-tRNA deacylase	Dtd		10918062;16902403;24302572	1J7G
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_11020	COG2262	J	50S ribosomal subunit-associated GTPase HflX	HflX		22905870	2QTF
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_11025	COG2877	M	3-deoxy-D-manno-octulosonic acid (KDO) 8-phosphate synthase	KdsA	Lipid A biosynthesis		1G7U
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_11030	COG1168	ER	Bifunctional PLP-dependent enzyme with beta-cystathionase and maltose regulon repressor activities	MalY			4DGT
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_11040	COG1117	P	ABC-type phosphate transport system, ATPase component	PstB			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_11045	COG2813	J	16S rRNA G1207 methylase RsmC	RsmC	16S rRNA modification		1DUS
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_11060	COG0399	M	dTDP-4-amino-4,6-dideoxygalactose transaminase	WecE		15271350	4PIW
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_11075	COG0438	M	Glycosyltransferase involved in cell wall bisynthesis	RfaB			2IV7
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_11080	COG1216	G	Glycosyltransferase, GT2 family	WcaE			2Z86
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_11085	COG1216	G	Glycosyltransferase, GT2 family	WcaE			2Z86
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_11095	COG2226	H	Ubiquinone/menaquinone biosynthesis C-methylase UbiE/MenG	UbiE	Biotin biosynthesis		4OBW
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_11105	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_11115	COG0707	M	UDP-N-acetylglucosamine:LPS N-acetylglucosamine transferase	MurG	Mureine biosynthesis		1F0K
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_11125	COG1212	M	CMP-2-keto-3-deoxyoctulosonic acid synthetase	KdsB	Lipid A biosynthesis		1VH1
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_11135	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_11140	COG1216	G	Glycosyltransferase, GT2 family	WcaE			2Z86
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_11145	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_11150	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_11155	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_11160	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_11170	COG0500	QR	SAM-dependent methyltransferase	SmtA			5DNK
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_11175	COG3839	G	ABC-type sugar transport system, ATPase component MalK	MalK			2ONK
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_11185	COG3472	S	Uncharacterized conserved protein domain, often C-terminal to DUF262				
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_11200	COG3206	M	Exopolysaccharide export protein/domain GumC/Wzc1	GumC		15003255;23089617	
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_11215	COG1122	PR	Energy-coupling factor transporter ATP-binding protein EcfA2	EcfA2			4HUQ
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_11225	COG0073	J	tRNA-binding EMAP/Myf domain	EMAP			1MKH
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_11235	COG0526	O	Thiol-disulfide isomerase or thioredoxin	TrxA			1XFL
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_11240	COG1047	O	Peptidyl-prolyl cis-trans isomerase, FKBP type	SlpA			2M2A
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_11255	COG2135	L	ssDNA abasic site-binding protein YedK/HMCES, SRAP family	SRAP		30554877;31504793	1ZN6
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_11260	COG0652	O	Peptidyl-prolyl cis-trans isomerase (rotamase) - cyclophilin family	PpiB			4DGD
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_11265	COG0443	O	Molecular chaperone DnaK (HSP70)	DnaK			3I33
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_11270	COG2271	G	Sugar phosphate permease	UhpC			1PW4
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_11275	COG1072	H	Panthothenate kinase	CoaA	Pantothenate/CoA biosynthesis		2GA8
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_11300	COG1884	I	Methylmalonyl-CoA mutase, N-terminal domain/subunit	Sbm			6OXC
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_11305	COG0623	I	Enoyl-[acyl-carrier-protein] reductase FabI	FabI	Fatty acid biosynthesis		1C14
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_11310	COG2894	D	Septum site-determining ATPase MinD	MinD			4V02
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_11325	COG2910	R	Putative NADH-flavin reductase	YwnB			3EW7
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_11330	COG0681	U	Signal peptidase I	LepB		1925027	1B12
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_11340	COG3568	R	Metal-dependent hydrolase, endonuclease/exonuclease/phosphatase family	ElsH		15178340	
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_11345	COG0705	O	Membrane-associated serine protease, rhomboid family	GlpG			2IC8
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_11355	COG0323	L	DNA mismatch repair ATPase MutL	MutL			1B62
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_11385	COG4774	P	Outer membrane receptor for monomeric catechols	Fiu			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_11395	COG4696	F	NTP pyrophosphatase, MazG superfamily	MazG2			3NL9
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_11405	COG2234	OE	Zn-dependent amino- or carboxypeptidase, M28 family	Iap			1AMP
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_11415	COG3449	L	DNA gyrase inhibitor GyrI/SbmC	SbmC			1JYH
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_11425	COG0666	T	Ankyrin repeat	ANKYR			6AUN
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_11430	COG2323	S	Uncharacterized membrane protein YcaP, DUF421 family	YcaP			3C6F
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_11460	COG0239	DP	Fluoride ion exporter CrcB/FEX, affects chromosome condensation	CrcB			5A40
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_11470	COG2814	G	Predicted arabinose efflux permease AraJ, MFS family	AraJ			4LDS
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_11485	COG0640	K	DNA-binding transcriptional regulator, ArsR family	ArsR			3F6V
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_11495	COG3000	I	Sterol desaturase/sphingolipid hydroxylase, fatty acid hydroxylase superfamily	ERG3			4ZR0
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_11500	COG3315	Q	O-Methyltransferase involved in polyketide biosynthesis	YktD			1RJD
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_11505	COG0626	E	Cystathionine beta-lyase/cystathionine gamma-synthase	MetC	Methionine biosynthesis		1CL1
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_11510	COG4276	R	Ligand-binding SRPBCC domain	SRPBCC			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_11575	COG1884	I	Methylmalonyl-CoA mutase, N-terminal domain/subunit	Sbm			6OXC
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_11600	COG4558	P	ABC-type hemin transport system, periplasmic component	ChuT			3MD9
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_11610	COG1629	P	Outer membrane receptor protein, Fe transport	CirA			1BY3
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_11625	COG4447	R	Uncharacterized conserved protein related to plant photosystem II stability/assembly factor				2XBG
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_11630	COG0034	F	Glutamine phosphoribosylpyrophosphate amidotransferase	PurF	Purine biosynthesis		1ECB
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_11640	COG3184	S	Uncharacterized conserved protein, contains DUF2059 domain			15741337	2X3O
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_11645	COG1180	O	Pyruvate-formate lyase-activating enzyme	PflA			3CAN
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_11650	COG0433	L	Archaeal DNA helicase HerA or a related bacterial ATPase, contains HAS-barrel and ATPase domains	HerA			4D2I
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_11655	COG1396	K	Transcriptional regulator, contains XRE-family HTH domain	HipB			1ADR
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_11695	COG1452	M	LPS assembly outer membrane protein LptD (organic solvent tolerance protein OstA)	LptD			4N4R
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_11705	COG0457	R	Tetratricopeptide (TPR) repeat	TPR			3AS4
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_11720	COG1052	CHR	Lactate dehydrogenase or related 2-hydroxyacid dehydrogenase	LdhA	Pyridoxal phosphate biosynthesis		1DXY
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_11740	COG1694	V	NTP pyrophosphatase, house-cleaning of non-canonical NTPs	MazG			1VMG
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_11745	COG2206	T	HD-GYP domain, c-di-GMP phosphodiesterase class II (or its inactivated variant)	HDGYP		23475961	5Z7C
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_11765	COG0739	M	Murein DD-endopeptidase MepM and murein hydrolase activator NlpD, contains LysM domain	NlpD			2GU1
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_11780	COG0769	M	UDP-N-acetylmuramyl tripeptide synthase	MurE	Mureine biosynthesis		1E8C
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_11785	COG0004	P	Ammonia channel protein AmtB	AmtB			1U77
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_11825	COG1291	N	Flagellar motor component MotA	MotA			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_11835	COG0499	H	S-adenosylhomocysteine hydrolase	SAM1			1A7A
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_11840	COG2377	M	1,6-Anhydro-N-acetylmuramate kinase	AnmK		15901686	3CQY
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_11865	COG0358	L	DNA primase (bacterial type)	DnaG		28128549	3B39
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_11875	COG4753	TK	Two-component response regulator, YesN/AraC family, consists of REC and AraC-type DNA-binding domains	YesN			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_11880	COG0171	H	NH3-dependent NAD+ synthetase	NadE	NAD biosynthesis		3HMQ
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_11895	COG1161	J	Ribosome biogenesis GTPase RbgA	RbgA			6G14
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_11900	COG1647	Q	Esterase/lipase	YvaK			4DIU
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_11905	COG2001	J	MraZ, DNA-binding transcriptional regulator and inhibitor of RsmH methyltransferase activity	MraZ			1N0E
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_11910	COG2242	H	Precorrin-6B methylase 2	CobL	Cobalamine/B12 biosynthesis		1F38
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_11920	COG5009	M	Membrane carboxypeptidase/penicillin-binding protein	MrcA			3D0F
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_11925	COG0285	H	Folylpolyglutamate synthase/Dihydropteroate synthase	FolC	Folate biosynthesis		1W78
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_11930	COG0472	M	UDP-N-acetylmuramyl pentapeptide phosphotransferase/UDP-N-acetylglucosamine-1-phosphate transferase	Rfe	Mureine biosynthesis		4J72
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_11935	COG0771	M	UDP-N-acetylmuramoylalanine-D-glutamate ligase	MurD	Mureine biosynthesis		1E0D
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_11940	COG0772	D	Peptodoglycan polymerase FtsW/RodA/SpoVE	FtsW		30692671	6BAR
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_11945	COG1819	G	UDP:flavonoid glycosyltransferase YjiC, YdhE family	YjiC		23974133	2ACV
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_11950	COG0771	M	UDP-N-acetylmuramoylalanine-D-glutamate ligase	MurD	Mureine biosynthesis		1E0D
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_11960	COG1077	DZ	Cell shape-determining ATPase MreB, actin-like superfamily	MreB			1JCE
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_11965	COG0206	D	Cell division GTPase FtsZ	FtsZ			1FSZ
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_11980	COG1309	K	DNA-binding protein, AcrR family, includes nucleoid occlusion protein SlmA	AcrR			2QOP
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_11985	COG1116	P	ABC-type nitrate/sulfonate/bicarbonate transport system, ATPase component	TauB			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_11990	COG1566	V	Multidrug resistance efflux pump EmrA	EmrA			4TKO
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_11995	COG1538	M	Outer membrane protein TolC	TolC			1EK9
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_12005	COG1538	M	Outer membrane protein TolC	TolC			1EK9
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_12010	COG1566	V	Multidrug resistance efflux pump EmrA	EmrA			4TKO
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_12015	COG1879	G	ABC-type sugar transport system, periplasmic component, contains N-terminal xre family HTH domain	RbsB			1BA2
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_12020	COG0607	P	Rhodanese-related sulfurtransferase	PspE	Urea cycle		1TQ1
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_12025	COG0607	P	Rhodanese-related sulfurtransferase	PspE	Urea cycle		1TQ1
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_12030	COG0607	P	Rhodanese-related sulfurtransferase	PspE	Urea cycle		1TQ1
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_12035	COG1225	O	Peroxiredoxin	Bcp			5IPH
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_12040	COG0526	O	Thiol-disulfide isomerase or thioredoxin	TrxA			1XFL
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_12045	COG1846	K	DNA-binding transcriptional regulator, MarR family	MarR			1JGS
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_12050	COG2353	R	Polyisoprenoid-binding periplasmic protein YceI	YceI		15741337;20236316	1WUB
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_12055	COG0147	EH	Anthranilate/para-aminobenzoate synthases component I	TrpE	Aromatic amino acid biosynthesis		1I1Q
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_12060	COG0505	EF	Carbamoylphosphate synthase small subunit	CarA	Arginine biosynthesis		1C30
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_12065	COG0547	E	Anthranilate phosphoribosyltransferase, glycosyltransferase domain	TrpD	Aromatic amino acid biosynthesis		1KGZ
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_12070	COG0134	E	Indole-3-glycerol phosphate synthase	TrpC	Aromatic amino acid biosynthesis		6BMA
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_12075	COG0135	E	Phosphoribosylanthranilate isomerase	TrpF	Aromatic amino acid biosynthesis		1DL3
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_12080	COG1171	E	Threonine deaminase	IlvA	Isoleucine, leucine, valine biosynthesis		3IAU
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_12105	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_12125	COG0346	Q	Catechol 2,3-dioxygenase or related enzyme, vicinal oxygen chelate (VOC) family	GloA		11830595	3R4Q
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_12130	COG0640	K	DNA-binding transcriptional regulator, ArsR family	ArsR			3F6V
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_12140	COG1028	I	NAD(P)-dependent dehydrogenase, short-chain alcohol dehydrogenase family	FabG	Fatty acid biosynthesis		6L1H
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_12160	COG0778	C	Nitroreductase	NfnB	Pyrimidine degradation		1F5V
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_12165	COG0436	E	Aspartate/methionine/tyrosine aminotransferase	AspB	Isoleucine, leucine, valine biosynthesis		2O0R
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_12170	COG0108	H	3,4-dihydroxy-2-butanone 4-phosphate synthase	RibB	Riboflavin/FAD biosynthesis		1G57
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_12175	COG0795	MN	Lipopolysaccharide export LptBFGC system, permease protein LptF	LptF			6S8H
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_12185	COG1674	D	DNA segregation ATPase FtsK/SpoIIIE or related protein	FtsK			2IUT
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_12190	COG0818	I	Diacylglycerol kinase	DgkA			2KDC
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_12195	COG0450	V	Alkyl hydroperoxide reductase subunit AhpC (peroxiredoxin)	AhpC			2RII
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_12205	COG3118	O	Chaperedoxin CnoX, contains thioredoxin-like and TPR-like domains, YbbN/TrxSC family	CnoX		21498507;29754824	3QDN
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_12210	COG1225	O	Peroxiredoxin	Bcp			5IPH
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_12215	COG0492	O	Thioredoxin reductase	TrxB			3FBS
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_12220	COG0015	F	Adenylosuccinate lyase	PurB	Purine biosynthesis		2HVG
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_12225	COG1607	I	Acyl-CoA hydrolase	YciA			5DM5
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_12235	COG2356	L	Endonuclease I	EndA			1OUO
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_12240	COG2144	R	Selenophosphate synthetase-related protein				
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_12245	COG1020	Q	EntF, seryl-AMP synthase component  of non-ribosomal peptide synthetase	EntF			5ES5
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_12250	COG1846	K	DNA-binding transcriptional regulator, MarR family	MarR			1JGS
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_12255	COG1024	I	Enoyl-CoA hydratase/carnithine racemase	CaiD	Fatty acid biosynthesis		1DCI
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_12260	COG0304	IQ	3-oxoacyl-(acyl-carrier-protein) synthase	FabB	Fatty acid biosynthesis	21652641	2UV8
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_12275	COG0242	J	Peptide deformylase	Def			1BS4
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_12285	COG1045	E	Serine acetyltransferase	CysE	Cysteine biosynthesis		1T3D
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_12295	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_12300	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_12305	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_12315	COG1083	M	CMP-N-acetylneuraminic acid synthetase, NeuA/PseF family	NeuA			1EYR
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_12320	COG0009	J	tRNA A37 threonylcarbamoyladenosine synthetase subunit TsaC/SUA5/YrdC	TsaC	tRNA modification		1HRU
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_12325	COG0617	J	tRNA nucleotidyltransferase/poly(A) polymerase	PcnB	tRNA modification		3WFR
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_12345	COG0071	O	Small heat shock protein IbpA, HSP20 family	IbpA			1GME
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_12350	COG0513	L	Superfamily II DNA and RNA helicase	SrmB			3RRM
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_12355	COG0513	L	Superfamily II DNA and RNA helicase	SrmB			3RRM
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_12380	COG4604	P	ABC-type enterochelin transport system, ATPase component	CeuD			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_12420	COG0480	J	Translation elongation factor EF-G, a GTPase	FusA	Translation factors		1DAR
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_12425	COG0175	EH	3'-phosphoadenosine 5'-phosphosulfate sulfotransferase (PAPS reductase)/FAD synthetase or related enzyme	CysD	Cysteine biosynthesis		1ZUN
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_12445	COG0460	E	Homoserine dehydrogenase	ThrA	Methionine biosynthesis	29124164	5AVO
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_12450	COG0596	HR	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold	MenH	Menaquinone biosynthesis		4MYS
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_12455	COG2873	E	O-acetylhomoserine/O-acetylserine sulfhydrylase, pyridoxal phosphate-dependent	MET17	Methionine biosynthesis		2CTZ
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_12470	COG0154	J	Asp-tRNAAsn/Glu-tRNAGln amidotransferase A subunit or related amidase	GatA	Aminoacyl-tRNA synthetases		3H0L
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_12475	COG3439	S	Uncharacterized conserved protein, DUF302 family				1J3M
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_12485	COG0125	F	Thymidylate kinase	Tmk	Thymidylate biosynthesis		3LV8
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_12490	COG3063	NW	Type IV pilus assembly protein PilF/PilW	PilF		16403447	2VQ2
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_12510	COG4566	TK	DNA-binding response regulator, FixJ family, consists of REC and HTH domains	FixJ			1YIO
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_12515	COG3292	T	Periplasmic ligand-binding sensor domain				4A2L
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_12520	COG0190	H	5,10-methylene-tetrahydrofolate dehydrogenase/Methenyl tetrahydrofolate cyclohydrolase	FolD			1A4I
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_12525	COG1419	N	Flagellar biosynthesis GTPase FlhF	FlhF			3SYN
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_12545	COG0702	R	Uncharacterized conserved protein YbjT, contains NAD(P)-binding and DUF2867 domains	YbjT			5L3Z
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_12550	COG1834	E	N-Dimethylarginine dimethylaminohydrolase	DdaH			6LRH
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_12555	COG1834	E	N-Dimethylarginine dimethylaminohydrolase	DdaH			6LRH
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_12560	COG4942	D	Septal ring factor EnvC, activator of murein hydrolases AmiA and AmiB	EnvC			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_12580	COG4774	P	Outer membrane receptor for monomeric catechols	Fiu			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_12585	COG4191	T	Signal transduction histidine kinase regulating C4-dicarboxylate transport system				4GCZ
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_12590	COG4567	TK	DNA-binding response regulator, ActR/RegA family, consists of REC and Fis-type HTH domains				3RQI
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_12605	COG1186	J	Protein chain release factor PrfB	PrfB	Translation factors		1GQE
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_12615	COG0125	F	Thymidylate kinase	Tmk	Thymidylate biosynthesis		3LV8
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_12620	COG3201	H	Nicotinamide riboside transporter PnuC	PnuC			4QTN
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_12630	COG1160	J	Double Era-like domain GTPase Der	Der			1MKY
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_12635	COG0596	HR	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold	MenH	Menaquinone biosynthesis		4MYS
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_12650	COG0566	J	tRNA G18 (ribose-2'-O)-methylase SpoU	SpoU	tRNA modification		1GZ0
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_12710	COG1595	K	DNA-directed RNA polymerase specialized sigma subunit, sigma24 family	RpoE	RNA polymerase		2Q1Z
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_12715	COG0793	O	C-terminal processing protease CtpA/Prc, contains a PDZ domain	CtpA			6IQU
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_12735	COG2066	E	Glutaminase	GlsA			1MKI
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_12740	COG1670	JO	Protein N-acetyltransferase, RimJ/RimL family	RimL			1S7F
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_12745	COG0616	O	Periplasmic serine protease, ClpP class	SppA			3BEZ
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_12750	COG2388	R	Predicted acetyltransferase, GNAT superfamily	YidJ			1R57
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_12760	COG1876	M	LD-carboxypeptidase LdcB, LAS superfamily	LdcB		24909784	4D0Y
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_12765	COG1635	GH	Thiazole synthase/Archaeal ribulose 1,5-bisphosphate synthetase	THI4		15375115	3FPZ
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_12795	COG0299	F	Folate-dependent phosphoribosylglycinamide formyltransferase PurN	PurN	Purine biosynthesis	25013077	1C2T
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_12800	COG1205	L	ATP-dependent helicase YprA,  contains C-terminal metal-binding DUF1998 domain	YprA			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_12810	COG2921	T	Putative lipoate-binding regulatory protein, UPF0250 family	YbeD		15547281	1RWU
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_12820	COG0128	E	5-enolpyruvylshikimate-3-phosphate synthase	AroA	Aromatic amino acid biosynthesis		4N3P
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_12830	COG1237	R	Metal-dependent hydrolase, beta-lactamase superfamily II				2P4Z
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_12845	COG1695	K	DNA-binding transcriptional regulator, PadR family	PadR		19096365	1XMA
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_12850	COG1983	KT	Phage shock protein PspC (stress-responsive transcriptional regulator)	PspC			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_12870	COG2242	H	Precorrin-6B methylase 2	CobL	Cobalamine/B12 biosynthesis		1F38
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_12875	COG1712	E	L-aspartate dehydrogenase, NAD(P)-dependent	AspD		12496312	1H2H
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_12880	COG1250	I	3-hydroxyacyl-CoA dehydrogenase	FadB	Fatty acid biosynthesis		5ZQZ
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_12890	COG0325	H	Pyridoxal 5'-phosphate homeostasis protein YggS, UPF0001 family	YggS		26872910	3SY1
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_12895	COG0322	L	Excinuclease UvrABC, nuclease subunit	UvrC		24513124	2NRT
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_12900	COG1226	P	Voltage-gated potassium channel Kch	Kch			3FWZ
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_12905	COG1102	F	Cytidylate kinase	CmkB			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_12910	COG3706	TK	Two-component response regulator, PleD family, consists of two REC domains and a diguanylate cyclase (GGDEF) domain	PleD			1W25
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_12915	COG3852	T	Signal transduction histidine kinase NtrB, nitrogen specific	NtrB		23893111	
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_12920	COG0194	F	Guanylate kinase	Gmk			1EX6
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_12930	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_12945	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_12955	COG0163	H	Flavin prenyltransferase UbiX	UbiX	Ubiquinone biosynthesis	28754323;26083743	1SBZ
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_12970	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_12975	COG3952	R	Uncharacterized N-terminal domain of lipid-A-disaccharide synthase	LABN			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_12985	COG2944	K	DNA-binding transcriptional regulator YiaG, XRE-type HTH domain	YiaG			5JAA
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_13005	COG5587	S	Uncharacterized protein, contains DUF2461 domain				
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_13015	COG0436	E	Aspartate/methionine/tyrosine aminotransferase	AspB	Isoleucine, leucine, valine biosynthesis		2O0R
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_13020	COG1574	R	Predicted amidohydrolase YtcJ	YtcJ			3ICJ
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_13030	COG0331	I	Malonyl CoA-acyl carrier protein transacylase	FabD	Fatty acid biosynthesis		1YXC
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_13035	COG3871	S	General stress protein 26 (function unknown)	YzzA			2I02
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_13060	COG1670	JO	Protein N-acetyltransferase, RimJ/RimL family	RimL			1S7F
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_13080	COG0207	F	Thymidylate synthase	ThyA	Thymidylate biosynthesis		1AN5
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_13100	COG3880	O	Protein-arginine kinase activator protein McsA	McsA			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_13105	COG2025	C	Electron transfer flavoprotein, alpha subunit FixB	FixB			1EFP
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_13110	COG2025	C	Electron transfer flavoprotein, alpha subunit FixB	FixB			1EFP
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_13115	COG1154	HI	Deoxyxylulose-5-phosphate synthase	Dxs	Pyridoxal phosphate biosynthesis		2O1S
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_13135	COG1360	N	Flagellar motor protein MotB	MotB			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_13145	COG0720	H	6-pyruvoyl-tetrahydropterin synthase	QueD	tRNA modification	14660578;17384645	1B66
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_13155	COG0309	O	Carbamoyl dehydratase HypE (hydrogenase maturation factor)	HypE		28618091	2I6R
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_13170	COG0216	J	Protein chain release factor RF1	PrfA	Translation factors		1RQ0
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_13180	COG0461	F	Orotate phosphoribosyltransferase	PyrE	Pyrimidine biosynthesis		4WML
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_13190	COG0847	L	DNA polymerase III, epsilon subunit or related 3'-5' exonuclease	DnaQ			1J53
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_13195	COG0179	Q	2-keto-4-pentenoate hydratase/2-oxohepta-3-ene-1,7-dioic acid hydratase (catechol pathway)	YcgM			1GTT
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_13205	COG0303	H	Molybdopterin Mo-transferase (molybdopterin biosynthesis)	MoeA	Molybdopterin biosynthesis	18801996;32239579	2NQU
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_13210	COG0227	J	Ribosomal protein L28	RpmB	Ribosome 50S subunit		2JZ6
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_13215	COG0267	J	Ribosomal protein L33	RpmG	Ribosome 50S subunit		1VS6
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_13225	COG1419	N	Flagellar biosynthesis GTPase FlhF	FlhF			3SYN
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_13235	COG1032	R	Radical SAM superfamily enzyme YgiQ, UPF0313 family	YgiQ			6FD2
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_13245	COG0622	R	Predicted phosphodiesterase, calcineurin family	YfcE		17586769	1SU1
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_13250	COG0101	J	tRNA U38,U39,U40 pseudouridine synthase TruA	TruA	tRNA modification		1DJ0
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_13255	COG0410	E	ABC-type branched-chain amino acid transport system, ATPase component LivF	LivF		26527648;32250026	1JI0
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_13260	COG1624	T	c-di-AMP synthetase, contains DisA_N domain	DisA			2FB5
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_13275	COG2259	S	Uncharacterized membrane protein YphA, DoxX/SURF4 family	DoxX			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_13280	COG1173	EP	ABC-type dipeptide/oligopeptide/nickel transport system, permease component	DppC			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_13285	COG0526	O	Thiol-disulfide isomerase or thioredoxin	TrxA			1XFL
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_13290	COG0149	G	Triosephosphate isomerase	TpiA	Glycolysis		1HG3
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_13295	COG2263	R	Predicted RNA methylase				6H2U
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_13315	COG4974	L	Site-specific recombinase XerD	XerD			1A0P
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_13375	COG3852	T	Signal transduction histidine kinase NtrB, nitrogen specific	NtrB		23893111	
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_13380	COG4753	TK	Two-component response regulator, YesN/AraC family, consists of REC and AraC-type DNA-binding domains	YesN			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_13410	COG2981	EP	Sulfate transporter CysZ	CysZ		24657232	3TX3
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_13425	COG0113	H	Delta-aminolevulinic acid dehydratase, porphobilinogen synthase	HemB	Heme biosynthesis		1I8J
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_13430	COG0494	V	8-oxo-dGTP pyrophosphatase MutT and related house-cleaning NTP pyrophosphohydrolases, NUDIX family	MutT			4V14
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_13435	COG4535	P	Mg2+ and Co2+ transporter CorC, contains CBS pair and CorC-HlyC domains	CorC		1779764	4HG0
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_13440	COG3695	K	Alkylated DNA nucleotide flippase Atl1, participates in nucleotide excision repair, Ada-like DNA-binding domain	Atl1		19516334	2KIF
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_13450	COG3359	R	Uncharacterized conserved protein YprB, contains RNaseH-like and TPR domains	YprB			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_13460	COG3979	G	Chitodextrinase				1WVU
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_13465	COG5265	O	ABC-type transport system involved in Fe-S cluster assembly, permease and ATPase components	ATM1			4MRN
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_13480	COG0097	J	Ribosomal protein L6P/L9E	RplF	Ribosome 50S subunit		1VS6
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_13490	COG0098	J	Ribosomal protein S5	RpsE	Ribosome 30S subunit		4V4H
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_13495	COG1841	J	Ribosomal protein L30/L7E	RpmD	Ribosome 50S subunit		1VS6
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_13500	COG1727	J	Ribosomal protein L18E	RPL18A	Archaeal ribosomal proteins		
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_13505	COG0201	U	Preprotein translocase subunit SecY	SecY			1RH5
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_13520	COG0100	J	Ribosomal protein S11	RpsK	Ribosome 30S subunit		4V4H
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_13525	COG1189	J	Predicted rRNA methylase YqxC, contains S4 and FtsJ domains	YqxC			3OPN
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_13530	COG0202	K	DNA-directed RNA polymerase, alpha subunit/40 kD subunit	RpoA	RNA polymerase		4KN7
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_13535	COG0203	J	Ribosomal protein L17	RplQ	Ribosome 50S subunit		1GD8
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_13540	COG0512	EH	Anthranilate/para-aminobenzoate synthase component II (glutamine amidotransferase)	PabA	Aromatic amino acid biosynthesis		1I1Q
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_13545	COG0148	G	Enolase	Eno	Glycolysis		1E9I
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_13555	COG1404	O	Serine protease, subtilisin family	AprE			1SCJ
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_13560	COG0372	C	Citrate synthase	GltA	TCA cycle	25211225	3TQG
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_13565	COG1834	E	N-Dimethylarginine dimethylaminohydrolase	DdaH			6LRH
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_13575	COG0853	H	Aspartate 1-decarboxylase	PanD	Pantothenate/CoA biosynthesis		1AW8
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_13580	COG0414	H	Panthothenate synthetase	PanC	Pantothenate/CoA biosynthesis	17968677	1DIN
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_13585	COG0297	G	Glycogen synthase	GlgA			1RZU
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_13595	COG0367	E	Asparagine synthetase B (glutamine-hydrolyzing)	AsnB	Asparagine biosynthesis	25951518	2ETD
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_13600	COG0055	C	FoF1-type ATP synthase, beta subunit	AtpD	FoF1-type ATP synthase		3OAA
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_13625	COG0306	P	Phosphate/sulfate permease	PitA		31358606	
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_13635	COG1186	J	Protein chain release factor PrfB	PrfB	Translation factors		1GQE
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_13655	COG1629	P	Outer membrane receptor protein, Fe transport	CirA			1BY3
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_13665	COG0112	E	Glycine/serine hydroxymethyltransferase	GlyA	Serine biosynthesis		1BJ4
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_13680	COG1123	O	ABC-type glutathione transport system ATPase component, contains duplicated ATPase domain	GsiA			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_13695	COG2231	L	3-Methyladenine DNA glycosylase, HhH-GPD/Endo3 superfamily	HP0602		14517230;20410075	1PU6
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_13710	COG5473	S	Uncharacterized membrane protein				
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_13720	COG1714	S	Uncharacterized membrane protein YckC, RDD family	YckC			
+Croceibacter_sp_SP62	GCA_002716225.1	FKANEE_13725	COG2860	S	Uncharacterized membrane protein YeiH	YadS			5WUC

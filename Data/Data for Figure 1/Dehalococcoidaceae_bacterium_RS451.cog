@@ -1,0 +1,919 @@
+#prefix	assemid	query	COG	category	name	Gene	pathway	pmid	pdb_id
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_00005	COG3425	I	3-hydroxy-3-methylglutaryl CoA synthase	PksG	Isoprenoid biosynthesis		1TVZ
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_00010	COG1349	KG	DNA-binding transcriptional regulator of sugar metabolism, DeoR/GlpR family	GlpR			
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_00015	COG0576	O	Molecular chaperone GrpE (heat shock protein HSP-70)	GrpE			1DKG
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_00020	COG0443	O	Molecular chaperone DnaK (HSP70)	DnaK			3I33
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_00025	COG2214	K	Curved DNA-binding protein CbpA, contains a DnaJ-like domain	CbpA			
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_00045	COG0309	O	Carbamoyl dehydratase HypE (hydrogenase maturation factor)	HypE		28618091	2I6R
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_00055	COG0719	O	Fe-S cluster assembly scaffold protein SufB	SufB			1VH4
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_00065	COG1249	C	Dihydrolipoamide dehydrogenase (E3) component of pyruvate/2-oxoglutarate dehydrogenase complex or glutathione oxidoreductase	Lpd	Glycine cleavagePyruvate oxidation		6QKG
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_00095	COG0673	R	Predicted dehydrogenase	MviM			3UUW
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_00100	COG1691	F	NCAIR mutase (PurE)-related protein				
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_00105	COG1213	I	Choline kinase				4MND
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_00110	COG1178	P	ABC-type Fe3+ transport system, permease component	FbpB			
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_00115	COG4604	P	ABC-type enterochelin transport system, ATPase component	CeuD			
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_00120	COG1430	S	Uncharacterized conserved membrane protein, UPF0127 family				3M7A
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_00130	COG2179	R	Predicted phosphohydrolase YqeG, HAD superfamily	YqeG			
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_00135	COG0079	E	Histidinol-phosphate/aromatic aminotransferase or cobyric acid decarboxylase	HisC	Cobalamine/B12 biosynthesis		4R2N
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_00140	COG0300	R	Short-chain dehydrogenase	YqjQ			
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_00145	COG0129	EG	Dihydroxyacid dehydratase/phosphogluconate dehydratase	IlvD	Isoleucine, leucine, valine biosynthesis		2GP4
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_00155	COG0812	M	UDP-N-acetylenolpyruvoylglucosamine reductase	MurB	Mureine biosynthesis		2MBR
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_00165	COG3871	S	General stress protein 26 (function unknown)	YzzA			2I02
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_00170	COG0346	Q	Catechol 2,3-dioxygenase or related enzyme, vicinal oxygen chelate (VOC) family	GloA		11830595	3R4Q
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_00185	COG2211	G	Na+/melibiose symporter or related transporter	MelB			4M64
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_00200	COG1931	R	Predicted RNA binding protein with dsRBD fold, UPF0201 family				3D7A
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_00205	COG1936	F	Broad-specificity NMP kinase	Fap7			1RKB
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_00210	COG1514	J	RNA 2',3'-cyclic phosphodiesterase (2'-5' RNA ligase)	ThpR		25239919	1IUH
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_00220	COG3642	J	tRNA A-37 threonylcarbamoyl transferase component Bud32	Bud32	tRNA modification		2VWB
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_00235	COG1249	C	Dihydrolipoamide dehydrogenase (E3) component of pyruvate/2-oxoglutarate dehydrogenase complex or glutathione oxidoreductase	Lpd	Glycine cleavagePyruvate oxidation		6QKG
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_00240	COG0623	I	Enoyl-[acyl-carrier-protein] reductase FabI	FabI	Fatty acid biosynthesis		1C14
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_00245	COG3582	V	CDC48-associated ubiquitin-like protein CUZ1, contains AN1-type Zn-finger (protection from As/Sb toxicity)	CUZ1		24121501;31403721	5IJ4
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_00255	COG1711	L	DNA replication initiation complex subunit, GINS family				
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_00260	COG3968	E	Glutamine synthetase type III	GlnA3			
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_00270	COG0459	O	Chaperonin GroEL (HSP60 family)	GroEL			1AON
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_00275	COG0076	E	Glutamate or tyrosine decarboxylase or a related PLP-dependent protein	GadA	Pantothenate/CoA biosynthesis		1XEY
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_00290	COG1028	I	NAD(P)-dependent dehydrogenase, short-chain alcohol dehydrogenase family	FabG	Fatty acid biosynthesis		6L1H
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_00295	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_00300	COG4032	H	Sulfopyruvate decarboxylase, TPP-binding subunit (coenzyme M biosynthesis)				
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_00305	COG0028	EH	Acetolactate synthase large subunit or other thiamine pyrophosphate-requiring enzyme	IlvB	Isoleucine, leucine, valine biosynthesis		1BFD
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_00310	COG3618	R	Predicted metal-dependent hydrolase, TIM-barrel fold				
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_00320	COG0596	HR	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold	MenH	Menaquinone biosynthesis		4MYS
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_00325	COG0447	H	1,4-Dihydroxy-2-naphthoyl-CoA synthase	MenB	Menaquinone biosynthesis		4ELS
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_00335	COG1634	H	6-hydroxymethyl-7,8-dihydropterin pyrophosphokinase MptE (tetrahydrofolate and tetrahydromethanopterin biosynthesis)	FolK		22931285	
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_00340	COG1044	M	UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase	LpxD	Lipid A biosynthesis		6P83
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_00345	COG1075	I	Triacylglycerol esterase/lipase EstA, alpha/beta hydrolase fold	EstA			1I6W
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_00350	COG2271	G	Sugar phosphate permease	UhpC			1PW4
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_00355	COG4166	E	ABC-type oligopeptide transport system, periplasmic component	OppA			1B05
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_00375	COG1506	E	Dipeptidyl aminopeptidase/acylaminoacyl peptidase	DAP2			2JBW
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_00380	COG1804	I	Crotonobetainyl-CoA:carnitine CoA-transferase CaiB and related acyl-CoA transferases	CaiB			1P5H
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_00385	COG0447	H	1,4-Dihydroxy-2-naphthoyl-CoA synthase	MenB	Menaquinone biosynthesis		4ELS
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_00410	COG0443	O	Molecular chaperone DnaK (HSP70)	DnaK			3I33
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_00415	COG0272	L	NAD-dependent DNA ligase	Lig			5TT5
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_00420	COG0311	H	Pyridoxal 5'-phosphate synthase subunit PdxT (glutamine amidotransferase)	PdxT	Pyridoxal phosphate biosynthesis	18801996;24083939	2NV0
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_00425	COG0106	E	Phosphoribosylformimino-5-aminoimidazole carboxamide ribonucleotide (ProFAR) isomerase	HisA	Histidine biosynthesis		4U28
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_00430	COG0162	J	Tyrosyl-tRNA synthetase	TyrS	Aminoacyl-tRNA synthetases		4OUD
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_00440	COG1228	Q	Imidazolonepropionase or related amidohydrolase	HutI			3OOQ
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_00445	COG1820	G	N-acetylglucosamine-6-phosphate deacetylase	NagA			1O12
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_00455	COG1099	R	Predicted metal-dependent hydrolase, TIM-barrel fold				3GUW
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_00460	COG0142	H	Geranylgeranyl pyrophosphate synthase	IspA	Isoprenoid biosynthesis		2AZJ
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_00470	COG0353	L	Recombinational DNA repair protein RecR	RecR		26337406	2JGR
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_00475	COG2255	L	Holliday junction resolvasome RuvABC, ATP-dependent DNA helicase subunit RuvB	RuvB			1HQC
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_00480	COG0319	J	ssRNA-specific RNase YbeY, 16S rRNA maturation enzyme	YbeY	16S rRNA modification	17407324;23543739	1XM5
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_00485	COG0651	CP	Formate hydrogenlyase subunit 3/Multisubunit Na+/H+ antiporter, MnhD subunit	HyfB			6CFW
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_00495	COG0265	O	Periplasmic serine protease, S1-C subfamily, contain C-terminal PDZ domain	DegQ		29686141	2HGA
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_00500	COG4843	S	Uncharacterized conserved protein YebE, UPF0316/DUF2179 family	YebE			
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_00505	COG4276	R	Ligand-binding SRPBCC domain	SRPBCC			
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_00515	COG0426	C	Flavorubredoxin	NorV			4JHC
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_00525	COG2353	R	Polyisoprenoid-binding periplasmic protein YceI	YceI		15741337;20236316	1WUB
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_00535	COG0410	E	ABC-type branched-chain amino acid transport system, ATPase component LivF	LivF		26527648;32250026	1JI0
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_00540	COG1566	V	Multidrug resistance efflux pump EmrA	EmrA			4TKO
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_00550	COG0673	R	Predicted dehydrogenase	MviM			3UUW
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_00555	COG1804	I	Crotonobetainyl-CoA:carnitine CoA-transferase CaiB and related acyl-CoA transferases	CaiB			1P5H
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_00560	COG0045	C	Succinyl-CoA synthetase, beta subunit	SucC	TCA cycle		1SCU
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_00565	COG1042	C	Acyl-CoA synthetase (NDP forming)	PatZN		26251518	4YAK
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_00575	COG1032	R	Radical SAM superfamily enzyme YgiQ, UPF0313 family	YgiQ			6FD2
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_00580	COG4111	S	Uncharacterized conserved protein				
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_00595	COG2331	R	Predicted nucleic acid-binding protein, contains Zn-ribbon domain				
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_00600	COG0052	J	Ribosomal protein S2	RpsB	Ribosome 30S subunit		4V4H
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_00610	COG0233	J	Ribosome recycling factor	Frr			1DD5
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_00615	COG0020	I	Undecaprenyl pyrophosphate synthase	UppS			1X07
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_00620	COG4589	R	Predicted CDP-diglyceride synthetase/phosphatidate cytidylyltransferase	YnbB			
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_00625	COG3879	S	Uncharacterized conserved protein YlxW, UPF0749 family	YlxW			3GMG
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_00640	COG0088	J	Ribosomal protein L4	RplD	Ribosome 50S subunit		1VS6
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_00645	COG0089	J	Ribosomal protein L23	RplW	Ribosome 50S subunit		1VS6
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_00650	COG0090	J	Ribosomal protein L2	RplB	Ribosome 50S subunit		1VS6
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_00655	COG0185	J	Ribosomal protein S19	RpsS	Ribosome 30S subunit		4V4H
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_00665	COG0092	J	Ribosomal protein S3	RpsC	Ribosome 30S subunit		1VS6
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_00670	COG0197	J	Ribosomal protein L16/L10AE	RplP	Ribosome 50S subunit		1WKI
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_00680	COG0186	J	Ribosomal protein S17	RpsQ	Ribosome 30S subunit		4V4H
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_00685	COG0093	J	Ribosomal protein L14	RplN	Ribosome 50S subunit		4V4H
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_00690	COG0198	J	Ribosomal protein L24	RplX	Ribosome 50S subunit		1VS6
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_00695	COG0199	J	Ribosomal protein S14	RpsN	Ribosome 30S subunit		4V4H
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_00700	COG0096	J	Ribosomal protein S8	RpsH	Ribosome 30S subunit		4V4H
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_00710	COG2353	R	Polyisoprenoid-binding periplasmic protein YceI	YceI		15741337;20236316	1WUB
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_00715	COG0125	F	Thymidylate kinase	Tmk	Thymidylate biosynthesis		3LV8
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_00730	COG1030	O	Membrane-bound serine protease NfeD, ClpP class	NfeD			2DEO
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_00735	COG0849	D	Cell division ATPase FtsA	FtsA			3WT0
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_00745	COG0761	I	4-Hydroxy-3-methylbut-2-enyl diphosphate reductase IspH	IspH	Isoprenoid biosynthesis		3DNF
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_00760	COG1218	P	3'-Phosphoadenosine 5'-phosphosulfate (PAPS) 3'-phosphatase	CysQ			
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_00765	COG1063	ER	Threonine dehydrogenase or related Zn-dependent dehydrogenase	Tdh	Non-phosphorylated Entner-Doudoroff pathway		4A2C
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_00770	COG0004	P	Ammonia channel protein AmtB	AmtB			1U77
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_00775	COG1941	C	Coenzyme F420-reducing hydrogenase, gamma subunit	FrhG			5ODC
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_00790	COG4959	OU	Type IV secretory pathway, protease TraF	TraF			1B12
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_00795	COG0459	O	Chaperonin GroEL (HSP60 family)	GroEL			1AON
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_00800	COG0611	H	Thiamine monophosphate kinase	ThiL	Thiamine biosynthesis		5CC8
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_00805	COG2231	L	3-Methyladenine DNA glycosylase, HhH-GPD/Endo3 superfamily	HP0602		14517230;20410075	1PU6
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_00815	COG1608	I	Isopentenyl phosphate kinase			16621811	3LKK
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_00825	COG3978	E	Acetolactate synthase small subunit, contains ACT domain	IlvM			
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_00830	COG0028	EH	Acetolactate synthase large subunit or other thiamine pyrophosphate-requiring enzyme	IlvB	Isoleucine, leucine, valine biosynthesis		1BFD
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_00850	COG0491	R	Glyoxylase or a related metal-dependent hydrolase, beta-lactamase superfamily II	GloB		25670698	1QH3
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_00880	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_00885	COG0031	E	Cysteine synthase	CysK	Cysteine biosynthesis		1FCJ
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_00890	COG0302	H	GTP cyclohydrolase I	FolE	Folate biosynthesis	19767425;30692671	1A8R
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_00895	COG0297	G	Glycogen synthase	GlgA			1RZU
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_00900	COG0048	J	Ribosomal protein S12	RpsL	Ribosome 30S subunit		4V4H
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_00905	COG0049	J	Ribosomal protein S7	RpsG	Ribosome 30S subunit		4V4H
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_00910	COG5256	J	Translation elongation factor EF-1alpha (GTPase)	TEF1	Translation factors		1F60
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_00915	COG0051	J	Ribosomal protein S10	RpsJ	Ribosome 30S subunit		4V4H
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_00920	COG0087	J	Ribosomal protein L3	RplC	Ribosome 50S subunit		1VS6
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_00930	COG3576	R	Predicted flavin-nucleotide-binding protein, pyridoxine 5'-phosphate oxidase superfamily				5ESC
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_00935	COG1186	J	Protein chain release factor PrfB	PrfB	Translation factors		1GQE
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_00940	COG0136	E	Aspartate-semialdehyde dehydrogenase	Asd	Lysine biosynthesis		1BRM
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_00945	COG3264	M	Small-conductance mechanosensitive channel MscK	MscK			
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_00950	COG0657	I	Acetyl esterase/lipase	Aes			1EVQ
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_00955	COG2271	G	Sugar phosphate permease	UhpC			1PW4
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_00965	COG4992	E	Acetylornithine/succinyldiaminopimelate/putrescine aminotransferase	ArgD	Arginine biosynthesis		2E54
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_00970	COG0137	E	Argininosuccinate synthase	ArgG	Arginine biosynthesis		1J1Z
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_00975	COG0015	F	Adenylosuccinate lyase	PurB	Purine biosynthesis		2HVG
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_00980	COG0352	H	Thiamine monophosphate synthase	ThiE	Thiamine biosynthesis	19060138	1G4T
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_00990	COG1461	R	Predicted kinase related to dihydroxyacetone kinase	YloV			
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_00995	COG1307	I	Fatty acid-binding protein DegV (function unknown)	DegV			1MGP
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_01000	COG1198	L	Primosomal protein N' (replication factor Y) - superfamily II helicase	PriA			6DCR
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_01005	COG0018	J	Arginyl-tRNA synthetase	ArgS	Aminoacyl-tRNA synthetases		1BS2
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_01010	COG0162	J	Tyrosyl-tRNA synthetase	TyrS	Aminoacyl-tRNA synthetases		4OUD
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_01020	COG1092	J	23S rRNA G2069 N7-methylase RlmK or C1962 C5-methylase RlmI	RlmK	23S rRNA modification		2B78
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_01025	COG1038	C	Pyruvate carboxylase	PycA	Urea cycle		5VYW
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_01030	COG0354	O	Folate-binding protein YgfZ, synthesis and repair of Fe-S clusters	YgfZ		27941785;22081392	1NRK
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_01040	COG0478	T	RIO-like serine/threonine protein kinase fused to N-terminal HTH domain	RIO2			1TQI
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_01045	COG0111	H	Phosphoglycerate dehydrogenase or related dehydrogenase	SerA	Serine biosynthesis		3OET
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_01050	COG1932	HE	Phosphoserine aminotransferase	SerC	Serine biosynthesis		1BJN
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_01055	COG1180	O	Pyruvate-formate lyase-activating enzyme	PflA			3CAN
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_01070	COG0555	P	ABC-type sulfate transport system, permease component	CysU			3D31
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_01075	COG1840	P	ABC-type Fe3+ transport system, periplasmic component	AfuA			6IVY
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_01080	COG0645	R	Predicted kinase, contains AAA domain				2RHM
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_01085	COG0777	I	Acetyl-CoA carboxylase beta subunit	AccD	Fatty acid biosynthesis		2F9I
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_01090	COG3960	Q	Glyoxylate carboligase	Gcl			
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_01100	COG0388	C	Omega-amidase YafV/Nit2, hydrolyzes alpha-ketoglutaramate	Nit2		28373563	
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_01115	COG3618	R	Predicted metal-dependent hydrolase, TIM-barrel fold				
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_01120	COG0685	E	5,10-methylenetetrahydrofolate reductase	MetF			1B5T
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_01125	COG0620	E	Methionine synthase II (cobalamin-independent)	MetE	Methionine biosynthesis		1T7L
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_01130	COG5415
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_01135	COG2258	FV	N-hydroxylaminopurine reductase YiiM, contains MOSC domain	YiiM		18312271;29459651	1O65
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_01140	COG1228	Q	Imidazolonepropionase or related amidohydrolase	HutI			3OOQ
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_01145	COG0596	HR	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold	MenH	Menaquinone biosynthesis		4MYS
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_01150	COG3618	R	Predicted metal-dependent hydrolase, TIM-barrel fold				
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_01155	COG1225	O	Peroxiredoxin	Bcp			5IPH
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_01165	COG0778	C	Nitroreductase	NfnB	Pyrimidine degradation		1F5V
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_01220	COG1804	I	Crotonobetainyl-CoA:carnitine CoA-transferase CaiB and related acyl-CoA transferases	CaiB			1P5H
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_01240	COG3274	M	Surface polysaccharide O-acyltransferase WecH	WecH		16936038	
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_01245	COG4166	E	ABC-type oligopeptide transport system, periplasmic component	OppA			1B05
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_01255	COG0111	H	Phosphoglycerate dehydrogenase or related dehydrogenase	SerA	Serine biosynthesis		3OET
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_01265	COG0357	J	16S rRNA G527 N7-methylase RsmG (former glucose-inhibited division protein B)	RsmG	16S rRNA modification	15375115;22031445	1XDZ
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_01275	COG0109	HI	Polyprenyltransferase (heme O synthase)	CyoE			
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_01285	COG0755	O	ABC-type transport system involved in cytochrome c biogenesis, permease component	CcmC			
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_01290	COG2386	O	ABC-type transport system involved in cytochrome c biogenesis, permease component	CcmB			
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_01295	COG0410	E	ABC-type branched-chain amino acid transport system, ATPase component LivF	LivF		26527648;32250026	1JI0
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_01305	COG3088	CO	Cytochrome c-type biogenesis protein CcmH/NrfF	NrfF			2HL7
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_01315	COG2332	CO	Cytochrome c biogenesis protein CcmE	CcmE			1J6Q
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_01320	COG0526	O	Thiol-disulfide isomerase or thioredoxin	TrxA			1XFL
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_01325	COG2857	C	Cytochrome c1	CYT1			
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_01330	COG0843	C	Heme/copper-type cytochrome/quinol oxidase, subunit 1	CyoB			1AR1
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_01335	COG1845	C	Heme/copper-type cytochrome/quinol oxidase, subunit 3	CyoC			1QLE
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_01345	COG0171	H	NH3-dependent NAD+ synthetase	NadE	NAD biosynthesis		3HMQ
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_01350	COG1940	GK	Sugar kinase of the NBD/HSP70 family, may contain an N-terminal HTH domain	NagC			1WOQ
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_01365	COG0623	I	Enoyl-[acyl-carrier-protein] reductase FabI	FabI	Fatty acid biosynthesis		1C14
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_01370	COG0154	J	Asp-tRNAAsn/Glu-tRNAGln amidotransferase A subunit or related amidase	GatA	Aminoacyl-tRNA synthetases		3H0L
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_01380	COG0143	J	Methionyl-tRNA synthetase	MetG	Aminoacyl-tRNA synthetases		1A8H
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_01385	COG2153	R	Predicted N-acyltransferase, GNAT family	ElaA			1XEB
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_01410	COG0423	J	Glycyl-tRNA synthetase, class II	GRS1	Aminoacyl-tRNA synthetases		2PME
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_01415	COG0420	L	DNA repair exonuclease SbcCD nuclease subunit	SbcD			6S85
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_01420	COG1146	F	NAD-dependent dihydropyrimidine dehydrogenase, PreA subunit	PreA			
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_01430	COG1131	V	ABC-type multidrug transport system, ATPase component	CcmA			5DO7
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_01435	COG1804	I	Crotonobetainyl-CoA:carnitine CoA-transferase CaiB and related acyl-CoA transferases	CaiB			1P5H
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_01445	COG0473	CE	Isocitrate/isopropylmalate dehydrogenase	LeuB	TCA cycle		1GC9
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_01450	COG0039	C	Malate/lactate dehydrogenase	Mdh	TCA cycle		4WLO
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_01455	COG0015	F	Adenylosuccinate lyase	PurB	Purine biosynthesis		2HVG
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_01475	COG3837	S	Uncharacterized conserved protein, cupin superfamily				
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_01480	COG0066	E	3-isopropylmalate dehydratase small subunit	LeuD	Isoleucine, leucine, valine biosynthesis		3Q3W
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_01490	COG0684	J	RNA degradosome component RraA (regulator of RNase E activity)	RraA		20471400	1J3L
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_01495	COG0145	EQ	N-methylhydantoinase A/oxoprolinase/acetone carboxylase, beta subunit	HyuA			
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_01505	COG1177	E	ABC-type spermidine/putrescine transport system, permease component II	PotC			
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_01510	COG1178	P	ABC-type Fe3+ transport system, permease component	FbpB			
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_01515	COG0143	J	Methionyl-tRNA synthetase	MetG	Aminoacyl-tRNA synthetases		1A8H
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_01520	COG1608	I	Isopentenyl phosphate kinase			16621811	3LKK
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_01525	COG1012	I	Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase	AdhE	Proline degradation		1A4S
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_01530	COG0637	G	Beta-phosphoglucomutase, HAD superfamily	YcjU		29684280	3E58
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_01550	COG0236	I	Acyl carrier protein	AcpP	Fatty acid biosynthesis		1ACP
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_01555	COG2030	I	Acyl-CoA dehydratase PaaZ	MaoC			5ZY8
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_01565	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_01570	COG0223	J	Methionyl-tRNA formyltransferase	Fmt			1FMT
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_01580	COG2334	T	Ser/Thr protein kinase RdoA involved in Cpx stress response, MazF antagonist	SrkA	Threonine biosynthesis		1ZYL
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_01590	COG0518	F	GMP synthase, glutamine amidotransferase domain	GuaA1	Purine biosynthesis		4WIM
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_01595	COG0352	H	Thiamine monophosphate synthase	ThiE	Thiamine biosynthesis	19060138	1G4T
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_01600	COG1670	JO	Protein N-acetyltransferase, RimJ/RimL family	RimL			1S7F
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_01605	COG1011	H	FMN and 5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YigB, HAD superfamily (riboflavin biosynthesis)	YigB		24123841	4JB3
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_01615	COG1212	M	CMP-2-keto-3-deoxyoctulosonic acid synthetase	KdsB	Lipid A biosynthesis		1VH1
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_01620	COG1213	I	Choline kinase				4MND
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_01625	COG1089	M	GDP-D-mannose dehydratase	Gmd			1DB3
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_01635	COG1887	MI	CDP-glycerol glycerophosphotransferase, TagB/SpsB family	TagB			
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_01640	COG1898	M	dTDP-4-dehydrorhamnose 3,5-epimerase or related enzyme	RfbC			1DZR
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_01650	COG1089	M	GDP-D-mannose dehydratase	Gmd			1DB3
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_01655	COG1087	M	UDP-glucose 4-epimerase	GalE			1A9Y
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_01660	COG1212	M	CMP-2-keto-3-deoxyoctulosonic acid synthetase	KdsB	Lipid A biosynthesis		1VH1
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_01665	COG0166	G	Glucose-6-phosphate isomerase	Pgi	Glycolysis		1B0Z
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_01675	COG0436	E	Aspartate/methionine/tyrosine aminotransferase	AspB	Isoleucine, leucine, valine biosynthesis		2O0R
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_01680	COG4123	J	tRNA1(Val) A37 N6-methylase TrmN6	TrmN6	tRNA modification		
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_01685	COG2876	E	3-deoxy-D-arabino-heptulosonate 7-phosphate (DAHP) synthase	AroGA	Aromatic amino acid biosynthesis		5J6F
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_01695	COG4136	R	ABC-type uncharacterized transport system YnjBCD, ATPase component	YnjD			
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_01700	COG4108	J	Peptide chain release factor RF-3	PrfC	Translation factors		3UOQ
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_01715	COG4123	J	tRNA1(Val) A37 N6-methylase TrmN6	TrmN6	tRNA modification		
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_01725	COG0613	F	5'-3' exoribonuclease TrpH/YciV (RNase AM), contains PHP domain	YciV		25871919	3E0F
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_01730	COG5018	T	3'-5' exonuclease KapD, inhibitor of KinA-controlled sporulation	KapD			
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_01750	COG0328	L	Ribonuclease HI	RnhA			1LAW
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_01755	COG0154	J	Asp-tRNAAsn/Glu-tRNAGln amidotransferase A subunit or related amidase	GatA	Aminoacyl-tRNA synthetases		3H0L
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_01770	COG0299	F	Folate-dependent phosphoribosylglycinamide formyltransferase PurN	PurN	Purine biosynthesis	25013077	1C2T
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_01775	COG1388	M	LysM repeat	LysM			1E0G
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_01780	COG5002	T	Sensor histidine kinase WalK	WalK			4I5S
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_01785	COG4753	TK	Two-component response regulator, YesN/AraC family, consists of REC and AraC-type DNA-binding domains	YesN			
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_01790	COG0793	O	C-terminal processing protease CtpA/Prc, contains a PDZ domain	CtpA			6IQU
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_01795	COG0329	EM	4-hydroxy-tetrahydrodipicolinate synthase/N-acetylneuraminate lyase	DapA	Lysine biosynthesis	27574185	2R91
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_01805	COG0104	F	Adenylosuccinate synthase	PurA	Purine biosynthesis		1ADE
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_01815	COG0187	L	DNA gyrase/topoisomerase IV, subunit B	GyrB			1EI1
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_01820	COG4585	T	Signal transduction histidine kinase ComP	ComP			4GT8
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_01830	COG0536	DL	GTPase involved in cell partioning and DNA repair	Obg			1LNZ
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_01835	COG1249	C	Dihydrolipoamide dehydrogenase (E3) component of pyruvate/2-oxoglutarate dehydrogenase complex or glutathione oxidoreductase	Lpd	Glycine cleavagePyruvate oxidation		6QKG
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_01840	COG1975	O	Molybdoenzyme maturation factor PaoD (Mo cofactor insertion), XdhC/CoxF family	XdhC		24498065	2WE7
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_01845	COG1826	U	Twin-arginine protein secretion pathway components TatA and TatB	TatA			2L16
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_01850	COG0426	C	Flavorubredoxin	NorV			4JHC
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_01855	COG0770	M	UDP-N-acetylmuramyl pentapeptide synthase	MurF	Mureine biosynthesis		4CVK
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_01860	COG1492	H	Cobyric acid synthase	CobQ	Cobalamine/B12 biosynthesis		
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_01865	COG4942	D	Septal ring factor EnvC, activator of murein hydrolases AmiA and AmiB	EnvC			
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_01885	COG1171	E	Threonine deaminase	IlvA	Isoleucine, leucine, valine biosynthesis		3IAU
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_01895	COG1179	J	tRNA A37 threonylcarbamoyladenosine dehydratase	TcdA	tRNA modification	27913733	4D7A
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_01905	COG0498	E	Threonine synthase	ThrC	Threonine biosynthesis		1VB3
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_01915	COG0801	H	7,8-dihydro-6-hydroxymethylpterin pyrophosphokinase (folate biosynthesis)	FolK	Folate biosynthesis		1CBK
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_01930	COG0367	E	Asparagine synthetase B (glutamine-hydrolyzing)	AsnB	Asparagine biosynthesis	25951518	2ETD
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_01935	COG0309	O	Carbamoyl dehydratase HypE (hydrogenase maturation factor)	HypE		28618091	2I6R
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_01940	COG0138	F	AICAR transformylase/IMP cyclohydrolase PurH	PurH	Purine biosynthesis		1G8M
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_01965	COG0723	C	Rieske Fe-S protein	QcrA/PetC		27663073	5CXM
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_01970	COG2010	C	Cytochrome c, mono- and diheme variants	CccA			1A2S
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_01985	COG1228	Q	Imidazolonepropionase or related amidohydrolase	HutI			3OOQ
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_01990	COG0828	J	Ribosomal protein S21	RpsU	Ribosome 30S subunit		4V4H
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_02000	COG0359	J	Ribosomal protein L9	RplI	Ribosome 50S subunit	27112601	1VS6
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_02005	COG2206	T	HD-GYP domain, c-di-GMP phosphodiesterase class II (or its inactivated variant)	HDGYP		23475961	5Z7C
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_02010	COG1492	H	Cobyric acid synthase	CobQ	Cobalamine/B12 biosynthesis		
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_02025	COG0002	E	N-acetyl-gamma-glutamylphosphate reductase	ArgC	Arginine biosynthesis		3DR3
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_02035	COG1185	J	Polyribonucleotide nucleotidyltransferase (polynucleotide phosphorylase)	Pnp			1E3P
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_02040	COG0184	J	Ribosomal protein S15P/S13E	RpsO	Ribosome 30S subunit		4V4H
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_02045	COG0260	E	Leucyl aminopeptidase	PepB		19553197;23825549	3H8E
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_02050	COG0452	H	Phosphopantothenoylcysteine synthetase/decarboxylase CoaBC	CoaBC	Pantothenate/CoA biosynthesis		3QJG
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_02055	COG1521	H	Pantothenate kinase type III	CoaX			2F9T
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_02060	COG1484	L	DNA replication protein DnaC	DnaC			2QGZ
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_02065	COG0370	P	Fe2+ transporter FeoB	FeoB		32095817	3TAH
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_02070	COG0669	H	Phosphopantetheine adenylyltransferase	CoaD	Pantothenate/CoA biosynthesis		3F3M
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_02080	COG0504	F	CTP synthase (UTP-ammonia lyase)	PyrG	Pyrimidine biosynthesis		1S1M
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_02100	COG1472	G	Periplasmic beta-glucosidase and related glycosidases	BglX			2X40
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_02105	COG0297	G	Glycogen synthase	GlgA			1RZU
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_02125	COG0823	U	Periplasmic component TolB of the Tol biopolymer transport system	TolB			1C5K
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_02145	COG0308	E	Aminopeptidase N, contains DUF3458 domain	PepN		24123841	6ATK
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_02155	COG0446	I	NADPH-dependent 2,4-dienoyl-CoA reductase, sulfur reductase, or a related oxidoreductase	FadH2			1VRQ
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_02160	COG1047	O	Peptidyl-prolyl cis-trans isomerase, FKBP type	SlpA			2M2A
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_02165	COG1898	M	dTDP-4-dehydrorhamnose 3,5-epimerase or related enzyme	RfbC			1DZR
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_02175	COG1123	O	ABC-type glutathione transport system ATPase component, contains duplicated ATPase domain	GsiA			
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_02210	COG0697	GER	Permease of the drug/metabolite transporter (DMT) superfamily	RhaT			5I20
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_02215	COG1080	G	Phosphoenolpyruvate-protein kinase (PTS system EI component in bacteria)	PtsA			1EZA
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_02220	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_02240	COG1200	L	RecG-like helicase	RecG			1GM5
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_02255	COG1862	U	Protein translocase subunit YajC	YajC			
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_02265	COG0781	K	Transcription antitermination protein NusB	NusB		21652641	1EY1
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_02275	COG0067	E	Glutamate synthase domain 1	GltB1	Glutamine biosynthesis		1EA0
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_02280	COG1804	I	Crotonobetainyl-CoA:carnitine CoA-transferase CaiB and related acyl-CoA transferases	CaiB			1P5H
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_02285	COG0526	O	Thiol-disulfide isomerase or thioredoxin	TrxA			1XFL
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_02295	COG2267	I	Lysophospholipase, alpha-beta hydrolase superfamily	PldB			5O7G
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_02300	COG1132	V	ABC-type multidrug transport system, ATPase and permease component	MdlB			2HYD
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_02305	COG1178	P	ABC-type Fe3+ transport system, permease component	FbpB			
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_02310	COG1176	E	ABC-type spermidine/putrescine transport system, permease component I	PotB			
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_02320	COG0526	O	Thiol-disulfide isomerase or thioredoxin	TrxA			1XFL
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_02325	COG2145	H	Hydroxyethylthiazole kinase, sugar kinase family	ThiM	Thiamine biosynthesis		1C3Q
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_02330	COG0530	P	Ca2+/Na+ antiporter	ECM27			3V5S
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_02335	COG0151	F	Phosphoribosylamine-glycine ligase	PurD	Purine biosynthesis		1GSO
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_02355	COG1249	C	Dihydrolipoamide dehydrogenase (E3) component of pyruvate/2-oxoglutarate dehydrogenase complex or glutathione oxidoreductase	Lpd	Glycine cleavagePyruvate oxidation		6QKG
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_02360	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_02365	COG3336	CO	Cytochrome c oxidase assembly protein CtaG	CtaG		14766920	
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_02390	COG3119	P	Arylsulfatase A or related enzyme, AlkP superfamily	AslA			1E1Z
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_02395	COG1208	JM	NDP-sugar pyrophosphorylase, includes eIF-2Bgamma, eIF-2Bepsilon, and LPS biosynthesis protein s	GCD1			6JQ8
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_02400	COG0512	EH	Anthranilate/para-aminobenzoate synthase component II (glutamine amidotransferase)	PabA	Aromatic amino acid biosynthesis		1I1Q
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_02405	COG0574	G	Phosphoenolpyruvate synthase/pyruvate phosphate dikinase	PpsA	Gluconeogenesis		5HV6
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_02410	COG0371	C	Glycerol dehydrogenase or related enzyme, iron-containing ADH family	GldA	Isoprenoid biosynthesis	20688982	3S99
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_02415	COG2224	C	Isocitrate lyase	AceA	TCA cycle, glyoxylate bypass		1DQU
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_02420	COG4032	H	Sulfopyruvate decarboxylase, TPP-binding subunit (coenzyme M biosynthesis)				
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_02425	COG2242	H	Precorrin-6B methylase 2	CobL	Cobalamine/B12 biosynthesis		1F38
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_02440	COG0399	M	dTDP-4-amino-4,6-dideoxygalactose transaminase	WecE		15271350	4PIW
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_02445	COG0460	E	Homoserine dehydrogenase	ThrA	Methionine biosynthesis	29124164	5AVO
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_02465	COG0367	E	Asparagine synthetase B (glutamine-hydrolyzing)	AsnB	Asparagine biosynthesis	25951518	2ETD
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_02470	COG0240	C	Glycerol-3-phosphate dehydrogenase	GpsA	Isoprenoid biosynthesis		1EVY
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_02475	COG1207	M	Bifunctional protein GlmU, N-acetylglucosamine-1-phosphate-uridyltransferase/glucosamine-1-phosphate-acetyltransferase	GlmU			3FWW
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_02480	COG0287	E	Prephenate dehydrogenase	TyrA	Aromatic amino acid biosynthesis		2F1K
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_02485	COG1089	M	GDP-D-mannose dehydratase	Gmd			1DB3
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_02500	COG0673	R	Predicted dehydrogenase	MviM			3UUW
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_02510	COG0238	J	Ribosomal protein S18	RpsR	Ribosome 30S subunit		4V4H
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_02520	COG0360	J	Ribosomal protein S6	RpsF	Ribosome 30S subunit		4V4H
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_02530	COG0520	E	Selenocysteine lyase/Cysteine desulfurase	CsdA			4LW2
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_02535	COG0367	E	Asparagine synthetase B (glutamine-hydrolyzing)	AsnB	Asparagine biosynthesis	25951518	2ETD
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_02545	COG1102	F	Cytidylate kinase	CmkB			
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_02550	COG0564	J	Pseudouridine synthase RluA, 23S rRNA- or tRNA-specific	RluA	23S rRNA modification		2I82
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_02555	COG0788	F	Formyltetrahydrofolate hydrolase	PurU	Purine biosynthesis		3O1L
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_02565	COG1570	L	Exonuclease VII, large subunit	XseA			
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_02570	COG0231	J	Translation elongation factor P (EF-P)/translation initiation factor 5A (eIF-5A)	Efp	Translation factors		1UEB
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_02575	COG0024	J	Methionine aminopeptidase	Map			3J2I
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_02580	COG3710	K	DNA-binding winged helix-turn-helix (wHTH) domain	CadC1			
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_02585	COG0174	E	Glutamine synthetase	GlnA	Glutamine biosynthesis		1F1H
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_02590	COG3968	E	Glutamine synthetase type III	GlnA3			
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_02595	COG1007	C	NADH:ubiquinone oxidoreductase subunit 2 (chain N)	NuoN	NADH dehydrogenase		4HE8
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_02600	COG0651	CP	Formate hydrogenlyase subunit 3/Multisubunit Na+/H+ antiporter, MnhD subunit	HyfB			6CFW
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_02605	COG1009	C	Membrane H+-translocase/NADH:ubiquinone oxidoreductase subunit 5 (chain L)/Multisubunit Na+/H+ antiporter, MnhA subunit	NuoL	NADH dehydrogenase		3RKO
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_02620	COG1143	C	Formate hydrogenlyase subunit 6/NADH:ubiquinone oxidoreductase 23 kD subunit (chain I)	NuoI	NADH dehydrogenase		1B0P
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_02625	COG1005	C	NADH:ubiquinone oxidoreductase subunit 1 (chain H)	NuoH	NADH dehydrogenase		6HUM
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_02630	COG0649	C	NADH:ubiquinone oxidoreductase 49 kD subunit (chain D)	NuoD	NADH dehydrogenase		2FUG
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_02635	COG3262	C	Ni,Fe-hydrogenase III component G	HycE1			
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_02640	COG1941	C	Coenzyme F420-reducing hydrogenase, gamma subunit	FrhG			5ODC
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_02650	COG0143	J	Methionyl-tRNA synthetase	MetG	Aminoacyl-tRNA synthetases		1A8H
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_02655	COG1268	H	Biotin transporter BioY	BioY			4DVE
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_02660	COG0346	Q	Catechol 2,3-dioxygenase or related enzyme, vicinal oxygen chelate (VOC) family	GloA		11830595	3R4Q
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_02665	COG0230	J	Ribosomal protein L34	RpmH	Ribosome 50S subunit		6SPB
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_02685	COG0455	DN	MinD-like ATPase FlhG/YlxH, activator of the FlhF-type GTPase	FlhG			1G3Q
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_02700	COG2812	L	DNA polymerase III, gamma/tau subunits	DnaX			1A5T
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_02705	COG3359	R	Uncharacterized conserved protein YprB, contains RNaseH-like and TPR domains	YprB			
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_02710	COG1169	HQ	Isochorismate synthase EntC	MenF	Menaquinone biosynthesis		5JXZ
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_02715	COG0518	F	GMP synthase, glutamine amidotransferase domain	GuaA1	Purine biosynthesis		4WIM
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_02720	COG0213	F	Thymidine phosphorylase	DeoA	Pyrimidine salvage		1AZY
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_02725	COG0106	E	Phosphoribosylformimino-5-aminoimidazole carboxamide ribonucleotide (ProFAR) isomerase	HisA	Histidine biosynthesis		4U28
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_02730	COG0135	E	Phosphoribosylanthranilate isomerase	TrpF	Aromatic amino acid biosynthesis		1DL3
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_02735	COG0133	E	Tryptophan synthase beta chain	TrpB	Aromatic amino acid biosynthesis		2DH5
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_02740	COG1266	O	Membrane protease YdiL, CAAX protease family	YdiL			
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_02745	COG0159	E	Tryptophan synthase alpha chain	TrpA	Aromatic amino acid biosynthesis		6HUL
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_02755	COG2089	M	Sialic acid synthase SpsE, contains C-terminal SAF domain	SpsE			1VLI
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_02770	COG0462	F	Phosphoribosylpyrophosphate synthetase	PrsA	Histidine biosynthesis, Purine biosynthesis		1DKR
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_02775	COG1597	IR	Phosphatidylglycerol kinase, diacylglycerol kinase family	LCB5		17351295	2BON
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_02780	COG1632	J	Ribosomal protein L15E	RPL15A	Archaeal ribosomal proteins		
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_02785	COG1018	C	Flavodoxin/ferredoxin--NADP reductase	Fpr			3OZU
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_02795	COG0226	P	ABC-type phosphate transport system, periplasmic component	PstS			2Q9T
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_02800	COG0555	P	ABC-type sulfate transport system, permease component	CysU			3D31
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_02805	COG1177	E	ABC-type spermidine/putrescine transport system, permease component II	PotC			
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_02810	COG4674	R	ABC-type uncharacterized transport system, ATPase component			10686096	
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_02815	COG1283	P	Na+/phosphate symporter	NptA			
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_02825	COG0372	C	Citrate synthase	GltA	TCA cycle	25211225	3TQG
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_02830	COG3977	E	Alanine-alpha-ketoisovalerate (or valine-pyruvate) aminotransferase	AvtA			3G7Q
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_02835	COG0154	J	Asp-tRNAAsn/Glu-tRNAGln amidotransferase A subunit or related amidase	GatA	Aminoacyl-tRNA synthetases		3H0L
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_02840	COG0721	J	Asp-tRNAAsn/Glu-tRNAGln amidotransferase C subunit	GatC	Aminoacyl-tRNA synthetases		3H0L
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_02845	COG2227	H	2-polyprenyl-3-methyl-5-hydroxy-6-metoxy-1,4-benzoquinol methylase	UbiG	Ubiquinone biosynthesis		1BHJ
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_02870	COG0613	F	5'-3' exoribonuclease TrpH/YciV (RNase AM), contains PHP domain	YciV		25871919	3E0F
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_02910	COG4605	P	ABC-type enterochelin transport system, permease component	CeuC			
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_02915	COG3839	G	ABC-type sugar transport system, ATPase component MalK	MalK			2ONK
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_02920	COG2271	G	Sugar phosphate permease	UhpC			1PW4
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_02930	COG2030	I	Acyl-CoA dehydratase PaaZ	MaoC			5ZY8
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_02940	COG0698	G	Ribose 5-phosphate isomerase RpiB	RpiB	Pentose phosphate pathway		1NN4
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_02945	COG2878	C	Na+-translocating ferredoxin:NAD+ oxidoreductase RNF, RnfB subunit	RnfB	Na+-translocating Fd:NADH oxidoreductase	24045950	
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_02950	COG1042	C	Acyl-CoA synthetase (NDP forming)	PatZN		26251518	4YAK
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_02955	COG1012	I	Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase	AdhE	Proline degradation		1A4S
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_02965	COG1884	I	Methylmalonyl-CoA mutase, N-terminal domain/subunit	Sbm			6OXC
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_02975	COG1804	I	Crotonobetainyl-CoA:carnitine CoA-transferase CaiB and related acyl-CoA transferases	CaiB			1P5H
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_02980	COG2141	HR	Flavin-dependent oxidoreductase, luciferase family (includes alkanesulfonate monooxygenase SsuD and methylene tetrahydromethanopterin reductase)	SsuD	Pyrimidine degradation		1BRL
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_02985	COG2153	R	Predicted N-acyltransferase, GNAT family	ElaA			1XEB
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_02995	COG1804	I	Crotonobetainyl-CoA:carnitine CoA-transferase CaiB and related acyl-CoA transferases	CaiB			1P5H
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_03000	COG4126	E	Asp/Glu/hydantoin racemase	Dcg1			
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_03005	COG2079	G	2-methylcitrate dehydratase PrpD	PrpD			1SZQ
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_03010	COG0472	M	UDP-N-acetylmuramyl pentapeptide phosphotransferase/UDP-N-acetylglucosamine-1-phosphate transferase	Rfe	Mureine biosynthesis		4J72
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_03015	COG0771	M	UDP-N-acetylmuramoylalanine-D-glutamate ligase	MurD	Mureine biosynthesis		1E0D
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_03020	COG0768	DM	Cell division protein FtsI, peptidoglycan transpeptidase (Penicillin-binding protein 2)	FtsI			6HZQ
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_03030	COG0275	J	16S rRNA C1402 N4-methylase RsmH	RmsH	16S rRNA modification		1M6Y
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_03055	COG2151	O	Metal-sulfur cluster biosynthetic enzyme	PaaD			1UWD
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_03065	COG0075	EF	Archaeal aspartate aminotransferase or a related aminotransferase, includes purine catabolism protein PucG	PucG	Serine biosynthesis		3NNK
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_03070	COG2146	PQ	Ferredoxin subunit of nitrite reductase or a ring-hydroxylating dioxygenase	NirD		23844911	1FQT
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_03095	COG0031	E	Cysteine synthase	CysK	Cysteine biosynthesis		1FCJ
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_03105	COG2271	G	Sugar phosphate permease	UhpC			1PW4
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_03115	COG2814	G	Predicted arabinose efflux permease AraJ, MFS family	AraJ			4LDS
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_03120	COG2234	OE	Zn-dependent amino- or carboxypeptidase, M28 family	Iap			1AMP
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_03125	COG0793	O	C-terminal processing protease CtpA/Prc, contains a PDZ domain	CtpA			6IQU
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_03140	COG0623	I	Enoyl-[acyl-carrier-protein] reductase FabI	FabI	Fatty acid biosynthesis		1C14
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_03145	COG0154	J	Asp-tRNAAsn/Glu-tRNAGln amidotransferase A subunit or related amidase	GatA	Aminoacyl-tRNA synthetases		3H0L
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_03150	COG2130	QR	NADPH-dependent curcumin reductase CurA	CurA		21467222	1V3T
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_03155	COG0251	V	Enamine deaminase RidA, house cleaning of reactive enamine intermediates, YjgF/YER057c/UK114 family	RidA	Pyrimidine degradation	22094463;32205462	1J7H
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_03160	COG0095	H	Lipoate-protein ligase A	LplA	Lipoate biosynthesis		4TVW
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_03175	COG0086	K	DNA-directed RNA polymerase, beta' subunit/160 kD subunit	RpoC	RNA polymerase		1NT9
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_03180	COG2068	H	CTP:molybdopterin cytidylyltransferase MocA	MocA			2WAW
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_03190	COG1612	H	Heme A synthase	CtaA			6A2J
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_03205	COG3119	P	Arylsulfatase A or related enzyme, AlkP superfamily	AslA			1E1Z
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_03210	COG1213	I	Choline kinase				4MND
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_03215	COG0028	EH	Acetolactate synthase large subunit or other thiamine pyrophosphate-requiring enzyme	IlvB	Isoleucine, leucine, valine biosynthesis		1BFD
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_03220	COG4032	H	Sulfopyruvate decarboxylase, TPP-binding subunit (coenzyme M biosynthesis)				
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_03225	COG2224	C	Isocitrate lyase	AceA	TCA cycle, glyoxylate bypass		1DQU
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_03230	COG0371	C	Glycerol dehydrogenase or related enzyme, iron-containing ADH family	GldA	Isoprenoid biosynthesis	20688982	3S99
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_03235	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_03245	COG1807	M	PMT family glycosyltransferase ArnT/Agl22, involved in glycosylation of proteins and lipid IVA	ArnT		16226890;31233657;32706435	5EZM
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_03255	COG2192	R	Predicted carbamoyl transferase, NodU family				3VEN
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_03270	COG1357	S	Uncharacterized conserved protein YjbI, contains pentapeptide repeats	YjbI			2BM4
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_03280	COG0415	L	Deoxyribodipyrimidine photolyase	PhrB			1TEZ
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_03290	COG0066	E	3-isopropylmalate dehydratase small subunit	LeuD	Isoleucine, leucine, valine biosynthesis		3Q3W
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_03300	COG0447	H	1,4-Dihydroxy-2-naphthoyl-CoA synthase	MenB	Menaquinone biosynthesis		4ELS
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_03305	COG4231	C	TPP-dependent indolepyruvate ferredoxin oxidoreductase, alpha subunit	IorA			
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_03310	COG0028	EH	Acetolactate synthase large subunit or other thiamine pyrophosphate-requiring enzyme	IlvB	Isoleucine, leucine, valine biosynthesis		1BFD
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_03325	COG1159	J	GTPase Era, involved in 16S rRNA processing	Era			1EGA
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_03330	COG1168	ER	Bifunctional PLP-dependent enzyme with beta-cystathionase and maltose regulon repressor activities	MalY			4DGT
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_03335	COG0253	E	Diaminopimelate epimerase	DapF	Lysine biosynthesis		1BWZ
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_03340	COG0324	J	tRNA A37 N6-isopentenylltransferase MiaA	MiaA	tRNA modification		2ZM5
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_03345	COG0149	G	Triosephosphate isomerase	TpiA	Glycolysis		1HG3
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_03350	COG1409	T	3',5'-cyclic AMP phosphodiesterase CpdA	CpdA			2ZO9
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_03365	COG4591	M	ABC-type transport system involved in lipoprotein release, permease component LolC	LolE			6F49
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_03370	COG4167	V	ABC-type antimicrobial peptide export system, ATPase component SapF	SapF			
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_03380	COG0209	F	Ribonucleotide reductase alpha subunit	NrdA	Pyrimidine salvage		1R1R
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_03385	COG0209	F	Ribonucleotide reductase alpha subunit	NrdA	Pyrimidine salvage		1R1R
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_03390	COG0024	J	Methionine aminopeptidase	Map			3J2I
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_03395	COG0300	R	Short-chain dehydrogenase	YqjQ			
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_03400	COG3011	R	Predicted thiol-disulfide oxidoreductase YuxK, DCC family	YuxK		15236740	
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_03405	COG1296	E	Predicted branched-chain amino acid permease (azaleucine resistance)	AzlC			
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_03420	COG5524	CT	Bacteriorhodopsin				
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_03425	COG2319	R	WD40 repeat	WD40			3UVN
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_03435	COG0399	M	dTDP-4-amino-4,6-dideoxygalactose transaminase	WecE		15271350	4PIW
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_03445	COG1089	M	GDP-D-mannose dehydratase	Gmd			1DB3
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_03450	COG0287	E	Prephenate dehydrogenase	TyrA	Aromatic amino acid biosynthesis		2F1K
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_03455	COG1207	M	Bifunctional protein GlmU, N-acetylglucosamine-1-phosphate-uridyltransferase/glucosamine-1-phosphate-acetyltransferase	GlmU			3FWW
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_03460	COG4638	PR	Phenylpropionate dioxygenase or related ring-hydroxylating dioxygenase, large terminal subunit	HcaE			4QDC
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_03465	COG1236	J	RNA processing exonuclease, beta-lactamase fold, Cft2 family	YSH1			2DKF
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_03470	COG0287	E	Prephenate dehydrogenase	TyrA	Aromatic amino acid biosynthesis		2F1K
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_03475	COG0367	E	Asparagine synthetase B (glutamine-hydrolyzing)	AsnB	Asparagine biosynthesis	25951518	2ETD
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_03495	COG3173	R	Predicted  kinase, aminoglycoside phosphotransferase (APT) family	YcbJ			
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_03505	COG0673	R	Predicted dehydrogenase	MviM			3UUW
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_03510	COG1091	M	dTDP-4-dehydrorhamnose reductase	RfbD			1KBZ
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_03525	COG1357	S	Uncharacterized conserved protein YjbI, contains pentapeptide repeats	YjbI			2BM4
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_03530	COG2227	H	2-polyprenyl-3-methyl-5-hydroxy-6-metoxy-1,4-benzoquinol methylase	UbiG	Ubiquinone biosynthesis		1BHJ
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_03540	COG1807	M	PMT family glycosyltransferase ArnT/Agl22, involved in glycosylation of proteins and lipid IVA	ArnT		16226890;31233657;32706435	5EZM
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_03545	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_03555	COG3883	S	Uncharacterized N-terminal coiled-coil domain of peptidoglycan hydrolase CwlO	CwlO1			4CGK
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_03585	COG1405	K	Transcription initiation factor TFIIIB, Brf1 subunit/Transcription initiation factor TFIIB	SUA7			1DL6
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_03595	COG0484	O	DnaJ-class molecular chaperone with C-terminal Zn finger domain	DnaJ			1BQ0
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_03640	COG0324	J	tRNA A37 N6-isopentenylltransferase MiaA	MiaA	tRNA modification		2ZM5
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_03645	COG0617	J	tRNA nucleotidyltransferase/poly(A) polymerase	PcnB	tRNA modification		3WFR
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_03655	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_03660	COG0859	M	ADP-heptose:LPS heptosyltransferase	RfaF			1PSW
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_03665	COG1044	M	UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase	LpxD	Lipid A biosynthesis		6P83
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_03680	COG4988	CO	ABC-type transport system involved in cytochrome bd biosynthesis, ATPase and permease components	CydD			
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_03690	COG0825	I	Acetyl-CoA carboxylase alpha subunit	AccA	Fatty acid biosynthesis		2F9I
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_03705	COG1825	J	Ribosomal protein L25 (general stress protein Ctc)	RplY	Ribosome 50S subunit		1B75
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_03710	COG0299	F	Folate-dependent phosphoribosylglycinamide formyltransferase PurN	PurN	Purine biosynthesis	25013077	1C2T
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_03715	COG4166	E	ABC-type oligopeptide transport system, periplasmic component	OppA			1B05
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_03725	COG0391	GH	Archaeal 2-phospho-L-lactate transferase/Bacterial gluconeogenesis factor, CofD/UPF0052 family	CofD		11888293;18252724	1ZX8
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_03730	COG0064	J	Asp-tRNAAsn/Glu-tRNAGln amidotransferase B subunit	GatB	Aminoacyl-tRNA synthetases		3H0M
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_03735	COG1878	E	Kynurenine formamidase				1R61
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_03750	COG1177	E	ABC-type spermidine/putrescine transport system, permease component II	PotC			
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_03760	COG0725	P	ABC-type molybdate transport system, periplasmic Mo-binding protein ModA	ModA	Molybdopterin biosynthesis		1AMF
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_03765	COG4133	O	ABC-type transport system involved in cytochrome c biogenesis, ATPase component	CcmA			
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_03775	COG0304	IQ	3-oxoacyl-(acyl-carrier-protein) synthase	FabB	Fatty acid biosynthesis	21652641	2UV8
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_03780	COG1042	C	Acyl-CoA synthetase (NDP forming)	PatZN		26251518	4YAK
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_03785	COG0447	H	1,4-Dihydroxy-2-naphthoyl-CoA synthase	MenB	Menaquinone biosynthesis		4ELS
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_03800	COG1432	R	NYN domain, predicted PIN-related RNAse, tRNA/rRNA maturation	LabA			2QIP
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_03805	COG1018	C	Flavodoxin/ferredoxin--NADP reductase	Fpr			3OZU
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_03810	COG0439	I	Biotin carboxylase	AccC	Fatty acid biosynthesis		1BNC
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_03825	COG4783	MO	Outer membrane protein chaperone/metalloprotease BepA/YfgC, contains M48 and TPR domains	BepA		24003122	6AIT
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_03835	COG4608	E	ABC-type oligopeptide transport system, ATPase component	AppF			
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_03840	COG1119	P	ABC-type molybdenum transport system, ATPase component ModF/photorepair protein PhrA	ModF			2IHY
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_03845	COG2050	Q	Acyl-CoA thioesterase PaaI, contains HGG motif	PaaI			1PSU
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_03850	COG2255	L	Holliday junction resolvasome RuvABC, ATP-dependent DNA helicase subunit RuvB	RuvB			1HQC
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_03855	COG0019	E	Diaminopimelate decarboxylase	LysA	Lysine biosynthesis		1D7K
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_03860	COG0426	C	Flavorubredoxin	NorV			4JHC
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_03865	COG0491	R	Glyoxylase or a related metal-dependent hydrolase, beta-lactamase superfamily II	GloB		25670698	1QH3
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_03870	COG0177	L	Endonuclease III	Nth			4UOB
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_03875	COG0459	O	Chaperonin GroEL (HSP60 family)	GroEL			1AON
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_03885	COG0533	J	tRNA A37 threonylcarbamoyltransferase TsaD	TsaD	tRNA modification	23072323;21285948;32385138	3ENO
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_03900	COG0315	H	Molybdenum cofactor biosynthesis enzyme MoaC	MoaC	Molybdopterin biosynthesis	32239579	1EKR
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_03905	COG0535	DH	Radical SAM superfamily maturase, SkfB/NifB/PqqE family	SkfB		23282011	6Q2P
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_03910	COG0127	F	Inosine/xanthosine triphosphate pyrophosphatase, all-alpha NTP-PPase family	RdgB			1B78
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_03915	COG4479	S	Uncharacterized conserved protein YozE, UPF0346 family	YozE			2FJ6
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_03920	COG4353	R	Acetyltransferase superfamily protein, DUF1122 family				2ARH
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_03925	COG0770	M	UDP-N-acetylmuramyl pentapeptide synthase	MurF	Mureine biosynthesis		4CVK
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_03930	COG2159	G	5-carboxyvanillate decarboxylase LigW (lignin degradation), amidohydro domain	LigW		26714575	2DVT
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_03935	COG1386	K	Chromosome segregation and condensation protein ScpB	ScpB			1T6S
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_03940	COG1550	S	Stress-induced protein YlxP, DUF503 family	YlxP		15805528	1J27
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_03945	COG1426	D	Cytoskeletal protein RodZ, contains Xre-like HTH and DUF4115 domains	RodZ			3FYM
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_03950	COG1062	C	Zn-dependent alcohol/formaldehyde dehydrogenase	FrmA			1A71
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_03955	COG0268	J	Ribosomal protein S20	RpsT	Ribosome 30S subunit		4V4H
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_03960	COG0534	V	Na+-driven multidrug efflux pump, DinF/NorM/MATE family	NorM		29915058	3VVN
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_03970	COG0495	J	Leucyl-tRNA synthetase	LeuS	Aminoacyl-tRNA synthetases		6LPF
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_03975	COG3706	TK	Two-component response regulator, PleD family, consists of two REC domains and a diguanylate cyclase (GGDEF) domain	PleD			1W25
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_03995	COG0015	F	Adenylosuccinate lyase	PurB	Purine biosynthesis		2HVG
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_04000	COG1691	F	NCAIR mutase (PurE)-related protein				
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_04005	COG0151	F	Phosphoribosylamine-glycine ligase	PurD	Purine biosynthesis		1GSO
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_04020	COG0512	EH	Anthranilate/para-aminobenzoate synthase component II (glutamine amidotransferase)	PabA	Aromatic amino acid biosynthesis		1I1Q
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_04040	COG4166	E	ABC-type oligopeptide transport system, periplasmic component	OppA			1B05
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_04050	COG2141	HR	Flavin-dependent oxidoreductase, luciferase family (includes alkanesulfonate monooxygenase SsuD and methylene tetrahydromethanopterin reductase)	SsuD	Pyrimidine degradation		1BRL
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_04055	COG4126	E	Asp/Glu/hydantoin racemase	Dcg1			
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_04060	COG3618	R	Predicted metal-dependent hydrolase, TIM-barrel fold				
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_04065	COG1506	E	Dipeptidyl aminopeptidase/acylaminoacyl peptidase	DAP2			2JBW
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_04075	COG0251	V	Enamine deaminase RidA, house cleaning of reactive enamine intermediates, YjgF/YER057c/UK114 family	RidA	Pyrimidine degradation	22094463;32205462	1J7H
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_04085	COG0154	J	Asp-tRNAAsn/Glu-tRNAGln amidotransferase A subunit or related amidase	GatA	Aminoacyl-tRNA synthetases		3H0L
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_04090	COG0596	HR	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold	MenH	Menaquinone biosynthesis		4MYS
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_04095	COG2128	P	Alkylhydroperoxidase family enzyme, contains CxxC motif	YciW			1GU9
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_04100	COG2814	G	Predicted arabinose efflux permease AraJ, MFS family	AraJ			4LDS
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_04110	COG1917	R	Cupin domain protein related to quercetin dioxygenase	QdoI			2H0V
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_04125	COG0526	O	Thiol-disulfide isomerase or thioredoxin	TrxA			1XFL
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_04130	COG0857	R	BioD-like N-terminal domain of phosphotransacetylase	PtaN			2IOJ
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_04135	COG0210	L	Superfamily I DNA or RNA helicase	UvrD			6PPR
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_04150	COG4478	S	Uncharacterized membrane protein				
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_04155	COG0568	K	DNA-directed RNA polymerase, sigma subunit (sigma70/sigma32)	RpoD	RNA polymerase		1SIG
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_04160	COG0358	L	DNA primase (bacterial type)	DnaG		28128549	3B39
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_04185	COG0061	H	NAD kinase	NadK			1SUW
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_04190	COG1187	J	Pseudouridylate synthase RsuA, specific for 16S rRNA U516  and 23S rRNA U2605	RsuA	16S rRNA modification		1KSK
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_04195	COG0542	O	ATP-dependent Clp protease, ATP-binding subunit ClpA	ClpA			1KSF
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_04200	COG0616	O	Periplasmic serine protease, ClpP class	SppA			3BEZ
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_04210	COG4171	V	ABC-type antimicrobial peptide export system, permease component SapC	SapC			
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_04215	COG1173	EP	ABC-type dipeptide/oligopeptide/nickel transport system, permease component	DppC			
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_04220	COG4533	K	DNA-binding transcriptional regulator SgrR of sgrS sRNA, contains a MarR-type HTH domain and a periplasmic-type solute-binding domain	SgrR			
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_04225	COG0173	J	Aspartyl-tRNA synthetase	AspS	Aminoacyl-tRNA synthetases		1C0A
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_04230	COG1243	J	tRNA U34 5-carboxymethylaminomethylation enzyme Elp3 (RNA elongator complex protein 3), contains radical SAM and acetyltransferase domains	ELP3		25151136;27455459	6IA8
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_04235	COG3276	J	Selenocysteine-specific translation elongation factor SelB	SelB	Translation factors		4ZU9
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_04245	COG3618	R	Predicted metal-dependent hydrolase, TIM-barrel fold				
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_04255	COG0447	H	1,4-Dihydroxy-2-naphthoyl-CoA synthase	MenB	Menaquinone biosynthesis		4ELS
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_04260	COG0447	H	1,4-Dihydroxy-2-naphthoyl-CoA synthase	MenB	Menaquinone biosynthesis		4ELS
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_04270	COG1804	I	Crotonobetainyl-CoA:carnitine CoA-transferase CaiB and related acyl-CoA transferases	CaiB			1P5H
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_04275	COG0447	H	1,4-Dihydroxy-2-naphthoyl-CoA synthase	MenB	Menaquinone biosynthesis		4ELS
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_04285	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_04295	COG0288	P	Carbonic anhydrase	CynT		22081392	1EKJ
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_04310	COG1804	I	Crotonobetainyl-CoA:carnitine CoA-transferase CaiB and related acyl-CoA transferases	CaiB			1P5H
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_04320	COG3321	Q	Acyl transferase domain in polyketide synthase (PKS) enzymes	PksD			6IYO
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_04325	COG4670	I	Acyl CoA:acetate/3-ketoacid CoA transferase	YdiF			5VIT
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_04335	COG1228	Q	Imidazolonepropionase or related amidohydrolase	HutI			3OOQ
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_04345	COG2271	G	Sugar phosphate permease	UhpC			1PW4
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_04350	COG2606	J	Cys-tRNA(Pro) deacylase, prolyl-tRNA editing enzyme YbaK/EbsC	EbsC			1DBU
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_04355	COG1331	R	Uncharacterized conserved protein YyaL, SSP411 family, contains thoiredoxin and six-hairpin glycosidase-like domains	YyaL			3IRA
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_04360	COG0651	CP	Formate hydrogenlyase subunit 3/Multisubunit Na+/H+ antiporter, MnhD subunit	HyfB			6CFW
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_04365	COG0651	CP	Formate hydrogenlyase subunit 3/Multisubunit Na+/H+ antiporter, MnhD subunit	HyfB			6CFW
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_04370	COG1009	C	Membrane H+-translocase/NADH:ubiquinone oxidoreductase subunit 5 (chain L)/Multisubunit Na+/H+ antiporter, MnhA subunit	NuoL	NADH dehydrogenase		3RKO
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_04380	COG0713	C	NADH:ubiquinone oxidoreductase subunit 11 or 4L (chain K)	NuoK	NADH dehydrogenase		4HE8
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_04385	COG0839	C	NADH:ubiquinone oxidoreductase subunit 6 (chain J)	NuoJ	NADH dehydrogenase		4HE8
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_04390	COG1005	C	NADH:ubiquinone oxidoreductase subunit 1 (chain H)	NuoH	NADH dehydrogenase		6HUM
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_04400	COG3262	C	Ni,Fe-hydrogenase III component G	HycE1			
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_04405	COG0838	C	NADH:ubiquinone oxidoreductase subunit 3 (chain A)	NuoA	NADH dehydrogenase		3RKO
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_04420	COG2176	L	DNA polymerase III, alpha subunit (gram-positive type)	PolC			
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_04425	COG0300	R	Short-chain dehydrogenase	YqjQ			
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_04430	COG1670	JO	Protein N-acetyltransferase, RimJ/RimL family	RimL			1S7F
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_04435	COG0240	C	Glycerol-3-phosphate dehydrogenase	GpsA	Isoprenoid biosynthesis		1EVY
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_04440	COG0344	I	Phospholipid biosynthesis protein PlsY, probable glycerol-3-phosphate acyltransferase	PlsY		29684280	5XJ5
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_04445	COG1159	J	GTPase Era, involved in 16S rRNA processing	Era			1EGA
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_04450	COG4856	T	Cyclic di-AMP synthase regulator CdaR, YbbR domain	YbbR		26527648	2KQ1
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_04465	COG3485	Q	Protocatechuate 3,4-dioxygenase beta subunit	PcaH			1DLM
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_04485	COG0075	EF	Archaeal aspartate aminotransferase or a related aminotransferase, includes purine catabolism protein PucG	PucG	Serine biosynthesis		3NNK
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_04490	COG2859	M	Outer membrane channel-forming protein BP26/OMP28, SIMPL family	SIMPL		23353825;32703422	4HVZ
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_04495	COG0496	L	Broad specificity polyphosphatase and 5'/3'-nucleotidase SurE	SurE			2V4N
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_04505	COG0763	M	Lipid A disaccharide synthetase	LpxB	Lipid A biosynthesis		5W8N
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_04525	COG1243	J	tRNA U34 5-carboxymethylaminomethylation enzyme Elp3 (RNA elongator complex protein 3), contains radical SAM and acetyltransferase domains	ELP3		25151136;27455459	6IA8
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_04545	COG0607	P	Rhodanese-related sulfurtransferase	PspE	Urea cycle		1TQ1
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_04550	COG0607	P	Rhodanese-related sulfurtransferase	PspE	Urea cycle		1TQ1
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_04555	COG5002	T	Sensor histidine kinase WalK	WalK			4I5S
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_04560	COG2204	T	DNA-binding transcriptional response regulator, NtrC family, contains REC, AAA-type ATPase, and a Fis-type DNA-binding domains	AtoC			1ZY2
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_04605	COG0447	H	1,4-Dihydroxy-2-naphthoyl-CoA synthase	MenB	Menaquinone biosynthesis		4ELS
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_04610	COG1520	M	Outer membrane protein assembly factor BamB, contains PQQ-like beta-propeller repeat	PQQ			6TJG
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_04615	COG2030	I	Acyl-CoA dehydratase PaaZ	MaoC			5ZY8
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_04625	COG0579	G	L-2-hydroxyglutarate oxidase LhgO	LhgO			3DME
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_04635	COG0053	P	Divalent metal cation (Fe/Co/Zn/Cd) efflux pump	FieF			2QFI
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_04640	COG0008	J	Glutamyl- or glutaminyl-tRNA synthetase	GlnS	Heme biosynthesis		1EUQ
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_04650	COG1968	I	Undecaprenyl pyrophosphate phosphatase	UppP			5OON
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_04660	COG3815	S	Uncharacterized membrane protein				
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_04680	COG0247	C	Fe-S cluster-containing oxidoreductase, includes glycolate oxidase subunit GlcF	GlpC			
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_04690	COG0165	E	Argininosuccinate lyase	ArgH	Arginine biosynthesis		1AOS
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_04715	COG3871	S	General stress protein 26 (function unknown)	YzzA			2I02
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_04720	COG1714	S	Uncharacterized membrane protein YckC, RDD family	YckC			
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_04745	COG1030	O	Membrane-bound serine protease NfeD, ClpP class	NfeD			2DEO
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_04750	COG2268	S	Uncharacterized membrane protein YqiK, contains Band7/PHB/SPFH domain	YqiK			1WIN
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_04775	COG1453	R	Predicted oxidoreductase of the aldo/keto reductase family				
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_04785	COG4232	O	Thiol:disulfide interchange protein DsbD	DsbD			1JPE
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_04795	COG0076	E	Glutamate or tyrosine decarboxylase or a related PLP-dependent protein	GadA	Pantothenate/CoA biosynthesis		1XEY
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_04800	COG0749	L	DNA polymerase I, 3'-5' exonuclease and polymerase domains	PolA			1D8Y
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_04805	COG0266	L	Formamidopyrimidine-DNA glycosylase	Nei			1EE8
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_04810	COG0413	H	Ketopantoate hydroxymethyltransferase	PanB	Pantothenate/CoA biosynthesis		3VAV
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_04815	COG0414	H	Panthothenate synthetase	PanC	Pantothenate/CoA biosynthesis	17968677	1DIN
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_04820	COG0217	KJ	Transcriptional and/or translational regulatory protein YebC/TACO1	TACO1			1KON
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_04835	COG1061	KL	Superfamily II DNA or RNA helicase	SSL2			6JDE
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_04840	COG4152	R	ABC-type uncharacterized transport system, ATPase component	YhaQ			
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_04855	COG0596	HR	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold	MenH	Menaquinone biosynthesis		4MYS
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_04865	COG0856	F	Orotate phosphoribosyltransferase homolog	PyrE2			
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_04870	COG0653	U	Preprotein translocase subunit SecA (ATPase, RNA helicase)	SecA			2FSF
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_04875	COG0491	R	Glyoxylase or a related metal-dependent hydrolase, beta-lactamase superfamily II	GloB		25670698	1QH3
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_04880	COG0303	H	Molybdopterin Mo-transferase (molybdopterin biosynthesis)	MoeA	Molybdopterin biosynthesis	18801996;32239579	2NQU
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_04890	COG1794	M	Amino acid racemase YgeA	RacX			5ELL
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_04895	COG0284	F	Orotidine-5'-phosphate decarboxylase	PyrF	Pyrimidine biosynthesis		1DBT
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_04905	COG0356	C	FoF1-type ATP synthase, membrane subunit a	AtpB	FoF1-type ATP synthase	22931285	
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_04910	COG0636	C	FoF1-type ATP synthase, membrane subunit c/Archaeal/vacuolar-type H+-ATPase, subunit K	AtpE	FoF1-type ATP synthase		1C17
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_04915	COG3064	M	Membrane protein TolA involved in colicin uptake	TolA			1S62
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_04920	COG0712	C	FoF1-type ATP synthase, delta subunit	AtpH	FoF1-type ATP synthase		1ABV
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_04925	COG0056	C	FoF1-type ATP synthase, alpha subunit	AtpA	FoF1-type ATP synthase		3OAA
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_04935	COG0055	C	FoF1-type ATP synthase, beta subunit	AtpD	FoF1-type ATP synthase		3OAA
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_04945	COG0128	E	5-enolpyruvylshikimate-3-phosphate synthase	AroA	Aromatic amino acid biosynthesis		4N3P
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_04950	COG0443	O	Molecular chaperone DnaK (HSP70)	DnaK			3I33
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_04965	COG1387	ER	Histidinol phosphatase or related hydrolase of the PHP family	HIS2	Histidine biosynthesis		1M65
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_04970	COG2137	O	SOS response regulatory protein OraA/RecX, interacts with RecA	RecX			3C1D
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_04975	COG2874	N	Archaellum biogenesis ATPase ArlH/FlaH	FlaH		32416640	4WIA
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_04980	COG0762	O	Cytochrome b6 maturation protein CCB3/Ycf19 and related maturases, YggT family	Ycf19			
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_04985	COG0287	E	Prephenate dehydrogenase	TyrA	Aromatic amino acid biosynthesis		2F1K
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_05005	COG0206	D	Cell division GTPase FtsZ	FtsZ			1FSZ
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_05010	COG1077	DZ	Cell shape-determining ATPase MreB, actin-like superfamily	MreB			1JCE
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_05015	COG1589	D	Cell division septal protein FtsQ	FtsQ			1YR1
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_05020	COG0189	EHJQ	Glutathione synthase, LysX or RimK-type ligase, ATP-grasp superfamily	LysX	Lysine biosynthesis		1GLV
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_05025	COG0770	M	UDP-N-acetylmuramyl pentapeptide synthase	MurF	Mureine biosynthesis		4CVK
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_05030	COG1819	G	UDP:flavonoid glycosyltransferase YjiC, YdhE family	YjiC		23974133	2ACV
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_05035	COG0772	D	Peptodoglycan polymerase FtsW/RodA/SpoVE	FtsW		30692671	6BAR
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_05040	COG0773	M	UDP-N-acetylmuramate-alanine ligase MurC and related ligases, MurC/Mpl family	MurC	Mureine biosynthesis		
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_05050	COG2370	O	Hydrogenase/urease accessory protein HupE	HupE			
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_05070	COG2519	J	tRNA A58 N-methylase Trm61	Gcd14	tRNA modification		1I9G
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_05075	COG0213	F	Thymidine phosphorylase	DeoA	Pyrimidine salvage		1AZY
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_05080	COG0005	F	Purine nucleoside phosphorylase	XapA	Purine salvage		1YQQ
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_05085	COG0295	F	Cytidine deaminase	Cdd	Pyrimidine salvage		1AF2
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_05090	COG0135	E	Phosphoribosylanthranilate isomerase	TrpF	Aromatic amino acid biosynthesis		1DL3
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_05115	COG0518	F	GMP synthase, glutamine amidotransferase domain	GuaA1	Purine biosynthesis		4WIM
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_05120	COG1169	HQ	Isochorismate synthase EntC	MenF	Menaquinone biosynthesis		5JXZ
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_05130	COG0025	P	NhaP-type Na+/H+ or K+/H+ antiporter	NhaP			4CZB
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_05140	COG0596	HR	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold	MenH	Menaquinone biosynthesis		4MYS
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_05155	COG4166	E	ABC-type oligopeptide transport system, periplasmic component	OppA			1B05
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_05170	COG1473	R	Metal-dependent amidase/aminoacylase/carboxypeptidase	AbgB	Lysine biosynthesis	17307853	3RAM
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_05180	COG1506	E	Dipeptidyl aminopeptidase/acylaminoacyl peptidase	DAP2			2JBW
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_05195	COG0098	J	Ribosomal protein S5	RpsE	Ribosome 30S subunit		4V4H
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_05200	COG1841	J	Ribosomal protein L30/L7E	RpmD	Ribosome 50S subunit		1VS6
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_05205	COG1727	J	Ribosomal protein L18E	RPL18A	Archaeal ribosomal proteins		
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_05210	COG0201	U	Preprotein translocase subunit SecY	SecY			1RH5
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_05215	COG0125	F	Thymidylate kinase	Tmk	Thymidylate biosynthesis		3LV8
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_05220	COG0024	J	Methionine aminopeptidase	Map			3J2I
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_05225	COG0361	J	Translation initiation factor IF-1	InfA	Translation factors		5FIM
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_05235	COG0100	J	Ribosomal protein S11	RpsK	Ribosome 30S subunit		4V4H
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_05240	COG1189	J	Predicted rRNA methylase YqxC, contains S4 and FtsJ domains	YqxC			3OPN
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_05245	COG0202	K	DNA-directed RNA polymerase, alpha subunit/40 kD subunit	RpoA	RNA polymerase		4KN7
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_05250	COG0203	J	Ribosomal protein L17	RplQ	Ribosome 50S subunit		1GD8
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_05255	COG0101	J	tRNA U38,U39,U40 pseudouridine synthase TruA	TruA	tRNA modification		1DJ0
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_05260	COG0102	J	Ribosomal protein L13	RplM	Ribosome 50S subunit		1VS6
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_05265	COG0103	J	Ribosomal protein S9	RpsI	Ribosome 30S subunit		4V4H
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_05270	COG0192	H	S-adenosylmethionine synthetase	MetK	Methionine biosynthesis		1FUG
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_05280	COG0499	H	S-adenosylhomocysteine hydrolase	SAM1			1A7A
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_05285	COG3393	R	Predicted acetyltransferase, GNAT family				
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_05295	COG3118	O	Chaperedoxin CnoX, contains thioredoxin-like and TPR-like domains, YbbN/TrxSC family	CnoX		21498507;29754824	3QDN
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_05305	COG0177	L	Endonuclease III	Nth			4UOB
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_05310	COG1668	CP	ABC-type Na+ efflux pump, permease component NatB	NatB			
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_05315	COG1136	M	ABC-type lipoprotein export system, ATPase component	LolD			5GKO
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_05365	COG3970	R	Fumarylacetoacetate (FAA) hydrolase family protein				2Q18
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_05370	COG1666	T	Cyclic di-GMP-binding protein YajQ, UPF0234 family	YajQ		25329577	1IN0
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_05375	COG0652	O	Peptidyl-prolyl cis-trans isomerase (rotamase) - cyclophilin family	PpiB			4DGD
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_05395	COG0394	T	Protein-tyrosine-phosphatase	Wzb		26641313	4D74
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_05400	COG4741	F	Predicted secreted endonuclease distantly related to archaeal Holliday junction resolvase				
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_05405	COG2223	P	Nitrate/nitrite transporter NarK	NarK			4JR9
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_05415	COG1804	I	Crotonobetainyl-CoA:carnitine CoA-transferase CaiB and related acyl-CoA transferases	CaiB			1P5H
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_05425	COG3404	E	Formiminotetrahydrofolate cyclodeaminase	FtcD			1O5H
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_05430	COG0166	G	Glucose-6-phosphate isomerase	Pgi	Glycolysis		1B0Z
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_05435	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_05445	COG3119	P	Arylsulfatase A or related enzyme, AlkP superfamily	AslA			1E1Z
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_05455	COG2227	H	2-polyprenyl-3-methyl-5-hydroxy-6-metoxy-1,4-benzoquinol methylase	UbiG	Ubiquinone biosynthesis		1BHJ
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_05460	COG2609	C	Pyruvate dehydrogenase complex, dehydrogenase (E1) component	AceE	Pyruvate oxidation		1L8A
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_05465	COG0022	C	Pyruvate/2-oxoglutarate/acetoin dehydrogenase complex, dehydrogenase (E1) component, beta subunit	AcoB	Pyruvate oxidation		2OZL
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_05470	COG0794	GM	D-arabinose 5-phosphate isomerase GutQ	GutQ			5UQI
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_05475	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_05485	COG0161	H	Adenosylmethionine-8-amino-7-oxononanoate aminotransferase	BioA	Biotin biosynthesis		1MLY
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_05490	COG1212	M	CMP-2-keto-3-deoxyoctulosonic acid synthetase	KdsB	Lipid A biosynthesis		1VH1
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_05500	COG1670	JO	Protein N-acetyltransferase, RimJ/RimL family	RimL			1S7F
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_05515	COG0596	HR	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold	MenH	Menaquinone biosynthesis		4MYS
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_05520	COG3185	ER	4-hydroxyphenylpyruvate dioxygenase and related hemolysins	HppD			
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_05525	COG2070	R	NAD(P)H-dependent flavin oxidoreductase YrpB, nitropropane dioxygenase family	YrpB			
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_05530	COG1102	F	Cytidylate kinase	CmkB			
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_05535	COG2215	P	ABC-type nickel/cobalt efflux system, permease component RcnA	RcnA			
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_05540	COG3022	L	DNA-binding protein YaaA associated with the oxidative stress response	YaaA		21378183;32796037	5CAJ
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_05570	COG0774	M	UDP-3-O-acyl-N-acetylglucosamine deacetylase	LpxC	Lipid A biosynthesis		1P42
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_05575	COG1082	G	Sugar phosphate isomerase/epimerase	YcjR		30742415	3KTC
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_05580	COG2878	C	Na+-translocating ferredoxin:NAD+ oxidoreductase RNF, RnfB subunit	RnfB	Na+-translocating Fd:NADH oxidoreductase	24045950	
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_05585	COG0717	F	dCTP deaminase	Dcd	Thymidylate biosynthesis		1XS1
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_05590	COG0580	G	Glycerol uptake facilitator or related aquaporin (Major Intrinsic protein Family)	GlpF			1FQY
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_05595	COG2807	P	Cyanate permease	CynX			
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_05600	COG0344	I	Phospholipid biosynthesis protein PlsY, probable glycerol-3-phosphate acyltransferase	PlsY		29684280	5XJ5
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_05610	COG1225	O	Peroxiredoxin	Bcp			5IPH
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_05620	COG2068	H	CTP:molybdopterin cytidylyltransferase MocA	MocA			2WAW
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_05630	COG1148	C	Heterodisulfide reductase, subunit A (polyferredoxin)	HdrA			5ODC
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_05635	COG0243	C	Anaerobic selenocysteine-containing dehydrogenase	BisC			1EU1
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_05640	COG2802	S	Uncharacterized conserved protein, LON_N-like domain, ASCH/PUA-like superfamily	LON/PUA			1ZBO
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_05645	COG0607	P	Rhodanese-related sulfurtransferase	PspE	Urea cycle		1TQ1
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_05650	COG1052	CHR	Lactate dehydrogenase or related 2-hydroxyacid dehydrogenase	LdhA	Pyridoxal phosphate biosynthesis		1DXY
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_05655	COG0856	F	Orotate phosphoribosyltransferase homolog	PyrE2			
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_05665	COG1832	R	Predicted CoA-binding protein	YccU			1IUK
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_05670	COG1042	C	Acyl-CoA synthetase (NDP forming)	PatZN		26251518	4YAK
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_05675	COG2154	H	Pterin-4a-carbinolamine dehydratase	PhhB			1DCH
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_05685	COG0705	O	Membrane-associated serine protease, rhomboid family	GlpG			2IC8
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_05700	COG2072	P	Predicted flavoprotein CzcO associated with the cation diffusion facilitator CzcD	CzcO			4USQ
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_05720	COG0503	F	Adenine/guanine phosphoribosyltransferase or related PRPP-binding protein	Apt	Purine salvage		1QB7
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_05725	COG4959	OU	Type IV secretory pathway, protease TraF	TraF			1B12
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_05740	COG0717	F	dCTP deaminase	Dcd	Thymidylate biosynthesis		1XS1
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_05745	COG2131	F	Deoxycytidylate deaminase	ComEB		25746996;31954084	2HVV
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_05755	COG0108	H	3,4-dihydroxy-2-butanone 4-phosphate synthase	RibB	Riboflavin/FAD biosynthesis		1G57
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_05760	COG0054	H	6,7-dimethyl-8-ribityllumazine synthase (Riboflavin synthase beta chain)	RibE	Riboflavin/FAD biosynthesis		1C2Y
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_05765	COG0592	L	DNA polymerase III sliding clamp (beta) subunit, PCNA homolog	DnaN			1JQJ
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_05770	COG1388	M	LysM repeat	LysM			1E0G
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_05775	COG0596	HR	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold	MenH	Menaquinone biosynthesis		4MYS
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_05780	COG2222	M	Fructoselysine-6-P-deglycase FrlB or related protein, duplicated sugar isomerase (SIS) domain	AgaS		16153181	3C3J
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_05790	COG2609	C	Pyruvate dehydrogenase complex, dehydrogenase (E1) component	AceE	Pyruvate oxidation		1L8A
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_05795	COG0596	HR	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold	MenH	Menaquinone biosynthesis		4MYS
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_05800	COG1025	O	Secreted/periplasmic Zn-dependent peptidases, insulinase-like	Ptr			1Q2L
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_05805	COG0612	R	Predicted Zn-dependent peptidase, M16 family	PqqL			6OFS
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_05815	COG1853	C	FMN reductase RutF, DIM6/NTAB family	RutF	Pyrimidine degradation		1EJE
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_05820	COG1168	ER	Bifunctional PLP-dependent enzyme with beta-cystathionase and maltose regulon repressor activities	MalY			4DGT
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_05830	COG2807	P	Cyanate permease	CynX			
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_05835	COG0517	T	CBS domain	CBS			1B3O
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_05840	COG0143	J	Methionyl-tRNA synthetase	MetG	Aminoacyl-tRNA synthetases		1A8H
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_05855	COG0300	R	Short-chain dehydrogenase	YqjQ			
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_05865	COG2814	G	Predicted arabinose efflux permease AraJ, MFS family	AraJ			4LDS
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_05870	COG0451	M	Nucleoside-diphosphate-sugar epimerase	WcaG			2X4G
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_05875	COG1033	R	Predicted exporter protein, RND superfamily	MMPL			5KHN
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_05890	COG4615	P	ABC-type siderophore export system, fused ATPase and permease components	PvdE			
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_05895	COG4215	E	ABC-type arginine transport system, permease component	ArtQ			
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_05900	COG2011	E	ABC-type methionine transport system, permease component	MetP			6CVL
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_05905	COG0834	ET	ABC-type amino acid transport/signal transduction system, periplasmic component/domain	HisJ			1GGG
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_05915	COG1003	E	Glycine cleavage system protein P (pyridoxal-binding), C-terminal domain	GcvP2	Glycine cleavage		4LGL
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_05920	COG0509	E	Glycine cleavage system protein H (lipoate-binding)	GcvH	Glycine cleavage		1DXM
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_05930	COG0236	I	Acyl carrier protein	AcpP	Fatty acid biosynthesis		1ACP
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_05935	COG2030	I	Acyl-CoA dehydratase PaaZ	MaoC			5ZY8
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_05945	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_05950	COG0448	G	Glucose-1-phosphate adenylyltransferase (ADP-glucose pyrophosphorylase)	GlgC		27545622	5MNI
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_05955	COG1089	M	GDP-D-mannose dehydratase	Gmd			1DB3
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_05960	COG0436	E	Aspartate/methionine/tyrosine aminotransferase	AspB	Isoleucine, leucine, valine biosynthesis		2O0R
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_05970	COG1087	M	UDP-glucose 4-epimerase	GalE			1A9Y
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_05975	COG2120	G	N-acetylglucosaminyl deacetylase, LmbE family	LmbE			1Q74
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_05980	COG1043	M	Acyl-[acyl carrier protein]--UDP-N-acetylglucosamine O-acyltransferase	LpxA	Lipid A biosynthesis		1J2Z
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_05985	COG1670	JO	Protein N-acetyltransferase, RimJ/RimL family	RimL			1S7F
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_05990	COG0623	I	Enoyl-[acyl-carrier-protein] reductase FabI	FabI	Fatty acid biosynthesis		1C14
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_05995	COG0332	I	3-oxoacyl-[acyl-carrier-protein] synthase III	FabH	Fatty acid biosynthesis		1UB7
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_06005	COG1212	M	CMP-2-keto-3-deoxyoctulosonic acid synthetase	KdsB	Lipid A biosynthesis		1VH1
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_06010	COG2248	R	Predicted hydrolase, metallo-beta-lactamase superfamily				
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_06015	COG1819	G	UDP:flavonoid glycosyltransferase YjiC, YdhE family	YjiC		23974133	2ACV
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_06020	COG3980	M	Spore coat polysaccharide biosynthesis protein SpsG, predicted glycosyltransferase	SpsG			
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_06025	COG4638	PR	Phenylpropionate dioxygenase or related ring-hydroxylating dioxygenase, large terminal subunit	HcaE			4QDC
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_06030	COG4992	E	Acetylornithine/succinyldiaminopimelate/putrescine aminotransferase	ArgD	Arginine biosynthesis		2E54
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_06045	COG1199	L	Rad3-related DNA helicase DinG	DinG			5H8W
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_06060	COG0571	K	dsRNA-specific ribonuclease	Rnc			1DI2
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_06065	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_06080	COG4656	C	Na+-translocating ferredoxin:NAD+ oxidoreductase  RNF, RnfC subunit	RnfC	Na+-translocating Fd:NADH oxidoreductase		
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_06090	COG0063	F	NAD(P)H-hydrate repair enzyme Nnr, NAD(P)H-hydrate dehydratase domain	Nnr2			1KYH
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_06100	COG0190	H	5,10-methylene-tetrahydrofolate dehydrogenase/Methenyl tetrahydrofolate cyclohydrolase	FolD			1A4I
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_06105	COG1186	J	Protein chain release factor PrfB	PrfB	Translation factors		1GQE
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_06120	COG0558	I	Phosphatidylglycerophosphate synthase	PgsA	Phospholipid biosynthesis		4MND
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_06125	COG0130	J	tRNA U55 pseudouridine synthase TruB, may also work on U342 of tmRNA	TruB	tRNA modification		1K8W
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_06135	COG3640	O	CO dehydrogenase nickel-insertion accessory protein CooC1	CooC		15466042	
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_06150	COG0623	I	Enoyl-[acyl-carrier-protein] reductase FabI	FabI	Fatty acid biosynthesis		1C14
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_06155	COG2814	G	Predicted arabinose efflux permease AraJ, MFS family	AraJ			4LDS
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_06160	COG4166	E	ABC-type oligopeptide transport system, periplasmic component	OppA			1B05
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_06165	COG2159	G	5-carboxyvanillate decarboxylase LigW (lignin degradation), amidohydro domain	LigW		26714575	2DVT
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_06170	COG0778	C	Nitroreductase	NfnB	Pyrimidine degradation		1F5V
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_06185	COG1506	E	Dipeptidyl aminopeptidase/acylaminoacyl peptidase	DAP2			2JBW
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_06190	COG1804	I	Crotonobetainyl-CoA:carnitine CoA-transferase CaiB and related acyl-CoA transferases	CaiB			1P5H
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_06195	COG1280	E	Threonine/homoserine/homoserine lactone efflux protein	RhtB			
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_06200	COG0683	E	ABC-type branched-chain amino acid transport system, periplasmic component	LivK			1USG
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_06205	COG0559	E	Branched-chain amino acid ABC-type transport system, permease component	LivH			
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_06210	COG4177	E	ABC-type branched-chain amino acid transport system, permease component	LivM			
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_06215	COG1137	M	ABC-type lipopolysaccharide export system, ATPase component	LptB		12029038	5L75
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_06220	COG1169	HQ	Isochorismate synthase EntC	MenF	Menaquinone biosynthesis		5JXZ
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_06230	COG0128	E	5-enolpyruvylshikimate-3-phosphate synthase	AroA	Aromatic amino acid biosynthesis		4N3P
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_06235	COG0287	E	Prephenate dehydrogenase	TyrA	Aromatic amino acid biosynthesis		2F1K
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_06240	COG1994	O	Zn-dependent protease (includes sporulation protein SpoIVFB)	SpoIVFB			3B4R
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_06260	COG0177	L	Endonuclease III	Nth			4UOB
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_06265	COG0595	J	mRNA degradation ribonuclease J1/J2	RnjA			3T3N
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_06275	COG1143	C	Formate hydrogenlyase subunit 6/NADH:ubiquinone oxidoreductase 23 kD subunit (chain I)	NuoI	NADH dehydrogenase		1B0P
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_06280	COG0484	O	DnaJ-class molecular chaperone with C-terminal Zn finger domain	DnaJ			1BQ0
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_06295	COG0028	EH	Acetolactate synthase large subunit or other thiamine pyrophosphate-requiring enzyme	IlvB	Isoleucine, leucine, valine biosynthesis		1BFD
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_06300	COG0129	EG	Dihydroxyacid dehydratase/phosphogluconate dehydratase	IlvD	Isoleucine, leucine, valine biosynthesis		2GP4
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_06305	COG2855	S	Uncharacterized membrane protein YadS, UPF0324 family	YeiH			
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_06320	COG4774	P	Outer membrane receptor for monomeric catechols	Fiu			
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_06340	COG5333
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_06355	COG4783	MO	Outer membrane protein chaperone/metalloprotease BepA/YfgC, contains M48 and TPR domains	BepA		24003122	6AIT
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_06375	COG2218	C	Formylmethanofuran dehydrogenase subunit C	FwdC			5T5I
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_06380	COG0286	V	Type I restriction-modification system, DNA methylase subunit	HsdM		26872910	2AR0
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_06385	COG0732	V	Restriction endonuclease S subunit	HsdS			1YDX
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_06390	COG1033	R	Predicted exporter protein, RND superfamily	MMPL			5KHN
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_06405	COG0756	FV	dUTP pyrophosphatase (dUTPase)	Dut	Thymidylate biosynthesis		1DUC
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_06410	COG1778	MR	3-deoxy-D-manno-octulosonate 8-phosphate phosphatase KdsC and related HAD superfamily phosphatases	KdsC			3I6B
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_06425	COG0293	J	23S rRNA U2552 (ribose-2'-O)-methylase RlmE/FtsJ	RlmE	23S rRNA modification	10769117	1EIZ
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_06450	COG1205	L	ATP-dependent helicase YprA,  contains C-terminal metal-binding DUF1998 domain	YprA			
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_06455	COG3118	O	Chaperedoxin CnoX, contains thioredoxin-like and TPR-like domains, YbbN/TrxSC family	CnoX		21498507;29754824	3QDN
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_06485	COG1156	C	Archaeal/vacuolar-type H+-ATPase subunit B/Vma2	NtpB	A/V-type ATP synthase		3GQB
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_06490	COG1155	C	Archaeal/vacuolar-type H+-ATPase catalytic subunit A/Vma1	NtpA	A/V-type ATP synthase		3J9T
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_06495	COG1390	C	Archaeal/vacuolar-type H+-ATPase subunit E/Vma4	NtpE	A/V-type ATP synthase		2DM9
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_06505	COG0607	P	Rhodanese-related sulfurtransferase	PspE	Urea cycle		1TQ1
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_06515	COG1057	H	Nicotinate-nucleotide adenylyltransferase NadD	NadD	NAD biosynthesis		1YUM
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_06520	COG2263	R	Predicted RNA methylase				6H2U
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_06530	COG1190	J	Lysyl-tRNA synthetase (class II)	LysU	Aminoacyl-tRNA synthetases		1BBU
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_06535	COG0771	M	UDP-N-acetylmuramoylalanine-D-glutamate ligase	MurD	Mureine biosynthesis		1E0D
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_06545	COG4208	P	ABC-type sulfate transport system, permease component	CysW			
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_06550	COG0725	P	ABC-type molybdate transport system, periplasmic Mo-binding protein ModA	ModA	Molybdopterin biosynthesis		1AMF
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_06555	COG1399	J	23S rRNA accumulation protein YceD (essential in plants, uncharacterized in bacteria)	YceD		27574185	
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_06565	COG0331	I	Malonyl CoA-acyl carrier protein transacylase	FabD	Fatty acid biosynthesis		1YXC
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_06570	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_06585	COG2080	C	Aldehyde, CO, or xanthine dehydrogenase, Fe-S subunit, CoxS/CutS family	CutS	Non-phosphorylated Entner-Doudoroff pathway	21175741	1FFU
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_06590	COG1319	C	Aldehyde, CO, or xanthine dehydrogenase, FAD-binding subunit	CutB	Non-phosphorylated Entner-Doudoroff pathway		5Y6Q
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_06595	COG0596	HR	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold	MenH	Menaquinone biosynthesis		4MYS
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_06600	COG0332	I	3-oxoacyl-[acyl-carrier-protein] synthase III	FabH	Fatty acid biosynthesis		1UB7
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_06615	COG0320	H	Lipoate synthase	LipA	Lipoate biosynthesis	27941785	4U0O
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_06635	COG0164	L	Ribonuclease HII	RnhB			1EKE
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_06640	COG0465	O	ATP-dependent Zn proteases	HflB			1LV7
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_06650	COG0211	J	Ribosomal protein L27	RpmA	Ribosome 50S subunit		1VS6
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_06675	COG1612	H	Heme A synthase	CtaA			6A2J
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_06685	COG0607	P	Rhodanese-related sulfurtransferase	PspE	Urea cycle		1TQ1
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_06695	COG0842	V	ABC-type multidrug transport system, permease component	YadH			
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_06700	COG1101	R	ABC-type uncharacterized transport system, ATPase component	PhnK			
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_06705	COG0477	GEPR	MFS family permease, includes anhydromuropeptide permease AmpG	ProP		12426329	
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_06730	COG2271	G	Sugar phosphate permease	UhpC			1PW4
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_06735	COG4559	P	ABC-type hemin transport system, ATPase component				4G1U
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_06740	COG0411	E	ABC-type branched-chain amino acid transport system, ATPase component LivG	LivG		29514851	1G9X
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_06745	COG1124	EP	ABC-type dipeptide/oligopeptide/nickel transport system, ATPase component	DppF			
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_06750	COG1092	J	23S rRNA G2069 N7-methylase RlmK or C1962 C5-methylase RlmI	RlmK	23S rRNA modification		2B78
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_06760	COG0456	J	Ribosomal protein S18 acetylase RimI and related acetyltransferases	RimI			1GHE
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_06775	COG0856	F	Orotate phosphoribosyltransferase homolog	PyrE2			
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_06785	COG0819	H	Aminopyrimidine aminohydrolase TenA (thiamine salvage pathway)	TenA		17618314	2QCX
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_06800	COG1484	L	DNA replication protein DnaC	DnaC			2QGZ
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_06810	COG0744	M	Penicillin-binding protein 1B/1F, peptidoglycan  transglycosylase/transpeptidase	MrcB			3FWL
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_06815	COG0744	M	Penicillin-binding protein 1B/1F, peptidoglycan  transglycosylase/transpeptidase	MrcB			3FWL
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_06820	COG1143	C	Formate hydrogenlyase subunit 6/NADH:ubiquinone oxidoreductase 23 kD subunit (chain I)	NuoI	NADH dehydrogenase		1B0P
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_06830	COG0075	EF	Archaeal aspartate aminotransferase or a related aminotransferase, includes purine catabolism protein PucG	PucG	Serine biosynthesis		3NNK
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_06840	COG2453	T	Protein-tyrosine phosphatase	CDC14			1D5R
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_06870	COG1594	K	DNA-directed RNA polymerase, subunit M/Transcription elongation factor TFIIS	RPB9	RNA polymerase		5FJ8
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_06880	COG0528	F	Uridylate kinase	PyrH	Pyrimidine biosynthesis		2BND
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_06890	COG3593	L	Predicted ATP-dependent endonuclease of the OLD family, contains P-loop ATPase and TOPRIM domains	YbjD			
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_06895	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_06900	COG1409	T	3',5'-cyclic AMP phosphodiesterase CpdA	CpdA			2ZO9
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_06915	COG0500	QR	SAM-dependent methyltransferase	SmtA			5DNK
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_06920	COG2716	E	Glycine cleavage system regulator GcvR	GcvR			1U8S
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_06930	COG0713	C	NADH:ubiquinone oxidoreductase subunit 11 or 4L (chain K)	NuoK	NADH dehydrogenase		4HE8
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_06940	COG1145	C	Ferredoxin	NapF			6FAH
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_06955	COG3262	C	Ni,Fe-hydrogenase III component G	HycE1			
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_06960	COG1941	C	Coenzyme F420-reducing hydrogenase, gamma subunit	FrhG			5ODC
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_06970	COG2077	O	Peroxiredoxin	Tpx			4AF2
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_06975	COG1038	C	Pyruvate carboxylase	PycA	Urea cycle		5VYW
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_06980	COG0301	HJ	Adenylyl- and sulfurtransferase ThiI (thiamine and tRNA 4-thiouridine biosynthesis)	ThiI	Thiamine biosynthesis	22773787	1VBK
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_06990	COG0595	J	mRNA degradation ribonuclease J1/J2	RnjA			3T3N
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_06995	COG3484	O	Predicted proteasome-type protease				
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_07000	COG1454	C	Alcohol dehydrogenase, class IV	EutG			6AHC
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_07005	COG1047	O	Peptidyl-prolyl cis-trans isomerase, FKBP type	SlpA			2M2A
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_07015	COG1099	R	Predicted metal-dependent hydrolase, TIM-barrel fold				3GUW
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_07055	COG0495	J	Leucyl-tRNA synthetase	LeuS	Aminoacyl-tRNA synthetases		6LPF
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_07060	COG0342	U	Preprotein translocase subunit SecD	SecD		26100040	3AQP
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_07085	COG0411	E	ABC-type branched-chain amino acid transport system, ATPase component LivG	LivG		29514851	1G9X
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_07110	COG2094	L	3-methyladenine DNA glycosylase Mpg	Mpg			1BNK
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_07120	COG0312	R	Zn-dependent protease PmbA/TldA or its inactivated homolog	TldD		12029038	3TV9
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_07125	COG1804	I	Crotonobetainyl-CoA:carnitine CoA-transferase CaiB and related acyl-CoA transferases	CaiB			1P5H
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_07130	COG1804	I	Crotonobetainyl-CoA:carnitine CoA-transferase CaiB and related acyl-CoA transferases	CaiB			1P5H
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_07135	COG2271	G	Sugar phosphate permease	UhpC			1PW4
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_07140	COG0694	O	Fe-S cluster biogenesis protein NfuA, 4Fe-4S-binding domain	NifU			2Z51
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_07145	COG1032	R	Radical SAM superfamily enzyme YgiQ, UPF0313 family	YgiQ			6FD2
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_07150	COG0439	I	Biotin carboxylase	AccC	Fatty acid biosynthesis		1BNC
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_07180	COG0089	J	Ribosomal protein L23	RplW	Ribosome 50S subunit		1VS6
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_07185	COG0090	J	Ribosomal protein L2	RplB	Ribosome 50S subunit		1VS6
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_07190	COG0185	J	Ribosomal protein S19	RpsS	Ribosome 30S subunit		4V4H
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_07200	COG0092	J	Ribosomal protein S3	RpsC	Ribosome 30S subunit		1VS6
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_07205	COG0197	J	Ribosomal protein L16/L10AE	RplP	Ribosome 50S subunit		1WKI
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_07210	COG0255	J	Ribosomal protein L29	RpmC	Ribosome 50S subunit		1VS6
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_07220	COG0093	J	Ribosomal protein L14	RplN	Ribosome 50S subunit		4V4H
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_07225	COG0198	J	Ribosomal protein L24	RplX	Ribosome 50S subunit		1VS6
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_07230	COG0094	J	Ribosomal protein L5	RplE	Ribosome 50S subunit		1VS6
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_07235	COG0199	J	Ribosomal protein S14	RpsN	Ribosome 30S subunit		4V4H
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_07240	COG0096	J	Ribosomal protein S8	RpsH	Ribosome 30S subunit		4V4H
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_07250	COG1252	C	NADH dehydrogenase, FAD-containing subunit	Ndh			5NA4
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_07255	COG1038	C	Pyruvate carboxylase	PycA	Urea cycle		5VYW
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_07260	COG0021	G	Transketolase	TktA	Pentose phosphate pathway		1AY0
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_07270	COG2153	R	Predicted N-acyltransferase, GNAT family	ElaA			1XEB
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_07275	COG0143	J	Methionyl-tRNA synthetase	MetG	Aminoacyl-tRNA synthetases		1A8H
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_07285	COG4088	JV	tRNA uridine 5-carbamoylmethylation protein Kti12 (Killer toxin insensitivity protein)	Kti12			3A4L
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_07290	COG1032	R	Radical SAM superfamily enzyme YgiQ, UPF0313 family	YgiQ			6FD2
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_07295	COG1279	E	Arginine exporter protein ArgO	ArgO			
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_07300	COG0518	F	GMP synthase, glutamine amidotransferase domain	GuaA1	Purine biosynthesis		4WIM
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_07310	COG2872	J	Ser-tRNA(Ala) deacylase AlaX (editing enzyme)	AlaX			2E1B
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_07325	COG0373	H	Glutamyl-tRNA reductase	HemA	Heme biosynthesis		2XOE
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_07340	COG0703	E	Shikimate kinase	AroK	Aromatic amino acid biosynthesis		1E6C
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_07355	COG1941	C	Coenzyme F420-reducing hydrogenase, gamma subunit	FrhG			5ODC
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_07360	COG1104	E	Cysteine desulfurase/Cysteine sulfinate desulfinase IscS or related enzyme, NifS family	NifS		22773787;25825430	4IXO
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_07365	COG0136	E	Aspartate-semialdehyde dehydrogenase	Asd	Lysine biosynthesis		1BRM
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_07395	COG1038	C	Pyruvate carboxylase	PycA	Urea cycle		5VYW
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_07400	COG0290	J	Translation initiation factor IF-3	InfC	Translation factors		2IFE
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_07410	COG0292	J	Ribosomal protein L20	RplT	Ribosome 50S subunit	30270044	1VS6
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_07420	COG0073	J	tRNA-binding EMAP/Myf domain	EMAP			1MKH
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_07425	COG0016	J	Phenylalanyl-tRNA synthetase alpha subunit	PheS	Aminoacyl-tRNA synthetases		3L4G
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_07430	COG0303	H	Molybdopterin Mo-transferase (molybdopterin biosynthesis)	MoeA	Molybdopterin biosynthesis	18801996;32239579	2NQU
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_07435	COG0059	EH	Ketol-acid reductoisomerase	IlvC	Isoleucine, leucine, valine biosynthesis		1NP3
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_07440	COG0119	E	Isopropylmalate/homocitrate/citramalate synthases	LeuA	Isoleucine, leucine, valine biosynthesis		4JN6
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_07445	COG1049	C	Aconitase B	AcnB	TCA cycle		1L5J
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_07450	COG1048	C	Aconitase A	AcnA	Lysine biosynthesisTCA cycle		1ACO
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_07455	COG3173	R	Predicted  kinase, aminoglycoside phosphotransferase (APT) family	YcbJ			
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_07460	COG0473	CE	Isocitrate/isopropylmalate dehydrogenase	LeuB	TCA cycle		1GC9
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_07465	COG0119	E	Isopropylmalate/homocitrate/citramalate synthases	LeuA	Isoleucine, leucine, valine biosynthesis		4JN6
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_07470	COG1405	K	Transcription initiation factor TFIIIB, Brf1 subunit/Transcription initiation factor TFIIB	SUA7			1DL6
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_07480	COG0240	C	Glycerol-3-phosphate dehydrogenase	GpsA	Isoprenoid biosynthesis		1EVY
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_07485	COG4071	R	Gamma-glutamyl ligase family protein MJ1361			17669425;12911320	2PHN
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_07495	COG1466	L	DNA polymerase III, delta subunit	HolA			3ZH9
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_07500	COG0236	I	Acyl carrier protein	AcpP	Fatty acid biosynthesis		1ACP
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_07510	COG0805	U	Twin-arginine protein secretion pathway component TatC	TatC			4B4A
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_07520	COG0491	R	Glyoxylase or a related metal-dependent hydrolase, beta-lactamase superfamily II	GloB		25670698	1QH3
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_07525	COG1674	D	DNA segregation ATPase FtsK/SpoIIIE or related protein	FtsK			2IUT
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_07535	COG1385	J	16S rRNA U1498 N3-methylase RsmE	RsmE	16S rRNA modification		1NXZ
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_07540	COG4942	D	Septal ring factor EnvC, activator of murein hydrolases AmiA and AmiB	EnvC			
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_07545	COG0613	F	5'-3' exoribonuclease TrpH/YciV (RNase AM), contains PHP domain	YciV		25871919	3E0F
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_07550	COG0528	F	Uridylate kinase	PyrH	Pyrimidine biosynthesis		2BND
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_07555	COG1577	I	Mevalonate kinase	ERG12	Isoprenoid biosynthesis		
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_07560	COG0529	P	Adenylylsulfate kinase or related kinase	CysC	Cysteine biosynthesis		2GKS
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_07565	COG0630	NU	Type IV secretory pathway ATPase VirB11/Archaellum biosynthesis ATPase ArlI/FlaI	VirB11		32416640	1G6O
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_07575	COG2070	R	NAD(P)H-dependent flavin oxidoreductase YrpB, nitropropane dioxygenase family	YrpB			
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_07580	COG0402	FR	Cytosine/adenosine deaminase or related metal-dependent hydrolase	SsnA	Pyrimidine salvage		3O7U
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_07585	COG0540	F	Aspartate carbamoyltransferase, catalytic subunit	PyrB	Pyrimidine biosynthesis		1NBE
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_07590	COG1938	R	Predicted ATP-dependent carboligase, ATP-grasp superfamily				3GAA
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_07595	COG1062	C	Zn-dependent alcohol/formaldehyde dehydrogenase	FrmA			1A71
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_07600	COG0400	R	Predicted esterase	YpfH			
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_07615	COG0322	L	Excinuclease UvrABC, nuclease subunit	UvrC		24513124	2NRT
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_07620	COG0345	E	Pyrroline-5-carboxylate reductase	ProC	Proline biosynthesis	22125496;26507882	3GT0
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_07625	COG1190	J	Lysyl-tRNA synthetase (class II)	LysU	Aminoacyl-tRNA synthetases		1BBU
+Dehalococcoidaceae_bacterium_RS451	GCA_002727935.1	BLAJPD_07630	COG2222	M	Fructoselysine-6-P-deglycase FrlB or related protein, duplicated sugar isomerase (SIS) domain	AgaS		16153181	3C3J
