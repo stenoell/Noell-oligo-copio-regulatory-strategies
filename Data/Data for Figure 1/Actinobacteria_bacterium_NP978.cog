@@ -1,0 +1,649 @@
+#prefix	assemid	query	COG	category	name	Gene	pathway	pmid	pdb_id
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_00005	COG3180	R	Uncharacterized membrane protein AbrB, regulator of aidB expression	AbrB			
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_00015	COG0730	P	Sulfite exporter TauE/SafE/YfcA and related permeases, UPF0721 family	TauE		21183667;22797525	
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_00020	COG0028	EH	Acetolactate synthase large subunit or other thiamine pyrophosphate-requiring enzyme	IlvB	Isoleucine, leucine, valine biosynthesis		1BFD
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_00025	COG1917	R	Cupin domain protein related to quercetin dioxygenase	QdoI			2H0V
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_00035	COG4959	OU	Type IV secretory pathway, protease TraF	TraF			1B12
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_00040	COG3349	R	Uncharacterized protein, contains NAD-binding domain and a Fe-S cluster				5MOG
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_00045	COG1562	I	Phytoene/squalene synthetase	ERG9			3WEK
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_00055	COG0142	H	Geranylgeranyl pyrophosphate synthase	IspA	Isoprenoid biosynthesis		2AZJ
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_00060	COG0542	O	ATP-dependent Clp protease, ATP-binding subunit ClpA	ClpA			1KSF
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_00065	COG0746	H	Molybdopterin-guanine dinucleotide biosynthesis protein A	MobA	Molybdopterin biosynthesis	32239579	1E5K
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_00070	COG0215	J	Cysteinyl-tRNA synthetase	CysS	Aminoacyl-tRNA synthetases		1LI5
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_00080	COG0391	GH	Archaeal 2-phospho-L-lactate transferase/Bacterial gluconeogenesis factor, CofD/UPF0052 family	CofD		11888293;18252724	1ZX8
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_00085	COG0064	J	Asp-tRNAAsn/Glu-tRNAGln amidotransferase B subunit	GatB	Aminoacyl-tRNA synthetases		3H0M
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_00090	COG0719	O	Fe-S cluster assembly scaffold protein SufB	SufB			1VH4
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_00095	COG0444	EP	ABC-type dipeptide/oligopeptide/nickel transport system, ATPase component	DppD			4FWI
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_00100	COG0719	O	Fe-S cluster assembly scaffold protein SufB	SufB			1VH4
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_00105	COG3844	E	Kynureninase	Bna5			
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_00115	COG2301	G	Citrate lyase beta subunit	CitE			4ROQ
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_00130	COG0484	O	DnaJ-class molecular chaperone with C-terminal Zn finger domain	DnaJ			1BQ0
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_00135	COG2263	R	Predicted RNA methylase				6H2U
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_00140	COG1385	J	16S rRNA U1498 N3-methylase RsmE	RsmE	16S rRNA modification		1NXZ
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_00145	COG1893	H	Ketopantoate reductase	PanE	Pantothenate/CoA biosynthesis		1BG6
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_00150	COG0344	I	Phospholipid biosynthesis protein PlsY, probable glycerol-3-phosphate acyltransferase	PlsY		29684280	5XJ5
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_00155	COG1159	J	GTPase Era, involved in 16S rRNA processing	Era			1EGA
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_00160	COG0078	E	Ornithine carbamoyltransferase	ArgF	Arginine biosynthesis		1A1S
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_00175	COG0154	J	Asp-tRNAAsn/Glu-tRNAGln amidotransferase A subunit or related amidase	GatA	Aminoacyl-tRNA synthetases		3H0L
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_00180	COG0495	J	Leucyl-tRNA synthetase	LeuS	Aminoacyl-tRNA synthetases		6LPF
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_00190	COG1529	C	Aldehyde, CO or xanthine dehydrogenase, Mo-binding subunit	CoxL	Non-phosphorylated Entner-Doudoroff pathway	10095793	1DGJ
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_00195	COG3383	R	Predicted molibdopterin-dependent oxidoreductase YjgC	YjgC			1AA6
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_00200	COG1319	C	Aldehyde, CO, or xanthine dehydrogenase, FAD-binding subunit	CutB	Non-phosphorylated Entner-Doudoroff pathway		5Y6Q
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_00215	COG4105	M	Outer membrane protein assembly factor BamD, BamD/ComL family	BamD			2YHC
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_00225	COG1979	C	Alcohol dehydrogenase YqhD, Fe-dependent ADH family	YqdH			1OJ7
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_00230	COG1213	I	Choline kinase				4MND
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_00240	COG0028	EH	Acetolactate synthase large subunit or other thiamine pyrophosphate-requiring enzyme	IlvB	Isoleucine, leucine, valine biosynthesis		1BFD
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_00245	COG0615	M	Glycerol-3-phosphate cytidylyltransferase, cytidylyltransferase family	TagD	Riboflavin/FAD biosynthesis		2B7L
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_00255	COG2227	H	2-polyprenyl-3-methyl-5-hydroxy-6-metoxy-1,4-benzoquinol methylase	UbiG	Ubiquinone biosynthesis		1BHJ
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_00275	COG1902	C	2,4-dienoyl-CoA reductase or related NADH-dependent reductase, Old Yellow Enzyme (OYE) family	FadH			1BWK
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_00285	COG0863	L	DNA modification methylase	YhdJ			1BOO
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_00295	COG0154	J	Asp-tRNAAsn/Glu-tRNAGln amidotransferase A subunit or related amidase	GatA	Aminoacyl-tRNA synthetases		3H0L
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_00305	COG0641	O	Sulfatase maturation enzyme AslB, radical SAM superfamily	AslB			4K37
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_00315	COG1232	H	Protoporphyrinogen oxidase HemY/PPOX	HemY	Heme biosynthesis		3LOV
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_00365	COG4774	P	Outer membrane receptor for monomeric catechols	Fiu			
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_00370	COG3201	H	Nicotinamide riboside transporter PnuC	PnuC			4QTN
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_00375	COG0510	H	Thiamine kinase or a related kinase	CotS			3DXQ
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_00385	COG3871	S	General stress protein 26 (function unknown)	YzzA			2I02
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_00400	COG0044	F	Dihydroorotase or related cyclic amidohydrolase	AllB	Pyrimidine biosynthesis		1J79
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_00410	COG4591	M	ABC-type transport system involved in lipoprotein release, permease component LolC	LolE			6F49
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_00415	COG4591	M	ABC-type transport system involved in lipoprotein release, permease component LolC	LolE			6F49
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_00420	COG4591	M	ABC-type transport system involved in lipoprotein release, permease component LolC	LolE			6F49
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_00425	COG0517	T	CBS domain	CBS			1B3O
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_00435	COG0184	J	Ribosomal protein S15P/S13E	RpsO	Ribosome 30S subunit		4V4H
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_00440	COG1185	J	Polyribonucleotide nucleotidyltransferase (polynucleotide phosphorylase)	Pnp			1E3P
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_00450	COG0002	E	N-acetyl-gamma-glutamylphosphate reductase	ArgC	Arginine biosynthesis		3DR3
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_00455	COG0329	EM	4-hydroxy-tetrahydrodipicolinate synthase/N-acetylneuraminate lyase	DapA	Lysine biosynthesis	27574185	2R91
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_00460	COG0104	F	Adenylosuccinate synthase	PurA	Purine biosynthesis		1ADE
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_00470	COG1259	R	Bifunctional DNase/RNase			20018603	1SJ5
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_00475	COG0284	F	Orotidine-5'-phosphate decarboxylase	PyrF	Pyrimidine biosynthesis		1DBT
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_00480	COG1178	P	ABC-type Fe3+ transport system, permease component	FbpB			
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_00490	COG0500	QR	SAM-dependent methyltransferase	SmtA			5DNK
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_00495	COG0439	I	Biotin carboxylase	AccC	Fatty acid biosynthesis		1BNC
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_00500	COG0518	F	GMP synthase, glutamine amidotransferase domain	GuaA1	Purine biosynthesis		4WIM
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_00505	COG0418	F	Dihydroorotase	PyrC	Pyrimidine biosynthesis		2Y3D
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_00515	COG0579	G	L-2-hydroxyglutarate oxidase LhgO	LhgO			3DME
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_00520	COG0281	C	Malic enzyme	SfcA	Urea cycle		1DO8
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_00525	COG1018	C	Flavodoxin/ferredoxin--NADP reductase	Fpr			3OZU
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_00530	COG1023	G	6-phosphogluconate dehydrogenase (decarboxylating)	YqeC			4E21
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_00550	COG0086	K	DNA-directed RNA polymerase, beta' subunit/160 kD subunit	RpoC	RNA polymerase		1NT9
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_00560	COG0442	J	Prolyl-tRNA synthetase	ProS	Aminoacyl-tRNA synthetases		5XIF
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_00565	COG0372	C	Citrate synthase	GltA	TCA cycle	25211225	3TQG
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_00575	COG3605	T	Signal transduction protein containing GAF and PtsI domains	PtsP			
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_00580	COG0800	G	2-keto-3-deoxy-6-phosphogluconate aldolase	Eda	Entner-Doudoroff pathway		2V81
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_00585	COG1105	G	1-phosphofructokinase or 6-phosphofructokinase II	FruK			2ABQ
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_00590	COG0673	R	Predicted dehydrogenase	MviM			3UUW
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_00600	COG0491	R	Glyoxylase or a related metal-dependent hydrolase, beta-lactamase superfamily II	GloB		25670698	1QH3
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_00605	COG1032	R	Radical SAM superfamily enzyme YgiQ, UPF0313 family	YgiQ			6FD2
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_00610	COG0304	IQ	3-oxoacyl-(acyl-carrier-protein) synthase	FabB	Fatty acid biosynthesis	21652641	2UV8
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_00620	COG0582	LX	Integrase/recombinase, includes phage integrase	FimB			
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_00625	COG1102	F	Cytidylate kinase	CmkB			
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_00635	COG0322	L	Excinuclease UvrABC, nuclease subunit	UvrC		24513124	2NRT
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_00650	COG0592	L	DNA polymerase III sliding clamp (beta) subunit, PCNA homolog	DnaN			1JQJ
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_00655	COG0041	F	Phosphoribosylcarboxyaminoimidazole (NCAIR) mutase	PurE	Purine biosynthesis		1D7A
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_00675	COG0130	J	tRNA U55 pseudouridine synthase TruB, may also work on U342 of tmRNA	TruB	tRNA modification		1K8W
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_00680	COG0858	J	Ribosome-binding factor RbfA	RbfA			1JOS
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_00685	COG3276	J	Selenocysteine-specific translation elongation factor SelB	SelB	Translation factors		4ZU9
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_00695	COG0441	J	Threonyl-tRNA synthetase	ThrS	Aminoacyl-tRNA synthetases		1NYQ
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_00700	COG0821	I	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase IspG/GcpE	IspG	Isoprenoid biosynthesis		2Y0F
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_00705	COG0265	O	Periplasmic serine protease, S1-C subfamily, contain C-terminal PDZ domain	DegQ		29686141	2HGA
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_00715	COG1168	ER	Bifunctional PLP-dependent enzyme with beta-cystathionase and maltose regulon repressor activities	MalY			4DGT
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_00720	COG1159	J	GTPase Era, involved in 16S rRNA processing	Era			1EGA
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_00725	COG0265	O	Periplasmic serine protease, S1-C subfamily, contain C-terminal PDZ domain	DegQ		29686141	2HGA
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_00740	COG0705	O	Membrane-associated serine protease, rhomboid family	GlpG			2IC8
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_00745	COG1427	H	Chorismate dehydratase (menaquinone biosynthesis, futalosine pathway)	MqnA	Menaquinone biosynthesis		2I6E
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_00750	COG1060	H	2-iminoacetate synthase ThiH/Menaquinone biosynthesis enzymes MqnC and MqnE	ThiH	Thiamine biosynthesis	18801996	4WCX
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_00760	COG0502	H	Biotin synthase or related enzyme	BioB	Biotin biosynthesis		1R30
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_00765	COG0043	H	3-polyprenyl-4-hydroxybenzoate decarboxylase	UbiD	Ubiquinone biosynthesis	28057757	2IDB
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_00775	COG0109	HI	Polyprenyltransferase (heme O synthase)	CyoE			
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_00780	COG2814	G	Predicted arabinose efflux permease AraJ, MFS family	AraJ			4LDS
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_00785	COG2070	R	NAD(P)H-dependent flavin oxidoreductase YrpB, nitropropane dioxygenase family	YrpB			
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_00790	COG1977	H	Molybdopterin synthase sulfur carrier subunit MoaD	MoaD	Molybdopterin biosynthesis	32239579	1FM0
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_00795	COG0371	C	Glycerol dehydrogenase or related enzyme, iron-containing ADH family	GldA	Isoprenoid biosynthesis	20688982	3S99
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_00810	COG0373	H	Glutamyl-tRNA reductase	HemA	Heme biosynthesis		2XOE
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_00820	COG2872	J	Ser-tRNA(Ala) deacylase AlaX (editing enzyme)	AlaX			2E1B
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_00825	COG0031	E	Cysteine synthase	CysK	Cysteine biosynthesis		1FCJ
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_00835	COG2070	R	NAD(P)H-dependent flavin oxidoreductase YrpB, nitropropane dioxygenase family	YrpB			
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_00850	COG1082	G	Sugar phosphate isomerase/epimerase	YcjR		30742415	3KTC
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_00855	COG4597	E	ABC-type amino acid transport system, permease component	BatB			
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_00865	COG1135	E	ABC-type methionine transport system, ATPase component	AbcC			6CVL
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_00880	COG2942	G	Mannose or cellobiose epimerase, N-acyl-D-glucosamine 2-epimerase family	YihS			2ZBL
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_00885	COG4912	L	3-methyladenine DNA glycosylase AlkD	AlkD			3JX7
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_00900	COG0695	O	Glutaredoxin	GrxC			1AAZ
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_00910	COG2153	R	Predicted N-acyltransferase, GNAT family	ElaA			1XEB
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_00915	COG0692	L	Uracil-DNA glycosylase	Ung		16237021	1AKZ
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_00920	COG0564	J	Pseudouridine synthase RluA, 23S rRNA- or tRNA-specific	RluA	23S rRNA modification		2I82
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_00925	COG0125	F	Thymidylate kinase	Tmk	Thymidylate biosynthesis		3LV8
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_00930	COG4178	R	ABC-type uncharacterized transport system, permease and ATPase components	YddA			6JBJ
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_00935	COG0118	E	Imidazoleglycerol phosphate synthase glutamine amidotransferase subunit HisH	HisH	Histidine biosynthesis		1OX4
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_00940	COG0214	H	Pyridoxal 5'-phosphate synthase subunit PdxS	PdxS	Pyridoxal phosphate biosynthesis		2NV2
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_00945	COG0057	G	Glyceraldehyde-3-phosphate dehydrogenase/erythrose-4-phosphate dehydrogenase	GapA	Glycolysis		3ZDF
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_00950	COG0148	G	Enolase	Eno	Glycolysis		1E9I
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_00955	COG2123	U	Exosome complex RNA-binding protein Rrp42, RNase PH superfamily	Rrp42		23319881	4IFD
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_00960	COG0240	C	Glycerol-3-phosphate dehydrogenase	GpsA	Isoprenoid biosynthesis		1EVY
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_00980	COG0508	C	Pyruvate/2-oxoglutarate dehydrogenase complex, dihydrolipoamide acyltransferase (E2) component	AceF	Pyruvate oxidation		1B5S
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_00985	COG1154	HI	Deoxyxylulose-5-phosphate synthase	Dxs	Pyridoxal phosphate biosynthesis		2O1S
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_00990	COG1071	C	TPP-dependent pyruvate or acetoin dehydrogenase subunit alpha	AcoA	Pyruvate oxidation		1DTW
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_00995	COG0190	H	5,10-methylene-tetrahydrofolate dehydrogenase/Methenyl tetrahydrofolate cyclohydrolase	FolD			1A4I
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_01005	COG0062	F	NAD(P)H-hydrate repair enzyme Nnr, NAD(P)H-hydrate epimerase domain	Nnr1			3RRB
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_01010	COG1521	H	Pantothenate kinase type III	CoaX			2F9T
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_01015	COG1036	C	Archaeal flavoprotein	AfpA			3WIS
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_01025	COG0143	J	Methionyl-tRNA synthetase	MetG	Aminoacyl-tRNA synthetases		1A8H
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_01035	COG3318	S	Uncharacterized conserved protein YecA, UPF0149 family, contains C-terminal Zn-binding SEC-C motif	YecA			
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_01040	COG0290	J	Translation initiation factor IF-3	InfC	Translation factors		2IFE
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_01055	COG0382	H	4-hydroxybenzoate polyprenyltransferase	UbiA	Ubiquinone biosynthesis	28830929	4OD4
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_01060	COG1612	H	Heme A synthase	CtaA			6A2J
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_01070	COG0533	J	tRNA A37 threonylcarbamoyltransferase TsaD	TsaD	tRNA modification	23072323;21285948;32385138	3ENO
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_01080	COG2301	G	Citrate lyase beta subunit	CitE			4ROQ
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_01085	COG2104	H	Sulfur carrier protein ThiS (thiamine biosynthesis)	ThiS	Thiamine biosynthesis		1F0Z
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_01095	COG0269	G	3-keto-L-gulonate-6-phosphate decarboxylase	UlaD			3F4W
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_01100	COG0560	E	Phosphoserine phosphatase	SerB	Serine biosynthesis		3N28
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_01105	COG0825	I	Acetyl-CoA carboxylase alpha subunit	AccA	Fatty acid biosynthesis		2F9I
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_01110	COG1674	D	DNA segregation ATPase FtsK/SpoIIIE or related protein	FtsK			2IUT
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_01115	COG0236	I	Acyl carrier protein	AcpP	Fatty acid biosynthesis		1ACP
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_01125	COG0331	I	Malonyl CoA-acyl carrier protein transacylase	FabD	Fatty acid biosynthesis		1YXC
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_01130	COG0333	J	Ribosomal protein L32	RpmF	Ribosome 50S subunit	17114934	1VS6
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_01145	COG2256	L	Replication-associated recombination protein RarA (DNA-dependent ATPase)	RarA			3PVS
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_01150	COG4175	E	ABC-type proline/glycine betaine transport system, ATPase component	ProV			
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_01155	COG1135	E	ABC-type methionine transport system, ATPase component	AbcC			6CVL
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_01160	COG1146	F	NAD-dependent dihydropyrimidine dehydrogenase, PreA subunit	PreA			
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_01165	COG0316	O	Fe-S cluster assembly iron-binding protein IscA	IscA			1R94
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_01170	COG1349	KG	DNA-binding transcriptional regulator of sugar metabolism, DeoR/GlpR family	GlpR			
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_01175	COG1268	H	Biotin transporter BioY	BioY			4DVE
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_01180	COG0173	J	Aspartyl-tRNA synthetase	AspS	Aminoacyl-tRNA synthetases		1C0A
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_01190	COG0616	O	Periplasmic serine protease, ClpP class	SppA			3BEZ
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_01195	COG0223	J	Methionyl-tRNA formyltransferase	Fmt			1FMT
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_01200	COG1722	L	Exonuclease VII small subunit	XseB			1VP7
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_01205	COG1570	L	Exonuclease VII, large subunit	XseA			
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_01210	COG0231	J	Translation elongation factor P (EF-P)/translation initiation factor 5A (eIF-5A)	Efp	Translation factors		1UEB
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_01215	COG0024	J	Methionine aminopeptidase	Map			3J2I
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_01225	COG0582	LX	Integrase/recombinase, includes phage integrase	FimB			
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_01230	COG0092	J	Ribosomal protein S3	RpsC	Ribosome 30S subunit		1VS6
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_01240	COG0185	J	Ribosomal protein S19	RpsS	Ribosome 30S subunit		4V4H
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_01245	COG0090	J	Ribosomal protein L2	RplB	Ribosome 50S subunit		1VS6
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_01250	COG0089	J	Ribosomal protein L23	RplW	Ribosome 50S subunit		1VS6
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_01260	COG0087	J	Ribosomal protein L3	RplC	Ribosome 50S subunit		1VS6
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_01265	COG0051	J	Ribosomal protein S10	RpsJ	Ribosome 30S subunit		4V4H
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_01270	COG0480	J	Translation elongation factor EF-G, a GTPase	FusA	Translation factors		1DAR
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_01275	COG0049	J	Ribosomal protein S7	RpsG	Ribosome 30S subunit		4V4H
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_01280	COG0048	J	Ribosomal protein S12	RpsL	Ribosome 30S subunit		4V4H
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_01285	COG3710	K	DNA-binding winged helix-turn-helix (wHTH) domain	CadC1			
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_01290	COG3968	E	Glutamine synthetase type III	GlnA3			
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_01295	COG0069	E	Glutamate synthase domain 2	GltB2	Glutamine biosynthesis		1EA0
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_01300	COG1249	C	Dihydrolipoamide dehydrogenase (E3) component of pyruvate/2-oxoglutarate dehydrogenase complex or glutathione oxidoreductase	Lpd	Glycine cleavagePyruvate oxidation		6QKG
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_01305	COG1606	R	ATP-utilizing enzyme, PP-loop superfamily				6B2O
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_01310	COG0793	O	C-terminal processing protease CtpA/Prc, contains a PDZ domain	CtpA			6IQU
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_01315	COG4544	S	Uncharacterized conserved protein				
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_01320	COG2524	K	Predicted transcriptional regulator, contains C-terminal CBS domains				
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_01325	COG0175	EH	3'-phosphoadenosine 5'-phosphosulfate sulfotransferase (PAPS reductase)/FAD synthetase or related enzyme	CysD	Cysteine biosynthesis		1ZUN
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_01330	COG1488	H	Nicotinic acid phosphoribosyltransferase	PncB	NAD biosynthesis		1VLP
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_01335	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_01340	COG0138	F	AICAR transformylase/IMP cyclohydrolase PurH	PurH	Purine biosynthesis		1G8M
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_01345	COG0309	O	Carbamoyl dehydratase HypE (hydrogenase maturation factor)	HypE		28618091	2I6R
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_01350	COG0367	E	Asparagine synthetase B (glutamine-hydrolyzing)	AsnB	Asparagine biosynthesis	25951518	2ETD
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_01355	COG1092	J	23S rRNA G2069 N7-methylase RlmK or C1962 C5-methylase RlmI	RlmK	23S rRNA modification		2B78
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_01360	COG0524	G	Sugar or nucleoside kinase, ribokinase family	RbsK	Glycolysis		2QCV
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_01365	COG1847	R	Predicted RNA-binding protein Jag (SpoIIIJ-associated), conains KH and R3H domains	Jag			3GKU
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_01385	COG0230	J	Ribosomal protein L34	RpmH	Ribosome 50S subunit		6SPB
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_01400	COG1063	ER	Threonine dehydrogenase or related Zn-dependent dehydrogenase	Tdh	Non-phosphorylated Entner-Doudoroff pathway		4A2C
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_01405	COG1562	I	Phytoene/squalene synthetase	ERG9			3WEK
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_01410	COG0596	HR	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold	MenH	Menaquinone biosynthesis		4MYS
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_01415	COG1087	M	UDP-glucose 4-epimerase	GalE			1A9Y
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_01420	COG0517	T	CBS domain	CBS			1B3O
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_01425	COG3119	P	Arylsulfatase A or related enzyme, AlkP superfamily	AslA			1E1Z
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_01430	COG1942	Q	Phenylpyruvate tautomerase PptA, 4-oxalocrotonate tautomerase family	PptA			1BJP
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_01440	COG1225	O	Peroxiredoxin	Bcp			5IPH
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_01455	COG2887	L	RecB family exonuclease	Slr0479			
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_01465	COG3391	R	DNA-binding beta-propeller fold protein YncE	YncE		22120742;28628661	3VGZ
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_01480	COG0001	H	Glutamate-1-semialdehyde aminotransferase	HemL	Heme biosynthesis		2CFB
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_01495	COG1099	R	Predicted metal-dependent hydrolase, TIM-barrel fold				3GUW
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_01505	COG4590	R	ABC-type uncharacterized transport system, permease component				
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_01510	COG0555	P	ABC-type sulfate transport system, permease component	CysU			3D31
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_01515	COG0340	H	Biotin-(acetyl-CoA carboxylase) ligase	BirA2	Biotin biosynthesis	32188788	1BIA
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_01520	COG0762	O	Cytochrome b6 maturation protein CCB3/Ycf19 and related maturases, YggT family	Ycf19			
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_01530	COG0209	F	Ribonucleotide reductase alpha subunit	NrdA	Pyrimidine salvage		1R1R
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_01540	COG0206	D	Cell division GTPase FtsZ	FtsZ			1FSZ
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_01565	COG0242	J	Peptide deformylase	Def			1BS4
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_01570	COG0341	U	Preprotein translocase subunit SecF	SecF		28830929	2FYH
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_01575	COG0342	U	Preprotein translocase subunit SecD	SecD		26100040	3AQP
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_01580	COG1243	J	tRNA U34 5-carboxymethylaminomethylation enzyme Elp3 (RNA elongator complex protein 3), contains radical SAM and acetyltransferase domains	ELP3		25151136;27455459	6IA8
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_01585	COG1625	C	Fe-S oxidoreductase, related to NifB/MoaA family	NifB			
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_01595	COG1466	L	DNA polymerase III, delta subunit	HolA			3ZH9
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_01600	COG3063	NW	Type IV pilus assembly protein PilF/PilW	PilF		16403447	2VQ2
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_01630	COG0508	C	Pyruvate/2-oxoglutarate dehydrogenase complex, dihydrolipoamide acyltransferase (E2) component	AceF	Pyruvate oxidation		1B5S
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_01635	COG0673	R	Predicted dehydrogenase	MviM			3UUW
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_01645	COG1503	J	Peptide chain release factor 1 (eRF1)	eRF1	Translation factors		3E1Y
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_01655	COG0697	GER	Permease of the drug/metabolite transporter (DMT) superfamily	RhaT			5I20
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_01665	COG0459	O	Chaperonin GroEL (HSP60 family)	GroEL			1AON
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_01675	COG1709	K	Predicted transcriptional regulator,contains XRE-type HTH domain				
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_01680	COG1252	C	NADH dehydrogenase, FAD-containing subunit	Ndh			5NA4
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_01685	COG0856	F	Orotate phosphoribosyltransferase homolog	PyrE2			
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_01690	COG0669	H	Phosphopantetheine adenylyltransferase	CoaD	Pantothenate/CoA biosynthesis		3F3M
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_01695	COG1084	R	GTP-binding protein, GTP1/Obg family	Nog1			2E87
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_01700	COG1484	L	DNA replication protein DnaC	DnaC			2QGZ
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_01705	COG0299	F	Folate-dependent phosphoribosylglycinamide formyltransferase PurN	PurN	Purine biosynthesis	25013077	1C2T
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_01710	COG1168	ER	Bifunctional PLP-dependent enzyme with beta-cystathionase and maltose regulon repressor activities	MalY			4DGT
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_01720	COG0015	F	Adenylosuccinate lyase	PurB	Purine biosynthesis		2HVG
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_01725	COG2814	G	Predicted arabinose efflux permease AraJ, MFS family	AraJ			4LDS
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_01740	COG0441	J	Threonyl-tRNA synthetase	ThrS	Aminoacyl-tRNA synthetases		1NYQ
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_01745	COG0526	O	Thiol-disulfide isomerase or thioredoxin	TrxA			1XFL
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_01765	COG0777	I	Acetyl-CoA carboxylase beta subunit	AccD	Fatty acid biosynthesis		2F9I
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_01775	COG1004	M	UDP-glucose 6-dehydrogenase	Ugd			1DLI
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_01780	COG0623	I	Enoyl-[acyl-carrier-protein] reductase FabI	FabI	Fatty acid biosynthesis		1C14
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_01785	COG2048	C	Heterodisulfide reductase, subunit B	HdrB			5ODC
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_01795	COG0392	M	Predicted membrane flippase AglD2/YbhN, UPF0104 family	AglD2		25583072	
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_01800	COG1089	M	GDP-D-mannose dehydratase	Gmd			1DB3
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_01810	COG0022	C	Pyruvate/2-oxoglutarate/acetoin dehydrogenase complex, dehydrogenase (E1) component, beta subunit	AcoB	Pyruvate oxidation		2OZL
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_01815	COG1154	HI	Deoxyxylulose-5-phosphate synthase	Dxs	Pyridoxal phosphate biosynthesis		2O1S
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_01820	COG2609	C	Pyruvate dehydrogenase complex, dehydrogenase (E1) component	AceE	Pyruvate oxidation		1L8A
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_01830	COG0399	M	dTDP-4-amino-4,6-dideoxygalactose transaminase	WecE		15271350	4PIW
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_01835	COG1977	H	Molybdopterin synthase sulfur carrier subunit MoaD	MoaD	Molybdopterin biosynthesis	32239579	1FM0
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_01840	COG0228	J	Ribosomal protein S16	RpsP	Ribosome 30S subunit		4V4H
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_01845	COG1837	R	Predicted RNA-binding protein YlqC, contains KH domain, UPF0109 family	YlqC			
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_01850	COG0806	J	Ribosomal 30S subunit maturation factor RimM, required for 16S rRNA processing	RimM	16S rRNA modification		2QGG
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_01855	COG0217	KJ	Transcriptional and/or translational regulatory protein YebC/TACO1	TACO1			1KON
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_01860	COG0513	L	Superfamily II DNA and RNA helicase	SrmB			3RRM
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_01865	COG5133
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_01870	COG1192	DN	ParA-like ATPase involved in chromosome/plasmid partitioning or cellulose biosynthesis protein BcsQ	ParA			6NOO
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_01875	COG0076	E	Glutamate or tyrosine decarboxylase or a related PLP-dependent protein	GadA	Pantothenate/CoA biosynthesis		1XEY
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_01880	COG1228	Q	Imidazolonepropionase or related amidohydrolase	HutI			3OOQ
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_01885	COG0365	I	Acyl-coenzyme A synthetase/AMP-(fatty) acid ligase	Acs		14638756	4B2O
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_01890	COG0359	J	Ribosomal protein L9	RplI	Ribosome 50S subunit	27112601	1VS6
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_01895	COG0305	L	Replicative DNA helicase	DnaB			1B79
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_01905	COG1484	L	DNA replication protein DnaC	DnaC			2QGZ
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_01910	COG3386	G	Sugar lactone lactonase YvrE	YvrE	Non-phosphorylated Entner-Doudoroff pathway		1E1A
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_01915	COG2609	C	Pyruvate dehydrogenase complex, dehydrogenase (E1) component	AceE	Pyruvate oxidation		1L8A
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_01940	COG1702	T	Phosphate starvation-inducible protein PhoH, predicted ATPase	PhoH		8444794;12762842	3B85
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_01975	COG3128	R	Predicted 2-oxoglutarate- and Fe(II)-dependent dioxygenase YbiX	PiuC			3DKQ
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_01985	COG1675	K	Transcription initiation factor IIE, alpha subunit	TFA1			5FYW
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_02000	COG1898	M	dTDP-4-dehydrorhamnose 3,5-epimerase or related enzyme	RfbC			1DZR
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_02005	COG1210	M	UTP-glucose-1-phosphate uridylyltransferase	GalU			2E3D
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_02010	COG1091	M	dTDP-4-dehydrorhamnose reductase	RfbD			1KBZ
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_02015	COG0436	E	Aspartate/methionine/tyrosine aminotransferase	AspB	Isoleucine, leucine, valine biosynthesis		2O0R
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_02020	COG1088	M	dTDP-D-glucose 4,6-dehydratase	RfbB			1G1A
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_02025	COG1209	M	dTDP-glucose pyrophosphorylase	RmlA1			1FXO
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_02030	COG1216	G	Glycosyltransferase, GT2 family	WcaE			2Z86
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_02035	COG0451	M	Nucleoside-diphosphate-sugar epimerase	WcaG			2X4G
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_02040	COG3474	C	Cytochrome c2	Cyc7			1YEA
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_02045	COG0843	C	Heme/copper-type cytochrome/quinol oxidase, subunit 1	CyoB			1AR1
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_02050	COG1845	C	Heme/copper-type cytochrome/quinol oxidase, subunit 3	CyoC			1QLE
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_02065	COG0303	H	Molybdopterin Mo-transferase (molybdopterin biosynthesis)	MoeA	Molybdopterin biosynthesis	18801996;32239579	2NQU
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_02070	COG0073	J	tRNA-binding EMAP/Myf domain	EMAP			1MKH
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_02075	COG0016	J	Phenylalanyl-tRNA synthetase alpha subunit	PheS	Aminoacyl-tRNA synthetases		3L4G
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_02085	COG0656	Q	Aldo/keto reductase, related to diketogulonate reductase	ARA1			1Q13
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_02090	COG0180	J	Tryptophanyl-tRNA synthetase	TrpS	Aminoacyl-tRNA synthetases		3N9I
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_02095	COG0147	EH	Anthranilate/para-aminobenzoate synthases component I	TrpE	Aromatic amino acid biosynthesis		1I1Q
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_02100	COG1169	HQ	Isochorismate synthase EntC	MenF	Menaquinone biosynthesis		5JXZ
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_02105	COG0518	F	GMP synthase, glutamine amidotransferase domain	GuaA1	Purine biosynthesis		4WIM
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_02110	COG0213	F	Thymidine phosphorylase	DeoA	Pyrimidine salvage		1AZY
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_02115	COG0134	E	Indole-3-glycerol phosphate synthase	TrpC	Aromatic amino acid biosynthesis		6BMA
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_02120	COG0135	E	Phosphoribosylanthranilate isomerase	TrpF	Aromatic amino acid biosynthesis		1DL3
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_02145	COG1209	M	dTDP-glucose pyrophosphorylase	RmlA1			1FXO
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_02150	COG1087	M	UDP-glucose 4-epimerase	GalE			1A9Y
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_02155	COG0436	E	Aspartate/methionine/tyrosine aminotransferase	AspB	Isoleucine, leucine, valine biosynthesis		2O0R
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_02160	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_02165	COG0436	E	Aspartate/methionine/tyrosine aminotransferase	AspB	Isoleucine, leucine, valine biosynthesis		2O0R
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_02170	COG0299	F	Folate-dependent phosphoribosylglycinamide formyltransferase PurN	PurN	Purine biosynthesis	25013077	1C2T
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_02175	COG2609	C	Pyruvate dehydrogenase complex, dehydrogenase (E1) component	AceE	Pyruvate oxidation		1L8A
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_02180	COG0021	G	Transketolase	TktA	Pentose phosphate pathway		1AY0
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_02185	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_02190	COG0392	M	Predicted membrane flippase AglD2/YbhN, UPF0104 family	AglD2		25583072	
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_02195	COG1807	M	PMT family glycosyltransferase ArnT/Agl22, involved in glycosylation of proteins and lipid IVA	ArnT		16226890;31233657;32706435	5EZM
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_02205	COG1232	H	Protoporphyrinogen oxidase HemY/PPOX	HemY	Heme biosynthesis		3LOV
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_02210	COG0500	QR	SAM-dependent methyltransferase	SmtA			5DNK
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_02215	COG4106	C	Trans-aconitate methyltransferase	Tam			2P35
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_02225	COG0673	R	Predicted dehydrogenase	MviM			3UUW
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_02230	COG1212	M	CMP-2-keto-3-deoxyoctulosonic acid synthetase	KdsB	Lipid A biosynthesis		1VH1
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_02235	COG1606	R	ATP-utilizing enzyme, PP-loop superfamily				6B2O
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_02240	COG0707	M	UDP-N-acetylglucosamine:LPS N-acetylglucosamine transferase	MurG	Mureine biosynthesis		1F0K
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_02245	COG0451	M	Nucleoside-diphosphate-sugar epimerase	WcaG			2X4G
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_02250	COG2226	H	Ubiquinone/menaquinone biosynthesis C-methylase UbiE/MenG	UbiE	Biotin biosynthesis		4OBW
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_02255	COG3119	P	Arylsulfatase A or related enzyme, AlkP superfamily	AslA			1E1Z
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_02260	COG3119	P	Arylsulfatase A or related enzyme, AlkP superfamily	AslA			1E1Z
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_02270	COG0560	E	Phosphoserine phosphatase	SerB	Serine biosynthesis		3N28
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_02285	COG2814	G	Predicted arabinose efflux permease AraJ, MFS family	AraJ			4LDS
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_02290	COG0323	L	DNA mismatch repair ATPase MutL	MutL			1B62
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_02295	COG1309	K	DNA-binding protein, AcrR family, includes nucleoid occlusion protein SlmA	AcrR			2QOP
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_02300	COG0147	EH	Anthranilate/para-aminobenzoate synthases component I	TrpE	Aromatic amino acid biosynthesis		1I1Q
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_02310	COG1647	Q	Esterase/lipase	YvaK			4DIU
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_02315	COG1013	C	Pyruvate:ferredoxin oxidoreductase or related 2-oxoacid:ferredoxin oxidoreductase, beta subunit	PorB	Pyruvate oxidation		1B0P
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_02330	COG1021	Q	EntE, 2,3-dihydroxybenzoate-AMP synthase component of non-ribosomal peptide synthetase	EntE			3RG2
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_02335	COG0705	O	Membrane-associated serine protease, rhomboid family	GlpG			2IC8
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_02340	COG0735	P	Fe2+ or Zn2+ uptake regulation protein Fur/Zur	Fur			1MZB
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_02355	COG1069	G	Ribulose kinase	AraB			3QDK
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_02360	COG1105	G	1-phosphofructokinase or 6-phosphofructokinase II	FruK			2ABQ
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_02370	COG2017	G	Galactose mutarotase or related enzyme	GalM			1LUR
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_02375	COG0738	G	Fucose permease	FucP			3O7P
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_02380	COG0673	R	Predicted dehydrogenase	MviM			3UUW
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_02390	COG3349	R	Uncharacterized protein, contains NAD-binding domain and a Fe-S cluster				5MOG
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_02405	COG4656	C	Na+-translocating ferredoxin:NAD+ oxidoreductase  RNF, RnfC subunit	RnfC	Na+-translocating Fd:NADH oxidoreductase		
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_02410	COG0243	C	Anaerobic selenocysteine-containing dehydrogenase	BisC			1EU1
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_02415	COG0526	O	Thiol-disulfide isomerase or thioredoxin	TrxA			1XFL
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_02425	COG0623	I	Enoyl-[acyl-carrier-protein] reductase FabI	FabI	Fatty acid biosynthesis		1C14
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_02430	COG4989	R	Predicted oxidoreductase YdhF	YdhF			1UR3
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_02435	COG0673	R	Predicted dehydrogenase	MviM			3UUW
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_02440	COG3536	S	Uncharacterized conserved protein, DUF971 family				2L6N
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_02445	COG1134	G	ABC-type polysaccharide/polyol phosphate transport system, ATPase component	TagH			6JBH
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_02450	COG4594	P	ABC-type Fe3+-citrate transport system, periplasmic component	FecB			
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_02455	COG0863	L	DNA modification methylase	YhdJ			1BOO
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_02460	COG1004	M	UDP-glucose 6-dehydrogenase	Ugd			1DLI
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_02470	COG0297	G	Glycogen synthase	GlgA			1RZU
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_02475	COG0520	E	Selenocysteine lyase/Cysteine desulfurase	CsdA			4LW2
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_02490	COG0044	F	Dihydroorotase or related cyclic amidohydrolase	AllB	Pyrimidine biosynthesis		1J79
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_02500	COG4254	R	Uncharacterized peptidoglycan binding protein, contains LysM and FecR  domains				
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_02510	COG1168	ER	Bifunctional PLP-dependent enzyme with beta-cystathionase and maltose regulon repressor activities	MalY			4DGT
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_02515	COG0031	E	Cysteine synthase	CysK	Cysteine biosynthesis		1FCJ
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_02520	COG0334	E	Glutamate dehydrogenase/leucine dehydrogenase	GdhA	Glutamine biosynthesis	24391520	1B3B
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_02530	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_02535	COG0624	E	Acetylornithine deacetylase/Succinyl-diaminopimelate desuccinylase or related deacylase	ArgE	Arginine biosynthesis		1CG2
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_02540	COG1814	P	Predicted Fe2+/Mn2+ transporter, VIT1/CCC1 family	Ccc1			6IU3
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_02560	COG2814	G	Predicted arabinose efflux permease AraJ, MFS family	AraJ			4LDS
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_02565	COG0454	KR	N-acetyltransferase, GNAT superfamily (includes histone acetyltransferase HPA2)	PhnO			
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_02570	COG2215	P	ABC-type nickel/cobalt efflux system, permease component RcnA	RcnA			
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_02590	COG2271	G	Sugar phosphate permease	UhpC			1PW4
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_02600	COG5265	O	ABC-type transport system involved in Fe-S cluster assembly, permease and ATPase components	ATM1			4MRN
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_02605	COG4215	E	ABC-type arginine transport system, permease component	ArtQ			
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_02610	COG4215	E	ABC-type arginine transport system, permease component	ArtQ			
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_02615	COG3221	P	ABC-type phosphate/phosphonate transport system, periplasmic component	PhnD			3S4U
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_02630	COG2873	E	O-acetylhomoserine/O-acetylserine sulfhydrylase, pyridoxal phosphate-dependent	MET17	Methionine biosynthesis		2CTZ
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_02635	COG2021	E	Homoserine O-acetyltransferase	MET2	Methionine biosynthesis		2VAT
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_02650	COG1529	C	Aldehyde, CO or xanthine dehydrogenase, Mo-binding subunit	CoxL	Non-phosphorylated Entner-Doudoroff pathway	10095793	1DGJ
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_02655	COG1082	G	Sugar phosphate isomerase/epimerase	YcjR		30742415	3KTC
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_02660	COG0300	R	Short-chain dehydrogenase	YqjQ			
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_02675	COG3264	M	Small-conductance mechanosensitive channel MscK	MscK			
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_02685	COG1042	C	Acyl-CoA synthetase (NDP forming)	PatZN		26251518	4YAK
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_02690	COG0045	C	Succinyl-CoA synthetase, beta subunit	SucC	TCA cycle		1SCU
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_02700	COG1082	G	Sugar phosphate isomerase/epimerase	YcjR		30742415	3KTC
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_02705	COG1171	E	Threonine deaminase	IlvA	Isoleucine, leucine, valine biosynthesis		3IAU
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_02710	COG1179	J	tRNA A37 threonylcarbamoyladenosine dehydratase	TcdA	tRNA modification	27913733	4D7A
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_02720	COG1052	CHR	Lactate dehydrogenase or related 2-hydroxyacid dehydrogenase	LdhA	Pyridoxal phosphate biosynthesis		1DXY
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_02725	COG0520	E	Selenocysteine lyase/Cysteine desulfurase	CsdA			4LW2
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_02730	COG0730	P	Sulfite exporter TauE/SafE/YfcA and related permeases, UPF0721 family	TauE		21183667;22797525	
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_02740	COG1233	Q	Phytoene dehydrogenase-related protein				4REP
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_02745	COG0024	J	Methionine aminopeptidase	Map			3J2I
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_02760	COG0049	J	Ribosomal protein S7	RpsG	Ribosome 30S subunit		4V4H
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_02765	COG5256	J	Translation elongation factor EF-1alpha (GTPase)	TEF1	Translation factors		1F60
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_02770	COG0051	J	Ribosomal protein S10	RpsJ	Ribosome 30S subunit		4V4H
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_02775	COG0087	J	Ribosomal protein L3	RplC	Ribosome 50S subunit		1VS6
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_02780	COG0088	J	Ribosomal protein L4	RplD	Ribosome 50S subunit		1VS6
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_02795	COG0469	G	Pyruvate kinase	PykF	Glycolysis		6QXL
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_02800	COG0596	HR	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold	MenH	Menaquinone biosynthesis		4MYS
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_02805	COG0215	J	Cysteinyl-tRNA synthetase	CysS	Aminoacyl-tRNA synthetases		1LI5
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_02815	COG0443	O	Molecular chaperone DnaK (HSP70)	DnaK			3I33
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_02820	COG0576	O	Molecular chaperone GrpE (heat shock protein HSP-70)	GrpE			1DKG
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_02825	COG0789	K	DNA-binding transcriptional regulator, MerR family	SoxR			2VZ4
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_02840	COG0055	C	FoF1-type ATP synthase, beta subunit	AtpD	FoF1-type ATP synthase		3OAA
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_02845	COG0224	C	FoF1-type ATP synthase, gamma subunit	AtpG	FoF1-type ATP synthase	15326535	3OAA
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_02850	COG0056	C	FoF1-type ATP synthase, alpha subunit	AtpA	FoF1-type ATP synthase		3OAA
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_02855	COG0712	C	FoF1-type ATP synthase, delta subunit	AtpH	FoF1-type ATP synthase		1ABV
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_02865	COG2057	I	Acyl-CoA:acetate/3-ketoacid CoA transferase, beta subunit	AtoA			5DBN
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_02870	COG1063	ER	Threonine dehydrogenase or related Zn-dependent dehydrogenase	Tdh	Non-phosphorylated Entner-Doudoroff pathway		4A2C
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_02880	COG0820	J	Adenine C2-methylase RlmN of 23S rRNA A2503 and tRNA A37	RlmN	23S rRNA modification		3RFA
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_02885	COG0137	E	Argininosuccinate synthase	ArgG	Arginine biosynthesis		1J1Z
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_02895	COG0591	E	Na+/proline symporter	PutP			5NVA
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_02905	COG2513	G	2-Methylisocitrate lyase and related enzymes, PEP mutase family	PrpB			1XG3
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_02915	COG1044	M	UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase	LpxD	Lipid A biosynthesis		6P83
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_02925	COG0297	G	Glycogen synthase	GlgA			1RZU
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_02930	COG0451	M	Nucleoside-diphosphate-sugar epimerase	WcaG			2X4G
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_02935	COG2227	H	2-polyprenyl-3-methyl-5-hydroxy-6-metoxy-1,4-benzoquinol methylase	UbiG	Ubiquinone biosynthesis		1BHJ
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_02940	COG1032	R	Radical SAM superfamily enzyme YgiQ, UPF0313 family	YgiQ			6FD2
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_02950	COG1207	M	Bifunctional protein GlmU, N-acetylglucosamine-1-phosphate-uridyltransferase/glucosamine-1-phosphate-acetyltransferase	GlmU			3FWW
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_02955	COG3963	I	Phosphatidylethanolamine N-methyltransferase				
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_02960	COG3407	I	Mevalonate pyrophosphate decarboxylase	MVD1	Isoprenoid biosynthesis		1FI4
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_02970	COG0177	L	Endonuclease III	Nth			4UOB
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_02980	COG2761	O	Predicted dithiol-disulfide isomerase, DsbA/YjbH family (virulence, stress resistance)	FrnE			6GHB
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_02985	COG0571	K	dsRNA-specific ribonuclease	Rnc			1DI2
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_03000	COG0535	DH	Radical SAM superfamily maturase, SkfB/NifB/PqqE family	SkfB		23282011	6Q2P
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_03015	COG2226	H	Ubiquinone/menaquinone biosynthesis C-methylase UbiE/MenG	UbiE	Biotin biosynthesis		4OBW
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_03045	COG1208	JM	NDP-sugar pyrophosphorylase, includes eIF-2Bgamma, eIF-2Bepsilon, and LPS biosynthesis protein s	GCD1			6JQ8
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_03050	COG0512	EH	Anthranilate/para-aminobenzoate synthase component II (glutamine amidotransferase)	PabA	Aromatic amino acid biosynthesis		1I1Q
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_03055	COG0574	G	Phosphoenolpyruvate synthase/pyruvate phosphate dikinase	PpsA	Gluconeogenesis		5HV6
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_03060	COG2519	J	tRNA A58 N-methylase Trm61	Gcd14	tRNA modification		1I9G
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_03065	COG0483	G	Archaeal fructose-1,6-bisphosphatase or related enzyme, inositol monophosphatase family	SuhB	Gluconeogenesis		1AWB
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_03080	COG1087	M	UDP-glucose 4-epimerase	GalE			1A9Y
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_03090	COG0046	F	Phosphoribosylformylglycinamidine (FGAM) synthase, synthetase domain	PurL1	Purine biosynthesis		3VIU
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_03095	COG1492	H	Cobyric acid synthase	CobQ	Cobalamine/B12 biosynthesis		
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_03105	COG0008	J	Glutamyl- or glutaminyl-tRNA synthetase	GlnS	Heme biosynthesis		1EUQ
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_03110	COG1187	J	Pseudouridylate synthase RsuA, specific for 16S rRNA U516  and 23S rRNA U2605	RsuA	16S rRNA modification		1KSK
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_03120	COG0076	E	Glutamate or tyrosine decarboxylase or a related PLP-dependent protein	GadA	Pantothenate/CoA biosynthesis		1XEY
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_03125	COG0703	E	Shikimate kinase	AroK	Aromatic amino acid biosynthesis		1E6C
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_03130	COG5271	J	Midasin, AAA ATPase with  vWA domain, involved in ribosome maturation	MDN1			6HYP
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_03135	COG0494	V	8-oxo-dGTP pyrophosphatase MutT and related house-cleaning NTP pyrophosphohydrolases, NUDIX family	MutT			4V14
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_03150	COG3225	N	ABC-type uncharacterized transport system involved in gliding motility, auxiliary component	GldG			
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_03160	COG4618	U	ABC-type protease/lipase transport system, ATPase and permease components	ArpD			5L22
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_03165	COG0076	E	Glutamate or tyrosine decarboxylase or a related PLP-dependent protein	GadA	Pantothenate/CoA biosynthesis		1XEY
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_03175	COG1045	E	Serine acetyltransferase	CysE	Cysteine biosynthesis		1T3D
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_03185	COG0154	J	Asp-tRNAAsn/Glu-tRNAGln amidotransferase A subunit or related amidase	GatA	Aminoacyl-tRNA synthetases		3H0L
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_03190	COG0721	J	Asp-tRNAAsn/Glu-tRNAGln amidotransferase C subunit	GatC	Aminoacyl-tRNA synthetases		3H0L
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_03195	COG0504	F	CTP synthase (UTP-ammonia lyase)	PyrG	Pyrimidine biosynthesis		1S1M
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_03200	COG0557	K	Exoribonuclease R	VacB			6H25
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_03220	COG2214	K	Curved DNA-binding protein CbpA, contains a DnaJ-like domain	CbpA			
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_03225	COG0436	E	Aspartate/methionine/tyrosine aminotransferase	AspB	Isoleucine, leucine, valine biosynthesis		2O0R
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_03235	COG2227	H	2-polyprenyl-3-methyl-5-hydroxy-6-metoxy-1,4-benzoquinol methylase	UbiG	Ubiquinone biosynthesis		1BHJ
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_03240	COG1087	M	UDP-glucose 4-epimerase	GalE			1A9Y
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_03260	COG0436	E	Aspartate/methionine/tyrosine aminotransferase	AspB	Isoleucine, leucine, valine biosynthesis		2O0R
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_03275	COG1212	M	CMP-2-keto-3-deoxyoctulosonic acid synthetase	KdsB	Lipid A biosynthesis		1VH1
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_03285	COG4235	CO	Cytochrome c-type biogenesis protein CcmH/NrfG	NrfG			
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_03295	COG1846	K	DNA-binding transcriptional regulator, MarR family	MarR			1JGS
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_03305	COG1119	P	ABC-type molybdenum transport system, ATPase component ModF/photorepair protein PhrA	ModF			2IHY
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_03310	COG0451	M	Nucleoside-diphosphate-sugar epimerase	WcaG			2X4G
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_03320	COG0287	E	Prephenate dehydrogenase	TyrA	Aromatic amino acid biosynthesis		2F1K
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_03325	COG1917	R	Cupin domain protein related to quercetin dioxygenase	QdoI			2H0V
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_03330	COG1670	JO	Protein N-acetyltransferase, RimJ/RimL family	RimL			1S7F
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_03335	COG0436	E	Aspartate/methionine/tyrosine aminotransferase	AspB	Isoleucine, leucine, valine biosynthesis		2O0R
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_03350	COG0179	Q	2-keto-4-pentenoate hydratase/2-oxohepta-3-ene-1,7-dioic acid hydratase (catechol pathway)	YcgM			1GTT
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_03355	COG1063	ER	Threonine dehydrogenase or related Zn-dependent dehydrogenase	Tdh	Non-phosphorylated Entner-Doudoroff pathway		4A2C
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_03360	COG2814	G	Predicted arabinose efflux permease AraJ, MFS family	AraJ			4LDS
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_03370	COG5285	Q	Ectoine hydroxylase-related dioxygenase, phytanoyl-CoA dioxygenase (PhyH) family	PhyH			2A1X
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_03380	COG0161	H	Adenosylmethionine-8-amino-7-oxononanoate aminotransferase	BioA	Biotin biosynthesis		1MLY
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_03385	COG0558	I	Phosphatidylglycerophosphate synthase	PgsA	Phospholipid biosynthesis		4MND
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_03390	COG0176	G	Transaldolase/fructose-6-phosphate aldolase	TalA	Pentose phosphate pathway		1F05
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_03405	COG0477	GEPR	MFS family permease, includes anhydromuropeptide permease AmpG	ProP		12426329	
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_03425	COG0300	R	Short-chain dehydrogenase	YqjQ			
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_03430	COG2159	G	5-carboxyvanillate decarboxylase LigW (lignin degradation), amidohydro domain	LigW		26714575	2DVT
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_03435	COG2006	S	Uncharacterized conserved protein, DUF362 family				
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_03445	COG1608	I	Isopentenyl phosphate kinase			16621811	3LKK
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_03450	COG1198	L	Primosomal protein N' (replication factor Y) - superfamily II helicase	PriA			6DCR
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_03455	COG0647	F	Ribonucleotide monophosphatase NagD, HAD superfamily	NagD			1PW5
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_03485	COG1725	K	DNA-binding transcriptional regulator YhcF, GntR family	YhcF			4R1H
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_03490	COG0044	F	Dihydroorotase or related cyclic amidohydrolase	AllB	Pyrimidine biosynthesis		1J79
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_03495	COG1104	E	Cysteine desulfurase/Cysteine sulfinate desulfinase IscS or related enzyme, NifS family	NifS		22773787;25825430	4IXO
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_03500	COG0235	EG	5-methylthioribulose/5-deoxyribulose/Fuculose 1-phosphate aldolase (methionine salvage, sugar degradation)	AraD	Urea cycle	31950558	1FUA
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_03505	COG1012	I	Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase	AdhE	Proline degradation		1A4S
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_03510	COG0270	L	DNA-cytosine methylase	Dcm			3LX6
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_03520	COG2271	G	Sugar phosphate permease	UhpC			1PW4
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_03530	COG1942	Q	Phenylpyruvate tautomerase PptA, 4-oxalocrotonate tautomerase family	PptA			1BJP
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_03535	COG0309	O	Carbamoyl dehydratase HypE (hydrogenase maturation factor)	HypE		28618091	2I6R
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_03540	COG0802	J	tRNA A37 threonylcarbamoyladenosine biosynthesis protein TsaE	TsaE	tRNA modification		1FL9
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_03545	COG0533	J	tRNA A37 threonylcarbamoyltransferase TsaD	TsaD	tRNA modification	23072323;21285948;32385138	3ENO
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_03550	COG0105	F	Nucleoside diphosphate kinase	Ndk	Pyrimidine biosynthesis		1B4S
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_03555	COG0799	J	Ribosomal silencing factor RsfS, regulates association of 30S and 50S subunits	RsfS			6SJ6
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_03560	COG1606	R	ATP-utilizing enzyme, PP-loop superfamily				6B2O
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_03565	COG1039	L	Ribonuclease HIII	RnhC			2D0A
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_03570	COG1646	I	Glycerol-1-phosphate heptaprenyltransferase	PcrB			1VIZ
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_03590	COG0520	E	Selenocysteine lyase/Cysteine desulfurase	CsdA			4LW2
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_03595	COG4992	E	Acetylornithine/succinyldiaminopimelate/putrescine aminotransferase	ArgD	Arginine biosynthesis		2E54
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_03610	COG0449	M	Glucosamine 6-phosphate synthetase, contains amidotransferase and phosphosugar isomerase domains	GlmS			2J6H
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_03615	COG0695	O	Glutaredoxin	GrxC			1AAZ
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_03620	COG2226	H	Ubiquinone/menaquinone biosynthesis C-methylase UbiE/MenG	UbiE	Biotin biosynthesis		4OBW
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_03630	COG0769	M	UDP-N-acetylmuramyl tripeptide synthase	MurE	Mureine biosynthesis		1E8C
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_03645	COG1209	M	dTDP-glucose pyrophosphorylase	RmlA1			1FXO
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_03650	COG1778	MR	3-deoxy-D-manno-octulosonate 8-phosphate phosphatase KdsC and related HAD superfamily phosphatases	KdsC			3I6B
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_03670	COG0794	GM	D-arabinose 5-phosphate isomerase GutQ	GutQ			5UQI
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_03675	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_03680	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_03685	COG1212	M	CMP-2-keto-3-deoxyoctulosonic acid synthetase	KdsB	Lipid A biosynthesis		1VH1
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_03690	COG0436	E	Aspartate/methionine/tyrosine aminotransferase	AspB	Isoleucine, leucine, valine biosynthesis		2O0R
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_03695	COG1670	JO	Protein N-acetyltransferase, RimJ/RimL family	RimL			1S7F
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_03705	COG2524	K	Predicted transcriptional regulator, contains C-terminal CBS domains				
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_03710	COG0421	E	Spermidine synthase (polyamine aminopropyltransferase)	SpeE			6BQ2
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_03720	COG0647	F	Ribonucleotide monophosphatase NagD, HAD superfamily	NagD			1PW5
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_03730	COG0596	HR	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold	MenH	Menaquinone biosynthesis		4MYS
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_03735	COG0041	F	Phosphoribosylcarboxyaminoimidazole (NCAIR) mutase	PurE	Purine biosynthesis		1D7A
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_03740	COG4170	V	ABC-type antimicrobial peptide export system, ATPase component SapD	SapD			
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_03745	COG4172	Q	ABC-type microcin C transport system, duplicated ATPase component YejF	YejF		17873039	
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_03750	COG4591	M	ABC-type transport system involved in lipoprotein release, permease component LolC	LolE			6F49
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_03755	COG0577	V	ABC-type antimicrobial peptide transport system, permease component	SalY			
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_03760	COG1171	E	Threonine deaminase	IlvA	Isoleucine, leucine, valine biosynthesis		3IAU
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_03765	COG0265	O	Periplasmic serine protease, S1-C subfamily, contain C-terminal PDZ domain	DegQ		29686141	2HGA
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_03780	COG1278	K	Cold shock protein, CspA family	CspC			1C9O
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_03785	COG3386	G	Sugar lactone lactonase YvrE	YvrE	Non-phosphorylated Entner-Doudoroff pathway		1E1A
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_03790	COG2814	G	Predicted arabinose efflux permease AraJ, MFS family	AraJ			4LDS
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_03800	COG1917	R	Cupin domain protein related to quercetin dioxygenase	QdoI			2H0V
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_03810	COG1105	G	1-phosphofructokinase or 6-phosphofructokinase II	FruK			2ABQ
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_03815	COG2234	OE	Zn-dependent amino- or carboxypeptidase, M28 family	Iap			1AMP
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_03820	COG0300	R	Short-chain dehydrogenase	YqjQ			
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_03850	COG1032	R	Radical SAM superfamily enzyme YgiQ, UPF0313 family	YgiQ			6FD2
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_03860	COG0535	DH	Radical SAM superfamily maturase, SkfB/NifB/PqqE family	SkfB		23282011	6Q2P
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_03865	COG0494	V	8-oxo-dGTP pyrophosphatase MutT and related house-cleaning NTP pyrophosphohydrolases, NUDIX family	MutT			4V14
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_03880	COG0495	J	Leucyl-tRNA synthetase	LeuS	Aminoacyl-tRNA synthetases		6LPF
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_03890	COG1047	O	Peptidyl-prolyl cis-trans isomerase, FKBP type	SlpA			2M2A
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_03900	COG2240	H	Pyridoxal/pyridoxine/pyridoxamine kinase	PdxK	Pyridoxal phosphate biosynthesis	19096365;23189126	5ZW9
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_03905	COG1804	I	Crotonobetainyl-CoA:carnitine CoA-transferase CaiB and related acyl-CoA transferases	CaiB			1P5H
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_03910	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_03930	COG0684	J	RNA degradosome component RraA (regulator of RNase E activity)	RraA		20471400	1J3L
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_03935	COG0303	H	Molybdopterin Mo-transferase (molybdopterin biosynthesis)	MoeA	Molybdopterin biosynthesis	18801996;32239579	2NQU
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_03945	COG4221	C	NADP-dependent 3-hydroxy acid dehydrogenase YdfG	YdfG	Pyrimidine degradation		3P19
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_03950	COG2510	H	Riboflavin transporter RibN, EamA domain	RibN		23935051	
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_03955	COG0778	C	Nitroreductase	NfnB	Pyrimidine degradation		1F5V
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_03960	COG2084	I	3-hydroxyisobutyrate dehydrogenase or related beta-hydroxyacid dehydrogenase	MmsB			1I36
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_03965	COG4274	S	Uncharacterized conserved protein, contains GYD domain				
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_04015	COG3254	M	L-rhamnose mutarotase	RhaM			1X8D
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_04025	COG2606	J	Cys-tRNA(Pro) deacylase, prolyl-tRNA editing enzyme YbaK/EbsC	EbsC			1DBU
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_04040	COG0673	R	Predicted dehydrogenase	MviM			3UUW
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_04045	COG0031	E	Cysteine synthase	CysK	Cysteine biosynthesis		1FCJ
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_04050	COG5653	N	Acetyltransferase involved in cellulose biosynthesis, CelD/BcsL family	BcsL			
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_04055	COG0297	G	Glycogen synthase	GlgA			1RZU
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_04060	COG0028	EH	Acetolactate synthase large subunit or other thiamine pyrophosphate-requiring enzyme	IlvB	Isoleucine, leucine, valine biosynthesis		1BFD
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_04070	COG0059	EH	Ketol-acid reductoisomerase	IlvC	Isoleucine, leucine, valine biosynthesis		1NP3
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_04075	COG0119	E	Isopropylmalate/homocitrate/citramalate synthases	LeuA	Isoleucine, leucine, valine biosynthesis		4JN6
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_04080	COG0065	E	Homoaconitase/3-isopropylmalate dehydratase large subunit	LeuC	Isoleucine, leucine, valine biosynthesis		4KP1
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_04085	COG1048	C	Aconitase A	AcnA	Lysine biosynthesisTCA cycle		1ACO
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_04090	COG0473	CE	Isocitrate/isopropylmalate dehydrogenase	LeuB	TCA cycle		1GC9
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_04100	COG0119	E	Isopropylmalate/homocitrate/citramalate synthases	LeuA	Isoleucine, leucine, valine biosynthesis		4JN6
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_04105	COG1218	P	3'-Phosphoadenosine 5'-phosphosulfate (PAPS) 3'-phosphatase	CysQ			
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_04110	COG4219	T	Signal transducer regulating beta-lactamase production, contains metallopeptidase domain	MecR1			
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_04125	COG0188	L	DNA gyrase/topoisomerase IV, subunit A	GyrA			1SUU
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_04140	COG0211	J	Ribosomal protein L27	RpmA	Ribosome 50S subunit		1VS6
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_04155	COG0140	E	Phosphoribosyl-ATP pyrophosphohydrolase	HisI2	Histidine biosynthesis		6J22
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_04160	COG1411	R	Uncharacterized conserved protein related to proFAR isomerase (HisA)				
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_04165	COG1411	R	Uncharacterized conserved protein related to proFAR isomerase (HisA)				
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_04170	COG0311	H	Pyridoxal 5'-phosphate synthase subunit PdxT (glutamine amidotransferase)	PdxT	Pyridoxal phosphate biosynthesis	18801996;24083939	2NV0
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_04175	COG2096	H	Cob(II)alamin adenosyltransferase	PduO	Cobalamine/B12 biosynthesis		1NOG
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_04185	COG0404	E	Glycine cleavage system protein T (aminomethyltransferase)	GcvT	Glycine cleavage	25433025;25505271	2GAH
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_04190	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_04195	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_04200	COG0280	C	Phosphotransacetylase (includes Pta, EutD and phosphobutyryltransferase)	Pta		28754323	1QZT
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_04205	COG2030	I	Acyl-CoA dehydratase PaaZ	MaoC			5ZY8
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_04215	COG0526	O	Thiol-disulfide isomerase or thioredoxin	TrxA			1XFL
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_04235	COG3088	CO	Cytochrome c-type biogenesis protein CcmH/NrfF	NrfF			2HL7
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_04240	COG2857	C	Cytochrome c1	CYT1			
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_04245	COG0635	H	Coproporphyrinogen-III oxidase HemN  (oxygen-independent) or related Fe-S oxidoreductase	HemN	Heme biosynthesis		1OLT
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_04250	COG5557	C	Ni/Fe-hydrogenase 2 integral membrane subunit HybB	HybB			
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_04260	COG1142	C	Fe-S-cluster-containing hydrogenase component 2	HycB			
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_04265	COG1153	C	Formylmethanofuran dehydrogenase subunit D	FwdD			2KI8
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_04285	COG0567	C	2-oxoglutarate dehydrogenase complex, dehydrogenase (E1) component, and related enzymes	SucA	TCA cycle		2JGD
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_04290	COG1154	HI	Deoxyxylulose-5-phosphate synthase	Dxs	Pyridoxal phosphate biosynthesis		2O1S
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_04295	COG0345	E	Pyrroline-5-carboxylate reductase	ProC	Proline biosynthesis	22125496;26507882	3GT0
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_04305	COG2049	E	5-oxoprolinase subunit B/Allophanate hydrolase subunit 1	PxpB		28830929	2KWA
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_04310	COG1984	E	5-oxoprolinase subunit C/Allophanate hydrolase subunit 2	PxpC		28830929	3MML
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_04320	COG1038	C	Pyruvate carboxylase	PycA	Urea cycle		5VYW
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_04325	COG0111	H	Phosphoglycerate dehydrogenase or related dehydrogenase	SerA	Serine biosynthesis		3OET
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_04330	COG0633	C	Ferredoxin	Fdx			1KRH
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_04335	COG1728	S	Uncharacterized conserved protein YaaR, TM1646/DUF327 family	YaaR			2P61
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_04340	COG2185	I	Methylmalonyl-CoA mutase, C-terminal domain/subunit (cobalamin-binding)	Sbm			1B1A
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_04355	COG2040	E	Homocysteine/selenocysteine methylase (S-methylmethionine-dependent)	MHT1			5DML
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_04370	COG0685	E	5,10-methylenetetrahydrofolate reductase	MetF			1B5T
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_04375	COG3491	Q	Isopenicillin N synthase and related dioxygenases	PcbC			1BK0
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_04380	COG3491	Q	Isopenicillin N synthase and related dioxygenases	PcbC			1BK0
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_04385	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_04390	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_04395	COG0420	L	DNA repair exonuclease SbcCD nuclease subunit	SbcD			6S85
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_04405	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_04410	COG0005	F	Purine nucleoside phosphorylase	XapA	Purine salvage		1YQQ
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_04425	COG1174	E	ABC-type proline/glycine betaine transport system, permease component	OpuBB			
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_04430	COG1132	V	ABC-type multidrug transport system, ATPase and permease component	MdlB			2HYD
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_04455	COG0420	L	DNA repair exonuclease SbcCD nuclease subunit	SbcD			6S85
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_04470	COG1087	M	UDP-glucose 4-epimerase	GalE			1A9Y
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_04475	COG0399	M	dTDP-4-amino-4,6-dideoxygalactose transaminase	WecE		15271350	4PIW
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_04480	COG1086	MO	NDP-sugar epimerase, includes UDP-GlcNAc-inverting 4,6-dehydratase FlaA1 and capsular polysaccharide biosynthesis protein EpsC	FlaA1			2GN4
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_04485	COG0110	R	Acetyltransferase, isoleucine patch superfamily	WbbJ			
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_04495	COG0297	G	Glycogen synthase	GlgA			1RZU
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_04500	COG1071	C	TPP-dependent pyruvate or acetoin dehydrogenase subunit alpha	AcoA	Pyruvate oxidation		1DTW
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_04505	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_04510	COG0726	GM	Peptidoglycan/xylan/chitin deacetylase, PgdA/NodB/CDA1 family	CDA1			1NY1
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_04515	COG1388	M	LysM repeat	LysM			1E0G
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_04535	COG1635	GH	Thiazole synthase/Archaeal ribulose 1,5-bisphosphate synthetase	THI4		15375115	3FPZ
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_04540	COG0022	C	Pyruvate/2-oxoglutarate/acetoin dehydrogenase complex, dehydrogenase (E1) component, beta subunit	AcoB	Pyruvate oxidation		2OZL
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_04545	COG1212	M	CMP-2-keto-3-deoxyoctulosonic acid synthetase	KdsB	Lipid A biosynthesis		1VH1
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_04550	COG4221	C	NADP-dependent 3-hydroxy acid dehydrogenase YdfG	YdfG	Pyrimidine degradation		3P19
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_04555	COG0560	E	Phosphoserine phosphatase	SerB	Serine biosynthesis		3N28
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_04580	COG0304	IQ	3-oxoacyl-(acyl-carrier-protein) synthase	FabB	Fatty acid biosynthesis	21652641	2UV8
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_04585	COG0613	F	5'-3' exoribonuclease TrpH/YciV (RNase AM), contains PHP domain	YciV		25871919	3E0F
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_04590	COG0695	O	Glutaredoxin	GrxC			1AAZ
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_04600	COG3568	R	Metal-dependent hydrolase, endonuclease/exonuclease/phosphatase family	ElsH		15178340	
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_04610	COG2944	K	DNA-binding transcriptional regulator YiaG, XRE-type HTH domain	YiaG			5JAA
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_04615	COG1026	O	Zn-dependent peptidase, M16 (insulinase) family	Cym1			2FGE
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_04620	COG1218	P	3'-Phosphoadenosine 5'-phosphosulfate (PAPS) 3'-phosphatase	CysQ			
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_04625	COG3199	F	NAD kinase				
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_04630	COG0508	C	Pyruvate/2-oxoglutarate dehydrogenase complex, dihydrolipoamide acyltransferase (E2) component	AceF	Pyruvate oxidation		1B5S
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_04635	COG1154	HI	Deoxyxylulose-5-phosphate synthase	Dxs	Pyridoxal phosphate biosynthesis		2O1S
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_04640	COG0028	EH	Acetolactate synthase large subunit or other thiamine pyrophosphate-requiring enzyme	IlvB	Isoleucine, leucine, valine biosynthesis		1BFD
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_04645	COG0187	L	DNA gyrase/topoisomerase IV, subunit B	GyrB			1EI1
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_04650	COG3254	M	L-rhamnose mutarotase	RhaM			1X8D
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_04665	COG2256	L	Replication-associated recombination protein RarA (DNA-dependent ATPase)	RarA			3PVS
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_04675	COG0776	L	Bacterial nucleoid DNA-binding protein IHF-alpha	HimA			1B8Z
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_04680	COG1023	G	6-phosphogluconate dehydrogenase (decarboxylating)	YqeC			4E21
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_04685	COG3956	R	Uncharacterized conserved protein YabN, contains tetrapyrrole methylase and MazG-like pyrophosphatase domain	YabN			
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_04690	COG1236	J	RNA processing exonuclease, beta-lactamase fold, Cft2 family	YSH1			2DKF
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_04695	COG1099	R	Predicted metal-dependent hydrolase, TIM-barrel fold				3GUW
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_04700	COG0525	J	Valyl-tRNA synthetase	ValS	Aminoacyl-tRNA synthetases		1GAX
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_04705	COG2812	L	DNA polymerase III, gamma/tau subunits	DnaX			1A5T
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_04710	COG0125	F	Thymidylate kinase	Tmk	Thymidylate biosynthesis		3LV8
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_04715	COG2367	V	Beta-lactamase class A	PenP			6W34
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_04720	COG0174	E	Glutamine synthetase	GlnA	Glutamine biosynthesis		1F1H
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_04730	COG2017	G	Galactose mutarotase or related enzyme	GalM			1LUR
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_04745	COG1917	R	Cupin domain protein related to quercetin dioxygenase	QdoI			2H0V
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_04750	COG0499	H	S-adenosylhomocysteine hydrolase	SAM1			1A7A
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_04755	COG3393	R	Predicted acetyltransferase, GNAT family				
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_04775	COG3618	R	Predicted metal-dependent hydrolase, TIM-barrel fold				
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_04780	COG1052	CHR	Lactate dehydrogenase or related 2-hydroxyacid dehydrogenase	LdhA	Pyridoxal phosphate biosynthesis		1DXY
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_04785	COG1506	E	Dipeptidyl aminopeptidase/acylaminoacyl peptidase	DAP2			2JBW
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_04795	COG0697	GER	Permease of the drug/metabolite transporter (DMT) superfamily	RhaT			5I20
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_04800	COG1011	H	FMN and 5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YigB, HAD superfamily (riboflavin biosynthesis)	YigB		24123841	4JB3
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_04805	COG0623	I	Enoyl-[acyl-carrier-protein] reductase FabI	FabI	Fatty acid biosynthesis		1C14
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_04810	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_04830	COG0412	Q	Dienelactone hydrolase	DLH			4ZV9
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_04835	COG1977	H	Molybdopterin synthase sulfur carrier subunit MoaD	MoaD	Molybdopterin biosynthesis	32239579	1FM0
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_04845	COG0031	E	Cysteine synthase	CysK	Cysteine biosynthesis		1FCJ
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_04850	COG0607	P	Rhodanese-related sulfurtransferase	PspE	Urea cycle		1TQ1
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_04880	COG1087	M	UDP-glucose 4-epimerase	GalE			1A9Y
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_04885	COG1510	K	DNA-binding transcriptional regulator GbsR, MarR family	GbsR			1KU9
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_04895	COG0554	C	Glycerol kinase	GlpK			2ZF5
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_04905	COG0451	M	Nucleoside-diphosphate-sugar epimerase	WcaG			2X4G
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_04910	COG0044	F	Dihydroorotase or related cyclic amidohydrolase	AllB	Pyrimidine biosynthesis		1J79
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_04925	COG3752	R	Steroid 5-alpha reductase family enzyme				
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_04930	COG0623	I	Enoyl-[acyl-carrier-protein] reductase FabI	FabI	Fatty acid biosynthesis		1C14
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_04935	COG2072	P	Predicted flavoprotein CzcO associated with the cation diffusion facilitator CzcD	CzcO			4USQ
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_04940	COG0673	R	Predicted dehydrogenase	MviM			3UUW
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_04945	COG1167	KE	DNA-binding transcriptional regulator, MocR family, contains an aminotransferase domain	ARO8	Lysine biosynthesis		2R2N
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_04950	COG1001	F	Adenine deaminase	AdeC			3NQB
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_04955	COG1087	M	UDP-glucose 4-epimerase	GalE			1A9Y
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_04965	COG0600	P	ABC-type nitrate/sulfonate/bicarbonate transport system, permease component	TauC			
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_04970	COG1173	EP	ABC-type dipeptide/oligopeptide/nickel transport system, permease component	DppC			
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_04975	COG4533	K	DNA-binding transcriptional regulator SgrR of sgrS sRNA, contains a MarR-type HTH domain and a periplasmic-type solute-binding domain	SgrR			
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_04995	COG4174	Q	ABC-type microcin C transport system, permease component YejB	YejB		17873039	
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_05005	COG0623	I	Enoyl-[acyl-carrier-protein] reductase FabI	FabI	Fatty acid biosynthesis		1C14
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_05030	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_05035	COG0432	H	Thiamin phosphate synthase YjbQ, UPF0047 family	YjbQ			1VE0
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_05055	COG0558	I	Phosphatidylglycerophosphate synthase	PgsA	Phospholipid biosynthesis		4MND
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_05060	COG0297	G	Glycogen synthase	GlgA			1RZU
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_05065	COG0405	E	Gamma-glutamyltranspeptidase	Ggt		16618936	2Z8I
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_05070	COG1173	EP	ABC-type dipeptide/oligopeptide/nickel transport system, permease component	DppC			
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_05075	COG1173	EP	ABC-type dipeptide/oligopeptide/nickel transport system, permease component	DppC			
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_05080	COG4166	E	ABC-type oligopeptide transport system, periplasmic component	OppA			1B05
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_05085	COG1186	J	Protein chain release factor PrfB	PrfB	Translation factors		1GQE
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_05095	COG4148	P	ABC-type molybdate transport system, ATPase component ModC	ModC	Molybdopterin biosynthesis		
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_05100	COG4598	E	ABC-type histidine transport system, ATPase component	HisP			1B0U
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_05105	COG4177	E	ABC-type branched-chain amino acid transport system, permease component	LivM			
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_05110	COG0559	E	Branched-chain amino acid ABC-type transport system, permease component	LivH			
+Actinobacteria_bacterium_NP978	GCA_002725135.1	KDLPOO_05115	COG0683	E	ABC-type branched-chain amino acid transport system, periplasmic component	LivK			1USG

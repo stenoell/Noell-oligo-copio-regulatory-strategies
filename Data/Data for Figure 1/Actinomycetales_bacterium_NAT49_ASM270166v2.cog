@@ -1,0 +1,853 @@
+#prefix	assemid	query	COG	category	name	Gene	pathway	pmid	pdb_id
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_00005	COG0480	J	Translation elongation factor EF-G, a GTPase	FusA	Translation factors		1DAR
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_00010	COG0520	E	Selenocysteine lyase/Cysteine desulfurase	CsdA			4LW2
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_00020	COG0395	G	ABC-type glycerol-3-phosphate transport system, permease component	UgpE			1VR4
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_00025	COG1178	P	ABC-type Fe3+ transport system, permease component	FbpB			
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_00035	COG1117	P	ABC-type phosphate transport system, ATPase component	PstB			
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_00050	COG1154	HI	Deoxyxylulose-5-phosphate synthase	Dxs	Pyridoxal phosphate biosynthesis		2O1S
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_00055	COG0494	V	8-oxo-dGTP pyrophosphatase MutT and related house-cleaning NTP pyrophosphohydrolases, NUDIX family	MutT			4V14
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_00060	COG1249	C	Dihydrolipoamide dehydrogenase (E3) component of pyruvate/2-oxoglutarate dehydrogenase complex or glutathione oxidoreductase	Lpd	Glycine cleavagePyruvate oxidation		6QKG
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_00070	COG0382	H	4-hydroxybenzoate polyprenyltransferase	UbiA	Ubiquinone biosynthesis	28830929	4OD4
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_00075	COG2204	T	DNA-binding transcriptional response regulator, NtrC family, contains REC, AAA-type ATPase, and a Fis-type DNA-binding domains	AtoC			1ZY2
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_00095	COG1158	K	Transcription termination factor Rho	Rho			1PVO
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_00100	COG1317	NU	Flagellar biosynthesis/type III secretory pathway protein FliH	FliH			5B0O
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_00105	COG1536	N	Flagellar motor switch protein FliG	FliG			4FHR
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_00110	COG4669	U	Type III secretory pathway, lipoprotein EscJ	EscJ			1YJ7
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_00120	COG1558	N	Flagellar basal body rod protein FlgC	FlgC			
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_00125	COG1815	N	Flagellar basal body rod protein FlgB	FlgB			
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_00130	COG0791	M	Cell wall-associated hydrolase, NlpC_P60 family	NlpC			2EVR
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_00135	COG3173	R	Predicted  kinase, aminoglycoside phosphotransferase (APT) family	YcbJ			
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_00185	COG2227	H	2-polyprenyl-3-methyl-5-hydroxy-6-metoxy-1,4-benzoquinol methylase	UbiG	Ubiquinone biosynthesis		1BHJ
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_00195	COG1941	C	Coenzyme F420-reducing hydrogenase, gamma subunit	FrhG			5ODC
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_00205	COG0852	C	NADH:ubiquinone oxidoreductase 27 kD subunit (chain C)	NuoC	NADH dehydrogenase		
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_00225	COG0243	C	Anaerobic selenocysteine-containing dehydrogenase	BisC			1EU1
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_00230	COG1005	C	NADH:ubiquinone oxidoreductase subunit 1 (chain H)	NuoH	NADH dehydrogenase		6HUM
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_00235	COG1145	C	Ferredoxin	NapF			6FAH
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_00245	COG0713	C	NADH:ubiquinone oxidoreductase subunit 11 or 4L (chain K)	NuoK	NADH dehydrogenase		4HE8
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_00250	COG1009	C	Membrane H+-translocase/NADH:ubiquinone oxidoreductase subunit 5 (chain L)/Multisubunit Na+/H+ antiporter, MnhA subunit	NuoL	NADH dehydrogenase		3RKO
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_00255	COG1008	C	NADH:ubiquinone oxidoreductase subunit 4 (chain M)	NuoM	NADH dehydrogenase		6HUM
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_00260	COG1007	C	NADH:ubiquinone oxidoreductase subunit 2 (chain N)	NuoN	NADH dehydrogenase		4HE8
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_00265	COG0142	H	Geranylgeranyl pyrophosphate synthase	IspA	Isoprenoid biosynthesis		2AZJ
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_00295	COG5271	J	Midasin, AAA ATPase with  vWA domain, involved in ribosome maturation	MDN1			6HYP
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_00300	COG1240	H	vWFA (von Willebrand factor type A) domain of Mg and Co chelatases	ChlD			
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_00340	COG3427	C	Carbon monoxide dehydrogenase subunit CoxG	CoxG			2NS9
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_00350	COG1529	C	Aldehyde, CO or xanthine dehydrogenase, Mo-binding subunit	CoxL	Non-phosphorylated Entner-Doudoroff pathway	10095793	1DGJ
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_00355	COG2080	C	Aldehyde, CO, or xanthine dehydrogenase, Fe-S subunit, CoxS/CutS family	CutS	Non-phosphorylated Entner-Doudoroff pathway	21175741	1FFU
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_00360	COG1319	C	Aldehyde, CO, or xanthine dehydrogenase, FAD-binding subunit	CutB	Non-phosphorylated Entner-Doudoroff pathway		5Y6Q
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_00370	COG1975	O	Molybdoenzyme maturation factor PaoD (Mo cofactor insertion), XdhC/CoxF family	XdhC		24498065	2WE7
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_00375	COG0512	EH	Anthranilate/para-aminobenzoate synthase component II (glutamine amidotransferase)	PabA	Aromatic amino acid biosynthesis		1I1Q
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_00385	COG1233	Q	Phytoene dehydrogenase-related protein				4REP
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_00390	COG1012	I	Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase	AdhE	Proline degradation		1A4S
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_00395	COG2070	R	NAD(P)H-dependent flavin oxidoreductase YrpB, nitropropane dioxygenase family	YrpB			
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_00400	COG0516	F	IMP dehydrogenase/GMP reductase	GuaB	Purine biosynthesis		1B3O
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_00410	COG0789	K	DNA-binding transcriptional regulator, MerR family	SoxR			2VZ4
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_00415	COG1716	T	Forkhead associated (FHA) domain, binds pSer, pThr, pTyr	FHA			2FEZ
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_00420	COG0509	E	Glycine cleavage system protein H (lipoate-binding)	GcvH	Glycine cleavage		1DXM
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_00425	COG0558	I	Phosphatidylglycerophosphate synthase	PgsA	Phospholipid biosynthesis		4MND
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_00430	COG0730	P	Sulfite exporter TauE/SafE/YfcA and related permeases, UPF0721 family	TauE		21183667;22797525	
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_00435	COG0415	L	Deoxyribodipyrimidine photolyase	PhrB			1TEZ
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_00440	COG0411	E	ABC-type branched-chain amino acid transport system, ATPase component LivG	LivG		29514851	1G9X
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_00445	COG2217	P	Cation-transporting P-type ATPase	ZntA			4BBJ
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_00450	COG0300	R	Short-chain dehydrogenase	YqjQ			
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_00455	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_00460	COG3548	S	Uncharacterized membrane protein				5VRE
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_00465	COG3360	R	Flavin-binding protein dodecin			12679016	1MOG
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_00475	COG3346	O	Cytochrome oxidase assembly protein ShyY1	Shy1			
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_00480	COG4555	CP	ABC-type Na+ transport system, ATPase component NatA	NatA			
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_00485	COG0447	H	1,4-Dihydroxy-2-naphthoyl-CoA synthase	MenB	Menaquinone biosynthesis		4ELS
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_00490	COG4988	CO	ABC-type transport system involved in cytochrome bd biosynthesis, ATPase and permease components	CydD			
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_00505	COG3844	E	Kynureninase	Bna5			
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_00510	COG1123	O	ABC-type glutathione transport system ATPase component, contains duplicated ATPase domain	GsiA			
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_00515	COG2146	PQ	Ferredoxin subunit of nitrite reductase or a ring-hydroxylating dioxygenase	NirD		23844911	1FQT
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_00525	COG0719	O	Fe-S cluster assembly scaffold protein SufB	SufB			1VH4
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_00540	COG0382	H	4-hydroxybenzoate polyprenyltransferase	UbiA	Ubiquinone biosynthesis	28830929	4OD4
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_00545	COG0021	G	Transketolase	TktA	Pentose phosphate pathway		1AY0
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_00565	COG0149	G	Triosephosphate isomerase	TpiA	Glycolysis		1HG3
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_00570	COG0126	G	3-phosphoglycerate kinase	Pgk	Glycolysis		13PK
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_00575	COG0057	G	Glyceraldehyde-3-phosphate dehydrogenase/erythrose-4-phosphate dehydrogenase	GapA	Glycolysis		3ZDF
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_00580	COG1481	K	DNA-binding transcriptional regulator WhiA, involved in cell division	WhiA			3HYI
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_00590	COG0391	GH	Archaeal 2-phospho-L-lactate transferase/Bacterial gluconeogenesis factor, CofD/UPF0052 family	CofD		11888293;18252724	1ZX8
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_00600	COG0322	L	Excinuclease UvrABC, nuclease subunit	UvrC		24513124	2NRT
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_00605	COG4638	PR	Phenylpropionate dioxygenase or related ring-hydroxylating dioxygenase, large terminal subunit	HcaE			4QDC
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_00610	COG4988	CO	ABC-type transport system involved in cytochrome bd biosynthesis, ATPase and permease components	CydD			
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_00615	COG0491	R	Glyoxylase or a related metal-dependent hydrolase, beta-lactamase superfamily II	GloB		25670698	1QH3
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_00625	COG0861	P	Tellurite resistance membrane protein TerC	TerC			
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_00630	COG0513	L	Superfamily II DNA and RNA helicase	SrmB			3RRM
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_00635	COG3911	R	Predicted ATPase				
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_00640	COG1185	J	Polyribonucleotide nucleotidyltransferase (polynucleotide phosphorylase)	Pnp			1E3P
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_00650	COG0749	L	DNA polymerase I, 3'-5' exonuclease and polymerase domains	PolA			1D8Y
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_00655	COG2050	Q	Acyl-CoA thioesterase PaaI, contains HGG motif	PaaI			1PSU
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_00660	COG4177	E	ABC-type branched-chain amino acid transport system, permease component	LivM			
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_00665	COG0559	E	Branched-chain amino acid ABC-type transport system, permease component	LivH			
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_00670	COG4987	CO	ABC-type transport system involved in cytochrome bd biosynthesis, fused ATPase and permease components	CydC			
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_00675	COG4175	E	ABC-type proline/glycine betaine transport system, ATPase component	ProV			
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_00690	COG1102	F	Cytidylate kinase	CmkB			
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_00695	COG0287	E	Prephenate dehydrogenase	TyrA	Aromatic amino acid biosynthesis		2F1K
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_00705	COG0564	J	Pseudouridine synthase RluA, 23S rRNA- or tRNA-specific	RluA	23S rRNA modification		2I82
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_00710	COG1386	K	Chromosome segregation and condensation protein ScpB	ScpB			1T6S
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_00720	COG0003	P	Anion-transporting ATPase, ArsA/GET3 family	ArsA			1F48
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_00725	COG0582	LX	Integrase/recombinase, includes phage integrase	FimB			
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_00730	COG0686	E	Alanine dehydrogenase (includes sporulation protein SpoVN)	Ald	Urea cycle		2EEZ
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_00735	COG0494	V	8-oxo-dGTP pyrophosphatase MutT and related house-cleaning NTP pyrophosphohydrolases, NUDIX family	MutT			4V14
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_00740	COG0504	F	CTP synthase (UTP-ammonia lyase)	PyrG	Pyrimidine biosynthesis		1S1M
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_00745	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_00750	COG1597	IR	Phosphatidylglycerol kinase, diacylglycerol kinase family	LCB5		17351295	2BON
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_00755	COG1187	J	Pseudouridylate synthase RsuA, specific for 16S rRNA U516  and 23S rRNA U2605	RsuA	16S rRNA modification		1KSK
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_00765	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_00770	COG0438	M	Glycosyltransferase involved in cell wall bisynthesis	RfaB			2IV7
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_00775	COG1898	M	dTDP-4-dehydrorhamnose 3,5-epimerase or related enzyme	RfbC			1DZR
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_00790	COG1086	MO	NDP-sugar epimerase, includes UDP-GlcNAc-inverting 4,6-dehydratase FlaA1 and capsular polysaccharide biosynthesis protein EpsC	FlaA1			2GN4
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_00800	COG3693	G	Endo-1,4-beta-xylanase, GH35 family	XynA			1B30
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_00805	COG2230	I	Cyclopropane fatty-acyl-phospholipid synthase and related methyltransferases	Cfa			5Z9O
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_00810	COG1087	M	UDP-glucose 4-epimerase	GalE			1A9Y
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_00825	COG1396	K	Transcriptional regulator, contains XRE-family HTH domain	HipB			1ADR
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_00840	COG0697	GER	Permease of the drug/metabolite transporter (DMT) superfamily	RhaT			5I20
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_00845	COG2169	L	Methylphosphotriester-DNA--protein-cysteine methyltransferase (N-terminal fragment of Ada), contains Zn-binding and two AraC-type DNA-binding domains	AdaA			1ADN
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_00860	COG1197	LK	Transcription-repair coupling factor (superfamily II helicase)	Mfd			2EYQ
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_00865	COG0449	M	Glucosamine 6-phosphate synthetase, contains amidotransferase and phosphosugar isomerase domains	GlmS			2J6H
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_00870	COG0062	F	NAD(P)H-hydrate repair enzyme Nnr, NAD(P)H-hydrate epimerase domain	Nnr1			3RRB
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_00875	COG3457	E	Predicted amino acid racemase	YhfX		23091052	4KBX
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_00880	COG0596	HR	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold	MenH	Menaquinone biosynthesis		4MYS
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_00885	COG0802	J	tRNA A37 threonylcarbamoyladenosine biosynthesis protein TsaE	TsaE	tRNA modification		1FL9
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_00890	COG0533	J	tRNA A37 threonylcarbamoyltransferase TsaD	TsaD	tRNA modification	23072323;21285948;32385138	3ENO
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_00895	COG0456	J	Ribosomal protein S18 acetylase RimI and related acetyltransferases	RimI			1GHE
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_00900	COG0533	J	tRNA A37 threonylcarbamoyltransferase TsaD	TsaD	tRNA modification	23072323;21285948;32385138	3ENO
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_00905	COG2265	J	tRNA/tmRNA/rRNA uracil-C5-methylase, TrmA/RlmC/RlmD family	TrmA	tRNA modification		1UWV
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_00915	COG1131	V	ABC-type multidrug transport system, ATPase component	CcmA			5DO7
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_00920	COG1748	E	Saccharopine dehydrogenase, NADP-dependent	Lys9	Lysine biosynthesis		1E5L
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_00925	COG0169	E	Shikimate 5-dehydrogenase	AroE	Aromatic amino acid biosynthesis		1NPD
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_00930	COG1064	G	D-arabinose 1-dehydrogenase, Zn-dependent alcohol dehydrogenase family	AdhP			5O8Q
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_00935	COG2235	E	Arginine deiminase	ArcA			2A9G
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_00950	COG3527	Q	Alpha-acetolactate decarboxylase	AlsD			1XV2
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_00970	COG4191	T	Signal transduction histidine kinase regulating C4-dicarboxylate transport system				4GCZ
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_00985	COG0438	M	Glycosyltransferase involved in cell wall bisynthesis	RfaB			2IV7
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_00990	COG1212	M	CMP-2-keto-3-deoxyoctulosonic acid synthetase	KdsB	Lipid A biosynthesis		1VH1
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_00995	COG0438	M	Glycosyltransferase involved in cell wall bisynthesis	RfaB			2IV7
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_01000	COG1091	M	dTDP-4-dehydrorhamnose reductase	RfbD			1KBZ
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_01005	COG1088	M	dTDP-D-glucose 4,6-dehydratase	RfbB			1G1A
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_01010	COG1216	G	Glycosyltransferase, GT2 family	WcaE			2Z86
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_01015	COG0448	G	Glucose-1-phosphate adenylyltransferase (ADP-glucose pyrophosphorylase)	GlgC		27545622	5MNI
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_01020	COG0438	M	Glycosyltransferase involved in cell wall bisynthesis	RfaB			2IV7
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_01025	COG1216	G	Glycosyltransferase, GT2 family	WcaE			2Z86
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_01035	COG2814	G	Predicted arabinose efflux permease AraJ, MFS family	AraJ			4LDS
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_01040	COG1606	R	ATP-utilizing enzyme, PP-loop superfamily				6B2O
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_01045	COG0174	E	Glutamine synthetase	GlnA	Glutamine biosynthesis		1F1H
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_01055	COG0174	E	Glutamine synthetase	GlnA	Glutamine biosynthesis		1F1H
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_01060	COG1714	S	Uncharacterized membrane protein YckC, RDD family	YckC			
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_01075	COG0502	H	Biotin synthase or related enzyme	BioB	Biotin biosynthesis		1R30
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_01085	COG1233	Q	Phytoene dehydrogenase-related protein				4REP
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_01095	COG1012	I	Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase	AdhE	Proline degradation		1A4S
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_01105	COG2334	T	Ser/Thr protein kinase RdoA involved in Cpx stress response, MazF antagonist	SrkA	Threonine biosynthesis		1ZYL
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_01115	COG1816	F	Adenosine deaminase	Add	Menaquinone biosynthesis		1A4L
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_01120	COG4766	E	Ethanolamine utilization protein EutQ, cupin superfamily (function unknown)	EutQ			2PYT
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_01130	COG0213	F	Thymidine phosphorylase	DeoA	Pyrimidine salvage		1AZY
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_01135	COG1137	M	ABC-type lipopolysaccharide export system, ATPase component	LptB		12029038	5L75
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_01140	COG4603	F	ABC-type guanosine uptake system NupNOPQ, permease component NupP	NupP		21926227	
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_01145	COG0559	E	Branched-chain amino acid ABC-type transport system, permease component	LivH			
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_01150	COG1744	T	Lipoprotein Med, regulator of KinD/Spo0A, PBP1-ABC superfamily, includes NupN	Med		21622736	2FQW
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_01155	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_01160	COG3542	R	Predicted sugar epimerase, cupin superfamily	CFF1		15608122	1XE7
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_01165	COG0044	F	Dihydroorotase or related cyclic amidohydrolase	AllB	Pyrimidine biosynthesis		1J79
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_01170	COG0005	F	Purine nucleoside phosphorylase	XapA	Purine salvage		1YQQ
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_01180	COG1884	I	Methylmalonyl-CoA mutase, N-terminal domain/subunit	Sbm			6OXC
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_01185	COG2009	C	Succinate dehydrogenase/fumarate reductase, cytochrome b subunit	SdhC		18511537	2WU2
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_01190	COG2142	C	Succinate dehydrogenase, hydrophobic anchor subunit	SdhD			2WS3
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_01195	COG1053	C	Succinate dehydrogenase/fumarate reductase, flavoprotein subunit	SdhA	TCA cycle		1KF6
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_01200	COG1150	C	Heterodisulfide reductase, subunit C	HdrC			5ODC
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_01205	COG1052	CHR	Lactate dehydrogenase or related 2-hydroxyacid dehydrogenase	LdhA	Pyridoxal phosphate biosynthesis		1DXY
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_01210	COG2301	G	Citrate lyase beta subunit	CitE			4ROQ
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_01215	COG3386	G	Sugar lactone lactonase YvrE	YvrE	Non-phosphorylated Entner-Doudoroff pathway		1E1A
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_01225	COG3960	Q	Glyoxylate carboligase	Gcl			
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_01230	COG4221	C	NADP-dependent 3-hydroxy acid dehydrogenase YdfG	YdfG	Pyrimidine degradation		3P19
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_01235	COG1012	I	Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase	AdhE	Proline degradation		1A4S
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_01250	COG5256	J	Translation elongation factor EF-1alpha (GTPase)	TEF1	Translation factors		1F60
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_01255	COG0049	J	Ribosomal protein S7	RpsG	Ribosome 30S subunit		4V4H
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_01260	COG0048	J	Ribosomal protein S12	RpsL	Ribosome 30S subunit		4V4H
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_01270	COG0647	F	Ribonucleotide monophosphatase NagD, HAD superfamily	NagD			1PW5
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_01275	COG0086	K	DNA-directed RNA polymerase, beta' subunit/160 kD subunit	RpoC	RNA polymerase		1NT9
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_01300	COG1069	G	Ribulose kinase	AraB			3QDK
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_01305	COG2609	C	Pyruvate dehydrogenase complex, dehydrogenase (E1) component	AceE	Pyruvate oxidation		1L8A
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_01310	COG2609	C	Pyruvate dehydrogenase complex, dehydrogenase (E1) component	AceE	Pyruvate oxidation		1L8A
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_01320	COG0683	E	ABC-type branched-chain amino acid transport system, periplasmic component	LivK			1USG
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_01325	COG4177	E	ABC-type branched-chain amino acid transport system, permease component	LivM			
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_01330	COG4177	E	ABC-type branched-chain amino acid transport system, permease component	LivM			
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_01335	COG4175	E	ABC-type proline/glycine betaine transport system, ATPase component	ProV			
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_01340	COG1123	O	ABC-type glutathione transport system ATPase component, contains duplicated ATPase domain	GsiA			
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_01345	COG1215	N	Glycosyltransferase, catalytic subunit of cellulose synthase and poly-beta-1,6-N-acetylglucosamine synthase	BcsA			4HG6
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_01350	COG0081	J	Ribosomal protein L1	RplA	Ribosome 50S subunit		3J65
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_01355	COG0080	J	Ribosomal protein L11	RplK	Ribosome 50S subunit		2E34
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_01365	COG0690	U	Preprotein translocase subunit SecE	SecE		29684280	5MG3
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_01375	COG3977	E	Alanine-alpha-ketoisovalerate (or valine-pyruvate) aminotransferase	AvtA			3G7Q
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_01385	COG1216	G	Glycosyltransferase, GT2 family	WcaE			2Z86
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_01390	COG2030	I	Acyl-CoA dehydratase PaaZ	MaoC			5ZY8
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_01400	COG0267	J	Ribosomal protein L33	RpmG	Ribosome 50S subunit		1VS6
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_01415	COG0300	R	Short-chain dehydrogenase	YqjQ			
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_01420	COG3349	R	Uncharacterized protein, contains NAD-binding domain and a Fe-S cluster				5MOG
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_01430	COG0332	I	3-oxoacyl-[acyl-carrier-protein] synthase III	FabH	Fatty acid biosynthesis		1UB7
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_01445	COG1974	KT	SOS-response transcriptional repressor LexA (RecA-mediated autopeptidase)	LexA			1AY9
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_01455	COG1071	C	TPP-dependent pyruvate or acetoin dehydrogenase subunit alpha	AcoA	Pyruvate oxidation		1DTW
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_01460	COG0300	R	Short-chain dehydrogenase	YqjQ			
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_01465	COG0607	P	Rhodanese-related sulfurtransferase	PspE	Urea cycle		1TQ1
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_01470	COG0136	E	Aspartate-semialdehyde dehydrogenase	Asd	Lysine biosynthesis		1BRM
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_01475	COG1044	M	UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase	LpxD	Lipid A biosynthesis		6P83
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_01480	COG1360	N	Flagellar motor protein MotB	MotB			
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_01485	COG0460	E	Homoserine dehydrogenase	ThrA	Methionine biosynthesis	29124164	5AVO
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_01495	COG0618	FT	nanoRNase/pAp phosphatase, hydrolyzes c-di-AMP and oligoRNAs	NrnA			5O4Z
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_01505	COG0810	M	Periplasmic protein TonB, links inner and outer membranes	TonB			1IHR
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_01510	COG4206	H	Outer membrane cobalamin receptor protein BtuB	BtuB			1NQE
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_01515	COG0225	O	Peptide methionine sulfoxide reductase MsrA	MsrA			1FF3
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_01520	COG0778	C	Nitroreductase	NfnB	Pyrimidine degradation		1F5V
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_01525	COG1207	M	Bifunctional protein GlmU, N-acetylglucosamine-1-phosphate-uridyltransferase/glucosamine-1-phosphate-acetyltransferase	GlmU			3FWW
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_01535	COG2385	M	Peptidoglycan hydrolase (amidase) enhancer domain SpoIID	SpoIID			
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_01545	COG1216	G	Glycosyltransferase, GT2 family	WcaE			2Z86
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_01555	COG0558	I	Phosphatidylglycerophosphate synthase	PgsA	Phospholipid biosynthesis		4MND
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_01565	COG1131	V	ABC-type multidrug transport system, ATPase component	CcmA			5DO7
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_01570	COG1178	P	ABC-type Fe3+ transport system, permease component	FbpB			
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_01585	COG1266	O	Membrane protease YdiL, CAAX protease family	YdiL			
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_01595	COG0565	J	tRNA C32,U32 (ribose-2'-O)-methylase TrmJ or a related methyltransferase	TrmJ	tRNA modification		3ONP
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_01600	COG0215	J	Cysteinyl-tRNA synthetase	CysS	Aminoacyl-tRNA synthetases		1LI5
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_01615	COG0245	I	2C-methyl-D-erythritol 2,4-cyclodiphosphate synthase	IspF	Isoprenoid biosynthesis		1GX1
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_01625	COG1197	LK	Transcription-repair coupling factor (superfamily II helicase)	Mfd			2EYQ
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_01635	COG3706	TK	Two-component response regulator, PleD family, consists of two REC domains and a diguanylate cyclase (GGDEF) domain	PleD			1W25
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_01640	COG3852	T	Signal transduction histidine kinase NtrB, nitrogen specific	NtrB		23893111	
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_01645	COG0006	E	Xaa-Pro aminopeptidase	PepP			1A16
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_01650	COG2186	K	DNA-binding transcriptional regulator, FadR family	FadR			1E2X
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_01655	COG0346	Q	Catechol 2,3-dioxygenase or related enzyme, vicinal oxygen chelate (VOC) family	GloA		11830595	3R4Q
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_01660	COG3958	G	Transketolase, C-terminal subunit	TktA2			
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_01665	COG0508	C	Pyruvate/2-oxoglutarate dehydrogenase complex, dihydrolipoamide acyltransferase (E2) component	AceF	Pyruvate oxidation		1B5S
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_01675	COG0138	F	AICAR transformylase/IMP cyclohydrolase PurH	PurH	Purine biosynthesis		1G8M
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_01680	COG0788	F	Formyltetrahydrofolate hydrolase	PurU	Purine biosynthesis		3O1L
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_01685	COG5473	S	Uncharacterized membrane protein				
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_01700	COG1042	C	Acyl-CoA synthetase (NDP forming)	PatZN		26251518	4YAK
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_01705	COG0151	F	Phosphoribosylamine-glycine ligase	PurD	Purine biosynthesis		1GSO
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_01710	COG5012	C	Methanogenic corrinoid protein MtbC1	MtbC1			1Y80
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_01715	COG0431	C	NAD(P)H-dependent FMN reductase	SsuE			6DQI
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_01720	COG0281	C	Malic enzyme	SfcA	Urea cycle		1DO8
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_01725	COG0210	L	Superfamily I DNA or RNA helicase	UvrD			6PPR
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_01735	COG0589	T	Nucleotide-binding universal stress protein,  UspA family	UspA			1JMV
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_01740	COG2040	E	Homocysteine/selenocysteine methylase (S-methylmethionine-dependent)	MHT1			5DML
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_01750	COG4942	D	Septal ring factor EnvC, activator of murein hydrolases AmiA and AmiB	EnvC			
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_01755	COG0189	EHJQ	Glutathione synthase, LysX or RimK-type ligase, ATP-grasp superfamily	LysX	Lysine biosynthesis		1GLV
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_01765	COG0698	G	Ribose 5-phosphate isomerase RpiB	RpiB	Pentose phosphate pathway		1NN4
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_01770	COG1070	G	Sugar (pentulose or hexulose) kinase	XylB	Non-phosphorylated Entner-Doudoroff pathway		4C23
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_01775	COG2240	H	Pyridoxal/pyridoxine/pyridoxamine kinase	PdxK	Pyridoxal phosphate biosynthesis	19096365;23189126	5ZW9
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_01785	COG0793	O	C-terminal processing protease CtpA/Prc, contains a PDZ domain	CtpA			6IQU
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_01795	COG0150	F	Phosphoribosylaminoimidazole (AIR) synthetase	PurM	Purine biosynthesis		1CLI
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_01800	COG0367	E	Asparagine synthetase B (glutamine-hydrolyzing)	AsnB	Asparagine biosynthesis	25951518	2ETD
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_01805	COG4618	U	ABC-type protease/lipase transport system, ATPase and permease components	ArpD			5L22
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_01810	COG0555	P	ABC-type sulfate transport system, permease component	CysU			3D31
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_01820	COG0046	F	Phosphoribosylformylglycinamidine (FGAM) synthase, synthetase domain	PurL1	Purine biosynthesis		3VIU
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_01825	COG0311	H	Pyridoxal 5'-phosphate synthase subunit PdxT (glutamine amidotransferase)	PdxT	Pyridoxal phosphate biosynthesis	18801996;24083939	2NV0
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_01830	COG1828	F	Phosphoribosylformylglycinamidine (FGAM) synthase, PurS subunit	PurS	Purine biosynthesis		1GTD
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_01840	COG0556	L	Excinuclease UvrABC helicase subunit UvrB	UvrB			1C4O
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_01845	COG1088	M	dTDP-D-glucose 4,6-dehydratase	RfbB			1G1A
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_01850	COG0152	F	Phosphoribosylaminoimidazole-succinocarboxamide synthase	PurC	Purine biosynthesis		1A48
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_01855	COG0015	F	Adenylosuccinate lyase	PurB	Purine biosynthesis		2HVG
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_01865	COG0599	R	Uncharacterized conserved protein YurZ, alkylhydroperoxidase/carboxymuconolactone decarboxylase family	YurZ			3BEY
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_01870	COG4242	QR	Cyanophycinase and related exopeptidases	CphB			3EN0
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_01880	COG2242	H	Precorrin-6B methylase 2	CobL	Cobalamine/B12 biosynthesis		1F38
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_01895	COG0673	R	Predicted dehydrogenase	MviM			3UUW
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_01900	COG1289	S	Uncharacterized membrane protein YccC	YccC			
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_01915	COG2807	P	Cyanate permease	CynX			
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_01920	COG0691	O	tmRNA-binding protein	SmpB		26251518	1J1H
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_01925	COG3883	S	Uncharacterized N-terminal coiled-coil domain of peptidoglycan hydrolase CwlO	CwlO1			4CGK
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_01930	COG2177	D	Cell division protein FtsX	FtsX			
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_01935	COG3845	F	ABC-type guanosine uptake system NupNOPQ, ATPase component NupO	NupO		21926227	
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_01940	COG1186	J	Protein chain release factor PrfB	PrfB	Translation factors		1GQE
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_01945	COG4962	UW	Pilus assembly protein, ATPase of CpaF family	CpaF			
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_01950	COG2267	I	Lysophospholipase, alpha-beta hydrolase superfamily	PldB			5O7G
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_01955	COG1668	CP	ABC-type Na+ efflux pump, permease component NatB	NatB			
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_01960	COG1119	P	ABC-type molybdenum transport system, ATPase component ModF/photorepair protein PhrA	ModF			2IHY
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_01965	COG1309	K	DNA-binding protein, AcrR family, includes nucleoid occlusion protein SlmA	AcrR			2QOP
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_01975	COG3396	Q	1,2-phenylacetyl-CoA epoxidase, catalytic subunit	YdbO			1OTK
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_01980	COG1205	L	ATP-dependent helicase YprA,  contains C-terminal metal-binding DUF1998 domain	YprA			
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_01985	COG4963	UW	Flp pilus assembly ATPase CpaE/TadZ, contains N-terminal REC/TadZ_N domain	CpaE			4LDA
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_01995	COG1051	F	ADP-ribose pyrophosphatase YjhB, NUDIX family	YjhB			3GZ5
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_02005	COG4221	C	NADP-dependent 3-hydroxy acid dehydrogenase YdfG	YdfG	Pyrimidine degradation		3P19
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_02015	COG0021	G	Transketolase	TktA	Pentose phosphate pathway		1AY0
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_02025	COG1069	G	Ribulose kinase	AraB			3QDK
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_02035	COG0697	GER	Permease of the drug/metabolite transporter (DMT) superfamily	RhaT			5I20
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_02050	COG1414	K	DNA-binding transcriptional regulator, IclR family	IclR			1MKM
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_02060	COG0300	R	Short-chain dehydrogenase	YqjQ			
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_02070	COG1804	I	Crotonobetainyl-CoA:carnitine CoA-transferase CaiB and related acyl-CoA transferases	CaiB			1P5H
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_02075	COG1804	I	Crotonobetainyl-CoA:carnitine CoA-transferase CaiB and related acyl-CoA transferases	CaiB			1P5H
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_02085	COG1804	I	Crotonobetainyl-CoA:carnitine CoA-transferase CaiB and related acyl-CoA transferases	CaiB			1P5H
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_02095	COG1804	I	Crotonobetainyl-CoA:carnitine CoA-transferase CaiB and related acyl-CoA transferases	CaiB			1P5H
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_02100	COG0677	M	UDP-N-acetyl-D-mannosaminuronate dehydrogenase	WecC			3OJL
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_02110	COG1832	R	Predicted CoA-binding protein	YccU			1IUK
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_02115	COG1691	F	NCAIR mutase (PurE)-related protein				
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_02120	COG0027	F	Formate-dependent phosphoribosylglycinamide formyltransferase (GAR transformylase)	PurT	Purine biosynthesis		1KJ8
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_02125	COG3428	S	Uncharacterized membrane protein YdbT, contains bPH2 (bacterial pleckstrin homology) domain	YdbT			
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_02130	COG0340	H	Biotin-(acetyl-CoA carboxylase) ligase	BirA2	Biotin biosynthesis	32188788	1BIA
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_02135	COG0777	I	Acetyl-CoA carboxylase beta subunit	AccD	Fatty acid biosynthesis		2F9I
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_02145	COG5472	S	Predicted small integral membrane protein				
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_02150	COG0424	Q	7-methyl-GTP pyrophosphatase and related NTP pyrophosphatases, Maf/HAM1 superfamily	Maf		24210219	2P5X
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_02155	COG0458	EF	Carbamoylphosphate synthase large subunit	CarB	Arginine biosynthesis		1C30
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_02165	COG0446	I	NADPH-dependent 2,4-dienoyl-CoA reductase, sulfur reductase, or a related oxidoreductase	FadH2			1VRQ
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_02170	COG0005	F	Purine nucleoside phosphorylase	XapA	Purine salvage		1YQQ
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_02175	COG1109	G	Phosphomannomutase	ManB			6MNV
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_02180	COG0274	F	Deoxyribose-phosphate aldolase	DeoC			1J2W
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_02185	COG1012	I	Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase	AdhE	Proline degradation		1A4S
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_02190	COG1101	R	ABC-type uncharacterized transport system, ATPase component	PhnK			
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_02195	COG1178	P	ABC-type Fe3+ transport system, permease component	FbpB			
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_02200	COG4590	R	ABC-type uncharacterized transport system, permease component				
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_02205	COG0303	H	Molybdopterin Mo-transferase (molybdopterin biosynthesis)	MoeA	Molybdopterin biosynthesis	18801996;32239579	2NQU
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_02210	COG0315	H	Molybdenum cofactor biosynthesis enzyme MoaC	MoaC	Molybdopterin biosynthesis	32239579	1EKR
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_02215	COG1058	L	ADP-ribose pyrophosphatase domain of DNA damage- and competence-inducible protein CinA	CinA		25313401	4CT9
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_02230	COG0535	DH	Radical SAM superfamily maturase, SkfB/NifB/PqqE family	SkfB		23282011	6Q2P
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_02240	COG1975	O	Molybdoenzyme maturation factor PaoD (Mo cofactor insertion), XdhC/CoxF family	XdhC		24498065	2WE7
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_02245	COG1213	I	Choline kinase				4MND
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_02255	COG1089	M	GDP-D-mannose dehydratase	Gmd			1DB3
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_02260	COG1131	V	ABC-type multidrug transport system, ATPase component	CcmA			5DO7
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_02265	COG1682	G	ABC-type polysaccharide/teichoic acid/polyol phosphate export permease	TagG			6JBH
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_02285	COG1086	MO	NDP-sugar epimerase, includes UDP-GlcNAc-inverting 4,6-dehydratase FlaA1 and capsular polysaccharide biosynthesis protein EpsC	FlaA1			2GN4
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_02290	COG0451	M	Nucleoside-diphosphate-sugar epimerase	WcaG			2X4G
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_02295	COG1898	M	dTDP-4-dehydrorhamnose 3,5-epimerase or related enzyme	RfbC			1DZR
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_02300	COG1210	M	UTP-glucose-1-phosphate uridylyltransferase	GalU			2E3D
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_02310	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_02315	COG3347	G	Rhamnose utilisation protein RhaD, predicted bifunctional aldolase and dehydrogenase	RhaD			3M4R
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_02320	COG1070	G	Sugar (pentulose or hexulose) kinase	XylB	Non-phosphorylated Entner-Doudoroff pathway		4C23
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_02325	COG4221	C	NADP-dependent 3-hydroxy acid dehydrogenase YdfG	YdfG	Pyrimidine degradation		3P19
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_02330	COG2345	K	Predicted transcriptional regulator, ArsR family				
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_02335	COG0623	I	Enoyl-[acyl-carrier-protein] reductase FabI	FabI	Fatty acid biosynthesis		1C14
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_02355	COG0300	R	Short-chain dehydrogenase	YqjQ			
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_02360	COG0009	J	tRNA A37 threonylcarbamoyladenosine synthetase subunit TsaC/SUA5/YrdC	TsaC	tRNA modification		1HRU
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_02405	COG5485	R	Predicted ester cyclase				3EHC
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_02450	COG0593	L	Chromosomal replication initiation ATPase DnaA	DnaA			1L8Q
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_02460	COG1064	G	D-arabinose 1-dehydrogenase, Zn-dependent alcohol dehydrogenase family	AdhP			5O8Q
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_02485	COG0147	EH	Anthranilate/para-aminobenzoate synthases component I	TrpE	Aromatic amino acid biosynthesis		1I1Q
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_02500	COG4974	L	Site-specific recombinase XerD	XerD			1A0P
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_02530	COG0172	J	Seryl-tRNA synthetase	SerS	Aminoacyl-tRNA synthetases		1SER
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_02565	COG3359	R	Uncharacterized conserved protein YprB, contains RNaseH-like and TPR domains	YprB			
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_02570	COG0305	L	Replicative DNA helicase	DnaB			1B79
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_02600	COG1216	G	Glycosyltransferase, GT2 family	WcaE			2Z86
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_02610	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_02615	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_02620	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_02625	COG0451	M	Nucleoside-diphosphate-sugar epimerase	WcaG			2X4G
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_02630	COG1216	G	Glycosyltransferase, GT2 family	WcaE			2Z86
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_02635	COG0297	G	Glycogen synthase	GlgA			1RZU
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_02670	COG3320	Q	Thioester reductase domain of alpha aminoadipate reductase Lys2 and NRPSs	Lys2b	Lysine biosynthesis		5MSP
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_02675	COG2227	H	2-polyprenyl-3-methyl-5-hydroxy-6-metoxy-1,4-benzoquinol methylase	UbiG	Ubiquinone biosynthesis		1BHJ
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_02680	COG0472	M	UDP-N-acetylmuramyl pentapeptide phosphotransferase/UDP-N-acetylglucosamine-1-phosphate transferase	Rfe	Mureine biosynthesis		4J72
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_02685	COG1086	MO	NDP-sugar epimerase, includes UDP-GlcNAc-inverting 4,6-dehydratase FlaA1 and capsular polysaccharide biosynthesis protein EpsC	FlaA1			2GN4
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_02695	COG0667	HR	Pyridoxal reductase PdxI or related oxidoreductase, aldo/keto reductase family	PdxI		32253339	1LQA
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_02710	COG1525	L	Endonuclease YncB, thermonuclease family	YncB			
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_02725	COG0524	G	Sugar or nucleoside kinase, ribokinase family	RbsK	Glycolysis		2QCV
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_02730	COG4638	PR	Phenylpropionate dioxygenase or related ring-hydroxylating dioxygenase, large terminal subunit	HcaE			4QDC
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_02740	COG1171	E	Threonine deaminase	IlvA	Isoleucine, leucine, valine biosynthesis		3IAU
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_02750	COG4638	PR	Phenylpropionate dioxygenase or related ring-hydroxylating dioxygenase, large terminal subunit	HcaE			4QDC
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_02760	COG2176	L	DNA polymerase III, alpha subunit (gram-positive type)	PolC			
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_02795	COG1714	S	Uncharacterized membrane protein YckC, RDD family	YckC			
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_02810	COG0297	G	Glycogen synthase	GlgA			1RZU
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_02815	COG0223	J	Methionyl-tRNA formyltransferase	Fmt			1FMT
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_02825	COG0305	L	Replicative DNA helicase	DnaB			1B79
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_02835	COG3152	S	Uncharacterized membrane protein YhaH, DUF805 family	yhaH			
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_02845	COG0359	J	Ribosomal protein L9	RplI	Ribosome 50S subunit	27112601	1VS6
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_02850	COG0238	J	Ribosomal protein S18	RpsR	Ribosome 30S subunit		4V4H
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_02865	COG3568	R	Metal-dependent hydrolase, endonuclease/exonuclease/phosphatase family	ElsH		15178340	
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_02875	COG0787	M	Alanine racemase	Alr	Mureine biosynthesis		1BD0
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_02880	COG3921	S	Uncharacterized conserved protein, contains Extensin-like_C domain				
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_02890	COG0778	C	Nitroreductase	NfnB	Pyrimidine degradation		1F5V
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_02900	COG0730	P	Sulfite exporter TauE/SafE/YfcA and related permeases, UPF0721 family	TauE		21183667;22797525	
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_02920	COG0239	DP	Fluoride ion exporter CrcB/FEX, affects chromosome condensation	CrcB			5A40
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_02935	COG4750	MI	CTP:phosphocholine cytidylyltransferase LicC	LicC			1JYK
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_02960	COG1666	T	Cyclic di-GMP-binding protein YajQ, UPF0234 family	YajQ		25329577	1IN0
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_02980	COG0294	H	Dihydropteroate synthase	FolP	Folate biosynthesis		1AD1
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_02985	COG1063	ER	Threonine dehydrogenase or related Zn-dependent dehydrogenase	Tdh	Non-phosphorylated Entner-Doudoroff pathway		4A2C
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_02990	COG3967	MI	Short-chain dehydrogenase involved in D-alanine esterification of teichoic acids	DltE			
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_03000	COG3622	G	Hydroxypyruvate/dehydroerythronate isomerase, Hyi/OtnI family	Hyi		27402745	1K77
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_03010	COG1402	H	Creatinine amidohydrolase/Fe(II)-dependent FAPy formamide hydrolase (riboflavin and F420 biosynthesis)	ArfB	Riboflavin/FAD biosynthesis		1J2T
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_03015	COG1647	Q	Esterase/lipase	YvaK			4DIU
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_03040	COG5637	S	Uncharacterized protein, contains SRPBCC domain				3GGN
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_03045	COG2129	R	Predicted phosphoesterase, related to the Icc protein				2YVT
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_03055	COG1022	I	Long-chain acyl-CoA synthetase (AMP-forming)	FAA1			
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_03060	COG0791	M	Cell wall-associated hydrolase, NlpC_P60 family	NlpC			2EVR
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_03075	COG5018	T	3'-5' exonuclease KapD, inhibitor of KinA-controlled sporulation	KapD			
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_03080	COG0547	E	Anthranilate phosphoribosyltransferase, glycosyltransferase domain	TrpD	Aromatic amino acid biosynthesis		1KGZ
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_03085	COG3706	TK	Two-component response regulator, PleD family, consists of two REC domains and a diguanylate cyclase (GGDEF) domain	PleD			1W25
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_03090	COG1845	C	Heme/copper-type cytochrome/quinol oxidase, subunit 3	CyoC			1QLE
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_03095	COG2010	C	Cytochrome c, mono- and diheme variants	CccA			1A2S
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_03105	COG1290	C	Cytochrome b subunit of the bc complex	QcrB/PetB			1VF5
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_03115	COG1029	C	Formylmethanofuran dehydrogenase subunit B	FwdB			5T5I
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_03120	COG3152	S	Uncharacterized membrane protein YhaH, DUF805 family	yhaH			
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_03135	COG0148	G	Enolase	Eno	Glycolysis		1E9I
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_03140	COG0520	E	Selenocysteine lyase/Cysteine desulfurase	CsdA			4LW2
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_03150	COG0156	H	7-keto-8-aminopelargonate synthetase or related enzyme	BioF	Biotin biosynthesis		1BS0
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_03155	COG2226	H	Ubiquinone/menaquinone biosynthesis C-methylase UbiE/MenG	UbiE	Biotin biosynthesis		4OBW
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_03160	COG0588	G	Phosphoglycerate mutase (BPG-dependent)	GpmA	Glycolysis		1E58
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_03165	COG1521	H	Pantothenate kinase type III	CoaX			2F9T
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_03170	COG1036	C	Archaeal flavoprotein	AfpA			3WIS
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_03185	COG0697	GER	Permease of the drug/metabolite transporter (DMT) superfamily	RhaT			5I20
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_03190	COG0697	GER	Permease of the drug/metabolite transporter (DMT) superfamily	RhaT			5I20
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_03200	COG2255	L	Holliday junction resolvasome RuvABC, ATP-dependent DNA helicase subunit RuvB	RuvB			1HQC
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_03225	COG1064	G	D-arabinose 1-dehydrogenase, Zn-dependent alcohol dehydrogenase family	AdhP			5O8Q
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_03230	COG4960	OT	Flp pilus assembly protein, peptidase CpaA	CpaA		19493340	3S0X
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_03240	COG3265	G	Gluconate kinase	GntK	Non-phosphorylated Entner-Doudoroff pathway		1KO4
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_03245	COG0371	C	Glycerol dehydrogenase or related enzyme, iron-containing ADH family	GldA	Isoprenoid biosynthesis	20688982	3S99
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_03255	COG0024	J	Methionine aminopeptidase	Map			3J2I
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_03260	COG0231	J	Translation elongation factor P (EF-P)/translation initiation factor 5A (eIF-5A)	Efp	Translation factors		1UEB
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_03275	COG2197	TK	DNA-binding response regulator, NarL/FixJ family, contains REC and HTH domains	CitB			1A04
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_03290	COG0673	R	Predicted dehydrogenase	MviM			3UUW
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_03295	COG2814	G	Predicted arabinose efflux permease AraJ, MFS family	AraJ			4LDS
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_03300	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_03305	COG0626	E	Cystathionine beta-lyase/cystathionine gamma-synthase	MetC	Methionine biosynthesis		1CL1
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_03310	COG0225	O	Peptide methionine sulfoxide reductase MsrA	MsrA			1FF3
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_03315	COG0404	E	Glycine cleavage system protein T (aminomethyltransferase)	GcvT	Glycine cleavage	25433025;25505271	2GAH
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_03320	COG0685	E	5,10-methylenetetrahydrofolate reductase	MetF			1B5T
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_03325	COG1020	Q	EntF, seryl-AMP synthase component  of non-ribosomal peptide synthetase	EntF			5ES5
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_03335	COG0671	I	Membrane-associated phospholipid phosphatase	PgpB	Phospholipid biosynthesis		1D2T
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_03355	COG4558	P	ABC-type hemin transport system, periplasmic component	ChuT			3MD9
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_03375	COG2226	H	Ubiquinone/menaquinone biosynthesis C-methylase UbiE/MenG	UbiE	Biotin biosynthesis		4OBW
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_03380	COG2335	R	Uncaracterized surface protein containing fasciclin (FAS1) repeats	FAS1			
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_03410	COG2814	G	Predicted arabinose efflux permease AraJ, MFS family	AraJ			4LDS
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_03415	COG1957	F	Inosine-uridine nucleoside N-ribohydrolase	URH1	Pyrimidine salvage		1EZR
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_03425	COG0219	J	tRNA(Leu) C34 or U34 (ribose-2'-O)-methylase TrmL, contains SPOUT domain	TrmL	tRNA modification		4JAK
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_03435	COG2272	I	Carboxylesterase type B	PnbA			1K4Y
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_03450	COG2176	L	DNA polymerase III, alpha subunit (gram-positive type)	PolC			
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_03460	COG2606	J	Cys-tRNA(Pro) deacylase, prolyl-tRNA editing enzyme YbaK/EbsC	EbsC			1DBU
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_03465	COG1276	P	Putative copper export protein	PcoD			
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_03470	COG1741	R	Redox-sensitive bicupin YhaK, pirin superfamily	YhaK		18561187	1J1L
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_03490	COG0365	I	Acyl-coenzyme A synthetase/AMP-(fatty) acid ligase	Acs		14638756	4B2O
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_03500	COG0560	E	Phosphoserine phosphatase	SerB	Serine biosynthesis		3N28
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_03510	COG1204	L	Replicative superfamily II helicase	BRR2			2VA8
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_03530	COG1073	T	Fermentation-respiration switch esterase FrsA, DUF1100 family	FrsA			
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_03535	COG0050	J	Translation elongation factor EF-Tu, a GTPase	TufA	Translation factors		1EFU
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_03540	COG4270	S	Uncharacterized membrane protein				
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_03545	COG1163	J	Ribosome-interacting GTPase RBG1	Rbg1			4A9A
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_03555	COG0761	I	4-Hydroxy-3-methylbut-2-enyl diphosphate reductase IspH	IspH	Isoprenoid biosynthesis		3DNF
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_03560	COG1570	L	Exonuclease VII, large subunit	XseA			
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_03565	COG1722	L	Exonuclease VII small subunit	XseB			1VP7
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_03575	COG1494	G	Fructose-1,6-bisphosphatase/sedoheptulose 1,7-bisphosphatase or related protein	GlpX			1NI9
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_03580	COG1951	C	Tartrate dehydratase alpha subunit/Fumarate hydratase class I, N-terminal domain	TtdA	TCA cycle	15613473	5L2R
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_03590	COG1702	T	Phosphate starvation-inducible protein PhoH, predicted ATPase	PhoH		8444794;12762842	3B85
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_03600	COG0020	I	Undecaprenyl pyrophosphate synthase	UppS			1X07
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_03605	COG1331	R	Uncharacterized conserved protein YyaL, SSP411 family, contains thoiredoxin and six-hairpin glycosidase-like domains	YyaL			3IRA
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_03610	COG2076	V	Multidrug transporter EmrE and related cation transporters	EmrE			2I68
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_03625	COG3064	M	Membrane protein TolA involved in colicin uptake	TolA			1S62
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_03630	COG1585	O	Membrane protein implicated in regulation of membrane protease activity	YbbJ			2EXD
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_03635	COG2452	X	Predicted site-specific integrase-resolvase				3ILX
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_03640	COG0226	P	ABC-type phosphate transport system, periplasmic component	PstS			2Q9T
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_03645	COG0248	FT	Exopolyphosphatase/pppGpp-phosphohydrolase	GppA			1T6C
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_03650	COG2216	P	K+ transport ATPase, ATPase subunit KdpB	KdpB			5MRW
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_03660	COG1309	K	DNA-binding protein, AcrR family, includes nucleoid occlusion protein SlmA	AcrR			2QOP
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_03665	COG0287	E	Prephenate dehydrogenase	TyrA	Aromatic amino acid biosynthesis		2F1K
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_03675	COG1087	M	UDP-glucose 4-epimerase	GalE			1A9Y
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_03685	COG0560	E	Phosphoserine phosphatase	SerB	Serine biosynthesis		3N28
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_03695	COG1420	K	Transcriptional regulator of heat shock response	HrcA			1STZ
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_03700	COG2214	K	Curved DNA-binding protein CbpA, contains a DnaJ-like domain	CbpA			
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_03705	COG0484	O	DnaJ-class molecular chaperone with C-terminal Zn finger domain	DnaJ			1BQ0
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_03710	COG1385	J	16S rRNA U1498 N3-methylase RsmE	RsmE	16S rRNA modification		1NXZ
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_03715	COG1085	G	Galactose-1-phosphate uridylyltransferase	GalT			1GUP
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_03720	COG1702	T	Phosphate starvation-inducible protein PhoH, predicted ATPase	PhoH		8444794;12762842	3B85
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_03725	COG0319	J	ssRNA-specific RNase YbeY, 16S rRNA maturation enzyme	YbeY	16S rRNA modification	17407324;23543739	1XM5
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_03730	COG0517	T	CBS domain	CBS			1B3O
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_03735	COG2179	R	Predicted phosphohydrolase YqeG, HAD superfamily	YqeG			
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_03740	COG1160	J	Double Era-like domain GTPase Der	Der			1MKY
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_03750	COG1381	L	Recombinational DNA repair protein RecO (RecF pathway)	RecO			1U5K
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_03755	COG0020	I	Undecaprenyl pyrophosphate synthase	UppS			1X07
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_03765	COG1118	P	ABC-type sulfate/molybdate transport systems, ATPase component	CysA			
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_03770	COG4759	R	Uncharacterized conserved protein, contains thioredoxin-like domain				
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_03780	COG2072	P	Predicted flavoprotein CzcO associated with the cation diffusion facilitator CzcD	CzcO			4USQ
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_03785	COG0288	P	Carbonic anhydrase	CynT		22081392	1EKJ
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_03790	COG0187	L	DNA gyrase/topoisomerase IV, subunit B	GyrB			1EI1
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_03800	COG0568	K	DNA-directed RNA polymerase, sigma subunit (sigma70/sigma32)	RpoD	RNA polymerase		1SIG
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_03810	COG0596	HR	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold	MenH	Menaquinone biosynthesis		4MYS
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_03815	COG2873	E	O-acetylhomoserine/O-acetylserine sulfhydrylase, pyridoxal phosphate-dependent	MET17	Methionine biosynthesis		2CTZ
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_03825	COG2755	DI	Lysophospholipase L1 or related esterase. Includes spore coat protein LipC/YcsK	TesA			1BWP
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_03830	COG0392	M	Predicted membrane flippase AglD2/YbhN, UPF0104 family	AglD2		25583072	
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_03840	COG1453	R	Predicted oxidoreductase of the aldo/keto reductase family				
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_03845	COG4989	R	Predicted oxidoreductase YdhF	YdhF			1UR3
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_03855	COG0209	F	Ribonucleotide reductase alpha subunit	NrdA	Pyrimidine salvage		1R1R
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_03860	COG1327	K	Transcriptional regulator NrdR, contains Zn-ribbon and ATP-cone domains	NrdR			
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_03865	COG2845	S	Uncharacterized conserved protein, DUF459 domain				
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_03875	COG1414	K	DNA-binding transcriptional regulator, IclR family	IclR			1MKM
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_03880	COG1199	L	Rad3-related DNA helicase DinG	DinG			5H8W
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_03885	COG1160	J	Double Era-like domain GTPase Der	Der			1MKY
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_03890	COG0253	E	Diaminopimelate epimerase	DapF	Lysine biosynthesis		1BWZ
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_03915	COG0270	L	DNA-cytosine methylase	Dcm			3LX6
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_03950	COG5108	K	Mitochondrial DNA-directed RNA polymerase	RPO41			
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_03975	COG2814	G	Predicted arabinose efflux permease AraJ, MFS family	AraJ			4LDS
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_04000	COG2050	Q	Acyl-CoA thioesterase PaaI, contains HGG motif	PaaI			1PSU
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_04015	COG0646	E	Methionine synthase I (cobalamin-dependent), methyltransferase domain	MetH1	Methionine biosynthesis		1LT7
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_04030	COG2217	P	Cation-transporting P-type ATPase	ZntA			4BBJ
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_04035	COG2608	P	Copper chaperone CopZ	CopZ			1AFI
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_04045	COG0596	HR	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold	MenH	Menaquinone biosynthesis		4MYS
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_04060	COG2887	L	RecB family exonuclease	Slr0479			
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_04065	COG0210	L	Superfamily I DNA or RNA helicase	UvrD			6PPR
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_04080	COG0532	J	Translation initiation factor IF-2, a GTPase	InfB	Translation factors		5ME0
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_04090	COG1466	L	DNA polymerase III, delta subunit	HolA			3ZH9
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_04100	COG2193	P	Bacterioferritin (cytochrome b1)	Bfr			4E6K
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_04135	COG0495	J	Leucyl-tRNA synthetase	LeuS	Aminoacyl-tRNA synthetases		6LPF
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_04145	COG0697	GER	Permease of the drug/metabolite transporter (DMT) superfamily	RhaT			5I20
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_04155	COG2376	G	Dihydroxyacetone kinase	DAK1	Isoprenoid biosynthesis		1UN8
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_04160	COG2376	G	Dihydroxyacetone kinase	DAK1	Isoprenoid biosynthesis		1UN8
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_04165	COG4977	K	Transcriptional regulator GlxA, contains an amidase domain and an AraC-type DNA-binding HTH domain	GlxA			
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_04170	COG0698	G	Ribose 5-phosphate isomerase RpiB	RpiB	Pentose phosphate pathway		1NN4
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_04180	COG4167	V	ABC-type antimicrobial peptide export system, ATPase component SapF	SapF			
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_04185	COG4987	CO	ABC-type transport system involved in cytochrome bd biosynthesis, fused ATPase and permease components	CydC			
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_04195	COG1178	P	ABC-type Fe3+ transport system, permease component	FbpB			
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_04200	COG1176	E	ABC-type spermidine/putrescine transport system, permease component I	PotB			
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_04205	COG1653	G	ABC-type glycerol-3-phosphate transport system, periplasmic component	UgpB			2Z8D
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_04215	COG3622	G	Hydroxypyruvate/dehydroerythronate isomerase, Hyi/OtnI family	Hyi		27402745	1K77
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_04225	COG0270	L	DNA-cytosine methylase	Dcm			3LX6
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_04265	COG2409	R	Predicted lipid transporter YdfJ, MMPL/SSD domain, RND superfamily	YdfJ		10694977;15941986	
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_04285	COG4274	S	Uncharacterized conserved protein, contains GYD domain				
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_04290	COG0421	E	Spermidine synthase (polyamine aminopropyltransferase)	SpeE			6BQ2
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_04300	COG1201	L	Lhr-like helicase	Lhr			5V9X
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_04305	COG2128	P	Alkylhydroperoxidase family enzyme, contains CxxC motif	YciW			1GU9
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_04315	COG5640	O	Secreted trypsin-like serine protease				
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_04330	COG0392	M	Predicted membrane flippase AglD2/YbhN, UPF0104 family	AglD2		25583072	
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_04335	COG5402	S	Uncharacterized protein, contains DUF1214 domain				
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_04345	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_04410	COG1357	S	Uncharacterized conserved protein YjbI, contains pentapeptide repeats	YjbI			2BM4
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_04455	COG0544	O	FKBP-type peptidyl-prolyl cis-trans isomerase (trigger factor)	Tig			5OWI
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_04460	COG0616	O	Periplasmic serine protease, ClpP class	SppA			3BEZ
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_04465	COG0616	O	Periplasmic serine protease, ClpP class	SppA			3BEZ
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_04470	COG0542	O	ATP-dependent Clp protease, ATP-binding subunit ClpA	ClpA			1KSF
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_04480	COG0143	J	Methionyl-tRNA synthetase	MetG	Aminoacyl-tRNA synthetases		1A8H
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_04485	COG0769	M	UDP-N-acetylmuramyl tripeptide synthase	MurE	Mureine biosynthesis		1E8C
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_04495	COG0105	F	Nucleoside diphosphate kinase	Ndk	Pyrimidine biosynthesis		1B4S
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_04535	COG0671	I	Membrane-associated phospholipid phosphatase	PgpB	Phospholipid biosynthesis		1D2T
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_04540	COG3199	F	NAD kinase				
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_04550	COG0384	R	Predicted epimerase YddE/YHI9, PhzF superfamily	YHI9		24914732	1SDJ
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_04575	COG1525	L	Endonuclease YncB, thermonuclease family	YncB			
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_04590	COG2452	X	Predicted site-specific integrase-resolvase				3ILX
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_04595	COG0111	H	Phosphoglycerate dehydrogenase or related dehydrogenase	SerA	Serine biosynthesis		3OET
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_04610	COG3299	X	Uncharacterized phage protein gp47/JayE	JayE			
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_04615	COG3628	X	Phage baseplate assembly protein W				2IA7
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_04620	COG3501	UXR	Uncharacterized conserved protein VgrG, implicated in type VI secretion and phage assembly	VgrG		16980477	6SJL
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_04675	COG3152	S	Uncharacterized membrane protein YhaH, DUF805 family	yhaH			
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_04725	COG0514	L	Superfamily II DNA helicase RecQ	RecQ			1OYW
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_04735	COG3839	G	ABC-type sugar transport system, ATPase component MalK	MalK			2ONK
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_04740	COG4531	P	ABC-type Zn2+ transport system, periplasmic component/surface adhesin ZnuA	ZnuA			2OGW
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_04750	COG2227	H	2-polyprenyl-3-methyl-5-hydroxy-6-metoxy-1,4-benzoquinol methylase	UbiG	Ubiquinone biosynthesis		1BHJ
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_04755	COG0127	F	Inosine/xanthosine triphosphate pyrophosphatase, all-alpha NTP-PPase family	RdgB			1B78
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_04760	COG0689	J	Ribonuclease PH	Rph			1UDO
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_04770	COG1794	M	Amino acid racemase YgeA	RacX			5ELL
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_04790	COG5524	CT	Bacteriorhodopsin				
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_04800	COG2127	O	ATP-dependent Clp protease adapter protein ClpS	ClpS			1LZW
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_04805	COG1104	E	Cysteine desulfurase/Cysteine sulfinate desulfinase IscS or related enzyme, NifS family	NifS		22773787;25825430	4IXO
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_04815	COG0717	F	dCTP deaminase	Dcd	Thymidylate biosynthesis		1XS1
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_04835	COG0300	R	Short-chain dehydrogenase	YqjQ			
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_04840	COG0812	M	UDP-N-acetylenolpyruvoylglucosamine reductase	MurB	Mureine biosynthesis		2MBR
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_04865	COG4651	P	Predicted Kef-type K+ transport protein, K+/H+ antiporter domain	RosB			
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_04880	COG1276	P	Putative copper export protein	PcoD			
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_04890	COG0607	P	Rhodanese-related sulfurtransferase	PspE	Urea cycle		1TQ1
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_04900	COG0815	M	Apolipoprotein N-acyltransferase	Lnt			6NWR
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_04910	COG0697	GER	Permease of the drug/metabolite transporter (DMT) superfamily	RhaT			5I20
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_04915	COG1167	KE	DNA-binding transcriptional regulator, MocR family, contains an aminotransferase domain	ARO8	Lysine biosynthesis		2R2N
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_04920	COG5278	T	Extracytoplasmic sensor domain CHASE3 (specificity unknown)	CHASE3			3VA9
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_04925	COG3144	N	Flagellar hook-length control protein FliK	FliK			2RRL
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_04930	COG1843	N	Flagellar hook-capping protein FlgD	FlgD			6IEF
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_04935	COG4787	N	Flagellar basal body rod protein FlgF	FlgF			
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_04950	COG1360	N	Flagellar motor protein MotB	MotB			
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_04965	COG1886	NU	Flagellar motor switch/type III secretory pathway protein FliN	FliN			1O9Y
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_04975	COG1338	N	Flagellar biosynthesis protein FliP	FliP			5H72
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_04980	COG1987	N	Flagellar biosynthesis protein FliQ	FliQ			6F2D
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_04985	COG4791	U	Type III secretory pathway, EscT/YscT component	EscT			6R6B
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_04990	COG2257	U	Type III secretion system substrate exporter, FlhB-like	YlqH			
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_04995	COG1028	I	NAD(P)-dependent dehydrogenase, short-chain alcohol dehydrogenase family	FabG	Fatty acid biosynthesis		6L1H
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_05010	COG0494	V	8-oxo-dGTP pyrophosphatase MutT and related house-cleaning NTP pyrophosphohydrolases, NUDIX family	MutT			4V14
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_05020	COG2755	DI	Lysophospholipase L1 or related esterase. Includes spore coat protein LipC/YcsK	TesA			1BWP
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_05030	COG4674	R	ABC-type uncharacterized transport system, ATPase component			10686096	
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_05035	COG1368	M	Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily	MdoB			3LXQ
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_05045	COG3401	R	Fibronectin type 3 domain	FN3			
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_05055	COG2182	G	Maltose-binding periplasmic protein MalE	MalE			1T0K
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_05060	COG1178	P	ABC-type Fe3+ transport system, permease component	FbpB			
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_05065	COG1177	E	ABC-type spermidine/putrescine transport system, permease component II	PotC			
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_05070	COG3408	G	Glycogen debranching enzyme (alpha-1,6-glucosidase)	GDB1			5D06
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_05075	COG1218	P	3'-Phosphoadenosine 5'-phosphosulfate (PAPS) 3'-phosphatase	CysQ			
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_05080	COG1198	L	Primosomal protein N' (replication factor Y) - superfamily II helicase	PriA			6DCR
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_05090	COG1694	V	NTP pyrophosphatase, house-cleaning of non-canonical NTPs	MazG			1VMG
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_05095	COG4805	S	Uncharacterized conserved protein, DUF885 family				3IUK
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_05100	COG1566	V	Multidrug resistance efflux pump EmrA	EmrA			4TKO
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_05105	COG4167	V	ABC-type antimicrobial peptide export system, ATPase component SapF	SapF			
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_05110	COG0577	V	ABC-type antimicrobial peptide transport system, permease component	SalY			
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_05125	COG1524	T	c-di-AMP phosphodiesterase AtaC or nucleotide pyrophosphatase, AlkP superfamily	AtaC		32188788	1EI6
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_05140	COG2814	G	Predicted arabinose efflux permease AraJ, MFS family	AraJ			4LDS
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_05145	COG1218	P	3'-Phosphoadenosine 5'-phosphosulfate (PAPS) 3'-phosphatase	CysQ			
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_05150	COG1043	M	Acyl-[acyl carrier protein]--UDP-N-acetylglucosamine O-acyltransferase	LpxA	Lipid A biosynthesis		1J2Z
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_05170	COG0717	F	dCTP deaminase	Dcd	Thymidylate biosynthesis		1XS1
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_05190	COG1226	P	Voltage-gated potassium channel Kch	Kch			3FWZ
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_05195	COG1226	P	Voltage-gated potassium channel Kch	Kch			3FWZ
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_05200	COG2242	H	Precorrin-6B methylase 2	CobL	Cobalamine/B12 biosynthesis		1F38
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_05205	COG1049	C	Aconitase B	AcnB	TCA cycle		1L5J
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_05210	COG0021	G	Transketolase	TktA	Pentose phosphate pathway		1AY0
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_05215	COG1250	I	3-hydroxyacyl-CoA dehydrogenase	FadB	Fatty acid biosynthesis		5ZQZ
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_05235	COG0229	O	Peptide methionine sulfoxide reductase MsrB	MsrB			1L1D
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_05245	COG0447	H	1,4-Dihydroxy-2-naphthoyl-CoA synthase	MenB	Menaquinone biosynthesis		4ELS
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_05265	COG1748	E	Saccharopine dehydrogenase, NADP-dependent	Lys9	Lysine biosynthesis		1E5L
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_05270	COG1725	K	DNA-binding transcriptional regulator YhcF, GntR family	YhcF			4R1H
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_05290	COG0685	E	5,10-methylenetetrahydrofolate reductase	MetF			1B5T
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_05300	COG2185	I	Methylmalonyl-CoA mutase, C-terminal domain/subunit (cobalamin-binding)	Sbm			1B1A
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_05305	COG1414	K	DNA-binding transcriptional regulator, IclR family	IclR			1MKM
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_05310	COG5598	H	Trimethylamine:corrinoid methyltransferase	MttB2			
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_05315	COG3710	K	DNA-binding winged helix-turn-helix (wHTH) domain	CadC1			
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_05320	COG0456	J	Ribosomal protein S18 acetylase RimI and related acetyltransferases	RimI			1GHE
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_05325	COG0855	P	Polyphosphate kinase	Ppk			1XDO
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_05330	COG3025	P	Inorganic triphosphatase YgiF, contains CYTH and CHAD domains	PPPi		22984449	5A60
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_05335	COG0494	V	8-oxo-dGTP pyrophosphatase MutT and related house-cleaning NTP pyrophosphohydrolases, NUDIX family	MutT			4V14
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_05355	COG0119	E	Isopropylmalate/homocitrate/citramalate synthases	LeuA	Isoleucine, leucine, valine biosynthesis		4JN6
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_05360	COG0373	H	Glutamyl-tRNA reductase	HemA	Heme biosynthesis		2XOE
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_05365	COG0415	L	Deoxyribodipyrimidine photolyase	PhrB			1TEZ
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_05375	COG0059	EH	Ketol-acid reductoisomerase	IlvC	Isoleucine, leucine, valine biosynthesis		1NP3
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_05380	COG3978	E	Acetolactate synthase small subunit, contains ACT domain	IlvM			
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_05385	COG0028	EH	Acetolactate synthase large subunit or other thiamine pyrophosphate-requiring enzyme	IlvB	Isoleucine, leucine, valine biosynthesis		1BFD
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_05390	COG2606	J	Cys-tRNA(Pro) deacylase, prolyl-tRNA editing enzyme YbaK/EbsC	EbsC			1DBU
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_05405	COG2606	J	Cys-tRNA(Pro) deacylase, prolyl-tRNA editing enzyme YbaK/EbsC	EbsC			1DBU
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_05415	COG2008	E	Threonine aldolase	GLY1			4LNJ
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_05420	COG2324	S	Uncharacterized membrane protein			15623504	
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_05425	COG0463	M	Glycosyltransferase involved in cell wall bisynthesis	WcaA			5MLZ
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_05430	COG1232	H	Protoporphyrinogen oxidase HemY/PPOX	HemY	Heme biosynthesis		3LOV
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_05435	COG0142	H	Geranylgeranyl pyrophosphate synthase	IspA	Isoprenoid biosynthesis		2AZJ
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_05440	COG1232	H	Protoporphyrinogen oxidase HemY/PPOX	HemY	Heme biosynthesis		3LOV
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_05445	COG1562	I	Phytoene/squalene synthetase	ERG9			3WEK
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_05455	COG2840	L	DNA-nicking endonuclease, Smr domain	SmrA		12730195	3QD7
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_05460	COG0703	E	Shikimate kinase	AroK	Aromatic amino acid biosynthesis		1E6C
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_05470	COG0480	J	Translation elongation factor EF-G, a GTPase	FusA	Translation factors		1DAR
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_05485	COG0779	J	Ribosome maturation factor RimP	RimP			1IB8
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_05490	COG1092	J	23S rRNA G2069 N7-methylase RlmK or C1962 C5-methylase RlmI	RlmK	23S rRNA modification		2B78
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_05500	COG3382	R	B3/B4 domain (DNA/RNA-binding domain of Phe-tRNA-synthetase)	B3/B4			
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_05505	COG0016	J	Phenylalanyl-tRNA synthetase alpha subunit	PheS	Aminoacyl-tRNA synthetases		3L4G
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_05510	COG0050	J	Translation elongation factor EF-Tu, a GTPase	TufA	Translation factors		1EFU
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_05515	COG0175	EH	3'-phosphoadenosine 5'-phosphosulfate sulfotransferase (PAPS reductase)/FAD synthetase or related enzyme	CysD	Cysteine biosynthesis		1ZUN
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_05525	COG0219	J	tRNA(Leu) C34 or U34 (ribose-2'-O)-methylase TrmL, contains SPOUT domain	TrmL	tRNA modification		4JAK
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_05530	COG0292	J	Ribosomal protein L20	RplT	Ribosome 50S subunit	30270044	1VS6
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_05535	COG0291	J	Ribosomal protein L35	RpmI	Ribosome 50S subunit	28373563	1VS6
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_05540	COG0290	J	Translation initiation factor IF-3	InfC	Translation factors		2IFE
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_05565	COG0040	E	ATP phosphoribosyltransferase	HisG	Histidine biosynthesis		1H3D
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_05570	COG0140	E	Phosphoribosyl-ATP pyrophosphohydrolase	HisI2	Histidine biosynthesis		6J22
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_05575	COG0054	H	6,7-dimethyl-8-ribityllumazine synthase (Riboflavin synthase beta chain)	RibE	Riboflavin/FAD biosynthesis		1C2Y
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_05580	COG0807	H	GTP cyclohydrolase II	RibA	Riboflavin/FAD biosynthesis		2BZ0
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_05585	COG0307	H	Riboflavin synthase alpha chain	RibC	Riboflavin/FAD biosynthesis		1I8D
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_05590	COG2131	F	Deoxycytidylate deaminase	ComEB		25746996;31954084	2HVV
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_05595	COG0269	G	3-keto-L-gulonate-6-phosphate decarboxylase	UlaD			3F4W
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_05600	COG0483	G	Archaeal fructose-1,6-bisphosphatase or related enzyme, inositol monophosphatase family	SuhB	Gluconeogenesis		1AWB
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_05605	COG0144	J	16S rRNA C967 or C1407 C5-methylase, RsmB/RsmF family	RsmB	16S rRNA modification		2FRX
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_05615	COG0039	C	Malate/lactate dehydrogenase	Mdh	TCA cycle		4WLO
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_05625	COG0190	H	5,10-methylene-tetrahydrofolate dehydrogenase/Methenyl tetrahydrofolate cyclohydrolase	FolD			1A4I
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_05630	COG0300	R	Short-chain dehydrogenase	YqjQ			
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_05635	COG1396	K	Transcriptional regulator, contains XRE-family HTH domain	HipB			1ADR
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_05640	COG4525	P	ABC-type taurine transport system, ATPase component	TauB			
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_05645	COG4214	G	ABC-type xylose transport system, permease component	XylH			
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_05650	COG4211	G	ABC-type glucose/galactose transport system, permease component	MglC			
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_05655	COG4213	G	ABC-type xylose transport system, periplasmic component	XylF			4YWH
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_05665	COG0008	J	Glutamyl- or glutaminyl-tRNA synthetase	GlnS	Heme biosynthesis		1EUQ
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_05670	COG0372	C	Citrate synthase	GltA	TCA cycle	25211225	3TQG
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_05685	COG0663	R	Carbonic anhydrase or acetyltransferase, isoleucine patch superfamily	PaaY			6IVE
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_05695	COG1043	M	Acyl-[acyl carrier protein]--UDP-N-acetylglucosamine O-acyltransferase	LpxA	Lipid A biosynthesis		1J2Z
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_05700	COG1110	L	Reverse gyrase	TopG2			1GKU
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_05705	COG0729	M	Outer membrane translocation and assembly module TamA	TamA			4BZA
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_05715	COG0575	I	CDP-diglyceride synthetase	CdsA	Phospholipid biosynthesis		4Q2E
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_05720	COG0020	I	Undecaprenyl pyrophosphate synthase	UppS			1X07
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_05740	COG1278	K	Cold shock protein, CspA family	CspC			1C9O
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_05750	COG2378	K	Predicted DNA-binding transcriptional regulator YobV, contains HTH and WYL domains	YobV			
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_05765	COG2195	E	Di- or tripeptidase	PepD2			2QYV
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_05770	COG0513	L	Superfamily II DNA and RNA helicase	SrmB			3RRM
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_05780	COG3548	S	Uncharacterized membrane protein				5VRE
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_05785	COG0459	O	Chaperonin GroEL (HSP60 family)	GroEL			1AON
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_05790	COG5401	D	Spore germination protein GerM	GerM			6GZB
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_05795	COG4191	T	Signal transduction histidine kinase regulating C4-dicarboxylate transport system				4GCZ
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_05800	COG2204	T	DNA-binding transcriptional response regulator, NtrC family, contains REC, AAA-type ATPase, and a Fis-type DNA-binding domains	AtoC			1ZY2
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_05805	COG1266	O	Membrane protease YdiL, CAAX protease family	YdiL			
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_05810	COG0640	K	DNA-binding transcriptional regulator, ArsR family	ArsR			3F6V
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_05815	COG0580	G	Glycerol uptake facilitator or related aquaporin (Major Intrinsic protein Family)	GlpF			1FQY
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_05845	COG1087	M	UDP-glucose 4-epimerase	GalE			1A9Y
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_05850	COG1086	MO	NDP-sugar epimerase, includes UDP-GlcNAc-inverting 4,6-dehydratase FlaA1 and capsular polysaccharide biosynthesis protein EpsC	FlaA1			2GN4
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_05855	COG0077	E	Prephenate dehydratase	PheA2	Aromatic amino acid biosynthesis		1PHZ
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_05875	COG1011	H	FMN and 5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YigB, HAD superfamily (riboflavin biosynthesis)	YigB		24123841	4JB3
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_05880	COG0812	M	UDP-N-acetylenolpyruvoylglucosamine reductase	MurB	Mureine biosynthesis		2MBR
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_05955	COG2606	J	Cys-tRNA(Pro) deacylase, prolyl-tRNA editing enzyme YbaK/EbsC	EbsC			1DBU
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_05980	COG3961	GHR	TPP-dependent 2-oxoacid decarboxylase, includes indolepyruvate decarboxylase	PDC1	Pyruvate oxidation		1PYD
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_05990	COG1038	C	Pyruvate carboxylase	PycA	Urea cycle		5VYW
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_06005	COG0560	E	Phosphoserine phosphatase	SerB	Serine biosynthesis		3N28
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_06010	COG2372	P	Copper-binding protein CopC (methionine-rich)	CopC			1IX2
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_06035	COG5640	O	Secreted trypsin-like serine protease				
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_06040	COG1225	O	Peroxiredoxin	Bcp			5IPH
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_06095	COG4274	S	Uncharacterized conserved protein, contains GYD domain				
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_06115	COG0451	M	Nucleoside-diphosphate-sugar epimerase	WcaG			2X4G
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_06120	COG3264	M	Small-conductance mechanosensitive channel MscK	MscK			
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_06125	COG3458	Q	Cephalosporin-C deacetylase or related acetyl esterase	Axe1			1L7A
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_06140	COG0308	E	Aminopeptidase N, contains DUF3458 domain	PepN		24123841	6ATK
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_06145	COG0076	E	Glutamate or tyrosine decarboxylase or a related PLP-dependent protein	GadA	Pantothenate/CoA biosynthesis		1XEY
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_06150	COG0173	J	Aspartyl-tRNA synthetase	AspS	Aminoacyl-tRNA synthetases		1C0A
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_06155	COG0441	J	Threonyl-tRNA synthetase	ThrS	Aminoacyl-tRNA synthetases		1NYQ
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_06160	COG1236	J	RNA processing exonuclease, beta-lactamase fold, Cft2 family	YSH1			2DKF
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_06165	COG0652	O	Peptidyl-prolyl cis-trans isomerase (rotamase) - cyclophilin family	PpiB			4DGD
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_06175	COG0317	TK	(p)ppGpp synthase/hydrolase, HD superfamily	SpoT			1TDJ
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_06180	COG0341	U	Preprotein translocase subunit SecF	SecF		28830929	2FYH
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_06185	COG0341	U	Preprotein translocase subunit SecF	SecF		28830929	2FYH
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_06190	COG1862	U	Protein translocase subunit YajC	YajC			
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_06195	COG2256	L	Replication-associated recombination protein RarA (DNA-dependent ATPase)	RarA			3PVS
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_06215	COG0217	KJ	Transcriptional and/or translational regulatory protein YebC/TACO1	TACO1			1KON
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_06220	COG0118	E	Imidazoleglycerol phosphate synthase glutamine amidotransferase subunit HisH	HisH	Histidine biosynthesis		1OX4
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_06225	COG0214	H	Pyridoxal 5'-phosphate synthase subunit PdxS	PdxS	Pyridoxal phosphate biosynthesis		2NV2
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_06230	COG1704	M	Magnetosome formation protein MamQ, lipoprotein antigen LemA family	LemA		14638756;20212111;26884433	2ETD
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_06235	COG4641	D	Spore maturation protein CgeB				
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_06245	COG0558	I	Phosphatidylglycerophosphate synthase	PgsA	Phospholipid biosynthesis		4MND
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_06255	COG0442	J	Prolyl-tRNA synthetase	ProS	Aminoacyl-tRNA synthetases		5XIF
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_06260	COG0105	F	Nucleoside diphosphate kinase	Ndk	Pyrimidine biosynthesis		1B4S
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_06270	COG0849	D	Cell division ATPase FtsA	FtsA			3WT0
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_06285	COG0744	M	Penicillin-binding protein 1B/1F, peptidoglycan  transglycosylase/transpeptidase	MrcB			3FWL
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_06290	COG0772	D	Peptodoglycan polymerase FtsW/RodA/SpoVE	FtsW		30692671	6BAR
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_06295	COG1032	R	Radical SAM superfamily enzyme YgiQ, UPF0313 family	YgiQ			6FD2
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_06305	COG1530	J	Ribonuclease G or E	CafA			1SLJ
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_06320	COG0211	J	Ribosomal protein L27	RpmA	Ribosome 50S subunit		1VS6
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_06325	COG1163	J	Ribosome-interacting GTPase RBG1	Rbg1			4A9A
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_06330	COG1608	I	Isopentenyl phosphate kinase			16621811	3LKK
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_06345	COG0773	M	UDP-N-acetylmuramate-alanine ligase MurC and related ligases, MurC/Mpl family	MurC	Mureine biosynthesis		
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_06350	COG0773	M	UDP-N-acetylmuramate-alanine ligase MurC and related ligases, MurC/Mpl family	MurC	Mureine biosynthesis		
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_06355	COG0472	M	UDP-N-acetylmuramyl pentapeptide phosphotransferase/UDP-N-acetylglucosamine-1-phosphate transferase	Rfe	Mureine biosynthesis		4J72
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_06360	COG0770	M	UDP-N-acetylmuramyl pentapeptide synthase	MurF	Mureine biosynthesis		4CVK
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_06365	COG0772	D	Peptodoglycan polymerase FtsW/RodA/SpoVE	FtsW		30692671	6BAR
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_06370	COG1819	G	UDP:flavonoid glycosyltransferase YjiC, YdhE family	YjiC		23974133	2ACV
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_06375	COG0769	M	UDP-N-acetylmuramyl tripeptide synthase	MurE	Mureine biosynthesis		1E8C
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_06380	COG1589	D	Cell division septal protein FtsQ	FtsQ			1YR1
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_06385	COG0206	D	Cell division GTPase FtsZ	FtsZ			1FSZ
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_06390	COG0744	M	Penicillin-binding protein 1B/1F, peptidoglycan  transglycosylase/transpeptidase	MrcB			3FWL
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_06415	COG1078	R	HD superfamily phosphohydrolase	YdhJ			2HEK
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_06420	COG0494	V	8-oxo-dGTP pyrophosphatase MutT and related house-cleaning NTP pyrophosphohydrolases, NUDIX family	MutT			4V14
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_06430	COG0534	V	Na+-driven multidrug efflux pump, DinF/NorM/MATE family	NorM		29915058	3VVN
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_06445	COG2301	G	Citrate lyase beta subunit	CitE			4ROQ
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_06455	COG0697	GER	Permease of the drug/metabolite transporter (DMT) superfamily	RhaT			5I20
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_06460	COG2239	P	Mg/Co/Ni transporter MgtE (contains CBS domain)	MgtE			2YVX
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_06470	COG0455	DN	MinD-like ATPase FlhG/YlxH, activator of the FlhF-type GTPase	FlhG			1G3Q
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_06475	COG1826	U	Twin-arginine protein secretion pathway components TatA and TatB	TatA			2L16
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_06480	COG0793	O	C-terminal processing protease CtpA/Prc, contains a PDZ domain	CtpA			6IQU
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_06485	COG2519	J	tRNA A58 N-methylase Trm61	Gcd14	tRNA modification		1I9G
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_06510	COG2195	E	Di- or tripeptidase	PepD2			2QYV
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_06515	COG1044	M	UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase	LpxD	Lipid A biosynthesis		6P83
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_06520	COG0372	C	Citrate synthase	GltA	TCA cycle	25211225	3TQG
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_06525	COG0512	EH	Anthranilate/para-aminobenzoate synthase component II (glutamine amidotransferase)	PabA	Aromatic amino acid biosynthesis		1I1Q
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_06535	COG0418	F	Dihydroorotase	PyrC	Pyrimidine biosynthesis		2Y3D
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_06540	COG0540	F	Aspartate carbamoyltransferase, catalytic subunit	PyrB	Pyrimidine biosynthesis		1NBE
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_06545	COG0634	F	Hypoxanthine-guanine phosphoribosyltransferase	HptA	Purine salvage		1G9S
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_06550	COG0469	G	Pyruvate kinase	PykF	Glycolysis		6QXL
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_06555	COG1249	C	Dihydrolipoamide dehydrogenase (E3) component of pyruvate/2-oxoglutarate dehydrogenase complex or glutathione oxidoreductase	Lpd	Glycine cleavagePyruvate oxidation		6QKG
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_06560	COG0069	E	Glutamate synthase domain 2	GltB2	Glutamine biosynthesis		1EA0
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_06565	COG0682	M	Prolipoprotein diacylglyceryltransferase	Lgt			5AZB
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_06575	COG0434	M	Membrane biogenesis protein, BtpA/SgcQ family	BtpA			
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_06580	COG0031	E	Cysteine synthase	CysK	Cysteine biosynthesis		1FCJ
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_06585	COG0352	H	Thiamine monophosphate synthase	ThiE	Thiamine biosynthesis	19060138	1G4T
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_06595	COG4191	T	Signal transduction histidine kinase regulating C4-dicarboxylate transport system				4GCZ
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_06600	COG0784	T	CheY-like REC (receiver) domain, includes chemotaxis protein CheY  and sporulation regulator Spo0F	CheY			6QRJ
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_06615	COG0147	EH	Anthranilate/para-aminobenzoate synthases component I	TrpE	Aromatic amino acid biosynthesis		1I1Q
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_06620	COG0139	E	Phosphoribosyl-AMP cyclohydrolase	HisI1	Histidine biosynthesis		1ZPS
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_06625	COG1411	R	Uncharacterized conserved protein related to proFAR isomerase (HisA)				
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_06630	COG1411	R	Uncharacterized conserved protein related to proFAR isomerase (HisA)				
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_06635	COG0512	EH	Anthranilate/para-aminobenzoate synthase component II (glutamine amidotransferase)	PabA	Aromatic amino acid biosynthesis		1I1Q
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_06640	COG0131	E	Imidazoleglycerol phosphate dehydratase HisB	HisB2	Histidine biosynthesis		1RHY
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_06645	COG0436	E	Aspartate/methionine/tyrosine aminotransferase	AspB	Isoleucine, leucine, valine biosynthesis		2O0R
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_06670	COG1231	E	Monoamine oxidase	YobN			1B37
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_06675	COG4566	TK	DNA-binding response regulator, FixJ family, consists of REC and HTH domains	FixJ			1YIO
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_06680	COG4585	T	Signal transduction histidine kinase ComP	ComP			4GT8
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_06690	COG4974	L	Site-specific recombinase XerD	XerD			1A0P
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_06705	COG0358	L	DNA primase (bacterial type)	DnaG		28128549	3B39
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_06710	COG1078	R	HD superfamily phosphohydrolase	YdhJ			2HEK
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_06715	COG0042	J	tRNA-dihydrouridine synthase	DusA	tRNA modification		1VHN
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_06725	COG0597	MU	Lipoprotein signal peptidase	LspA			5DIR
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_06730	COG2302	R	RNA-binding protein YlmH, contains S4-like domain	YlmH			
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_06735	COG1387	ER	Histidinol phosphatase or related hydrolase of the PHP family	HIS2	Histidine biosynthesis		1M65
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_06745	COG2606	J	Cys-tRNA(Pro) deacylase, prolyl-tRNA editing enzyme YbaK/EbsC	EbsC			1DBU
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_06750	COG2802	S	Uncharacterized conserved protein, LON_N-like domain, ASCH/PUA-like superfamily	LON/PUA			1ZBO
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_06755	COG0141	E	Histidinol dehydrogenase	HisD	Histidine biosynthesis		1K75
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_06770	COG3958	G	Transketolase, C-terminal subunit	TktA2			
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_06780	COG1750	R	Predicted archaeal serine protease, S18 family				
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_06795	COG0386	VI	Thioredoxin/glutathione peroxidase BtuE, reduces lipid peroxides	BtuE		22931285	2P5Q
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_06810	COG0396	O	Fe-S cluster assembly ATPase SufC	SufC			2D3W
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_06820	COG2182	G	Maltose-binding periplasmic protein MalE	MalE			1T0K
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_06825	COG4209	G	ABC-type polysaccharide transport system, permease component	LplB			4TQU
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_06830	COG5285	Q	Ectoine hydroxylase-related dioxygenase, phytanoyl-CoA dioxygenase (PhyH) family	PhyH			2A1X
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_06835	COG1177	E	ABC-type spermidine/putrescine transport system, permease component II	PotC			
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_06855	COG1033	R	Predicted exporter protein, RND superfamily	MMPL			5KHN
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_06865	COG0528	F	Uridylate kinase	PyrH	Pyrimidine biosynthesis		2BND
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_06870	COG0002	E	N-acetyl-gamma-glutamylphosphate reductase	ArgC	Arginine biosynthesis		3DR3
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_06885	COG1041	J	tRNA G10 N-methylase Trm11	Trm11	tRNA modification		5E71
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_06890	COG1610	R	Uncharacterized conserved protein YqeY, may have tRNA amino acid amidase activity	YqeY			1NG6
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_06895	COG0768	DM	Cell division protein FtsI, peptidoglycan transpeptidase (Penicillin-binding protein 2)	FtsI			6HZQ
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_06900	COG0277	C	FAD/FMN-containing lactate dehydrogenase/glycolate oxidase	GlcD			1AHU
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_06905	COG2226	H	Ubiquinone/menaquinone biosynthesis C-methylase UbiE/MenG	UbiE	Biotin biosynthesis		4OBW
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_06910	COG0300	R	Short-chain dehydrogenase	YqjQ			
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_06915	COG1321	K	Mn-dependent transcriptional regulator MntR, DtxR family	MntR			1B1B
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_06920	COG0415	L	Deoxyribodipyrimidine photolyase	PhrB			1TEZ
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_06925	COG1149	R	MinD superfamily P-loop ATPase, contains an inserted ferredoxin domain				
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_06935	COG3871	S	General stress protein 26 (function unknown)	YzzA			2I02
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_06940	COG0372	C	Citrate synthase	GltA	TCA cycle	25211225	3TQG
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_06945	COG0520	E	Selenocysteine lyase/Cysteine desulfurase	CsdA			4LW2
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_06950	COG0738	G	Fucose permease	FucP			3O7P
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_06980	COG0520	E	Selenocysteine lyase/Cysteine desulfurase	CsdA			4LW2
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_06990	COG1414	K	DNA-binding transcriptional regulator, IclR family	IclR			1MKM
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_07000	COG0834	ET	ABC-type amino acid transport/signal transduction system, periplasmic component/domain	HisJ			1GGG
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_07010	COG2227	H	2-polyprenyl-3-methyl-5-hydroxy-6-metoxy-1,4-benzoquinol methylase	UbiG	Ubiquinone biosynthesis		1BHJ
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_07015	COG3118	O	Chaperedoxin CnoX, contains thioredoxin-like and TPR-like domains, YbbN/TrxSC family	CnoX		21498507;29754824	3QDN
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_07020	COG0078	E	Ornithine carbamoyltransferase	ArgF	Arginine biosynthesis		1A1S
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_07025	COG1274	C	Phosphoenolpyruvate carboxykinase, GTP-dependent	PepCK	Gluconeogenesis		4R43
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_07035	COG0079	E	Histidinol-phosphate/aromatic aminotransferase or cobyric acid decarboxylase	HisC	Cobalamine/B12 biosynthesis		4R2N
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_07045	COG1196	D	Chromosome segregation ATPase Smc	Smc			5XG3
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_07055	COG2091	H	Phosphopantetheinyl transferase	Sfp			1QR0
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_07070	COG2001	J	MraZ, DNA-binding transcriptional regulator and inhibitor of RsmH methyltransferase activity	MraZ			1N0E
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_07080	COG0275	J	16S rRNA C1402 N4-methylase RsmH	RmsH	16S rRNA modification		1M6Y
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_07090	COG0768	DM	Cell division protein FtsI, peptidoglycan transpeptidase (Penicillin-binding protein 2)	FtsI			6HZQ
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_07095	COG0771	M	UDP-N-acetylmuramoylalanine-D-glutamate ligase	MurD	Mureine biosynthesis		1E0D
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_07100	COG0579	G	L-2-hydroxyglutarate oxidase LhgO	LhgO			3DME
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_07105	COG2086	C	Electron transfer flavoprotein, alpha and beta subunits	FixA			5OL2
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_07110	COG2025	C	Electron transfer flavoprotein, alpha subunit FixB	FixB			1EFP
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_07115	COG2759	F	Formyltetrahydrofolate synthetase	MIS1			1EG7
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_07120	COG1526	C	Formate dehydrogenase assembly factor FdhD, a sulfurtransferase	FdhD			2PW9
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_07130	COG4656	C	Na+-translocating ferredoxin:NAD+ oxidoreductase  RNF, RnfC subunit	RnfC	Na+-translocating Fd:NADH oxidoreductase		
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_07135	COG1145	C	Ferredoxin	NapF			6FAH
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_07150	COG3476	T	Tryptophan-rich sensory protein TspO/CrtK (mitochondrial benzodiazepine receptor homolog)	TspO			2MGY
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_07155	COG0148	G	Enolase	Eno	Glycolysis		1E9I
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_07160	COG0283	F	Cytidylate kinase	Cmk		19111750;25691594;28928205	3R20
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_07165	COG1032	R	Radical SAM superfamily enzyme YgiQ, UPF0313 family	YgiQ			6FD2
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_07175	COG1033	R	Predicted exporter protein, RND superfamily	MMPL			5KHN
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_07180	COG1309	K	DNA-binding protein, AcrR family, includes nucleoid occlusion protein SlmA	AcrR			2QOP
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_07185	COG2137	O	SOS response regulatory protein OraA/RecX, interacts with RecA	RecX			3C1D
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_07190	COG0468	L	RecA/RadA recombinase	RecA			1B22
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_07215	COG4581	L	Superfamily II RNA helicase	Dob10			4A4Z
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_07220	COG0266	L	Formamidopyrimidine-DNA glycosylase	Nei			1EE8
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_07225	COG1124	EP	ABC-type dipeptide/oligopeptide/nickel transport system, ATPase component	DppF			
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_07245	COG3346	O	Cytochrome oxidase assembly protein ShyY1	Shy1			
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_07270	COG0842	V	ABC-type multidrug transport system, permease component	YadH			
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_07275	COG4987	CO	ABC-type transport system involved in cytochrome bd biosynthesis, fused ATPase and permease components	CydC			
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_07280	COG0498	E	Threonine synthase	ThrC	Threonine biosynthesis		1VB3
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_07295	COG1070	G	Sugar (pentulose or hexulose) kinase	XylB	Non-phosphorylated Entner-Doudoroff pathway		4C23
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_07300	COG0297	G	Glycogen synthase	GlgA			1RZU
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_07305	COG0110	R	Acetyltransferase, isoleucine patch superfamily	WbbJ			
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_07310	COG1449	G	Alpha-amylase/alpha-mannosidase, GH57 family				1K1W
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_07315	COG2227	H	2-polyprenyl-3-methyl-5-hydroxy-6-metoxy-1,4-benzoquinol methylase	UbiG	Ubiquinone biosynthesis		1BHJ
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_07320	COG2086	C	Electron transfer flavoprotein, alpha and beta subunits	FixA			5OL2
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_07325	COG2025	C	Electron transfer flavoprotein, alpha subunit FixB	FixB			1EFP
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_07330	COG0076	E	Glutamate or tyrosine decarboxylase or a related PLP-dependent protein	GadA	Pantothenate/CoA biosynthesis		1XEY
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_07335	COG1606	R	ATP-utilizing enzyme, PP-loop superfamily				6B2O
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_07345	COG0272	L	NAD-dependent DNA ligase	Lig			5TT5
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_07385	COG2226	H	Ubiquinone/menaquinone biosynthesis C-methylase UbiE/MenG	UbiE	Biotin biosynthesis		4OBW
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_07390	COG0075	EF	Archaeal aspartate aminotransferase or a related aminotransferase, includes purine catabolism protein PucG	PucG	Serine biosynthesis		3NNK
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_07395	COG4243	R	Vitamin K epoxide reductase (VKOR) family protein, predicted involvement in disulfide bond formation			24576574	3KP9
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_07400	COG2864	C	Cytochrome b subunit of formate dehydrogenase	FdnI			1KQF
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_07445	COG2085	R	Predicted dinucleotide-binding enzyme				2VNS
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_07450	COG0414	H	Panthothenate synthetase	PanC	Pantothenate/CoA biosynthesis	17968677	1DIN
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_07455	COG0029	H	Aspartate oxidase	NadB	NAD biosynthesis		1KNP
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_07460	COG0826	J	23S rRNA C2501 and tRNA U34 5'-hydroxylation protein RlhA/YrrN/YrrO, U32 peptidase family	RlhA	23S rRNA modification	31253794;31358606	5D88
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_07465	COG1521	H	Pantothenate kinase type III	CoaX			2F9T
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_07470	COG0173	J	Aspartyl-tRNA synthetase	AspS	Aminoacyl-tRNA synthetases		1C0A
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_07475	COG1246	E	N-acetylglutamate synthase or related acetyltransferase, GNAT family	ArgA	Arginine biosynthesis		2R98
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_07480	COG2352	C	Phosphoenolpyruvate carboxylase	Ppc	Urea cycle		1FIY
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_07495	COG1712	E	L-aspartate dehydrogenase, NAD(P)-dependent	AspD		12496312	1H2H
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_07500	COG0460	E	Homoserine dehydrogenase	ThrA	Methionine biosynthesis	29124164	5AVO
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_07510	COG3402	S	Uncharacterized membrane protein YdbS, contains bPH2 (bacterial pleckstrin homology) domain	YdbS			
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_07515	COG1551	T	sRNA-binding carbon storage regulator CsrA	CsrA			1T3O
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_07520	COG1699	N	Flagellar assembly factor FliW	FliW			2AJ7
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_07530	COG4786	N	Flagellar basal body rod protein FlgG	FlgG			6JZR
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_07540	COG0568	K	DNA-directed RNA polymerase, sigma subunit (sigma70/sigma32)	RpoD	RNA polymerase		1SIG
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_07565	COG1192	DN	ParA-like ATPase involved in chromosome/plasmid partitioning or cellulose biosynthesis protein BcsQ	ParA			6NOO
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_07570	COG1149	R	MinD superfamily P-loop ATPase, contains an inserted ferredoxin domain				
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_07580	COG0251	V	Enamine deaminase RidA, house cleaning of reactive enamine intermediates, YjgF/YER057c/UK114 family	RidA	Pyrimidine degradation	22094463;32205462	1J7H
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_07585	COG0494	V	8-oxo-dGTP pyrophosphatase MutT and related house-cleaning NTP pyrophosphohydrolases, NUDIX family	MutT			4V14
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_07590	COG0491	R	Glyoxylase or a related metal-dependent hydrolase, beta-lactamase superfamily II	GloB		25670698	1QH3
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_07600	COG1194	L	Adenine-specific DNA glycosylase, acts on AG and A-oxoG pairs	MutY			1KG2
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_07605	COG0526	O	Thiol-disulfide isomerase or thioredoxin	TrxA			1XFL
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_07610	COG0494	V	8-oxo-dGTP pyrophosphatase MutT and related house-cleaning NTP pyrophosphohydrolases, NUDIX family	MutT			4V14
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_07615	COG0265	O	Periplasmic serine protease, S1-C subfamily, contain C-terminal PDZ domain	DegQ		29686141	2HGA
+Actinomycetales_bacterium_NAT49_ASM270166v2	GCA_002701665.2	ODOLAA_07645	COG0086	K	DNA-directed RNA polymerase, beta' subunit/160 kD subunit	RpoC	RNA polymerase		1NT9
