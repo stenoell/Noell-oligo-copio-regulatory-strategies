@@ -1,0 +1,28 @@
+COG,COG_category
+A,A: RNA processing and modification
+B,B: Chromatin Structure and dynamics
+C,C: Energy production and conversion
+D,D: Cell cycle control and mitosis
+E,E: Amino Acid metabolis and transport
+F,F: Nucleotide metabolism and transport
+G,G: Carbohydrate metabolism and transport
+H,H: Coenzyme metabolism
+I,I: Lipid metabolism
+J,J: Tranlsation
+K: other,K: Transcription - Other
+K: transcriptional regulators,K: Transcription - Transcriptional Regulators
+L,L: Replication and repair
+M,M: Cell wall/membrane/envelop biogenesis
+N: other,N: Cell motility - Other
+N: flagella,N: Cell motility - Flagella
+O: PTM,O: PTM
+O,"O: PTM, protein turnover, chaperone functions - Other"
+P,P: Inorganic ion transport and metabolism
+Q,Q: Secondary Structure
+T: other,T:  Signal Transduction - Other
+T: Chemotaxis,T: Signal Transduction - Chemotaxis
+U,U: Intracellular trafficing and secretion
+Y,Y: Nuclear structure
+Z,Z: Cytoskeleton
+R,R: General Functional Prediction only
+S,S: Function Unknown
