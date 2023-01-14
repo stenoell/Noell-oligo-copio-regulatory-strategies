@@ -34,6 +34,8 @@ set.seed(57)
 
 ```{r}
 #data loading
+metadata <- read_csv("metadata_all2.csv", show_col_types = FALSE) %>%
+  as.data.frame(.)
 
 all_cogs <- list.files(pattern="*.cog") %>%
   map_df(~read_tsv(., col_types = cols(.default = "c")))
@@ -189,10 +191,10 @@ test_df_v2 <- test_df %>%
 enrich_plot <- ggplot(test_df_v2, aes(x = COG_category, y = Diff, fill = Significant)) +
   geom_col(color = "#1f78b4") +
   theme_bw() +
-  theme(axis.text.x = element_text(size=13),
-        axis.title.x = element_text(size = 14),
-        axis.text.y = element_text(size = 14),
-        axis.title.y = element_text(size = 15),
+  theme(axis.text.x = element_text(size=12),
+        axis.title.x = element_text(size = 12),
+        axis.text.y = element_text(size = 12),
+        axis.title.y = element_text(size = 12),
         legend.position = "bottom") +
   coord_flip(ylim = c(-0.015, 0.015))+
   xlab("COG Category") +
@@ -206,10 +208,160 @@ enrich_plot
 ```
 
 ```{r}
-###Look at metadata for this sample set
+list_genomes <- as.data.frame(unique(all_cogs_df_split$accession)) %>%
+  dplyr::rename(., "accession" = 1)
 
-metadata <- read_csv("metadata_all2.csv", show_col_types = FALSE) %>%
+#Is there actually a difference in #flagella genes between copiotrophs and oligotrophs?
+
+#take list of COGS that's already been split
+
+#for each assembly id, calculate number of flagellar genes
+cogs_prop <- all_cogs_df_split %>%
+  dplyr::group_by(accession, category) %>%
+  dplyr::summarize(count=n()) %>%
+  ungroup(.) %>%
   as.data.frame(.)
+
+#normalize flagella proportion to genome completeness
+flag <- cogs_prop %>%
+  filter(., category == "N: flagella") %>%
+  inner_join(., metadata, by = "accession") %>%
+  mutate(flag.norm = count / completeness) %>%
+  select(accession, flag.norm)
+
+flag_merged <- flag %>%
+  full_join(., list_genomes)
+
+flag_merged[is.na(flag_merged)] <- 0
+
+flag_lifestyle <- EGGO_f %>%
+  inner_join(., flag_merged, by = "accession")
+
+flag_oli_mean <- flag_lifestyle %>%
+  filter(., lifestyle == "Oligotroph")
+median(flag_oli_mean$flag.norm)
+
+flag_copi_mean <- flag_lifestyle %>%
+  filter(., lifestyle == "Copiotroph")
+median(flag_copi_mean$flag.norm)
+
+flag_plot <- ggplot(flag_lifestyle, aes(x = lifestyle, y = flag.norm,
+                                         color = lifestyle)) +
+  geom_boxplot() +
+  geom_jitter(size = 0.7) +
+  theme_bw() +
+  theme(
+    axis.text.x = element_blank(),
+    axis.title.x = element_blank(),
+    axis.ticks.x = element_blank()
+  ) +
+  scale_color_manual(values=c("#4dac26","#d01c8b")) +
+  xlab("Lifestyle") +
+  ylab("Flagellar genes\nin each genome")
+
+flag_plot
+
+p.adjust(wilcox.test(flag_lifestyle$flag.norm[flag_lifestyle$lifestyle == "Copiotroph"], 
+            flag_lifestyle$flag.norm[flag_lifestyle$lifestyle == "Oligotroph"])$p.value)
+```
+
+
+```{r}
+#compare count of necessary flagellar genes between copios and oligos
+############### flhA gene
+
+flha_old <- all_cogs_df_split %>%
+  filter(name == "Flagellar biosynthesis protein FlhA")%>%
+  dplyr::group_by(accession, category) %>%
+  dplyr::summarize(count=n()) %>%
+  ungroup(.) %>%
+  as.data.frame(.)
+
+flha <- flha_old %>%
+  inner_join(., metadata, by = "accession") %>%
+  mutate(flha.norm = count / completeness) %>%
+  select(accession, flha.norm)
+
+flha_merged <- flha %>%
+  full_join(., list_genomes)
+
+flha_merged[is.na(flha_merged)] <- 0
+
+flha_lifestyle <- EGGO_f %>%
+  inner_join(., flha_merged, by = "accession")
+
+flha_oli_mean <- flha_lifestyle %>%
+  filter(., lifestyle == "Oligotroph")
+mean(flha_oli_mean$flha.norm)
+
+flha_copi_mean <- flha_lifestyle %>%
+  filter(., lifestyle == "Copiotroph")
+mean(flha_copi_mean$flha.norm)
+
+flha_plot <- ggplot(flha_lifestyle, aes(x = flha.norm,
+                                         fill = lifestyle)) +
+  geom_density(alpha=.3) +
+  theme_bw() +
+  theme (legend.position = "none") +
+  scale_fill_manual(values=c("#4dac26","#d01c8b")) +
+  xlab("Count of flhA genes in each genome") +
+  ylab("Density")
+
+flha_plot
+
+p.adjust(wilcox.test(flha_lifestyle$flha.norm[flha_lifestyle$lifestyle == "Copiotroph"], 
+            flha_lifestyle$flha.norm[flha_lifestyle$lifestyle == "Oligotroph"])$p.value)
+
+```
+
+```{r}
+################# flgA gene
+flga_old <- all_cogs_df_split %>%
+  filter(name == "Flagellar basal body P-ring formation protein FlgA")%>%
+  dplyr::group_by(accession, category) %>%
+  dplyr::summarize(count=n()) %>%
+  ungroup(.) %>%
+  as.data.frame(.)
+
+flga <- flga_old %>%
+  inner_join(., metadata, by = "accession") %>%
+  mutate(flga.norm = count / completeness) %>%
+  select(accession, flga.norm)
+
+flga_merged <- flga %>%
+  full_join(., list_genomes)
+
+flga_merged[is.na(flga_merged)] <- 0
+
+flga_lifestyle <- EGGO_f %>%
+  inner_join(., flga_merged, by = "accession")
+
+flga_oli_mean <- flga_lifestyle %>%
+  filter(., lifestyle == "Oligotroph")
+mean(flga_oli_mean$flga.norm)
+
+flga_copi_mean <- flga_lifestyle %>%
+  filter(., lifestyle == "Copiotroph")
+mean(flga_copi_mean$flga.norm)
+
+flga_plot <- ggplot(flga_lifestyle, aes(x = flga.norm,
+                                         fill = lifestyle)) +
+  geom_density(alpha=.3) +
+  theme_bw() +
+  theme (legend.position = "none") +
+  scale_fill_manual(values=c("#4dac26","#d01c8b")) +
+  xlab("Count of flgA genes in each genome") +
+  ylab("Density")
+
+flga_plot
+
+p.adjust(wilcox.test(flga_lifestyle$flga.norm[flga_lifestyle$lifestyle == "Copiotroph"], 
+            flga_lifestyle$flga.norm[flga_lifestyle$lifestyle == "Oligotroph"])$p.value)
+
+```
+
+```{r}
+###Look at metadata for this sample set
 
 metadata_all <- EGGO_f %>%
   inner_join(., metadata, by = "accession") %>%
@@ -229,7 +381,7 @@ lifestyle_genome_size <- ggplot(metadata_all, aes(x = lifestyle, y = size,
   ) +
   scale_color_manual(values=c("#4dac26","#d01c8b")) +
   xlab("Lifestyle") +
-  ylab("Genome size (mbp)")
+  ylab("Genome size\n(mbp)")
 
 lifestyle_genome_size
 
@@ -272,25 +424,36 @@ gc_oligo <- mean(gc_oligo$gc_content)
 gc_copio
 gc_oligo
 
-gc_genome <- ggarrange(lifestyle_genome_size, lifestyle_gc,
-                       labels = c("A", "B"),
+gc_genome <- ggarrange(lifestyle_genome_size, lifestyle_gc, flag_plot,
+                       labels = c("A", "B", "C"),
                        nrow = 1,
-                       ncol = 2,
+                       ncol = 3,
                        common.legend = TRUE)
 gc_genome
 
 ```
 
 ```{r}
+
+freq_dist <- ggarrange(flha_plot, flga_plot,
+                       labels = c("D", "E"),
+                       nrow = 1,
+                       ncol = 2)
+
+freq_dist
+```
+
+```{r}
 #Final plot
 
-final_plot <- ggarrange(gc_genome, enrich_plot,
-                       labels = c("", "C"),
-                       nrow = 2,
+final_plot <- ggarrange(gc_genome, freq_dist, enrich_plot,
+                       labels = c("", "", "F"),
+                       nrow = 3,
                        ncol = 1,
-                       heights = c(0.8, 1))
+                       heights = c(0.7, 0.7, 1))
 final_plot
 
-ggsave("Figure 1_functional_diff.svg", final_plot, width = 200, height = 180, units = "mm",dpi = 300)
+#ggsave("Figure 1_functional_diff.png", final_plot, width = 200, height = 180, units = "mm",dpi = 300)
+#ggsave("Figure 1_functional_diff.svg", final_plot, width = 200, height = 180, units = "mm",dpi = 300)
 
 ```
